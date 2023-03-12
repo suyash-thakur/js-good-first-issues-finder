@@ -17,9 +17,18 @@ const getGoodFirstIssues = async () => {
     for (const repo of repos.data.items) {
       const issues = await axios.get(`${apiUrl}/repos/${repo.full_name}/issues`, {
         headers: { Authorization: `token ${token}` },
-        params: { state: 'open', labels: "good first issue" },
+        params: { state: 'open', labels: "good first issue", sort: 'updated' },
       });
-      if (issues.data.length > 0) {
+
+      const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+
+      const filteredIssues = issues.data.filter(issue => {
+        const updatedAt = new Date(issue.updated_at);
+        return updatedAt > lastMonth;
+      });
+
+
+      if (filteredIssues > 0) {
         goodFirstIssues.push({ repo: repo.full_name, issues: issues.data });
       }
     }
