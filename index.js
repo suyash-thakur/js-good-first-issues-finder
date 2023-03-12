@@ -20,6 +20,7 @@ const getGoodFirstIssues = async () => {
         params: { state: 'open', labels: "good first issue", sort: 'updated' },
       });
 
+      const today = new Date();
       const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
 
       const filteredIssues = issues.data.filter(issue => {
