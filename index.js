@@ -8,30 +8,43 @@ const token = process.env.API_KEY;
 
 const getGoodFirstIssues = async () => {
   try {
-    const repos = await axios.get(`${apiUrl}/search/repositories`, {
-      headers: { Authorization: `token ${token}` },
-      params: { q: `good-first-issues:>2`, language:'javascript', sort: 'updated' },
-    });
-    const goodFirstIssues = [];
+    let goodFirstIssues = [];
+    let page = 1;
+    let issuesCount = 0;
+    let elapsedTime = 0;
 
-    for (const repo of repos.data.items) {
-      const issues = await axios.get(`${apiUrl}/repos/${repo.full_name}/issues`, {
+    const start = Date.now();
+
+    while (elapsedTime < 2 * 60 * 1000 && issuesCount < 30) {
+      const repos = await axios.get(`${apiUrl}/search/repositories`, {
         headers: { Authorization: `token ${token}` },
-        params: { state: 'open', labels: "good first issue", sort: 'updated' },
+        params: { q: `good-first-issues:>2`, language: 'javascript', sort: 'updated', page },
       });
 
-      const today = new Date();
-      const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+      for (const repo of repos.data.items) {
+        console.log(`Fetching issues for ${repo.full_name}`);
+        const issues = await axios.get(`${apiUrl}/repos/${repo.full_name}/issues`, {
+          headers: { Authorization: `token ${token}` },
+          params: { state: 'open', labels: 'good first issue', sort: 'updated' },
+        });
 
-      const filteredIssues = issues.data.filter(issue => {
-        const updatedAt = new Date(issue.updated_at);
-        return updatedAt > lastMonth;
-      });
+        const today = new Date();
+        const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
 
+        const filteredIssues = issues.data.filter(issue => {
+          const updatedAt = new Date(issue.updated_at);
+          return updatedAt > lastMonth;
+        });
 
-      if (filteredIssues > 0) {
-        goodFirstIssues.push({ repo: repo.full_name, issues: issues.data });
+        if (filteredIssues.length > 0) {
+          goodFirstIssues.push({ repo: repo.full_name, issues: filteredIssues });
+          issuesCount += filteredIssues.length;
+        }
       }
+
+      page++;
+      elapsedTime = Date.now() - start;
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
 
     let markdown = `# Good First Issues\n\nThis is a list of javascript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
@@ -43,7 +56,6 @@ const getGoodFirstIssues = async () => {
       }
       markdown += '\n';
     }
-
 
     fs.writeFileSync('README.md', markdown);
   } catch (error) {
