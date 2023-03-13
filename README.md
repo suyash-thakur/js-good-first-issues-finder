@@ -4,36 +4,9 @@ This is a list of javascript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+## [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
 
-- [[COMPILER REQUEST]: Update to SDCC 4.2.2](https://github.com/compiler-explorer/compiler-explorer/issues/4561)
-- [Try and reduce deduplication in asm-parser-ewavr](https://github.com/compiler-explorer/compiler-explorer/issues/4689)
-- [TypeError: Cannot read properties of undefined (reading 'split')](https://github.com/compiler-explorer/compiler-explorer/issues/4456)
-- [[REQUEST]: Be able to save compiler assembly output](https://github.com/compiler-explorer/compiler-explorer/issues/3695)
-- [[BUG] Problem with MOVABS opcode: error fetching documentation](https://github.com/compiler-explorer/compiler-explorer/issues/4481)
-
-## [llvm/circt](https://github.com/llvm/circt)
-
-- [[InferResets] Use common helpers for field id ](https://github.com/llvm/circt/issues/4760)
-- [[firrtl] Improve Initialization Error Messages](https://github.com/llvm/circt/issues/4087)
-
-## [jambonz/jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server)
-
-- [Adding wildcard phonenumbers not working](https://github.com/jambonz/jambonz-feature-server/issues/271)
-
-## [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm)
-
-- [Sorting Should Ignore “a,” “an,” and “the” ](https://github.com/bookwyrm-social/bookwyrm/issues/2678)
-- [Better signal which form fields have validation errors](https://github.com/bookwyrm-social/bookwyrm/issues/2712)
-- [Use a github action to update locales](https://github.com/bookwyrm-social/bookwyrm/issues/2706)
-- [Feed Links Are Confusing Because Font Colors Appear Reversed](https://github.com/bookwyrm-social/bookwyrm/issues/2697)
-- [Sort/Filter Reviews by Follower Status](https://github.com/bookwyrm-social/bookwyrm/issues/2014)
-- [Edit Page Should Say What Is Being Edited](https://github.com/bookwyrm-social/bookwyrm/issues/2671)
-- [Allow the language of user content to be specified](https://github.com/bookwyrm-social/bookwyrm/issues/1035)
-
-## [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer)
-
-- [Update scanner versions to 3.5 for Kamera/Artiscan/Adepti](https://github.com/frzyc/genshin-optimizer/issues/1054)
+- [Transform2D is missing xform and xform_inv methods](https://github.com/godotengine/godot-docs/issues/6785)
 
 ## [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 
@@ -41,36 +14,22 @@ This list gets updated every day at midnight.
 - [Windows 64-bit, Microsoft Visual Studio - it works like a charm after those fixes!](https://github.com/ggerganov/llama.cpp/issues/22)
 - [Suppress output that isn't from the model](https://github.com/ggerganov/llama.cpp/issues/5)
 
-## [decidim/decidim](https://github.com/decidim/decidim)
+## [apple/swift](https://github.com/apple/swift)
 
-- [Hidden moderated proposals are exported ](https://github.com/decidim/decidim/issues/6398)
-
-## [ezasm-org/EzASM](https://github.com/ezasm-org/EzASM)
-
-- [Customizable Tab Size](https://github.com/ezasm-org/EzASM/issues/53)
-
-## [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
-
-- [Disable JavaScript Function on Desktop](https://github.com/ruffle-rs/ruffle/issues/9316)
-- [Keyboard shortcuts for Control Options](https://github.com/ruffle-rs/ruffle/issues/8020)
-
-## [mdn/content](https://github.com/mdn/content)
-
-- [Incorrect note about `list-style-position` behaviors across browers](https://github.com/mdn/content/issues/24502)
-- [HTMLScriptElement.supports() example does not use textarea](https://github.com/mdn/content/issues/24954)
-- [Invalid `import().then()` example](https://github.com/mdn/content/issues/24838)
-- [Issue with "Document: drop event": Mention that drop won't fire unless you preventDefault in dragover](https://github.com/mdn/content/issues/9796)
-
-## [zhiburt/tabled](https://github.com/zhiburt/tabled)
-
-- [Add `ascii` feature](https://github.com/zhiburt/tabled/issues/303)
-- [Add `Split` settings.](https://github.com/zhiburt/tabled/issues/290)
-- [Develop a configuration format](https://github.com/zhiburt/tabled/issues/292)
-- [Add a new macro argument for enums to change a flag value ](https://github.com/zhiburt/tabled/issues/282)
-
-## [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
-
-- [Valid commands following redirection symbols at command line start are colored as $fish_color_command instead of $fish_color_error](https://github.com/fish-shell/fish-shell/issues/8877)
+- [[SR-778] Forgetting the in keyword can sometimes lead to compiling code](https://github.com/apple/swift/issues/43390)
+- [[SR-340] Refactor SILParser::parseSILInstruction](https://github.com/apple/swift/issues/42962)
+- [[SR-385] Replace test/Interpreter/SDK/Inputs/libTestLoad.dylib with source code](https://github.com/apple/swift/issues/43002)
+- [[SR-342] Convert or add *.sil version of all *.swift tests in test/SILOptimizer and test/IRGen](https://github.com/apple/swift/issues/42964)
+- [[SR-341] Make test/SIL/Parser/witness_with_inherited_gp.sil not depend on stdlib and remove XFAIL](https://github.com/apple/swift/issues/42963)
+- [[SR-339] SILParser needs grammar documentation](https://github.com/apple/swift/issues/42961)
+- [Improve out-of-place binding diagnostic to reflect whether the binding was written as 'var' or 'let'](https://github.com/apple/swift/issues/63993)
+- [[SR-15176] Fixit for `override func` that should be `override var`](https://github.com/apple/swift/issues/57499)
+- [[SR-11421] Checked Cast Diagnostics Should Be More Specific When Literals Are Involved](https://github.com/apple/swift/issues/53822)
+- [Optional boolean doesn't satisfy switch exhaustivity with literal case statements](https://github.com/apple/swift/issues/61817)
+- [[SR-10988] Suggest `return` when the last statement of a multi-statement function body would be a valid return value](https://github.com/apple/swift/issues/53378)
+- [[SR-15271] Improve Codable Diagnostics When CodingKeys Do Not Match Properties](https://github.com/apple/swift/issues/57593)
+- [[SR-125] Add rotate algorithm](https://github.com/apple/swift/issues/42747)
+- [Improve the error message for passing `(any P)?` to `(some P)?`](https://github.com/apple/swift/issues/61733)
 
 ## [apache/doris](https://github.com/apache/doris)
 
@@ -81,69 +40,131 @@ This list gets updated every day at midnight.
 - [[Enhancement] Support microseconds in function `unix_timestamp`](https://github.com/apache/doris/issues/16560)
 - [[Enhancement] Support microseconds for function `timediff`](https://github.com/apache/doris/issues/17174)
 
+## [mdn/translated-content](https://github.com/mdn/translated-content)
+
+- [Drop "in this module" from Learn for l18n pages](https://github.com/mdn/translated-content/issues/11653)
+- [语句的歧义](https://github.com/mdn/translated-content/issues/12060)
+- [Update all browser compat/spec sections](https://github.com/mdn/translated-content/issues/11594)
+- [Remove duplicated frontmatter keys from localized content](https://github.com/mdn/translated-content/issues/7412)
+- [Issue with "Руководство часть 6: Отображение списков и детальн…": (short summary here please)](https://github.com/mdn/translated-content/issues/3698)
+- ["Коды ответа HTTP" landing page doesn't link to 451 page](https://github.com/mdn/translated-content/issues/4999)
+- [Content bug: "Introducing JavaScript objects": (links on lessons and their sequence in RU version)](https://github.com/mdn/translated-content/issues/4846)
+- [es / pt-BR: MDN/Writing_guidelines/Page_structures need to be re-translated](https://github.com/mdn/translated-content/issues/11608)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [next/head removing injected scripts](https://github.com/vercel/next.js/issues/11012)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
+- [Common Next.js issues that could use integrated ESLint rules](https://github.com/vercel/next.js/issues/27051)
+- [[Examples] Provide example of using Pulumi to deploy NextJS app on AWS](https://github.com/vercel/next.js/issues/16643)
+
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+
+- [Implement autogenerated mocks for GraphQL API from schema](https://github.com/cncf/landscape-graph/issues/103)
+
+## [Oneirocom/Magick](https://github.com/Oneirocom/Magick)
+
+- [Improve messages in empty windows](https://github.com/Oneirocom/Magick/issues/358)
+- [Add minimap plugin](https://github.com/Oneirocom/Magick/issues/354)
+- [import/export project](https://github.com/Oneirocom/Magick/issues/54)
+- [Add Rete Connection Path Plugin](https://github.com/Oneirocom/Magick/issues/353)
+
+## [eclipse/sumo](https://github.com/eclipse/sumo)
+
+- [modify chargingStation attributes at runTime](https://github.com/eclipse/sumo/issues/12772)
+- [retrieve road angle](https://github.com/eclipse/sumo/issues/10901)
+- [allow default tls params in netconvert](https://github.com/eclipse/sumo/issues/10836)
+- [webWizard build.bat does not reproduce original webWizard szenario](https://github.com/eclipse/sumo/issues/8660)
+- [add tool to generate edgeData definitions for aggregated junction statistics](https://github.com/eclipse/sumo/issues/12064)
+- [revisit SUMOlympics tutorial](https://github.com/eclipse/sumo/issues/10962)
+- [add option --geometry.remove.ignore-crossings](https://github.com/eclipse/sumo/issues/11432)
+- [ferry import in osmWebWizard](https://github.com/eclipse/sumo/issues/8628)
+- [ I want to get the time when a vehicle was inserted,what should I do?](https://github.com/eclipse/sumo/issues/7891)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Desktop] optimize Clock drop down on Customize Dashboard settings for dark theme ](https://github.com/brave/brave-browser/issues/12060)
+- [Bug: About Brave Page Spacing Problem](https://github.com/brave/brave-browser/issues/13286)
+- [Don't run `postInstall` scripts](https://github.com/brave/brave-browser/issues/28419)
+- [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+
+## [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
+
+- [Disable JavaScript Function on Desktop](https://github.com/ruffle-rs/ruffle/issues/9316)
+- [Keyboard shortcuts for Control Options](https://github.com/ruffle-rs/ruffle/issues/8020)
+
+## [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet)
+
+- [`satisfies` for type definitions](https://github.com/DanielXMoore/Civet/issues/271)
+- [`null`/`undefined` type shorthands](https://github.com/DanielXMoore/Civet/issues/242)
+- [Integrating Svelte?](https://github.com/DanielXMoore/Civet/issues/351)
+
 ## [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 - [Casks without zap](https://github.com/Homebrew/homebrew-cask/issues/88469)
 
-## [hackclub/sinerider](https://github.com/hackclub/sinerider)
+## [owncast/owncast](https://github.com/owncast/owncast)
 
-- [Create a string lookup system so we can support multiple languages](https://github.com/hackclub/sinerider/issues/128)
+- [User moderator chat details modal throws exception](https://github.com/owncast/owncast/issues/2755)
+- [Confirmation mark needs a bit of padding](https://github.com/owncast/owncast/issues/2751)
+- [Nitpicky detail: resolution placeholders aren't 16x9](https://github.com/owncast/owncast/issues/2799)
+- [Chat user details modal in the admin has incorrect white text](https://github.com/owncast/owncast/issues/2772)
+- [Page vertical spacing layout issues](https://github.com/owncast/owncast/issues/2668)
+- [Slider anchor points not visible with stream quality steps](https://github.com/owncast/owncast/issues/2750)
+- [If chat user is banned an empty chat sidebar displays](https://github.com/owncast/owncast/issues/2764)
+- [Set stream title in video tag for iframe embed of owncast streaming url](https://github.com/owncast/owncast/issues/2702)
 
-## [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
+## [hackforla/website](https://github.com/hackforla/website)
 
-- [Make docker container contain all environments for all examples](https://github.com/DAGWorks-Inc/hamilton/issues/75)
-- [Add documentation showing %%writefile in a notebook](https://github.com/DAGWorks-Inc/hamilton/issues/35)
-- [Add ResultMixin implementations for Dask native types](https://github.com/DAGWorks-Inc/hamilton/issues/20)
+- [Expunge Assist: Update alt text for Expunge Assist image to adhere to WCAG](https://github.com/hackforla/website/issues/3998)
+- [Edit content field and remove type field from group.yml credits file](https://github.com/hackforla/website/issues/2833)
+- [Pre-work Checklist: Developer: YooJin Chang](https://github.com/hackforla/website/issues/3711)
+- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/3974)
+- [Update the HackforLA Donate Design page in Figma to reflect changes on site ](https://github.com/hackforla/website/issues/4051)
+- [Work for LA: Update alt text for the Work for LA image to adhere to WCAG](https://github.com/hackforla/website/issues/4031)
+- [Linkedin Letter for API Request ](https://github.com/hackforla/website/issues/1076)
+- [Civic Tech Jobs: Update alt text for Civic Tech Jobs image to adhere to WCAG](https://github.com/hackforla/website/issues/3950)
+- [Home Unite Us: Update alt text for Home Unite Us image to adhere to WCAG](https://github.com/hackforla/website/issues/4012)
+- [Light The Way: Update alt text for Light The Way image to adhere to WCAG](https://github.com/hackforla/website/issues/4014)
+- [Jobs for Hope: Update alt text for Jobs for Hope image to adhere to WCAG](https://github.com/hackforla/website/issues/4013)
+- [GreenEarthOS: Update alt text for GreenEarthOS image to adhere to WCAG](https://github.com/hackforla/website/issues/4000)
+- [Engage: Update alt text for Engage image to adhere to WCAG](https://github.com/hackforla/website/issues/3997)
+- [EMS Triage Tracker: Update alt text for EMS Triage Tracker image to adhere to WCAG](https://github.com/hackforla/website/issues/3987)
+- [Add sort by feature to the project board](https://github.com/hackforla/website/issues/1742)
 
-## [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+## [oilshell/oil](https://github.com/oilshell/oil)
 
-- [[Viu] URLs are using generic extractor instead of Viu extractor](https://github.com/yt-dlp/yt-dlp/issues/6482)
-- [Using --abort-on-error flag causes an error when YouTube channel has no videos uploaded](https://github.com/yt-dlp/yt-dlp/issues/5906)
-- [Support requst for DLF ](https://github.com/yt-dlp/yt-dlp/issues/6430)
-- [[boosty.to] now showing unsupported URL ](https://github.com/yt-dlp/yt-dlp/issues/5900)
-- [[livestream extractor] Unable to download JSON metadata (HTTP Error 404)](https://github.com/yt-dlp/yt-dlp/issues/2225)
-- [Donate link in README.md doesn't work on PyPI (but does work on GitHub)](https://github.com/yt-dlp/yt-dlp/issues/6271)
+- [globs not expanded in redirects, and we use this in `deps/from-binary.sh`](https://github.com/oilshell/oil/issues/1521)
+- [nocasematch shell option doesn't seem to work](https://github.com/oilshell/oil/issues/701)
 
-## [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+## [visit-dav/visit](https://github.com/visit-dav/visit)
 
-- [fix corner borders in nft menu](https://github.com/coral-xyz/backpack/issues/3318)
-- [white dev backpack icon not visible on default windows chrome theme](https://github.com/coral-xyz/backpack/issues/3211)
-- [add Backpack to web3-react](https://github.com/coral-xyz/backpack/issues/1181)
-- [add Backpack to web3-onboard ](https://github.com/coral-xyz/backpack/issues/1182)
-- [add Backpack to wagmi](https://github.com/coral-xyz/backpack/issues/1183)
-- [cannot nfts send to ANS or SNS domains ](https://github.com/coral-xyz/backpack/issues/3246)
-- [Add alt characters for Inter numbers 1, 3, 6 and 9](https://github.com/coral-xyz/backpack/issues/3200)
-- [Improve contact profile page](https://github.com/coral-xyz/backpack/issues/2550)
-- [Drawer polish (light mode only)](https://github.com/coral-xyz/backpack/issues/2760)
-- [don't allow wallet names to start with @](https://github.com/coral-xyz/backpack/issues/3202)
-- [Round-up long token balances to increase legibility and prevent overflowing numbers](https://github.com/coral-xyz/backpack/issues/2921)
-- [Update icon for recent activity](https://github.com/coral-xyz/backpack/issues/2122)
-- [developer mode transaction simulation with advanced details](https://github.com/coral-xyz/backpack/issues/2977)
-- [NFT Send button hover state text should be white in light mode](https://github.com/coral-xyz/backpack/issues/2540)
-- [wallet adapter doesn't automatically update when the backpack account updates](https://github.com/coral-xyz/backpack/issues/2749)
-- [name service lookup for messaging](https://github.com/coral-xyz/backpack/issues/2764)
-- [font on toasts and jump to bottom looks different](https://github.com/coral-xyz/backpack/issues/2814)
-- [swap screen should have a price/rate even when amount is 0](https://github.com/coral-xyz/backpack/issues/2864)
-- [removed contact still shows up on my contacts](https://github.com/coral-xyz/backpack/issues/2813)
-- [add zoom controls to nft image detail page](https://github.com/coral-xyz/backpack/issues/2145)
-- [unfriend should be in the profile page (not the contacts page)](https://github.com/coral-xyz/backpack/issues/2318)
-- [Notification avatar should be at the top left of the notification list item](https://github.com/coral-xyz/backpack/issues/2499)
+- [Have zipwrapper understand compressed tar files.](https://github.com/visit-dav/visit/issues/4282)
 
-## [eto-ai/lance](https://github.com/eto-ai/lance)
+## [CMPUT301W23T30/copilot-worship](https://github.com/CMPUT301W23T30/copilot-worship)
 
-- [Optimize random reads over boolean array](https://github.com/eto-ai/lance/issues/629)
-- [Add cargo cache to github actions](https://github.com/eto-ai/lance/issues/631)
-- [[DuckDB] Support predicate pushdown via duckdb extension](https://github.com/eto-ai/lance/issues/642)
-- [Create pylance build for conda environment](https://github.com/eto-ai/lance/issues/636)
-- [[DuckDB] Implement replacement scan function for Lance Scan in DuckDB](https://github.com/eto-ai/lance/issues/641)
-- [[DuckDB] Expose vector search capability via duckdb extension](https://github.com/eto-ai/lance/issues/640)
-- [Speed up mac builds](https://github.com/eto-ai/lance/issues/630)
-- [overwrite and append mode behavior](https://github.com/eto-ai/lance/issues/568)
-- [Expose index stats for debugging](https://github.com/eto-ai/lance/issues/617)
-- [Dataset or TakeExec cache the opened fragment.](https://github.com/eto-ai/lance/issues/614)
-- [friendlier error messages in nearest API](https://github.com/eto-ai/lance/issues/515)
-- [[Rust] FileWriter honors `max_rows_per_group` and `max_rows_per_file` exactly. ](https://github.com/eto-ai/lance/issues/455)
-- [Support version tagging](https://github.com/eto-ai/lance/issues/588)
-- [better installation documentation and troubleshooting ](https://github.com/eto-ai/lance/issues/566)
-- [[DuckDB] Filters pushdown via native lance reader (`lance_scan`)](https://github.com/eto-ai/lance/issues/353)
+- [Add hashing algorithm](https://github.com/CMPUT301W23T30/copilot-worship/issues/44)
+- [US 02.05.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/12)
+- [US 02.06.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/13)
+- [US.02.01.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/8)
+- [US 07.02.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/20)
+- [US 07.01.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/19)
+- [US 05.01.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/16)
+- [US 04.01.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/14)
+- [US 02.04.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/11)
+- [US 01.01.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/1)
+- [US 01.02.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/2)
+- [US 02.03.01](https://github.com/CMPUT301W23T30/copilot-worship/issues/10)
+
+## [nod-ai/SHARK](https://github.com/nod-ai/SHARK)
+
+- [Feature Request: Add DEIS scheduler](https://github.com/nod-ai/SHARK/issues/1076)
+- [Feature Request: Ability to add an argument file with exe](https://github.com/nod-ai/SHARK/issues/1045)
+- [Replace all the print statements with a logger](https://github.com/nod-ai/SHARK/issues/1032)
 
