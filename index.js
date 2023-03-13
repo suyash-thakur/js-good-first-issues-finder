@@ -21,7 +21,9 @@ const getGoodFirstIssues = async () => {
         params: { q: `good-first-issues:>2`, language: 'javascript', sort: 'updated', page },
       });
 
-      for (const repo of repos.data.items) {
+      const javascriptRepos = repos.data.items.filter((repo) => repo.language === 'JavaScript');
+
+      for (const repo of javascriptRepos) {
         console.log(`Fetching issues for ${repo.full_name}`);
         const issues = await axios.get(`${apiUrl}/repos/${repo.full_name}/issues`, {
           headers: { Authorization: `token ${token}` },
