@@ -16,24 +16,14 @@ This list gets updated every day at midnight.
 - [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 
-## [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile)
+## [DSGT-DLP/Deep-Learning-Playground](https://github.com/DSGT-DLP/Deep-Learning-Playground)
 
-- [Use "list" icon for all-messages, matching web's new icon there](https://github.com/zulip/zulip-mobile/issues/5303)
-- [Rename "Night mode" to "Dark theme"](https://github.com/zulip/zulip-mobile/issues/5169)
+- [tmux integration](https://github.com/DSGT-DLP/Deep-Learning-Playground/issues/602)
+- [Install Tag for Google Optimize in order to do A/B Testing](https://github.com/DSGT-DLP/Deep-Learning-Playground/issues/600)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [CodeYourFuture/syllabus](https://github.com/CodeYourFuture/syllabus)
 
-- [config_option shortcode is escaping HTML](https://github.com/open-telemetry/opentelemetry.io/issues/2489)
-- [Fill remaining JS Metrics docs gaps](https://github.com/open-telemetry/opentelemetry.io/issues/2052)
-
-## [mui/material-ui](https://github.com/mui/material-ui)
-
-- [error is not part of the ownerState when overriding styles within a custom theme for MuiSelect](https://github.com/mui/material-ui/issues/36269)
-- [[design-system] Support error|success|warning|info by default in color prop](https://github.com/mui/material-ui/issues/24778)
-
-## [ripple/explorer](https://github.com/ripple/explorer)
-
-- [Support other currency/issuer formats](https://github.com/ripple/explorer/issues/624)
+- [Lighthouse CI Github Action to run on HTML repos](https://github.com/CodeYourFuture/syllabus/issues/529)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -47,38 +37,42 @@ This list gets updated every day at midnight.
 - [Common Next.js issues that could use integrated ESLint rules](https://github.com/vercel/next.js/issues/27051)
 - [[Examples] Provide example of using Pulumi to deploy NextJS app on AWS](https://github.com/vercel/next.js/issues/16643)
 
-## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+## [facebook/react](https://github.com/facebook/react)
 
-- [[FEATURE] Add location to in-person events](https://github.com/EddieHubCommunity/LinkFree/issues/4132)
-- [[FEATURE] Card and hover effect on docs page](https://github.com/EddieHubCommunity/LinkFree/issues/4944)
-- [[FEATURE] If profile only has links then do not show dropdown or tab](https://github.com/EddieHubCommunity/LinkFree/issues/3080)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [add new UIString for non-composited-animations due to custom properties](https://github.com/GoogleChrome/lighthouse/issues/14521)
+- [Batch Download of traces](https://github.com/jaegertracing/jaeger-ui/issues/663)
+- [[chore]: Upgrade redux-actions to 3.x](https://github.com/jaegertracing/jaeger-ui/issues/1260)
+- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
+- [[chore]: minimize eslint setting overrides](https://github.com/jaegertracing/jaeger-ui/issues/1258)
+- [[Feature]: Additional configuration to prevent the creation of a new tab and use of file upload controls](https://github.com/jaegertracing/jaeger-ui/issues/1211)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [[TRIGGER] Outlook - Event notification](https://github.com/PipedreamHQ/pipedream/issues/5653)
-- [[ACTION] Zoom Admin - List Webinar participants report](https://github.com/PipedreamHQ/pipedream/issues/5698)
-- [[ACTION] Twilio Verify](https://github.com/PipedreamHQ/pipedream/issues/5694)
-- [[TRIGGER] Update ClickUp](https://github.com/PipedreamHQ/pipedream/issues/5690)
-- [[ACTION] Tumblr - Create new post](https://github.com/PipedreamHQ/pipedream/issues/5525)
-- [[ACTION] Enhancement: Support send from email for Gmail action](https://github.com/PipedreamHQ/pipedream/issues/5663)
-- [[ACTION] Pipedream Data Stores / Helper Action](https://github.com/PipedreamHQ/pipedream/issues/5640)
-- [Facebook / Meta Conversions API](https://github.com/PipedreamHQ/pipedream/issues/4702)
-- [[TRIGGER] GitHub New Discussion](https://github.com/PipedreamHQ/pipedream/issues/5520)
-- [[ACTION] Harvest - Get Projects](https://github.com/PipedreamHQ/pipedream/issues/5604)
-- [[ACTION] Wise get Balance statement](https://github.com/PipedreamHQ/pipedream/issues/5463)
-- [[ACTION] Gmail (Developer App) - Download Attachment to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/5533)
-- [[ACTION] Discord - Edit Message](https://github.com/PipedreamHQ/pipedream/issues/4867)
-- [[ACTION] Discord - Get Message](https://github.com/PipedreamHQ/pipedream/issues/5440)
-- [[Refactor] Support Twitter v2 API and OAuth 2.0](https://github.com/PipedreamHQ/pipedream/issues/5489)
+- [Idea: The Canvas border line](https://github.com/hackclub/sprig/issues/903)
+- [Idea: Modify Email Link to "Find your games"](https://github.com/hackclub/sprig/issues/838)
+- [Suggestion: Sprig Dino profile picture](https://github.com/hackclub/sprig/issues/818)
 
-## [neuland-ingolstadt/neuland.app](https://github.com/neuland-ingolstadt/neuland.app)
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 
-- [Event calendar export to private calendar](https://github.com/neuland-ingolstadt/neuland.app/issues/205)
-- [Neuburg Campus Transportation Overview](https://github.com/neuland-ingolstadt/neuland.app/issues/204)
-- [Show favorite events in the lecture timetable](https://github.com/neuland-ingolstadt/neuland.app/issues/206)
-- [Button for adding exams to your system calendar](https://github.com/neuland-ingolstadt/neuland.app/issues/9)
+- [Remove startAccessibleSketch() ](https://github.com/processing/p5.js-web-editor/issues/585)
+- [console.table display bug](https://github.com/processing/p5.js-web-editor/issues/1520)
+- [Friendly error links have poor color contrast](https://github.com/processing/p5.js-web-editor/issues/2046)
+
+## [actualbudget/actual](https://github.com/actualbudget/actual)
+
+- [[Feature] Clarify that on/off budget status can’t be changed later](https://github.com/actualbudget/actual/issues/753)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Account creation: update copies for WooCommerce](https://github.com/Automattic/wp-calypso/issues/74148)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Welcome Tour: update copy for pattern assembler experience](https://github.com/Automattic/wp-calypso/issues/74089)
+- [Welcome Tour: update when/how it appears in the site editor and/or browse mode](https://github.com/Automattic/wp-calypso/issues/72533)
+- [Add info icon button with popover component](https://github.com/Automattic/wp-calypso/issues/45449)
+- [Nav Unification: account for color changes in WordPress 5.7](https://github.com/Automattic/wp-calypso/issues/49517)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
 
