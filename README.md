@@ -10,20 +10,12 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [[Android] Share button doesn't use HTTPS upgraded URLs](https://github.com/brave/brave-browser/issues/11383)
 - [[Desktop] optimize Clock drop down on Customize Dashboard settings for dark theme ](https://github.com/brave/brave-browser/issues/12060)
 - [Bug: About Brave Page Spacing Problem](https://github.com/brave/brave-browser/issues/13286)
 - [Don't run `postInstall` scripts](https://github.com/brave/brave-browser/issues/28419)
 - [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-
-## [DSGT-DLP/Deep-Learning-Playground](https://github.com/DSGT-DLP/Deep-Learning-Playground)
-
-- [tmux integration](https://github.com/DSGT-DLP/Deep-Learning-Playground/issues/602)
-- [Install Tag for Google Optimize in order to do A/B Testing](https://github.com/DSGT-DLP/Deep-Learning-Playground/issues/600)
-
-## [CodeYourFuture/syllabus](https://github.com/CodeYourFuture/syllabus)
-
-- [Lighthouse CI Github Action to run on HTML repos](https://github.com/CodeYourFuture/syllabus/issues/529)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -37,42 +29,31 @@ This list gets updated every day at midnight.
 - [Common Next.js issues that could use integrated ESLint rules](https://github.com/vercel/next.js/issues/27051)
 - [[Examples] Provide example of using Pulumi to deploy NextJS app on AWS](https://github.com/vercel/next.js/issues/16643)
 
-## [facebook/react](https://github.com/facebook/react)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- [add new UIString for non-composited-animations due to custom properties](https://github.com/GoogleChrome/lighthouse/issues/14521)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [open-horizon/open-horizon.github.io](https://github.com/open-horizon/open-horizon.github.io)
 
-- [Batch Download of traces](https://github.com/jaegertracing/jaeger-ui/issues/663)
-- [[chore]: Upgrade redux-actions to 3.x](https://github.com/jaegertracing/jaeger-ui/issues/1260)
-- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
-- [[chore]: minimize eslint setting overrides](https://github.com/jaegertracing/jaeger-ui/issues/1258)
-- [[Feature]: Additional configuration to prevent the creation of a new tab and use of file upload controls](https://github.com/jaegertracing/jaeger-ui/issues/1211)
+- [Bug🐛: Update link boxes on /docs page](https://github.com/open-horizon/open-horizon.github.io/issues/480)
+- [Documentation📄: Add Best Practices link to Helpful resources section](https://github.com/open-horizon/open-horizon.github.io/issues/212)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Idea: The Canvas border line](https://github.com/hackclub/sprig/issues/903)
-- [Idea: Modify Email Link to "Find your games"](https://github.com/hackclub/sprig/issues/838)
-- [Suggestion: Sprig Dino profile picture](https://github.com/hackclub/sprig/issues/818)
+- [[Dark Mode] Update text color on 404 page](https://github.com/layer5io/layer5/issues/3961)
+- [[Community] Member Profile: Yash Tandon](https://github.com/layer5io/layer5/issues/3932)
+- [[Pricing] Enhancement: Hang a "Coming Soon" sign over the Enterprise plan](https://github.com/layer5io/layer5/issues/3869)
+- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
+- [[UI] The SCA logo should be replaced with light-version when site in dark-mode on Programs page](https://github.com/layer5io/layer5/issues/3789)
+- [[Footer] Subscribe component overlaps on zoom greater than 100%](https://github.com/layer5io/layer5/issues/3865)
+- [[White Logo] Need a new white logo for kubewarden](https://github.com/layer5io/layer5/issues/3430)
+- [[Handbook] Use light version of the She Code Africa logo](https://github.com/layer5io/layer5/issues/3790)
+- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
+- [Smoothly displaying the answers in the FAQ on page /careers/programs.](https://github.com/layer5io/layer5/issues/3286)
+- [[Mega Menu] Use full images of the books](https://github.com/layer5io/layer5/issues/3419)
+- [[Handbook]Add steps on How to participate as a community manager](https://github.com/layer5io/layer5/issues/3795)
 
-## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
 
-- [Remove startAccessibleSketch() ](https://github.com/processing/p5.js-web-editor/issues/585)
-- [console.table display bug](https://github.com/processing/p5.js-web-editor/issues/1520)
-- [Friendly error links have poor color contrast](https://github.com/processing/p5.js-web-editor/issues/2046)
-
-## [actualbudget/actual](https://github.com/actualbudget/actual)
-
-- [[Feature] Clarify that on/off budget status can’t be changed later](https://github.com/actualbudget/actual/issues/753)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Account creation: update copies for WooCommerce](https://github.com/Automattic/wp-calypso/issues/74148)
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-- [Welcome Tour: update copy for pattern assembler experience](https://github.com/Automattic/wp-calypso/issues/74089)
-- [Welcome Tour: update when/how it appears in the site editor and/or browse mode](https://github.com/Automattic/wp-calypso/issues/72533)
-- [Add info icon button with popover component](https://github.com/Automattic/wp-calypso/issues/45449)
-- [Nav Unification: account for color changes in WordPress 5.7](https://github.com/Automattic/wp-calypso/issues/49517)
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Ease usage of buttons with dropdown](https://github.com/ember-bootstrap/ember-bootstrap/issues/1873)
 
