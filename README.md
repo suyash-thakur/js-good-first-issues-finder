@@ -17,6 +17,72 @@ This list gets updated every day at midnight.
 - [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [[UI] PHP Version Switcher](https://github.com/WordPress/wordpress-playground/issues/90)
+- [TypeScript Error: Cannot find module './migration.php' or its corresponding type declarations.](https://github.com/WordPress/wordpress-playground/issues/143)
+
+## [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+
+- [Mention that `Component.render` could return iterator](https://github.com/reactjs/reactjs.org/issues/286)
+- [Add next/image component as MDX component and convert img tags to Image component](https://github.com/reactjs/reactjs.org/issues/4382)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Feature request: report failing tests at the bottom of the spec reporter](https://github.com/nodejs/node/issues/47110)
+- [Incorrect links](https://github.com/nodejs/node/issues/47070)
+- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
+- [Watch mode: Allow adding files to watch when using the --watch flag](https://github.com/nodejs/node/issues/45467)
+
+## [actualbudget/actual](https://github.com/actualbudget/actual)
+
+- [[Feature] Clarify that on/off budget status can’t be changed later](https://github.com/actualbudget/actual/issues/753)
+
+## [jschuur/chatgpt-repl](https://github.com/jschuur/chatgpt-repl)
+
+- [Feature: Copy code segment command](https://github.com/jschuur/chatgpt-repl/issues/23)
+- [Style: Better formatting of usage summary](https://github.com/jschuur/chatgpt-repl/issues/17)
+- [BUG: Should not be able to enter text while askChatGPT is running](https://github.com/jschuur/chatgpt-repl/issues/16)
+
+## [facebook/react-native](https://github.com/facebook/react-native)
+
+- [☂️ Improving Codegen](https://github.com/facebook/react-native/issues/34872)
+- [App crashes when touching screen with 3 fingers on some OnePlus, Oppo, Xiaomi, Samsung devices](https://github.com/facebook/react-native/issues/15059)
+- [Memory leak when programmatically changing 'source' prop of Image](https://github.com/facebook/react-native/issues/12220)
+- [Dimensions "change" event does not fire on Apple Silicon/M1 (running iPad-built app) until window is blurred](https://github.com/facebook/react-native/issues/36118)
+- [Android: Installed services](https://github.com/facebook/react-native/issues/30864)
+
+## [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube)
+
+- [Trailer autoplay disabled prevents the Miniplayer from working](https://github.com/code-for-charity/ImprovedTube-for-YouTube/issues/1456)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [Add https configuration to the schema](https://github.com/platformatic/platformatic/issues/777)
+- [Feature request: More granular programmatic rules for authorization](https://github.com/platformatic/platformatic/issues/746)
+- [create-platformatic should have a typescript template for "platformatic service"](https://github.com/platformatic/platformatic/issues/628)
+- [Add a platformatic theme to the generated swagger-ui](https://github.com/platformatic/platformatic/issues/741)
+- [Add openapi/graphql ignore for different entity actions ](https://github.com/platformatic/platformatic/issues/673)
+- [Remove configuration panel from dashboard](https://github.com/platformatic/platformatic/issues/695)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [Documentation: `spacing.blockGap` explanation is inadequate for custom blocks](https://github.com/WordPress/gutenberg/issues/43921)
+- [Some documentation improvements in `WP_Block_Parser_Block`.](https://github.com/WordPress/gutenberg/issues/47947)
+- [Social Links Block needs different icons](https://github.com/WordPress/gutenberg/issues/26780)
+- [getSettings() returns WP defaults outside of edit() and save()](https://github.com/WordPress/gutenberg/issues/18467)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Blocks: Full Screen alignment/display option on several blocks](https://github.com/WordPress/gutenberg/issues/16385)
+- [Deleting template or template part causes screen flash in Site Editor](https://github.com/WordPress/gutenberg/issues/37926)
+- [Autocomplete example in README.md gives error](https://github.com/WordPress/gutenberg/issues/16624)
+- [Adequate our use of `@link` tag](https://github.com/WordPress/gutenberg/issues/14334)
+- [Links within snackbars have insufficient color contrast ratio on hover](https://github.com/WordPress/gutenberg/issues/47273)
+- [Clarify template part revert process](https://github.com/WordPress/gutenberg/issues/44841)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
@@ -27,33 +93,30 @@ This list gets updated every day at midnight.
 - [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 - [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
 - [Common Next.js issues that could use integrated ESLint rules](https://github.com/vercel/next.js/issues/27051)
-- [[Examples] Provide example of using Pulumi to deploy NextJS app on AWS](https://github.com/vercel/next.js/issues/16643)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
 
-- [add new UIString for non-composited-animations due to custom properties](https://github.com/GoogleChrome/lighthouse/issues/14521)
+- [Expand enforcement of conditionally required fields](https://github.com/usdigitalresponse/usdr-gost/issues/1074)
+- [Improperly formatted date (missing slash) passes ARPA tool validations](https://github.com/usdigitalresponse/usdr-gost/issues/1050)
+- [[ID] Remove columns from the `Browse Grants` table.](https://github.com/usdigitalresponse/usdr-gost/issues/889)
+- [[ID] Formatting nit on full page Upcoming Grants](https://github.com/usdigitalresponse/usdr-gost/issues/279)
+- [Add UI for creating new tenants](https://github.com/usdigitalresponse/usdr-gost/issues/358)
+- [[ID] Add Keyword shows errors even though the user hasn't typed anything.](https://github.com/usdigitalresponse/usdr-gost/issues/173)
+- [Upload Validation](https://github.com/usdigitalresponse/usdr-gost/issues/394)
 
-## [open-horizon/open-horizon.github.io](https://github.com/open-horizon/open-horizon.github.io)
+## [TerenceGrover/HSTW](https://github.com/TerenceGrover/HSTW)
 
-- [Bug🐛: Update link boxes on /docs page](https://github.com/open-horizon/open-horizon.github.io/issues/480)
-- [Documentation📄: Add Best Practices link to Helpful resources section](https://github.com/open-horizon/open-horizon.github.io/issues/212)
+- [Add sliders to modify the graph and the most used words display](https://github.com/TerenceGrover/HSTW/issues/17)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook)
 
-- [[Dark Mode] Update text color on 404 page](https://github.com/layer5io/layer5/issues/3961)
-- [[Community] Member Profile: Yash Tandon](https://github.com/layer5io/layer5/issues/3932)
-- [[Pricing] Enhancement: Hang a "Coming Soon" sign over the Enterprise plan](https://github.com/layer5io/layer5/issues/3869)
-- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
-- [[UI] The SCA logo should be replaced with light-version when site in dark-mode on Programs page](https://github.com/layer5io/layer5/issues/3789)
-- [[Footer] Subscribe component overlaps on zoom greater than 100%](https://github.com/layer5io/layer5/issues/3865)
-- [[White Logo] Need a new white logo for kubewarden](https://github.com/layer5io/layer5/issues/3430)
-- [[Handbook] Use light version of the She Code Africa logo](https://github.com/layer5io/layer5/issues/3790)
-- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
-- [Smoothly displaying the answers in the FAQ on page /careers/programs.](https://github.com/layer5io/layer5/issues/3286)
-- [[Mega Menu] Use full images of the books](https://github.com/layer5io/layer5/issues/3419)
-- [[Handbook]Add steps on How to participate as a community manager](https://github.com/layer5io/layer5/issues/3795)
-
-## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
-
-- [Ease usage of buttons with dropdown](https://github.com/ember-bootstrap/ember-bootstrap/issues/1873)
+- [Add link to beginner-react-mistakes article by Josh Comeau](https://github.com/ericdiviney/react-handbook/issues/30)
+- [Make sure all the links that go off-site open in new tabs.](https://github.com/ericdiviney/react-handbook/issues/14)
+- [Add more examples for hooks](https://github.com/ericdiviney/react-handbook/issues/18)
+- [Add additional link for trusted folder structure to Project Structure page](https://github.com/ericdiviney/react-handbook/issues/29)
+- [Link to npm package URL's when possible (instead of github repo URL's)](https://github.com/ericdiviney/react-handbook/issues/17)
+- [Page Improvements | Topics](https://github.com/ericdiviney/react-handbook/issues/26)
+- [Page Improvements | Frameworks](https://github.com/ericdiviney/react-handbook/issues/25)
+- [Page Improvements | Semantics & A11Y](https://github.com/ericdiviney/react-handbook/issues/24)
+- [Add core team and project contributors to Contribute page](https://github.com/ericdiviney/react-handbook/issues/23)
 
