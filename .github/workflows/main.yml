@@ -29,6 +29,6 @@ jobs:
         run: |
               git config user.name "suyash-thakur"
               git config user.email "suyashthakur910@gmail.com"
-              git add README.md
+              git add README.md index.html
               git commit -m "Update README"
               git push
