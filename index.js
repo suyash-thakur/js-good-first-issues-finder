@@ -1,6 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
 const env = require('dotenv');
+const Markdown = require('markdown-to-html').Markdown;
+
 env.config();
 
 const apiUrl = 'https://api.github.com';
@@ -65,4 +67,26 @@ const getGoodFirstIssues = async () => {
   }
 };
 
-getGoodFirstIssues();
+const convertToHtml = async () => {
+  const md = new Markdown();
+
+  md.render('README.md', {
+    title: 'Good Javascript First Issues',
+    highlight: true,
+    highlightTheme: 'github',
+    stylesheet: 'styles.css',
+    context: 'https://github.com',
+  }, function (err) {
+    if (err) {
+      console.error('>>>' + err);
+      process.exit();
+    }
+    md.pipe(fs.createWriteStream('index.html'));
+  });
+};
+
+const main = async () => {
+  await convertToHtml();
+};
+
+main();
