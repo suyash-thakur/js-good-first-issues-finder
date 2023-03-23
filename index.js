@@ -86,6 +86,7 @@ const convertToHtml = async () => {
 };
 
 const main = async () => {
+  await getGoodFirstIssues();
   await convertToHtml();
 };
 
