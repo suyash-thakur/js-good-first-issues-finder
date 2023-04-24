@@ -4,72 +4,54 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
+- [Brave components are re-downloaded to create profile folder when trying to uninstall](https://github.com/brave/brave-browser/issues/1812)
+
+## [SSWConsulting/SSW.Rules](https://github.com/SSWConsulting/SSW.Rules)
+
+- [✨ Email Template - Copy to Clipboard](https://github.com/SSWConsulting/SSW.Rules/issues/923)
+
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [If request method is HEAD don't allow writing body bytes.](https://github.com/nodejs/node/issues/47480)
-- [statSync fails in detecting link](https://github.com/nodejs/node/issues/47633)
-- [beforeEach/afterEach hooks not executing for nested tests](https://github.com/nodejs/node/issues/47643)
 - [Support `--test-name-pattern` in run()](https://github.com/nodejs/node/issues/46045)
 - [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
 
-## [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [Implement test for 'flyToBounds' method of Map](https://github.com/Leaflet/Leaflet/issues/8367)
+- [Replace baseline+reform vs diff switch with a radio button component](https://github.com/PolicyEngine/policyengine-app/issues/78)
+- [Update actions](https://github.com/PolicyEngine/policyengine-app/issues/380)
+- [Remove x axis title on poverty charts](https://github.com/PolicyEngine/policyengine-app/issues/463)
+- [Use fixed width font for code demo on homepage](https://github.com/PolicyEngine/policyengine-app/issues/215)
+- [Round MTR to one decimal](https://github.com/PolicyEngine/policyengine-app/issues/67)
+- [Add decimal point to inequality y axis](https://github.com/PolicyEngine/policyengine-app/issues/323)
+- [Use a collapsible drawer to show/hide the GPT prompt](https://github.com/PolicyEngine/policyengine-app/issues/377)
+- [Testimonials don't properly format apostrophes](https://github.com/PolicyEngine/policyengine-app/issues/345)
+- [Highlight parameter menus where parameters have been changed](https://github.com/PolicyEngine/policyengine-app/issues/50)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Change current box shadow.](https://github.com/meshery/meshery.io/issues/905)
-- [Meshery.io website screenshot and Meshmates logo in README.md](https://github.com/meshery/meshery.io/issues/1095)
-
-## [nextcloud/maps](https://github.com/nextcloud/maps)
-
-- [[Bug]: Icons in context menu missing](https://github.com/nextcloud/maps/issues/1019)
-
-## [aayushxrj/Password-Buddy](https://github.com/aayushxrj/Password-Buddy)
-
-- [dropdown menu transition doesn't work anymore](https://github.com/aayushxrj/Password-Buddy/issues/22)
-- [contact-footer on every webpage should stick to the bottom of the screen](https://github.com/aayushxrj/Password-Buddy/issues/10)
-- [add some delay while redirecting within register-login-dashboard](https://github.com/aayushxrj/Password-Buddy/issues/14)
-- [checkAuth() being called after clicking Logout button.](https://github.com/aayushxrj/Password-Buddy/issues/6)
-
-## [actualbudget/actual](https://github.com/actualbudget/actual)
-
-- [[Bug]: Template application throws error when values with 1 decimal digit used](https://github.com/actualbudget/actual/issues/888)
-- [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
-- [[Feature] Manually categorise transactions as Upcoming](https://github.com/actualbudget/actual/issues/514)
-- [When selecting Upcoming transactions the "Selected balance" does not sum the payment/deposits](https://github.com/actualbudget/actual/issues/319)
-- [[Feature] Reconcilliation to Lock Transactions](https://github.com/actualbudget/actual/issues/558)
-
-## [ardalis/DevIQ-gatsby](https://github.com/ardalis/DevIQ-gatsby)
-
-- [Add featuredImage support in frontmatter/headings](https://github.com/ardalis/DevIQ-gatsby/issues/160)
-- [Add announcement div at top of page](https://github.com/ardalis/DevIQ-gatsby/issues/13)
-
-## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-
-- [[OTHER] Playground Page - Have profile json's placeholder text as default input value for better UX](https://github.com/EddieHubCommunity/LinkFree/issues/6249)
-- [Client side error upon blank JSON input in playground JSON textarea](https://github.com/EddieHubCommunity/LinkFree/issues/6287)
-- [[DOCS] <new link for the custom profile link of the user>](https://github.com/EddieHubCommunity/LinkFree/issues/6216)
-- [[FEATURE] Imports to have an index file](https://github.com/EddieHubCommunity/LinkFree/issues/5654)
-- [chore: Search by Tags picture is too old.](https://github.com/EddieHubCommunity/LinkFree/issues/6101)
-- [[DOCS] Put all local dev env instructions in one place](https://github.com/EddieHubCommunity/LinkFree/issues/6115)
-- [[BUG] Duplication in map popup](https://github.com/EddieHubCommunity/LinkFree/issues/5867)
-- [Event card UX improvement mobile](https://github.com/EddieHubCommunity/LinkFree/issues/5870)
-- [[DOCS] Quick copy all required env vars](https://github.com/EddieHubCommunity/LinkFree/issues/6114)
+- [Duplicate props with `@next/codemod new-link`](https://github.com/vercel/next.js/issues/41925)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
+- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [Typescript typing of both <Head /> components, custom component children](https://github.com/vercel/next.js/issues/19168)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
 ## [ItsSim/fsolauncher](https://github.com/ItsSim/fsolauncher)
 
 - [[Windows/Mac] New launcher icon](https://github.com/ItsSim/fsolauncher/issues/48)
 
-## [preactjs/preact](https://github.com/preactjs/preact)
+## [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot)
 
-- [typescript complains with SignalLike as property boolean on default](https://github.com/preactjs/preact/issues/3934)
-- [Support Shadow DOM in createPortal()](https://github.com/preactjs/preact/issues/3869)
-- [migrate demo to vite](https://github.com/preactjs/preact/issues/3952)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Silent sent and silent call modes are not behaving the same](https://github.com/nextcloud/spreed/issues/8336)
-- [Design details for top bar elements: search bar, add button, sidebar toggle](https://github.com/nextcloud/spreed/issues/8145)
+- [Move include/exclude files lists to projects (CODE_DIR/.autopilot)](https://github.com/fjrdomingues/autopilot/issues/76)
+- [Rename/refactor `/benhmarks` under `/tests`](https://github.com/fjrdomingues/autopilot/issues/72)
+- [Provide better UI feedback](https://github.com/fjrdomingues/autopilot/issues/29)
 
