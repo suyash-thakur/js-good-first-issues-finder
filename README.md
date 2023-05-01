@@ -4,61 +4,60 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [mui/material-ui](https://github.com/mui/material-ui)
+## [hackclub/sinerider](https://github.com/hackclub/sinerider)
 
-- [Margin for Divider with middle broken after v4 to v5 migration](https://github.com/mui/material-ui/issues/30964)
+- [[FEATURE] Replace Emoji with Public Domain/Licensed Icons](https://github.com/hackclub/sinerider/issues/201)
+- [[FEATURE] Save Game via Email](https://github.com/hackclub/sinerider/issues/242)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
+- [Brave components are re-downloaded to create profile folder when trying to uninstall](https://github.com/brave/brave-browser/issues/1812)
 
 ## [actualbudget/actual](https://github.com/actualbudget/actual)
 
 - [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
 - [[Feature] Manually categorise transactions as Upcoming](https://github.com/actualbudget/actual/issues/514)
-- [When selecting Upcoming transactions the "Selected balance" does not sum the payment/deposits](https://github.com/actualbudget/actual/issues/319)
-- [[Feature] Reconcilliation to Lock Transactions](https://github.com/actualbudget/actual/issues/558)
 
-## [cedricr/100joursdezbeul](https://github.com/cedricr/100joursdezbeul)
+## [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
 
-- [L'ensemble du podium doit être mis en avant](https://github.com/cedricr/100joursdezbeul/issues/63)
-- [Fix equality podium case](https://github.com/cedricr/100joursdezbeul/pull/64)
-- [Ajouter une page de stats globale](https://github.com/cedricr/100joursdezbeul/issues/20)
-- [feat: national statistics](https://github.com/cedricr/100joursdezbeul/pull/32)
-- [Coquille dans le mot "Annuluation" qui devrait être "Annulation"](https://github.com/cedricr/100joursdezbeul/issues/53)
-- [question sur getDepartmentName](https://github.com/cedricr/100joursdezbeul/issues/10)
-- [Bug avec le charactere œ](https://github.com/cedricr/100joursdezbeul/issues/39)
-- [Amélioration du système de lien](https://github.com/cedricr/100joursdezbeul/issues/43)
+- [Settings doesnt save](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/220)
+- [Clip Vision Mask error](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/216)
+- [Authentication input form > Settings Tab for gradio.live](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/209)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
 
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [If request method is HEAD don't allow writing body bytes.](https://github.com/nodejs/node/issues/47480)
-- [Indicate when a test is started in test_runner](https://github.com/nodejs/node/issues/46727)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Add Rapid Bus](https://github.com/osmlab/name-suggestion-index/issues/8060)
+- [Add Visayan Electric](https://github.com/osmlab/name-suggestion-index/issues/8052)
+- [Add Bayad Center](https://github.com/osmlab/name-suggestion-index/issues/8051)
+- [Add Malaysian railway networks](https://github.com/osmlab/name-suggestion-index/issues/8053)
+- [Adding Multiple Restaurants](https://github.com/osmlab/name-suggestion-index/issues/8045)
+- [Adina Hotels](https://github.com/osmlab/name-suggestion-index/issues/8009)
+- [Add DHL - Parcel Locker in Poland](https://github.com/osmlab/name-suggestion-index/issues/7931)
 
-## [ItsSim/fsolauncher](https://github.com/ItsSim/fsolauncher)
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
 
-- [[Windows/Mac] New launcher icon](https://github.com/ItsSim/fsolauncher/issues/48)
+- [Refactor the create GH action command](https://github.com/platformatic/platformatic/issues/815)
+- [The platformatic DB dashboard documentation does not show how to configure it](https://github.com/platformatic/platformatic/issues/686)
+- [create-platformatic should ask for the database to use when using db](https://github.com/platformatic/platformatic/issues/914)
+- [Seeding a DB using js files seems not to WOrkk..🙂](https://github.com/platformatic/platformatic/issues/929)
+- [Remove configuration panel from dashboard](https://github.com/platformatic/platformatic/issues/695)
 
-## [r3ndd/BeyondMafia-Integration](https://github.com/r3ndd/BeyondMafia-Integration)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [bug(ui): target list goes upwards, cannot be clicked](https://github.com/r3ndd/BeyondMafia-Integration/issues/269)
-- [bug(site): The game info pop up is overlapped by the notification icon](https://github.com/r3ndd/BeyondMafia-Integration/issues/763)
-- [bug(autocomplete username): does not work for default avatar](https://github.com/r3ndd/BeyondMafia-Integration/issues/769)
-- [bug(player leave): should be uncontrollable absolute hidden](https://github.com/r3ndd/BeyondMafia-Integration/issues/762)
-- [feat(pregame): let host have rainbow text](https://github.com/r3ndd/BeyondMafia-Integration/issues/574)
-- [bug(sleepwalker): visits while dead](https://github.com/r3ndd/BeyondMafia-Integration/issues/558)
-- [refactor(vigi): if vigi is killed, it cannot kill](https://github.com/r3ndd/BeyondMafia-Integration/issues/678)
-- [suggestion(ranked): turn on ready check by default](https://github.com/r3ndd/BeyondMafia-Integration/issues/317)
-- [feat(graveyard effects): remove effects if graveyard participation is not required](https://github.com/r3ndd/BeyondMafia-Integration/issues/618)
-- [suggestion(resistance): add alert when game starts](https://github.com/r3ndd/BeyondMafia-Integration/issues/140)
+- [Dates on blog post cards are too low and disappear on hover](https://github.com/PolicyEngine/policyengine-app/issues/497)
+- [Replace baseline+reform vs diff switch with a radio button component](https://github.com/PolicyEngine/policyengine-app/issues/78)
+- [Update actions](https://github.com/PolicyEngine/policyengine-app/issues/380)
+- [Remove x axis title on poverty charts](https://github.com/PolicyEngine/policyengine-app/issues/463)
+- [Use fixed width font for code demo on homepage](https://github.com/PolicyEngine/policyengine-app/issues/215)
+- [Round MTR to one decimal](https://github.com/PolicyEngine/policyengine-app/issues/67)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [ConfPlusDevTeam/confplus-webapp](https://github.com/ConfPlusDevTeam/confplus-webapp)
 
-- [Duplicate props with `@next/codemod new-link`](https://github.com/vercel/next.js/issues/41925)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
-- [Typescript typing of both <Head /> components, custom component children](https://github.com/vercel/next.js/issues/19168)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [feat(authors): implement the card component for displaying papers](https://github.com/ConfPlusDevTeam/confplus-webapp/issues/16)
+- [feat(api): implement the /users endpoint](https://github.com/ConfPlusDevTeam/confplus-webapp/issues/15)
+- [feat(backend): implement the initial UsersRepo functions](https://github.com/ConfPlusDevTeam/confplus-webapp/issues/14)
+- [feat(SignIn): add functionality to the form](https://github.com/ConfPlusDevTeam/confplus-webapp/issues/13)
 
