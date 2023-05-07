@@ -4,35 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [AnalogStudiosRI/www.blissfestri.com](https://github.com/AnalogStudiosRI/www.blissfestri.com)
 
-- [ SVG disappears on smaller screens](https://github.com/layer5io/layer5/issues/4191)
-- [Increase the size of card & text inside it](https://github.com/layer5io/layer5/issues/4139)
-- [Overlap of slide button on meshmap page for mobile devices](https://github.com/layer5io/layer5/issues/4187)
-- [Fix text alignment and font size of Image Hub on mobile devices](https://github.com/layer5io/layer5/issues/4185)
-- [Add Padding between buttons on Image Hub website for Mobile Devices](https://github.com/layer5io/layer5/issues/4183)
-- [[Community] Writing Badge needs hyperlink to Writing Program page](https://github.com/layer5io/layer5/issues/4107)
-- [[Community] Member Profile: Sahil](https://github.com/layer5io/layer5/issues/4167)
-- [make the coverage, press-release button dark-mode compatible](https://github.com/layer5io/layer5/issues/4140)
-- [fix the docker callout card ](https://github.com/layer5io/layer5/issues/4134)
-- [[Footer] Subscribe component overlaps on zoom greater than 100%](https://github.com/layer5io/layer5/issues/3865)
-- [[White Logo] Need a new white logo for kubewarden](https://github.com/layer5io/layer5/issues/3430)
-- [Dark-mode: Unable to see text highlight on selection of text](https://github.com/layer5io/layer5/issues/3663)
-- [[Handbook]Add steps on How to participate as a community manager](https://github.com/layer5io/layer5/issues/3795)
-- [Adding a new adopter logo to layer5 homepage](https://github.com/layer5io/layer5/issues/4089)
-- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
-
-## [hackclub/sinerider](https://github.com/hackclub/sinerider)
-
-- [[FEATURE] Replace Emoji with Public Domain/Licensed Icons](https://github.com/hackclub/sinerider/issues/201)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
-
-## [open-sauced/docs.opensauced.pizza](https://github.com/open-sauced/docs.opensauced.pizza)
-
-- [Feature: Update Favicon to Pizza](https://github.com/open-sauced/docs.opensauced.pizza/issues/80)
+- [image of Rhode Island not showing on Storybook Docs page for event details component on larger breakpoints](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/67)
+- [upgrade project to Storybook v7 (non beta version)](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/65)
+- [refactor double usage of `<img>` tags for event details component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/34)
+- [Contact Page](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/58)
+- [FAQ Page](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/57)
+- [Lineup component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/47)
+- [Ticket Info component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/50)
+- [Footer component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/49)
+- [Card component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/48)
+- [IYRS logo alignment / centering is slightly off center on smallest mobile screen widths](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/44)
+- [refactor sign up form styles to use Tailwind](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/35)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -43,23 +27,38 @@ This list gets updated every day at midnight.
 - [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
 - [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
 - [Typescript typing of both <Head /> components, custom component children](https://github.com/vercel/next.js/issues/19168)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
 
-## [Fantasy-Fit/fantasy-fit-web](https://github.com/Fantasy-Fit/fantasy-fit-web)
+## [Minnesota-Computer-Club/MCC-Website-v2](https://github.com/Minnesota-Computer-Club/MCC-Website-v2)
 
-- [Style joining a competition modal/page](https://github.com/Fantasy-Fit/fantasy-fit-web/issues/103)
-- [Style the competitions components](https://github.com/Fantasy-Fit/fantasy-fit-web/issues/99)
-- [Move Edit profile and logout buttons to the profile avatar](https://github.com/Fantasy-Fit/fantasy-fit-web/issues/98)
+- [Introduce Open Graph Metadata for Page Previews](https://github.com/Minnesota-Computer-Club/MCC-Website-v2/issues/17)
+- [Content Needed for New About Us Page](https://github.com/Minnesota-Computer-Club/MCC-Website-v2/issues/1)
 
-## [deco-sites/fashion](https://github.com/deco-sites/fashion)
+## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
 
-- [Minicart free shipping component](https://github.com/deco-sites/fashion/issues/112)
-- [Send `add_to_wishlist` event](https://github.com/deco-sites/fashion/issues/151)
-- [Toast component](https://github.com/deco-sites/fashion/issues/150)
-- [Search not found component](https://github.com/deco-sites/fashion/issues/111)
+- [REPLACE( ) is not working in WHERE condition in version 1.7.3](https://github.com/AlaSQL/alasql/issues/1455)
+- [In INDEXEDDB, alasql.promise fails to create multiple tables with sql in array, but works with sql as string](https://github.com/AlaSQL/alasql/issues/1641)
+- [SELECT RECORDSET * from csv returning empty columns if there's no matched rows](https://github.com/AlaSQL/alasql/issues/1547)
+- [DATE function not working ](https://github.com/AlaSQL/alasql/issues/1627)
 
-## [omersuatdemir/Satranc101DiscordBot](https://github.com/omersuatdemir/Satranc101DiscordBot)
+## [mui/material-ui](https://github.com/mui/material-ui)
 
-- [Embed ve Ephemeral Düzenlemesi](https://github.com/omersuatdemir/Satranc101DiscordBot/issues/85)
-- [Bulmaca Skor Tablosuna İleri Geri Butonları Eklenecek](https://github.com/omersuatdemir/Satranc101DiscordBot/issues/82)
+- [Margin for Divider with middle broken after v4 to v5 migration](https://github.com/mui/material-ui/issues/30964)
+
+## [PyAr/PyZombis](https://github.com/PyAr/PyZombis)
+
+- [Add simple questionnaire](https://github.com/PyAr/PyZombis/issues/238)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [flag/deprecate `global` - recommend `globalThis`](https://github.com/nodejs/node/issues/47784)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [forcing heap snapshot via signal does not allow specifying custom directory](https://github.com/nodejs/node/issues/47842)
+- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
+- [Indicate when a test is started in test_runner](https://github.com/nodejs/node/issues/46727)
+- [If request method is HEAD don't allow writing body bytes.](https://github.com/nodejs/node/issues/47480)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+
+## [SJSURoboticsTeam/joystick-serial-prototype-2022](https://github.com/SJSURoboticsTeam/joystick-serial-prototype-2022)
+
+- [Go through React training / tutorial](https://github.com/SJSURoboticsTeam/joystick-serial-prototype-2022/issues/38)
 
