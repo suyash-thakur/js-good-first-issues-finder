@@ -4,52 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [AnalogStudiosRI/www.blissfestri.com](https://github.com/AnalogStudiosRI/www.blissfestri.com)
+## [hackclub/sinerider](https://github.com/hackclub/sinerider)
 
-- [image of Rhode Island not showing on Storybook Docs page for event details component on larger breakpoints](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/67)
-- [upgrade project to Storybook v7 (non beta version)](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/65)
-- [refactor double usage of `<img>` tags for event details component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/34)
-- [Contact Page](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/58)
-- [FAQ Page](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/57)
-- [Lineup component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/47)
-- [Ticket Info component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/50)
-- [Footer component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/49)
-- [Card component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/48)
-- [IYRS logo alignment / centering is slightly off center on smallest mobile screen widths](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/44)
-- [refactor sign up form styles to use Tailwind](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/35)
+- [[FEATURE] Replace Emoji with Public Domain/Licensed Icons](https://github.com/hackclub/sinerider/issues/201)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
-- [Typescript typing of both <Head /> components, custom component children](https://github.com/vercel/next.js/issues/19168)
-
-## [Minnesota-Computer-Club/MCC-Website-v2](https://github.com/Minnesota-Computer-Club/MCC-Website-v2)
-
-- [Introduce Open Graph Metadata for Page Previews](https://github.com/Minnesota-Computer-Club/MCC-Website-v2/issues/17)
-- [Content Needed for New About Us Page](https://github.com/Minnesota-Computer-Club/MCC-Website-v2/issues/1)
-
-## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
-
-- [REPLACE( ) is not working in WHERE condition in version 1.7.3](https://github.com/AlaSQL/alasql/issues/1455)
-- [In INDEXEDDB, alasql.promise fails to create multiple tables with sql in array, but works with sql as string](https://github.com/AlaSQL/alasql/issues/1641)
-- [SELECT RECORDSET * from csv returning empty columns if there's no matched rows](https://github.com/AlaSQL/alasql/issues/1547)
-- [DATE function not working ](https://github.com/AlaSQL/alasql/issues/1627)
-
-## [mui/material-ui](https://github.com/mui/material-ui)
-
-- [Margin for Divider with middle broken after v4 to v5 migration](https://github.com/mui/material-ui/issues/30964)
-
-## [PyAr/PyZombis](https://github.com/PyAr/PyZombis)
-
-- [Add simple questionnaire](https://github.com/PyAr/PyZombis/issues/238)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
+- [Brave components are re-downloaded to create profile folder when trying to uninstall](https://github.com/brave/brave-browser/issues/1812)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
+- [Add `test.todo` to match `it.todo` in `node:test`](https://github.com/nodejs/node/issues/47897)
 - [flag/deprecate `global` - recommend `globalThis`](https://github.com/nodejs/node/issues/47784)
 - [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
 - [forcing heap snapshot via signal does not allow specifying custom directory](https://github.com/nodejs/node/issues/47842)
@@ -58,7 +26,53 @@ This list gets updated every day at midnight.
 - [If request method is HEAD don't allow writing body bytes.](https://github.com/nodejs/node/issues/47480)
 - [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
 
-## [SJSURoboticsTeam/joystick-serial-prototype-2022](https://github.com/SJSURoboticsTeam/joystick-serial-prototype-2022)
+## [Danondso/bedfellow](https://github.com/Danondso/bedfellow)
 
-- [Go through React training / tutorial](https://github.com/SJSURoboticsTeam/joystick-serial-prototype-2022/issues/38)
+- [fix: adjust track matching to not queue up tracks that have more words than the search string](https://github.com/Danondso/bedfellow/issues/35)
+- [fix: strip out non alphanumeric characters when querying whosampled](https://github.com/Danondso/bedfellow/issues/33)
+- [Safely unwrap the extract_img_srcset](https://github.com/Danondso/bedfellow/issues/16)
+- [test: refactor tests to have IT style tests in parent screen](https://github.com/Danondso/bedfellow/issues/29)
+- [chore: refactor code to remove ts-ignores from the repo](https://github.com/Danondso/bedfellow/issues/31)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
+- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[TRIGGER] DEAR new triggers](https://github.com/PipedreamHQ/pipedream/issues/5998)
+- [[ACTION] Google Directory](https://github.com/PipedreamHQ/pipedream/issues/6302)
+- [[ACTION] Google Forms](https://github.com/PipedreamHQ/pipedream/issues/6301)
+- [[ACTION] Zoom Admin - List Webinar participants report](https://github.com/PipedreamHQ/pipedream/issues/5698)
+- [[ACTION] - Google Photos](https://github.com/PipedreamHQ/pipedream/issues/6299)
+- [[ACTION] Deepgram Actions](https://github.com/PipedreamHQ/pipedream/issues/6271)
+- [[ACTION] Create/Edit/Get/Delete Shopify Blog page/post](https://github.com/PipedreamHQ/pipedream/issues/6081)
+- [[TRIGGER / ACTION] Snowflake — New Triggers and Actions](https://github.com/PipedreamHQ/pipedream/issues/5226)
+- [[ACTION] Add Twilio Lookup API](https://github.com/PipedreamHQ/pipedream/issues/6264)
+- [[Action] Twilio Actions with phone numbers require parsing](https://github.com/PipedreamHQ/pipedream/issues/6242)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6274)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/6265)
+- [Jotform encrypted forms [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6221)
+- [[TRIGGER] New Order Received](https://github.com/PipedreamHQ/pipedream/issues/6251)
+- [Download](https://github.com/PipedreamHQ/pipedream/issues/6259)
+- [[ACTION] Create Sales Receipt for Quickbooks Online](https://github.com/PipedreamHQ/pipedream/issues/6031)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6216)
+- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/6214)
+- [[TRIGGER] ZeroTier Online/Offline Node no longer works due to API change](https://github.com/PipedreamHQ/pipedream/issues/6193)
+- [[TRIGGER] Zendesk - emit new event when ticket is added to view](https://github.com/PipedreamHQ/pipedream/issues/6156)
+- [[ACTION] Update Page from Database](https://github.com/PipedreamHQ/pipedream/issues/6161)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[ACTION] Switch an VM Instance on and off google cloud](https://github.com/PipedreamHQ/pipedream/issues/6133)
+- [[ACTION] Shopify Update Product improvements](https://github.com/PipedreamHQ/pipedream/issues/6134)
+- [[ACTION] Shopify Create Order improvements](https://github.com/PipedreamHQ/pipedream/issues/6135)
+- [[ACTION] Dropbox - Download File to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/5990)
+- [[ACTION] Create a DocuSign Draft Envelope ](https://github.com/PipedreamHQ/pipedream/issues/5874)
+- [Drata Triggers / Actions](https://github.com/PipedreamHQ/pipedream/issues/5139)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/5965)
 
