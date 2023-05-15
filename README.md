@@ -4,56 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [deco-sites/fashion](https://github.com/deco-sites/fashion)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Minicart free shipping component](https://github.com/deco-sites/fashion/issues/112)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Watch mode: Allow adding files to watch when using the --watch flag](https://github.com/nodejs/node/issues/45467)
-- [Indicate when a test is started in test_runner](https://github.com/nodejs/node/issues/46727)
-- [Add `test.todo` to match `it.todo` in `node:test`](https://github.com/nodejs/node/issues/47897)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [forcing heap snapshot via signal does not allow specifying custom directory](https://github.com/nodejs/node/issues/47842)
-- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
-- [If request method is HEAD don't allow writing body bytes.](https://github.com/nodejs/node/issues/47480)
-
-## [minnayu/guess-that-pokemon](https://github.com/minnayu/guess-that-pokemon)
-
-- [Display 'incorrect' or 'correct' in a bigger text box or popup](https://github.com/minnayu/guess-that-pokemon/issues/5)
-- [Add more pokemon for guessing](https://github.com/minnayu/guess-that-pokemon/issues/3)
-- [Maintain consistent image size when displaying a new pokemon](https://github.com/minnayu/guess-that-pokemon/issues/2)
-- [Display a hint below pokemon image](https://github.com/minnayu/guess-that-pokemon/issues/1)
-
-## [Far-Reach-Co/dm-dash](https://github.com/Far-Reach-Co/dm-dash)
-
-- [Update UI for alerts and confirms from native browser to custom modal](https://github.com/Far-Reach-Co/dm-dash/issues/39)
-- [Don't allow text highlighting except for obvious places;](https://github.com/Far-Reach-Co/dm-dash/issues/268)
-
-## [Danondso/bedfellow](https://github.com/Danondso/bedfellow)
-
-- [feat: alert user to failed login with message](https://github.com/Danondso/bedfellow/issues/39)
-- [feat: create a sub menu for users to scrool thru and pick songs if no matching samples are present](https://github.com/Danondso/bedfellow/issues/36)
-- [Safely unwrap the extract_img_srcset](https://github.com/Danondso/bedfellow/issues/16)
-- [test: refactor tests to have IT style tests in parent screen](https://github.com/Danondso/bedfellow/issues/29)
-- [chore: refactor code to remove ts-ignores from the repo](https://github.com/Danondso/bedfellow/issues/31)
-
-## [waterthetrees/wtt_front](https://github.com/waterthetrees/wtt_front)
-
-- [[Static Page - Design Implementation] How to Care for Tree](https://github.com/waterthetrees/wtt_front/issues/628)
-- [[Bug] Clipping of the bottom portion of the screen on mobile](https://github.com/waterthetrees/wtt_front/issues/459)
-- [[Epic - Static Pages] Redesign / New Static Pages](https://github.com/waterthetrees/wtt_front/issues/539)
-- [[Static Page - Design Implementation] FAQ](https://github.com/waterthetrees/wtt_front/issues/627)
-- [[Epic - Banner Notification] Quick Facts](https://github.com/waterthetrees/wtt_front/issues/688)
-- [[Tree Taxonomy - Design] Tree pages for unique trees](https://github.com/waterthetrees/wtt_front/issues/571)
-- [[Reminder Notification - Design Implementation] Watering Notification on Site](https://github.com/waterthetrees/wtt_front/issues/689)
-- [Implement new footer design for static screens](https://github.com/waterthetrees/wtt_front/issues/367)
-- [[Static Pages - Design Implementation]  404 error page (Desktop)](https://github.com/waterthetrees/wtt_front/issues/476)
-- [Add linting and code styling into CI as pre-commit hooks](https://github.com/waterthetrees/wtt_front/issues/654)
-
-## [wo-ist-markt/wo-ist-markt.github.io](https://github.com/wo-ist-markt/wo-ist-markt.github.io)
-
-- [Promote website](https://github.com/wo-ist-markt/wo-ist-markt.github.io/issues/38)
+- [[Bug]: Current Invidious Instance input field removes character while typing](https://github.com/FreeTubeApp/FreeTube/issues/3303)
+- [Incorrect labelling on live premier videos](https://github.com/FreeTubeApp/FreeTube/issues/754)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+- [Community Help Wanted - Benchmark App Freeze For Long Videos](https://github.com/FreeTubeApp/FreeTube/issues/1066)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Video and info not scaling to window size, cut off](https://github.com/FreeTubeApp/FreeTube/issues/1172)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -64,4 +29,20 @@ This list gets updated every day at midnight.
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
+- [ColorPicker: Color space dropdown has no focus style](https://github.com/WordPress/gutenberg/issues/50524)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Documentation: `spacing.blockGap` explanation is inadequate for custom blocks](https://github.com/WordPress/gutenberg/issues/43921)
+- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
+- [Clarify template part revert process](https://github.com/WordPress/gutenberg/issues/44841)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Navigation block shows unintuitive message if no menus and no pages exist](https://github.com/WordPress/gutenberg/issues/44486)
+- [Avatar block not 1:1 between the editor and the front-end](https://github.com/WordPress/gutenberg/issues/49775)
+- [@wordpress/scripts doesn't detect `render` PHP files without a restart](https://github.com/WordPress/gutenberg/issues/49790)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
 
