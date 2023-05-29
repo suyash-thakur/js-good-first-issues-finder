@@ -4,32 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nmamano/wallwars](https://github.com/nmamano/wallwars)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Remove remaining Typescript warning supressions](https://github.com/nmamano/wallwars/issues/53)
-- [AI Lags the website while thinking](https://github.com/nmamano/wallwars/issues/51)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
-- [Please document the stdio array in cluster.settings](https://github.com/nodejs/node/issues/47705)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [HTTP2 `res.writableFinished` without calling `.end()`](https://github.com/nodejs/node/issues/38916)
-- [Watch mode: Allow adding files to watch when using the --watch flag](https://github.com/nodejs/node/issues/45467)
-- [Indicate when a test is started in test_runner](https://github.com/nodejs/node/issues/46727)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [forcing heap snapshot via signal does not allow specifying custom directory](https://github.com/nodejs/node/issues/47842)
-- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-- [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
+- [Documentation: `spacing.blockGap` explanation is inadequate for custom blocks](https://github.com/WordPress/gutenberg/issues/43921)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
 
 ## [jensalindgren/gymhub-react](https://github.com/jensalindgren/gymhub-react)
 
@@ -46,4 +38,18 @@ This list gets updated every day at midnight.
 - [USER STORY: Post Adding & Liking/Commenting Posts](https://github.com/jensalindgren/gymhub-react/issues/3)
 - [USER STORY: Authentication/ Sign up](https://github.com/jensalindgren/gymhub-react/issues/2)
 - [USER STORY: Navigation ](https://github.com/jensalindgren/gymhub-react/issues/1)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Pearson](https://github.com/simple-icons/simple-icons/issues/5865)
+- [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
+
+## [stemstr/Client](https://github.com/stemstr/Client)
+
+- [Note UX / UI](https://github.com/stemstr/Client/issues/22)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
+- [Welcome Tour: update copy for pattern assembler experience](https://github.com/Automattic/wp-calypso/issues/74089)
 
