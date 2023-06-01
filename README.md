@@ -4,48 +4,60 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
-- [Documentation: `spacing.blockGap` explanation is inadequate for custom blocks](https://github.com/WordPress/gutenberg/issues/43921)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
-- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
+- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
+- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [facebook/react](https://github.com/facebook/react)
 
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/6701)
-- [[BUG] Slack - New Reaction Added - Icon Emoji prop only loads 14 emojis](https://github.com/PipedreamHQ/pipedream/issues/6642)
-- [[ACTION] Readwise Highlight Detail (e.g. author, source, website, etc) pull to Pipedream?](https://github.com/PipedreamHQ/pipedream/issues/6695)
-- [[ACTION] Microsoft Teams - Shifts App](https://github.com/PipedreamHQ/pipedream/issues/6681)
-- [[IMPROVEMENT] Add new prop - metafield_namespaces to Shopift webhooks](https://github.com/PipedreamHQ/pipedream/issues/6671)
-- [[TRIGGER] Chargebee](https://github.com/PipedreamHQ/pipedream/issues/6625)
-- [[ACTION] Create a new order in MailBluster (email marketing)](https://github.com/PipedreamHQ/pipedream/issues/6638)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6684)
-- [[TRIGGER] Snowflake Failed Tasks: filter on task name regex](https://github.com/PipedreamHQ/pipedream/issues/5867)
-- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
-- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
-- [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
-- [[ACTION] Google PaLM API](https://github.com/PipedreamHQ/pipedream/issues/6573)
-- [[TRIGGER] Tumblr - New Likes](https://github.com/PipedreamHQ/pipedream/issues/6585)
-- [[TRIGGER] Vimeo - New Likes trigger](https://github.com/PipedreamHQ/pipedream/issues/6584)
-- [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
-- [[Refactor] Zoom Admin Enhancements](https://github.com/PipedreamHQ/pipedream/issues/6516)
-- [[Box] Download File to TMP Dir](https://github.com/PipedreamHQ/pipedream/issues/6471)
-- [Procore Actions [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6373)
-- [[ACTION] Update Page from Database](https://github.com/PipedreamHQ/pipedream/issues/6161)
-- [[ACTION] Google Directory](https://github.com/PipedreamHQ/pipedream/issues/6302)
-- [[ACTION] Add Twilio Lookup API](https://github.com/PipedreamHQ/pipedream/issues/6264)
-- [[TRIGGER] New Order Received](https://github.com/PipedreamHQ/pipedream/issues/6251)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+
+## [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
+- [Fix docs snippets that don't compile](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4278)
+
+## [jain-rishabh-21/DoctorVerse](https://github.com/jain-rishabh-21/DoctorVerse)
+
+- [Improving the "Add new Issue" template](https://github.com/jain-rishabh-21/DoctorVerse/issues/47)
+- [improving the Pull request template](https://github.com/jain-rishabh-21/DoctorVerse/issues/48)
+- [Remove the node modules directory.](https://github.com/jain-rishabh-21/DoctorVerse/issues/41)
+
+## [MassiGy/Camp-Shop](https://github.com/MassiGy/Camp-Shop)
+
+- [Make the UI on home page look better.](https://github.com/MassiGy/Camp-Shop/issues/7)
+- [Make the UI on the CRUD pages better.](https://github.com/MassiGy/Camp-Shop/issues/9)
+- [Make the controllers performance better.](https://github.com/MassiGy/Camp-Shop/issues/10)
+- [Make the code cleaner.](https://github.com/MassiGy/Camp-Shop/issues/11)
+- [Make the UI on landing page & about page better.](https://github.com/MassiGy/Camp-Shop/issues/8)
+
+## [Backend-Builders/backend-builder](https://github.com/Backend-Builders/backend-builder)
+
+- [Start test development for the main project](https://github.com/Backend-Builders/backend-builder/issues/5)
+- [Create the first tests for Node/Express boilerplates](https://github.com/Backend-Builders/backend-builder/issues/6)
+- [Create a GitHub Action workflow for tests on PRs](https://github.com/Backend-Builders/backend-builder/issues/29)
+- [Add instruction messages at the end of the process](https://github.com/Backend-Builders/backend-builder/issues/23)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [DataBlock elements swallow tab events, preventing keyboard navigation.](https://github.com/google/site-kit-wp/issues/6901)
+- [User focus is lost when exiting Account Menu (Accessibility)](https://github.com/google/site-kit-wp/issues/6635)
+- [`Proxy_AccountTicket located in Proxy_Account_Ticket.php does not comply with psr-4 autoloading standard`](https://github.com/google/site-kit-wp/issues/6853)
+- [Remove extra padding on "An associated Universal Analytics property will also be created" message](https://github.com/google/site-kit-wp/issues/5213)
+- [Replace module store string interpolation with getModuleStoreName selector.](https://github.com/google/site-kit-wp/issues/6202)
+- [Consider re-positioning settings in GA `SettingsView`](https://github.com/google/site-kit-wp/issues/6821)
+- [Account menu lists four items inside but only two options are available (Accessibility)](https://github.com/google/site-kit-wp/issues/6636)
+- [Fix long CTAs in Banner Notifications](https://github.com/google/site-kit-wp/issues/6734)
 
