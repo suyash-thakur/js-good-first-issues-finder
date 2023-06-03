@@ -4,61 +4,44 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+## [celestiaorg/docs](https://github.com/celestiaorg/docs)
 
-- [Update Sound extension⚙](https://github.com/TurboWarp/extensions/issues/117)
+- [Clarify flags of start node command to improve UX](https://github.com/celestiaorg/docs/issues/709)
+- [Make sidebar collapsible on screen sizes larger than small/md](https://github.com/celestiaorg/docs/issues/718)
+- [enable a CI linter on this repo to auto-format .mdx files](https://github.com/celestiaorg/docs/issues/676)
+- [Add root-level `.markdownlint.yaml`](https://github.com/celestiaorg/docs/issues/457)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
-- [Documentation: `spacing.blockGap` explanation is inadequate for custom blocks](https://github.com/WordPress/gutenberg/issues/43921)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Migrate components to TS: Input](https://github.com/MetaMask/metamask-extension/issues/19122)
+- [Migrate components to TS: PickerNetwork](https://github.com/MetaMask/metamask-extension/issues/19124)
+- [Migrate components to TS: AvatarNetwork](https://github.com/MetaMask/metamask-extension/issues/18884)
+- [Migrate components to TS: ButtonBase](https://github.com/MetaMask/metamask-extension/issues/18886)
+- [Migrate components to TS: BannerBase](https://github.com/MetaMask/metamask-extension/issues/19181)
+- [Migrate components to TS: AvatarAccount](https://github.com/MetaMask/metamask-extension/issues/18882)
+- [Migrate components to TS: ButtonPrimary](https://github.com/MetaMask/metamask-extension/issues/18887)
+- [Migrate components to TS: Button](https://github.com/MetaMask/metamask-extension/issues/18890)
+- [Migrate components to TS: ButtonLink](https://github.com/MetaMask/metamask-extension/issues/18889)
+- [Migrate components to TS: ButtonSecondary](https://github.com/MetaMask/metamask-extension/issues/18888)
+- [Migrate components to TS: AvatarToken](https://github.com/MetaMask/metamask-extension/issues/18885)
+- [Migrate components to TS: AvatarIcon](https://github.com/MetaMask/metamask-extension/issues/18883)
+- [Migrate components to TS: AvatarFavicon](https://github.com/MetaMask/metamask-extension/issues/19117)
+- [Migrate components to TS: BannerAlert](https://github.com/MetaMask/metamask-extension/issues/19118)
+- [Migrate components to TS: BannerTip](https://github.com/MetaMask/metamask-extension/issues/19119)
+- [Migrate components to TS: FormTextField](https://github.com/MetaMask/metamask-extension/issues/19120)
+- [Migrate components to TS: HelpText](https://github.com/MetaMask/metamask-extension/issues/19121)
+- [Migrate components to TS: Tag](https://github.com/MetaMask/metamask-extension/issues/19125)
+- [Migrate components to TS: TagUrl](https://github.com/MetaMask/metamask-extension/issues/19126)
+- [Migrate components to TS: Label](https://github.com/MetaMask/metamask-extension/issues/19123)
+- [Migrate components to TS: TextFieldSearch](https://github.com/MetaMask/metamask-extension/issues/19128)
+- [Migrate components to TS: TextField](https://github.com/MetaMask/metamask-extension/issues/19127)
+- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
+- [Replace Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [Replace old Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
-- [the No Internet screen shows the Chrome logo when you die in the dinosaur game](https://github.com/brave/brave-browser/issues/17124)
-
-## [near/neardevhub-widgets](https://github.com/near/neardevhub-widgets)
-
-- [Missing root permission for members](https://github.com/near/neardevhub-widgets/issues/88)
-- [Rename notifications and Reposts to DevHub](https://github.com/near/neardevhub-widgets/issues/110)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
-- [Welcome Tour: update copy for pattern assembler experience](https://github.com/Automattic/wp-calypso/issues/74089)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Silent sent and silent call modes are not behaving the same](https://github.com/nextcloud/spreed/issues/8336)
-
-## [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-
-- [Move `to != owner` check from `ERC721.approval` to `ERC721._approval`](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4136)
-- [Fix docs snippets that don't compile](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4278)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
-- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-- [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [Default fetch timeout too short](https://github.com/nodejs/undici/issues/1373)
-- [Handle the infamous raw deflate response from old servers](https://github.com/nodejs/undici/issues/2128)
+- [Glob resolver doesn't support `/` and `~`](https://github.com/parcel-bundler/parcel/issues/8704)
+- [Running out of heap memory caused by square brackets](https://github.com/parcel-bundler/parcel/issues/8519)
+- [HMR is not working with pug extends ](https://github.com/parcel-bundler/parcel/issues/7892)
 
