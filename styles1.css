@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    /* background-color: #FFFAFA; */
+    box-sizing: border-box;
+}
+.sidebar {
+    width: 22%;
+    position: fixed;
+    height: 100vh;
+    /* background-color: white; */
+    font-size: 1.5rem;
+    padding: 1rem;
+    padding-top: 10%;
+    border-right: 3px solid rgba(0, 0, 0, 0.285);
+}
+
+.rightside {
+    width: 75%;
+    margin-left: 25%;
+
+}
+
+.sidebar>a {
+    margin-top: 1rem;
+}
