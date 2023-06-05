@@ -4,53 +4,60 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+
+## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
+- [⚒️[FEATURE] LatexTextSplitter Integration](https://github.com/FlowiseAI/Flowise/issues/226)
+- [⚒️[FEATURE] Figma Loader Integration](https://github.com/FlowiseAI/Flowise/issues/225)
+- [⚒️[FEATURE] Subtitles Loader Integration](https://github.com/FlowiseAI/Flowise/issues/224)
+- [⚒️[FEATURE] Gitbook Loader Integration](https://github.com/FlowiseAI/Flowise/issues/223)
+- [⚒️[FEATURE] Qdrant VectorStore Integration](https://github.com/FlowiseAI/Flowise/issues/221)
+- [⚒️[FEATURE] Support line breaks in UI User Chat ](https://github.com/FlowiseAI/Flowise/issues/220)
+
+## [jjangga0214/hasura-cli](https://github.com/jjangga0214/hasura-cli)
+
+- [SyntaxError when running hasura command with yarn v2](https://github.com/jjangga0214/hasura-cli/issues/63)
+
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+
+- [[Bug]: Following hyperlink from HotROD app does not find the trace on first try](https://github.com/jaegertracing/jaeger-ui/issues/1180)
+- [[Bug]: trace statistics and trace span table are using different look & feel](https://github.com/jaegertracing/jaeger-ui/issues/1181)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Avatar block not 1:1 between the editor and the front-end](https://github.com/WordPress/gutenberg/issues/49775)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
+- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
+
 ## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
 
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
 - [Update Sound extension⚙](https://github.com/TurboWarp/extensions/issues/117)
 
-## [facebook/react](https://github.com/facebook/react)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
 
-## [devs-in-tech/DevsInTech](https://github.com/devs-in-tech/DevsInTech)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [[Feature] Adding Pre Loader page  [GSSOC 2023]](https://github.com/devs-in-tech/DevsInTech/issues/133)
-- [[BUG] The Scrolling up Button Going behind ](https://github.com/devs-in-tech/DevsInTech/issues/188)
-- [[style]:  Font styling for mobile and Footer adjustment for larger screen](https://github.com/devs-in-tech/DevsInTech/issues/165)
-- [update navbar animation on phone screen](https://github.com/devs-in-tech/DevsInTech/issues/128)
-- [[style]: About Us Component ](https://github.com/devs-in-tech/DevsInTech/issues/117)
-- [[OTHER] Add a GSSOC checkbox in issue template ](https://github.com/devs-in-tech/DevsInTech/issues/181)
-- [[style]: Making nav bar fixed is causing problem](https://github.com/devs-in-tech/DevsInTech/issues/182)
-- [[Feature] Adding smooth scroll to the website](https://github.com/devs-in-tech/DevsInTech/issues/85)
-- [[BUG] Fixing the accordion](https://github.com/devs-in-tech/DevsInTech/issues/77)
-- [[BUG] Updating text in accordion ](https://github.com/devs-in-tech/DevsInTech/issues/136)
-- [[Feature] Testimonial components](https://github.com/devs-in-tech/DevsInTech/issues/25)
+- [Add navbar active state](https://github.com/hackclub/sprig/issues/801)
+- [Add built-in autoformatting tool](https://github.com/hackclub/sprig/issues/976)
 
 ## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 
 - [Pearson](https://github.com/simple-icons/simple-icons/issues/5865)
 - [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [Doc: Explain what are isomorphic packages](https://github.com/WordPress/wordpress-playground/issues/505)
-- [Doc: Include a brief overview of what WordPress Playground is and its main features](https://github.com/WordPress/wordpress-playground/issues/509)
-- [Doc: Link from Blueprints page to JS API page](https://github.com/WordPress/wordpress-playground/issues/513)
-- [wp_safe_remote_get request to an HTTPS site fails](https://github.com/WordPress/wordpress-playground/issues/396)
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
-- [PHP: mount() should not create a directory when mounting a file](https://github.com/WordPress/wordpress-playground/issues/503)
-- [Doc: Discuss GPL Licensing in the contributing document](https://github.com/WordPress/wordpress-playground/issues/504)
-- [Build WordPress beta releases](https://github.com/WordPress/wordpress-playground/issues/500)
-- [Add WordPress beta release to the version picker](https://github.com/WordPress/wordpress-playground/issues/501)
-- [UX: Add an infobox to explain why plugin, themes, pattern etc directories don't work](https://github.com/WordPress/wordpress-playground/issues/498)
-- [Add 'engines' declaration in all relevant package.json files](https://github.com/WordPress/wordpress-playground/issues/449)
-- [Add a github link on playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/173)
-- [UI to install WordPress plugins on Playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/170)
-- [Introduce a general createFiles() function that accepts an object and creates a file tree](https://github.com/WordPress/wordpress-playground/issues/142)
-- [Website: Onboarding modal for new users](https://github.com/WordPress/wordpress-playground/issues/497)
-- [Documentation: Add Resources page](https://github.com/WordPress/wordpress-playground/issues/422)
 
 ## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
 
