@@ -4,9 +4,41 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
+- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Twitter Upload Media](https://github.com/PipedreamHQ/pipedream/issues/6763)
+- [[ACTION] Readwise Highlight Detail (e.g. author, source, website, etc) pull to Pipedream?](https://github.com/PipedreamHQ/pipedream/issues/6695)
+- [[TRIGGER] Smartsheet - Update Triggers + Add New](https://github.com/PipedreamHQ/pipedream/issues/6733)
+- [[Box] Download File to TMP Dir](https://github.com/PipedreamHQ/pipedream/issues/6471)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/6714)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/6701)
+- [[TRIGGER] Chargebee](https://github.com/PipedreamHQ/pipedream/issues/6625)
+- [[BUG] Slack - New Reaction Added - Icon Emoji prop only loads 14 emojis](https://github.com/PipedreamHQ/pipedream/issues/6642)
+- [[ACTION] Microsoft Teams - Shifts App](https://github.com/PipedreamHQ/pipedream/issues/6681)
+- [[IMPROVEMENT] Add new prop - metafield_namespaces to Shopift webhooks](https://github.com/PipedreamHQ/pipedream/issues/6671)
+- [[ACTION] Create a new order in MailBluster (email marketing)](https://github.com/PipedreamHQ/pipedream/issues/6638)
+- [[TRIGGER] Snowflake Failed Tasks: filter on task name regex](https://github.com/PipedreamHQ/pipedream/issues/5867)
+- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
+- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
+- [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
+- [[ACTION] Google PaLM API](https://github.com/PipedreamHQ/pipedream/issues/6573)
+- [[TRIGGER] Tumblr - New Likes](https://github.com/PipedreamHQ/pipedream/issues/6585)
+- [[TRIGGER] Vimeo - New Likes trigger](https://github.com/PipedreamHQ/pipedream/issues/6584)
+- [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
+- [[Refactor] Zoom Admin Enhancements](https://github.com/PipedreamHQ/pipedream/issues/6516)
+- [Procore Actions [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6373)
+- [[ACTION] Update Page from Database](https://github.com/PipedreamHQ/pipedream/issues/6161)
+- [[ACTION] Google Directory](https://github.com/PipedreamHQ/pipedream/issues/6302)
+- [[ACTION] Add Twilio Lookup API](https://github.com/PipedreamHQ/pipedream/issues/6264)
 
 ## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
@@ -17,52 +49,9 @@ This list gets updated every day at midnight.
 - [⚒️[FEATURE] Qdrant VectorStore Integration](https://github.com/FlowiseAI/Flowise/issues/221)
 - [⚒️[FEATURE] Support line breaks in UI User Chat ](https://github.com/FlowiseAI/Flowise/issues/220)
 
-## [jjangga0214/hasura-cli](https://github.com/jjangga0214/hasura-cli)
+## [facebook/react](https://github.com/facebook/react)
 
-- [SyntaxError when running hasura command with yarn v2](https://github.com/jjangga0214/hasura-cli/issues/63)
-
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-
-- [[Bug]: Following hyperlink from HotROD app does not find the trace on first try](https://github.com/jaegertracing/jaeger-ui/issues/1180)
-- [[Bug]: trace statistics and trace span table are using different look & feel](https://github.com/jaegertracing/jaeger-ui/issues/1181)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Avatar block not 1:1 between the editor and the front-end](https://github.com/WordPress/gutenberg/issues/49775)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
-- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
-
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
-
-- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
-- [Update Sound extension⚙](https://github.com/TurboWarp/extensions/issues/117)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
-
-## [hackclub/sprig](https://github.com/hackclub/sprig)
-
-- [Add navbar active state](https://github.com/hackclub/sprig/issues/801)
-- [Add built-in autoformatting tool](https://github.com/hackclub/sprig/issues/976)
-
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Pearson](https://github.com/simple-icons/simple-icons/issues/5865)
-- [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
-
-## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
-
-- [SELECT RECORDSET * from csv returning empty columns if there's no matched rows](https://github.com/AlaSQL/alasql/issues/1547)
-- [DATE function not working ](https://github.com/AlaSQL/alasql/issues/1627)
-- [REPLACE( ) is not working in WHERE condition in version 1.7.3](https://github.com/AlaSQL/alasql/issues/1455)
-- [In INDEXEDDB, alasql.promise fails to create multiple tables with sql in array, but works with sql as string](https://github.com/AlaSQL/alasql/issues/1641)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
 
