@@ -4,30 +4,44 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Avatar block not 1:1 between the editor and the front-end](https://github.com/WordPress/gutenberg/issues/49775)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
-- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [File Block: file name needs to use PlainText component](https://github.com/WordPress/gutenberg/issues/10967)
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
+- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
+- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
+- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
-- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
-- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
-- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
+- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
+- [[ACTION] Google Sheets - Delete Multiple Rows](https://github.com/PipedreamHQ/pipedream/issues/6804)
+- [[Components] Google Chat](https://github.com/PipedreamHQ/pipedream/issues/6807)
+- [[Components] Instagram for Business](https://github.com/PipedreamHQ/pipedream/issues/6806)
+- [[TRIGGER] Can we make trigger in outlook only from specific email address?](https://github.com/PipedreamHQ/pipedream/issues/6793)
+- [[ACTION] Readwise Highlight Detail (e.g. author, source, website, etc) pull to Pipedream?](https://github.com/PipedreamHQ/pipedream/issues/6695)
+- [[TRIGGER] Chargebee](https://github.com/PipedreamHQ/pipedream/issues/6625)
+- [[IMPROVEMENT] Add new prop - metafield_namespaces to Shopift webhooks](https://github.com/PipedreamHQ/pipedream/issues/6671)
+- [[ACTION] Create a new order in MailBluster (email marketing)](https://github.com/PipedreamHQ/pipedream/issues/6638)
+- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
+- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
+- [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
+- [[ACTION] Google PaLM API](https://github.com/PipedreamHQ/pipedream/issues/6573)
+- [[TRIGGER] Tumblr - New Likes](https://github.com/PipedreamHQ/pipedream/issues/6585)
+- [[TRIGGER] Vimeo - New Likes trigger](https://github.com/PipedreamHQ/pipedream/issues/6584)
+- [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
+- [[Refactor] Zoom Admin Enhancements](https://github.com/PipedreamHQ/pipedream/issues/6516)
+- [Procore Actions [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6373)
+- [[ACTION] Update Page from Database](https://github.com/PipedreamHQ/pipedream/issues/6161)
+- [[ACTION] Google Directory](https://github.com/PipedreamHQ/pipedream/issues/6302)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -42,11 +56,7 @@ This list gets updated every day at midnight.
 - [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
 - [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [screwdriver-cd/screwdriver](https://github.com/screwdriver-cd/screwdriver)
 
-- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [HTTP2 `res.writableFinished` without calling `.end()`](https://github.com/nodejs/node/issues/38916)
-- [Watch mode: Allow adding files to watch when using the --watch flag](https://github.com/nodejs/node/issues/45467)
-- [Indicate when a test is started in test_runner](https://github.com/nodejs/node/issues/46727)
+- [using store-cli without cache configuration corrupts pipeline](https://github.com/screwdriver-cd/screwdriver/issues/2872)
 
