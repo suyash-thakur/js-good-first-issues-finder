@@ -4,30 +4,50 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
+- [[Bug]: trace statistics and trace span table are using different look & feel](https://github.com/jaegertracing/jaeger-ui/issues/1181)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
 
-- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
+- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
+- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
+- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
-- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
-- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
+- [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
+- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
+
+## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
+- [⚒️[FEATURE] LatexTextSplitter Integration](https://github.com/FlowiseAI/Flowise/issues/226)
+- [⚒️[FEATURE] Subtitles Loader Integration](https://github.com/FlowiseAI/Flowise/issues/224)
+- [⚒️[FEATURE] Support line breaks in UI User Chat ](https://github.com/FlowiseAI/Flowise/issues/220)
+- [[API input configuration]](https://github.com/FlowiseAI/Flowise/issues/261)
+- [⚒️[FEATURE] Gitbook Loader Integration](https://github.com/FlowiseAI/Flowise/issues/223)
+- [⚒️[FEATURE] Figma Loader Integration](https://github.com/FlowiseAI/Flowise/issues/225)
+- [⚒️[FEATURE] Qdrant VectorStore Integration](https://github.com/FlowiseAI/Flowise/issues/221)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
+- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
+- [[Action] Google Tag Manager - Updates a GTM Variable](https://github.com/PipedreamHQ/pipedream/issues/5050)
+- [[ACTION] Google Tag Manager](https://github.com/PipedreamHQ/pipedream/issues/6841)
+- [[Components] Google Chat](https://github.com/PipedreamHQ/pipedream/issues/6807)
 - [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
 - [[ACTION] Google Sheets - Delete Multiple Rows](https://github.com/PipedreamHQ/pipedream/issues/6804)
-- [[Components] Google Chat](https://github.com/PipedreamHQ/pipedream/issues/6807)
 - [[Components] Instagram for Business](https://github.com/PipedreamHQ/pipedream/issues/6806)
 - [[TRIGGER] Can we make trigger in outlook only from specific email address?](https://github.com/PipedreamHQ/pipedream/issues/6793)
-- [[ACTION] Readwise Highlight Detail (e.g. author, source, website, etc) pull to Pipedream?](https://github.com/PipedreamHQ/pipedream/issues/6695)
 - [[TRIGGER] Chargebee](https://github.com/PipedreamHQ/pipedream/issues/6625)
 - [[IMPROVEMENT] Add new prop - metafield_namespaces to Shopift webhooks](https://github.com/PipedreamHQ/pipedream/issues/6671)
 - [[ACTION] Create a new order in MailBluster (email marketing)](https://github.com/PipedreamHQ/pipedream/issues/6638)
@@ -42,21 +62,4 @@ This list gets updated every day at midnight.
 - [Procore Actions [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6373)
 - [[ACTION] Update Page from Database](https://github.com/PipedreamHQ/pipedream/issues/6161)
 - [[ACTION] Google Directory](https://github.com/PipedreamHQ/pipedream/issues/6302)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
-- [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
-- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
-- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-- [With-monaco-editor example is fragile - found drop-in solution](https://github.com/vercel/next.js/issues/25263)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-
-## [screwdriver-cd/screwdriver](https://github.com/screwdriver-cd/screwdriver)
-
-- [using store-cli without cache configuration corrupts pipeline](https://github.com/screwdriver-cd/screwdriver/issues/2872)
 
