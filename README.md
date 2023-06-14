@@ -4,26 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jensalindgren/gymhub-react](https://github.com/jensalindgren/gymhub-react)
-
-- [USER STORY: Upvotes](https://github.com/jensalindgren/gymhub-react/issues/8)
-- [STYLE : Events](https://github.com/jensalindgren/gymhub-react/issues/13)
-- [STYLE : Post detail pages](https://github.com/jensalindgren/gymhub-react/issues/12)
-- [STYLE : Post pages](https://github.com/jensalindgren/gymhub-react/issues/11)
-- [STYLE : Profile pages](https://github.com/jensalindgren/gymhub-react/issues/10)
-- [STYLE : Navigation ](https://github.com/jensalindgren/gymhub-react/issues/9)
-- [USER STORY: Events](https://github.com/jensalindgren/gymhub-react/issues/7)
-- [USER STORY: Profile Page](https://github.com/jensalindgren/gymhub-react/issues/6)
-- [USER STORY: Post Detail](https://github.com/jensalindgren/gymhub-react/issues/5)
-- [USER STORY:  The Posts Page](https://github.com/jensalindgren/gymhub-react/issues/4)
-- [USER STORY: Post Adding & Liking/Commenting Posts](https://github.com/jensalindgren/gymhub-react/issues/3)
-- [USER STORY: Authentication/ Sign up](https://github.com/jensalindgren/gymhub-react/issues/2)
-- [USER STORY: Navigation ](https://github.com/jensalindgren/gymhub-react/issues/1)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
-
 ## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
 
 - [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
@@ -31,39 +11,58 @@ This list gets updated every day at midnight.
 - [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
 - [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [Setting `onlyAudits`, `onlyCategories` and `skipAudits` to `[]` returns unexpected LHR](https://github.com/GoogleChrome/lighthouse/issues/14986)
-- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
+- [Add navbar active state](https://github.com/hackclub/sprig/issues/801)
+- [Add built-in autoformatting tool](https://github.com/hackclub/sprig/issues/976)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
 
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
+- [Website: Onboarding modal for new users](https://github.com/WordPress/wordpress-playground/issues/497)
+- [Doc: Include a brief overview of what WordPress Playground is and its main features](https://github.com/WordPress/wordpress-playground/issues/509)
+- [UI to install WordPress plugins on Playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/170)
+- [Add 'engines' declaration in all relevant package.json files](https://github.com/WordPress/wordpress-playground/issues/449)
+- [Doc: Explain what are isomorphic packages](https://github.com/WordPress/wordpress-playground/issues/505)
+- [Doc: Link from Blueprints page to JS API page](https://github.com/WordPress/wordpress-playground/issues/513)
+- [wp_safe_remote_get request to an HTTPS site fails](https://github.com/WordPress/wordpress-playground/issues/396)
+- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+- [PHP: mount() should not create a directory when mounting a file](https://github.com/WordPress/wordpress-playground/issues/503)
+- [Doc: Discuss GPL Licensing in the contributing document](https://github.com/WordPress/wordpress-playground/issues/504)
+- [Build WordPress beta releases](https://github.com/WordPress/wordpress-playground/issues/500)
+- [Add WordPress beta release to the version picker](https://github.com/WordPress/wordpress-playground/issues/501)
+- [UX: Add an infobox to explain why plugin, themes, pattern etc directories don't work](https://github.com/WordPress/wordpress-playground/issues/498)
+- [Add a github link on playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/173)
+- [Introduce a general createFiles() function that accepts an object and creates a file tree](https://github.com/WordPress/wordpress-playground/issues/142)
+- [Documentation: Add Resources page](https://github.com/WordPress/wordpress-playground/issues/422)
 
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
-- [box2d extension - some suggestions](https://github.com/TurboWarp/extensions/issues/236)
-- [Number Extension Suggestion](https://github.com/TurboWarp/extensions/issues/301)
-- [Update Sound extension⚙](https://github.com/TurboWarp/extensions/issues/117)
+- [Add "Star the Repository ⭐ " button for Meshery ](https://github.com/meshery/meshery.io/issues/1183)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Layer5 Logo Visibility Issue in Dark Mode](https://github.com/meshery/meshery.io/issues/1146)
 
-## [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Strings.toString doesn't compile with integer literals](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4298)
-- [Governor should revert on ERC1155 and ERC721 receive hooks when it's not executor](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4307)
-- [Move `to != owner` check from `ERC721.approval` to `ERC721._approval`](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4136)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [Server side page si not generated in lingui example](https://github.com/vercel/next.js/issues/36717)
+- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
+- [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 
-## [appium/appium](https://github.com/appium/appium)
+## [facebook/react](https://github.com/facebook/react)
 
-- [xcuitest: improve bad parameters error message](https://github.com/appium/appium/issues/18438)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
 
-## [AnalogStudiosRI/www.blissfestri.com](https://github.com/AnalogStudiosRI/www.blissfestri.com)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [create reusable social link icon component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/107)
-- [eventbrite embed `<iframe>` does not include a title which fails Lighthouse accessibility report](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/76)
-- [conditionally load EventBrite `<iframe>` embed at desktop breakpoints](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/77)
-- [IYRS logo alignment / centering is slightly off center on smallest mobile screen widths](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/44)
-- [refactor double usage of `<img>` tags for event details component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/34)
-- [apply wavy edges treatment to the lineup component](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/82)
-- [decorate page headings with wisps / waves treatment](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/78)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [HTTP2 `res.writableFinished` without calling `.end()`](https://github.com/nodejs/node/issues/38916)
 
