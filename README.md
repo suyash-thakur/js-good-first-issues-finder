@@ -4,42 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [elastic/apm-agent-nodejs](https://github.com/elastic/apm-agent-nodejs)
 
-- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
-- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
-- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
-- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
+- [Start supporting `response.writableEnded` in transaction's context](https://github.com/elastic/apm-agent-nodejs/issues/3428)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add navbar active state](https://github.com/hackclub/sprig/issues/801)
-- [Add built-in autoformatting tool](https://github.com/hackclub/sprig/issues/976)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [Website: Onboarding modal for new users](https://github.com/WordPress/wordpress-playground/issues/497)
-- [Doc: Include a brief overview of what WordPress Playground is and its main features](https://github.com/WordPress/wordpress-playground/issues/509)
-- [UI to install WordPress plugins on Playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/170)
-- [Add 'engines' declaration in all relevant package.json files](https://github.com/WordPress/wordpress-playground/issues/449)
-- [Doc: Explain what are isomorphic packages](https://github.com/WordPress/wordpress-playground/issues/505)
-- [Doc: Link from Blueprints page to JS API page](https://github.com/WordPress/wordpress-playground/issues/513)
-- [wp_safe_remote_get request to an HTTPS site fails](https://github.com/WordPress/wordpress-playground/issues/396)
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
-- [PHP: mount() should not create a directory when mounting a file](https://github.com/WordPress/wordpress-playground/issues/503)
-- [Doc: Discuss GPL Licensing in the contributing document](https://github.com/WordPress/wordpress-playground/issues/504)
-- [Build WordPress beta releases](https://github.com/WordPress/wordpress-playground/issues/500)
-- [Add WordPress beta release to the version picker](https://github.com/WordPress/wordpress-playground/issues/501)
-- [UX: Add an infobox to explain why plugin, themes, pattern etc directories don't work](https://github.com/WordPress/wordpress-playground/issues/498)
-- [Add a github link on playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/173)
-- [Introduce a general createFiles() function that accepts an object and creates a file tree](https://github.com/WordPress/wordpress-playground/issues/142)
-- [Documentation: Add Resources page](https://github.com/WordPress/wordpress-playground/issues/422)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add "Star the Repository ⭐ " button for Meshery ](https://github.com/meshery/meshery.io/issues/1183)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [Layer5 Logo Visibility Issue in Dark Mode](https://github.com/meshery/meshery.io/issues/1146)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -53,11 +24,20 @@ This list gets updated every day at midnight.
 - [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
 - [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 
-## [facebook/react](https://github.com/facebook/react)
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
+- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
+- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
+- [Student Gradebook Unstarted Assignments](https://github.com/PrairieLearn/PrairieLearn/issues/2166)
+
+## [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)
+
+- [[BUG] Hidden Menus due to Overlapping Horizontal Scrollbar on Project Detail Page](https://github.com/hotosm/tasking-manager/issues/5893)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -65,4 +45,17 @@ This list gets updated every day at midnight.
 - [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
 - [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
 - [HTTP2 `res.writableFinished` without calling `.end()`](https://github.com/nodejs/node/issues/38916)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Move DatePicker and TimePicker to own Component](https://github.com/WordPress/gutenberg/issues/18072)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Create Block: Document how to work with the templates defined with `render`](https://github.com/WordPress/gutenberg/issues/47826)
 
