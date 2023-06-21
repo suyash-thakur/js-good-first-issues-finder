@@ -8,40 +8,26 @@ This list gets updated every day at midnight.
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 
-## [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Move `to != owner` check from `ERC721.approval` to `ERC721._approval`](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/4136)
+- [[Community] Member Profile: Randy](https://github.com/layer5io/layer5/issues/4317)
+- [[Landscape] Add Nasp](https://github.com/layer5io/layer5/issues/4350)
+- [[Site] Enhance and place the graphic onto the about page.](https://github.com/layer5io/layer5/issues/4404)
+- [[Meshery] Installation instructions for Docker Extension](https://github.com/layer5io/layer5/issues/4386)
+- [Enhancement Community Member Profile Social Links](https://github.com/layer5io/layer5/issues/4367)
+- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
+- [[Footer] Subscribe component overlaps on zoom greater than 100%](https://github.com/layer5io/layer5/issues/3865)
+- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
+- [Add "Star the Repository" button for Meshery ](https://github.com/layer5io/layer5/issues/4361)
+- [[bug] Update `Get The Book` buttons](https://github.com/layer5io/layer5/issues/4219)
+- [[Landscape] Add FSM](https://github.com/layer5io/layer5/issues/4332)
+- [[White Logo] Need a new white logo for kubewarden](https://github.com/layer5io/layer5/issues/3430)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
 
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
-
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Uptime Robot](https://github.com/simple-icons/simple-icons/issues/3831)
-- [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
-- [Request for F# icons](https://github.com/simple-icons/simple-icons/issues/5385)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Where can i get pipedream full IP list?](https://github.com/PipedreamHQ/pipedream/issues/6943)
-- [Trigger from AWS SQS](https://github.com/PipedreamHQ/pipedream/issues/6888)
-- [[ACTION] Enhancement: Support send from email for Gmail action](https://github.com/PipedreamHQ/pipedream/issues/5663)
-- [[ACTION] Add attachment, Zoho CRM](https://github.com/PipedreamHQ/pipedream/issues/6903)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[ACTION] Google Drive - Create Permission](https://github.com/PipedreamHQ/pipedream/issues/6889)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/6892)
-- [[ACTION] Google Tag Manager](https://github.com/PipedreamHQ/pipedream/issues/6841)
-- [[ACTION] Forward HTTP request with no or minimal modification](https://github.com/PipedreamHQ/pipedream/issues/6882)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-- [[Action] Google Tag Manager - Updates a GTM Variable](https://github.com/PipedreamHQ/pipedream/issues/5050)
-- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
-- [[Components] Instagram for Business](https://github.com/PipedreamHQ/pipedream/issues/6806)
-- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
-- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
-- [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
-- [[TRIGGER] Tumblr - New Likes](https://github.com/PipedreamHQ/pipedream/issues/6585)
-- [[TRIGGER] Vimeo - New Likes trigger](https://github.com/PipedreamHQ/pipedream/issues/6584)
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
+- [box2d extension - some suggestions](https://github.com/TurboWarp/extensions/issues/236)
+- [Number Extension Suggestion](https://github.com/TurboWarp/extensions/issues/301)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -55,4 +41,14 @@ This list gets updated every day at midnight.
 - [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
 - [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Add "Star the Repository ⭐ " button for Meshery ](https://github.com/meshery/meshery.io/issues/1183)
+- [[Site] Enhance Community Calendar page](https://github.com/meshery/meshery.io/issues/1202)
+- [[Site] Update Internship programs content](https://github.com/meshery/meshery.io/issues/1200)
+- [[Site] [Dark Mode] Update import catalog modal according to theme](https://github.com/meshery/meshery.io/issues/1203)
+- [Text Visibility issue inside Introduction to Meshery Popup in Dark Mode](https://github.com/meshery/meshery.io/issues/1196)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Layer5 Logo Visibility Issue in Dark Mode](https://github.com/meshery/meshery.io/issues/1146)
 
