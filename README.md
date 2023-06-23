@@ -8,31 +8,46 @@ This list gets updated every day at midnight.
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 
-## [CalNourish/pantry-webapp](https://github.com/CalNourish/pantry-webapp)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Reorder Inventory page columns](https://github.com/CalNourish/pantry-webapp/issues/185)
+- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
 
-## [maleksan/language-learning-game](https://github.com/maleksan/language-learning-game)
+## [martinyis/RepoAppIdea](https://github.com/martinyis/RepoAppIdea)
 
-- [Iecentrēt spēles logu vertikāli](https://github.com/maleksan/language-learning-game/issues/7)
-- [Izveidot AWS EC2 vidi - pacelt un sakonfigurēt APP instance (Nodejs)](https://github.com/maleksan/language-learning-game/issues/3)
-- [Izveidot AWS EC2 vidi - pacelt un sakonfigurēt Linux VM](https://github.com/maleksan/language-learning-game/issues/4)
+- [EASY! Change text style for Login/Logout btn](https://github.com/martinyis/RepoAppIdea/issues/32)
+- [Hide content under burger menu](https://github.com/martinyis/RepoAppIdea/issues/30)
+- [Imrpove burger menu open/close buttons.](https://github.com/martinyis/RepoAppIdea/issues/29)
+- [Implement Skeleton Loading Effect for Project Gallery Component](https://github.com/martinyis/RepoAppIdea/issues/21)
+- [Improve Scrollbar Styling for ProjectCard](https://github.com/martinyis/RepoAppIdea/issues/20)
 
-## [stylelint/stylelint](https://github.com/stylelint/stylelint)
+## [hirosystems/docs](https://github.com/hirosystems/docs)
 
-- [Fix `selector-pseudo-class-no-unknown` false negatives for non-standard `:slotted`](https://github.com/stylelint/stylelint/issues/6878)
+- [Show last updated timestamp and page author](https://github.com/hirosystems/docs/issues/53)
 
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Wrong 'AttemptResult' TS type](https://github.com/cypress-io/cypress/issues/24110)
-- [Generic for request/response inside .then coming from .wait](https://github.com/cypress-io/cypress/issues/22378)
-- [after:spec result does not match specification](https://github.com/cypress-io/cypress/issues/23805)
-- [selectFile from fixture will omit file name if used in two consequent tests](https://github.com/cypress-io/cypress/issues/21936)
-- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
-- [ saved screenshots and videos names be saved in a terminal friendly way](https://github.com/cypress-io/cypress/issues/23510)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [isn't work at Specific path ](https://github.com/vercel/next.js/issues/36259)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Server side page si not generated in lingui example](https://github.com/vercel/next.js/issues/36717)
+- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
+- [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
+- [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
+- [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
+
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+- [Add more `"additionalProperties": false` to JSON schemas](https://github.com/PrairieLearn/PrairieLearn/issues/1327)
+- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
+- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
+- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
+- [[TRIGGER] Stripe](https://github.com/PipedreamHQ/pipedream/issues/6999)
+- [[Snowflake] Add Regex to Schemas - Failed Schemas](https://github.com/PipedreamHQ/pipedream/issues/6994)
+- [Get all assignments due/missing/upcoming](https://github.com/PipedreamHQ/pipedream/issues/6990)
 - [[Components] Google My Business](https://github.com/PipedreamHQ/pipedream/issues/6979)
 - [[ACTION] Microsoft Teams - Shifts App](https://github.com/PipedreamHQ/pipedream/issues/6681)
 - [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
@@ -49,10 +64,4 @@ This list gets updated every day at midnight.
 - [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
 - [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
 - [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
-- [[TRIGGER] Tumblr - New Likes](https://github.com/PipedreamHQ/pipedream/issues/6585)
-- [[TRIGGER] Vimeo - New Likes trigger](https://github.com/PipedreamHQ/pipedream/issues/6584)
-
-## [facebook/react](https://github.com/facebook/react)
-
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
 
