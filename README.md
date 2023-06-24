@@ -4,28 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Bundle tools should handle EMFILE gracefully](https://github.com/endojs/endo/issues/1593)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
 
-- [GSuite: Post-checkout screen needs design love](https://github.com/Automattic/wp-calypso/issues/45123)
-
-## [martinyis/RepoAppIdea](https://github.com/martinyis/RepoAppIdea)
-
-- [EASY! Change text style for Login/Logout btn](https://github.com/martinyis/RepoAppIdea/issues/32)
-- [Hide content under burger menu](https://github.com/martinyis/RepoAppIdea/issues/30)
-- [Imrpove burger menu open/close buttons.](https://github.com/martinyis/RepoAppIdea/issues/29)
-- [Implement Skeleton Loading Effect for Project Gallery Component](https://github.com/martinyis/RepoAppIdea/issues/21)
-- [Improve Scrollbar Styling for ProjectCard](https://github.com/martinyis/RepoAppIdea/issues/20)
-
-## [hirosystems/docs](https://github.com/hirosystems/docs)
-
-- [Show last updated timestamp and page author](https://github.com/hirosystems/docs/issues/53)
+- [Finish Decaffing all core packages](https://github.com/pulsar-edit/pulsar/issues/444)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
 - [isn't work at Specific path ](https://github.com/vercel/next.js/issues/36259)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
@@ -36,32 +25,36 @@ This list gets updated every day at midnight.
 - [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
 - [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
 
-- [Add more `"additionalProperties": false` to JSON schemas](https://github.com/PrairieLearn/PrairieLearn/issues/1327)
-- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
-- [Question stats not auto-recalculated if they were never calculated](https://github.com/PrairieLearn/PrairieLearn/issues/2238)
-- [Some elements are not properly disabled when submissions are not permissible](https://github.com/PrairieLearn/PrairieLearn/issues/5540)
+- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
+- [Improving Tailor and Customer Dashboard and Registration](https://github.com/UBA-GCOEN/StichHub/issues/60)
+- [Add smooth scroll over the website](https://github.com/UBA-GCOEN/StichHub/issues/51)
+- [Add on hover animation to landing page buttons](https://github.com/UBA-GCOEN/StichHub/issues/13)
+- [[BUG] Preloader loading issue ](https://github.com/UBA-GCOEN/StichHub/issues/151)
+- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
+- [Contact form not working on the home page](https://github.com/UBA-GCOEN/StichHub/issues/118)
+- [Add hover animation effects to the cards.](https://github.com/UBA-GCOEN/StichHub/issues/103)
+- [Add navigation links in CustomersPage](https://github.com/UBA-GCOEN/StichHub/issues/80)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
 
-- [[TRIGGER] Stripe](https://github.com/PipedreamHQ/pipedream/issues/6999)
-- [[Snowflake] Add Regex to Schemas - Failed Schemas](https://github.com/PipedreamHQ/pipedream/issues/6994)
-- [Get all assignments due/missing/upcoming](https://github.com/PipedreamHQ/pipedream/issues/6990)
-- [[Components] Google My Business](https://github.com/PipedreamHQ/pipedream/issues/6979)
-- [[ACTION] Microsoft Teams - Shifts App](https://github.com/PipedreamHQ/pipedream/issues/6681)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[Components] Instagram for Business](https://github.com/PipedreamHQ/pipedream/issues/6806)
-- [Trigger from AWS SQS](https://github.com/PipedreamHQ/pipedream/issues/6888)
-- [[ACTION] Enhancement: Support send from email for Gmail action](https://github.com/PipedreamHQ/pipedream/issues/5663)
-- [[ACTION] Add attachment, Zoho CRM](https://github.com/PipedreamHQ/pipedream/issues/6903)
-- [[ACTION] Google Drive - Create Permission](https://github.com/PipedreamHQ/pipedream/issues/6889)
-- [[ACTION] Google Tag Manager](https://github.com/PipedreamHQ/pipedream/issues/6841)
-- [[ACTION] Forward HTTP request with no or minimal modification](https://github.com/PipedreamHQ/pipedream/issues/6882)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-- [[Action] Google Tag Manager - Updates a GTM Variable](https://github.com/PipedreamHQ/pipedream/issues/5050)
-- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
-- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
-- [[TRIGGER] Slack Bot, reaction trigger - https://api.slack.com/events/reaction_added](https://github.com/PipedreamHQ/pipedream/issues/6181)
-- [[ACTION] Allow us to trigger Notion's AI](https://github.com/PipedreamHQ/pipedream/issues/6587)
+- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
+- [As a developer, I would like to add an "arrow" to any external URL's; to signal to users that a url likes to an external website](https://github.com/elegantframework/elegant-cli/issues/81)
+- [As a developer, I would like the navigation and authors config to be under the '/config' namespace.](https://github.com/elegantframework/elegant-cli/issues/59)
+- [As a website owner, I would like to have a security.txt file included in my website.](https://github.com/elegantframework/elegant-cli/issues/58)
+- [As a content creator, I want to include a Facebook(Meta) Pixel for user engangement insights and tracking.](https://github.com/elegantframework/elegant-cli/issues/51)
+- [As a content creator, I would like a "Brand" page, showing my logos and resources.](https://github.com/elegantframework/elegant-cli/issues/41)
+
+## [asyncapi/website](https://github.com/asyncapi/website)
+
+- [[📑 Docs]: update docs issues in ALL repos that are missing the `area/docs` label ](https://github.com/asyncapi/website/issues/682)
+- [[📑 Docs]: Create an Onboarding guide for technical writers](https://github.com/asyncapi/website/issues/1712)
+- [docs: new style guide - Glossary](https://github.com/asyncapi/website/issues/1294)
+- [[📑 Docs]: improve adeo case study](https://github.com/asyncapi/website/issues/1615)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
 
