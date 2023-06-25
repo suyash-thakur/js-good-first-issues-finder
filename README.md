@@ -4,13 +4,49 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [rawasaditya/SocioPedia](https://github.com/rawasaditya/SocioPedia)
+
+- [Comment on post and display all comments ](https://github.com/rawasaditya/SocioPedia/issues/7)
+- [Setup wiki project](https://github.com/rawasaditya/SocioPedia/issues/2)
+- [Create Profile Page](https://github.com/rawasaditya/SocioPedia/issues/6)
+- [Post does not reflect in real time](https://github.com/rawasaditya/SocioPedia/issues/10)
+- [Adding github actions for pipline](https://github.com/rawasaditya/SocioPedia/issues/3)
+- [Login successful doesn't redirect to home page](https://github.com/rawasaditya/SocioPedia/issues/1)
+
+## [DevAbdoTolba/theday](https://github.com/DevAbdoTolba/theday)
+
+- [USE theme palette in SX](https://github.com/DevAbdoTolba/theday/issues/15)
+- [Loading when clicking on title home screen](https://github.com/DevAbdoTolba/theday/issues/8)
+- [Offline screen for UX](https://github.com/DevAbdoTolba/theday/issues/9)
+
 ## [endojs/endo](https://github.com/endojs/endo)
 
 - [Bundle tools should handle EMFILE gracefully](https://github.com/endojs/endo/issues/1593)
 
-## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Finish Decaffing all core packages](https://github.com/pulsar-edit/pulsar/issues/444)
+- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Move DatePicker and TimePicker to own Component](https://github.com/WordPress/gutenberg/issues/18072)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [[ Latest Posts block] Option to always show the [Read more ...] link](https://github.com/WordPress/gutenberg/issues/22269)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+
+## [Songjimyung/EcoCanvas-Frontend](https://github.com/Songjimyung/EcoCanvas-Frontend)
+
+- [<Feat> 어드민 페이지 유저 등록 변경, 상품 재고관리 ](https://github.com/Songjimyung/EcoCanvas-Frontend/issues/106)
+- [<Enhancement> 다중이미지 슬라이드 표기 등 세부 디테일 tasks](https://github.com/Songjimyung/EcoCanvas-Frontend/issues/57)
+- [[Feature] 관리자 페이지 채팅 기능 추가](https://github.com/Songjimyung/EcoCanvas-Frontend/issues/53)
+
+## [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+
+- [[Feature Request] Add the ability to gernerate a narrators output that is guided. 📖](https://github.com/SillyTavern/SillyTavern/issues/479)
+- [[Feature Request] Text Formatting Hot Key & Button](https://github.com/SillyTavern/SillyTavern/issues/482)
+- [[Feature Request] "Wrap in Quotes" for local models.](https://github.com/SillyTavern/SillyTavern/issues/218)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -25,36 +61,13 @@ This list gets updated every day at midnight.
 - [CSS module styling is removed too early on route changes](https://github.com/vercel/next.js/issues/17464)
 - [getStaticProps with { fallback: true } is very slow when spa routing.](https://github.com/vercel/next.js/issues/13751)
 
-## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
-- [Improving Tailor and Customer Dashboard and Registration](https://github.com/UBA-GCOEN/StichHub/issues/60)
-- [Add smooth scroll over the website](https://github.com/UBA-GCOEN/StichHub/issues/51)
-- [Add on hover animation to landing page buttons](https://github.com/UBA-GCOEN/StichHub/issues/13)
-- [[BUG] Preloader loading issue ](https://github.com/UBA-GCOEN/StichHub/issues/151)
-- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
-- [Contact form not working on the home page](https://github.com/UBA-GCOEN/StichHub/issues/118)
-- [Add hover animation effects to the cards.](https://github.com/UBA-GCOEN/StichHub/issues/103)
-- [Add navigation links in CustomersPage](https://github.com/UBA-GCOEN/StichHub/issues/80)
-
-## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
-
-- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
-- [As a developer, I would like to add an "arrow" to any external URL's; to signal to users that a url likes to an external website](https://github.com/elegantframework/elegant-cli/issues/81)
-- [As a developer, I would like the navigation and authors config to be under the '/config' namespace.](https://github.com/elegantframework/elegant-cli/issues/59)
-- [As a website owner, I would like to have a security.txt file included in my website.](https://github.com/elegantframework/elegant-cli/issues/58)
-- [As a content creator, I want to include a Facebook(Meta) Pixel for user engangement insights and tracking.](https://github.com/elegantframework/elegant-cli/issues/51)
-- [As a content creator, I would like a "Brand" page, showing my logos and resources.](https://github.com/elegantframework/elegant-cli/issues/41)
-
-## [asyncapi/website](https://github.com/asyncapi/website)
-
-- [[📑 Docs]: update docs issues in ALL repos that are missing the `area/docs` label ](https://github.com/asyncapi/website/issues/682)
-- [[📑 Docs]: Create an Onboarding guide for technical writers](https://github.com/asyncapi/website/issues/1712)
-- [docs: new style guide - Glossary](https://github.com/asyncapi/website/issues/1294)
-- [[📑 Docs]: improve adeo case study](https://github.com/asyncapi/website/issues/1615)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
+- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
+- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
+- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
+- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
+- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
 
