@@ -4,10 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
+## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 
-- [--api-auth，ps plug-in where to enter the user name and password?](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/265)
-- [Settings doesnt save](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/220)
+- [[FEAT] profile icon does not appear](https://github.com/EddieHubCommunity/LinkFree/issues/7846)
+- [[BUG] "GitHub Accelerator" and "GitHub Sponsors" buttons are not horizontally aligned - mobile devices](https://github.com/EddieHubCommunity/LinkFree/issues/7914)
+- [[BUG] Margin issue on linkfree homepage](https://github.com/EddieHubCommunity/LinkFree/issues/7860)
+- [[BUG] Negative ticket Price for an event ](https://github.com/EddieHubCommunity/LinkFree/issues/7871)
+- [[BUG] On profile page move tabs nav to top](https://github.com/EddieHubCommunity/LinkFree/issues/7875)
+- [[FEATURE] News letter form should below the text in mobile view](https://github.com/EddieHubCommunity/LinkFree/issues/7693)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+
+## [fdm-monster/fdm-monster](https://github.com/fdm-monster/fdm-monster)
+
+- [Documentation: add generic tips on how-to access and test for a SSH based device](https://github.com/fdm-monster/fdm-monster/issues/1992)
+- [Document how to change MongoDB with authentication (with or without docker)](https://github.com/fdm-monster/fdm-monster/issues/1990)
+- [GCode template commands (macros)](https://github.com/fdm-monster/fdm-monster/issues/1872)
 
 ## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
@@ -19,48 +33,31 @@ This list gets updated every day at midnight.
 - [⚒️[FEATURE] Redis Vector Store Integration](https://github.com/FlowiseAI/Flowise/issues/374)
 - [[API input configuration]](https://github.com/FlowiseAI/Flowise/issues/261)
 
-## [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [[Feature Request] Add the ability to gernerate a narrators output that is guided. 📖](https://github.com/SillyTavern/SillyTavern/issues/479)
-- [[Feature Request] Text Formatting Hot Key & Button](https://github.com/SillyTavern/SillyTavern/issues/482)
-- [[Feature Request] "Wrap in Quotes" for local models.](https://github.com/SillyTavern/SillyTavern/issues/218)
+- [Handing spawn() stdio as socket wont duplex properly](https://github.com/nodejs/node/issues/15714)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
 
-## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
+## [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 
-- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
-- [Improving Tailor and Customer Dashboard and Registration](https://github.com/UBA-GCOEN/StichHub/issues/60)
-- [Add smooth scroll over the website](https://github.com/UBA-GCOEN/StichHub/issues/51)
-- [Add on hover animation to landing page buttons](https://github.com/UBA-GCOEN/StichHub/issues/13)
-- [[BUG] Preloader loading issue ](https://github.com/UBA-GCOEN/StichHub/issues/151)
-- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
+- [Remove the dependencies on the UI of js backend files](https://github.com/kiwix/kiwix-js/issues/813)
 
-## [It-s-Saturday/Fornear](https://github.com/It-s-Saturday/Fornear)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [feature: default text for when data is falsy](https://github.com/It-s-Saturday/Fornear/issues/39)
-- [feature: hide packages that are out-of-stock](https://github.com/It-s-Saturday/Fornear/issues/6)
-- [bug: table and textarea easily overflow their containers](https://github.com/It-s-Saturday/Fornear/issues/2)
+- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
+- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
+- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
+- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
+- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
 
-## [facebook/react](https://github.com/facebook/react)
+## [GrabBits/GrabBits_Website](https://github.com/GrabBits/GrabBits_Website)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [Same as issues/discussions for a repo but for a user only](https://github.com/badges/shields/issues/9213)
-- [Badge Request: Support ReadTheDocs Business Tiers](https://github.com/badges/shields/issues/8335)
-- [Provide high resolution favicon](https://github.com/badges/shields/issues/1497)
-- [Show the complete list of supported logos in the frontend](https://github.com/badges/shields/issues/3658)
-- [Badge request: Copr Build System](https://github.com/badges/shields/issues/6078)
-- [Bitbucket badge returns Invalid Response Data](https://github.com/badges/shields/issues/9096)
-
-## [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-
-- [Error in transformer when using default exits silently (version 8)](https://github.com/SBoudrias/Inquirer.js/issues/1247)
-
-## [deltaCS99/resource](https://github.com/deltaCS99/resource)
-
-- [Assistant FAB](https://github.com/deltaCS99/resource/issues/24)
-- [Download & upload grade 11 Past Papers](https://github.com/deltaCS99/resource/issues/22)
-- [Download & Upload Grade 10 Past Papers](https://github.com/deltaCS99/resource/issues/21)
+- [ feat: This project needs a " how to run on local host " guide.](https://github.com/GrabBits/GrabBits_Website/issues/52)
+- [add a new feature Dark and Light Mode](https://github.com/GrabBits/GrabBits_Website/issues/76)
+- [non-scrolling  navbar](https://github.com/GrabBits/GrabBits_Website/issues/11)
+- [Dark Mode for the whole website](https://github.com/GrabBits/GrabBits_Website/issues/22)
+- ["Who We Are?" Design Improvement](https://github.com/GrabBits/GrabBits_Website/issues/42)
+- [Add link to explore button ](https://github.com/GrabBits/GrabBits_Website/issues/13)
 
