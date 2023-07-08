@@ -4,6 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [AdRoll](https://github.com/simple-icons/simple-icons/issues/5787)
+- [Canvas](https://github.com/simple-icons/simple-icons/issues/5477)
+- [Bitclout](https://github.com/simple-icons/simple-icons/issues/5782)
+- [Request: Viblo](https://github.com/simple-icons/simple-icons/issues/5751)
+- [Add Jovian.ai Website Icon ](https://github.com/simple-icons/simple-icons/issues/5050)
+- [Request for F# icons](https://github.com/simple-icons/simple-icons/issues/5385)
+- [Request: Adobe Stock Icon](https://github.com/simple-icons/simple-icons/issues/5088)
+- [Uptime Robot](https://github.com/simple-icons/simple-icons/issues/3831)
+- [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
@@ -16,55 +32,52 @@ This list gets updated every day at midnight.
 - [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
 - [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
 
-## [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [[Feature Request] Add the ability to gernerate a narrators output that is guided. 📖](https://github.com/SillyTavern/SillyTavern/issues/479)
-- [[Feature Request] Text Formatting Hot Key & Button](https://github.com/SillyTavern/SillyTavern/issues/482)
-- [[Feature Request] "Wrap in Quotes" for local models.](https://github.com/SillyTavern/SillyTavern/issues/218)
+- [Bundle tools should handle EMFILE gracefully](https://github.com/endojs/endo/issues/1593)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
 
-- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
-- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [As a developer or content creator, how would you describe Elegant in your own words?](https://github.com/elegantframework/elegant-cli/issues/115)
+- [The Video component breaks the layout of the documentation on mobile.](https://github.com/elegantframework/elegant-cli/issues/114)
+- [The unit test pre checks are not running and reporting their status back on PR's from contributors.](https://github.com/elegantframework/elegant-cli/issues/102)
+- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
+- [Elegant CMS -- Set all admin CMS pages to 'no-index'.](https://github.com/elegantframework/elegant-cli/issues/91)
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Update circuit example question](https://github.com/PrairieLearn/PrairieLearn/issues/8128)
-- [studentQuestion UX: hide next/prev buttons on single question quiz](https://github.com/PrairieLearn/PrairieLearn/issues/1207)
-- ["Natural Sort" for Assessment Filter](https://github.com/PrairieLearn/PrairieLearn/issues/1369)
-- [Add an "allowRetakes" option that enforces one retake per scheduled exam](https://github.com/PrairieLearn/PrairieLearn/issues/375)
-- [pl-external-grader-results consistent use of colors](https://github.com/PrairieLearn/PrairieLearn/issues/7536)
+- [Handing spawn() stdio as socket wont duplex properly](https://github.com/nodejs/node/issues/15714)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
 
-- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
-- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
-- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
+- [[request] add a keyboard shortcut for editing bundled tasks](https://github.com/maproulette/maproulette3/issues/1793)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
 
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
-- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
-- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
-- [Move DatePicker and TimePicker to own Component](https://github.com/WordPress/gutenberg/issues/18072)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [suggestion: keep birthday text rainbow in the gy](https://github.com/UltiMafia/Ultimafia/issues/368)
+- [feat (ghost): different sound for your turn](https://github.com/UltiMafia/Ultimafia/issues/347)
+- [bug(site): Clicking on setup page link should open a new tab, not redirect current one](https://github.com/UltiMafia/Ultimafia/issues/394)
+- [bug(mafia): actress should drop old suits](https://github.com/UltiMafia/Ultimafia/issues/23)
+- [feat(drunk): drunk should kill driver](https://github.com/UltiMafia/Ultimafia/issues/25)
 
-## [salteadorneo/PlayJS](https://github.com/salteadorneo/PlayJS)
+## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
-- [Add contribute link to playground page](https://github.com/salteadorneo/PlayJS/issues/39)
-- [lang HTML attribute doesn't match the language](https://github.com/salteadorneo/PlayJS/issues/44)
-- [Light theme](https://github.com/salteadorneo/PlayJS/issues/41)
-- [Add contrast between text color and background so menus are more readable](https://github.com/salteadorneo/PlayJS/issues/40)
-- [Increase multilanguage support with more official translations](https://github.com/salteadorneo/PlayJS/issues/38)
+- [⚒️[FEATURE] Motörhead Memory](https://github.com/FlowiseAI/Flowise/issues/368)
+- [⚒️[FEATURE] Momento Memory](https://github.com/FlowiseAI/Flowise/issues/371)
+- [⚒️[FEATURE] Upstash Redis Memory](https://github.com/FlowiseAI/Flowise/issues/372)
+- [⚒️[FEATURE] DynamoDB-Backed Chat Memory](https://github.com/FlowiseAI/Flowise/issues/370)
+- [⚒️[FEATURE] Redis Vector Store Integration](https://github.com/FlowiseAI/Flowise/issues/374)
+- [[API input configuration]](https://github.com/FlowiseAI/Flowise/issues/261)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [[Site] Update Internship programs content](https://github.com/meshery/meshery.io/issues/1200)
+- [[Site] Enhance Community Calendar page](https://github.com/meshery/meshery.io/issues/1202)
+- [Responsiveness issue at /programs](https://github.com/meshery/meshery.io/issues/1238)
+- [[Site] [Dark Mode] Update import catalog modal according to theme](https://github.com/meshery/meshery.io/issues/1203)
+- [Update calendar ](https://github.com/meshery/meshery.io/issues/1228)
+- [[Bug] Visible underline on hover of "GitHub Star" on homepage](https://github.com/meshery/meshery.io/issues/1233)
+- [[Enhancement] Increase opacity of icons to 100% on catalog page](https://github.com/meshery/meshery.io/issues/1230)
+- [Publish "Changing Release-Channels" blog ](https://github.com/meshery/meshery.io/issues/1207)
 
