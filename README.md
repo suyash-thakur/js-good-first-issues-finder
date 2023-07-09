@@ -4,62 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [better error messages](https://github.com/a-synchronous/rubico/issues/19)
+- [Universal Help Thread](https://github.com/a-synchronous/rubico/issues/29)
+- [rubico/x/log](https://github.com/a-synchronous/rubico/issues/58)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [fastify/fastify](https://github.com/fastify/fastify)
 
-- [AdRoll](https://github.com/simple-icons/simple-icons/issues/5787)
-- [Canvas](https://github.com/simple-icons/simple-icons/issues/5477)
-- [Bitclout](https://github.com/simple-icons/simple-icons/issues/5782)
-- [Request: Viblo](https://github.com/simple-icons/simple-icons/issues/5751)
-- [Add Jovian.ai Website Icon ](https://github.com/simple-icons/simple-icons/issues/5050)
-- [Request for F# icons](https://github.com/simple-icons/simple-icons/issues/5385)
-- [Request: Adobe Stock Icon](https://github.com/simple-icons/simple-icons/issues/5088)
-- [Uptime Robot](https://github.com/simple-icons/simple-icons/issues/3831)
-- [Request: CodeSignal](https://github.com/simple-icons/simple-icons/issues/6598)
+- [Allow empty responses](https://github.com/fastify/fastify/issues/4833)
+- [🚀 add 'onListen' application hook](https://github.com/fastify/fastify/issues/4542)
+- [Migration of `the infamous triplet` to next level, Nodenext support](https://github.com/fastify/fastify/issues/4349)
+- [Causes of degradation](https://github.com/fastify/fastify/issues/4832)
+- [Support `RouteShorthandOptions` to receive async hooks](https://github.com/fastify/fastify/issues/4859)
+- [Synchronous start Fastify server to listen receives aborted signal from `AbortController` before `listenCallback.call`.](https://github.com/fastify/fastify/issues/4829)
+- [Plugin Testing Guide](https://github.com/fastify/fastify/issues/4687)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [OurTechCommunity/catchup](https://github.com/OurTechCommunity/catchup)
 
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [isn't work at Specific path ](https://github.com/vercel/next.js/issues/36259)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Server side page si not generated in lingui example](https://github.com/vercel/next.js/issues/36717)
-- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
-- [Docs: app.renderError ](https://github.com/vercel/next.js/issues/32562)
+- [bugfix: Update actions dependent on deprecated versions of node](https://github.com/OurTechCommunity/catchup/issues/107)
+- [Refactor Twitter & Telegram Action name & description.](https://github.com/OurTechCommunity/catchup/issues/172)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
 
-- [Bundle tools should handle EMFILE gracefully](https://github.com/endojs/endo/issues/1593)
+- [Make OpenAI prompts configurable](https://github.com/codeceptjs/CodeceptJS/issues/3731)
+- [[FEATURE REQUEST](playwright): make `I.seeInField` and `I.dontSeeInField` to interact with contenteditable](https://github.com/codeceptjs/CodeceptJS/issues/3675)
+- [[FEATURE REQUEST](playwright) migrate locators from `ElementHandle` to `Locator`. ](https://github.com/codeceptjs/CodeceptJS/issues/3677)
+- [[FEATURE REQUEST]: extend the `autologin` plugin to use the Playwright auth feature](https://github.com/codeceptjs/CodeceptJS/issues/3683)
 
-## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
 
-- [As a developer or content creator, how would you describe Elegant in your own words?](https://github.com/elegantframework/elegant-cli/issues/115)
-- [The Video component breaks the layout of the documentation on mobile.](https://github.com/elegantframework/elegant-cli/issues/114)
-- [The unit test pre checks are not running and reporting their status back on PR's from contributors.](https://github.com/elegantframework/elegant-cli/issues/102)
-- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
-- [Elegant CMS -- Set all admin CMS pages to 'no-index'.](https://github.com/elegantframework/elegant-cli/issues/91)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Handing spawn() stdio as socket wont duplex properly](https://github.com/nodejs/node/issues/15714)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-
-## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
-
-- [[request] add a keyboard shortcut for editing bundled tasks](https://github.com/maproulette/maproulette3/issues/1793)
-
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
-
-- [suggestion: keep birthday text rainbow in the gy](https://github.com/UltiMafia/Ultimafia/issues/368)
-- [feat (ghost): different sound for your turn](https://github.com/UltiMafia/Ultimafia/issues/347)
-- [bug(site): Clicking on setup page link should open a new tab, not redirect current one](https://github.com/UltiMafia/Ultimafia/issues/394)
-- [bug(mafia): actress should drop old suits](https://github.com/UltiMafia/Ultimafia/issues/23)
-- [feat(drunk): drunk should kill driver](https://github.com/UltiMafia/Ultimafia/issues/25)
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
 
 ## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
@@ -70,14 +45,34 @@ This list gets updated every day at midnight.
 - [⚒️[FEATURE] Redis Vector Store Integration](https://github.com/FlowiseAI/Flowise/issues/374)
 - [[API input configuration]](https://github.com/FlowiseAI/Flowise/issues/261)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [[Site] Update Internship programs content](https://github.com/meshery/meshery.io/issues/1200)
-- [[Site] Enhance Community Calendar page](https://github.com/meshery/meshery.io/issues/1202)
-- [Responsiveness issue at /programs](https://github.com/meshery/meshery.io/issues/1238)
-- [[Site] [Dark Mode] Update import catalog modal according to theme](https://github.com/meshery/meshery.io/issues/1203)
-- [Update calendar ](https://github.com/meshery/meshery.io/issues/1228)
-- [[Bug] Visible underline on hover of "GitHub Star" on homepage](https://github.com/meshery/meshery.io/issues/1233)
-- [[Enhancement] Increase opacity of icons to 100% on catalog page](https://github.com/meshery/meshery.io/issues/1230)
-- [Publish "Changing Release-Channels" blog ](https://github.com/meshery/meshery.io/issues/1207)
+- [[docs] resize `Search` text on search bar](https://github.com/ToolJet/ToolJet/issues/5101)
+- [Refactor: Modify the prompt text with corrections](https://github.com/ToolJet/ToolJet/issues/6946)
+- [Enhance "Send" button behavior in Suggest Datasource](https://github.com/ToolJet/ToolJet/issues/6940)
+- [Refactor: Modify Tooljet Database Text to Include Uppercase](https://github.com/ToolJet/ToolJet/issues/6945)
+- [Dark Mode Inconsistency in Query confirmation dialog box](https://github.com/ToolJet/ToolJet/issues/6942)
+- [Inconsistency in field name and placeholder](https://github.com/ToolJet/ToolJet/issues/6845)
+- [[Dark mode]- UI inconsistency when user selects autofill values](https://github.com/ToolJet/ToolJet/issues/6928)
+- [PasswordInput Component Not Adapting to Dark Mode](https://github.com/ToolJet/ToolJet/issues/6880)
+- [Enhancement: Enable "Send" Button Execution on Hitting Enter/Return Key](https://github.com/ToolJet/ToolJet/issues/6947)
+- [On pressing enter does not work in `create folder` and `update folder` modal](https://github.com/ToolJet/ToolJet/issues/6760)
+- [Add support to generate `PDF` file using generate file action](https://github.com/ToolJet/ToolJet/issues/5981)
+- [Add `on search text changed` event for multi-select component](https://github.com/ToolJet/ToolJet/issues/4964)
+- [[dark mode] fix text color of `Time` in datepicker](https://github.com/ToolJet/ToolJet/issues/6270)
+- [[Dashboard]: Naming inconsistency for Edit folder link and the popup](https://github.com/ToolJet/ToolJet/issues/6569)
+- [Password input widget: Option to customise the error message styles for validations](https://github.com/ToolJet/ToolJet/issues/4206)
+- [incorrect code-hinter header text](https://github.com/ToolJet/ToolJet/issues/6655)
+- [Improve template: WhatsApp and SMS CRM](https://github.com/ToolJet/ToolJet/issues/5781)
+- [[docs]: update generate file action](https://github.com/ToolJet/ToolJet/issues/6833)
+- [Improve template: S3 File explorer](https://github.com/ToolJet/ToolJet/issues/5780)
+- [[doc] resize the search icon in search bar](https://github.com/ToolJet/ToolJet/issues/5099)
+- [Marketplace: display scrollbar only if the items exceed on the page ](https://github.com/ToolJet/ToolJet/issues/6818)
+- [[docs]: change the color of bold text from blue to black/white according to light/dark mode](https://github.com/ToolJet/ToolJet/issues/6495)
+- [[docs]: move `visibility` and `disable` to Styles table](https://github.com/ToolJet/ToolJet/issues/6801)
+- [[dark mode] fix color of time selection box in datepicker](https://github.com/ToolJet/ToolJet/issues/6271)
+- [On pressing enter should save the new workspace name](https://github.com/ToolJet/ToolJet/issues/6759)
+- [Set character limit to Page name](https://github.com/ToolJet/ToolJet/issues/6744)
+- [text of the name of global datasource overflows in the query panel](https://github.com/ToolJet/ToolJet/issues/6721)
+- [Layout accordion of widget inspector in Chart widget should be open by default](https://github.com/ToolJet/ToolJet/issues/4238)
 
