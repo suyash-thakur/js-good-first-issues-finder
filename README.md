@@ -4,23 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [isn't work at Specific path ](https://github.com/vercel/next.js/issues/36259)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-
-## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-
-- [FAQs: Can we add landing pages for FAQ categories?](https://github.com/dbt-labs/docs.getdbt.com/issues/2748)
-- [Correct Slack Notification Note](https://github.com/dbt-labs/docs.getdbt.com/issues/2967)
+- [[Bug]: Current Invidious Instance input field removes character while typing](https://github.com/FreeTubeApp/FreeTube/issues/3303)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -28,15 +16,37 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
 
-- [Update the wording on the PHLASK Button on Desktop](https://github.com/phlask/phlask-map/issues/322)
-- [ Update the wording on the Contribute Button on Desktop](https://github.com/phlask/phlask-map/issues/323)
-- [Update the wording upon acknowledgement of a contribution](https://github.com/phlask/phlask-map/issues/324)
-- [Non-Production Database Sync Process](https://github.com/phlask/phlask-map/issues/177)
+- [FAQs: Can we add landing pages for FAQ categories?](https://github.com/dbt-labs/docs.getdbt.com/issues/2748)
+- [Correct Slack Notification Note](https://github.com/dbt-labs/docs.getdbt.com/issues/2967)
+
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+
+- [suggestion: keep birthday text rainbow in the gy](https://github.com/UltiMafia/Ultimafia/issues/368)
+- [feat (ghost): different sound for your turn](https://github.com/UltiMafia/Ultimafia/issues/347)
+- [bug(site): Clicking on setup page link should open a new tab, not redirect current one](https://github.com/UltiMafia/Ultimafia/issues/394)
+- [bug(mafia): actress should drop old suits](https://github.com/UltiMafia/Ultimafia/issues/23)
+- [feat(drunk): drunk should kill driver](https://github.com/UltiMafia/Ultimafia/issues/25)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
 
 ## [smol-ai/menubar](https://github.com/smol-ai/menubar)
 
+- [Brew cask install support](https://github.com/smol-ai/menubar/issues/55)
 - [[Request for help] improve design](https://github.com/smol-ai/menubar/issues/24)
 - [Make the Superprompt bar light up when it is "in focus", darken when it is not](https://github.com/smol-ai/menubar/issues/50)
 - [add support for Arch Linux builds](https://github.com/smol-ai/menubar/issues/47)
@@ -47,24 +57,13 @@ This list gets updated every day at midnight.
 - [[Looking for Contributor] New Provider: Phind.com](https://github.com/smol-ai/menubar/issues/39)
 - [[Feature] make window of each URL customizable](https://github.com/smol-ai/menubar/issues/13)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [hyp3ri0nnn/note-taking-app](https://github.com/hyp3ri0nnn/note-taking-app)
 
-- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
-
-## [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
-
-- [[Feature Request] Add the ability to gernerate a narrators output that is guided. 📖](https://github.com/SillyTavern/SillyTavern/issues/479)
-- [[Feature Request] Text Formatting Hot Key & Button](https://github.com/SillyTavern/SillyTavern/issues/482)
-- [[Feature Request] "Wrap in Quotes" for local models.](https://github.com/SillyTavern/SillyTavern/issues/218)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [Connected sites modal misaligned icons](https://github.com/MetaMask/metamask-extension/issues/19901)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
-- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
+- [Checkbox or paragraph icon still added even note is archived.](https://github.com/hyp3ri0nnn/note-taking-app/issues/7)
+- [Move index.html functions into src folder](https://github.com/hyp3ri0nnn/note-taking-app/issues/6)
+- [create utils.js file and extract common functions to this file](https://github.com/hyp3ri0nnn/note-taking-app/issues/5)
+- [Adding checkbox and paragraph will not trigger focusout so can't sync the doc. ](https://github.com/hyp3ri0nnn/note-taking-app/issues/3)
+- [Checkbox still clickable even document is archived.](https://github.com/hyp3ri0nnn/note-taking-app/issues/4)
+- [Update nameAsArray field on Firestore after name change triggered.](https://github.com/hyp3ri0nnn/note-taking-app/issues/2)
+- [Distinguish two query parameters for Search and Archive](https://github.com/hyp3ri0nnn/note-taking-app/issues/1)
 
