@@ -4,12 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Current Invidious Instance input field removes character while typing](https://github.com/FreeTubeApp/FreeTube/issues/3303)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
@@ -21,49 +15,63 @@ This list gets updated every day at midnight.
 - [FAQs: Can we add landing pages for FAQ categories?](https://github.com/dbt-labs/docs.getdbt.com/issues/2748)
 - [Correct Slack Notification Note](https://github.com/dbt-labs/docs.getdbt.com/issues/2967)
 
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [`experimentalWebKitSupport`: Set `devicePixelRatio`](https://github.com/cypress-io/cypress/issues/23808)
+- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
+- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
+- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
+- [Empty returned `specPattern` doesn't yield error if `specPattern` was originally an array](https://github.com/cypress-io/cypress/issues/27103)
+
 ## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
 
 - [suggestion: keep birthday text rainbow in the gy](https://github.com/UltiMafia/Ultimafia/issues/368)
 - [feat (ghost): different sound for your turn](https://github.com/UltiMafia/Ultimafia/issues/347)
 - [bug(site): Clicking on setup page link should open a new tab, not redirect current one](https://github.com/UltiMafia/Ultimafia/issues/394)
-- [bug(mafia): actress should drop old suits](https://github.com/UltiMafia/Ultimafia/issues/23)
-- [feat(drunk): drunk should kill driver](https://github.com/UltiMafia/Ultimafia/issues/25)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
-- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
-- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
+- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
 
-## [smol-ai/menubar](https://github.com/smol-ai/menubar)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Brew cask install support](https://github.com/smol-ai/menubar/issues/55)
-- [[Request for help] improve design](https://github.com/smol-ai/menubar/issues/24)
-- [Make the Superprompt bar light up when it is "in focus", darken when it is not](https://github.com/smol-ai/menubar/issues/50)
-- [add support for Arch Linux builds](https://github.com/smol-ai/menubar/issues/47)
-- [[Looking for Contributor] New Provider: Quora Poe](https://github.com/smol-ai/menubar/issues/38)
-- [[Looking for Contributor] New Provider: OpenAssistant](https://github.com/smol-ai/menubar/issues/37)
-- [[Looking for Contributor] New Provider: HuggingChat](https://github.com/smol-ai/menubar/issues/36)
-- [[Looking for Contributor] New Provider: Perplexity AI](https://github.com/smol-ai/menubar/issues/35)
-- [[Looking for Contributor] New Provider: Phind.com](https://github.com/smol-ai/menubar/issues/39)
-- [[Feature] make window of each URL customizable](https://github.com/smol-ai/menubar/issues/13)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [isn't work at Specific path ](https://github.com/vercel/next.js/issues/36259)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [hyp3ri0nnn/note-taking-app](https://github.com/hyp3ri0nnn/note-taking-app)
+## [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 
-- [Checkbox or paragraph icon still added even note is archived.](https://github.com/hyp3ri0nnn/note-taking-app/issues/7)
-- [Move index.html functions into src folder](https://github.com/hyp3ri0nnn/note-taking-app/issues/6)
-- [create utils.js file and extract common functions to this file](https://github.com/hyp3ri0nnn/note-taking-app/issues/5)
-- [Adding checkbox and paragraph will not trigger focusout so can't sync the doc. ](https://github.com/hyp3ri0nnn/note-taking-app/issues/3)
-- [Checkbox still clickable even document is archived.](https://github.com/hyp3ri0nnn/note-taking-app/issues/4)
-- [Update nameAsArray field on Firestore after name change triggered.](https://github.com/hyp3ri0nnn/note-taking-app/issues/2)
-- [Distinguish two query parameters for Search and Archive](https://github.com/hyp3ri0nnn/note-taking-app/issues/1)
+- [Add the capture list on `/trees/{id}` page](https://github.com/Greenstand/treetracker-web-map-client/issues/1587)
+- [Wrong color on the map](https://github.com/Greenstand/treetracker-web-map-client/issues/1354)
+- [Fix broken test in `cwm` branch](https://github.com/Greenstand/treetracker-web-map-client/issues/1672)
+- [Improve the `deploy_and_release` github action to support different channel.](https://github.com/Greenstand/treetracker-web-map-client/issues/1670)
+- [Page layout disorder when use the parameter query: ?embed=true](https://github.com/Greenstand/treetracker-web-map-client/issues/1674)
+- [Wrong default image on this page](https://github.com/Greenstand/treetracker-web-map-client/issues/1582)
+- [remove certain tags from the Tree info and rename Tree info to "Capture info"](https://github.com/Greenstand/treetracker-web-map-client/issues/1679)
+- [The `like` button doesn't work](https://github.com/Greenstand/treetracker-web-map-client/issues/1560)
+- [Fix integration test: `top.cy.js`](https://github.com/Greenstand/treetracker-web-map-client/issues/1667)
+- [[user-profile] Integrate web map client with Keycloak](https://github.com/Greenstand/treetracker-web-map-client/issues/1673)
+- [Test the v2 web map on test env](https://github.com/Greenstand/treetracker-web-map-client/issues/1677)
+- [Set up next.js to do not redirect to `/500` when encountering 500 error](https://github.com/Greenstand/treetracker-web-map-client/issues/1580)
+- [Mobile: The vertical drawer: bad experience of scroll the info panel](https://github.com/Greenstand/treetracker-web-map-client/issues/566)
+- [Ignore history/back for updating the bounds on url address](https://github.com/Greenstand/treetracker-web-map-client/issues/725)
+- [We need to find a way to manually refresh the next.js cache](https://github.com/Greenstand/treetracker-web-map-client/issues/1277)
+- [The tree icon wrongly stays on the map](https://github.com/Greenstand/treetracker-web-map-client/issues/1329)
+- [The like button is wrong](https://github.com/Greenstand/treetracker-web-map-client/issues/1330)
+- [Solution to collect client side log: deploy platform like glitchtip for log monitoring](https://github.com/Greenstand/treetracker-web-map-client/issues/1377)
+- [Refactor the deployment folder](https://github.com/Greenstand/treetracker-web-map-client/issues/1443)
+- [Trigger PR CI from every branch in the  .releaserc.json file ](https://github.com/Greenstand/treetracker-web-map-client/issues/1448)
+- [Improve Leaderboard using semantic HTML](https://github.com/Greenstand/treetracker-web-map-client/issues/1495)
+- [Web map integrate keycloak](https://github.com/Greenstand/treetracker-web-map-client/issues/1514)
+- [Add `people who grows this tree` list on `/trees/{id}` page](https://github.com/Greenstand/treetracker-web-map-client/issues/1588)
+- [Display 500 error page inappropriate.](https://github.com/Greenstand/treetracker-web-map-client/issues/1546)
+- [Automatically create PR for all prerelease branches. ](https://github.com/Greenstand/treetracker-web-map-client/issues/1630)
+- [The dev env kubernetes can not terminate pods:](https://github.com/Greenstand/treetracker-web-map-client/issues/1642)
 
