@@ -10,23 +10,35 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 
-## [r3ndd/BeyondMafia-Integration](https://github.com/r3ndd/BeyondMafia-Integration)
+## [phetsims/paper-land](https://github.com/phetsims/paper-land)
 
-- [Show numbers instead of dots (lobby view) for number of players in a game](https://github.com/r3ndd/BeyondMafia-Integration/issues/866)
+- [Consider putting the sidebar on the main camera screen into its own file](https://github.com/phetsims/paper-land/issues/90)
+- [Add an indication of unsaved changes and option not to lose those changes in the editors](https://github.com/phetsims/paper-land/issues/89)
+- [Consider reinstating more of the PhET lint rules](https://github.com/phetsims/paper-land/issues/54)
+- [Is the current Monaco editor acceptable?](https://github.com/phetsims/paper-land/issues/12)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [Handing spawn() stdio as socket wont duplex properly](https://github.com/nodejs/node/issues/15714)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+## [ssherp/SkyFinder-project](https://github.com/ssherp/SkyFinder-project)
 
-- [HMR is not working for inlined css (`@import`ed from `style` tag)](https://github.com/parcel-bundler/parcel/issues/8408)
-- [ Build failed.  unknown: Error parsing package.json: Unexpected token ﻿ in JSON at position 0](https://github.com/parcel-bundler/parcel/issues/8378)
+- [chatbot html](https://github.com/ssherp/SkyFinder-project/issues/5)
+- [Navbar](https://github.com/ssherp/SkyFinder-project/issues/12)
+- [Navbar html](https://github.com/ssherp/SkyFinder-project/issues/9)
+- [Build Base structure for HTML elements](https://github.com/ssherp/SkyFinder-project/issues/4)
 
-## [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Add recipe for adding buffer diagnostics to the `tabline` with Heirline](https://github.com/AstroNvim/astronvim.github.io/issues/95)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
+- [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -39,30 +51,7 @@ This list gets updated every day at midnight.
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [actualbudget/actual](https://github.com/actualbudget/actual)
+## [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 
-- [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
-- [[Bug]: saved filters are not sorted](https://github.com/actualbudget/actual/issues/1284)
-- [[Maintenance] Rename "Nordigen" to "GoCardless"](https://github.com/actualbudget/actual/issues/1244)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-
-## [semioverse/semioverse](https://github.com/semioverse/semioverse)
-
-- [Upgrade to FlowCards Scenario Based Programming](https://github.com/semioverse/semioverse/issues/1)
-- [Oxel Library / Oxel Inventory](https://github.com/semioverse/semioverse/issues/12)
-- [Real-Time Object Recognition](https://github.com/semioverse/semioverse/issues/13)
-- [Liminal Game](https://github.com/semioverse/semioverse/issues/9)
-
-## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-
-- [[BUG] doc page need padding between horizontal line and hover line](https://github.com/EddieHubCommunity/LinkFree/issues/8196)
-- [[IMPROVEMENT] mentioning search supports location search](https://github.com/EddieHubCommunity/LinkFree/issues/8118)
-- [[Color issue ] <on the playground tab in light mode>](https://github.com/EddieHubCommunity/LinkFree/issues/8186)
-- [[BUG] Improve Styling on Map](https://github.com/EddieHubCommunity/LinkFree/issues/8194)
-- [[BUG] Profile Card Hover in Dark Mode should have orange border](https://github.com/EddieHubCommunity/LinkFree/issues/8176)
-- [Padding between external link icon and date](https://github.com/EddieHubCommunity/LinkFree/issues/8098)
-- [[FEAT] profile icon does not appear](https://github.com/EddieHubCommunity/LinkFree/issues/7846)
+- [collapsible sidebar root sidebar items](https://github.com/docsifyjs/docsify/issues/900)
 
