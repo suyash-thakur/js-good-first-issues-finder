@@ -4,11 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [[RFC]: Add `@stdlib/random/strided/rayleigh`](https://github.com/stdlib-js/stdlib/issues/889)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -16,56 +14,53 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Bundle tools should handle EMFILE gracefully](https://github.com/endojs/endo/issues/1593)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [Greenstand/treetracker-wallet-api](https://github.com/Greenstand/treetracker-wallet-api)
 
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [Remove all calls to expect-runtime from the codebase.](https://github.com/Greenstand/treetracker-wallet-api/issues/181)
+- [keep collection to date](https://github.com/Greenstand/treetracker-wallet-api/issues/375)
+- [Create subwallets without restrictions](https://github.com/Greenstand/treetracker-wallet-api/issues/195)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [near/neardevhub-widgets](https://github.com/near/neardevhub-widgets)
 
-- [remove unused rollup dependency from several packages](https://github.com/Agoric/agoric-sdk/issues/1223)
+- [Create solution post & solution reply are different ](https://github.com/near/neardevhub-widgets/issues/142)
+- [Solution post preview should still show funding currency & amount if requested sponsor is empty](https://github.com/near/neardevhub-widgets/issues/150)
+- [feat: Display cumulative comments count](https://github.com/near/neardevhub-widgets/issues/11)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 
-- [[Site] Move badge to separate list](https://github.com/layer5io/layer5/issues/4573)
-- [Add Catalog assets to Layer5 brand page.](https://github.com/layer5io/layer5/issues/4529)
-- [[Community] Member Profile: Harsh Dobariya](https://github.com/layer5io/layer5/issues/4556)
-- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
-- [Issue Template Updates for Figma link](https://github.com/layer5io/layer5/issues/4534)
-- [[UI]: unwanted {" "} in blog content](https://github.com/layer5io/layer5/issues/4521)
-- [[Community] Member Profile: Meyazhagan](https://github.com/layer5io/layer5/issues/4517)
-- [Different icon size on connect-with-us page](https://github.com/layer5io/layer5/issues/4306)
-- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
-- [[Site] Enhance and place the graphic onto the about page.](https://github.com/layer5io/layer5/issues/4404)
+- [[AZURE] Add support for OpenAI on Azure](https://github.com/Mintplex-Labs/anything-llm/issues/154)
+- [Github repo document loader](https://github.com/Mintplex-Labs/anything-llm/issues/101)
 
-## [smol-ai/menubar](https://github.com/smol-ai/menubar)
+## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
 
-- [Make the Superprompt bar light up when it is "in focus", darken when it is not](https://github.com/smol-ai/menubar/issues/50)
-- [Brew cask install support](https://github.com/smol-ai/menubar/issues/55)
-- [[Request for help] improve design](https://github.com/smol-ai/menubar/issues/24)
-- [add support for Arch Linux builds](https://github.com/smol-ai/menubar/issues/47)
+- [Upgrade Next.js to version 13.](https://github.com/elegantframework/elegant-cli/issues/123)
+- [As a website owner, I would like to have a security.txt file included in my website.](https://github.com/elegantframework/elegant-cli/issues/58)
+- [As a developer or content creator, how would you describe Elegant in your own words?](https://github.com/elegantframework/elegant-cli/issues/115)
+- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
+- [Elegant CMS -- Set all admin CMS pages to 'no-index'.](https://github.com/elegantframework/elegant-cli/issues/91)
 
-## [aws/aws-cdk](https://github.com/aws/aws-cdk)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Add require_imdsv2 parameter to add_nodegroup_capacity method](https://github.com/aws/aws-cdk/issues/19984)
-- [aws-stepfunctions-tasks: Tag Batch Jobs](https://github.com/aws/aws-cdk/issues/26336)
-- [(cli): tags with an equals sign in the value only use the value of the string prior to the equals sign](https://github.com/aws/aws-cdk/issues/21003)
-- [[cli] cdk diff difficult to use programmatically ](https://github.com/aws/aws-cdk/issues/10417)
-- [(ec2): Fails to create subnet with `fromSubnetAttributes` without `routeTableId`](https://github.com/aws/aws-cdk/issues/19786)
-- [(route53): Support grantDelegation on imported PublicHostedZone](https://github.com/aws/aws-cdk/issues/26240)
-- [(glue): Missing parameter *parameters* from class Table (construct)](https://github.com/aws/aws-cdk/issues/14159)
-- [AutoScaling: Support Custom Termination Policies (Lambda)](https://github.com/aws/aws-cdk/issues/19750)
-- [aws-cdk-lib/aws-ecs-patterns: setting maxHealthyPercent incorrectly causes stack to fail to deploy](https://github.com/aws/aws-cdk/issues/26158)
-- [core: logical ID validation regex is inconsistant with cloudformation specification](https://github.com/aws/aws-cdk/issues/26075)
-- [(aws-elasticloadbalancingv2): Cannot use a single application load balancer as a target for the network load balancer](https://github.com/aws/aws-cdk/issues/17208)
+- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
+- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
+- [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
 
