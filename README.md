@@ -4,29 +4,51 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Installation paths](https://github.com/dosyago/BrowserBoxPro/issues/247)
+- [Translate README](https://github.com/dosyago/BrowserBoxPro/issues/249)
+- [Russian README translation corrections](https://github.com/dosyago/BrowserBoxPro/issues/261)
+- [CodeQL ideas](https://github.com/dosyago/BrowserBoxPro/issues/258)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 
-- [[Site] Enhance Community Calendar page](https://github.com/meshery/meshery.io/issues/1202)
-- [Installation instructions needs to be updated](https://github.com/meshery/meshery.io/issues/1279)
-- [Issue Template Updates for Figma link](https://github.com/meshery/meshery.io/issues/1282)
-- [New page design implementation for Contributors page](https://github.com/meshery/meshery.io/issues/1271)
-- [Responsiveness issue at /programs](https://github.com/meshery/meshery.io/issues/1238)
-- [[Site] [Dark Mode] Update import catalog modal according to theme](https://github.com/meshery/meshery.io/issues/1203)
-- [Update calendar ](https://github.com/meshery/meshery.io/issues/1228)
-- [Publish "Changing Release-Channels" blog ](https://github.com/meshery/meshery.io/issues/1207)
+- [[OTHER] GitPod checking links results in error](https://github.com/EddieHubCommunity/LinkFree/issues/6912)
+- [[BUG] doc page need padding between horizontal line and hover line](https://github.com/EddieHubCommunity/LinkFree/issues/8196)
+- [UI enhancement in SidNav and Documentation Grid](https://github.com/EddieHubCommunity/LinkFree/issues/8165)
+- [[BUG] Improve Styling on Map](https://github.com/EddieHubCommunity/LinkFree/issues/8194)
+- [[Color issue ] <on the playground tab in light mode>](https://github.com/EddieHubCommunity/LinkFree/issues/8186)
+- [Padding between external link icon and date](https://github.com/EddieHubCommunity/LinkFree/issues/8098)
+- [[FEAT] profile icon does not appear](https://github.com/EddieHubCommunity/LinkFree/issues/7846)
 
-## [requestly/requestly](https://github.com/requestly/requestly)
+## [service-mesh-patterns/service-mesh-patterns](https://github.com/service-mesh-patterns/service-mesh-patterns)
 
-- [Bug: Pointer changes to Text Cursor on traffic table row](https://github.com/requestly/requestly/issues/732)
-- [Rule name should be an HTML link](https://github.com/requestly/requestly/issues/770)
+- [Issue Template Updates for Figma link ](https://github.com/service-mesh-patterns/service-mesh-patterns/issues/112)
 
-## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+## [actualbudget/actual](https://github.com/actualbudget/actual)
 
-- ["Edit Tile" dialog (modal window)](https://github.com/cboard-org/cboard/issues/1515)
+- [[Bug]: Double scrollbars](https://github.com/actualbudget/actual/issues/1358)
+- [[Maintenance] Rename "Nordigen" to "GoCardless"](https://github.com/actualbudget/actual/issues/1244)
+- [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Bitclout](https://github.com/simple-icons/simple-icons/issues/5782)
+- [Request: Wellfound](https://github.com/simple-icons/simple-icons/issues/8528)
+- [Request : Root Me](https://github.com/simple-icons/simple-icons/issues/6201)
+- [Sonatype](https://github.com/simple-icons/simple-icons/issues/6170)
+- [IronMQ icon](https://github.com/simple-icons/simple-icons/issues/4249)
+- [AdRoll](https://github.com/simple-icons/simple-icons/issues/5787)
+- [Canvas](https://github.com/simple-icons/simple-icons/issues/5477)
+- [Request: Viblo](https://github.com/simple-icons/simple-icons/issues/5751)
+- [Add Jovian.ai Website Icon ](https://github.com/simple-icons/simple-icons/issues/5050)
+- [Request for F# icons](https://github.com/simple-icons/simple-icons/issues/5385)
+- [Request: Adobe Stock Icon](https://github.com/simple-icons/simple-icons/issues/5088)
+
+## [sequelize/sequelize](https://github.com/sequelize/sequelize)
+
+- [Remove the `include` option from `Model.create`](https://github.com/sequelize/sequelize/issues/15233)
+- [Allow passing raw arrays into `set` and `add` instance methods](https://github.com/sequelize/sequelize/issues/10397)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -38,30 +60,4 @@ This list gets updated every day at midnight.
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[Components] Airtable: migration of Triggers, Actions to Airtable (OAuth), and new triggers+actions](https://github.com/PipedreamHQ/pipedream/issues/7322)
-- [Need API Access for Square [upsert-customer-custom-attribute]](https://github.com/PipedreamHQ/pipedream/issues/7329)
-- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
-- [[TRIGGER] Discord "FORUMS" (new message)](https://github.com/PipedreamHQ/pipedream/issues/7071)
-- [[Action] Google Tag Manager - Updates a GTM Variable](https://github.com/PipedreamHQ/pipedream/issues/5050)
-- [[Components] Async options for Google Forms](https://github.com/PipedreamHQ/pipedream/issues/7162)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7274)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7276)
-- [Upload File in One Drive](https://github.com/PipedreamHQ/pipedream/issues/7219)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-- [[DO NOT MERGE] Leo Test](https://github.com/PipedreamHQ/pipedream/issues/7232)
-- [Spotify Get Album's Tracks](https://github.com/PipedreamHQ/pipedream/issues/7193)
-- [[ACTION] Quickbooks API - Purchase object functionality](https://github.com/PipedreamHQ/pipedream/issues/7196)
-- [Box.com - Upload a New File Version](https://github.com/PipedreamHQ/pipedream/issues/7198)
-- [[Components] Google My Business](https://github.com/PipedreamHQ/pipedream/issues/6979)
-- [Get Playlist](https://github.com/PipedreamHQ/pipedream/issues/7173)
-- [[ACTION] Microsoft Teams - Shifts App](https://github.com/PipedreamHQ/pipedream/issues/6681)
-- [[ACTION] Add Member Group (Google Directory) ](https://github.com/PipedreamHQ/pipedream/issues/7139)
-- [Xero New or Updated Quote](https://github.com/PipedreamHQ/pipedream/issues/7152)
-- [Trigger - New Comment on any video in a YouTube Channel](https://github.com/PipedreamHQ/pipedream/issues/7134)
-- [[APP]](https://github.com/PipedreamHQ/pipedream/issues/3509)
-- [[ACTION] Forward HTTP request with no or minimal modification](https://github.com/PipedreamHQ/pipedream/issues/6882)
 
