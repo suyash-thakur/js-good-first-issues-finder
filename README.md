@@ -4,51 +4,49 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [dosyago/BrowserBoxPro](https://github.com/dosyago/BrowserBoxPro)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Installation paths](https://github.com/dosyago/BrowserBoxPro/issues/247)
-- [Translate README](https://github.com/dosyago/BrowserBoxPro/issues/249)
-- [Russian README translation corrections](https://github.com/dosyago/BrowserBoxPro/issues/261)
-- [CodeQL ideas](https://github.com/dosyago/BrowserBoxPro/issues/258)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
-## [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+## [AnalogStudiosRI/www.blissfestri.com](https://github.com/AnalogStudiosRI/www.blissfestri.com)
 
-- [[OTHER] GitPod checking links results in error](https://github.com/EddieHubCommunity/LinkFree/issues/6912)
-- [[BUG] doc page need padding between horizontal line and hover line](https://github.com/EddieHubCommunity/LinkFree/issues/8196)
-- [UI enhancement in SidNav and Documentation Grid](https://github.com/EddieHubCommunity/LinkFree/issues/8165)
-- [[BUG] Improve Styling on Map](https://github.com/EddieHubCommunity/LinkFree/issues/8194)
-- [[Color issue ] <on the playground tab in light mode>](https://github.com/EddieHubCommunity/LinkFree/issues/8186)
-- [Padding between external link icon and date](https://github.com/EddieHubCommunity/LinkFree/issues/8098)
-- [[FEAT] profile icon does not appear](https://github.com/EddieHubCommunity/LinkFree/issues/7846)
+- [improve `PromoVideo` component performance through lazy facade](https://github.com/AnalogStudiosRI/www.blissfestri.com/issues/119)
 
-## [service-mesh-patterns/service-mesh-patterns](https://github.com/service-mesh-patterns/service-mesh-patterns)
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
 
-- [Issue Template Updates for Figma link ](https://github.com/service-mesh-patterns/service-mesh-patterns/issues/112)
+- [Finish Decaffing all core packages](https://github.com/pulsar-edit/pulsar/issues/444)
+- [Finish Bundling Core Packages](https://github.com/pulsar-edit/pulsar/issues/512)
 
-## [actualbudget/actual](https://github.com/actualbudget/actual)
+## [lisa-t-nguyen/expedition-planner](https://github.com/lisa-t-nguyen/expedition-planner)
 
-- [[Bug]: Double scrollbars](https://github.com/actualbudget/actual/issues/1358)
-- [[Maintenance] Rename "Nordigen" to "GoCardless"](https://github.com/actualbudget/actual/issues/1244)
-- [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
+- [Feature: User can reset the expedition](https://github.com/lisa-t-nguyen/expedition-planner/issues/6)
+- [Feature: User can add and manage players to and from a bench](https://github.com/lisa-t-nguyen/expedition-planner/issues/22)
+- [Feature: User can hover over role names to display a tooltip](https://github.com/lisa-t-nguyen/expedition-planner/issues/23)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [ginkgobioworks/react-json-schema-form-builder](https://github.com/ginkgobioworks/react-json-schema-form-builder)
 
-- [Bitclout](https://github.com/simple-icons/simple-icons/issues/5782)
-- [Request: Wellfound](https://github.com/simple-icons/simple-icons/issues/8528)
-- [Request : Root Me](https://github.com/simple-icons/simple-icons/issues/6201)
-- [Sonatype](https://github.com/simple-icons/simple-icons/issues/6170)
-- [IronMQ icon](https://github.com/simple-icons/simple-icons/issues/4249)
-- [AdRoll](https://github.com/simple-icons/simple-icons/issues/5787)
-- [Canvas](https://github.com/simple-icons/simple-icons/issues/5477)
-- [Request: Viblo](https://github.com/simple-icons/simple-icons/issues/5751)
-- [Add Jovian.ai Website Icon ](https://github.com/simple-icons/simple-icons/issues/5050)
-- [Request for F# icons](https://github.com/simple-icons/simple-icons/issues/5385)
-- [Request: Adobe Stock Icon](https://github.com/simple-icons/simple-icons/issues/5088)
+- [[Bug] Form element's `Description` field data is lost after `Input type` edit](https://github.com/ginkgobioworks/react-json-schema-form-builder/issues/467)
 
-## [sequelize/sequelize](https://github.com/sequelize/sequelize)
+## [facebook/lexical](https://github.com/facebook/lexical)
 
-- [Remove the `include` option from `Model.create`](https://github.com/sequelize/sequelize/issues/15233)
-- [Allow passing raw arrays into `set` and `add` instance methods](https://github.com/sequelize/sequelize/issues/10397)
+- [Feature: keyboard shortcuts to move nodes up, down, indent, unindent](https://github.com/facebook/lexical/issues/4360)
+
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [remove unused rollup dependency from several packages](https://github.com/Agoric/agoric-sdk/issues/1223)
+
+## [elegantframework/elegant-cli](https://github.com/elegantframework/elegant-cli)
+
+- [Upgrade Next.js to version 13.](https://github.com/elegantframework/elegant-cli/issues/123)
+- [As a website owner, I would like to have a security.txt file included in my website.](https://github.com/elegantframework/elegant-cli/issues/58)
+- [As an Elegant user, I would like to have a "copy" command next to any code samples;](https://github.com/elegantframework/elegant-cli/issues/82)
+- [Elegant CMS -- Set all admin CMS pages to 'no-index'.](https://github.com/elegantframework/elegant-cli/issues/91)
+
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
+
+- [FAQs: Can we add landing pages for FAQ categories?](https://github.com/dbt-labs/docs.getdbt.com/issues/2748)
+- [Correct Slack Notification Note](https://github.com/dbt-labs/docs.getdbt.com/issues/2967)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -60,4 +58,16 @@ This list gets updated every day at midnight.
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: add `@stdlib/string/to-well-formed`](https://github.com/stdlib-js/stdlib/issues/1066)
+- [[RFC]: add `@stdlib/assert/is-well-formed-string`](https://github.com/stdlib-js/stdlib/issues/1065)
+- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
+- [[RFC]: Add `@stdlib/random/strided/rayleigh`](https://github.com/stdlib-js/stdlib/issues/889)
 
