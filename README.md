@@ -4,11 +4,53 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+
+## [aws/aws-cdk](https://github.com/aws/aws-cdk)
+
+- [(aws-batch-alpha): Construct Props RuntimePlatform](https://github.com/aws/aws-cdk/issues/26484)
+- [aws-sns: 'autoCreatePolicy' for the imported topic is set to false,](https://github.com/aws/aws-cdk/issues/21158)
+- [(logs): Configure subscription filter name on l2](https://github.com/aws/aws-cdk/issues/26485)
+- [Add require_imdsv2 parameter to add_nodegroup_capacity method](https://github.com/aws/aws-cdk/issues/19984)
+- [(cli): tags with an equals sign in the value only use the value of the string prior to the equals sign](https://github.com/aws/aws-cdk/issues/21003)
+- [(ec2): Fails to create subnet with `fromSubnetAttributes` without `routeTableId`](https://github.com/aws/aws-cdk/issues/19786)
+- [(route53): Support grantDelegation on imported PublicHostedZone](https://github.com/aws/aws-cdk/issues/26240)
+- [(glue): Missing parameter *parameters* from class Table (construct)](https://github.com/aws/aws-cdk/issues/14159)
+- [AutoScaling: Support Custom Termination Policies (Lambda)](https://github.com/aws/aws-cdk/issues/19750)
+- [core: logical ID validation regex is inconsistant with cloudformation specification](https://github.com/aws/aws-cdk/issues/26075)
+- [(aws-elasticloadbalancingv2): Cannot use a single application load balancer as a target for the network load balancer](https://github.com/aws/aws-cdk/issues/17208)
+
+## [bjupreti/karyakram-frontend](https://github.com/bjupreti/karyakram-frontend)
+
+- [Setup Frontend with Next.js](https://github.com/bjupreti/karyakram-frontend/issues/1)
+- [Setup CI/CD for frontend](https://github.com/bjupreti/karyakram-frontend/issues/4)
+- [Do some research on where you want to deploy frontend](https://github.com/bjupreti/karyakram-frontend/issues/3)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
+- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+
 ## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
+- [Migrate components to TS: AvatarAccount](https://github.com/MetaMask/metamask-extension/issues/18882)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [Update ButtonIcon to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20161)
 - [Replace deprecated Checkbox component with Checkbox from the component-library](https://github.com/MetaMask/metamask-extension/issues/20163)
 - [Migrate components to TS: PickerNetwork](https://github.com/MetaMask/metamask-extension/issues/19124)
-- [Update ButtonIcon to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20161)
 - [Update ModalOverlay to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20157)
 - [Update ModalContent to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20160)
 - [Update ModalHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20159)
@@ -16,49 +58,29 @@ This list gets updated every day at midnight.
 - [Update HeaderBase to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20158)
 - [Update Popover to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20156)
 - [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [Migrate components to TS: AvatarAccount](https://github.com/MetaMask/metamask-extension/issues/18882)
 - [Custom added token with no icon is showing text instead of identicon](https://github.com/MetaMask/metamask-extension/issues/13755)
 - [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
 - [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
 - [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
 - [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
 
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
-- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [Finish Decaffing all core packages](https://github.com/pulsar-edit/pulsar/issues/444)
+- [Finish Bundling Core Packages](https://github.com/pulsar-edit/pulsar/issues/512)
 
-## [openfoodfacts/hunger-games](https://github.com/openfoodfacts/hunger-games)
+## [lugenx/ecohabit](https://github.com/lugenx/ecohabit)
 
-- [What can I work on ?](https://github.com/openfoodfacts/hunger-games/issues/37)
+- [Update error handling on services/auth.js file?](https://github.com/lugenx/ecohabit/issues/227)
+- [Add instruction for renaming .env.example on the client subdirectory](https://github.com/lugenx/ecohabit/issues/226)
+- [Fix "[ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client" errors in earth911 mock APIs](https://github.com/lugenx/ecohabit/issues/224)
+- [Rename nav-menu-items.md file to habits.md and improve document like in comments](https://github.com/lugenx/ecohabit/issues/16)
 
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
 
-- [`experimentalWebKitSupport`: Set `devicePixelRatio`](https://github.com/cypress-io/cypress/issues/23808)
-- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
-- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
-- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
-- [Empty returned `specPattern` doesn't yield error if `specPattern` was originally an array](https://github.com/cypress-io/cypress/issues/27103)
-
-## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-
-- [FAQs: Can we add landing pages for FAQ categories?](https://github.com/dbt-labs/docs.getdbt.com/issues/2748)
-- [Correct Slack Notification Note](https://github.com/dbt-labs/docs.getdbt.com/issues/2967)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
-- [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
-- [Make all the 'Loading' strings consistent](https://github.com/WordPress/gutenberg/issues/52886)
-- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
-- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
-- [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
-- [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
-- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Generic Worker multiuser engine in Google Cloud](https://github.com/taskcluster/taskcluster/issues/6412)
+- [Intermittent test failue on `go-tools` CI task](https://github.com/taskcluster/taskcluster/issues/6414)
+- [Error checking for interactive user: Could not parse username from "\nwtmp begins Thu Nov  4 06:52 \n"](https://github.com/taskcluster/taskcluster/issues/5006)
+- [taskcluster group list <taskGroupId> returns no results](https://github.com/taskcluster/taskcluster/issues/6325)
+- [Use go generics instead of `json.RawMessage` in generic worker](https://github.com/taskcluster/taskcluster/issues/6378)
 
