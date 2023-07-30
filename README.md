@@ -4,14 +4,36 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [chihacknight/ghost-buses-frontend](https://github.com/chihacknight/ghost-buses-frontend)
+## [discord-tickets/bot](https://github.com/discord-tickets/bot)
 
-- [Condense site header vertically](https://github.com/chihacknight/ghost-buses-frontend/issues/55)
-- [The highlight of the hovered bus route is blocked by other routes' color](https://github.com/chihacknight/ghost-buses-frontend/issues/39)
+- [[BUG] Tranfering a ticket updates the channel topic but not the opening message](https://github.com/discord-tickets/bot/issues/469)
+- [[BUG] Issue with stale checks](https://github.com/discord-tickets/bot/issues/459)
+- [[BUG] Moving a category removes the priority emoji](https://github.com/discord-tickets/bot/issues/467)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [feat: update role descriptions for non meeting mafia](https://github.com/UltiMafia/Ultimafia/issues/780)
+- [feat: update fruit list for swear replacement](https://github.com/UltiMafia/Ultimafia/issues/765)
+
+## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
+
+- [SUM(FUNC(x)) is BROKEN since 2.2.0](https://github.com/AlaSQL/alasql/issues/1666)
+- [DATE function not working ](https://github.com/AlaSQL/alasql/issues/1627)
+- [Integrity Constraint Violation with Delete?](https://github.com/AlaSQL/alasql/issues/1095)
+- [Parse() then AST.toString() doesn't restore square brackets on column name](https://github.com/AlaSQL/alasql/issues/1740)
+- [4.1.2 > 4.1.3 break indexedDB queries](https://github.com/AlaSQL/alasql/issues/1747)
+- [LIKE will not work correctly when there is a line break](https://github.com/AlaSQL/alasql/issues/1734)
+- [Foreign key not detected in tables object](https://github.com/AlaSQL/alasql/issues/1643)
+- [REGEXP not working as expected ](https://github.com/AlaSQL/alasql/issues/1384)
+- [primary key not working. Adds duplicate values.](https://github.com/AlaSQL/alasql/issues/1292)
+- [localstorage: creating view succeeds but selecting from it fails](https://github.com/AlaSQL/alasql/issues/1470)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: add `@stdlib/string/to-well-formed`](https://github.com/stdlib-js/stdlib/issues/1066)
+- [[RFC]: add `@stdlib/assert/is-well-formed-string`](https://github.com/stdlib-js/stdlib/issues/1065)
+- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -22,51 +44,30 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 
-## [pyOpenSci/pyopensci.github.io](https://github.com/pyOpenSci/pyopensci.github.io)
+## [joaorb64/TournamentStreamHelper](https://github.com/joaorb64/TournamentStreamHelper)
 
-- [✨  Add issue templates for new issues to website repository](https://github.com/pyOpenSci/pyopensci.github.io/issues/124)
-- [✨ Bug: Community filter issues - some community members are tagged with contribution types that are incorrect - beginner friendly (text update to contributor YAML FILE)!](https://github.com/pyOpenSci/pyopensci.github.io/issues/203)
-- [✨ Add an "Our Purpose" section on the website's landing page](https://github.com/pyOpenSci/pyopensci.github.io/issues/168)
+- [Idea: Add a Top 8 template where characters in positions `n` and beyond are considered "secondary"](https://github.com/joaorb64/TournamentStreamHelper/issues/480)
 
-## [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
 
-- [Deprecate Alert in favor of BannerAlert](https://github.com/MetaMask/metamask-mobile/issues/6890)
-- [Deprecate CheckBox in favor of Checkbox](https://github.com/MetaMask/metamask-mobile/issues/6885)
-- [iOS: Error is not being handled correctly when user fails biometrics right after enabling it for the first time](https://github.com/MetaMask/metamask-mobile/issues/6028)
-- [Replace deprecated CheckBox component with Checkbox from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6882)
-- [Replace TextInput component with TextField from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6891)
-- [Deprecate Text in favor of Text](https://github.com/MetaMask/metamask-mobile/issues/6888)
-- [Replace deprecated Alert component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6889)
-- [Replace deprecated Text component with Text from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6887)
-- [Ru translation doesn't fit the screen.](https://github.com/MetaMask/metamask-mobile/issues/6797)
+- [BUG: Social Media links in the footer of the site are opening in the same tab as current tab](https://github.com/UBA-GCOEN/StichHub/issues/473)
+- [Animation added on text: {STITCH YOUR WAY}](https://github.com/UBA-GCOEN/StichHub/pull/443)
+- [Add typing effect](https://github.com/UBA-GCOEN/StichHub/issues/478)
+- [BUG:  User does not get response if jwt expired](https://github.com/UBA-GCOEN/StichHub/issues/509)
+- [BUG: UI Improvement](https://github.com/UBA-GCOEN/StichHub/issues/476)
+- [[STYLE CHANGE] The social media links open on the same page](https://github.com/UBA-GCOEN/StichHub/issues/504)
+- [BUG:  Tailor Button runtime error](https://github.com/UBA-GCOEN/StichHub/issues/508)
+- [Refactor MainLandingPage component for improved code organization. ⚡](https://github.com/UBA-GCOEN/StichHub/issues/470)
+- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
+- [[STYLE CHANGE] 'Our Services' Heading Alignment Enhancement](https://github.com/UBA-GCOEN/StichHub/issues/457)
+- [Feat: create a new issue form for enhancement](https://github.com/UBA-GCOEN/StichHub/issues/475)
+- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
+- [Add navigation links in CustomersPage](https://github.com/UBA-GCOEN/StichHub/issues/80)
 
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+## [MoAtefAmer/DailyTaskTrackerExtension](https://github.com/MoAtefAmer/DailyTaskTrackerExtension)
 
-- [feat: update role descriptions for non meeting mafia](https://github.com/UltiMafia/Ultimafia/issues/780)
-- [feat: update fruit list for swear replacement](https://github.com/UltiMafia/Ultimafia/issues/765)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [Replace deprecated Button component with new Button component](https://github.com/MetaMask/metamask-extension/issues/18896)
-- [Update all Box props documentation links to point to new Box](https://github.com/MetaMask/metamask-extension/issues/20004)
-- [Migrate components to TS: ButtonSecondary](https://github.com/MetaMask/metamask-extension/issues/18888)
-- [Migrate components to TS: AvatarFavicon](https://github.com/MetaMask/metamask-extension/issues/19117)
-- [Update ButtonIcon to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20161)
-- [Update HeaderBase to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20158)
-- [Replace deprecated CheckBox component with Checkbox from the component-library](https://github.com/MetaMask/metamask-extension/issues/20163)
-- [Migrate components to TS: PickerNetwork](https://github.com/MetaMask/metamask-extension/issues/19124)
-- [Migrate components to TS: AvatarAccount](https://github.com/MetaMask/metamask-extension/issues/18882)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [Update ModalOverlay to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20157)
-- [Update ModalContent to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20160)
-- [Update ModalHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20159)
-- [Update PopoverHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20155)
-- [Update Popover to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20156)
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [Custom added token with no icon is showing text instead of identicon](https://github.com/MetaMask/metamask-extension/issues/13755)
-- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [Seperate the delete all button from the form and style it](https://github.com/MoAtefAmer/DailyTaskTrackerExtension/issues/8)
+- [Fade color for edit button for completed task](https://github.com/MoAtefAmer/DailyTaskTrackerExtension/issues/4)
+- [Pretty Create Task form](https://github.com/MoAtefAmer/DailyTaskTrackerExtension/issues/3)
 
