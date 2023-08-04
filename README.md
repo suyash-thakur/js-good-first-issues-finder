@@ -4,13 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: add `@stdlib/string/to-well-formed`](https://github.com/stdlib-js/stdlib/issues/1066)
-- [[RFC]: add `@stdlib/assert/is-well-formed-string`](https://github.com/stdlib-js/stdlib/issues/1065)
-- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
@@ -19,8 +12,48 @@ This list gets updated every day at midnight.
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
+## [hlxsites/24life](https://github.com/hlxsites/24life)
+
+- [Author profile page with Author index](https://github.com/hlxsites/24life/issues/14)
+- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
+- [Footer Block and Style](https://github.com/hlxsites/24life/issues/1)
+- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
+- [Setup Block Library](https://github.com/hlxsites/24life/issues/32)
+- [Magazine Article Hero Block with video](https://github.com/hlxsites/24life/issues/31)
+- [Collection Hero](https://github.com/hlxsites/24life/issues/23)
+- [Experts Page: List of Authors](https://github.com/hlxsites/24life/issues/18)
+- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
+- [contact-us fragment](https://github.com/hlxsites/24life/issues/16)
+- [Quote block](https://github.com/hlxsites/24life/issues/7)
+- [Magazine: List of issues](https://github.com/hlxsites/24life/issues/4)
+
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+- [Add exam timeline view per student](https://github.com/PrairieLearn/PrairieLearn/issues/196)
+- [Add custom placeholder in more elements](https://github.com/PrairieLearn/PrairieLearn/issues/6968)
+- [`weight` optional attributes for pl-threejs missing + `body-pose-format` not used](https://github.com/PrairieLearn/PrairieLearn/issues/1670)
+- ["Natural Sort" for Assessment Filter](https://github.com/PrairieLearn/PrairieLearn/issues/1369)
+- [Update circuit example question](https://github.com/PrairieLearn/PrairieLearn/issues/8128)
+- [studentQuestion UX: hide next/prev buttons on single question quiz](https://github.com/PrairieLearn/PrairieLearn/issues/1207)
+
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
+- [`experimentalWebKitSupport`: Set `devicePixelRatio`](https://github.com/cypress-io/cypress/issues/23808)
+- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
+- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
+- [Empty returned `specPattern` doesn't yield error if `specPattern` was originally an array](https://github.com/cypress-io/cypress/issues/27103)
+
+## [turkishfilms/platformer](https://github.com/turkishfilms/platformer)
+
+- [make levels](https://github.com/turkishfilms/platformer/issues/3)
+- [make Game Object](https://github.com/turkishfilms/platformer/issues/4)
+- [intro Reginald](https://github.com/turkishfilms/platformer/issues/6)
+- [make a player](https://github.com/turkishfilms/platformer/issues/2)
+
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
 - [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
 - [canInsertBlockType returns true when the parentClientId is not nestable](https://github.com/WordPress/gutenberg/issues/10013)
 - [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
@@ -35,25 +68,4 @@ This list gets updated every day at midnight.
 - [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
 - [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
 - [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [`@wordpress/viewport` is missing a dependency on `@wordpress/element`](https://github.com/WordPress/gutenberg/issues/41346)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-
-## [sinonjs/sinon](https://github.com/sinonjs/sinon)
-
-- [.throws with no message creates error with empty message](https://github.com/sinonjs/sinon/issues/2525)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
