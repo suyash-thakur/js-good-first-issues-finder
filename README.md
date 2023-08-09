@@ -4,58 +4,45 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [badges/shields](https://github.com/badges/shields)
+
+- [Incorrect version shown for crates.io](https://github.com/badges/shields/issues/9453)
+- [Python versions from pyproject.toml](https://github.com/badges/shields/issues/9410)
+- [Provide high resolution favicon](https://github.com/badges/shields/issues/1497)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 
-## [miraclx/freyr-js](https://github.com/miraclx/freyr-js)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [YouTube Music Support](https://github.com/miraclx/freyr-js/issues/6)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Update `typescript-eslint` to V6](https://github.com/WordPress/gutenberg/issues/52512)
+- [Upgrade eslint-plugin-prettier to ^5 in @wordpress/eslint-plugin](https://github.com/WordPress/gutenberg/issues/52524)
+- [Update dependencies of @wordpress/scripts to fix semver security issue](https://github.com/WordPress/gutenberg/issues/52029)
+- [Testing: Add integration test which ensures that npm packages can be used with Node](https://github.com/WordPress/gutenberg/issues/17273)
+- [Blocks: Full Screen alignment/display option on several blocks](https://github.com/WordPress/gutenberg/issues/16385)
+- [Adequate our use of `@link` tag](https://github.com/WordPress/gutenberg/issues/14334)
+- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [canInsertBlockType returns true when the parentClientId is not nestable](https://github.com/WordPress/gutenberg/issues/10013)
+- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
+- [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
+- [Make all the 'Loading' strings consistent](https://github.com/WordPress/gutenberg/issues/52886)
+- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
+- [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
+- [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
 
-## [m-h-c-t/mh-helper-extension](https://github.com/m-h-c-t/mh-helper-extension)
+## [bitfocus/companion](https://github.com/bitfocus/companion)
 
-- [Add Gemology Base to Fungal Cavern](https://github.com/m-h-c-t/mh-helper-extension/issues/426)
-
-## [facebook/lexical](https://github.com/facebook/lexical)
-
-- [Feature: LexicalClickableLinkPlugin should support ctrl click mode](https://github.com/facebook/lexical/issues/4565)
-- [Feature: keyboard shortcuts to move nodes up, down, indent, unindent](https://github.com/facebook/lexical/issues/4360)
-
-## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-
-- [Remove old beta page from FAQs ](https://github.com/dbt-labs/docs.getdbt.com/issues/3882)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[TRIGGER] Add REPLY info in Discord trigger](https://github.com/PipedreamHQ/pipedream/issues/7493)
-- [BigQuery Actions](https://github.com/PipedreamHQ/pipedream/issues/7464)
-- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
-- [[ACTION] Azure OpenAI Service](https://github.com/PipedreamHQ/pipedream/issues/7448)
-- [Update google contacts with all available fields](https://github.com/PipedreamHQ/pipedream/issues/7430)
-- [test](https://github.com/PipedreamHQ/pipedream/issues/7399)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [Need API Access for Square [upsert-customer-custom-attribute]](https://github.com/PipedreamHQ/pipedream/issues/7329)
-- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
-- [[Components] Async options for Google Forms](https://github.com/PipedreamHQ/pipedream/issues/7162)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7276)
-- [Upload File in One Drive](https://github.com/PipedreamHQ/pipedream/issues/7219)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-
-## [mkoskim/mawejs](https://github.com/mkoskim/mawejs)
-
-- [Add folding buttons to editor menu](https://github.com/mkoskim/mawejs/issues/89)
-- [Add Lorem button to editor menu](https://github.com/mkoskim/mawejs/issues/90)
-- [Language selection to head editing](https://github.com/mkoskim/mawejs/issues/101)
-
-## [actualbudget/actual](https://github.com/actualbudget/actual)
-
-- [[Maintenance] TypeScript migration](https://github.com/actualbudget/actual/issues/1483)
-- [[Maintenance] Update the product screenshot in README.md](https://github.com/actualbudget/actual/issues/1476)
-- [[Tech Debt] TypeScript - enable `strictNullChecks`](https://github.com/actualbudget/actual/issues/1426)
-- [[Maintenance] Rename "Nordigen" to "GoCardless"](https://github.com/actualbudget/actual/issues/1244)
-- [[Tech Debt] ButtonLink, LinkButton, ExternalLink, AnchorLink](https://github.com/actualbudget/actual/issues/1414)
-- [[Bug]: filtering by one-of notes](https://github.com/actualbudget/actual/issues/779)
+- [Internal variables for instance/connection states](https://github.com/bitfocus/companion/issues/2507)
+- [Export Module Logs](https://github.com/bitfocus/companion/issues/2529)
 
