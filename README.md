@@ -4,11 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [badges/shields](https://github.com/badges/shields)
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
 
-- [Incorrect version shown for crates.io](https://github.com/badges/shields/issues/9453)
-- [Python versions from pyproject.toml](https://github.com/badges/shields/issues/9410)
-- [Provide high resolution favicon](https://github.com/badges/shields/issues/1497)
+- [Add exam timeline view per student](https://github.com/PrairieLearn/PrairieLearn/issues/196)
+- [Add custom placeholder in more elements](https://github.com/PrairieLearn/PrairieLearn/issues/6968)
+
+## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
+
+- [BUG: Social Media links in the footer of the site are opening in the same tab as current tab](https://github.com/UBA-GCOEN/StichHub/issues/473)
+- [Animation added on text: {STITCH YOUR WAY}](https://github.com/UBA-GCOEN/StichHub/pull/443)
+- [Add typing effect](https://github.com/UBA-GCOEN/StichHub/issues/478)
+- [[STYLE CHANGE] The social media links open on the same page](https://github.com/UBA-GCOEN/StichHub/issues/504)
+- [Refactor MainLandingPage component for improved code organization. ⚡](https://github.com/UBA-GCOEN/StichHub/issues/470)
+- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
+- [Feat: create a new issue form for enhancement](https://github.com/UBA-GCOEN/StichHub/issues/475)
+- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
+- [Add navigation links in CustomersPage](https://github.com/UBA-GCOEN/StichHub/issues/80)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -17,32 +28,38 @@ This list gets updated every day at midnight.
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
-- [Update `typescript-eslint` to V6](https://github.com/WordPress/gutenberg/issues/52512)
-- [Upgrade eslint-plugin-prettier to ^5 in @wordpress/eslint-plugin](https://github.com/WordPress/gutenberg/issues/52524)
-- [Update dependencies of @wordpress/scripts to fix semver security issue](https://github.com/WordPress/gutenberg/issues/52029)
-- [Testing: Add integration test which ensures that npm packages can be used with Node](https://github.com/WordPress/gutenberg/issues/17273)
-- [Blocks: Full Screen alignment/display option on several blocks](https://github.com/WordPress/gutenberg/issues/16385)
-- [Adequate our use of `@link` tag](https://github.com/WordPress/gutenberg/issues/14334)
-- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
-- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
-- [canInsertBlockType returns true when the parentClientId is not nestable](https://github.com/WordPress/gutenberg/issues/10013)
-- [Scripts: Add a description of the `--no-watch` option to the documentation](https://github.com/WordPress/gutenberg/issues/51695)
-- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
-- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
-- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
-- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
-- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
-- [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
-- [Make all the 'Loading' strings consistent](https://github.com/WordPress/gutenberg/issues/52886)
-- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
-- [Site Editor: Clarify the mysterious 'Entity' 👻  messages.](https://github.com/WordPress/gutenberg/issues/47886)
-- [Replace modal's focusOnMount with a optional string providing more options.](https://github.com/WordPress/gutenberg/issues/7698)
+- [Update logo for policyengine.org social share preview](https://github.com/PolicyEngine/policyengine-app/issues/561)
 
-## [bitfocus/companion](https://github.com/bitfocus/companion)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Internal variables for instance/connection states](https://github.com/bitfocus/companion/issues/2507)
-- [Export Module Logs](https://github.com/bitfocus/companion/issues/2529)
+- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+
+## [mathcodes/contentfordevelopers](https://github.com/mathcodes/contentfordevelopers)
+
+- [Navbar restyle with breakpoints](https://github.com/mathcodes/contentfordevelopers/issues/171)
+
+## [hlxsites/24life](https://github.com/hlxsites/24life)
+
+- [Not Found Page](https://github.com/hlxsites/24life/issues/44)
+- [Article Hero Block](https://github.com/hlxsites/24life/issues/11)
+- [Experts Page: List of Authors](https://github.com/hlxsites/24life/issues/18)
+- [Quote block](https://github.com/hlxsites/24life/issues/7)
+- [Create Collections pages](https://github.com/hlxsites/24life/issues/56)
+- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
+- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
+- [Magazine Article Hero Block with video](https://github.com/hlxsites/24life/issues/31)
+- [Collection Hero](https://github.com/hlxsites/24life/issues/23)
+- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
+- [contact-us fragment](https://github.com/hlxsites/24life/issues/16)
+- [Magazine: List of issues](https://github.com/hlxsites/24life/issues/4)
 
