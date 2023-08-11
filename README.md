@@ -4,33 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
-
-- [Add exam timeline view per student](https://github.com/PrairieLearn/PrairieLearn/issues/196)
-- [Add custom placeholder in more elements](https://github.com/PrairieLearn/PrairieLearn/issues/6968)
-
-## [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)
-
-- [BUG: Social Media links in the footer of the site are opening in the same tab as current tab](https://github.com/UBA-GCOEN/StichHub/issues/473)
-- [Animation added on text: {STITCH YOUR WAY}](https://github.com/UBA-GCOEN/StichHub/pull/443)
-- [Add typing effect](https://github.com/UBA-GCOEN/StichHub/issues/478)
-- [[STYLE CHANGE] The social media links open on the same page](https://github.com/UBA-GCOEN/StichHub/issues/504)
-- [Refactor MainLandingPage component for improved code organization. ⚡](https://github.com/UBA-GCOEN/StichHub/issues/470)
-- [BUG - Dead page | Explore now | For Customers](https://github.com/UBA-GCOEN/StichHub/issues/22)
-- [Feat: create a new issue form for enhancement](https://github.com/UBA-GCOEN/StichHub/issues/475)
-- [Adding the transition effect on the buttons](https://github.com/UBA-GCOEN/StichHub/issues/52)
-- [Add navigation links in CustomersPage](https://github.com/UBA-GCOEN/StichHub/issues/80)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
 - [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
-
-## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
-
-- [Update logo for policyengine.org social share preview](https://github.com/PolicyEngine/policyengine-app/issues/561)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -44,22 +23,57 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [mathcodes/contentfordevelopers](https://github.com/mathcodes/contentfordevelopers)
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
 
-- [Navbar restyle with breakpoints](https://github.com/mathcodes/contentfordevelopers/issues/171)
+- [[Feature request] CommonJS compatability](https://github.com/xenova/transformers.js/issues/152)
+- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
 
-## [hlxsites/24life](https://github.com/hlxsites/24life)
+## [facebook/react](https://github.com/facebook/react)
 
-- [Not Found Page](https://github.com/hlxsites/24life/issues/44)
-- [Article Hero Block](https://github.com/hlxsites/24life/issues/11)
-- [Experts Page: List of Authors](https://github.com/hlxsites/24life/issues/18)
-- [Quote block](https://github.com/hlxsites/24life/issues/7)
-- [Create Collections pages](https://github.com/hlxsites/24life/issues/56)
-- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
-- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
-- [Magazine Article Hero Block with video](https://github.com/hlxsites/24life/issues/31)
-- [Collection Hero](https://github.com/hlxsites/24life/issues/23)
-- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
-- [contact-us fragment](https://github.com/hlxsites/24life/issues/16)
-- [Magazine: List of issues](https://github.com/hlxsites/24life/issues/4)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+
+## [yamilt351/scraper](https://github.com/yamilt351/scraper)
+
+- [[BUG] Swagger does not render the endpoints](https://github.com/yamilt351/scraper/issues/32)
+- [[TASK] add guide page](https://github.com/yamilt351/scraper/issues/30)
+- [[TASK]  Create a view for related articles](https://github.com/yamilt351/scraper/issues/31)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [Support typescript filetype for data seed command](https://github.com/platformatic/platformatic/issues/1350)
+- [`boolean`/`object` configuration should have an `enabled` propery](https://github.com/platformatic/platformatic/issues/1346)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+
+## [mkoskim/mawejs](https://github.com/mkoskim/mawejs)
+
+- [Export: Dedicated preview formatter](https://github.com/mkoskim/mawejs/issues/144)
+- [WordTable: Blacklisting](https://github.com/mkoskim/mawejs/issues/143)
+- [WordTable: Use infinite scrollbar](https://github.com/mkoskim/mawejs/issues/142)
+- [Make onDragEndUpdateSlate()](https://github.com/mkoskim/mawejs/issues/137)
+- [Add folding buttons to editor menu](https://github.com/mkoskim/mawejs/issues/89)
+- [Add Lorem button to editor menu](https://github.com/mkoskim/mawejs/issues/90)
+- [UnfoldAll to unfold everything](https://github.com/mkoskim/mawejs/issues/128)
+- [Distraction free mode](https://github.com/mkoskim/mawejs/issues/112)
+- [Language selection to head editing](https://github.com/mkoskim/mawejs/issues/101)
+
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+- [Add exam timeline view per student](https://github.com/PrairieLearn/PrairieLearn/issues/196)
+- [Add custom placeholder in more elements](https://github.com/PrairieLearn/PrairieLearn/issues/6968)
+
+## [plebbit/plebchan](https://github.com/plebbit/plebchan)
+
+- [Add logic to hide reply button and show alert text for closed threads](https://github.com/plebbit/plebchan/issues/172)
+- [Add ellipsis instead of c/null for parentCid of pending reply](https://github.com/plebbit/plebchan/issues/108)
+- [Refactor Alert Messages to Utilize Constants](https://github.com/plebbit/plebchan/issues/164)
+- [Fix videos and iframes dimension to 16:9, add missing click-to-enlarge effect](https://github.com/plebbit/plebchan/issues/166)
+- [Fix react-toastify container gets stuck on electron sometimes](https://github.com/plebbit/plebchan/issues/173)
+- [Add refresh button in catalog views](https://github.com/plebbit/plebchan/issues/157)
+- [Add post preview to catalog cards](https://github.com/plebbit/plebchan/issues/158)
 
