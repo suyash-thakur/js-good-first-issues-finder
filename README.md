@@ -4,15 +4,33 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
-- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
-- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
-- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
+- [ saved screenshots and videos names be saved in a terminal friendly way](https://github.com/cypress-io/cypress/issues/23510)
+- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
+- [`experimentalWebKitSupport`: Set `devicePixelRatio`](https://github.com/cypress-io/cypress/issues/23808)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [[Community] Member Profile: Gopi Vaibhav](https://github.com/layer5io/layer5/issues/4726)
+- [[Community] Member Profile: Ananya Gautam](https://github.com/layer5io/layer5/issues/4725)
+- [[Community] Member Profile: Rex](https://github.com/layer5io/layer5/issues/4724)
+- [[Community] Member Profile: Hiren](https://github.com/layer5io/layer5/issues/4723)
+- [[Site] Add a card/widget for Adventures of Five and Friends](https://github.com/layer5io/layer5/issues/4618)
+- [Change route path from /projects to /products](https://github.com/layer5io/layer5/issues/4690)
+- [[About] Rearrange order of text and images in mobile view](https://github.com/layer5io/layer5/issues/4640)
+- [[UI] Remove whitespace in cards](https://github.com/layer5io/layer5/issues/3853)
+- [Add Catalog assets to Layer5 brand page.](https://github.com/layer5io/layer5/issues/4529)
+- [[Community] Add a section for Adventures of Five and Friends](https://github.com/layer5io/layer5/issues/4617)
+- [[Learn] Increasing the Z-index of the Scroll Up button](https://github.com/layer5io/layer5/issues/4663)
+- [Display integration containers adjacent to each other in a row for better mobile view](https://github.com/layer5io/layer5/issues/4665)
+- [[Handbook] Add card for Adventures of Five and Friends](https://github.com/layer5io/layer5/issues/4616)
+- [[Footer] Subscribe component overlaps on zoom greater than 100%](https://github.com/layer5io/layer5/issues/3865)
+- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
@@ -20,60 +38,26 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+## [ucsb-cs156-m23/proj-happycows-m23-10am-3](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-3)
 
-- [[Feature request] CommonJS compatability](https://github.com/xenova/transformers.js/issues/152)
-- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
+- [FEATURE: Add a back button on the leaderboard](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-3/issues/9)
+- [BUG: Milk at 4am PST or GMT?](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-3/issues/7)
+- [FEATURE: Eliminate purchase notification popups](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-3/issues/5)
+- [FEATURE: Wealth on Leaderboard should display as currency](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-3/issues/4)
 
-## [facebook/react](https://github.com/facebook/react)
+## [ucsb-cs156-m23/proj-happycows-m23-10am-2](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-2)
 
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [FEATURE: Add a back button on the leaderboard](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-2/issues/12)
+- [FEATURE: Wealth on Leaderboard should display as currency](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-2/issues/11)
+- [FEATURE: Eliminate purchase notification popups](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-2/issues/9)
+- [BUG: Milk at 4am PST or GMT?](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-2/issues/4)
 
-## [yamilt351/scraper](https://github.com/yamilt351/scraper)
+## [ucsb-cs156-m23/proj-happycows-m23-10am-1](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-1)
 
-- [[BUG] Swagger does not render the endpoints](https://github.com/yamilt351/scraper/issues/32)
-- [[TASK] add guide page](https://github.com/yamilt351/scraper/issues/30)
-- [[TASK]  Create a view for related articles](https://github.com/yamilt351/scraper/issues/31)
-
-## [platformatic/platformatic](https://github.com/platformatic/platformatic)
-
-- [Support typescript filetype for data seed command](https://github.com/platformatic/platformatic/issues/1350)
-- [`boolean`/`object` configuration should have an `enabled` propery](https://github.com/platformatic/platformatic/issues/1346)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
-- [Specify that `spec` reporter is a class and needs to be instantiate for usage with `run`](https://github.com/nodejs/node/issues/48112)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-
-## [mkoskim/mawejs](https://github.com/mkoskim/mawejs)
-
-- [Export: Dedicated preview formatter](https://github.com/mkoskim/mawejs/issues/144)
-- [WordTable: Blacklisting](https://github.com/mkoskim/mawejs/issues/143)
-- [WordTable: Use infinite scrollbar](https://github.com/mkoskim/mawejs/issues/142)
-- [Make onDragEndUpdateSlate()](https://github.com/mkoskim/mawejs/issues/137)
-- [Add folding buttons to editor menu](https://github.com/mkoskim/mawejs/issues/89)
-- [Add Lorem button to editor menu](https://github.com/mkoskim/mawejs/issues/90)
-- [UnfoldAll to unfold everything](https://github.com/mkoskim/mawejs/issues/128)
-- [Distraction free mode](https://github.com/mkoskim/mawejs/issues/112)
-- [Language selection to head editing](https://github.com/mkoskim/mawejs/issues/101)
-
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
-
-- [Add exam timeline view per student](https://github.com/PrairieLearn/PrairieLearn/issues/196)
-- [Add custom placeholder in more elements](https://github.com/PrairieLearn/PrairieLearn/issues/6968)
-
-## [plebbit/plebchan](https://github.com/plebbit/plebchan)
-
-- [Add logic to hide reply button and show alert text for closed threads](https://github.com/plebbit/plebchan/issues/172)
-- [Add ellipsis instead of c/null for parentCid of pending reply](https://github.com/plebbit/plebchan/issues/108)
-- [Refactor Alert Messages to Utilize Constants](https://github.com/plebbit/plebchan/issues/164)
-- [Fix videos and iframes dimension to 16:9, add missing click-to-enlarge effect](https://github.com/plebbit/plebchan/issues/166)
-- [Fix react-toastify container gets stuck on electron sometimes](https://github.com/plebbit/plebchan/issues/173)
-- [Add refresh button in catalog views](https://github.com/plebbit/plebchan/issues/157)
-- [Add post preview to catalog cards](https://github.com/plebbit/plebchan/issues/158)
+- [FEATURE: Add a back button on the leaderboard](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-1/issues/12)
+- [FEATURE: Eliminate purchase notification popups](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-1/issues/11)
+- [FEATURE: Wealth on Leaderboard should display as currency](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-1/issues/8)
+- [BUG: Milk at 4am PST or GMT?](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-1/issues/3)
 
