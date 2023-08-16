@@ -11,32 +11,49 @@ This list gets updated every day at midnight.
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 
-## [ucsb-cs156-m23/proj-happycows-m23-10am-4](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4)
-
-- [FEATURE: Add a back button on the leaderboard](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/12)
-- [FEATURE: Name on Commons Page](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/19)
-- [BUG: Milk at 4am PST or GMT?](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/4)
-- [BUG Remove Test Job](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/25)
-- [FEATURE: Wealth on Leaderboard should display as currency](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/2)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: Add `@stdlib/random/strided/chi`](https://github.com/stdlib-js/stdlib/issues/885)
-- [[RFC]: add `@stdlib/string/to-well-formed`](https://github.com/stdlib-js/stdlib/issues/1066)
-- [[RFC]: add `@stdlib/assert/is-well-formed-string`](https://github.com/stdlib-js/stdlib/issues/1065)
-- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-
 ## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
 - [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
 - [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
 - [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [ saved screenshots and videos names be saved in a terminal friendly way](https://github.com/cypress-io/cypress/issues/23510)
+- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
+
+## [mozilla/rhino](https://github.com/mozilla/rhino)
+
+- [please support java class access, eg: java.lang.Object.class](https://github.com/mozilla/rhino/issues/757)
+
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+
+- [Create V.2 TutorialModal](https://github.com/phlask/phlask-map/issues/231)
+- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
+- [Create V.2 ClosestTap](https://github.com/phlask/phlask-map/issues/216)
+- [Update the wording upon acknowledgement of a contribution](https://github.com/phlask/phlask-map/issues/324)
+
+## [ucsb-cs156-m23/proj-happycows-m23-10am-4](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4)
+
+- [BUG Remove Test Job](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/25)
+- [FEATURE: Name on Commons Page](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/19)
+- [FEATURE: Add a back button on the leaderboard](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/12)
+- [BUG: Milk at 4am PST or GMT?](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/4)
+- [FEATURE: Wealth on Leaderboard should display as currency](https://github.com/ucsb-cs156-m23/proj-happycows-m23-10am-4/issues/2)
+
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Update dependencies of @wordpress/scripts to fix semver security issue](https://github.com/WordPress/gutenberg/issues/52029)
-- [jsdoc dependency rules changed](https://github.com/WordPress/gutenberg/issues/50452)
 - [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
 - [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
 - [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
@@ -56,15 +73,11 @@ This list gets updated every day at midnight.
 - [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
 - [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
 
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Custom error page being reloaded every ~3 seconds](https://github.com/vercel/next.js/issues/10024)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [[DevEx]: Move all initialization logic into `created` from `mounted` hooks](https://github.com/cuttle-cards/cuttle/issues/190)
+- [[Bug]: GameOverDialog logo images are too large](https://github.com/cuttle-cards/cuttle/issues/327)
+- [[Bug]: Close buttons have wrong style in TargetingOverlay, RulesDialog, and ScrapDialog](https://github.com/cuttle-cards/cuttle/issues/446)
+- [[DevEx]: Move all testing-specific endpoints into the TestController](https://github.com/cuttle-cards/cuttle/issues/425)
+- [[DevEx]: Apply eslint rule for element-attribute-order to enforce consistent directive/attribute ordering in html](https://github.com/cuttle-cards/cuttle/issues/459)
 
