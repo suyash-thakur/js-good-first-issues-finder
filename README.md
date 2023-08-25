@@ -4,6 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [fermyon/developer](https://github.com/fermyon/developer)
+
+- [Add a template for Hugo + Spin](https://github.com/fermyon/developer/issues/803)
+- [Add a template for 11ty + Spin to Spin Up Hub](https://github.com/fermyon/developer/issues/802)
+- [Add a template for Spin + Docusaurus to Spin Up Hub](https://github.com/fermyon/developer/issues/801)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+
+## [hlxsites/24life](https://github.com/hlxsites/24life)
+
+- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
+- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
+- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
@@ -13,36 +30,16 @@ This list gets updated every day at midnight.
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
 
-- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [Finish Decaffing all core packages](https://github.com/pulsar-edit/pulsar/issues/444)
 
-## [hlxsites/24life](https://github.com/hlxsites/24life)
+## [langningchen/XMOJ-Script](https://github.com/langningchen/XMOJ-Script)
 
-- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
-- [Magazine Article Hero Block with video](https://github.com/hlxsites/24life/issues/31)
-- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
-- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
-
-## [aws/aws-cdk](https://github.com/aws/aws-cdk)
-
-- [cfn-parse.ts: parseDeletionPolicy is missing CreateExceptOnDelete](https://github.com/aws/aws-cdk/issues/26863)
-- [(aws-ecr-assets): Allow docker image assets to access private data in builds](https://github.com/aws/aws-cdk/issues/12062)
-- [(aws-elasticloadbalancingv2): Cannot use a single application load balancer as a target for the network load balancer](https://github.com/aws/aws-cdk/issues/17208)
-- [(rds): set allocatedStorage with DatabaseInstanceReadReplica](https://github.com/aws/aws-cdk/issues/17083)
-- [(pipelines): limit assets concurrency](https://github.com/aws/aws-cdk/issues/17744)
-- [RDS: DatabaseCluster Instance Identifiers Attribute](https://github.com/aws/aws-cdk/issues/25947)
-- [(ec2): Fails to create subnet with `fromSubnetAttributes` without `routeTableId`](https://github.com/aws/aws-cdk/issues/19786)
-- [aws-cdk-lib.stepfunctions: Add Non-trivial Examples to Map Documentation](https://github.com/aws/aws-cdk/issues/26707)
-- [(logs) DataProtectionPolicy not displaying properly in the console](https://github.com/aws/aws-cdk/issues/26728)
-- [(aws-batch-alpha): Construct Props RuntimePlatform](https://github.com/aws/aws-cdk/issues/26484)
-
-## [meeseOS/meeseOS](https://github.com/meeseOS/meeseOS)
-
-- [Labels for analog clock widget colors](https://github.com/meeseOS/meeseOS/issues/151)
+- [[Bug] 申请数据按钮无效](https://github.com/langningchen/XMOJ-Script/issues/73)
+- [[Feature Request] Debug mode 使用dev 分支](https://github.com/langningchen/XMOJ-Script/issues/69)
+- [[Bug] 修复错误的HTML escape](https://github.com/langningchen/XMOJ-Script/issues/67)
+- [[Bug] Post time is set using the incorrect time zone](https://github.com/langningchen/XMOJ-Script/issues/48)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -55,15 +52,56 @@ This list gets updated every day at midnight.
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
-## [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+## [ngarbezza/testy](https://github.com/ngarbezza/testy)
 
-- [[Bug] Wallet view: no longer able to remove imported accounts ](https://github.com/MetaMask/metamask-mobile/issues/6985)
-- [Deprecate Text in favor of Text](https://github.com/MetaMask/metamask-mobile/issues/6888)
-- [iOS: Error is not being handled correctly when user fails biometrics right after enabling it for the first time](https://github.com/MetaMask/metamask-mobile/issues/6028)
-- [Deprecate Alert in favor of BannerAlert](https://github.com/MetaMask/metamask-mobile/issues/6890)
-- [Deprecate CheckBox in favor of Checkbox](https://github.com/MetaMask/metamask-mobile/issues/6885)
-- [Replace deprecated CheckBox component with Checkbox from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6882)
-- [Replace TextInput component with TextField from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6891)
-- [Replace deprecated Alert component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6889)
-- [Replace deprecated Text component with Text from the component-library](https://github.com/MetaMask/metamask-mobile/issues/6887)
+- [[bug] randomOrder configuration parameter should fail if an invalid value is provided](https://github.com/ngarbezza/testy/issues/204)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Navigation block shows unintuitive message if no menus and no pages exist](https://github.com/WordPress/gutenberg/issues/44486)
+- [Documentation: Use consistent prefixes in code examples](https://github.com/WordPress/gutenberg/issues/53567)
+- [Actions on patterns result in notices containing 'block' instead of 'pattern'](https://github.com/WordPress/gutenberg/issues/53370)
+- [No "force delete"](https://github.com/WordPress/gutenberg/issues/13024)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Components: Refine When Autocompleter Stops Matching](https://github.com/WordPress/gutenberg/issues/30969)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
+- [Delete at the beginning of newly created quote deletes the quote, not the first charater.](https://github.com/WordPress/gutenberg/issues/35388)
+- [Blocks: Contextual tips tied to specific search queries](https://github.com/WordPress/gutenberg/issues/20196)
+- [srcset and sizes attributes missing from the featured image meta box](https://github.com/WordPress/gutenberg/issues/20795)
+- [Move DatePicker and TimePicker to own Component](https://github.com/WordPress/gutenberg/issues/18072)
+- [Inconsistent closing of settings panels](https://github.com/WordPress/gutenberg/issues/18418)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
+- [Modal headings and labels missing editor text color](https://github.com/WordPress/gutenberg/issues/50448)
+- [Update `typescript-eslint` to V6](https://github.com/WordPress/gutenberg/issues/52512)
+- [Upgrade eslint-plugin-prettier to ^5 in @wordpress/eslint-plugin](https://github.com/WordPress/gutenberg/issues/52524)
+- [Testing: Add integration test which ensures that npm packages can be used with Node](https://github.com/WordPress/gutenberg/issues/17273)
+- [Blocks: Full Screen alignment/display option on several blocks](https://github.com/WordPress/gutenberg/issues/16385)
+- [Adequate our use of `@link` tag](https://github.com/WordPress/gutenberg/issues/14334)
+- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[TRIGGER] Twitter](https://github.com/PipedreamHQ/pipedream/issues/7743)
+- [[ACTION] apollo send email](https://github.com/PipedreamHQ/pipedream/issues/7727)
+- [[TRIGGER] Feedbin Starred](https://github.com/PipedreamHQ/pipedream/issues/7721)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7713)
+- [[IMPROVEMENT] Google Calendar - New Upcoming Event: Make `Event ID` prop optional, so that the source will listen for all events](https://github.com/PipedreamHQ/pipedream/issues/7663)
+- [[ACTION] Databricks](https://github.com/PipedreamHQ/pipedream/issues/7670)
+- [[ACTION] PandaDoc Create Document - include fields](https://github.com/PipedreamHQ/pipedream/issues/7672)
+- [[Components] Hookdeck](https://github.com/PipedreamHQ/pipedream/issues/7686)
+- [[ACTION] PandaDoc: Download Document](https://github.com/PipedreamHQ/pipedream/issues/7639)
+- [Erpnext [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7598)
+- [[TRIGGER] dbtCloud - new sources/triggers](https://github.com/PipedreamHQ/pipedream/issues/7635)
+- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
+- [[TRIGGER] Add REPLY info in Discord trigger](https://github.com/PipedreamHQ/pipedream/issues/7493)
+- [BigQuery Actions](https://github.com/PipedreamHQ/pipedream/issues/7464)
+- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
+- [Update google contacts with all available fields](https://github.com/PipedreamHQ/pipedream/issues/7430)
+- [test](https://github.com/PipedreamHQ/pipedream/issues/7399)
 
