@@ -4,29 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [hlxsites/24life](https://github.com/hlxsites/24life)
+## [fdm-monster/fdm-monster](https://github.com/fdm-monster/fdm-monster)
 
-- [Focus/Fitness/Fuel/Recover Page Hero](https://github.com/hlxsites/24life/issues/35)
-- [Colorful headers in about-us](https://github.com/hlxsites/24life/issues/15)
-- [Subscribe to newsletter block](https://github.com/hlxsites/24life/issues/17)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: Add `@stdlib/random/strided/chi`](https://github.com/stdlib-js/stdlib/issues/885)
-
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
-
-- [ saved screenshots and videos names be saved in a terminal friendly way](https://github.com/cypress-io/cypress/issues/23510)
-
-## [plebbit/plebchan](https://github.com/plebbit/plebchan)
-
-- [Add refresh button in catalog views](https://github.com/plebbit/plebchan/issues/157)
-- [Fix ellipsis effect is not visible with webkit](https://github.com/plebbit/plebchan/issues/191)
-- [Add logic to hide reply button and show alert text for closed threads](https://github.com/plebbit/plebchan/issues/172)
-- [Add ellipsis instead of c/null for parentCid of pending reply](https://github.com/plebbit/plebchan/issues/108)
-- [Refactor Alert Messages to Utilize Constants](https://github.com/plebbit/plebchan/issues/164)
-- [Fix videos and iframes dimension to 16:9, add missing click-to-enlarge effect](https://github.com/plebbit/plebchan/issues/166)
-- [Fix react-toastify container gets stuck on electron sometimes](https://github.com/plebbit/plebchan/issues/173)
+- [Add status text to a printer and allow editing them](https://github.com/fdm-monster/fdm-monster/issues/2146)
+- [Validation problem: only one camera stream without printerId is allowed](https://github.com/fdm-monster/fdm-monster/issues/2131)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -39,29 +20,55 @@ This list gets updated every day at midnight.
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
 
-- [[ACTION] Github: Sync a fork branch with the upstream repository](https://github.com/PipedreamHQ/pipedream/issues/7758)
-- [[ACTION] Github: Create Pull Request](https://github.com/PipedreamHQ/pipedream/issues/7757)
-- [[TRIGGER] Feedbin Starred](https://github.com/PipedreamHQ/pipedream/issues/7721)
-- [[ACTION] apollo send email](https://github.com/PipedreamHQ/pipedream/issues/7727)
-- [[ACTION] insert many rows in Supabase tabel](https://github.com/PipedreamHQ/pipedream/issues/7750)
-- [[ACTION] PandaDoc Create Document - include fields](https://github.com/PipedreamHQ/pipedream/issues/7672)
-- [[TRIGGER] Twitter](https://github.com/PipedreamHQ/pipedream/issues/7743)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7713)
-- [[IMPROVEMENT] Google Calendar - New Upcoming Event: Make `Event ID` prop optional, so that the source will listen for all events](https://github.com/PipedreamHQ/pipedream/issues/7663)
-- [[Components] Hookdeck](https://github.com/PipedreamHQ/pipedream/issues/7686)
-- [[ACTION] PandaDoc: Download Document](https://github.com/PipedreamHQ/pipedream/issues/7639)
-- [Erpnext [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7598)
-- [[TRIGGER] dbtCloud - new sources/triggers](https://github.com/PipedreamHQ/pipedream/issues/7635)
-- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
-- [[TRIGGER] Add REPLY info in Discord trigger](https://github.com/PipedreamHQ/pipedream/issues/7493)
-- [BigQuery Actions](https://github.com/PipedreamHQ/pipedream/issues/7464)
-- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
-- [Update google contacts with all available fields](https://github.com/PipedreamHQ/pipedream/issues/7430)
-- [test](https://github.com/PipedreamHQ/pipedream/issues/7399)
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [mozilla/rhino](https://github.com/mozilla/rhino)
 
-- [Add navbar active state](https://github.com/hackclub/sprig/issues/801)
+- [Support ES2022 `.at()` on indexables (Array, String, etc)](https://github.com/mozilla/rhino/issues/1051)
+
+## [hackforla/311-data](https://github.com/hackforla/311-data)
+
+- [Set up github pages for 311-data](https://github.com/hackforla/311-data/issues/1534)
+- [Review and update dependencies in package.json](https://github.com/hackforla/311-data/issues/1537)
+- [Provide documentation for contribution guidelines](https://github.com/hackforla/311-data/issues/1556)
+- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
+- [Set up a cron job via github actions to update data nightly ](https://github.com/hackforla/311-data/issues/1535)
+- [Request Type Descriptions](https://github.com/hackforla/311-data/issues/972)
+
+## [sliit-foss/bashaway-event-portal](https://github.com/sliit-foss/bashaway-event-portal)
+
+- [Highlight the selected nav item while in corresponding route](https://github.com/sliit-foss/bashaway-event-portal/issues/15)
+- [Validate phone number input on registration form](https://github.com/sliit-foss/bashaway-event-portal/issues/24)
+- [Generate sitemaps](https://github.com/sliit-foss/bashaway-event-portal/issues/18)
+- [Hide nav items on login page](https://github.com/sliit-foss/bashaway-event-portal/issues/14)
+
+## [picosonic/js13k-2023](https://github.com/picosonic/js13k-2023)
+
+- [Rotation suggestion](https://github.com/picosonic/js13k-2023/issues/1)
+- [Show blocked cursor when over solid tile](https://github.com/picosonic/js13k-2023/issues/8)
+- [Only process mouse clicks from left button](https://github.com/picosonic/js13k-2023/issues/7)
+- [Make some test levels with Tiled](https://github.com/picosonic/js13k-2023/issues/2)
+
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+
+- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
+
+## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
+- [fix css/style for dashboard becomes distorted at certain width](https://github.com/idurar/idurar-erp-crm/issues/332)
+- [create a dropdown for notifications](https://github.com/idurar/idurar-erp-crm/issues/339)
+- [the sidePanel is wider than the screen on mobile](https://github.com/idurar/idurar-erp-crm/issues/333)
+- [[feat] Backend logger](https://github.com/idurar/idurar-erp-crm/issues/321)
+- [NoSQL Injection](https://github.com/idurar/idurar-erp-crm/issues/177)
+- [Replace all Invoice Quote payment Calculation with Calculate Utils Method](https://github.com/idurar/idurar-erp-crm/issues/280)
+- [API : Replace all Invoice Quote payment  Calculation with Calculate Helper Method ](https://github.com/idurar/idurar-erp-crm/issues/279)
+- [Project Docker File](https://github.com/idurar/idurar-erp-crm/issues/281)
+- [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204)
+- [Employee details still remains open even after delete Success](https://github.com/idurar/idurar-erp-crm/issues/213)
+
+## [pmndrs/drei](https://github.com/pmndrs/drei)
+
+- [Constructive Solid Geometry](https://github.com/pmndrs/drei/issues/390)
 
