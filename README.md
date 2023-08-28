@@ -4,10 +4,43 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [fdm-monster/fdm-monster](https://github.com/fdm-monster/fdm-monster)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add status text to a printer and allow editing them](https://github.com/fdm-monster/fdm-monster/issues/2146)
-- [Validation problem: only one camera stream without printerId is allowed](https://github.com/fdm-monster/fdm-monster/issues/2131)
+- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
+- [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+
+- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
+
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+
+- [[deps] Replace the use of moment.js with actively maintained library](https://github.com/jaegertracing/jaeger-ui/issues/1736)
+- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
+- [[deps] Choose between antd/icons and react-icons](https://github.com/jaegertracing/jaeger-ui/issues/1723)
+- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
+- [[chore]: Upgrade redux-actions to 3.x](https://github.com/jaegertracing/jaeger-ui/issues/1260)
+- [[chore]: Fix eslint warnings](https://github.com/jaegertracing/jaeger-ui/issues/1608)
+- [Support timezone conversion in Jaeger UI](https://github.com/jaegertracing/jaeger-ui/issues/777)
+- [[Feature]: Support Google Analytics 4 properties](https://github.com/jaegertracing/jaeger-ui/issues/1332)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+
+## [gbowne1/codebooker](https://github.com/gbowne1/codebooker)
+
+- [[BUG] useEffect has a missing dependency](https://github.com/gbowne1/codebooker/issues/143)
+- [[Feature] Ability to add books via QR or Barcode](https://github.com/gbowne1/codebooker/issues/38)
+- [[Feat] Add a feature to save books to your favorites](https://github.com/gbowne1/codebooker/issues/30)
+- [[FEAT] Add a Feedback panel](https://github.com/gbowne1/codebooker/issues/124)
+- [[Feat] Clicking on a category in the menu drawer. the "Category should only display books from that category](https://github.com/gbowne1/codebooker/issues/47)
+- [[BUG][Feature] Write e2e, unit and integration tests ](https://github.com/gbowne1/codebooker/issues/68)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -20,55 +53,14 @@ This list gets updated every day at midnight.
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+## [strapi/strapi](https://github.com/strapi/strapi)
 
-- [Extension to interact with the public Scratch API](https://github.com/TurboWarp/extensions/issues/211)
+- [Tracking Issue: Migrate Helper Plugin to TypeScript](https://github.com/strapi/strapi/issues/17690)
+- [AWS Cognito redirect adding “https” twice in URL](https://github.com/strapi/strapi/issues/17536)
+- [ Enable WAL mode for Sqlite databases](https://github.com/strapi/strapi/issues/17625)
+- [Strapi wont start after editing schema because of duplicate index keyname](https://github.com/strapi/strapi/issues/16959)
 
-## [mozilla/rhino](https://github.com/mozilla/rhino)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Support ES2022 `.at()` on indexables (Array, String, etc)](https://github.com/mozilla/rhino/issues/1051)
-
-## [hackforla/311-data](https://github.com/hackforla/311-data)
-
-- [Set up github pages for 311-data](https://github.com/hackforla/311-data/issues/1534)
-- [Review and update dependencies in package.json](https://github.com/hackforla/311-data/issues/1537)
-- [Provide documentation for contribution guidelines](https://github.com/hackforla/311-data/issues/1556)
-- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
-- [Set up a cron job via github actions to update data nightly ](https://github.com/hackforla/311-data/issues/1535)
-- [Request Type Descriptions](https://github.com/hackforla/311-data/issues/972)
-
-## [sliit-foss/bashaway-event-portal](https://github.com/sliit-foss/bashaway-event-portal)
-
-- [Highlight the selected nav item while in corresponding route](https://github.com/sliit-foss/bashaway-event-portal/issues/15)
-- [Validate phone number input on registration form](https://github.com/sliit-foss/bashaway-event-portal/issues/24)
-- [Generate sitemaps](https://github.com/sliit-foss/bashaway-event-portal/issues/18)
-- [Hide nav items on login page](https://github.com/sliit-foss/bashaway-event-portal/issues/14)
-
-## [picosonic/js13k-2023](https://github.com/picosonic/js13k-2023)
-
-- [Rotation suggestion](https://github.com/picosonic/js13k-2023/issues/1)
-- [Show blocked cursor when over solid tile](https://github.com/picosonic/js13k-2023/issues/8)
-- [Only process mouse clicks from left button](https://github.com/picosonic/js13k-2023/issues/7)
-- [Make some test levels with Tiled](https://github.com/picosonic/js13k-2023/issues/2)
-
-## [xenova/transformers.js](https://github.com/xenova/transformers.js)
-
-- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
-
-## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-
-- [fix css/style for dashboard becomes distorted at certain width](https://github.com/idurar/idurar-erp-crm/issues/332)
-- [create a dropdown for notifications](https://github.com/idurar/idurar-erp-crm/issues/339)
-- [the sidePanel is wider than the screen on mobile](https://github.com/idurar/idurar-erp-crm/issues/333)
-- [[feat] Backend logger](https://github.com/idurar/idurar-erp-crm/issues/321)
-- [NoSQL Injection](https://github.com/idurar/idurar-erp-crm/issues/177)
-- [Replace all Invoice Quote payment Calculation with Calculate Utils Method](https://github.com/idurar/idurar-erp-crm/issues/280)
-- [API : Replace all Invoice Quote payment  Calculation with Calculate Helper Method ](https://github.com/idurar/idurar-erp-crm/issues/279)
-- [Project Docker File](https://github.com/idurar/idurar-erp-crm/issues/281)
-- [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204)
-- [Employee details still remains open even after delete Success](https://github.com/idurar/idurar-erp-crm/issues/213)
-
-## [pmndrs/drei](https://github.com/pmndrs/drei)
-
-- [Constructive Solid Geometry](https://github.com/pmndrs/drei/issues/390)
+- [[RFC]: Add `@stdlib/random/strided/chi`](https://github.com/stdlib-js/stdlib/issues/885)
 
