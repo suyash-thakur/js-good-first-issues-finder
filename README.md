@@ -4,44 +4,62 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Prevent formatting links as markdown links](https://github.com/stackernews/stacker.news/issues/323)
-- [Block height clock](https://github.com/stackernews/stacker.news/issues/435)
-- [YouTube embeds in posts](https://github.com/stackernews/stacker.news/issues/437)
+- [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
+- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 
-## [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop)
+## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
 
-- [bug: error.log is empty](https://github.com/ipfs/ipfs-desktop/issues/2529)
+- [[request] add a keyboard shortcut for editing bundled tasks](https://github.com/maproulette/maproulette3/issues/1793)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [phren-ke/spa](https://github.com/phren-ke/spa)
 
-- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
-- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
-- [Migrate components to TS: TextFieldSearch](https://github.com/MetaMask/metamask-extension/issues/19128)
-- [Update ModalHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20159)
-- [Remove Extra Padding from Import Custom Token Modal](https://github.com/MetaMask/metamask-extension/issues/20657)
-- [[Bug]: Send NFTs does not display the list of assets under the same collection sorted by id](https://github.com/MetaMask/metamask-extension/issues/19876)
-- [Migrate components to TS: BannerAlert](https://github.com/MetaMask/metamask-extension/issues/19118)
-- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
-- [[Bug]: Edit Network Panel appears over the accounts panel](https://github.com/MetaMask/metamask-extension/issues/20145)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Replace deprecated Callout component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20470)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
-- [Replace deprecated TextField component with TextField from the component-library](https://github.com/MetaMask/metamask-extension/issues/20483)
-- [Replace deprecated Dialog component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20463)
-- [Replace deprecated SiteIcon component with AvatarFavicon from the component-library](https://github.com/MetaMask/metamask-extension/issues/20459)
-- [Migrate components to TS: TextField](https://github.com/MetaMask/metamask-extension/issues/19127)
-- [Replace deprecated ErrorMessage component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20394)
-- [Replace deprecated ActionableMessage component with new BannerAlert component](https://github.com/MetaMask/metamask-extension/issues/19528)
-- [Replace deprecated CheckBox component with Checkbox from the component-library](https://github.com/MetaMask/metamask-extension/issues/20163)
-- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
-- [[Bug]: Watch All NFTs does not display asset list sorted by id](https://github.com/MetaMask/metamask-extension/issues/19875)
-- [[Bug]: Settings search is not working for all the entries](https://github.com/MetaMask/metamask-extension/issues/19479)
-- [Migrate components to TS: FormTextField](https://github.com/MetaMask/metamask-extension/issues/19120)
-- [Update ModalContent to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20160)
-- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
+- [Navbar](https://github.com/phren-ke/spa/issues/2)
+- [Media Gallery](https://github.com/phren-ke/spa/issues/7)
+- [About us](https://github.com/phren-ke/spa/issues/4)
+- [Hero section](https://github.com/phren-ke/spa/issues/3)
+
+## [TanStack/store](https://github.com/TanStack/store)
+
+- [Write Vue Quick Start Guide](https://github.com/TanStack/store/issues/11)
+- [Write Vue Reference Docs](https://github.com/TanStack/store/issues/10)
+- [Write React Reference Docs](https://github.com/TanStack/store/issues/9)
+- [Svelte Adapter](https://github.com/TanStack/store/issues/4)
+- [Write Store (core) Reference Guide](https://github.com/TanStack/store/issues/7)
+- [Write React Quick Start Guide](https://github.com/TanStack/store/issues/6)
+- [Solid Adapter](https://github.com/TanStack/store/issues/5)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+
+## [fermyon/developer](https://github.com/fermyon/developer)
+
+- [Add a template for Spin + Docusaurus to Spin Up Hub](https://github.com/fermyon/developer/issues/801)
+- [Add a template for 11ty + Spin to Spin Up Hub](https://github.com/fermyon/developer/issues/802)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+
+## [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+
+- [Text over flow in tab bar action sheet when language is set to French & Greek](https://github.com/MetaMask/metamask-mobile/issues/7097)
+- [Consolidate all regex expression into a single file and test](https://github.com/MetaMask/metamask-mobile/issues/6684)
+- [Deprecate Text in favor of Text](https://github.com/MetaMask/metamask-mobile/issues/6888)
+- [iOS: Error is not being handled correctly when user fails biometrics right after enabling it for the first time](https://github.com/MetaMask/metamask-mobile/issues/6028)
 
