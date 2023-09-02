@@ -4,36 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [sequelize/sequelize](https://github.com/sequelize/sequelize)
 
-- [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
-- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
-- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
 
-## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
+## [warmachine028/nike](https://github.com/warmachine028/nike)
 
-- [[request] add a keyboard shortcut for editing bundled tasks](https://github.com/maproulette/maproulette3/issues/1793)
-
-## [phren-ke/spa](https://github.com/phren-ke/spa)
-
-- [Navbar](https://github.com/phren-ke/spa/issues/2)
-- [Media Gallery](https://github.com/phren-ke/spa/issues/7)
-- [About us](https://github.com/phren-ke/spa/issues/4)
-- [Hero section](https://github.com/phren-ke/spa/issues/3)
-
-## [TanStack/store](https://github.com/TanStack/store)
-
-- [Write Vue Quick Start Guide](https://github.com/TanStack/store/issues/11)
-- [Write Vue Reference Docs](https://github.com/TanStack/store/issues/10)
-- [Write React Reference Docs](https://github.com/TanStack/store/issues/9)
-- [Svelte Adapter](https://github.com/TanStack/store/issues/4)
-- [Write Store (core) Reference Guide](https://github.com/TanStack/store/issues/7)
-- [Write React Quick Start Guide](https://github.com/TanStack/store/issues/6)
-- [Solid Adapter](https://github.com/TanStack/store/issues/5)
+- [[FEATURE] Hamburger menu](https://github.com/warmachine028/nike/issues/1)
+- [[FEATURE] Dark Mode](https://github.com/warmachine028/nike/issues/3)
+- [Responsiveness Issue for Macbook Air](https://github.com/warmachine028/nike/issues/17)
+- [[FEATURE] View Details Page](https://github.com/warmachine028/nike/issues/18)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Correction in content grammar](https://github.com/vercel/next.js/issues/54857)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
@@ -44,22 +28,28 @@ This list gets updated every day at midnight.
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 
-## [fermyon/developer](https://github.com/fermyon/developer)
+## [climate-tech-handbook/climate-tech-handbook](https://github.com/climate-tech-handbook/climate-tech-handbook)
 
-- [Add a template for Spin + Docusaurus to Spin Up Hub](https://github.com/fermyon/developer/issues/801)
-- [Add a template for 11ty + Spin to Spin Up Hub](https://github.com/fermyon/developer/issues/802)
+- [New collection of admonitions](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/324)
+- [DevOps - set up `develop` and `staging` branches to auto-deploy to dev and staging sites](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/309)
+- [Fix Solutions explorer](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/218)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-
-## [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
-
-- [Text over flow in tab bar action sheet when language is set to French & Greek](https://github.com/MetaMask/metamask-mobile/issues/7097)
-- [Consolidate all regex expression into a single file and test](https://github.com/MetaMask/metamask-mobile/issues/6684)
-- [Deprecate Text in favor of Text](https://github.com/MetaMask/metamask-mobile/issues/6888)
-- [iOS: Error is not being handled correctly when user fails biometrics right after enabling it for the first time](https://github.com/MetaMask/metamask-mobile/issues/6028)
+- [Ftrack Updates[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7823)
+- [[ACTION] Add Sales Channels to Shopify App/Update Product](https://github.com/PipedreamHQ/pipedream/issues/7822)
+- [[Components] Hookdeck](https://github.com/PipedreamHQ/pipedream/issues/7686)
+- [[ACTION] Github: Create Pull Request](https://github.com/PipedreamHQ/pipedream/issues/7757)
+- [[ACTION] Github: Sync a fork branch with the upstream repository](https://github.com/PipedreamHQ/pipedream/issues/7758)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7805)
+- [[ACTION] insert many rows in Supabase tabel](https://github.com/PipedreamHQ/pipedream/issues/7750)
+- [[TRIGGER] Feedbin Starred](https://github.com/PipedreamHQ/pipedream/issues/7721)
+- [[ACTION] PandaDoc Create Document - include fields](https://github.com/PipedreamHQ/pipedream/issues/7672)
+- [[IMPROVEMENT] Google Calendar - New Upcoming Event: Make `Event ID` prop optional, so that the source will listen for all events](https://github.com/PipedreamHQ/pipedream/issues/7663)
+- [[ACTION] PandaDoc: Download Document](https://github.com/PipedreamHQ/pipedream/issues/7639)
+- [[TRIGGER] dbtCloud - new sources/triggers](https://github.com/PipedreamHQ/pipedream/issues/7635)
+- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
+- [[TRIGGER] Add REPLY info in Discord trigger](https://github.com/PipedreamHQ/pipedream/issues/7493)
+- [BigQuery Actions](https://github.com/PipedreamHQ/pipedream/issues/7464)
+- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
 
