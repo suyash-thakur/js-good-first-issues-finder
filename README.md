@@ -4,26 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [aws/aws-cdk](https://github.com/aws/aws-cdk)
-
-- [(logs) DataProtectionPolicy not displaying properly in the console](https://github.com/aws/aws-cdk/issues/26728)
-- [(kinesisfirehose): DeliveryStream creates useless role](https://github.com/aws/aws-cdk/issues/26927)
-- [(core): add setter for termination protection](https://github.com/aws/aws-cdk/issues/14463)
-- [aws-secretsmanager: grantRead should add Decrypt Policy for kms key](https://github.com/aws/aws-cdk/issues/20087)
-- [(sns): (There is no enabled property in SnsEventSource)](https://github.com/aws/aws-cdk/issues/25289)
-- [(cli): enforce colored output](https://github.com/aws/aws-cdk/issues/12270)
-- [(aws-ecr-assets): Allow docker image assets to access private data in builds](https://github.com/aws/aws-cdk/issues/12062)
-- [(aws-elasticloadbalancingv2): Cannot use a single application load balancer as a target for the network load balancer](https://github.com/aws/aws-cdk/issues/17208)
-- [(rds): set allocatedStorage with DatabaseInstanceReadReplica](https://github.com/aws/aws-cdk/issues/17083)
-- [(pipelines): limit assets concurrency](https://github.com/aws/aws-cdk/issues/17744)
-- [RDS: DatabaseCluster Instance Identifiers Attribute](https://github.com/aws/aws-cdk/issues/25947)
-- [(ec2): Fails to create subnet with `fromSubnetAttributes` without `routeTableId`](https://github.com/aws/aws-cdk/issues/19786)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+
+## [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact)
+
+- [In CI, only run lint and tests against changed files](https://github.com/pmcelhaney/counterfact/issues/141)
+- [Add the Open API document to $](https://github.com/pmcelhaney/counterfact/issues/430)
+- [Add a comment to the top of generated files](https://github.com/pmcelhaney/counterfact/issues/436)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -37,24 +28,24 @@ This list gets updated every day at midnight.
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
 
-## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [extracting current user information for the profile page](https://github.com/idurar/idurar-erp-crm/issues/249)
-- [add paper size option Generate  pdf on server ](https://github.com/idurar/idurar-erp-crm/issues/230)
-- [Create new Component Mulit Step Select Async](https://github.com/idurar/idurar-erp-crm/issues/94)
-- [Able to add fields in invoices without item name](https://github.com/idurar/idurar-erp-crm/issues/207)
-- [[feat] setup jest and supertest for backend](https://github.com/idurar/idurar-erp-crm/issues/346)
-- [feat: Add icon burger button to close Side  left Panel (on top)](https://github.com/idurar/idurar-erp-crm/issues/421)
-- [feat: Show "Not Found" Message for Invoices and Quotes when Attempting to Read or Update Non-Existent Documents.](https://github.com/idurar/idurar-erp-crm/issues/388)
-- [feat : Create New Generic File Upload Controller](https://github.com/idurar/idurar-erp-crm/issues/412)
-- [Create Daily Job Cron to Check Expiry Status of Invoices and Quotes](https://github.com/idurar/idurar-erp-crm/issues/417)
-- [Create new Endpoint Offer CRUD Api , this almost similaire to Quote api](https://github.com/idurar/idurar-erp-crm/issues/390)
-- [Create new Endpoint leads CRUD Api , this almost similaire to client api](https://github.com/idurar/idurar-erp-crm/issues/389)
-- [No state update when tryring to delete multiple invoice ](https://github.com/idurar/idurar-erp-crm/issues/360)
-- [the sidePanel is wider than the screen on mobile](https://github.com/idurar/idurar-erp-crm/issues/333)
-- [fix css/style for dashboard becomes distorted at certain width](https://github.com/idurar/idurar-erp-crm/issues/332)
-- [[feat] Backend logger](https://github.com/idurar/idurar-erp-crm/issues/321)
-- [Replace all Invoice Quote payment Calculation with Calculate Utils Method](https://github.com/idurar/idurar-erp-crm/issues/280)
-- [API : Replace all Invoice Quote payment  Calculation with Calculate Helper Method ](https://github.com/idurar/idurar-erp-crm/issues/279)
-- [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204)
+- [[Components] Twitch - replace deprecated follower actions with new ones ](https://github.com/PipedreamHQ/pipedream/issues/7923)
+- [[ACTION][Outlook] Add fields for send/draft email](https://github.com/PipedreamHQ/pipedream/issues/7907)
+- [[ACTION] Google Cloud Platform - BigQuery create a scheduled query](https://github.com/PipedreamHQ/pipedream/issues/7880)
+- [Ftrack Updates[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7823)
+- [[ACTION] Add Sales Channels to Shopify App/Update Product](https://github.com/PipedreamHQ/pipedream/issues/7822)
+- [[Components] Hookdeck](https://github.com/PipedreamHQ/pipedream/issues/7686)
+- [[ACTION] Github: Create Pull Request](https://github.com/PipedreamHQ/pipedream/issues/7757)
+- [[ACTION] Github: Sync a fork branch with the upstream repository](https://github.com/PipedreamHQ/pipedream/issues/7758)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7805)
+- [[ACTION] insert many rows in Supabase tabel](https://github.com/PipedreamHQ/pipedream/issues/7750)
+- [[TRIGGER] Feedbin Starred](https://github.com/PipedreamHQ/pipedream/issues/7721)
+- [[ACTION] PandaDoc Create Document - include fields](https://github.com/PipedreamHQ/pipedream/issues/7672)
+- [[IMPROVEMENT] Google Calendar - New Upcoming Event: Make `Event ID` prop optional, so that the source will listen for all events](https://github.com/PipedreamHQ/pipedream/issues/7663)
+- [[ACTION] PandaDoc: Download Document](https://github.com/PipedreamHQ/pipedream/issues/7639)
+- [[TRIGGER] dbtCloud - new sources/triggers](https://github.com/PipedreamHQ/pipedream/issues/7635)
+- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
+- [[TRIGGER] Add REPLY info in Discord trigger](https://github.com/PipedreamHQ/pipedream/issues/7493)
+- [BigQuery Actions](https://github.com/PipedreamHQ/pipedream/issues/7464)
 
