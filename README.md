@@ -4,51 +4,55 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [plebbit/plebchan](https://github.com/plebbit/plebchan)
-
-- [Fix ellipsis effect is not visible with webkit](https://github.com/plebbit/plebchan/issues/191)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Overlapping Bug](https://github.com/brave/brave-browser/issues/32399)
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 
-- [Copy blogs from smp-spec.io to meshery.io/blog](https://github.com/meshery/meshery.io/issues/1395)
-- [Add recent talks into meshery.io talks and presentations page](https://github.com/meshery/meshery.io/issues/1396)
-- [Reduce the initial number of Integrations card  ](https://github.com/meshery/meshery.io/issues/1371)
-- [[UI] Community Link doesnt redirect](https://github.com/meshery/meshery.io/issues/1368)
-- [[Catalog] Link not taking users to separate page](https://github.com/meshery/meshery.io/issues/1323)
-- [Add alt tags to all images for improved accessibility and SEO](https://github.com/meshery/meshery.io/issues/1369)
-- [Filters and Patterns should be Clickable](https://github.com/meshery/meshery.io/issues/1321)
+- [Hugo configuration schema - wrong "sectionPagesMenu" type](https://github.com/SchemaStore/schemastore/issues/3207)
+- [GitHub workflows `runs-on` doesn't respect recent changes (No default labels)](https://github.com/SchemaStore/schemastore/issues/3192)
+- [pyproject.toml section for tool.poetry.dependencies with git dependencies lists format for the git field as a URI](https://github.com/SchemaStore/schemastore/issues/3188)
+- [Jekyll Schema should allow arbitrary paths in the collection permalink](https://github.com/SchemaStore/schemastore/issues/3157)
 
-## [Ecell-NITS/e-cell-website-22](https://github.com/Ecell-NITS/e-cell-website-22)
+## [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
 
-- [Edit profile and sign out button breaks in mobile view](https://github.com/Ecell-NITS/e-cell-website-22/issues/175)
-- [Add a loader to the website](https://github.com/Ecell-NITS/e-cell-website-22/issues/182)
-- [About us NavLink not working](https://github.com/Ecell-NITS/e-cell-website-22/issues/172)
-- [improper usage of justify-content?](https://github.com/Ecell-NITS/e-cell-website-22/issues/176)
+- [Dark mode](https://github.com/GenieFramework/Stipple.jl/issues/36)
+- [core_theme = false does not work](https://github.com/GenieFramework/Stipple.jl/issues/115)
+- [Reactive Dict with string keys: curly braces not escaped properly](https://github.com/GenieFramework/Stipple.jl/issues/135)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [fermyon/developer](https://github.com/fermyon/developer)
 
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Add a template for Spin + Docusaurus to Spin Up Hub](https://github.com/fermyon/developer/issues/801)
+- [Add a template for 11ty + Spin to Spin Up Hub](https://github.com/fermyon/developer/issues/802)
 
-## [sequelize/sequelize](https://github.com/sequelize/sequelize)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Remove the `include` option from `Model.create`](https://github.com/sequelize/sequelize/issues/15233)
-- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Review all the 'Add New' strings](https://github.com/WordPress/gutenberg/issues/53984)
+- [Actions on patterns result in notices containing 'block' instead of 'pattern'](https://github.com/WordPress/gutenberg/issues/53370)
+- [Navigation block shows unintuitive message if no menus and no pages exist](https://github.com/WordPress/gutenberg/issues/44486)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [Documentation: Use consistent prefixes in code examples](https://github.com/WordPress/gutenberg/issues/53567)
+- [No "force delete"](https://github.com/WordPress/gutenberg/issues/13024)
+- [Theme.json: CSS variables are not generated for non-latin slugs in the iframed editor](https://github.com/WordPress/gutenberg/issues/49711)
+- [Components: Refine When Autocompleter Stops Matching](https://github.com/WordPress/gutenberg/issues/30969)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
+- [Delete at the beginning of newly created quote deletes the quote, not the first charater.](https://github.com/WordPress/gutenberg/issues/35388)
+- [Blocks: Contextual tips tied to specific search queries](https://github.com/WordPress/gutenberg/issues/20196)
+- [srcset and sizes attributes missing from the featured image meta box](https://github.com/WordPress/gutenberg/issues/20795)
+- [Move DatePicker and TimePicker to own Component](https://github.com/WordPress/gutenberg/issues/18072)
+- [Inconsistent closing of settings panels](https://github.com/WordPress/gutenberg/issues/18418)
+
+## [CenterForDigitalHumanities/glossing-entries](https://github.com/CenterForDigitalHumanities/glossing-entries)
+
+- [Glossing List Filter is Case Sensitive](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/53)
+- [Attribution for Logged In Users](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/37)
+- [Improve CI/CD](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/44)
+- [Site Navigation](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/43)
+- [General Skinning](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/47)
+- [Localized globalFeedbackBlip()s](https://github.com/CenterForDigitalHumanities/glossing-entries/issues/25)
 
