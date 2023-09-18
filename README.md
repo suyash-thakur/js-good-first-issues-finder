@@ -4,23 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [serverless/serverless](https://github.com/serverless/serverless)
+## [n-bakken/gdsc-website-comp195](https://github.com/n-bakken/gdsc-website-comp195)
 
-- [Add support for error action on iot topic rule ](https://github.com/serverless/serverless/issues/11642)
-- [Allows specification of an AuthorizerCredentials(Arn) for both HTTP and REST APIs](https://github.com/serverless/serverless/issues/11959)
-- [Switch AWS SDK to v3](https://github.com/serverless/serverless/issues/11920)
+- ["Contact Us" page](https://github.com/n-bakken/gdsc-website-comp195/issues/9)
+- [Integrated Google Calendar](https://github.com/n-bakken/gdsc-website-comp195/issues/4)
+- ["about us" page for core members](https://github.com/n-bakken/gdsc-website-comp195/issues/5)
 
-## [Ultri-Izzup/ultri-platform](https://github.com/Ultri-Izzup/ultri-platform)
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
 
-- [Finish canvas](https://github.com/Ultri-Izzup/ultri-platform/issues/19)
+- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
 
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
-- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
+- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Docs: Next.js & Cypress Out-of-the-Box Documentation ](https://github.com/vercel/next.js/issues/55281)
 - [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
@@ -34,32 +35,25 @@ This list gets updated every day at midnight.
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
-- [Add support for running all tests serially](https://github.com/nodejs/node/issues/49487)
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
-- [Refactor  test-readline-async-iterators into a benchmark](https://github.com/nodejs/node/issues/49224)
+- [[Feature Request]: Change icon color of FT logo on About page based on set theme](https://github.com/FreeTubeApp/FreeTube/issues/4020)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [Update ModalContent to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20160)
-- [Replace deprecated TextField component with TextField from the component-library](https://github.com/MetaMask/metamask-extension/issues/20483)
-- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
-- [[Bug]: Watch All NFTs does not display asset list sorted by id](https://github.com/MetaMask/metamask-extension/issues/19875)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
-- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
-- [Migrate components to TS: TextFieldSearch](https://github.com/MetaMask/metamask-extension/issues/19128)
-- [Update ModalHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20159)
-- [[Bug]: Send NFTs does not display the list of assets under the same collection sorted by id](https://github.com/MetaMask/metamask-extension/issues/19876)
-- [Replace deprecated Popover component with Modal from the component-library](https://github.com/MetaMask/metamask-extension/issues/19555)
-- [[Bug]: Edit Network Panel appears over the accounts panel](https://github.com/MetaMask/metamask-extension/issues/20145)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
+- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [`ENOENT no such file or directory, open 'parcel/packages/runtimes/js/src/runtime-0b0f0826e994744b.js`](https://github.com/parcel-bundler/parcel/issues/8392)
+
+## [strapi/strapi](https://github.com/strapi/strapi)
+
+- [Accidentally creating config/plugin.js vs config/plugins.js](https://github.com/strapi/strapi/issues/17868)
+- [Discord Auth not assigning username correctly](https://github.com/strapi/strapi/issues/17067)
+- [AWS Cognito redirect adding “https” twice in URL](https://github.com/strapi/strapi/issues/17536)
 
