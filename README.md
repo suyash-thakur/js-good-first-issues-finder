@@ -4,24 +4,59 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [n-bakken/gdsc-website-comp195](https://github.com/n-bakken/gdsc-website-comp195)
-
-- ["Contact Us" page](https://github.com/n-bakken/gdsc-website-comp195/issues/9)
-- [Integrated Google Calendar](https://github.com/n-bakken/gdsc-website-comp195/issues/4)
-- ["about us" page for core members](https://github.com/n-bakken/gdsc-website-comp195/issues/5)
-
-## [xenova/transformers.js](https://github.com/xenova/transformers.js)
-
-- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
+## [KingSupernova31/RulesGuru](https://github.com/KingSupernova31/RulesGuru)
+
+- [Delete old backups](https://github.com/KingSupernova31/RulesGuru/issues/12)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+- [Add support for running all tests serially](https://github.com/nodejs/node/issues/49487)
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+- [Refactor  test-readline-async-iterators into a benchmark](https://github.com/nodejs/node/issues/49224)
+
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+
+- [[Doc request] Add an example guide of how to use it in Svelte (and deploy to HF Spaces)](https://github.com/xenova/transformers.js/issues/171)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [CleverTap](https://github.com/PipedreamHQ/pipedream/issues/2997)
+- [[TRIGGER] Aircall -  New Number Created](https://github.com/PipedreamHQ/pipedream/issues/7947)
+- [[ACTION] S3 Upload actions should support directory uploads, not just individual files](https://github.com/PipedreamHQ/pipedream/issues/8107)
+- [[ACTION] ConvertKit: add tags to subscriber](https://github.com/PipedreamHQ/pipedream/issues/8056)
+- [[ACTION] api for live streaming deepgram request](https://github.com/PipedreamHQ/pipedream/issues/8074)
+- [[Action] Basecamp create card](https://github.com/PipedreamHQ/pipedream/issues/8077)
+- [[IMPROVEMENT] Docusign - Create a Signature Request: Allow adding multiple recipients per the number of recipient on the template](https://github.com/PipedreamHQ/pipedream/issues/7984)
+- [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
+- [[ACTION] [Github] List / Get / Create / Update / Delete a gist](https://github.com/PipedreamHQ/pipedream/issues/7987)
+- [[ACTION] Eden AI - Generate audio from text](https://github.com/PipedreamHQ/pipedream/issues/7993)
+- [[ACTION] Aircall - Create & Update Contact](https://github.com/PipedreamHQ/pipedream/issues/7948)
+- [[ACTION] Toggl Client & Project Creation](https://github.com/PipedreamHQ/pipedream/issues/7928)
+- [[ACTION][Outlook] Add fields for send/draft email](https://github.com/PipedreamHQ/pipedream/issues/7907)
+- [Ftrack Updates[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7823)
+- [[ACTION] Add Sales Channels to Shopify App/Update Product](https://github.com/PipedreamHQ/pipedream/issues/7822)
+- [[ACTION] Google Cloud Platform - BigQuery create a scheduled query](https://github.com/PipedreamHQ/pipedream/issues/7880)
+- [[ACTION] Github: Create Pull Request](https://github.com/PipedreamHQ/pipedream/issues/7757)
+- [[ACTION] Github: Sync a fork branch with the upstream repository](https://github.com/PipedreamHQ/pipedream/issues/7758)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/7805)
+- [[ACTION] insert many rows in Supabase tabel](https://github.com/PipedreamHQ/pipedream/issues/7750)
+- [[TRIGGER] Feedbin Starred](https://github.com/PipedreamHQ/pipedream/issues/7721)
+- [[ACTION] PandaDoc Create Document - include fields](https://github.com/PipedreamHQ/pipedream/issues/7672)
+- [[IMPROVEMENT] Google Calendar - New Upcoming Event: Make `Event ID` prop optional, so that the source will listen for all events](https://github.com/PipedreamHQ/pipedream/issues/7663)
+- [[ACTION] PandaDoc: Download Document](https://github.com/PipedreamHQ/pipedream/issues/7639)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Docs: Next.js & Cypress Out-of-the-Box Documentation ](https://github.com/vercel/next.js/issues/55281)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
@@ -34,26 +69,4 @@ This list gets updated every day at midnight.
 - [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Change icon color of FT logo on About page based on set theme](https://github.com/FreeTubeApp/FreeTube/issues/4020)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
-- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
-- [`ENOENT no such file or directory, open 'parcel/packages/runtimes/js/src/runtime-0b0f0826e994744b.js`](https://github.com/parcel-bundler/parcel/issues/8392)
-
-## [strapi/strapi](https://github.com/strapi/strapi)
-
-- [Accidentally creating config/plugin.js vs config/plugins.js](https://github.com/strapi/strapi/issues/17868)
-- [Discord Auth not assigning username correctly](https://github.com/strapi/strapi/issues/17067)
-- [AWS Cognito redirect adding “https” twice in URL](https://github.com/strapi/strapi/issues/17536)
 
