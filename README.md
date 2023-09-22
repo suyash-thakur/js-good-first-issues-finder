@@ -6,36 +6,26 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Chrome logo is shown in Dark mode in the brave://settings page in 1.55.17 ](https://github.com/brave/brave-browser/issues/31355)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Filters and Patterns should be Clickable](https://github.com/meshery/meshery.io/issues/1321)
-- [Copy blogs from smp-spec.io to meshery.io/blog](https://github.com/meshery/meshery.io/issues/1395)
-- [Add recent talks into meshery.io talks and presentations page](https://github.com/meshery/meshery.io/issues/1396)
-- [Reduce the initial number of Integrations card  ](https://github.com/meshery/meshery.io/issues/1371)
-- [[UI] Community Link doesnt redirect](https://github.com/meshery/meshery.io/issues/1368)
-- [[Catalog] Link not taking users to separate page](https://github.com/meshery/meshery.io/issues/1323)
-- [Add alt tags to all images for improved accessibility and SEO](https://github.com/meshery/meshery.io/issues/1369)
-
-## [aws/aws-cdk](https://github.com/aws/aws-cdk)
-
-- [[aws-cloudtrail] cross-account `Trail`s cannot specify SNS topic](https://github.com/aws/aws-cdk/issues/11387)
-- [aws-ec2: flow logs for TransitGateway & TransitGatewayAttachment](https://github.com/aws/aws-cdk/issues/27222)
-- [aws_autoscaling: ssm_session_permissions attribute of AutoScalingGroup() has no effect](https://github.com/aws/aws-cdk/issues/25904)
-- [aws-rds : Allow full support for scaling configuration options](https://github.com/aws/aws-cdk/issues/27183)
-- [Amazon.CDK.AWS.Apigatewayv2.Alpha: Support "AWS" as the IntegrationType for WebSockets](https://github.com/aws/aws-cdk/issues/27164)
-- [(ec2): Fails to create subnet with `fromSubnetAttributes` without `routeTableId`](https://github.com/aws/aws-cdk/issues/19786)
-- [(aws_appsync): Unable to reference external SourceApis in Defintions.fromSourceApis()](https://github.com/aws/aws-cdk/issues/27098)
-- [Error: Resource's path part only allow [a-zA-Z0-9:._-], an optional trailing '+'(module name)](https://github.com/aws/aws-cdk/issues/27083)
-- [awsstepfunctions|awsstepfunctionstasks: Allow custom state names](https://github.com/aws/aws-cdk/issues/23532)
-- [(pipelines): limit assets concurrency](https://github.com/aws/aws-cdk/issues/17744)
-- [(logs) DataProtectionPolicy not displaying properly in the console](https://github.com/aws/aws-cdk/issues/26728)
-- [aws-secretsmanager: grantRead should add Decrypt Policy for kms key](https://github.com/aws/aws-cdk/issues/20087)
-- [(sns): (There is no enabled property in SnsEventSource)](https://github.com/aws/aws-cdk/issues/25289)
-- [(cli): enforce colored output](https://github.com/aws/aws-cdk/issues/12270)
-- [(aws-ecr-assets): Allow docker image assets to access private data in builds](https://github.com/aws/aws-cdk/issues/12062)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [Docs: Next.js & Cypress Out-of-the-Box Documentation ](https://github.com/vercel/next.js/issues/55281)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
+- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -52,4 +42,13 @@ This list gets updated every day at midnight.
 - [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
 - [Documentation: Use consistent prefixes in code examples](https://github.com/WordPress/gutenberg/issues/53567)
 - [No "force delete"](https://github.com/WordPress/gutenberg/issues/13024)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+- [Add support for running all tests serially](https://github.com/nodejs/node/issues/49487)
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+- [Refactor  test-readline-async-iterators into a benchmark](https://github.com/nodejs/node/issues/49224)
 
