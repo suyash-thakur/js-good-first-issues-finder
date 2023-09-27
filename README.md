@@ -4,19 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add alt tags to all images for improved accessibility and SEO](https://github.com/meshery/meshery.io/issues/1369)
-- [Copy blogs from smp-spec.io to meshery.io/blog](https://github.com/meshery/meshery.io/issues/1395)
-- [Add recent talks into meshery.io talks and presentations page](https://github.com/meshery/meshery.io/issues/1396)
-- [Reduce the initial number of Integrations card  ](https://github.com/meshery/meshery.io/issues/1371)
-- [[UI] Community Link doesnt redirect](https://github.com/meshery/meshery.io/issues/1368)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
 - [Update Link Control elements & labels to use correct gray color](https://github.com/WordPress/gutenberg/issues/54589)
@@ -30,35 +17,58 @@ This list gets updated every day at midnight.
 - [Actions on patterns result in notices containing 'block' instead of 'pattern'](https://github.com/WordPress/gutenberg/issues/53370)
 - [Navigation block shows unintuitive message if no menus and no pages exist](https://github.com/WordPress/gutenberg/issues/44486)
 
-## [unstructuredstudio/zubhub](https://github.com/unstructuredstudio/zubhub)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Number of comments is not displayed on projects in "Featured Projects" section](https://github.com/unstructuredstudio/zubhub/issues/670)
-- [Inconsistent positioning of component beneath the navbar for mobile devices](https://github.com/unstructuredstudio/zubhub/issues/732)
-- [Hide "Scroll back to top" button when already on top](https://github.com/unstructuredstudio/zubhub/issues/628)
-- [Email label is getting merged inside input border when open for the first time ](https://github.com/unstructuredstudio/zubhub/issues/627)
-- [Draft projects should not show up in the search bar for user who created it](https://github.com/unstructuredstudio/zubhub/issues/581)
-- [Improve the UX around project's public/draft mode visibility](https://github.com/unstructuredstudio/zubhub/issues/556)
-- [Delete account feature doesn't ask for a password; displays no error message when incorrect username is entered](https://github.com/unstructuredstudio/zubhub/issues/439)
-- [Navigation buttons on the caraousel images.](https://github.com/unstructuredstudio/zubhub/issues/435)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [paxmagnifica/ti4-companion](https://github.com/paxmagnifica/ti4-companion)
+## [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile)
 
-- [nice 404 page](https://github.com/paxmagnifica/ti4-companion/issues/331)
+- [Improve how muted streams are displayed on Streams screen](https://github.com/zulip/zulip-mobile/issues/5514)
+- [Use "list" icon for all-messages, matching web's new icon there](https://github.com/zulip/zulip-mobile/issues/5303)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [badges/shields](https://github.com/badges/shields)
 
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [macports version](https://github.com/badges/shields/issues/9588)
+- [`packageManager` field](https://github.com/badges/shields/issues/9514)
+
+## [BeforeIDieCode/BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+
+- [Expand Language Support for "Before I Die" Based on User's IP Address](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/76)
+- [🟢 Hindi Translation NEEDED for Documentation](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/30)
+- [1️⃣ Make your mark: Contribute to our project and help us create a platform for documenting life goals and aspirations!](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/5)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[Components] LinkedIn - Actions Refactor for Usability](https://github.com/PipedreamHQ/pipedream/issues/8248)
+- [[ACTION/ENHANCEMENT] Add "Parent Database" Field to Notion → Update Page Action](https://github.com/PipedreamHQ/pipedream/issues/8239)
+- [[ACTION] Puppeteer - Get Page Title](https://github.com/PipedreamHQ/pipedream/issues/8219)
+- [[ACTION] Google Slides - Merge data into a Presentation](https://github.com/PipedreamHQ/pipedream/issues/8215)
+- [[ACTION] Puppeteer - Screenshot a page](https://github.com/PipedreamHQ/pipedream/issues/8216)
+- [[ACTION] Puppeteer - Get PDF](https://github.com/PipedreamHQ/pipedream/issues/8218)
+- [[ACTION] Puppeteer - Get HTML](https://github.com/PipedreamHQ/pipedream/issues/8217)
+- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
+- [[ACTION][Google Drive] Upload or replace](https://github.com/PipedreamHQ/pipedream/issues/8170)
+- [androrat](https://github.com/PipedreamHQ/pipedream/issues/8168)
+- [CleverTap](https://github.com/PipedreamHQ/pipedream/issues/2997)
+- [[ACTION] ConvertKit: add tags to subscriber](https://github.com/PipedreamHQ/pipedream/issues/8056)
+- [[ACTION] api for live streaming deepgram request](https://github.com/PipedreamHQ/pipedream/issues/8074)
+- [[Action] Basecamp create card](https://github.com/PipedreamHQ/pipedream/issues/8077)
+- [[IMPROVEMENT] Docusign - Create a Signature Request: Allow adding multiple recipients per the number of recipient on the template](https://github.com/PipedreamHQ/pipedream/issues/7984)
+- [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
+- [[ACTION] [Github] List / Get / Create / Update / Delete a gist](https://github.com/PipedreamHQ/pipedream/issues/7987)
+- [[ACTION] Eden AI - Generate audio from text](https://github.com/PipedreamHQ/pipedream/issues/7993)
+- [[ACTION] Aircall - Create & Update Contact](https://github.com/PipedreamHQ/pipedream/issues/7948)
+- [[ACTION] Toggl Client & Project Creation](https://github.com/PipedreamHQ/pipedream/issues/7928)
+- [Ftrack Updates[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7823)
+- [[ACTION] Add Sales Channels to Shopify App/Update Product](https://github.com/PipedreamHQ/pipedream/issues/7822)
+- [[ACTION] Google Cloud Platform - BigQuery create a scheduled query](https://github.com/PipedreamHQ/pipedream/issues/7880)
+- [[ACTION] Github: Create Pull Request](https://github.com/PipedreamHQ/pipedream/issues/7757)
+- [[ACTION] Github: Sync a fork branch with the upstream repository](https://github.com/PipedreamHQ/pipedream/issues/7758)
 
