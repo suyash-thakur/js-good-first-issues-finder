@@ -8,9 +8,58 @@ This list gets updated every day at midnight.
 
 - [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
 
-## [texas-HACS/hacs-frontend](https://github.com/texas-HACS/hacs-frontend)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Officers Page](https://github.com/texas-HACS/hacs-frontend/issues/85)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+
+## [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+
+- [Collapsible content and lazy loading / rendering.](https://github.com/docsifyjs/docsify/issues/2206)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [Can't change the order of the opened collections - new feature: make it possible to order (auto or manual) the collections](https://github.com/usebruno/bruno/issues/220)
+- [Black dot on the left side of titlebar and taskbar in Windows](https://github.com/usebruno/bruno/issues/179)
+- [Can't import a POSTMAN collection with a / char in the name](https://github.com/usebruno/bruno/issues/219)
+- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
+- [Add bulk edit mode for request parameters, headers, vars, etc.](https://github.com/usebruno/bruno/issues/185)
+- [RFE: Preview render of HTML responses](https://github.com/usebruno/bruno/issues/245)
+- [Upon creating a New Request it should open automatically](https://github.com/usebruno/bruno/issues/111)
+- [Tab order on dialogs includes elements on the main application window](https://github.com/usebruno/bruno/issues/129)
+- [Import Pre Request Scripts and Tests while importing Postman Collection](https://github.com/usebruno/bruno/issues/144)
+- [Autocomplete for Request headers](https://github.com/usebruno/bruno/issues/54)
+- [Support Environment import and export](https://github.com/usebruno/bruno/issues/193)
+- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
+- [Collection Runner does not respect "Form URL Encoded" body setting](https://github.com/usebruno/bruno/issues/166)
+- [Switching between tabs while a request is running resets the timer](https://github.com/usebruno/bruno/issues/186)
+
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+
+- [pyproject.toml section for tool.poetry.dependencies with git dependencies lists format for the git field as a URI](https://github.com/SchemaStore/schemastore/issues/3188)
+- [Validate `up.json` under strict mode](https://github.com/SchemaStore/schemastore/issues/3117)
+- [Jekyll Schema should allow arbitrary paths in the collection permalink](https://github.com/SchemaStore/schemastore/issues/3157)
+- [GitHub workflows `runs-on` doesn't respect recent changes (No default labels)](https://github.com/SchemaStore/schemastore/issues/3192)
+- [ESLint schema doesn't include reportUnusedDisableDirectives](https://github.com/SchemaStore/schemastore/issues/3108)
+- [Validate `sourcemap-v3.json` under strict mode](https://github.com/SchemaStore/schemastore/issues/3116)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [AaruBama/memestr](https://github.com/AaruBama/memestr)
+
+- [Optimize project for the open-source contributions [WIP]](https://github.com/AaruBama/memestr/issues/52)
+- [Update Readme.md](https://github.com/AaruBama/memestr/issues/51)
+- [Improve Zap Modal UI.](https://github.com/AaruBama/memestr/issues/26)
+- [Fix the post page css.](https://github.com/AaruBama/memestr/issues/17)
+
+## [strapi/strapi](https://github.com/strapi/strapi)
+
+- [Accidentally creating config/plugin.js vs config/plugins.js](https://github.com/strapi/strapi/issues/17868)
+- [Discord Auth not assigning username correctly](https://github.com/strapi/strapi/issues/17067)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -26,44 +75,4 @@ This list gets updated every day at midnight.
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
 - [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Dev server serves wrong page when using query parameters without extension](https://github.com/parcel-bundler/parcel/issues/9211)
-- [`<script>` insertion broken on HTML pages with `<base>` tags](https://github.com/parcel-bundler/parcel/issues/9092)
-- [PostHTML deletes PHP tags, ignores `directives` configuration](https://github.com/parcel-bundler/parcel/issues/8053)
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
-
-## [hackforla/website](https://github.com/hackforla/website/pull/5636)
-
-- [updated img tag](https://github.com/hackforla/website/pull/5636)
-- [Refactor img Tag: _includes/press.html](https://github.com/hackforla/website/issues/5439)
-- [Refactor HTML to resolve linter error: _includes/about-page/about-card-news.html](https://github.com/hackforla/website/issues/5319)
-- [Fix linting error on about page](https://github.com/hackforla/website/pull/5616)
-- [Add Code Spell Checker VS Code extension installation instructions](https://github.com/hackforla/website/issues/4101)
-- [Add new variable github-handle for member Niven Prasad in 100-automations.md](https://github.com/hackforla/website/issues/5504)
-- [Epic: Updates to remove CfA as our fiscal sponsor - CFA mentions](https://github.com/hackforla/website/issues/5403)
-- [Update Project Profile: Civic Tech Jobs (add Will Gillis)](https://github.com/hackforla/website/issues/5391)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Impact](https://github.com/hackforla/website/issues/5371)
-- [img tag refactor in CONTRIBUTING.md Section 4.1 making](https://github.com/hackforla/website/issues/5620)
-- [img tag refactor in CONTRIBUTING.md Section 3.1.b v](https://github.com/hackforla/website/issues/5621)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Sustainability](https://github.com/hackforla/website/issues/5366)
-- [Fix broken CoP redirect](https://github.com/hackforla/website/issues/5622)
-- [Update Project Profile: Guides Team (Add Sarah Levine)](https://github.com/hackforla/website/issues/5624)
-- [Update Project Profile: Guides Team (Add Rhoda Michael)](https://github.com/hackforla/website/issues/5623)
-- [Update Project Profile: Guides Team (Remove Shawn Wong)](https://github.com/hackforla/website/issues/5584)
-- [Update languages for Access the Data](https://github.com/hackforla/website/issues/5127)
-- [img tag refactor in CONTRIBUTING.md Section 4.1](https://github.com/hackforla/website/issues/5619)
-- [img Tag Refactor: _includes/about-page/about-card-sustainability.html - sdg2.svg](https://github.com/hackforla/website/issues/5178)
-- [Add "Westside" to list of words in Code Spell Checker configuration file](https://github.com/hackforla/website/issues/5618)
-- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Agility](https://github.com/hackforla/website/issues/5370)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Scalability](https://github.com/hackforla/website/issues/5372)
-- [Update Image Tag in About Us - Sustainability ](https://github.com/hackforla/website/pull/5611)
-- [Inserted </span> at the end of the Inclusity roll](https://github.com/hackforla/website/pull/5612)
-- [Add new variable github-handle for member Muhi-Dean Othman in 100-automations.md](https://github.com/hackforla/website/issues/5507)
-- [added github handle variable for olivia chiong](https://github.com/hackforla/website/pull/5583)
-- [Add new variable github-handle for member Olivia Chiong in 100-automations.md](https://github.com/hackforla/website/issues/5506)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Inclusivity](https://github.com/hackforla/website/issues/5373)
-- [img Tag Refactor: _includes/about-page/about-card-sustainability.html - sdg17.svg](https://github.com/hackforla/website/issues/5172)
 
