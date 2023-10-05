@@ -13,11 +13,24 @@ This list gets updated every day at midnight.
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 - [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 
+## [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat)
+
+- [root allow-scripts config is of dubious value](https://github.com/LavaMoat/LavaMoat/issues/707)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Add support for running all tests serially](https://github.com/nodejs/node/issues/49487)
+- [`vm`: `vm.compileFunction` does not support negative `lineOffset` and `columnOffset`](https://github.com/nodejs/node/issues/49848)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 - [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
@@ -27,72 +40,16 @@ This list gets updated every day at midnight.
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
 
-## [warmachine028/memories](https://github.com/warmachine028/memories)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[BUG 🐞] Fix code scanning alert - Change user-controlled sources for getUser](https://github.com/warmachine028/memories/issues/85)
-- [[FEATURE 💡] Tags must be added](https://github.com/warmachine028/memories/issues/82)
-- [[BUG 🐞] Page Crashes!](https://github.com/warmachine028/memories/issues/89)
-- [[FEATURE 💡] Dark mode for ForgotPassword](https://github.com/warmachine028/memories/issues/87)
-
-## [sequelize/sequelize](https://github.com/sequelize/sequelize)
-
-- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
-- [Remove the `include` option from `Model.create`](https://github.com/sequelize/sequelize/issues/15233)
-
-## [eloravpn/EloraVPNManager](https://github.com/eloravpn/EloraVPNManager)
-
-- [As an admin, i want to create a SSL enabled host instead of http as domain](https://github.com/eloravpn/EloraVPNManager/issues/9)
-
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [[Bug]: Edit Network Panel appears over the accounts panel](https://github.com/MetaMask/metamask-extension/issues/20145)
-- [Replace deprecated TextField component with TextField from the component-library](https://github.com/MetaMask/metamask-extension/issues/20483)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
-- [[Bug]: Watch All NFTs does not display asset list sorted by id](https://github.com/MetaMask/metamask-extension/issues/19875)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
-- [Replace deprecated Box component with new Box component](https://github.com/MetaMask/metamask-extension/issues/19526)
-
-## [yanna92yar/open-listings](https://github.com/yanna92yar/open-listings)
-
-- [JSDocs and typing](https://github.com/yanna92yar/open-listings/issues/14)
-- [Test authentication system](https://github.com/yanna92yar/open-listings/issues/11)
-- [Fix Bootstrap/CSS layout/design ](https://github.com/yanna92yar/open-listings/issues/7)
-- [Review and work on `happen` events and emails](https://github.com/yanna92yar/open-listings/issues/3)
-- [Add NsfwSpy on image upload](https://github.com/yanna92yar/open-listings/issues/4)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[Components] Gitlab components refactor, add support for custom domains](https://github.com/PipedreamHQ/pipedream/issues/8337)
-- [[Components] LinkedIn - Actions Refactor for Usability](https://github.com/PipedreamHQ/pipedream/issues/8248)
-- [[TRIGGER] Google Classroom New Announcement](https://github.com/PipedreamHQ/pipedream/issues/8300)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/8282)
-- [[Trigger] Tally - New Response refactor](https://github.com/PipedreamHQ/pipedream/issues/8279)
-- [[ACTION] Google Slides - Merge data into a Presentation](https://github.com/PipedreamHQ/pipedream/issues/8215)
-- [[ACTION] Slack - Block Kit Designer Action](https://github.com/PipedreamHQ/pipedream/issues/3100)
-- [[ACTION] Helper - Compare two records](https://github.com/PipedreamHQ/pipedream/issues/7565)
-- [[ACTION][Google Drive] Upload or replace](https://github.com/PipedreamHQ/pipedream/issues/8170)
-- [androrat](https://github.com/PipedreamHQ/pipedream/issues/8168)
-- [CleverTap](https://github.com/PipedreamHQ/pipedream/issues/2997)
-- [[ACTION] ConvertKit: add tags to subscriber](https://github.com/PipedreamHQ/pipedream/issues/8056)
-- [[ACTION] api for live streaming deepgram request](https://github.com/PipedreamHQ/pipedream/issues/8074)
-- [[Action] Basecamp create card](https://github.com/PipedreamHQ/pipedream/issues/8077)
-- [[IMPROVEMENT] Docusign - Create a Signature Request: Allow adding multiple recipients per the number of recipient on the template](https://github.com/PipedreamHQ/pipedream/issues/7984)
-- [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
-- [[ACTION] [Github] List / Get / Create / Update / Delete a gist](https://github.com/PipedreamHQ/pipedream/issues/7987)
-- [[ACTION] Eden AI - Generate audio from text](https://github.com/PipedreamHQ/pipedream/issues/7993)
-- [[ACTION] Aircall - Create & Update Contact](https://github.com/PipedreamHQ/pipedream/issues/7948)
-- [[ACTION] Toggl Client & Project Creation](https://github.com/PipedreamHQ/pipedream/issues/7928)
-- [Ftrack Updates[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/7823)
-- [[ACTION] Add Sales Channels to Shopify App/Update Product](https://github.com/PipedreamHQ/pipedream/issues/7822)
-- [[ACTION] Google Cloud Platform - BigQuery create a scheduled query](https://github.com/PipedreamHQ/pipedream/issues/7880)
+- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Dropdown active option indicator misaligned](https://github.com/WordPress/gutenberg/issues/52001)
+- [Update Link Control elements & labels to use correct gray color](https://github.com/WordPress/gutenberg/issues/54589)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Native Image component includes outdated accessibility hint](https://github.com/WordPress/gutenberg/issues/45124)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Review all the 'Add New' strings](https://github.com/WordPress/gutenberg/issues/53984)
+- [Actions on patterns result in notices containing 'block' instead of 'pattern'](https://github.com/WordPress/gutenberg/issues/53370)
 
