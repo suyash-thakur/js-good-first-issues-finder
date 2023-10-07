@@ -4,31 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+## [WaywardWyvernsSoftworks/TalOS](https://github.com/WaywardWyvernsSoftworks/TalOS)
 
-- [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
-
-## [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder)
-
-- [Signature Field](https://github.com/kevinchappell/formBuilder/issues/1312)
-
-## [fastify/fastify](https://github.com/fastify/fastify)
-
-- [reply.context.config is marked as deprecated in typescript but documented](https://github.com/fastify/fastify/issues/5033)
-- [docs: missing docs about warnings or deprecation warnings](https://github.com/fastify/fastify/issues/5040)
-- [New logger API](https://github.com/fastify/fastify/issues/4624)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [Nayaker/AlgoListed](https://github.com/Nayaker/AlgoListed)
-
-- [Dark Mode Feature in Resources Page | HacktoberFest 2023](https://github.com/Nayaker/AlgoListed/issues/110)
-- [Dark Mode Feature in Coding Sheets Page | HacktoberFest 2023](https://github.com/Nayaker/AlgoListed/issues/109)
-- [How to run the repo in local environment ](https://github.com/Nayaker/AlgoListed/issues/104)
-- [Dark Mode Feature](https://github.com/Nayaker/AlgoListed/issues/80)
+- [Mirostat Support](https://github.com/WaywardWyvernsSoftworks/TalOS/issues/30)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -42,28 +20,47 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Multiple Graphql API Routes example](https://github.com/vercel/next.js/issues/16320)
 
-## [TBD54566975/developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website)
+## [sequelize/sequelize](https://github.com/sequelize/sequelize)
 
-- [Move shopping cart icon to last position in footer](https://github.com/TBD54566975/developer.tbd.website/issues/824)
-- [Create doc component with instructions on installing and importing Web5 JS](https://github.com/TBD54566975/developer.tbd.website/issues/493)
-- [Update 'Videos' Explore Card URL](https://github.com/TBD54566975/developer.tbd.website/issues/821)
-- [Update Links due to navigation issue for Open Source Page](https://github.com/TBD54566975/developer.tbd.website/issues/808)
-- [Update Links due to navigation issue for Community Page](https://github.com/TBD54566975/developer.tbd.website/issues/806)
-- [Update Links due to navigation issue for Projects Page](https://github.com/TBD54566975/developer.tbd.website/issues/807)
-- [Add Incubation Project to README.md](https://github.com/TBD54566975/developer.tbd.website/issues/731)
-- [Fix import statements on Web5 API Guide](https://github.com/TBD54566975/developer.tbd.website/issues/774)
-- [Misplacement of arrow in the official website ](https://github.com/TBD54566975/developer.tbd.website/issues/772)
-- [Invalid DOM property `class` on /docs page](https://github.com/TBD54566975/developer.tbd.website/issues/742)
-- [Update Button Link for Incubation Projects Page](https://github.com/TBD54566975/developer.tbd.website/issues/747)
+- [Unexpected fieldname convertion when including an entity](https://github.com/sequelize/sequelize/issues/11669)
+- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [ampproject/amphtml](https://github.com/ampproject/amphtml)
 
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [Add support for running all tests serially](https://github.com/nodejs/node/issues/49487)
-- [`vm`: `vm.compileFunction` does not support negative `lineOffset` and `columnOffset`](https://github.com/nodejs/node/issues/49848)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+- [Request to include channel in <amp-youtube>](https://github.com/ampproject/amphtml/issues/26304)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [socketsupply/socket](https://github.com/socketsupply/socket)
+
+- [Transparent background](https://github.com/socketsupply/socket/issues/648)
+- [Support 'URL' and 'path.Path' instances as input to `fs.*` APIs](https://github.com/socketsupply/socket/issues/575)
+
+## [Chimoney/chimoney-community-projects](https://github.com/Chimoney/chimoney-community-projects)
+
+- [Publish 'How to get started with the Chimoney API' on our Community blog](https://github.com/Chimoney/chimoney-community-projects/issues/137)
+- [Write a simple  blog on 'How to get started with the Chimoney API for developers'](https://github.com/Chimoney/chimoney-community-projects/issues/88)
+- [Integrate Chimoney with PayPal for Withdrawals](https://github.com/Chimoney/chimoney-community-projects/issues/115)
+- [Contribute new Non-profit payment information to the Non-profit Donation projects](https://github.com/Chimoney/chimoney-community-projects/issues/18)
+- [Create a detailed documentation for the PHP-Laravel SDK in the Developer API docs](https://github.com/Chimoney/chimoney-community-projects/issues/95)
+- [Create a Gift Card/Reward UI that takes a Chimoney issueID and renders a list of Pretty cards](https://github.com/Chimoney/chimoney-community-projects/issues/25)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
+- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Dropdown active option indicator misaligned](https://github.com/WordPress/gutenberg/issues/52001)
+- [Update Link Control elements & labels to use correct gray color](https://github.com/WordPress/gutenberg/issues/54589)
+- [Native Image component includes outdated accessibility hint](https://github.com/WordPress/gutenberg/issues/45124)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Review all the 'Add New' strings](https://github.com/WordPress/gutenberg/issues/53984)
+- [Actions on patterns result in notices containing 'block' instead of 'pattern'](https://github.com/WordPress/gutenberg/issues/53370)
 
