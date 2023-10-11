@@ -4,70 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [style: inconsistent number of quotation marks a new Next.js app](https://github.com/vercel/next.js/issues/54402)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Docs: cms-agilitycms](https://github.com/vercel/next.js/issues/52867)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [BeforeIDieCode/BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
-
-- [1️⃣ Make your mark: Contribute to our project and help us create a platform for documenting life goals and aspirations!](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/5)
-- [🟢 Hindi Translation NEEDED for Documentation](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/30)
-- [[Feature Request] Add coding icon to the footer and onMouse event for sound ](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/159)
-
-## [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev)
-
-- [Hacktoberfest - LakeFS](https://github.com/swapagarwal/swag-for-dev/issues/670)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [DotEnv variable - Leading zero stripped from value](https://github.com/usebruno/bruno/issues/309)
-- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
-- [Impossible to use built-in AJV library ](https://github.com/usebruno/bruno/issues/473)
-- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
-- [[ERROR] Error: ThemeProvider: "theme" prop is required.](https://github.com/usebruno/bruno/issues/482)
-- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
-- [feat: ability to see the request (with variables replaced) without running it](https://github.com/usebruno/bruno/issues/418)
-- [[Feature request] allow export to Postman Collection](https://github.com/usebruno/bruno/issues/401)
-- [Auto Save Changes to request](https://github.com/usebruno/bruno/issues/142)
-- [Can't import a POSTMAN collection with a / char in the name](https://github.com/usebruno/bruno/issues/219)
-- [It's difficult to find how to open web console in Bruno v0.20.0](https://github.com/usebruno/bruno/issues/440)
-- [Using dot (.) in variables names are recognized by the UI but not picked up when sending request](https://github.com/usebruno/bruno/issues/345)
-- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
-- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
-- [block by windows smartscreen defender ...](https://github.com/usebruno/bruno/issues/406)
-- [[Bug/Feature] Allow msgpack as response type (de-serialize to JSON)](https://github.com/usebruno/bruno/issues/372)
-- [Feature: Request Docs](https://github.com/usebruno/bruno/issues/361)
-- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
-- [[Feature Request] Auto updater](https://github.com/usebruno/bruno/issues/103)
-- [[Bug] Preview for PNG files results in white screen/crash](https://github.com/usebruno/bruno/issues/359)
-- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
-- [Upon creating a New Request it should open automatically](https://github.com/usebruno/bruno/issues/111)
-- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
-- [More Themes 🎨](https://github.com/usebruno/bruno/issues/287)
-- [Add bulk edit mode for request parameters, headers, vars, etc.](https://github.com/usebruno/bruno/issues/185)
-- [Tab order on dialogs includes elements on the main application window](https://github.com/usebruno/bruno/issues/129)
-- [Import Pre Request Scripts and Tests while importing Postman Collection](https://github.com/usebruno/bruno/issues/144)
-- [Support Environment import and export](https://github.com/usebruno/bruno/issues/193)
-- [Collection Runner does not respect "Form URL Encoded" body setting](https://github.com/usebruno/bruno/issues/166)
-
 ## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
 
 - [[Feature]: Apply translation/localization to the `SpectatorListMenu`](https://github.com/cuttle-cards/cuttle/issues/638)
@@ -89,4 +25,57 @@ This list gets updated every day at midnight.
 - [[Feature]: Replace cards in vs AI experience with the ones used in PVP](https://github.com/cuttle-cards/cuttle/issues/547)
 - [[Bug]: App navigation disappears between 960px and 1280px](https://github.com/cuttle-cards/cuttle/issues/581)
 - [[DevEx]: Reorganize Vue components](https://github.com/cuttle-cards/cuttle/issues/546)
+
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+
+- [Resource Type](https://github.com/phlask/phlask-map/issues/349)
+- [Write unit tests for our crowdsourcing forms](https://github.com/phlask/phlask-map/issues/199)
+
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+
+- [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [socketsupply/socket](https://github.com/socketsupply/socket)
+
+- [Transparent background](https://github.com/socketsupply/socket/issues/648)
+- [Support 'URL' and 'path.Path' instances as input to `fs.*` APIs](https://github.com/socketsupply/socket/issues/575)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [Document environment variables in Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/3325)
+- [Roll The Dice Getting Started for C++](https://github.com/open-telemetry/opentelemetry.io/issues/3345)
+
+## [meteor/meteor](https://github.com/meteor/meteor)
+
+- [Add --open flag to open user browser when start serving](https://github.com/meteor/meteor/issues/12233)
+- [Feature - Add TypeScript variations to `meteor create`](https://github.com/meteor/meteor/issues/12792)
+- [Misleading api doc for Meteor.user](https://github.com/meteor/meteor/issues/11820)
+- [Document main function](https://github.com/meteor/meteor/issues/12320)
+- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
+- [[feature]: Vue 3 and Typescript flags should generates a vue + typescript project](https://github.com/meteor/meteor/issues/12368)
+- [accounts-passwordless does not always convert email selector to lowercase](https://github.com/meteor/meteor/issues/12412)
+- [v2.12: oAuth package triggers "old API" warning](https://github.com/meteor/meteor/issues/12641)
+- [Meteor website Docs is becoming unusable](https://github.com/meteor/meteor/issues/12608)
+- [`CollectionPrototype._validatedInsert` doesn't return the `insertedId`](https://github.com/meteor/meteor/issues/12159)
+- [v2.12 New 'collection' option for Accounts does not permit the name 'users' for a remote collection](https://github.com/meteor/meteor/issues/12610)
+- [Bugs in negated `in` expressions](https://github.com/meteor/meteor/issues/12781)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [List View: Remove aria-description in favor of aria-describedby](https://github.com/WordPress/gutenberg/issues/55165)
+- [Navigation: Inaccurate description of the Show icon button setting](https://github.com/WordPress/gutenberg/issues/55163)
+- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
+- [Consistent terminology: Patterns vs. Block Patterns](https://github.com/WordPress/gutenberg/issues/49617)
+- [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Dropdown active option indicator misaligned](https://github.com/WordPress/gutenberg/issues/52001)
+- [Update Link Control elements & labels to use correct gray color](https://github.com/WordPress/gutenberg/issues/54589)
+- [Native Image component includes outdated accessibility hint](https://github.com/WordPress/gutenberg/issues/45124)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
 
