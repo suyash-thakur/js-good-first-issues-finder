@@ -4,66 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
-
-- [[Feature]: Apply translation/localization to the `SpectatorListMenu`](https://github.com/cuttle-cards/cuttle/issues/638)
-- [[Feature]: Apply translations/localization to the `GameMenu`](https://github.com/cuttle-cards/cuttle/issues/636)
-- [[Feature]: Apply translation/localization to the `ScrapDialog`](https://github.com/cuttle-cards/cuttle/issues/635)
-- [[Feature]: Apply translations/localization to the `GameOverlays`](https://github.com/cuttle-cards/cuttle/issues/634)
-- [[Feature]: Apply translations/localization to the `ReauthenticateDialog` ](https://github.com/cuttle-cards/cuttle/issues/633)
-- [[Feature]: Apply translations/localization to the `OpponentRequestedStalemateDialog`](https://github.com/cuttle-cards/cuttle/issues/632)
-- [[Feature]: Apply translation/localization to `GameOverDialog`](https://github.com/cuttle-cards/cuttle/issues/631)
-- [[Feature]: Apply Translations/localization to text in `SevenDoubleJacksDialog`](https://github.com/cuttle-cards/cuttle/issues/630)
-- [[Feature]: Apply translation/localization to all text in the `ThreeDialog`](https://github.com/cuttle-cards/cuttle/issues/629)
-- [[Feature]: Apply translations/localization to all the text in the `FourDialog`](https://github.com/cuttle-cards/cuttle/issues/628)
-- [[Feature]: Apply translation/localization to the text in the `CounterDialog`](https://github.com/cuttle-cards/cuttle/issues/627)
-- [[Feature]: Apply translations/localization to the `CannotCounterDialog`](https://github.com/cuttle-cards/cuttle/issues/626)
-- [[Bug]: Vue warning on type check and missing prop](https://github.com/cuttle-cards/cuttle/issues/575)
-- [[DevEx]: Apply ESLint 'curly' rule to require curly braces around all block statements](https://github.com/cuttle-cards/cuttle/issues/620)
-- [[DevEx]: Update socket messages to reduce need for type-checks by making all game attributes appear every time](https://github.com/cuttle-cards/cuttle/issues/621)
-- [[Bug]: CreateGameDialog has two separate forms inside it](https://github.com/cuttle-cards/cuttle/issues/518)
-- [[Feature]: Replace cards in vs AI experience with the ones used in PVP](https://github.com/cuttle-cards/cuttle/issues/547)
-- [[Bug]: App navigation disappears between 960px and 1280px](https://github.com/cuttle-cards/cuttle/issues/581)
-- [[DevEx]: Reorganize Vue components](https://github.com/cuttle-cards/cuttle/issues/546)
-
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
-
-- [Resource Type](https://github.com/phlask/phlask-map/issues/349)
-- [Write unit tests for our crowdsourcing forms](https://github.com/phlask/phlask-map/issues/199)
-
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [vertical lines overlapping under `brave://settings/appearance` in `Tabs` section](https://github.com/brave/brave-browser/issues/30100)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [socketsupply/socket](https://github.com/socketsupply/socket)
-
-- [Transparent background](https://github.com/socketsupply/socket/issues/648)
-- [Support 'URL' and 'path.Path' instances as input to `fs.*` APIs](https://github.com/socketsupply/socket/issues/575)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [Document environment variables in Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/3325)
-- [Roll The Dice Getting Started for C++](https://github.com/open-telemetry/opentelemetry.io/issues/3345)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [Add --open flag to open user browser when start serving](https://github.com/meteor/meteor/issues/12233)
-- [Feature - Add TypeScript variations to `meteor create`](https://github.com/meteor/meteor/issues/12792)
-- [Misleading api doc for Meteor.user](https://github.com/meteor/meteor/issues/11820)
-- [Document main function](https://github.com/meteor/meteor/issues/12320)
-- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
-- [[feature]: Vue 3 and Typescript flags should generates a vue + typescript project](https://github.com/meteor/meteor/issues/12368)
-- [accounts-passwordless does not always convert email selector to lowercase](https://github.com/meteor/meteor/issues/12412)
-- [v2.12: oAuth package triggers "old API" warning](https://github.com/meteor/meteor/issues/12641)
-- [Meteor website Docs is becoming unusable](https://github.com/meteor/meteor/issues/12608)
-- [`CollectionPrototype._validatedInsert` doesn't return the `insertedId`](https://github.com/meteor/meteor/issues/12159)
-- [v2.12 New 'collection' option for Accounts does not permit the name 'users' for a remote collection](https://github.com/meteor/meteor/issues/12610)
-- [Bugs in negated `in` expressions](https://github.com/meteor/meteor/issues/12781)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -78,4 +25,71 @@ This list gets updated every day at midnight.
 - [Native Image component includes outdated accessibility hint](https://github.com/WordPress/gutenberg/issues/45124)
 - [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
 - [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+
+## [BeforeIDieCode/BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+
+- [[Feature Request] Randomize the color of text being displayed everytime when visiting ](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/184)
+- [[Feature Request] Add footer to other two pages ](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/183)
+- [[Feature Request] Create button to direct to Contributor Page ](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/182)
+- [🟢 Hindi Translation NEEDED for Documentation](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/30)
+- [[Feature Request] Add coding icon to the footer and onMouse event for sound ](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/159)
+
+## [codeforpdx/PASS](https://github.com/codeforpdx/PASS)
+
+- [Enhancement: Convert the "To" field in New Message Modal to select contacts](https://github.com/codeforpdx/PASS/issues/413)
+- [Following Pod creation, send user to HMIS profile page](https://github.com/codeforpdx/PASS/issues/441)
+- [Feature: Utilize Message Read Status for Message Icon Badge](https://github.com/codeforpdx/PASS/issues/427)
+- [Add relationship information to contacts](https://github.com/codeforpdx/PASS/issues/351)
+- [Incorrect jsDoc comments in `AddContactModal.jsx`](https://github.com/codeforpdx/PASS/issues/422)
+- [Enhancement: Add a login modal to select pod provider](https://github.com/codeforpdx/PASS/issues/412)
+- [Update document types to use RDF Schema](https://github.com/codeforpdx/PASS/issues/258)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
+
+- [UI: Full task definition page doesn't have margins](https://github.com/taskcluster/taskcluster/issues/6599)
+- [Duplicate errors returned to UI if task does not exist](https://github.com/taskcluster/taskcluster/issues/6542)
+- [[generic-worker] Change ownership of caches to current task](https://github.com/taskcluster/taskcluster/issues/6561)
+
+## [ryanmio/PumpkinPal](https://github.com/ryanmio/PumpkinPal)
+
+- [Consider Lazy Loading for Child Components in PumpkinDetails.js](https://github.com/ryanmio/PumpkinPal/issues/134)
+- [Add Placeholders or Tooltips for Empty or Unclear Fields in PumpkinDetails.js](https://github.com/ryanmio/PumpkinPal/issues/135)
+- [Use Skeleton Loader for Smoother Loading Experience in SiteProfile.js](https://github.com/ryanmio/PumpkinPal/issues/139)
+
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [Search should ignore dashes or spaces](https://github.com/cypress-io/cypress/issues/25303)
+- [command args are not displayed in the Command Log when options also passed into command](https://github.com/cypress-io/cypress/issues/485)
+- [Wrong typings in cypress-npm-api.d.ts and cli/types/cypress.d.ts](https://github.com/cypress-io/cypress/issues/23010)
+- [Cypress.spec missing properties](https://github.com/cypress-io/cypress/issues/27835)
+- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
+- [Fix layout of spec pattern recommendation](https://github.com/cypress-io/cypress/issues/21929)
+- [Don't show white button border for active State for App Spec List row](https://github.com/cypress-io/cypress/issues/21812)
+- [Invoke binary directly warning showing always from `cypress verify` (debug mode)](https://github.com/cypress-io/cypress/issues/6101)
+- [.type() does not enter a - or + after a valid number in an input of type number](https://github.com/cypress-io/cypress/issues/6150)
+- [feat: Add Typescript support for Aliases](https://github.com/cypress-io/cypress/issues/8762)
+- [Cypress and cypress-multi-reporters Yarn 2 PNP support](https://github.com/cypress-io/cypress/issues/18922)
+- [selectFile from fixture will omit file name if used in two consequent tests](https://github.com/cypress-io/cypress/issues/21936)
+- [Property 'request' does not exist on type 'HTMLElement'. during request aliasing](https://github.com/cypress-io/cypress/issues/24823)
+- [Broken position after viewing snapshots with elements with `transform`](https://github.com/cypress-io/cypress/issues/25056)
+- [Generic for request/response inside .then coming from .wait](https://github.com/cypress-io/cypress/issues/22378)
+- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
+- [`CYPRESS_DOWNLOAD_PATH_TEMPLATE` set in `.npmrc` is not picked up by `npx cypress install`](https://github.com/cypress-io/cypress/issues/23013)
+- [`experimentalWebKitSupport`: Set `devicePixelRatio`](https://github.com/cypress-io/cypress/issues/23808)
+- [after:screenshot NodeEvent is missing `specName` ](https://github.com/cypress-io/cypress/issues/26598)
+- [spec file last updated "52 years ago"](https://github.com/cypress-io/cypress/issues/22188)
+- [Use fixture as request body shortcut](https://github.com/cypress-io/cypress/issues/3387)
+- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
+
+## [opensearch-project/alerting-dashboards-plugin](https://github.com/opensearch-project/alerting-dashboards-plugin)
+
+- [[BUG] Remove "Last updated by fields" from the UI](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/763)
+- [[FEATURE] Validate trigger names and ensure there are no duplicate names in the same monitor](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/671)
+- [[BUG] Acknowledging an alert leaves the checkbox checked and disabled](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/559)
 
