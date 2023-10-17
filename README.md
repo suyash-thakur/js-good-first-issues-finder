@@ -8,56 +8,59 @@ This list gets updated every day at midnight.
 
 - [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [datafruits/datafruits](https://github.com/datafruits/datafruits)
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 
-- [translations help](https://github.com/datafruits/datafruits/issues/564)
+- [Validate `sourcemap-v3.json` under strict mode](https://github.com/SchemaStore/schemastore/issues/3116)
+- [ESLint schema doesn't include reportUnusedDisableDirectives](https://github.com/SchemaStore/schemastore/issues/3108)
+- [GitHub workflows `runs-on` doesn't respect recent changes (No default labels)](https://github.com/SchemaStore/schemastore/issues/3192)
 
-## [acmjec/acmjec-website-hacktoberfest2023](https://github.com/acmjec/acmjec-website-hacktoberfest2023)
+## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
 
-- [Join us card hover effect](https://github.com/acmjec/acmjec-website-hacktoberfest2023/issues/16)
-- [Remove horizontal scroll bar](https://github.com/acmjec/acmjec-website-hacktoberfest2023/issues/19)
-- [Create navbar.](https://github.com/acmjec/acmjec-website-hacktoberfest2023/issues/1)
+- [Split AccountSet Flag table into two less-wide tables](https://github.com/XRPLF/xrpl-dev-portal/issues/2202)
 
-## [hackforla/website](https://github.com/hackforla/website)
+## [sequelize/sequelize](https://github.com/sequelize/sequelize)
 
-- [Update cspell.json with false positive term 'Cleantech'](https://github.com/hackforla/website/issues/5675)
-- [Added Rhoda Michael profile on guides team](https://github.com/hackforla/website/pull/5692)
-- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
-- [Add new variable github-handle for member Niven Prasad in 100-automations.md](https://github.com/hackforla/website/issues/5504)
-- [Epic: Updates to remove CfA as our fiscal sponsor - CFA mentions](https://github.com/hackforla/website/issues/5403)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Impact](https://github.com/hackforla/website/issues/5371)
-- [ER: Update Project Profile: Expunge Assist](https://github.com/hackforla/website/issues/5627)
-- [Update languages for Access the Data](https://github.com/hackforla/website/issues/5127)
-- [Update CONTRIBUTING.md Section 2.7.f i SSH for Mac](https://github.com/hackforla/website/issues/5693)
-- [Update CONTRIBUTING.md Section 2.7.f ii SSH for Windows](https://github.com/hackforla/website/issues/5694)
-- [Update cspell.json with false positive term 'VRMS'](https://github.com/hackforla/website/issues/5687)
-- [ER: update Lucky Parking and Citizen Engagement info](https://github.com/hackforla/website/issues/5098)
-- [ER:  Capitalize Tool Data for green-earth-os.md](https://github.com/hackforla/website/issues/5269)
-- [Remove '1Password' From Tools Data in website.md](https://github.com/hackforla/website/issues/5680)
-- [Remove '1Password' From Tools Data in tech-work-experience.md ](https://github.com/hackforla/website/issues/5681)
-- [Update cspell.json with false positive term "Collabathon"](https://github.com/hackforla/website/issues/5684)
-- [Update cspell.json with false positive term "Undebate"](https://github.com/hackforla/website/issues/5685)
-- [Update cspell.json with false positive term "Inclusivity"](https://github.com/hackforla/website/issues/5686)
-- [Add ESlint VS Code installation instructions](https://github.com/hackforla/website/issues/4264)
-- [Add Code Spell Checker VS Code extension installation instructions](https://github.com/hackforla/website/issues/4101)
-- [Add "Westside" to list of words in Code Spell Checker configuration file](https://github.com/hackforla/website/issues/5618)
-- [Add _data/internal/credits/ to "ignorePaths" setting in cspell.json](https://github.com/hackforla/website/issues/5452)
-- [Write Hacktoberfest organizers to update onboarding information](https://github.com/hackforla/website/issues/2908)
-- [Update Project Profile: Guides Team (Add Rhoda Michael)](https://github.com/hackforla/website/issues/5623)
-- [Resolve CodeQL alert 4 "Potentially unsafe external link](https://github.com/hackforla/website/issues/5674)
-- [Resolve CodeQL alert 1 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5673)
-- [Add new variable github-handle for member Muhi-Dean Othman in 100-automations.md](https://github.com/hackforla/website/issues/5507)
-- [img tag refactor in CONTRIBUTING.md Section 4.1 making](https://github.com/hackforla/website/issues/5620)
-- [Refactor HTML: _includes/about-page/about-card-platform.html - Agility](https://github.com/hackforla/website/issues/5370)
-- [img Tag Refactor: _includes/about-page/about-card-sustainability.html - sdg2.svg](https://github.com/hackforla/website/issues/5178)
+- [Unexpected fieldname convertion when including an entity](https://github.com/sequelize/sequelize/issues/11669)
+- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
+
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+
+- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
+- [[chore]: Fix eslint warnings](https://github.com/jaegertracing/jaeger-ui/issues/1608)
+- [ci: Flaky unit test VirtualizedTraceView.test.js](https://github.com/jaegertracing/jaeger-ui/issues/1875)
+- [[Feature]: Support Google Analytics 4 properties](https://github.com/jaegertracing/jaeger-ui/issues/1332)
+
+## [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+
+- [Ru translation doesn't fit the screen.](https://github.com/MetaMask/metamask-mobile/issues/6797)
+- [[Bug]: Biometric login toggle blocks the RU text.](https://github.com/MetaMask/metamask-mobile/issues/7281)
+- [BUG] Settings: Security & Privacy: Manage connections: cannot see text in dark mode](https://github.com/MetaMask/metamask-mobile/issues/7157)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
+- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+
+## [facebook/lexical](https://github.com/facebook/lexical)
+
+- [Feature: Add css class to horizontal rule node for targeted styling](https://github.com/facebook/lexical/issues/4336)
+- [Bug: TableRowNode and TableCellNode's `importDom` methods don't take into account the element's height and width respectively](https://github.com/facebook/lexical/issues/4518)
+- [Bug: [Playground] autolink escapes on second `.` when typing](https://github.com/facebook/lexical/issues/3546)
+- [Bug: Typeahead menu rendering off-screen when cursor near edges](https://github.com/facebook/lexical/issues/3834)
+
+## [OpenLiberty/openliberty.io](https://github.com/OpenLiberty/openliberty.io)
+
+- [The Add to an existing application section in the Get Started page is out-dated](https://github.com/OpenLiberty/openliberty.io/issues/3329)
+- [Make clicking PEM download file rather than showing the text in a new browser tab](https://github.com/OpenLiberty/openliberty.io/issues/3095)
+- [Make sure all of the content repos have an EPLv2 license](https://github.com/OpenLiberty/openliberty.io/issues/3400)
 
