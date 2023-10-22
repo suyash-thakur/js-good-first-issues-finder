@@ -1,6 +1,6 @@
-/* Style for the entire page */
+/*Style for the entire page */
 body {
-    background-color: #f9f9f9;
+    background-color: #b7bbb5;
     color: #444444;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -16,7 +16,15 @@ body {
     margin: 40px 0;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        animation: par;
+        animation-duration: 5s;
+        animation-timing-function: ease;
     }
+/* Added a animation and changed the font colors */
+@keyframes par{
+    from{margin-bottom: 100%;}
+    to{margin-bottom: 0%;}
+}
     
     /* Style for the section headings */
     h2 {
@@ -27,13 +35,13 @@ body {
     
     /* Style for the links */
     a {
-    color: #2b9af3;
+    color: #f4faf9;
     text-decoration: none;
     transition: all 0.3s ease;
     }
     
     a:hover {
-    color: #1663b3;
+        color: #1663b3; 
     text-decoration: underline;
     }
     
