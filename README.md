@@ -4,25 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
-- [[Feature Request]: "Don't Recommend Channel" option in Search Results via "More Options" 3-dot context menu](https://github.com/FreeTubeApp/FreeTube/issues/3051)
-- [Highlighting comments](https://github.com/FreeTubeApp/FreeTube/issues/783)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Enable subtitles by default](https://github.com/FreeTubeApp/FreeTube/issues/62)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-- [[Feature Request]: Grey option for main and secondary color theme](https://github.com/FreeTubeApp/FreeTube/issues/2600)
-- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
-- [Enhance mouse interaction with the playback-speed button](https://github.com/FreeTubeApp/FreeTube/issues/1559)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-
-## [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
-
-- [Project home page sections are not horizontally centered like classify page sections](https://github.com/zooniverse/front-end-monorepo/issues/2088)
-- [Add loading spinner to ZooHeader](https://github.com/zooniverse/front-end-monorepo/issues/495)
-
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
@@ -32,24 +13,11 @@ This list gets updated every day at midnight.
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 - [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 
-## [NASA-AMMOS/MMGIS](https://github.com/NASA-AMMOS/MMGIS)
+## [gcivil-nyu-org/Wednesday-Fall2023-Team-5](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-5)
 
-- [Nested layer expand/collapse state incorrect on parent expansion](https://github.com/NASA-AMMOS/MMGIS/issues/270)
-- [[Bug]: Configure API - Adding Header layer does not include sublayers array](https://github.com/NASA-AMMOS/MMGIS/issues/442)
-
-## [google/blockly-samples](https://github.com/google/blockly-samples)
-
-- ["Hacker mode" theme](https://github.com/google/blockly-samples/issues/1988)
-- [Minimap comments can be opened](https://github.com/google/blockly-samples/issues/1923)
-- [Publish types for field-colour-hsv-sliders](https://github.com/google/blockly-samples/issues/1901)
-- [Publish types for workspace-minimap](https://github.com/google/blockly-samples/issues/1909)
-- [Publish types for field-date](https://github.com/google/blockly-samples/issues/1902)
-- [Re-enable the `jsdoc/tag-lines` eslint rule](https://github.com/google/blockly-samples/issues/1979)
-- [Remove the `lint` script from `blockly-scripts`](https://github.com/google/blockly-samples/issues/1976)
-- [Add script to automate checking for broken links within Samples](https://github.com/google/blockly-samples/issues/697)
-- [Fix lint warnings in blockly-samples](https://github.com/google/blockly-samples/issues/1978)
-- [Update prettier config for quoted object properties](https://github.com/google/blockly-samples/issues/1980)
-- [Add a GitHub Action that runs the formatter](https://github.com/google/blockly-samples/issues/1977)
+- [As a user, I want to be able to edit and delete my account profile.](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-5/issues/18)
+- [As a user, I want to be able to set, edit and update my default filter preferences on my account profile.](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-5/issues/9)
+- [As a user, I want to be able to create my account profile.](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-5/issues/7)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -66,18 +34,40 @@ This list gets updated every day at midnight.
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated SiteIcon component with AvatarFavicon from the component-library](https://github.com/MetaMask/metamask-extension/issues/20459)
-- [Replace deprecated Dialog component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20463)
-- [Migrate components to TS: TextField](https://github.com/MetaMask/metamask-extension/issues/19127)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Migrate components to TS: TextFieldSearch](https://github.com/MetaMask/metamask-extension/issues/19128)
-- [Replace deprecated Callout component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20470)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [[Bug]: Edit Network Panel appears over the accounts panel](https://github.com/MetaMask/metamask-extension/issues/20145)
-- [Replace deprecated TextField component with TextField from the component-library](https://github.com/MetaMask/metamask-extension/issues/20483)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[Bug] When importing Postman collections, graphql requests are not imported correctly](https://github.com/usebruno/bruno/issues/790)
+- [[Bug] Collection variables are not being applied to GraphQL request variables](https://github.com/usebruno/bruno/issues/789)
+- [[Feature Request] User can control UI font size](https://github.com/usebruno/bruno/issues/713)
+- [[Feature Request] Option when click on the request tab](https://github.com/usebruno/bruno/issues/715)
+- [Import Pre Request Scripts and Tests while importing Postman Collection](https://github.com/usebruno/bruno/issues/144)
+- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
+- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
+- [Export Open API 3.x Spec from Bruno](https://github.com/usebruno/bruno/issues/502)
+- [[Bug/Feature] Allow msgpack as response type (de-serialize to JSON)](https://github.com/usebruno/bruno/issues/372)
+- [Error accessing response property with 'context' in the name of the key](https://github.com/usebruno/bruno/issues/521)
+- [Auto Save Changes to request](https://github.com/usebruno/bruno/issues/142)
+- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
+- [[Bug] Items in the collection list (on the left sidebar) are clicked on mouse up events](https://github.com/usebruno/bruno/issues/509)
+- [[Feature Request] JUnit test report format](https://github.com/usebruno/bruno/issues/503)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
+- [Using dot (.) in variables names are recognized by the UI but not picked up when sending request](https://github.com/usebruno/bruno/issues/345)
+- [[ERROR] Error: ThemeProvider: "theme" prop is required.](https://github.com/usebruno/bruno/issues/482)
+- [feat: ability to see the request (with variables replaced) without running it](https://github.com/usebruno/bruno/issues/418)
+- [Can't import a POSTMAN collection with a / char in the name](https://github.com/usebruno/bruno/issues/219)
+- [It's difficult to find how to open web console in Bruno v0.20.0](https://github.com/usebruno/bruno/issues/440)
+- [block by windows smartscreen defender ...](https://github.com/usebruno/bruno/issues/406)
+- [Feature: Request Docs](https://github.com/usebruno/bruno/issues/361)
+- [[Feature Request] Auto updater](https://github.com/usebruno/bruno/issues/103)
+- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
 
