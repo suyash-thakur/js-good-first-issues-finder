@@ -4,28 +4,31 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Spike: Visualization Tools & Libraries](https://github.com/cncf/landscape-graph/issues/72)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Feature request: Automagically convert @ScreenName@Twitter.com to markdown ](https://github.com/stackernews/stacker.news/issues/170)
-- [Handle redirects for dup checks](https://github.com/stackernews/stacker.news/issues/254)
-- [🖤 Add an option to change back to true-Black background.](https://github.com/stackernews/stacker.news/issues/379)
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
-- [remindme bot](https://github.com/stackernews/stacker.news/issues/510)
-- [Limit visible portion of post/comment body and 'click to view more'](https://github.com/stackernews/stacker.news/issues/549)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
-## [hammadsaedi/regex-pro](https://github.com/hammadsaedi/regex-pro)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [Implement the regular expression pattern for Zip Code Validation](https://github.com/hammadsaedi/regex-pro/issues/10)
-- [Implement the regular expression pattern for URL Extraction](https://github.com/hammadsaedi/regex-pro/issues/9)
-- [Implement the regular expression pattern for Date Extraction](https://github.com/hammadsaedi/regex-pro/issues/8)
-- [Implement SQL Code Removal from Text](https://github.com/hammadsaedi/regex-pro/issues/7)
-- [Implement Phone Number Extraction](https://github.com/hammadsaedi/regex-pro/issues/6)
-- [Implement Credit card validation](https://github.com/hammadsaedi/regex-pro/issues/5)
-- [Implement Phone Number Validation](https://github.com/hammadsaedi/regex-pro/issues/4)
+- [Dev server serves wrong page when using query parameters without extension](https://github.com/parcel-bundler/parcel/issues/9211)
+- [PostHTML deletes PHP tags, ignores `directives` configuration](https://github.com/parcel-bundler/parcel/issues/8053)
+- [bun install replaces package.json with only process dependency](https://github.com/parcel-bundler/parcel/issues/9302)
+
+## [Chimoney/chimoney-community-projects](https://github.com/Chimoney/chimoney-community-projects)
+
+- [Update Product Names in the Repo i.e `Chispend` to `Unispend` ](https://github.com/Chimoney/chimoney-community-projects/issues/267)
+- [Create a  simple web/mobile application to showcase the Unispend experience widget on a tablet device.](https://github.com/Chimoney/chimoney-community-projects/issues/6)
+- [Publish 'How to get started with the Chimoney API' on our Community blog](https://github.com/Chimoney/chimoney-community-projects/issues/137)
+- [Integrate Chimoney with PayPal for Withdrawals](https://github.com/Chimoney/chimoney-community-projects/issues/115)
+- [Create a detailed documentation for the PHP-Laravel SDK in the Developer API docs](https://github.com/Chimoney/chimoney-community-projects/issues/95)
+- [Contribute new Non-profit payment information to the Non-profit Donation projects](https://github.com/Chimoney/chimoney-community-projects/issues/18)
+- [Write a Dev-focused article about How to build with ChiConnect, Chimoney's API](https://github.com/Chimoney/chimoney-community-projects/issues/17)
+- [Write a simple  blog on 'How to get started with the Chimoney API for developers'](https://github.com/Chimoney/chimoney-community-projects/issues/88)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -46,31 +49,9 @@ This list gets updated every day at midnight.
 - [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
 - [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
 
-## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+## [sequelize/sequelize](https://github.com/sequelize/sequelize)
 
-- [(Typescript) highlight obvious user defined type names (`interface`, etc)](https://github.com/highlightjs/highlight.js/issues/3269)
-- [(makefile) Syntax highlighting of Makefiles](https://github.com/highlightjs/highlight.js/issues/3878)
-- [(Crystal) formats integer divison incorrectly](https://github.com/highlightjs/highlight.js/issues/3730)
-- [(Python) or"string" highlights the raw string instead of `or` operator](https://github.com/highlightjs/highlight.js/issues/3798)
-- [(css) not all valid attributes are supported (svg related)](https://github.com/highlightjs/highlight.js/issues/3606)
-- [(Rust) Escaped double quotations in string at attribute are not highlighted properly](https://github.com/highlightjs/highlight.js/issues/3817)
-- [(CSS) custom property `--_margin-top: 1rem`, `top` gets wrongly highlighted](https://github.com/highlightjs/highlight.js/issues/3823)
-- [Task: 3rd party grammar template repository](https://github.com/highlightjs/highlight.js/issues/3038)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [events: static properties are configurable & writable](https://github.com/nodejs/node/issues/50417)
-- [doc: note readable/writeable .toWeb()/.fromWeb() exist in webstreams docs](https://github.com/nodejs/node/issues/45381)
-
-## [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)
-
-- [Beta testers needed : Test OpenSign app & report any bugs that you find](https://github.com/OpenSignLabs/OpenSign/issues/63)
-- [Fix the popup layout for "Add contact" form under the "Request signatures" flow](https://github.com/OpenSignLabs/OpenSign/issues/30)
-- [Content creators needed : Write a blog/medium post about our project](https://github.com/OpenSignLabs/OpenSign/issues/64)
-- [The delete button(cross) on "email documents" popup is not aligned properly with email](https://github.com/OpenSignLabs/OpenSign/issues/26)
-- [Remove underline that appears on hovering the "Certificate" button](https://github.com/OpenSignLabs/OpenSign/issues/28)
-- [Change the title of popup that appears after sending out emails from "Request signatures" flow](https://github.com/OpenSignLabs/OpenSign/issues/32)
+- [Allow defining custom ForeignKeyConstraintError messages](https://github.com/sequelize/sequelize/issues/7826)
+- [Unexpected fieldname convertion when including an entity](https://github.com/sequelize/sequelize/issues/11669)
+- [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748)
 
