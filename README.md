@@ -4,9 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
 
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [[Bug]: Actually expire non-current S3 objects](https://github.com/usdigitalresponse/usdr-gost/issues/1808)
+- [[Infra] Unable to delete an agency that used to have a user in it.](https://github.com/usdigitalresponse/usdr-gost/issues/1197)
+- [[ID Tool] Agency staff should not be able to see unassignment buttons to unassign other agencies](https://github.com/usdigitalresponse/usdr-gost/issues/66)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Link to support.brave.com from the private windows with tor setting](https://github.com/brave/brave-browser/issues/34076)
+- [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
+- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -22,65 +36,40 @@ This list gets updated every day at midnight.
 - [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile)
 
-- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
+- [Test out onboarding flows and identify issues](https://github.com/zulip/zulip-mobile/issues/3132)
 
-## [As-Raparigas-do-Codigo/ardc-website](https://github.com/As-Raparigas-do-Codigo/ardc-website)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Atualização da Página Parceiros -- Participação no Digital with Purpose](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/121)
-- [Adicionar validação de email no formulário de Contactos](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/140)
-- [Imagens do CONTRIBUTE.md não são renderizadas / Access Denied](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/135)
-- [Atualizar os atributos de `manifest.json`](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/120)
-- [Remove constantes de imagens e as imagens não usadas nos Workshops](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/109)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [datafruits/datafruits](https://github.com/datafruits/datafruits)
 
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [link to the current show from the now playing bar](https://github.com/datafruits/datafruits/issues/571)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [tools: update-icu.sh is broken](https://github.com/nodejs/node/issues/50498)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [events: static properties are configurable & writable](https://github.com/nodejs/node/issues/50417)
-- [doc: note readable/writeable .toWeb()/.fromWeb() exist in webstreams docs](https://github.com/nodejs/node/issues/45381)
+- [Chart `Download` button/dropdown is in the left pane](https://github.com/PolicyEngine/policyengine-app/issues/759)
+- [Add legend to intra-decile chart ](https://github.com/PolicyEngine/policyengine-app/issues/581)
+- [Remove space after hyperlinked text in blog posts](https://github.com/PolicyEngine/policyengine-app/issues/752)
+- [Subscribe button hover effect doesn't work at particular breakpoint](https://github.com/PolicyEngine/policyengine-app/issues/814)
+- [Link to Open Collective is not a true link, disabling right-click options](https://github.com/PolicyEngine/policyengine-app/issues/776)
+- [On the Reproduce in Python page, the left arrow button is slightly further right](https://github.com/PolicyEngine/policyengine-app/issues/775)
+- [Typing in homepage subscription box breaks website](https://github.com/PolicyEngine/policyengine-app/issues/773)
+- [Homepage newsletter subscription button does nothing](https://github.com/PolicyEngine/policyengine-app/issues/772)
+- [Calculator button in the header doesn't work on mobile ](https://github.com/PolicyEngine/policyengine-app/issues/767)
+- [Organization logos are hard to read on US site](https://github.com/PolicyEngine/policyengine-app/issues/760)
+- [Buttons in calculator not correctly visible on mobile](https://github.com/PolicyEngine/policyengine-app/issues/758)
+- [Homepage headline doesn't fit in box on mobile](https://github.com/PolicyEngine/policyengine-app/issues/757)
+- [Spacing issue on homepage action buttons](https://github.com/PolicyEngine/policyengine-app/issues/753)
+- [Add The Institute logo to website](https://github.com/PolicyEngine/policyengine-app/issues/723)
+- [Move Python subsection to the bottom of `With PolicyEngine`](https://github.com/PolicyEngine/policyengine-app/issues/747)
+- [Replace `No data` with `No variables` when no results in `Varying your earnings` search box](https://github.com/PolicyEngine/policyengine-app/issues/748)
+- [The anchor on the homepage Twitter button extends all the way to the flag dropdown arrow, making it easy to accidentally click on the Twitter link by mistake](https://github.com/PolicyEngine/policyengine-app/issues/713)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk/pull/7536)
 
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated SiteIcon component with AvatarFavicon from the component-library](https://github.com/MetaMask/metamask-extension/issues/20459)
-- [Replace deprecated Dialog component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20463)
-- [Migrate components to TS: TextField](https://github.com/MetaMask/metamask-extension/issues/19127)
-- [Migrate components to TS: TextFieldSearch](https://github.com/MetaMask/metamask-extension/issues/19128)
-- [Replace deprecated Callout component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20470)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [Change labels to sentence case for Checkbox Component](https://github.com/ToolJet/ToolJet/issues/7748)
-- [Change labels to sentence case for Dropdown Component](https://github.com/ToolJet/ToolJet/issues/7752)
-- [Change labels to sentence case for Code Editor component](https://github.com/ToolJet/ToolJet/issues/7778)
-- [Change labels to sentence case for Button Group component](https://github.com/ToolJet/ToolJet/issues/7791)
-- [Change labels to sentence case for Kanban component](https://github.com/ToolJet/ToolJet/issues/7794)
-- [Change labels to sentence case for Link component](https://github.com/ToolJet/ToolJet/issues/7797)
-- [Fix the `Edit email address` button after signup](https://github.com/ToolJet/ToolJet/issues/7802)
-- [Change labels to sentence case for Image Component](https://github.com/ToolJet/ToolJet/issues/7773)
-- [[refactor]: Update descriptions(tooltips) for QR scanner, rating, divider and file picker components](https://github.com/ToolJet/ToolJet/issues/7521)
-- [Change labels to sentence case for Tree Select component](https://github.com/ToolJet/ToolJet/issues/7796)
-- [Change labels to sentence case for List View Component](https://github.com/ToolJet/ToolJet/issues/7744)
-- [ToolJet Database: The "Enter" key does not submit the "Create New Table" dialog box](https://github.com/ToolJet/ToolJet/issues/7196)
-- [Marketplace: display scrollbar only if the items exceed on the page ](https://github.com/ToolJet/ToolJet/issues/6818)
-- [Change labels to sentence case for Multiselect Component](https://github.com/ToolJet/ToolJet/issues/7753)
-- [[docs]: changes required in OpenAPI data source reference](https://github.com/ToolJet/ToolJet/issues/7652)
-- [Change labels to sentence case for Form component](https://github.com/ToolJet/ToolJet/issues/7799)
-- [Dark Mode compatibility issue with datepicker component in time selection UI](https://github.com/ToolJet/ToolJet/issues/7072)
-- [TreeSelect Component: Text colour not adapting when switching the light and dark modes](https://github.com/ToolJet/ToolJet/issues/7279)
-- [incorrect code-hinter header text](https://github.com/ToolJet/ToolJet/issues/6655)
+- [fix: Call methods on `pegasusConnectionsAdmin` eventually](https://github.com/Agoric/agoric-sdk/pull/7536)
+- [Add ability to add sender to pegasus](https://github.com/Agoric/agoric-sdk/pull/8006)
 
