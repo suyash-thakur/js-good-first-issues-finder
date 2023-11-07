@@ -4,15 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)
 
-- [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
-- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
+- [Option to not put a space before /> in self-closing tags](https://github.com/beautify-web/js-beautify/issues/654)
+- [HTML <!-- comments --> placed within text alters whitespace](https://github.com/beautify-web/js-beautify/issues/1301)
+- [Option unescape_strings can produce invalid string literals making JS invalid/uninterpretable](https://github.com/beautify-web/js-beautify/issues/2141)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
 - [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 - [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
@@ -24,39 +24,32 @@ This list gets updated every day at midnight.
 - [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 - [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
 
-## [facebook/react](https://github.com/facebook/react)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [[ACTION] [PODIO] Update Create Item, Add Upload Action](https://github.com/PipedreamHQ/pipedream/issues/8833)
+- [[TRIGGER] SQLAlchemy](https://github.com/PipedreamHQ/pipedream/issues/5965)
+- [[ACTION] BigQuery Select](https://github.com/PipedreamHQ/pipedream/issues/8802)
+- [[ACTION] Hubspot - Add upsert functionality to Create Contact  Action](https://github.com/PipedreamHQ/pipedream/issues/8749)
+- [[Components] Adobe PDF Services](https://github.com/PipedreamHQ/pipedream/issues/8619)
+- [[ACTION] PostgreSQL - Upsert Row](https://github.com/PipedreamHQ/pipedream/issues/8748)
+- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
+- [[ACTION][GITHUB] List releases](https://github.com/PipedreamHQ/pipedream/issues/8600)
+- [[ACTION] [Github] List / Get / Create / Update / Delete a gist](https://github.com/PipedreamHQ/pipedream/issues/7987)
+- [[ACTION] Clickup - Start a Time Entry](https://github.com/PipedreamHQ/pipedream/issues/8516)
+- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/8468)
+- [[TRIGGER] Yotpo New Reviews Received](https://github.com/PipedreamHQ/pipedream/issues/4375)
+- [[Triggers/Actions] Survicate](https://github.com/PipedreamHQ/pipedream/issues/6600)
+- [[ACTION] please do it](https://github.com/PipedreamHQ/pipedream/issues/8455)
+- [[APP][TRIGGER] NewsBlur ](https://github.com/PipedreamHQ/pipedream/issues/8447)
+- [[SOURCE] ReCharge sources - new subscription, new cancelled subscription ](https://github.com/PipedreamHQ/pipedream/issues/2801)
+- [Refactor Airtable sources to use webhooks](https://github.com/PipedreamHQ/pipedream/issues/5013)
+- [[Actions] Eversign](https://github.com/PipedreamHQ/pipedream/issues/4229)
 
-## [miljkovicjovan/minimalist-task-tracker](https://github.com/miljkovicjovan/minimalist-task-tracker)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Reactivate finished task](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/26)
-- [Settings - Confirmations - Main switch needs to reflect children](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/62)
-- [Complete all Active Tasks](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/58)
-- [Safari on mobile phone hides the footer](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/15)
-- [Create notification bars with text for actions](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/21)
-- [Add how to contribute explanation in README.md](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/43)
-- [Make modals full screen on phone sized screens](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/41)
-- [Big space between active and finished tasks](https://github.com/miljkovicjovan/minimalist-task-tracker/issues/37)
-
-## [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-
-- [Feature request? input pattern](https://github.com/SBoudrias/Inquirer.js/issues/1328)
-
-## [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
-
-- [Project home page sections are not horizontally centered like classify page sections](https://github.com/zooniverse/front-end-monorepo/issues/2088)
-- [Add loading spinner to ZooHeader](https://github.com/zooniverse/front-end-monorepo/issues/495)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-
-## [As-Raparigas-do-Codigo/ardc-website](https://github.com/As-Raparigas-do-Codigo/ardc-website)
-
-- [Atualização da Página Parceiros -- Participação no Digital with Purpose](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/121)
-- [Adicionar validação de email no formulário de Contactos](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/140)
-- [Imagens do CONTRIBUTE.md não são renderizadas / Access Denied](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/135)
-- [Atualizar os atributos de `manifest.json`](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/120)
-- [Remove constantes de imagens e as imagens não usadas nos Workshops](https://github.com/As-Raparigas-do-Codigo/ardc-website/issues/109)
+- [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
+- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 
