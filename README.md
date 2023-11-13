@@ -4,33 +4,40 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [visjs/vis-network](https://github.com/visjs/vis-network)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Parsing DOT string with formatting in it](https://github.com/visjs/vis-network/issues/505)
+- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
+- [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [lionel1014/grupo_1_batitienda](https://github.com/lionel1014/grupo_1_batitienda)
 
-- [remindme bot](https://github.com/stackernews/stacker.news/issues/510)
-- [Style calendar for custom date selector consistent with the rest of the UI](https://github.com/stackernews/stacker.news/issues/624)
-- [Feature request: Automagically convert @ScreenName@Twitter.com to markdown ](https://github.com/stackernews/stacker.news/issues/170)
-- [Handle redirects for dup checks](https://github.com/stackernews/stacker.news/issues/254)
-- [🖤 Add an option to change back to true-Black background.](https://github.com/stackernews/stacker.news/issues/379)
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
-- [Limit visible portion of post/comment body and 'click to view more'](https://github.com/stackernews/stacker.news/issues/549)
+- [Separar las Vistas en Carpetas](https://github.com/lionel1014/grupo_1_batitienda/issues/35)
+- [Implementar el Motor de Templates: EJS](https://github.com/lionel1014/grupo_1_batitienda/issues/34)
+- [Refactorización del CSS y las clases](https://github.com/lionel1014/grupo_1_batitienda/issues/41)
+- [Retrospectiva del Sprint:](https://github.com/lionel1014/grupo_1_batitienda/issues/32)
+- [Actualizar el Tablero de Trabajo](https://github.com/lionel1014/grupo_1_batitienda/issues/33)
+- [Creación de User Stories para el SPRINT 3 [US]](https://github.com/lionel1014/grupo_1_batitienda/issues/22)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
-- [[Feature]: Add dark theme support to Jaeger-UI](https://github.com/jaegertracing/jaeger-ui/issues/1911)
-- [[Feature]: Speed up Trace Statistics view calculation](https://github.com/jaegertracing/jaeger-ui/issues/1925)
-- [[chore]: Fix eslint warnings](https://github.com/jaegertracing/jaeger-ui/issues/1608)
+- [Add RTLCSS to wp-scripts](https://github.com/WordPress/gutenberg/issues/29605)
+- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
+- [List block: Support block gap](https://github.com/WordPress/gutenberg/issues/55702)
+- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
+- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
+- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
+- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
+- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
+- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
 
-## [NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat](https://github.com/NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [Project Page: Create a form that allows a user to add a new project](https://github.com/NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat/issues/8)
-- [User Side Bar](https://github.com/NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat/issues/3)
-- [Packages Page: allow users to add a package to the list of packages](https://github.com/NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat/issues/11)
-- [Web Page Nav Bar](https://github.com/NSS-Evening-25-Cohort/e25-gitsub-control-alt-defeat/issues/6)
+- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [If a target name contains a slash, parcel fails with a hard-to-diagnose error message](https://github.com/parcel-bundler/parcel/issues/9001)
+- [Dev server serves wrong page when using query parameters without extension](https://github.com/parcel-bundler/parcel/issues/9211)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -46,9 +53,9 @@ This list gets updated every day at midnight.
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Automated Self Feedback](https://github.com/Significant-Gravitas/AutoGPT/issues/4220)
+- [Roll The Dice Getting Started for C++](https://github.com/open-telemetry/opentelemetry.io/issues/3345)
+- [[OTel Demo] - Quote Service Metrics](https://github.com/open-telemetry/opentelemetry.io/issues/2669)
+- [Provide a Tutorial Guide showing how to "ping a collector install" with a dummy signal (e.g., metric) without the use of a language SDK or other component](https://github.com/open-telemetry/opentelemetry.io/issues/729)
 
