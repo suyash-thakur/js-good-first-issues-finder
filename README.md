@@ -4,40 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [visjs/vis-network](https://github.com/visjs/vis-network)
+
+- [Parsing DOT string with formatting in it](https://github.com/visjs/vis-network/issues/505)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [request dont decompress response body](https://github.com/nodejs/undici/issues/2260)
+- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
 - [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-- [improve formatting of brave://settings/help info](https://github.com/brave/brave-browser/issues/2560)
-
-## [lionel1014/grupo_1_batitienda](https://github.com/lionel1014/grupo_1_batitienda)
-
-- [Separar las Vistas en Carpetas](https://github.com/lionel1014/grupo_1_batitienda/issues/35)
-- [Implementar el Motor de Templates: EJS](https://github.com/lionel1014/grupo_1_batitienda/issues/34)
-- [Refactorización del CSS y las clases](https://github.com/lionel1014/grupo_1_batitienda/issues/41)
-- [Retrospectiva del Sprint:](https://github.com/lionel1014/grupo_1_batitienda/issues/32)
-- [Actualizar el Tablero de Trabajo](https://github.com/lionel1014/grupo_1_batitienda/issues/33)
-- [Creación de User Stories para el SPRINT 3 [US]](https://github.com/lionel1014/grupo_1_batitienda/issues/22)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Add RTLCSS to wp-scripts](https://github.com/WordPress/gutenberg/issues/29605)
-- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
-- [List block: Support block gap](https://github.com/WordPress/gutenberg/issues/55702)
-- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
-- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
-- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
-- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
-- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
-- [If a target name contains a slash, parcel fails with a hard-to-diagnose error message](https://github.com/parcel-bundler/parcel/issues/9001)
-- [Dev server serves wrong page when using query parameters without extension](https://github.com/parcel-bundler/parcel/issues/9211)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -53,9 +35,33 @@ This list gets updated every day at midnight.
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [google/blockly-samples](https://github.com/google/blockly-samples)
 
-- [Roll The Dice Getting Started for C++](https://github.com/open-telemetry/opentelemetry.io/issues/3345)
-- [[OTel Demo] - Quote Service Metrics](https://github.com/open-telemetry/opentelemetry.io/issues/2669)
-- [Provide a Tutorial Guide showing how to "ping a collector install" with a dummy signal (e.g., metric) without the use of a language SDK or other component](https://github.com/open-telemetry/opentelemetry.io/issues/729)
+- ["Hacker mode" theme](https://github.com/google/blockly-samples/issues/1988)
+- [Update prettier config for quoted object properties](https://github.com/google/blockly-samples/issues/1980)
+- [Make it easier to subclass `ObservableParameterModel`](https://github.com/google/blockly-samples/issues/1861)
+- [Publish types for workspace-minimap](https://github.com/google/blockly-samples/issues/1909)
+
+## [CrypticNothings/fight4privacy](https://github.com/CrypticNothings/fight4privacy)
+
+- [Navigation](https://github.com/CrypticNothings/fight4privacy/issues/14)
+- [Background and Font Colors](https://github.com/CrypticNothings/fight4privacy/issues/10)
+- [Government List on index.html](https://github.com/CrypticNothings/fight4privacy/issues/1)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [[Visual Design] New Recognition Badge: API Ace Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/187)
+- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
+- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
+
+## [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+
+- [Project home page sections are not horizontally centered like classify page sections](https://github.com/zooniverse/front-end-monorepo/issues/2088)
+
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
+
+- [[Bug]: Create Game Dialog ranked switch + button vertical alignment is off-center](https://github.com/cuttle-cards/cuttle/issues/772)
+- [[Feature]: Revise and clarify the “Counter” and “Resolve” buttons](https://github.com/cuttle-cards/cuttle/issues/767)
+- [[Bug]: Can't close the snackbar in the `LobbyView` using its 'X' button](https://github.com/cuttle-cards/cuttle/issues/739)
+- [[DevEx]: Update socket messages to reduce need for type-checks by making all game attributes appear every time](https://github.com/cuttle-cards/cuttle/issues/621)
 
