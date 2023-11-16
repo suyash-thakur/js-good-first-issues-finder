@@ -4,13 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nextcloud/documentation](https://github.com/nextcloud/documentation)
-
-- [Openstack v3 for external storage not documented](https://github.com/nextcloud/documentation/issues/1846)
-- [occ offers more than three commands to manage files](https://github.com/nextcloud/documentation/issues/9630)
-- [Manage connected browsers and devices: Improve terms / translations](https://github.com/nextcloud/documentation/issues/10038)
-- [Manage connected browsers and devices outdated](https://github.com/nextcloud/documentation/issues/1746)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
@@ -20,39 +13,53 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk/pull/8006)
 
-- [Throw an error or output a warning when `--env-file` can not be opened.](https://github.com/nodejs/node/issues/50536)
-- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
-- [Entering async IIFE in REPL triggers DCHECK](https://github.com/nodejs/node/issues/38685)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [tools: update-icu.sh is broken](https://github.com/nodejs/node/issues/50498)
-- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
-- [doc: note readable/writeable .toWeb()/.fromWeb() exist in webstreams docs](https://github.com/nodejs/node/issues/45381)
+- [Add ability to add sender to pegasus](https://github.com/Agoric/agoric-sdk/pull/8006)
+- [fix: Call methods on `pegasusConnectionsAdmin` eventually](https://github.com/Agoric/agoric-sdk/pull/7536)
 
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[Generic Worker] Windows syscalls log to stdout](https://github.com/taskcluster/taskcluster/issues/6677)
-- [Update integration guidelines documentation](https://github.com/taskcluster/taskcluster/issues/6321)
-- [[UI] Duplicate rows added to table when sorting the worker page](https://github.com/taskcluster/taskcluster/issues/5431)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [please add app directory for with-zustand example](https://github.com/vercel/next.js/issues/52858)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [hackforla/311-data](https://github.com/hackforla/311-data)
 
-- [Disable sync correction for SyncPlay by default](https://github.com/jellyfin/jellyfin-web/issues/4972)
-- [Uploading an external subtitle file does not allow '.mks' format](https://github.com/jellyfin/jellyfin-web/issues/4921)
-- [Notification permission prompt interrupts input on first use](https://github.com/jellyfin/jellyfin-web/issues/3243)
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+- [Update Privacy Policy](https://github.com/hackforla/311-data/issues/1581)
+- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
+- [Set up a cron job via github actions to update data nightly ](https://github.com/hackforla/311-data/issues/1535)
 
-## [dhextras/freight-pallet-calc](https://github.com/dhextras/freight-pallet-calc)
+## [workbenchdev/Workbench](https://github.com/workbenchdev/Workbench)
 
-- [Modularize Codebase with Webpack/Vite](https://github.com/dhextras/freight-pallet-calc/issues/3)
-- [Allow Decimal Values for Product Dimensions](https://github.com/dhextras/freight-pallet-calc/issues/5)
-- [Address Security Vulnerabilities](https://github.com/dhextras/freight-pallet-calc/issues/4)
+- [Document GNOME 45 changes](https://github.com/workbenchdev/Workbench/issues/633)
 
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
-- [Consider adding an option to show full height to pl-file-preview element](https://github.com/PrairieLearn/PrairieLearn/issues/8793)
-- [Drop unused columns left over from MongoDB migration](https://github.com/PrairieLearn/PrairieLearn/issues/8828)
-- [pl-matching: allow options to be listed above/below statements](https://github.com/PrairieLearn/PrairieLearn/issues/5118)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+
+## [near/neardevhub-widgets](https://github.com/near/neardevhub-widgets)
+
+- [feat: Display cumulative comments count](https://github.com/near/neardevhub-widgets/issues/11)
+- [Tagging/mentions doesn't work if you do not follow anyone](https://github.com/near/neardevhub-widgets/issues/200)
+
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+
+- [In `About` modal position of "Contribute" and "Report a bug" is not consistent](https://github.com/processing/p5.js-web-editor/issues/2531)
+- [Improve OG title for linked p5.js sketches](https://github.com/processing/p5.js-web-editor/issues/2177)
+- [Update public_api.md in developer_docs to set UI_ACCESS_TOKEN_ENABLED=true](https://github.com/processing/p5.js-web-editor/issues/1769)
+- [console.table display bug](https://github.com/processing/p5.js-web-editor/issues/1520)
+- [Cannot create a SharedArrayBuffer](https://github.com/processing/p5.js-web-editor/issues/2094)
+- [Text Alignment Issue in Hindi Language](https://github.com/processing/p5.js-web-editor/issues/2157)
+- [Set default iframe background color to white](https://github.com/processing/p5.js-web-editor/issues/1852)
 
