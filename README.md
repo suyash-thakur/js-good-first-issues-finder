@@ -6,17 +6,13 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Inconsistency with back and forward keyboard shortcuts in context menu](https://github.com/brave/brave-browser/issues/34306)
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
 - [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk/pull/8006)
-
-- [Add ability to add sender to pegasus](https://github.com/Agoric/agoric-sdk/pull/8006)
-- [fix: Call methods on `pegasusConnectionsAdmin` eventually](https://github.com/Agoric/agoric-sdk/pull/7536)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -33,33 +29,25 @@ This list gets updated every day at midnight.
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 
-## [hackforla/311-data](https://github.com/hackforla/311-data)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Update Privacy Policy](https://github.com/hackforla/311-data/issues/1581)
-- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
-- [Set up a cron job via github actions to update data nightly ](https://github.com/hackforla/311-data/issues/1535)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 
-## [workbenchdev/Workbench](https://github.com/workbenchdev/Workbench)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Document GNOME 45 changes](https://github.com/workbenchdev/Workbench/issues/633)
+- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[bug] Environment won't save if an empty secret exists](https://github.com/usebruno/bruno/issues/904)
+- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
+- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+- [[Feature Request] User can control UI font size](https://github.com/usebruno/bruno/issues/713)
+- [Import Pre Request Scripts and Tests while importing Postman Collection](https://github.com/usebruno/bruno/issues/144)
+- [[Bug] Collection variables are not being applied to GraphQL request variables](https://github.com/usebruno/bruno/issues/789)
+- [[Feature Request] Option when click on the request tab](https://github.com/usebruno/bruno/issues/715)
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [TodePond/Arroost](https://github.com/TodePond/Arroost)
 
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-
-## [near/neardevhub-widgets](https://github.com/near/neardevhub-widgets)
-
-- [feat: Display cumulative comments count](https://github.com/near/neardevhub-widgets/issues/11)
-- [Tagging/mentions doesn't work if you do not follow anyone](https://github.com/near/neardevhub-widgets/issues/200)
-
-## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-
-- [In `About` modal position of "Contribute" and "Report a bug" is not consistent](https://github.com/processing/p5.js-web-editor/issues/2531)
-- [Improve OG title for linked p5.js sketches](https://github.com/processing/p5.js-web-editor/issues/2177)
-- [Update public_api.md in developer_docs to set UI_ACCESS_TOKEN_ENABLED=true](https://github.com/processing/p5.js-web-editor/issues/1769)
-- [console.table display bug](https://github.com/processing/p5.js-web-editor/issues/1520)
-- [Cannot create a SharedArrayBuffer](https://github.com/processing/p5.js-web-editor/issues/2094)
-- [Text Alignment Issue in Hindi Language](https://github.com/processing/p5.js-web-editor/issues/2157)
-- [Set default iframe background color to white](https://github.com/processing/p5.js-web-editor/issues/1852)
+- [Linux testing](https://github.com/TodePond/Arroost/issues/153)
 
