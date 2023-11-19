@@ -4,45 +4,33 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative)
+## [tjpenc/PlantsFE](https://github.com/tjpenc/PlantsFE)
 
-- [Top-align ObsStatus](https://github.com/inaturalist/iNaturalistReactNative/issues/895)
-- [Obs Detail screen; Unknown organism restyle](https://github.com/inaturalist/iNaturalistReactNative/issues/881)
-- [Obs Detail screen; observation without media](https://github.com/inaturalist/iNaturalistReactNative/issues/883)
-- [Obs Detail screen; opt out of community ID](https://github.com/inaturalist/iNaturalistReactNative/issues/882)
-- [Taxon detail screen; Remove some elements](https://github.com/inaturalist/iNaturalistReactNative/issues/874)
-- [Obs Edit screen; change title](https://github.com/inaturalist/iNaturalistReactNative/issues/880)
-- [Obs Edit screen; Logged out state](https://github.com/inaturalist/iNaturalistReactNative/issues/877)
+- [Plant API Calls](https://github.com/tjpenc/PlantsFE/issues/19)
+- [Square API Calls](https://github.com/tjpenc/PlantsFE/issues/27)
+- [Bed API Calls](https://github.com/tjpenc/PlantsFE/issues/26)
+- [Task API Calls](https://github.com/tjpenc/PlantsFE/issues/11)
+- [Create File Structure](https://github.com/tjpenc/PlantsFE/issues/1)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [datafruits/datafruits](https://github.com/datafruits/datafruits)
 
-- [Throw an error or output a warning when `--env-file` can not be opened.](https://github.com/nodejs/node/issues/50536)
-- [doc: document --no-warnings=<cat1>,<cat2>](https://github.com/nodejs/node/issues/46862)
-- [Entering async IIFE in REPL triggers DCHECK](https://github.com/nodejs/node/issues/38685)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [tools: update-icu.sh is broken](https://github.com/nodejs/node/issues/50498)
-- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
-- [doc: note readable/writeable .toWeb()/.fromWeb() exist in webstreams docs](https://github.com/nodejs/node/issues/45381)
+- [link to the current show from the now playing bar](https://github.com/datafruits/datafruits/issues/571)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-
-## [facebook/lexical](https://github.com/facebook/lexical)
-
-- [Feature: Add css class to horizontal rule node for targeted styling](https://github.com/facebook/lexical/issues/4336)
-
-## [hackclub/sprig](https://github.com/hackclub/sprig)
-
-- [Add clear button to sound editor](https://github.com/hackclub/sprig/issues/905)
-- [sprite layering in 3d sprig is wrong](https://github.com/hackclub/sprig/issues/425)
-
-## [mkoskim/mawejs](https://github.com/mkoskim/mawejs)
-
-- [Add small close button to search box](https://github.com/mkoskim/mawejs/issues/162)
+- [[TRIGGER] Search for All outlook messages inside a custom folder](https://github.com/PipedreamHQ/pipedream/issues/9003)
+- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
+- [[ACTION] Google Drive - Create Permission](https://github.com/PipedreamHQ/pipedream/issues/6889)
+- [[ACTION] Toggl Client & Project Creation](https://github.com/PipedreamHQ/pipedream/issues/7928)
+- [[ACTION] Update AssemblyAI Get Transcript action](https://github.com/PipedreamHQ/pipedream/issues/8984)
+- [[ACTION] Improve Zoho CRM Create Object action](https://github.com/PipedreamHQ/pipedream/issues/8983)
+- [[SOURCE] Github - Wiki updated](https://github.com/PipedreamHQ/pipedream/issues/8939)
+- [[TRIGGER] add a schedule trigger to emit event in randomly time in the day](https://github.com/PipedreamHQ/pipedream/issues/8885)
+- [Update Toggl Components to v9 API](https://github.com/PipedreamHQ/pipedream/issues/8889)
+- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
+- [[TRIGGER] SQLAlchemy](https://github.com/PipedreamHQ/pipedream/issues/5965)
+- [[ACTION] BigQuery Select](https://github.com/PipedreamHQ/pipedream/issues/8802)
+- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
