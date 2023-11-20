@@ -4,36 +4,29 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [tjpenc/PlantsFE](https://github.com/tjpenc/PlantsFE)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Plant API Calls](https://github.com/tjpenc/PlantsFE/issues/19)
-- [Square API Calls](https://github.com/tjpenc/PlantsFE/issues/27)
-- [Bed API Calls](https://github.com/tjpenc/PlantsFE/issues/26)
-- [Task API Calls](https://github.com/tjpenc/PlantsFE/issues/11)
-- [Create File Structure](https://github.com/tjpenc/PlantsFE/issues/1)
+- [Inconsistency with back and forward keyboard shortcuts in context menu](https://github.com/brave/brave-browser/issues/34306)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
+- [brave://settings nits](https://github.com/brave/brave-browser/issues/20002)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [datafruits/datafruits](https://github.com/datafruits/datafruits)
+## [OriginProtocol/origin-dollar](https://github.com/OriginProtocol/origin-dollar)
 
-- [link to the current show from the now playing bar](https://github.com/datafruits/datafruits/issues/571)
+- [Coin98 Wallet Integration](https://github.com/OriginProtocol/origin-dollar/issues/507)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [BoltzExchange/boltz-web-app](https://github.com/BoltzExchange/boltz-web-app)
 
-- [[TRIGGER] Search for All outlook messages inside a custom folder](https://github.com/PipedreamHQ/pipedream/issues/9003)
-- [[ACTION] Zoho Workdrive Download file to temp dir](https://github.com/PipedreamHQ/pipedream/issues/7483)
-- [[ACTION] Google Drive - Create Permission](https://github.com/PipedreamHQ/pipedream/issues/6889)
-- [[ACTION] Toggl Client & Project Creation](https://github.com/PipedreamHQ/pipedream/issues/7928)
-- [[ACTION] Update AssemblyAI Get Transcript action](https://github.com/PipedreamHQ/pipedream/issues/8984)
-- [[ACTION] Improve Zoho CRM Create Object action](https://github.com/PipedreamHQ/pipedream/issues/8983)
-- [[SOURCE] Github - Wiki updated](https://github.com/PipedreamHQ/pipedream/issues/8939)
-- [[TRIGGER] add a schedule trigger to emit event in randomly time in the day](https://github.com/PipedreamHQ/pipedream/issues/8885)
-- [Update Toggl Components to v9 API](https://github.com/PipedreamHQ/pipedream/issues/8889)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[TRIGGER] SQLAlchemy](https://github.com/PipedreamHQ/pipedream/issues/5965)
-- [[ACTION] BigQuery Select](https://github.com/PipedreamHQ/pipedream/issues/8802)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
+- [Add "Use Case" section to landing page](https://github.com/BoltzExchange/boltz-web-app/issues/297)
+- [Mobile: deep link lightning and chain wallets](https://github.com/BoltzExchange/boltz-web-app/issues/299)
+- [lnurl: allow new attempt after "failed to fetch"](https://github.com/BoltzExchange/boltz-web-app/issues/294)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
@@ -45,4 +38,24 @@ This list gets updated every day at midnight.
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
+
+## [JJB9922/MuayThaideas](https://github.com/JJB9922/MuayThaideas)
+
+- [Pressing play after pausing mid-round causes a new combo to be generated ](https://github.com/JJB9922/MuayThaideas/issues/1)
+- [Fix the ugly mess of code that is the getRandomCombo func](https://github.com/JJB9922/MuayThaideas/issues/8)
+- [Noise when switching between rest and round](https://github.com/JJB9922/MuayThaideas/issues/7)
+- [Make User combos beginner/advanced](https://github.com/JJB9922/MuayThaideas/issues/3)
+
+## [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
+
+- [Add support for ComplexF64 as reactive variables](https://github.com/GenieFramework/Stipple.jl/issues/235)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [Support for vb.net projects](https://github.com/CycloneDX/cdxgen/issues/716)
+
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+
+- [[Feature request] streamer callback for text-generation task](https://github.com/xenova/transformers.js/issues/394)
+- [[Feature request] CommonJS compatability](https://github.com/xenova/transformers.js/issues/152)
 
