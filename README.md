@@ -14,15 +14,9 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [OriginProtocol/origin-dollar](https://github.com/OriginProtocol/origin-dollar)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Coin98 Wallet Integration](https://github.com/OriginProtocol/origin-dollar/issues/507)
-
-## [BoltzExchange/boltz-web-app](https://github.com/BoltzExchange/boltz-web-app)
-
-- [Add "Use Case" section to landing page](https://github.com/BoltzExchange/boltz-web-app/issues/297)
-- [Mobile: deep link lightning and chain wallets](https://github.com/BoltzExchange/boltz-web-app/issues/299)
-- [lnurl: allow new attempt after "failed to fetch"](https://github.com/BoltzExchange/boltz-web-app/issues/294)
+- [Support for vb.net projects](https://github.com/CycloneDX/cdxgen/issues/716)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -37,25 +31,47 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
 
-## [JJB9922/MuayThaideas](https://github.com/JJB9922/MuayThaideas)
+## [TodePond/Arroost](https://github.com/TodePond/Arroost)
 
-- [Pressing play after pausing mid-round causes a new combo to be generated ](https://github.com/JJB9922/MuayThaideas/issues/1)
-- [Fix the ugly mess of code that is the getRandomCombo func](https://github.com/JJB9922/MuayThaideas/issues/8)
-- [Noise when switching between rest and round](https://github.com/JJB9922/MuayThaideas/issues/7)
-- [Make User combos beginner/advanced](https://github.com/JJB9922/MuayThaideas/issues/3)
+- [Linux testing](https://github.com/TodePond/Arroost/issues/153)
 
-## [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
+## [hackforla/website](https://github.com/hackforla/website/pull/5901)
 
-- [Add support for ComplexF64 as reactive variables](https://github.com/GenieFramework/Stipple.jl/issues/235)
+- [Removed Yujin Chang from Project Profile: Lucky Parking](https://github.com/hackforla/website/pull/5901)
+- [Deleted Carlos Olivas from Lucky Parking](https://github.com/hackforla/website/pull/5925)
+- [ER: update Lucky Parking and Citizen Engagement info](https://github.com/hackforla/website/issues/5098)
+- [updated lucky-parking.md ](https://github.com/hackforla/website/pull/5914)
+- [Update Project Profile: Expunge Assist (Add Mireya V. Aviles)](https://github.com/hackforla/website/issues/5919)
+- [Update Project Profile: Lucky Parking (Remove Sijia Pitts)](https://github.com/hackforla/website/pull/5904)
+- [ER: Update Project Profile: Lucky Parking](https://github.com/hackforla/website/issues/4909)
+- [ER: Update Project Profile: Expunge Assist](https://github.com/hackforla/website/issues/5627)
+- [Update Project Profile: Lucky Parking (Remove Yen Phan)](https://github.com/hackforla/website/issues/5807)
+- [Update Project Profile: Lucky Parking (Add Partner: Atwater Village)](https://github.com/hackforla/website/issues/5809)
+- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
+- [Update languages for Access the Data](https://github.com/hackforla/website/issues/5127)
+- [ER: Communities of Practice information updates: UI/UX Community of Practice](https://github.com/hackforla/website/issues/5824)
+- [Add _data/internal/credits/ to "ignorePaths" setting in cspell.json](https://github.com/hackforla/website/issues/5452)
+- [Update Project Profile: Lucky Parking (Remove Sijia Pitts)](https://github.com/hackforla/website/issues/5800)
+- [Update Project Profile: Lucky Parking (Remove Yujin Chang)](https://github.com/hackforla/website/issues/5801)
+- [Update Project Profile: Lucky Parking (Remove Carlos Olivas)](https://github.com/hackforla/website/issues/5804)
+- [Remove '1Password' From Tools Data in website.md](https://github.com/hackforla/website/issues/5679)
+- [Add "github-actions/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5844)
+- [Add "assets/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5842)
+- [Add "_site/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5843)
+- [Add "_sass/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5841)
+- [Add "_includes/svg/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5840)
+- [Add "_includes/design-system-page/examples/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5839)
+- [Add "_data/internal/credits/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5838)
+- [Add new variable github-handle to member Judson Lester in Access the Data](https://github.com/hackforla/website/issues/5880)
+- [Button to allow win submitter to donate](https://github.com/hackforla/website/issues/2108)
+- [Add "surveys/ " to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5847)
+- [Add "redirections/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5846)
+- [Add "google-apps-scripts/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5845)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
-- [Support for vb.net projects](https://github.com/CycloneDX/cdxgen/issues/716)
-
-## [xenova/transformers.js](https://github.com/xenova/transformers.js)
-
-- [[Feature request] streamer callback for text-generation task](https://github.com/xenova/transformers.js/issues/394)
-- [[Feature request] CommonJS compatability](https://github.com/xenova/transformers.js/issues/152)
+- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
 
