@@ -4,76 +4,42 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Maybe tags panel using hardcoded "tags" string instead of tags taxonomy name label](https://github.com/WordPress/gutenberg/issues/22588)
-- [`wp-scripts build` doesn't minify CSS that was `@import`](https://github.com/WordPress/gutenberg/issues/55885)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Fix label of columns inspector panel](https://github.com/WordPress/gutenberg/issues/56461)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Typography: Normalise labels between Font and Font Family](https://github.com/WordPress/gutenberg/issues/56374)
-- [Add RTLCSS to wp-scripts](https://github.com/WordPress/gutenberg/issues/29605)
-- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
-- [List block: Support block gap](https://github.com/WordPress/gutenberg/issues/55702)
-- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
+- [[Feature Request]: Grey option for main and secondary color theme](https://github.com/FreeTubeApp/FreeTube/issues/2600)
+- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
+- [Highlighting comments](https://github.com/FreeTubeApp/FreeTube/issues/783)
 
-## [Nayaker/AlgoListed](https://github.com/Nayaker/AlgoListed)
+## [duckdb/duckdb-web](https://github.com/duckdb/duckdb-web)
 
-- [Create Filters for Core Subjects Tracker Page](https://github.com/Nayaker/AlgoListed/issues/219)
-- [Create Filters for All Internship & Job Opportunities Page ](https://github.com/Nayaker/AlgoListed/issues/217)
+- [Missing functions from docs](https://github.com/duckdb/duckdb-web/issues/1135)
+- [Glossary of terms](https://github.com/duckdb/duckdb-web/issues/1457)
+- [Document Swift API](https://github.com/duckdb/duckdb-web/issues/705)
 
-## [moboluwade/dev-league](https://github.com/moboluwade/dev-league)
+## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 
-- [Footer Section](https://github.com/moboluwade/dev-league/issues/6)
-- [Donations Modal Section](https://github.com/moboluwade/dev-league/issues/7)
-- [Our Articles Section](https://github.com/moboluwade/dev-league/issues/5)
-- [Impact Stories Section](https://github.com/moboluwade/dev-league/issues/4)
-- [Donations Section](https://github.com/moboluwade/dev-league/issues/3)
+- [Create new APi Endoint Tax](https://github.com/idurar/idurar-erp-crm/issues/544)
+- [Learn How to Deploy IDURAR ERP CRM (Create Node.js APi and crud React app in. 1 hour)](https://github.com/idurar/idurar-erp-crm/issues/713)
+- [Create new page for Tax](https://github.com/idurar/idurar-erp-crm/issues/545)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [[RFC]: Add `@stdlib/array/base/first`](https://github.com/stdlib-js/stdlib/issues/857)
-- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[Visual Design] New Recognition Badge: Longevity Legend Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/186)
-- [[Visual Design] New Recognition Badge: API Ace Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/187)
-- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
-- [[Bug]: Settings search is not working for all the entries](https://github.com/MetaMask/metamask-extension/issues/19479)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
-- [Replace deprecated SiteIcon component with AvatarFavicon from the component-library](https://github.com/MetaMask/metamask-extension/issues/20459)
-- [Replace deprecated Dialog component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20463)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Error invoking remote method 'send-http-request': TypeError: Cannot read properties of undefined (reading 'toUpperCase')](https://github.com/usebruno/bruno/issues/1002)
-- [Error accessing response property with 'context' in the name of the key](https://github.com/usebruno/bruno/issues/521)
-- [[Bug] Importing from a Insomnia collection](https://github.com/usebruno/bruno/issues/1024)
-- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
-- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
-- [[Feature Request] User can control UI font size](https://github.com/usebruno/bruno/issues/713)
-- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
-- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
-- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
-- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-- [Import Pre Request Scripts and Tests while importing Postman Collection](https://github.com/usebruno/bruno/issues/144)
-- [[Bug] Collection variables are not being applied to GraphQL request variables](https://github.com/usebruno/bruno/issues/789)
+- [Disable sync correction for SyncPlay by default](https://github.com/jellyfin/jellyfin-web/issues/4972)
+- [Uploading an external subtitle file does not allow '.mks' format](https://github.com/jellyfin/jellyfin-web/issues/4921)
+- [Notification permission prompt interrupts input on first use](https://github.com/jellyfin/jellyfin-web/issues/3243)
 
 ## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
 - [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
 - [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -83,5 +49,17 @@ This list gets updated every day at midnight.
 - [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
 - [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Cloudinary](https://github.com/simple-icons/simple-icons/issues/8327)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Throw an error or output a warning when `--env-file` can not be opened.](https://github.com/nodejs/node/issues/50536)
+- [Entering async IIFE in REPL triggers DCHECK](https://github.com/nodejs/node/issues/38685)
+- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+- [tools: update-icu.sh is broken](https://github.com/nodejs/node/issues/50498)
+- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
 
