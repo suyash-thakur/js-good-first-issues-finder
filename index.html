@@ -2,7 +2,76 @@
 <html>
 <head>
   <title>Good Javascript First Issues</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f8f9fa;
+      color: #495057;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #343a40;
+      color: #ffffff;
+      padding: 10px;
+      text-align: center;
+    }
+
+    h1, h2 {
+      color: #007bff;
+      margin-bottom: 20px;
+      opacity: 0;
+      animation: fadeIn 1s forwards;
+      font-weight: bold;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    a {
+      color: #28a745;
+      text-decoration: none;
+      transition: color 0.3s ease-in-out;
+    }
+
+    a:hover {
+      color: #218838;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #dee2e6;
+      padding-bottom: 10px;
+      opacity: 0;
+      animation: fadeIn 1s forwards;
+      transition: background-color 0.3s ease-in-out;
+    }
+
+    li:hover {
+      background-color: #f8d7da;
+    }
+
+  </style>
 </head>
 <body>
 <h1 id="good-first-issues">Good First Issues</h1>
