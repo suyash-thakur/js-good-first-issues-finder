@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [hackclub/sprig](https://github.com/hackclub/sprig)
+
+- [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
+- [Add clear button to sound editor](https://github.com/hackclub/sprig/issues/905)
+- [sprite layering in 3d sprig is wrong](https://github.com/hackclub/sprig/issues/425)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
@@ -12,45 +18,49 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Throw an error or output a warning when `--env-file` can not be opened.](https://github.com/nodejs/node/issues/50536)
-- [Entering async IIFE in REPL triggers DCHECK](https://github.com/nodejs/node/issues/38685)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-- [tools: update-icu.sh is broken](https://github.com/nodejs/node/issues/50498)
-- [URL: URL.revokeObjectURL accepts no parameters when 1 is required](https://github.com/nodejs/node/issues/50432)
+- [[RFC]: Add `@stdlib/array/base/first`](https://github.com/stdlib-js/stdlib/issues/857)
+- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
 
-## [hackforla/website](https://github.com/hackforla/website/pull/5914)
+## [facebook/react](https://github.com/facebook/react)
 
-- [updated lucky-parking.md ](https://github.com/hackforla/website/pull/5914)
-- [Update Project Profile: Lucky Parking (Remove Sijia Pitts)](https://github.com/hackforla/website/pull/5904)
-- [Remove mention of CfA in pages/join-us.html](https://github.com/hackforla/website/issues/5934)
-- [ER: Update Project Profile: Lucky Parking](https://github.com/hackforla/website/issues/4909)
-- [Update Project Profile: Lucky Parking (Add Partner: Atwater Village)](https://github.com/hackforla/website/issues/5809)
-- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
-- [Remove '1Password' From Tools Data in website.md](https://github.com/hackforla/website/issues/5680)
-- [removed 1Password from tools](https://github.com/hackforla/website/pull/5931)
-- [Added Leader](https://github.com/hackforla/website/pull/5923)
-- [Update Project Profile: Lucky Parking (Remove Diedrich Chavarria)](https://github.com/hackforla/website/issues/5798)
-- [remove mention of CfA - sponsors on about us](https://github.com/hackforla/website/issues/5511)
-- [ER: Update Project Profile: Expunge Assist](https://github.com/hackforla/website/issues/5627)
-- [Remove '1Password' From Tools Data in tech-work-experience.md ](https://github.com/hackforla/website/issues/5681)
-- [ER: Communities of Practice information updates: UI/UX Community of Practice](https://github.com/hackforla/website/issues/5824)
-- [Refactor CSS so `icon-slack.svg` can be reused with various colors](https://github.com/hackforla/website/issues/5819)
-- [Update Project Profile: Expunge Assist (Add Lane Mitchell)](https://github.com/hackforla/website/issues/5757)
-- [ER: update Lucky Parking and Citizen Engagement info](https://github.com/hackforla/website/issues/5098)
-- [Update Project Profile: Lucky Parking (Remove Yen Phan)](https://github.com/hackforla/website/issues/5807)
-- [Update languages for Access the Data](https://github.com/hackforla/website/issues/5127)
-- [Add _data/internal/credits/ to "ignorePaths" setting in cspell.json](https://github.com/hackforla/website/issues/5452)
-- [Update Project Profile: Lucky Parking (Remove Sijia Pitts)](https://github.com/hackforla/website/issues/5800)
-- [Remove '1Password' From Tools Data in website.md](https://github.com/hackforla/website/issues/5679)
-- [Add "github-actions/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5844)
-- [Add "assets/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5842)
-- [Add "_site/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5843)
-- [Add "_sass/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5841)
-- [Add "_includes/svg/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5840)
-- [Add "_includes/design-system-page/examples/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5839)
-- [Add "_data/internal/credits/" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5838)
-- [Add new variable github-handle to member Judson Lester in Access the Data](https://github.com/hackforla/website/issues/5880)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
+
+- [One agency per tenant must have USDR as a parent](https://github.com/usdigitalresponse/usdr-gost/issues/1239)
+- [[Infra] Unable to delete an agency that used to have a user in it.](https://github.com/usdigitalresponse/usdr-gost/issues/1197)
+- [[Bug]: Actually expire non-current S3 objects](https://github.com/usdigitalresponse/usdr-gost/issues/1808)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Disable sync correction for SyncPlay by default](https://github.com/jellyfin/jellyfin-web/issues/4972)
+- [Uploading an external subtitle file does not allow '.mks' format](https://github.com/jellyfin/jellyfin-web/issues/4921)
+- [Notification permission prompt interrupts input on first use](https://github.com/jellyfin/jellyfin-web/issues/3243)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+
+## [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative)
+
+- [Obs Detail screen; opt out of community ID](https://github.com/inaturalist/iNaturalistReactNative/issues/882)
+- [Top-align ObsStatus](https://github.com/inaturalist/iNaturalistReactNative/issues/895)
+- [Obs Edit screen; change title](https://github.com/inaturalist/iNaturalistReactNative/issues/880)
+- [Obs Edit screen; Logged out state](https://github.com/inaturalist/iNaturalistReactNative/issues/877)
+- [Taxon detail screen; Remove some elements](https://github.com/inaturalist/iNaturalistReactNative/issues/874)
+- [Obs Detail screen; observation without media](https://github.com/inaturalist/iNaturalistReactNative/issues/883)
+- [Obs Detail screen; Unknown organism restyle](https://github.com/inaturalist/iNaturalistReactNative/issues/881)
 
