@@ -4,46 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
-
-- [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
-- [Add clear button to sound editor](https://github.com/hackclub/sprig/issues/905)
-- [sprite layering in 3d sprig is wrong](https://github.com/hackclub/sprig/issues/425)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 - [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: Add `@stdlib/array/base/first`](https://github.com/stdlib-js/stdlib/issues/857)
-- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
-
-## [facebook/react](https://github.com/facebook/react)
-
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-
-## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
-
-- [One agency per tenant must have USDR as a parent](https://github.com/usdigitalresponse/usdr-gost/issues/1239)
-- [[Infra] Unable to delete an agency that used to have a user in it.](https://github.com/usdigitalresponse/usdr-gost/issues/1197)
-- [[Bug]: Actually expire non-current S3 objects](https://github.com/usdigitalresponse/usdr-gost/issues/1808)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Disable sync correction for SyncPlay by default](https://github.com/jellyfin/jellyfin-web/issues/4972)
-- [Uploading an external subtitle file does not allow '.mks' format](https://github.com/jellyfin/jellyfin-web/issues/4921)
-- [Notification permission prompt interrupts input on first use](https://github.com/jellyfin/jellyfin-web/issues/3243)
-
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -63,4 +30,38 @@ This list gets updated every day at midnight.
 - [Taxon detail screen; Remove some elements](https://github.com/inaturalist/iNaturalistReactNative/issues/874)
 - [Obs Detail screen; observation without media](https://github.com/inaturalist/iNaturalistReactNative/issues/883)
 - [Obs Detail screen; Unknown organism restyle](https://github.com/inaturalist/iNaturalistReactNative/issues/881)
+
+## [moboluwade/dev-league](https://github.com/moboluwade/dev-league)
+
+- [Our Articles Section](https://github.com/moboluwade/dev-league/issues/5)
+- [Impact Stories Section](https://github.com/moboluwade/dev-league/issues/4)
+- [Footer Section](https://github.com/moboluwade/dev-league/issues/6)
+- [Donations Modal Section](https://github.com/moboluwade/dev-league/issues/7)
+- [Donations Section](https://github.com/moboluwade/dev-league/issues/3)
+
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
+- [Cypress and cypress-multi-reporters Yarn 2 PNP support](https://github.com/cypress-io/cypress/issues/18922)
+- [Passing "cypress open --browser electron" with browser flag alone shouldn't prompt to open browser and open automatically](https://github.com/cypress-io/cypress/issues/22003)
+- [after:screenshot NodeEvent is missing `specName` ](https://github.com/cypress-io/cypress/issues/26598)
+- [Update to use WHATWG URL API](https://github.com/cypress-io/cypress/issues/28369)
+- [spec file last updated "52 years ago"](https://github.com/cypress-io/cypress/issues/22188)
+- [Use fixture as request body shortcut](https://github.com/cypress-io/cypress/issues/3387)
+- [Google Chrome for testing - version not parsed correctly](https://github.com/cypress-io/cypress/issues/28123)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+
+## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+
+- [Fix saas deprecation](https://github.com/CircuitVerse/CircuitVerse/issues/3579)
+- [Improve the UI of hiding options in Render Image Dialog](https://github.com/CircuitVerse/CircuitVerse/issues/4134)
+- [ui: sign-up page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3635)
+- [migrate delete button to view component](https://github.com/CircuitVerse/CircuitVerse/issues/3618)
+- [ui: login page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3634)
+- [Comment input box should be in the top of comments](https://github.com/CircuitVerse/CircuitVerse/issues/3678)
+- [align `view` button with project title in projects list](https://github.com/CircuitVerse/CircuitVerse/issues/4107)
+- [Integrate lookbook for view components](https://github.com/CircuitVerse/CircuitVerse/issues/4167)
 
