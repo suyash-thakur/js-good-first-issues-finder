@@ -4,20 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+- [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
+- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
@@ -25,16 +18,20 @@ This list gets updated every day at midnight.
 - [[RFC]: Add `@stdlib/array/base/first`](https://github.com/stdlib-js/stdlib/issues/857)
 - [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
 
-## [badges/shields](https://github.com/badges/shields)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Rust MSRV Badge](https://github.com/badges/shields/issues/9733)
-
-## [falcao-g/Falbot](https://github.com/falcao-g/Falbot)
-
-- [Leaderboard item autocomplete not working](https://github.com/falcao-g/Falbot/issues/99)
-- [Missing item emoji in item leaderboard](https://github.com/falcao-g/Falbot/issues/97)
-- [Make it so we can reload a single event/command ](https://github.com/falcao-g/Falbot/issues/96)
-- [Let the user that started a competitive command cancel it](https://github.com/falcao-g/Falbot/issues/82)
+- [[Feature Request] Auto updater](https://github.com/usebruno/bruno/issues/103)
+- [Error invoking remote method 'send-http-request': TypeError: Cannot read properties of undefined (reading 'toUpperCase')](https://github.com/usebruno/bruno/issues/1002)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[Feature Request] JUnit test report format](https://github.com/usebruno/bruno/issues/503)
+- [Error accessing response property with 'context' in the name of the key](https://github.com/usebruno/bruno/issues/521)
+- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
+- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
+- [[Feature Request] User can control UI font size](https://github.com/usebruno/bruno/issues/713)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [Feature request / question: file upload helpers](https://github.com/usebruno/bruno/issues/195)
+- [Support Import of curl and openapi files](https://github.com/usebruno/bruno/issues/194)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -42,19 +39,33 @@ This list gets updated every day at midnight.
 - [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
 - [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
 
-## [AhmedRaisi/Tarsho](https://github.com/AhmedRaisi/Tarsho)
+## [dev-launchers/dev-launchers-platform](https://github.com/dev-launchers/dev-launchers-platform)
 
-- [Add form validation and error handling to (Client/Provider)Settingspage.jsx](https://github.com/AhmedRaisi/Tarsho/issues/59)
-- [Configure Linting and Code Formatting Tools](https://github.com/AhmedRaisi/Tarsho/issues/11)
-- [Use Name Instead of Username on Welcome Dashboard](https://github.com/AhmedRaisi/Tarsho/issues/72)
-- [Make Distinguishable Login and Logout Button in Header](https://github.com/AhmedRaisi/Tarsho/issues/52)
+- [[BUG] GDPR consent component: Update logo to the approved official logo version and broken content showing code](https://github.com/dev-launchers/dev-launchers-platform/issues/857)
 
-## [NIAEFEUP/nitsig](https://github.com/NIAEFEUP/nitsig)
+## [unstructuredstudio/zubhub](https://github.com/unstructuredstudio/zubhub)
 
-- [Multiply faculty Page](https://github.com/NIAEFEUP/nitsig/issues/64)
-- [Table sorting with multiple tables](https://github.com/NIAEFEUP/nitsig/issues/153)
-- [Add photo to profile URL](https://github.com/NIAEFEUP/nitsig/issues/100)
-- [Schedule looks wierd when there are too many classes at the same time](https://github.com/NIAEFEUP/nitsig/issues/145)
-- [Option for user to change the colors of schedule](https://github.com/NIAEFEUP/nitsig/issues/75)
-- [Add logos to "Associações de Estudantes" page](https://github.com/NIAEFEUP/nitsig/issues/7)
+- [Move change password feature to a new tab](https://github.com/unstructuredstudio/zubhub/issues/984)
+- [Search autocomplete option's main text shrinks before short text](https://github.com/unstructuredstudio/zubhub/issues/419)
+- [Notification bell doesn't show notifications](https://github.com/unstructuredstudio/zubhub/issues/992)
+- [Improve Notification and Signup Panel's Responsiveness](https://github.com/unstructuredstudio/zubhub/issues/991)
+- [Improve design of creator status on the profile page](https://github.com/unstructuredstudio/zubhub/issues/897)
+
+## [unstructuredstudio/zubhub](https://github.com/unstructuredstudio/zubhub)
+
+- [Move change password feature to a new tab](https://github.com/unstructuredstudio/zubhub/issues/984)
+- [Search autocomplete option's main text shrinks before short text](https://github.com/unstructuredstudio/zubhub/issues/419)
+- [Notification bell doesn't show notifications](https://github.com/unstructuredstudio/zubhub/issues/992)
+- [Improve Notification and Signup Panel's Responsiveness](https://github.com/unstructuredstudio/zubhub/issues/991)
+- [Improve design of creator status on the profile page](https://github.com/unstructuredstudio/zubhub/issues/897)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
+- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
+
+## [classtranscribe/FrontEnd](https://github.com/classtranscribe/FrontEnd)
+
+- [Fix adm-zip build warning original-fs module not found](https://github.com/classtranscribe/FrontEnd/issues/734)
 
