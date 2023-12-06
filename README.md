@@ -4,24 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
 
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
-- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [jsxBracketSameLine is deprecated](https://github.com/google/site-kit-wp/issues/6603)
+- [Remove translation from Google product names and terms](https://github.com/google/site-kit-wp/issues/7650)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -31,34 +17,47 @@ This list gets updated every day at midnight.
 - [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [ProgramEquity/amplify](https://github.com/ProgramEquity/amplify)
 
-- [all yewtube links are showing up as dupes of each other](https://github.com/stackernews/stacker.news/issues/642)
-- [Style calendar for custom date selector consistent with the rest of the UI](https://github.com/stackernews/stacker.news/issues/624)
-- [remindme bot](https://github.com/stackernews/stacker.news/issues/510)
+- [[Architecture] Calendar Notification Action](https://github.com/ProgramEquity/amplify/issues/624)
+- [[Architecture] Are You Awake Yet Action](https://github.com/ProgramEquity/amplify/issues/623)
+- [[Integration Tests] Still verify the presence of key environment variables and fail if absent](https://github.com/ProgramEquity/amplify/issues/483)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
-- [Entering async IIFE in REPL triggers DCHECK](https://github.com/nodejs/node/issues/38685)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
+- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
+- [[RFC]: Add `@stdlib/array/base/first`](https://github.com/stdlib-js/stdlib/issues/857)
+- [[RFC]: Add `@stdlib/string/last`](https://github.com/stdlib-js/stdlib/issues/854)
 
-## [facebook/react](https://github.com/facebook/react)
+## [cioos-siooc/metadata-entry-form](https://github.com/cioos-siooc/metadata-entry-form)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [auto translation flag](https://github.com/cioos-siooc/metadata-entry-form/issues/233)
+- [DOI url bug between ckan and metadata form](https://github.com/cioos-siooc/metadata-entry-form/issues/230)
+- [Greyed out form data is hard to read when reviewing](https://github.com/cioos-siooc/metadata-entry-form/issues/96)
+- [Add a new licence for Environment and Climate Change Canada Data Servers](https://github.com/cioos-siooc/metadata-entry-form/issues/231)
 
-## [metriport/metriport](https://github.com/metriport/metriport)
+## [wikispeedruns/wikipedia-speedruns](https://github.com/wikispeedruns/wikipedia-speedruns)
 
-- [[Docs] - Add guide for how to generate an MR summary ](https://github.com/metriport/metriport/issues/1276)
+- [POTD: Check that prompt is unique before adding it](https://github.com/wikispeedruns/wikipedia-speedruns/issues/542)
+- [Make marathon checkpoints look better](https://github.com/wikispeedruns/wikipedia-speedruns/issues/529)
+- [Add button to swap quick play prompts](https://github.com/wikispeedruns/wikipedia-speedruns/issues/527)
+- [Add a "Featured In" page ](https://github.com/wikispeedruns/wikipedia-speedruns/issues/512)
+- [Add graphs for our marathon runs](https://github.com/wikispeedruns/wikipedia-speedruns/issues/524)
+- [Page for 404 errors](https://github.com/wikispeedruns/wikipedia-speedruns/issues/121)
+- [Add filtering for leaderboard for mobile vs desktop](https://github.com/wikispeedruns/wikipedia-speedruns/issues/516)
+- [Add moving averages to our stats page](https://github.com/wikispeedruns/wikipedia-speedruns/issues/513)
 
-## [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+## [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative)
 
-- [Mark up lists of links as unordered lists](https://github.com/zooniverse/front-end-monorepo/issues/667)
+- [Taxon detail screen; Remove some elements](https://github.com/inaturalist/iNaturalistReactNative/issues/874)
+- [Obs Detail screen; observation without media](https://github.com/inaturalist/iNaturalistReactNative/issues/883)
+- [IconicTaxonChooser should fill entire width](https://github.com/inaturalist/iNaturalistReactNative/issues/933)
+- [Obs Detail screen; opt out of community ID](https://github.com/inaturalist/iNaturalistReactNative/issues/882)
+- [Top-align ObsStatus](https://github.com/inaturalist/iNaturalistReactNative/issues/895)
+- [Obs Edit screen; change title](https://github.com/inaturalist/iNaturalistReactNative/issues/880)
+- [Obs Edit screen; Logged out state](https://github.com/inaturalist/iNaturalistReactNative/issues/877)
 
-## [ton-community/ton-docs](https://github.com/ton-community/ton-docs)
+## [Panda-Wallet/panda-wallet](https://github.com/Panda-Wallet/panda-wallet)
 
-- [Make a new article about (de)serialization of strings for TON with examples.](https://github.com/ton-community/ton-docs/issues/78)
-- [Add Hipo smart contracts to Smart Contracts Examples](https://github.com/ton-community/ton-docs/issues/410)
-- [Add definition for ADNL in TON Glossary](https://github.com/ton-community/ton-docs/issues/409)
+- [Should be able to only import pay WIF or ord WIF](https://github.com/Panda-Wallet/panda-wallet/issues/156)
 
