@@ -6,17 +6,12 @@ This list gets updated every day at midnight.
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 - [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-
-## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
-
-- [Remove BrowserStack badge ](https://github.com/ember-bootstrap/ember-bootstrap/issues/2019)
-- [BsNav LinkTo @current-when support](https://github.com/ember-bootstrap/ember-bootstrap/issues/1906)
-- [Ease usage of buttons with dropdown](https://github.com/ember-bootstrap/ember-bootstrap/issues/1873)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -24,48 +19,31 @@ This list gets updated every day at midnight.
 - [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
 - [Version number in "About Brave" should be orange to indicate that it is a link](https://github.com/brave/brave-browser/issues/26040)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
-- [[Visual Design] New Recognition Badge: Longevity Legend Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/186)
-- [[Visual Design] New Recognition Badge: API Ace Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/187)
-- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
+- [[Docs] - Add guide for how to generate an MR summary ](https://github.com/metriport/metriport/issues/1276)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [hackforla/website](https://github.com/hackforla/website)
 
-- [[Meta] Standardize exporters docs ](https://github.com/open-telemetry/opentelemetry.io/issues/3559)
-
-## [InternetHealthReport/ihr-website](https://github.com/InternetHealthReport/ihr-website)
-
-- [Enhancement/NavigationDuplicated: Avoided redundant navigation to current location](https://github.com/InternetHealthReport/ihr-website/issues/645)
-
-## [web-contribution-DWOC/Team-Builder](https://github.com/web-contribution-DWOC/Team-Builder)
-
-- [improve the ui of chat page](https://github.com/web-contribution-DWOC/Team-Builder/issues/4)
-- [recolour idea info page](https://github.com/web-contribution-DWOC/Team-Builder/issues/31)
-- [recolour the dashboard page](https://github.com/web-contribution-DWOC/Team-Builder/issues/30)
-- [add log out button on dashboard](https://github.com/web-contribution-DWOC/Team-Builder/issues/1)
-- [Add radio options of positions in registration page](https://github.com/web-contribution-DWOC/Team-Builder/issues/2)
-- [Improve the accept and reject buttons in requests page](https://github.com/web-contribution-DWOC/Team-Builder/issues/20)
-- [imrpove the ui of add idea page](https://github.com/web-contribution-DWOC/Team-Builder/issues/3)
-- [Make a new demo video](https://github.com/web-contribution-DWOC/Team-Builder/issues/5)
-- [Make sign in sign up page responsive](https://github.com/web-contribution-DWOC/Team-Builder/issues/27)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
-- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
-- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
-- [Font Library: remove has_font_mime_type function](https://github.com/WordPress/gutenberg/issues/54875)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Maybe tags panel using hardcoded "tags" string instead of tags taxonomy name label](https://github.com/WordPress/gutenberg/issues/22588)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Typography: Normalise labels between Font and Font Family](https://github.com/WordPress/gutenberg/issues/56374)
+- [Update cspell.json with false positive term 'VRMS'](https://github.com/hackforla/website/issues/5687)
+- [Refactored CSS so icon-slack.svg can use various colors](https://github.com/hackforla/website/pull/6003)
+- [Refactor CSS so `icon-slack.svg` can be reused with various colors](https://github.com/hackforla/website/issues/5819)
+- [Create issues to resolve CodeQL alerts 1- 24 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5129)
+- [replace Code for America link in comment in _config.yml](https://github.com/hackforla/website/issues/5965)
+- [ER: Update Project Profile: Expunge Assist](https://github.com/hackforla/website/issues/5627)
+- [Add _data/internal/credits/ to "ignorePaths" setting in cspell.json](https://github.com/hackforla/website/issues/5452)
+- [Update Project Profile: Lucky Parking (Add Partner: Atwater Village)](https://github.com/hackforla/website/issues/5809)
+- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
+- [Remove mention of CfA in pages/join-us.html](https://github.com/hackforla/website/issues/5934)
+- [Refactor HTML to resolve linter error: _guidepages/2FA.html - line 46](https://github.com/hackforla/website/issues/5711)
+- [update wiki url in brigade-organizers-playbook project file](https://github.com/hackforla/website/issues/5972)
+- [update "/codeforamerica" redirect to point to Hfla donate page](https://github.com/hackforla/website/issues/5968)
+- [Remove Code for America from About Us intro](https://github.com/hackforla/website/issues/5959)
+- [Remove Code for America from Privacy Policy intro](https://github.com/hackforla/website/issues/5958)
+- [ER: Update Project Profile: Lucky Parking](https://github.com/hackforla/website/issues/4909)
+- [Add new variable github-handle to member Aparna Gopal in Access the Data](https://github.com/hackforla/website/issues/5881)
+- [Add "_config.yml" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5850)
+- [Update languages for Access the Data](https://github.com/hackforla/website/issues/5127)
+- [Add ESlint VS Code installation instructions](https://github.com/hackforla/website/issues/4264)
+- [ER: update Lucky Parking and Citizen Engagement info](https://github.com/hackforla/website/issues/5098)
 
