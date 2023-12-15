@@ -4,17 +4,61 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Panda-Wallet/panda-wallet](https://github.com/Panda-Wallet/panda-wallet)
-
-- [Should be able to only import pay WIF or ord WIF](https://github.com/Panda-Wallet/panda-wallet/issues/156)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-- [Replace the Muli font with Poppins (missing places)](https://github.com/brave/brave-browser/issues/27081)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+
+## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
+- [Create new Component Mulit Step Select Async](https://github.com/idurar/idurar-erp-crm/issues/94)
+- [Learn How to Deploy IDURAR ERP CRM (Create Node.js APi and crud React app in. 1 hour)](https://github.com/idurar/idurar-erp-crm/issues/713)
+- [Create new APi Endoint Tax](https://github.com/idurar/idurar-erp-crm/issues/544)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [[Discord] Service URL should only be included if defined](https://github.com/louislam/uptime-kuma/issues/3327)
+- [[Ntfy] Action link should only be included if url is defined](https://github.com/louislam/uptime-kuma/issues/3274)
+- [Matrix notifications end-to-end encryption implementation ](https://github.com/louislam/uptime-kuma/issues/2195)
+- [[Ping] fails if you choose a ping paket size below 56 bytes](https://github.com/louislam/uptime-kuma/issues/3574)
+- [Lower heartbeat interval when monitor is `DOWN`?](https://github.com/louislam/uptime-kuma/issues/4025)
+- [UI: Partially covered bottom nav if installed as pwa on ios (IPhone X and newer) ](https://github.com/louislam/uptime-kuma/issues/1588)
+- ["Show Clickable Link" checkbox does not update until entire dashboard is saved](https://github.com/louislam/uptime-kuma/issues/3794)
+- [name column in the dashboad being squashed in some aspect ratios](https://github.com/louislam/uptime-kuma/issues/3293)
+- [The `nav-link`s `Status page` and `Dashboard` don't have `:hover`-styling](https://github.com/louislam/uptime-kuma/issues/1753)
+- [Hide monitor in maintenance on status page if the monitor is not list in the status page](https://github.com/louislam/uptime-kuma/issues/4173)
+- [Route `/list` does not work with responsive UI](https://github.com/louislam/uptime-kuma/issues/359)
+- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+
+## [opencodeiiita/Scoop-Frontend](https://github.com/opencodeiiita/Scoop-Frontend)
+
+- [Pilot](https://github.com/opencodeiiita/Scoop-Frontend/issues/1)
+- [Category Cards' carousel](https://github.com/opencodeiiita/Scoop-Frontend/issues/3)
+- [Contributors: ScoopWants Your Awesome Details](https://github.com/opencodeiiita/Scoop-Frontend/issues/6)
+- [Cards for header](https://github.com/opencodeiiita/Scoop-Frontend/issues/4)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
 - [Typography: Normalise labels between Font and Font Family](https://github.com/WordPress/gutenberg/issues/56374)
 - [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
 - [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
@@ -26,72 +70,8 @@ This list gets updated every day at midnight.
 - [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
 - [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
 
-## [inaturalist/iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative)
+## [yearn/yearn-devdocs](https://github.com/yearn/yearn-devdocs)
 
-- [Taxon detail screen; Remove some elements](https://github.com/inaturalist/iNaturalistReactNative/issues/874)
-- [IconicTaxonChooser should fill entire width](https://github.com/inaturalist/iNaturalistReactNative/issues/933)
-- [Obs Detail screen; opt out of community ID](https://github.com/inaturalist/iNaturalistReactNative/issues/882)
-- [Top-align ObsStatus](https://github.com/inaturalist/iNaturalistReactNative/issues/895)
-- [Obs Edit screen; change title](https://github.com/inaturalist/iNaturalistReactNative/issues/880)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [HMR is not working with pug extends ](https://github.com/parcel-bundler/parcel/issues/7892)
-- [bun install replaces package.json with only process dependency](https://github.com/parcel-bundler/parcel/issues/9302)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
-
-## [code-charity/youtube](https://github.com/code-charity/youtube)
-
-- [Audit please /rewriting our index.html. (Loading slow/incomplete). Etc.](https://github.com/code-charity/youtube/issues/1803)
-- [Change how custom theme affects the scroll bar](https://github.com/code-charity/youtube/issues/1883)
-- [Hide scroll bar feature doesn't work in Firefox](https://github.com/code-charity/youtube/issues/1882)
-- [Vertical displays Shorts comment's button is hidden. Move close button to the left.](https://github.com/code-charity/youtube/issues/1874)
-- [Add "Remove from playlist" button on hover on playlists](https://github.com/code-charity/youtube/issues/1854)
-- [1. Shortcuts need adoptive developer  AND  2. Shortcuts vs. Smart Keyboard Event Analysis! : if(1-3 chars){might be a shortcut?} if(2-10chars){a Search? a part of the transcript or top comments?}](https://github.com/code-charity/youtube/issues/1565)
-- [The autoplay feature(not up next) on a new tab isn't working.](https://github.com/code-charity/youtube/issues/1851)
-- [<video> Player buttons to be added</video>](https://github.com/code-charity/youtube/issues/1445)
-- [Feature Request: Option to show certain buttons under video player.](https://github.com/code-charity/youtube/issues/1878)
-- [Automatically click "Skip Ad"](https://github.com/code-charity/youtube/issues/1872)
-- [adblock channel whitelist](https://github.com/code-charity/youtube/issues/697)
-- [Ad-skipper  + Fix attempt](https://github.com/code-charity/youtube/issues/1762)
-- [Screenshot icon" or "Loop icon" sometimes show again](https://github.com/code-charity/youtube/issues/1859)
-- [Option: Allow volume above 100%](https://github.com/code-charity/youtube/issues/1821)
-- ["Pause while I watch a 2nd video" bug](https://github.com/code-charity/youtube/issues/1867)
-- [Playback speed not working anymore](https://github.com/code-charity/youtube/issues/1856)
-- [Useless black bars above and below the video with 'Max. width within the page' option.](https://github.com/code-charity/youtube/issues/1868)
-- [content categorization /filtering by keywords (regex)](https://github.com/code-charity/youtube/issues/1760)
-- ['Reverse Playlist' isn't 'saved'](https://github.com/code-charity/youtube/issues/1836)
-- [Speed change buttons](https://github.com/code-charity/youtube/issues/1011)
-- [Minor bug: Thumbnail frame when the player size is anything but "Don't change"](https://github.com/code-charity/youtube/issues/1864)
-- [Add chromecast support (Cast to TV)](https://github.com/code-charity/youtube/issues/1860)
-- [Blocked video titles not visible in extension's UI when using dark theme](https://github.com/code-charity/youtube/issues/1866)
-- [Add "Remove Shorts from subscription page" option](https://github.com/code-charity/youtube/issues/1853)
-- [Return Youtube Dislike](https://github.com/code-charity/youtube/issues/1862)
-- [Possible to change osd volume style on player](https://github.com/code-charity/youtube/issues/1861)
-- [Set HQ video preview thumbnail instead of a video frame when autoplay is DISABLED](https://github.com/code-charity/youtube/issues/797)
-- [Add an option to move/duplicate Settings buttons to control bar for quick access](https://github.com/code-charity/youtube/issues/1855)
-- [add an option to auto-close PIP when the source tab active/in focus](https://github.com/code-charity/youtube/issues/1850)
-- [Youtube Home Page: bring back "add to Watch Later" button in video thumbnails](https://github.com/code-charity/youtube/issues/1201)
+- [add seafood guide(s)](https://github.com/yearn/yearn-devdocs/issues/392)
+- [add kong](https://github.com/yearn/yearn-devdocs/issues/374)
 
