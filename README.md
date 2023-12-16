@@ -4,60 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [asyncapi/website](https://github.com/asyncapi/website)
 
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Create a research page to have participants sign up for the research study](https://github.com/asyncapi/website/issues/1991)
+- [Make group dropdown for each section in Navbar](https://github.com/asyncapi/website/issues/1625)
+- [[📑 Docs]: suggestions on 'create-asyncapi-document.md' file](https://github.com/asyncapi/website/issues/1945)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [ProgramEquity/amplify](https://github.com/ProgramEquity/amplify)
 
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+- [[Function] Add Validations to Letter Workflow](https://github.com/ProgramEquity/amplify/issues/491)
+- [[Documentation] Stripe Checkout](https://github.com/ProgramEquity/amplify/issues/609)
+- [ Are You Awake Yet Action](https://github.com/ProgramEquity/amplify/issues/623)
+- [Spellcheck Action](https://github.com/ProgramEquity/amplify/issues/626)
+- [Calendar Notification Action](https://github.com/ProgramEquity/amplify/issues/624)
+- [Update integration tests to not make a real API calls](https://github.com/ProgramEquity/amplify/issues/296)
 
-## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+## [LavaMoat/LavaMoat](https://github.com/LavaMoat/LavaMoat)
 
-- [Create new Component Mulit Step Select Async](https://github.com/idurar/idurar-erp-crm/issues/94)
-- [Learn How to Deploy IDURAR ERP CRM (Create Node.js APi and crud React app in. 1 hour)](https://github.com/idurar/idurar-erp-crm/issues/713)
-- [Create new APi Endoint Tax](https://github.com/idurar/idurar-erp-crm/issues/544)
+- [preinstall-always-fail provides instructions for yarn only](https://github.com/LavaMoat/LavaMoat/issues/655)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [[Discord] Service URL should only be included if defined](https://github.com/louislam/uptime-kuma/issues/3327)
-- [[Ntfy] Action link should only be included if url is defined](https://github.com/louislam/uptime-kuma/issues/3274)
-- [Matrix notifications end-to-end encryption implementation ](https://github.com/louislam/uptime-kuma/issues/2195)
-- [[Ping] fails if you choose a ping paket size below 56 bytes](https://github.com/louislam/uptime-kuma/issues/3574)
-- [Lower heartbeat interval when monitor is `DOWN`?](https://github.com/louislam/uptime-kuma/issues/4025)
-- [UI: Partially covered bottom nav if installed as pwa on ios (IPhone X and newer) ](https://github.com/louislam/uptime-kuma/issues/1588)
-- ["Show Clickable Link" checkbox does not update until entire dashboard is saved](https://github.com/louislam/uptime-kuma/issues/3794)
-- [name column in the dashboad being squashed in some aspect ratios](https://github.com/louislam/uptime-kuma/issues/3293)
-- [The `nav-link`s `Status page` and `Dashboard` don't have `:hover`-styling](https://github.com/louislam/uptime-kuma/issues/1753)
-- [Hide monitor in maintenance on status page if the monitor is not list in the status page](https://github.com/louislam/uptime-kuma/issues/4173)
-- [Route `/list` does not work with responsive UI](https://github.com/louislam/uptime-kuma/issues/359)
-- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
-
-## [opencodeiiita/Scoop-Frontend](https://github.com/opencodeiiita/Scoop-Frontend)
-
-- [Pilot](https://github.com/opencodeiiita/Scoop-Frontend/issues/1)
-- [Category Cards' carousel](https://github.com/opencodeiiita/Scoop-Frontend/issues/3)
-- [Contributors: ScoopWants Your Awesome Details](https://github.com/opencodeiiita/Scoop-Frontend/issues/6)
-- [Cards for header](https://github.com/opencodeiiita/Scoop-Frontend/issues/4)
-
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
+- [Document the new sub command "components"](https://github.com/open-telemetry/opentelemetry.io/issues/2072)
+- [Document how to change the span status](https://github.com/open-telemetry/opentelemetry.io/issues/2557)
+- [[Meta] Standardize manual instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
+- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
+- [Add Metrics section to .NET Manual Instrumentation documentation](https://github.com/open-telemetry/opentelemetry.io/issues/1556)
+- [[Meta] Standardize exporters docs ](https://github.com/open-telemetry/opentelemetry.io/issues/3559)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Clean up unneeded style overrides for `Notice` component](https://github.com/WordPress/gutenberg/issues/55279)
 - [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
 - [Typography: Normalise labels between Font and Font Family](https://github.com/WordPress/gutenberg/issues/56374)
 - [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
@@ -70,8 +47,13 @@ This list gets updated every day at midnight.
 - [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
 - [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
 
-## [yearn/yearn-devdocs](https://github.com/yearn/yearn-devdocs)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [add seafood guide(s)](https://github.com/yearn/yearn-devdocs/issues/392)
-- [add kong](https://github.com/yearn/yearn-devdocs/issues/374)
+- [HMR is not working with pug extends ](https://github.com/parcel-bundler/parcel/issues/7892)
+- [bun install replaces package.json with only process dependency](https://github.com/parcel-bundler/parcel/issues/9302)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Run execute_shell in same environment as execute_python_code](https://github.com/Significant-Gravitas/AutoGPT/issues/1299)
 
