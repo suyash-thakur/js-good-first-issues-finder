@@ -4,41 +4,40 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [eclipse-ee4j/cargotracker](https://github.com/eclipse-ee4j/cargotracker)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [Add JMeter stress tests](https://github.com/eclipse-ee4j/cargotracker/issues/17)
+- [Why can I not name a game if I'm not logged in?](https://github.com/hackclub/sprig/issues/937)
+- [Safari share links aren't copied to clipboard](https://github.com/hackclub/sprig/issues/15)
+- [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
+
+## [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile)
+
+- [Rename "Night mode" to "Dark theme"](https://github.com/zulip/zulip-mobile/issues/5169)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [life-efficient/Conversationally](https://github.com/life-efficient/Conversationally)
+## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
 
-- [Add "See examples" on customisation page which opens up examples page](https://github.com/life-efficient/Conversationally/issues/70)
-- [5 examples of exemplary (cool/fun/useful) customisations](https://github.com/life-efficient/Conversationally/issues/64)
-- [Visualise audio](https://github.com/life-efficient/Conversationally/issues/75)
-- [Testimonials for landing page](https://github.com/life-efficient/Conversationally/issues/77)
-- [FAQ](https://github.com/life-efficient/Conversationally/issues/78)
-- [CTA (call to action) section component](https://github.com/life-efficient/Conversationally/issues/79)
-- ["Get started with examples" page](https://github.com/life-efficient/Conversationally/issues/63)
-- [Implement default max 30 second voice recordings to prevent huge voice transcription bills (probably fine but worried me the other day)](https://github.com/life-efficient/Conversationally/issues/54)
-- [Add option to choose between using OpenAI TTS vs ElevenLabs for speech generation](https://github.com/life-efficient/Conversationally/issues/28)
-- [Replace voice generation model with open source TTS model](https://github.com/life-efficient/Conversationally/issues/8)
-- [Replace Python prints with logs using Python's logging library](https://github.com/life-efficient/Conversationally/issues/20)
+- [all yewtube links are showing up as dupes of each other](https://github.com/stackernews/stacker.news/issues/642)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [WildMeOrg/codex-frontend](https://github.com/WildMeOrg/codex-frontend)
 
-- [Auto Save Changes to request](https://github.com/usebruno/bruno/issues/142)
-- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
-- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
-- [[Feature Request] JUnit test report format](https://github.com/usebruno/bruno/issues/503)
-- [[bug] res.reponseTime fails to be asserted in runner](https://github.com/usebruno/bruno/issues/1145)
-- [[Feature Request] Auto updater](https://github.com/usebruno/bruno/issues/103)
-- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
-- [Error accessing response property with 'context' in the name of the key](https://github.com/usebruno/bruno/issues/521)
-- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
-- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
-- [[Feature Request] User can control UI font size](https://github.com/usebruno/bruno/issues/713)
+- [open sightings in new tab from individual's sighting table](https://github.com/WildMeOrg/codex-frontend/issues/618)
+- [bulk import logs from header](https://github.com/WildMeOrg/codex-frontend/issues/611)
+
+## [codeforpdx/PASS](https://github.com/codeforpdx/PASS)
+
+- [[Enhancement] - Footer adjustments](https://github.com/codeforpdx/PASS/issues/559)
+- [Update PASS color scheme](https://github.com/codeforpdx/PASS/issues/329)
+- [Following Pod creation, send user to HMIS profile page](https://github.com/codeforpdx/PASS/issues/441)
+
+## [lionel1014/grupo_1_batitienda](https://github.com/lionel1014/grupo_1_batitienda)
+
+- [Diagrama de Base de Datos y Script](https://github.com/lionel1014/grupo_1_batitienda/issues/77)
+- [Retrospective Sprint 4](https://github.com/lionel1014/grupo_1_batitienda/issues/52)
+- [Refactorización del CSS y las clases](https://github.com/lionel1014/grupo_1_batitienda/issues/41)
 
 ## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
@@ -46,6 +45,7 @@ This list gets updated every day at midnight.
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
@@ -53,12 +53,18 @@ This list gets updated every day at midnight.
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 - [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [Bugs5382/node-hl7-client](https://github.com/Bugs5382/node-hl7-client)
 
-- [invalid options of test() should throw error](https://github.com/nodejs/node/issues/51161)
-- [--preserve-symlinks-main doesn't work](https://github.com/nodejs/node/issues/41000)
-- [TestStream is a Node stream but docs link to web ReadableStream](https://github.com/nodejs/node/issues/51174)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
-- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+- [docs: ci/cd typedoc results to github pages](https://github.com/Bugs5382/node-hl7-client/issues/37)
+- [docs: update documentation on files so it's more organized](https://github.com/Bugs5382/node-hl7-client/issues/13)
+- [fix: Unable to do addSegment and then do ('PV1.1', <value>) --> Invalid Index](https://github.com/Bugs5382/node-hl7-client/issues/33)
+- [feat: saved messages](https://github.com/Bugs5382/node-hl7-client/issues/21)
+- [unit: 3 unit tests failing](https://github.com/Bugs5382/node-hl7-client/issues/14)
+
+## [enricoros/big-AGI](https://github.com/enricoros/big-AGI)
+
+- [Replicate Personas](https://github.com/enricoros/big-AGI/issues/282)
+- [Auto Questions](https://github.com/enricoros/big-AGI/issues/228)
+- [Reason+Act: option to keep the panel open](https://github.com/enricoros/big-AGI/issues/185)
+- [Add Confetti](https://github.com/enricoros/big-AGI/issues/209)
 
