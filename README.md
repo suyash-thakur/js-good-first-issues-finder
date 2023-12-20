@@ -4,44 +4,44 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
 
-- [Why can I not name a game if I'm not logged in?](https://github.com/hackclub/sprig/issues/937)
-- [Safari share links aren't copied to clipboard](https://github.com/hackclub/sprig/issues/15)
-- [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
+- [[Infra] Unable to delete an agency that used to have a user in it.](https://github.com/usdigitalresponse/usdr-gost/issues/1197)
 
-## [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Rename "Night mode" to "Dark theme"](https://github.com/zulip/zulip-mobile/issues/5169)
+- [Marketplace: Section promo max width fix](https://github.com/Automattic/wp-calypso/issues/68255)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [all yewtube links are showing up as dupes of each other](https://github.com/stackernews/stacker.news/issues/642)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+- [[UI] Fix build warnings for Meshery UI](https://github.com/meshery/meshery/issues/9590)
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[UI] Dashboard card missing title and background ](https://github.com/meshery/meshery/issues/9195)
+- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [The MeshMap hovering effect needs improvement.](https://github.com/meshery/meshery/issues/9142)
+- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
-## [WildMeOrg/codex-frontend](https://github.com/WildMeOrg/codex-frontend)
+## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
 
-- [open sightings in new tab from individual's sighting table](https://github.com/WildMeOrg/codex-frontend/issues/618)
-- [bulk import logs from header](https://github.com/WildMeOrg/codex-frontend/issues/611)
+- [Remove BrowserStack badge ](https://github.com/ember-bootstrap/ember-bootstrap/issues/2019)
+- [BsNav LinkTo @current-when support](https://github.com/ember-bootstrap/ember-bootstrap/issues/1906)
+- [Ease usage of buttons with dropdown](https://github.com/ember-bootstrap/ember-bootstrap/issues/1873)
 
-## [codeforpdx/PASS](https://github.com/codeforpdx/PASS)
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
 
-- [[Enhancement] - Footer adjustments](https://github.com/codeforpdx/PASS/issues/559)
-- [Update PASS color scheme](https://github.com/codeforpdx/PASS/issues/329)
-- [Following Pod creation, send user to HMIS profile page](https://github.com/codeforpdx/PASS/issues/441)
-
-## [lionel1014/grupo_1_batitienda](https://github.com/lionel1014/grupo_1_batitienda)
-
-- [Diagrama de Base de Datos y Script](https://github.com/lionel1014/grupo_1_batitienda/issues/77)
-- [Retrospective Sprint 4](https://github.com/lionel1014/grupo_1_batitienda/issues/52)
-- [Refactorización del CSS y las clases](https://github.com/lionel1014/grupo_1_batitienda/issues/41)
-
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [[Feature request] Return offset mapping using tokenizer](https://github.com/xenova/transformers.js/issues/425)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -51,20 +51,18 @@ This list gets updated every day at midnight.
 - [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-- [style: formatting in new Next.js apps deviate from `prettier` defaults](https://github.com/vercel/next.js/issues/54402)
 
-## [Bugs5382/node-hl7-client](https://github.com/Bugs5382/node-hl7-client)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [docs: ci/cd typedoc results to github pages](https://github.com/Bugs5382/node-hl7-client/issues/37)
-- [docs: update documentation on files so it's more organized](https://github.com/Bugs5382/node-hl7-client/issues/13)
-- [fix: Unable to do addSegment and then do ('PV1.1', <value>) --> Invalid Index](https://github.com/Bugs5382/node-hl7-client/issues/33)
-- [feat: saved messages](https://github.com/Bugs5382/node-hl7-client/issues/21)
-- [unit: 3 unit tests failing](https://github.com/Bugs5382/node-hl7-client/issues/14)
-
-## [enricoros/big-AGI](https://github.com/enricoros/big-AGI)
-
-- [Replicate Personas](https://github.com/enricoros/big-AGI/issues/282)
-- [Auto Questions](https://github.com/enricoros/big-AGI/issues/228)
-- [Reason+Act: option to keep the panel open](https://github.com/enricoros/big-AGI/issues/185)
-- [Add Confetti](https://github.com/enricoros/big-AGI/issues/209)
+- [[ACTION] - YNAB Account Balances](https://github.com/PipedreamHQ/pipedream/issues/9340)
+- [[TRIGGER] GoToMeeting New Triggers](https://github.com/PipedreamHQ/pipedream/issues/9062)
+- [[OPTIONAL FIELDS] Aftership Create Tracking](https://github.com/PipedreamHQ/pipedream/issues/9334)
+- [Slack channel created (Instant)](https://github.com/PipedreamHQ/pipedream/issues/9311)
+- [[TRIGGERS] YouTube](https://github.com/PipedreamHQ/pipedream/issues/3487)
+- [[ACTION] File Store](https://github.com/PipedreamHQ/pipedream/issues/9154)
+- [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
+- [[ACTION] Query BigQuery Database](https://github.com/PipedreamHQ/pipedream/issues/9103)
+- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
+- [read email [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/9093)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
 
