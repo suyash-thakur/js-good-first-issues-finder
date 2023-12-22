@@ -4,23 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Improve the Global Styles upsell modal](https://github.com/Automattic/wp-calypso/issues/85541)
-- [Theme showcase: Show theme type in the details page](https://github.com/Automattic/wp-calypso/issues/83149)
-- [The tooltip for "unlocking global styles" doesn't link to the plan needed to buy it](https://github.com/Automattic/wp-calypso/issues/85537)
-- [Marketplace: Section promo max width fix](https://github.com/Automattic/wp-calypso/issues/68255)
-- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
+- [[Visual Design] Create profile/readme.md to represent the Meshery project collective](https://github.com/meshery/meshery/issues/8680)
 - [[Docs] single column responsive view is too narrow](https://github.com/meshery/meshery/issues/9686)
 - [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
@@ -36,6 +27,7 @@ This list gets updated every day at midnight.
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
@@ -43,22 +35,40 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
-## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
+## [Meteor-Community-Packages/meteor-roles](https://github.com/Meteor-Community-Packages/meteor-roles)
 
-- [[Infra] Unable to delete an agency that used to have a user in it.](https://github.com/usdigitalresponse/usdr-gost/issues/1197)
+- [Problem with Meteor.roleAssignment and typescript](https://github.com/Meteor-Community-Packages/meteor-roles/issues/338)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Update ModalHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20159)
-- [Migrate components to TS: FormTextField](https://github.com/MetaMask/metamask-extension/issues/19120)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [[Bug]: Watch All NFTs does not display asset list sorted by id](https://github.com/MetaMask/metamask-extension/issues/19875)
-- [Replace deprecated Menu component with Popover from the component-library](https://github.com/MetaMask/metamask-extension/issues/20498)
+- [`assert.ok()` throwing `AssertionError` instead of provided `Error` object](https://github.com/nodejs/node/issues/50780)
+- [--preserve-symlinks-main doesn't work](https://github.com/nodejs/node/issues/41000)
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
 
-## [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)
+## [unstructuredstudio/zubhub](https://github.com/unstructuredstudio/zubhub)
 
-- [Mark up lists of links as unordered lists](https://github.com/zooniverse/front-end-monorepo/issues/667)
+- [Search is broken for non-logged in users](https://github.com/unstructuredstudio/zubhub/issues/802)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [It should be possible to expose metrics on the same port as other routes](https://github.com/platformatic/platformatic/issues/1857)
+- [OpenAPI `security` configuration is not flowing through `composer`](https://github.com/platformatic/platformatic/issues/1495)
+
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
+
+- [UI: Full task definition page doesn't have margins](https://github.com/taskcluster/taskcluster/issues/6599)
+- [taskcluster d2g subcommand to support yaml](https://github.com/taskcluster/taskcluster/issues/6731)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Improve the Global Styles upsell modal](https://github.com/Automattic/wp-calypso/issues/85541)
+- [Theme showcase: Show theme type in the details page](https://github.com/Automattic/wp-calypso/issues/83149)
+- [The tooltip for "unlocking global styles" doesn't link to the plan needed to buy it](https://github.com/Automattic/wp-calypso/issues/85537)
+- [Marketplace: Section promo max width fix](https://github.com/Automattic/wp-calypso/issues/68255)
+- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
 
