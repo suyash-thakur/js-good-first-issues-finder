@@ -6,6 +6,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Add description and link to each Meshery schema](https://github.com/meshery/meshery/issues/9706)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Visual Design] Create profile/readme.md to represent the Meshery project collective](https://github.com/meshery/meshery/issues/8680)
@@ -20,18 +21,23 @@ This list gets updated every day at midnight.
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [The MeshMap hovering effect needs improvement.](https://github.com/meshery/meshery/issues/9142)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [classtranscribe/FrontEnd](https://github.com/classtranscribe/FrontEnd)
 
-- [[Visual Design] New Recognition Badge: Security Sentinel Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/188)
-- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
-- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
+- [Fix adm-zip build warning original-fs module not found](https://github.com/classtranscribe/FrontEnd/issues/734)
 
-## [enricoros/big-AGI](https://github.com/enricoros/big-AGI)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Pasting from Excel pastes Image](https://github.com/enricoros/big-AGI/issues/286)
-- [Auto Questions](https://github.com/enricoros/big-AGI/issues/228)
-- [Reason+Act: option to keep the panel open](https://github.com/enricoros/big-AGI/issues/185)
-- [Add Confetti](https://github.com/enricoros/big-AGI/issues/209)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
+
+## [wnbrb/wnb-rb-site](https://github.com/wnbrb/wnb-rb-site)
+
+- [Add links to Speaker model / Meetup page](https://github.com/wnbrb/wnb-rb-site/issues/124)
 
 ## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
@@ -43,36 +49,4 @@ This list gets updated every day at midnight.
 - [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
 - [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
 - [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] [PODIO] Upload File and Attach File](https://github.com/PipedreamHQ/pipedream/issues/9450)
-- [[ACTION] PowerBI - Update DataSet Table](https://github.com/PipedreamHQ/pipedream/issues/9424)
-- [[ACTION] List tasks in Microsoft To-Do list](https://github.com/PipedreamHQ/pipedream/issues/9425)
-- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
-- [[Actions] Eversign](https://github.com/PipedreamHQ/pipedream/issues/4229)
-- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
-- [[ACTION] - YNAB Account Balances](https://github.com/PipedreamHQ/pipedream/issues/9340)
-- [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
-- [[TRIGGER] When Discord Forum Thread is created](https://github.com/PipedreamHQ/pipedream/issues/4507)
-- [Trigger: Slack channel created (Instant)](https://github.com/PipedreamHQ/pipedream/issues/9311)
-- [[TRIGGER] GoToMeeting New Triggers](https://github.com/PipedreamHQ/pipedream/issues/9062)
-- [[TRIGGERS] YouTube](https://github.com/PipedreamHQ/pipedream/issues/3487)
-- [[ACTION] File Store](https://github.com/PipedreamHQ/pipedream/issues/9154)
-- [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
-- [[ACTION] Query BigQuery Database](https://github.com/PipedreamHQ/pipedream/issues/9103)
-- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
-- [read email [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/9093)
-
-## [facebook/stylex](https://github.com/facebook/stylex)
-
-- [Rspack plugin support](https://github.com/facebook/stylex/issues/172)
-- [[Webpack plugin] CSS file is not getting attached to html template.](https://github.com/facebook/stylex/issues/132)
-- [Better errors to say that Dynamic Style functions don't support default values](https://github.com/facebook/stylex/issues/198)
-- [[Good First Issue] Handle absolute paths for alternate inject source](https://github.com/facebook/stylex/issues/211)
-- [`outlineOffset` is not recognized by eslint-plugin, but cannot be set otherwise](https://github.com/facebook/stylex/issues/135)
-- [Sourcemaps broken after @stylex/webpack-plugin](https://github.com/facebook/stylex/issues/209)
-- [[Feature Request] Provide ESM bundle](https://github.com/facebook/stylex/issues/205)
-- [It won't work without the CSS file generated by the css-loader](https://github.com/facebook/stylex/issues/109)
-- [esbuild plugin](https://github.com/facebook/stylex/issues/83)
 
