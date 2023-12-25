@@ -4,13 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] single column responsive view is too narrow](https://github.com/meshery/meshery/issues/9686)
 - [[Docs] Add description and link to each Meshery schema](https://github.com/meshery/meshery/issues/9706)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Visual Design] Create profile/readme.md to represent the Meshery project collective](https://github.com/meshery/meshery/issues/8680)
-- [[Docs] single column responsive view is too narrow](https://github.com/meshery/meshery/issues/9686)
 - [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
 - [[UI] Fix build warnings for Meshery UI](https://github.com/meshery/meshery/issues/9590)
@@ -21,9 +25,11 @@ This list gets updated every day at midnight.
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [The MeshMap hovering effect needs improvement.](https://github.com/meshery/meshery/issues/9142)
 
-## [classtranscribe/FrontEnd](https://github.com/classtranscribe/FrontEnd)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Fix adm-zip build warning original-fs module not found](https://github.com/classtranscribe/FrontEnd/issues/734)
+- [[Visual Design] New Recognition Badge: Security Sentinel Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/188)
+- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
+- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -35,18 +41,20 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
-## [wnbrb/wnb-rb-site](https://github.com/wnbrb/wnb-rb-site)
+## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 
-- [Add links to Speaker model / Meetup page](https://github.com/wnbrb/wnb-rb-site/issues/124)
+- [(rust) raw keyword variable names are not highlighted correctly](https://github.com/highlightjs/highlight.js/issues/3924)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Improve the Global Styles upsell modal](https://github.com/Automattic/wp-calypso/issues/85541)
-- [Theme showcase: Show theme type in the details page](https://github.com/Automattic/wp-calypso/issues/83149)
-- [The tooltip for "unlocking global styles" doesn't link to the plan needed to buy it](https://github.com/Automattic/wp-calypso/issues/85537)
-- [Marketplace: Section promo max width fix](https://github.com/Automattic/wp-calypso/issues/68255)
-- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
-- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Add hovercard to policy parameter history chart with reference](https://github.com/PolicyEngine/policyengine-app/issues/174)
+- [Add graphics for home page](https://github.com/PolicyEngine/policyengine-app/issues/26)
+- [Add Analytics tags on buttons](https://github.com/PolicyEngine/policyengine-app/issues/27)
+- [Button positioning on policy calculator "Analysis" page is misaligned](https://github.com/PolicyEngine/policyengine-app/issues/993)
+- [Add walkthrough video](https://github.com/PolicyEngine/policyengine-app/issues/511)
+- [Restrict MTR y axis at 100%](https://github.com/PolicyEngine/policyengine-app/issues/66)
+- [Add prompt for duplicate policy names](https://github.com/PolicyEngine/policyengine-app/issues/972)
+- [Replace `No data` with `No variables` when no results in `Varying your earnings` search box](https://github.com/PolicyEngine/policyengine-app/issues/748)
+- [Shrink household chart increments to $100](https://github.com/PolicyEngine/policyengine-app/issues/317)
+- [Calculator child input and marriage input buttons are rounded](https://github.com/PolicyEngine/policyengine-app/issues/912)
 
