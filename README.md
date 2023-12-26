@@ -8,29 +8,6 @@ This list gets updated every day at midnight.
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Docs] single column responsive view is too narrow](https://github.com/meshery/meshery/issues/9686)
-- [[Docs] Add description and link to each Meshery schema](https://github.com/meshery/meshery/issues/9706)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
-- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
-- [[Visual Design] Create profile/readme.md to represent the Meshery project collective](https://github.com/meshery/meshery/issues/8680)
-- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
-- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-- [[UI] Fix build warnings for Meshery UI](https://github.com/meshery/meshery/issues/9590)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [[UI] Dashboard card missing title and background ](https://github.com/meshery/meshery/issues/9195)
-- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [The MeshMap hovering effect needs improvement.](https://github.com/meshery/meshery/issues/9142)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[Visual Design] New Recognition Badge: Security Sentinel Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/188)
-- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
-- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
@@ -41,20 +18,47 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
-## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [(rust) raw keyword variable names are not highlighted correctly](https://github.com/highlightjs/highlight.js/issues/3924)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
+- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
 
-## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
+## [NayakPenguin/AlgoListed](https://github.com/NayakPenguin/AlgoListed)
 
-- [Add hovercard to policy parameter history chart with reference](https://github.com/PolicyEngine/policyengine-app/issues/174)
-- [Add graphics for home page](https://github.com/PolicyEngine/policyengine-app/issues/26)
-- [Add Analytics tags on buttons](https://github.com/PolicyEngine/policyengine-app/issues/27)
-- [Button positioning on policy calculator "Analysis" page is misaligned](https://github.com/PolicyEngine/policyengine-app/issues/993)
-- [Add walkthrough video](https://github.com/PolicyEngine/policyengine-app/issues/511)
-- [Restrict MTR y axis at 100%](https://github.com/PolicyEngine/policyengine-app/issues/66)
-- [Add prompt for duplicate policy names](https://github.com/PolicyEngine/policyengine-app/issues/972)
-- [Replace `No data` with `No variables` when no results in `Varying your earnings` search box](https://github.com/PolicyEngine/policyengine-app/issues/748)
-- [Shrink household chart increments to $100](https://github.com/PolicyEngine/policyengine-app/issues/317)
-- [Calculator child input and marriage input buttons are rounded](https://github.com/PolicyEngine/policyengine-app/issues/912)
+- [Part of filter and preference feature](https://github.com/NayakPenguin/AlgoListed/issues/225)
+- [Create "computer networks" 75 MCQs for Mock Assessment ](https://github.com/NayakPenguin/AlgoListed/issues/223)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
+- [`assert.ok()` throwing `AssertionError` instead of provided `Error` object](https://github.com/nodejs/node/issues/50780)
+- [--preserve-symlinks-main doesn't work](https://github.com/nodejs/node/issues/41000)
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+- [events: setting Event.cancelBubble calls stopPropagation](https://github.com/nodejs/node/issues/50401)
+- [Conditional unhandled 'error' event when http.request with `.lookup`](https://github.com/nodejs/node/issues/48771)
+
+## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
+
+- [BsNav LinkTo @current-when support](https://github.com/ember-bootstrap/ember-bootstrap/issues/1906)
+- [Ease usage of buttons with dropdown](https://github.com/ember-bootstrap/ember-bootstrap/issues/1873)
+
+## [TabotCharlesBessong/MERNPROJECTS](https://github.com/TabotCharlesBessong/MERNPROJECTS)
+
+- [Orders Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/18)
+- [Profile Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/17)
+- [Dashboard](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/16)
+- [Foods Admin Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/15)
+- [Add and Editing Food](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/14)
+- [Backend Connection](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/12)
+- [Not Found Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/11)
+- [Cart Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/10)
+- [Food Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/9)
+- [Add Tags Bar](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/8)
+- [Login Page](https://github.com/TabotCharlesBessong/MERNPROJECTS/issues/4)
+
+## [codeforpdx/PASS](https://github.com/codeforpdx/PASS)
+
+- [[Enhancement] - Footer adjustments](https://github.com/codeforpdx/PASS/issues/559)
+- [Update PASS color scheme](https://github.com/codeforpdx/PASS/issues/329)
+- [Following Pod creation, send user to HMIS profile page](https://github.com/codeforpdx/PASS/issues/441)
 
