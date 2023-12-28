@@ -8,17 +8,12 @@ This list gets updated every day at midnight.
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[Visual Design] New Recognition Badge: Security Sentinel Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/188)
-- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
-- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
-
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
+- [[TRIGGER] GoToMeeting New Triggers](https://github.com/PipedreamHQ/pipedream/issues/9062)
 - [[Trigger] l3mbda - New ERC20 Transfer](https://github.com/PipedreamHQ/pipedream/issues/9457)
+- [Alpaca PlaceOrder Modification](https://github.com/PipedreamHQ/pipedream/issues/9476)
 - [[ACTION] [PODIO] Upload File and Attach File](https://github.com/PipedreamHQ/pipedream/issues/9450)
-- [Google Gemini](https://github.com/PipedreamHQ/pipedream/issues/9466)
 - [[ACTION] RingCentral download recording to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/9461)
 - [[ACTION] PowerBI - Update DataSet Table](https://github.com/PipedreamHQ/pipedream/issues/9424)
 - [[ACTION] List tasks in Microsoft To-Do list](https://github.com/PipedreamHQ/pipedream/issues/9425)
@@ -29,31 +24,11 @@ This list gets updated every day at midnight.
 - [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
 - [[TRIGGER] When Discord Forum Thread is created](https://github.com/PipedreamHQ/pipedream/issues/4507)
 - [Trigger: Slack channel created (Instant)](https://github.com/PipedreamHQ/pipedream/issues/9311)
-- [[TRIGGER] GoToMeeting New Triggers](https://github.com/PipedreamHQ/pipedream/issues/9062)
 - [[TRIGGERS] YouTube](https://github.com/PipedreamHQ/pipedream/issues/3487)
 - [[ACTION] File Store](https://github.com/PipedreamHQ/pipedream/issues/9154)
 - [[ACTION] pCloud - GetZip & SaveZip](https://github.com/PipedreamHQ/pipedream/issues/8000)
 - [[ACTION] Query BigQuery Database](https://github.com/PipedreamHQ/pipedream/issues/9103)
 - [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
-
-## [PastVu/pastvu](https://github.com/PastVu/pastvu)
-
-- [Refactor comments tree build functions / Рефакторинг функций построения дерева комментариев](https://github.com/PastVu/pastvu/issues/635)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
@@ -70,4 +45,23 @@ This list gets updated every day at midnight.
 - [Hide monitor in maintenance on status page if the monitor is not list in the status page](https://github.com/louislam/uptime-kuma/issues/4173)
 - [Route `/list` does not work with responsive UI](https://github.com/louislam/uptime-kuma/issues/359)
 - [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [request dont decompress response body](https://github.com/nodejs/undici/issues/2260)
+- [Balanced Pool DNS lookup](https://github.com/nodejs/undici/issues/1066)
+- [Redirect Handler throwOnMaxRedirect](https://github.com/nodejs/undici/issues/2436)
+- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
+- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
+- [Add dns caching by default](https://github.com/nodejs/undici/issues/2440)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
