@@ -4,11 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [DanielFGray/pg-sourcerer](https://github.com/DanielFGray/pg-sourcerer)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [needs tests and docs](https://github.com/DanielFGray/pg-sourcerer/issues/17)
-- [views not supported](https://github.com/DanielFGray/pg-sourcerer/issues/13)
-- [type references in queries are assumed to be in scope](https://github.com/DanielFGray/pg-sourcerer/issues/8)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
 ## [hackclub/sprig](https://github.com/hackclub/sprig)
 
@@ -17,59 +15,14 @@ This list gets updated every day at midnight.
 - [Safari share links aren't copied to clipboard](https://github.com/hackclub/sprig/issues/15)
 - [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
 
-## [thinkswell/javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Quiz Game README.md](https://github.com/thinkswell/javascript-mini-projects/issues/1101)
-- [1Application-frontend change in structure](https://github.com/thinkswell/javascript-mini-projects/issues/1100)
-- [Countdown-Timer](https://github.com/thinkswell/javascript-mini-projects/issues/1024)
-- [Emojy Art ](https://github.com/thinkswell/javascript-mini-projects/issues/841)
-- [Create a simple bulb on-off button in JS](https://github.com/thinkswell/javascript-mini-projects/issues/969)
-- [New updated Rock paper scissor game](https://github.com/thinkswell/javascript-mini-projects/issues/914)
-- [Add a Digital Clock](https://github.com/thinkswell/javascript-mini-projects/issues/787)
-- [TO-DO App in javascript](https://github.com/thinkswell/javascript-mini-projects/issues/729)
-
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-
-- [Add bicycle_rental=docking_station to bike shares](https://github.com/osmlab/name-suggestion-index/issues/9070)
-- [EDP and E-REDES](https://github.com/osmlab/name-suggestion-index/issues/6531)
-
-## [samyok/gophergrades](https://github.com/samyok/gophergrades)
-
-- [Fix Joey's LinkedIn Link](https://github.com/samyok/gophergrades/issues/102)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [fetch: limit web streams usage in body mixin methods](https://github.com/nodejs/undici/issues/2164)
-- [Add dns caching by default](https://github.com/nodejs/undici/issues/2440)
-- [request dont decompress response body](https://github.com/nodejs/undici/issues/2260)
-- [Balanced Pool DNS lookup](https://github.com/nodejs/undici/issues/1066)
-- [Redirect Handler throwOnMaxRedirect](https://github.com/nodejs/undici/issues/2436)
-- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
-- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
-
-## [fastify/fastify](https://github.com/fastify/fastify)
-
-- [Option to align route params with schema at startup](https://github.com/fastify/fastify/issues/5215)
-- [Re-throw non-Error is not handled by parent handler](https://github.com/fastify/fastify/issues/5214)
-
-## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
-
-- [Add prompt for duplicate policy names](https://github.com/PolicyEngine/policyengine-app/issues/972)
-- [Change default state display to mirror actual default state](https://github.com/PolicyEngine/policyengine-app/issues/1057)
-- [Add padding to code reproducibility block](https://github.com/PolicyEngine/policyengine-app/issues/1028)
-- [Correct title of the API explorer page](https://github.com/PolicyEngine/policyengine-app/issues/1023)
-- [Remove the i logo from the reform calculator output interstitial](https://github.com/PolicyEngine/policyengine-app/issues/1030)
-- [Replace `No data` with `No variables` when no results in `Varying your earnings` search box](https://github.com/PolicyEngine/policyengine-app/issues/748)
-- [Add Analytics tags on buttons](https://github.com/PolicyEngine/policyengine-app/issues/27)
-- [Use reform name in social preview](https://github.com/PolicyEngine/policyengine-app/issues/322)
-- [Add hovercard to policy parameter history chart with reference](https://github.com/PolicyEngine/policyengine-app/issues/174)
-- [Add graphics for home page](https://github.com/PolicyEngine/policyengine-app/issues/26)
-- [Button positioning on policy calculator "Analysis" page is misaligned](https://github.com/PolicyEngine/policyengine-app/issues/993)
-- [Add walkthrough video](https://github.com/PolicyEngine/policyengine-app/issues/511)
-- [Shrink household chart increments to $100](https://github.com/PolicyEngine/policyengine-app/issues/317)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
+- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
@@ -78,16 +31,33 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
 
-- [Break note output from Musical Keyboard up into separate action blocks](https://github.com/sugarlabs/musicblocks/issues/3127)
-- [Better Faux Pickup Support](https://github.com/sugarlabs/musicblocks/issues/2645)
-- [Enhancement to full screen functionality of widgets](https://github.com/sugarlabs/musicblocks/issues/2808)
-- [Crossword example project](https://github.com/sugarlabs/musicblocks/issues/3327)
-- [Add JSDoc style documentation](https://github.com/sugarlabs/musicblocks/issues/2630)
+- [Add bicycle_rental=docking_station to bike shares](https://github.com/osmlab/name-suggestion-index/issues/9070)
+- [EDP and E-REDES](https://github.com/osmlab/name-suggestion-index/issues/6531)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
 
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
+- [Fix saas deprecation](https://github.com/CircuitVerse/CircuitVerse/issues/3579)
+- [Unexpected behaviour : deleting an Offline Project](https://github.com/CircuitVerse/CircuitVerse/issues/2894)
+- [ui: sign-up page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3635)
+- [fix: add space after colon in deadline field of assignment](https://github.com/CircuitVerse/CircuitVerse/issues/3409)
+- [Text is not completely highlighted on hover](https://github.com/CircuitVerse/CircuitVerse/issues/2919)
+- [align `view` button with project title in projects list](https://github.com/CircuitVerse/CircuitVerse/issues/4107)
+- [[ui] : Remove extra space above footer.](https://github.com/CircuitVerse/CircuitVerse/issues/3621)
+- [migrate primary button to view component](https://github.com/CircuitVerse/CircuitVerse/issues/3617)
+- [Integrate story-book for previewing componets](https://github.com/CircuitVerse/CircuitVerse/issues/3537)
+- [[fix] : localization in recent circuits section ](https://github.com/CircuitVerse/CircuitVerse/issues/3552)
+- [Create "Humans of CircuitVerse" markdown page](https://github.com/CircuitVerse/CircuitVerse/issues/2005)
+- [Making cards for all the contributors in about page ](https://github.com/CircuitVerse/CircuitVerse/issues/2194)
+- [revamp: search input in dashboard](https://github.com/CircuitVerse/CircuitVerse/issues/3379)
+- [feat: pagination for notifications](https://github.com/CircuitVerse/CircuitVerse/issues/3329)
+- [feat: clear all button for notifications](https://github.com/CircuitVerse/CircuitVerse/issues/3328)
+- [Docker node source deprecation ](https://github.com/CircuitVerse/CircuitVerse/issues/4048)
+- [Integrate lookbook for view components](https://github.com/CircuitVerse/CircuitVerse/issues/4167)
+- [[revamp] : update image and content in teachers page](https://github.com/CircuitVerse/CircuitVerse/issues/3616)
+- [Improve the UI of hiding options in Render Image Dialog](https://github.com/CircuitVerse/CircuitVerse/issues/4134)
+- [Todo List + Beginner Issues ](https://github.com/CircuitVerse/CircuitVerse/issues/2)
+- [feat: notify user when added as a collaborator in the project](https://github.com/CircuitVerse/CircuitVerse/issues/3386)
+- [ui: login page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3634)
 
