@@ -8,17 +8,26 @@ This list gets updated every day at midnight.
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Run deno tests for every PR, not just /games](https://github.com/hackclub/sprig/issues/950)
-- [Why can I not name a game if I'm not logged in?](https://github.com/hackclub/sprig/issues/937)
-- [Safari share links aren't copied to clipboard](https://github.com/hackclub/sprig/issues/15)
-- [Add option to log out from editor.](https://github.com/hackclub/sprig/issues/827)
+- [[Visual Design] New Recognition Badge: Security Sentinel Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/188)
+- [[Visual Design] New Recognition Badge: Code Cleanup Crew Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/189)
+- [Post Review Rockstar badge](https://github.com/layer5labs/meshery-extensions-packages/issues/197)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
 
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
+- [Add bicycle_rental=docking_station to bike shares](https://github.com/osmlab/name-suggestion-index/issues/9070)
+- [EDP and E-REDES](https://github.com/osmlab/name-suggestion-index/issues/6531)
+
+## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+
+- [(rust) raw keyword variable names are not highlighted correctly](https://github.com/highlightjs/highlight.js/issues/3924)
+
+## [miraclx/freyr-js](https://github.com/miraclx/freyr-js)
+
+- [It seems that other language is not supported by youtube downloader](https://github.com/miraclx/freyr-js/issues/571)
+- [Manual Compilation](https://github.com/miraclx/freyr-js/issues/11)
+- [Automate Apple Music token updates](https://github.com/miraclx/freyr-js/issues/590)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -29,35 +38,33 @@ This list gets updated every day at midnight.
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Flash of Unstyled content using Ant Design with Nextjs](https://github.com/vercel/next.js/issues/48483)
 
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Add bicycle_rental=docking_station to bike shares](https://github.com/osmlab/name-suggestion-index/issues/9070)
-- [EDP and E-REDES](https://github.com/osmlab/name-suggestion-index/issues/6531)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
+- [Update `@stdlib/assert/*` benchmarks to measure affirmative/negative test values](https://github.com/stdlib-js/stdlib/issues/1148)
 
-## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Fix saas deprecation](https://github.com/CircuitVerse/CircuitVerse/issues/3579)
-- [Unexpected behaviour : deleting an Offline Project](https://github.com/CircuitVerse/CircuitVerse/issues/2894)
-- [ui: sign-up page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3635)
-- [fix: add space after colon in deadline field of assignment](https://github.com/CircuitVerse/CircuitVerse/issues/3409)
-- [Text is not completely highlighted on hover](https://github.com/CircuitVerse/CircuitVerse/issues/2919)
-- [align `view` button with project title in projects list](https://github.com/CircuitVerse/CircuitVerse/issues/4107)
-- [[ui] : Remove extra space above footer.](https://github.com/CircuitVerse/CircuitVerse/issues/3621)
-- [migrate primary button to view component](https://github.com/CircuitVerse/CircuitVerse/issues/3617)
-- [Integrate story-book for previewing componets](https://github.com/CircuitVerse/CircuitVerse/issues/3537)
-- [[fix] : localization in recent circuits section ](https://github.com/CircuitVerse/CircuitVerse/issues/3552)
-- [Create "Humans of CircuitVerse" markdown page](https://github.com/CircuitVerse/CircuitVerse/issues/2005)
-- [Making cards for all the contributors in about page ](https://github.com/CircuitVerse/CircuitVerse/issues/2194)
-- [revamp: search input in dashboard](https://github.com/CircuitVerse/CircuitVerse/issues/3379)
-- [feat: pagination for notifications](https://github.com/CircuitVerse/CircuitVerse/issues/3329)
-- [feat: clear all button for notifications](https://github.com/CircuitVerse/CircuitVerse/issues/3328)
-- [Docker node source deprecation ](https://github.com/CircuitVerse/CircuitVerse/issues/4048)
-- [Integrate lookbook for view components](https://github.com/CircuitVerse/CircuitVerse/issues/4167)
-- [[revamp] : update image and content in teachers page](https://github.com/CircuitVerse/CircuitVerse/issues/3616)
-- [Improve the UI of hiding options in Render Image Dialog](https://github.com/CircuitVerse/CircuitVerse/issues/4134)
-- [Todo List + Beginner Issues ](https://github.com/CircuitVerse/CircuitVerse/issues/2)
-- [feat: notify user when added as a collaborator in the project](https://github.com/CircuitVerse/CircuitVerse/issues/3386)
-- [ui: login page revamp](https://github.com/CircuitVerse/CircuitVerse/issues/3634)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Improve the Global Styles upsell modal](https://github.com/Automattic/wp-calypso/issues/85541)
+- [The tooltip for "unlocking global styles" doesn't link to the plan needed to buy it](https://github.com/Automattic/wp-calypso/issues/85537)
+- [Theme showcase: Show theme type in the details page](https://github.com/Automattic/wp-calypso/issues/83149)
+- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
+- [Task: Fix CSS styling On Tools->Marketing Cards](https://github.com/Automattic/wp-calypso/issues/68761)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [fetch: limit web streams usage in body mixin methods](https://github.com/nodejs/undici/issues/2164)
+- [Add dns caching by default](https://github.com/nodejs/undici/issues/2440)
+- [request dont decompress response body](https://github.com/nodejs/undici/issues/2260)
+- [Balanced Pool DNS lookup](https://github.com/nodejs/undici/issues/1066)
+- [Redirect Handler throwOnMaxRedirect](https://github.com/nodejs/undici/issues/2436)
+- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
+- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
+
+## [TodePond/Arroost](https://github.com/TodePond/Arroost)
+
+- [Arrow of creation gets stuck on cloning a single thing](https://github.com/TodePond/Arroost/issues/250)
 
