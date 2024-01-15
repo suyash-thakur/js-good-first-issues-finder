@@ -4,11 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Matriks404/mlc](https://github.com/Matriks404/mlc)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Fix layout issues on Internet Explorer 10/11](https://github.com/Matriks404/mlc/issues/31)
-- [Implement print-friendly page layout](https://github.com/Matriks404/mlc/issues/30)
-- [Improve settings](https://github.com/Matriks404/mlc/issues/21)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [Document how to change the span status](https://github.com/open-telemetry/opentelemetry.io/issues/2557)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -19,6 +21,16 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [Allow SSL validation to be turned off at request level](https://github.com/usebruno/bruno/issues/1325)
+- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [Collection level CA certificate](https://github.com/usebruno/bruno/issues/1324)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
+- [Auto Save Changes to request](https://github.com/usebruno/bruno/issues/142)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
@@ -33,26 +45,10 @@ This list gets updated every day at midnight.
 - [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
 - [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [RpNation/bbcode](https://github.com/RpNation/bbcode)
 
-- [Drop Node.js 12 support in CI](https://github.com/endojs/endo/issues/1046)
-- [Ensure symbol can't be a key on scope proxy with a unit test](https://github.com/endojs/endo/issues/1240)
-- [Would be nice to know why this is useful](https://github.com/endojs/endo/issues/289)
-- [Decouple stackFiltering from stackShortening](https://github.com/endojs/endo/issues/913)
-- [Sync spec and XS interpretation of Date(), Date.now(), and Math.random()](https://github.com/endojs/endo/issues/934)
-- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
-- [iOS Safari fails to lockdown (with potential fix)](https://github.com/endojs/endo/issues/947)
-- [Document required order for lockdown() in esm module](https://github.com/endojs/endo/issues/957)
-- [Old marshal issues should either be migrated or closed](https://github.com/endojs/endo/issues/991)
-- [When we drop Node.js 14 support…](https://github.com/endojs/endo/issues/1053)
-- [StaticModuleRecord provides opaque errors for hidden identifier censorship](https://github.com/endojs/endo/issues/1124)
-- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
-- [Namespace should have a property Symbol.toStringTag](https://github.com/endojs/endo/issues/58)
-- [Harden: test objects with getters/setters](https://github.com/endojs/endo/issues/87)
-- [SES: Remove the `location` argument from `StaticModuleRecord` constructor](https://github.com/endojs/endo/issues/522)
-- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [Add alt tags for functionality supported by Markdown in Discourse](https://github.com/RpNation/bbcode/issues/62)
+- [BBCode Tag: Blockquotes](https://github.com/RpNation/bbcode/issues/31)
+- [BBCode Tag: Scroll Box](https://github.com/RpNation/bbcode/issues/38)
+- [BBCode Tag: Height Restrict](https://github.com/RpNation/bbcode/issues/44)
 
