@@ -4,18 +4,26 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
 
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Feature Request]: Unclickable Channel Link](https://github.com/FreeTubeApp/FreeTube/issues/3193)
-
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-
-- [There is no timezone Europe/Kyiv](https://github.com/SchemaStore/schemastore/issues/3508)
+- [Add prompt for duplicate policy names](https://github.com/PolicyEngine/policyengine-app/issues/972)
+- [Add Analytics tags on buttons](https://github.com/PolicyEngine/policyengine-app/issues/27)
+- [Use a collapsible drawer to show/hide the GPT prompt](https://github.com/PolicyEngine/policyengine-app/issues/377)
+- [Use reform name in social preview](https://github.com/PolicyEngine/policyengine-app/issues/322)
+- [Add hovercard to policy parameter history chart with reference](https://github.com/PolicyEngine/policyengine-app/issues/174)
+- [Add graphics for home page](https://github.com/PolicyEngine/policyengine-app/issues/26)
+- [Button positioning on policy calculator "Analysis" page is misaligned](https://github.com/PolicyEngine/policyengine-app/issues/993)
+- [Add walkthrough video](https://github.com/PolicyEngine/policyengine-app/issues/511)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
+- [[BUG]: Not able to delete empty custom messages in the Apperance pane.](https://github.com/Mintplex-Labs/anything-llm/issues/586)
+- [[FEAT] Control # of context snippets returned](https://github.com/Mintplex-Labs/anything-llm/issues/542)
+- [Possible to add "STOP" button if user does not like the AI's response? ](https://github.com/Mintplex-Labs/anything-llm/issues/540)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -30,33 +38,51 @@ This list gets updated every day at midnight.
 - [Typography: Normalise labels between Font and Font Family](https://github.com/WordPress/gutenberg/issues/56374)
 - [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [abdrahmanES1/Quiz](https://github.com/abdrahmanES1/Quiz)
 
-- [Remove translation from Google product names and terms](https://github.com/google/site-kit-wp/issues/7650)
-- [Don't display multiple errors on the main WordPress dashboard](https://github.com/google/site-kit-wp/issues/6377)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+- [Apply the routes Protection (api)](https://github.com/abdrahmanES1/Quiz/issues/32)
+- [Apply the routes Protection (React ui) ](https://github.com/abdrahmanES1/Quiz/issues/33)
+- [Exams route deadlines (api)](https://github.com/abdrahmanES1/Quiz/issues/37)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [awest25/Tennis-Video-Viewer](https://github.com/awest25/Tennis-Video-Viewer)
 
-- [Support unified QR codes on withdrawal](https://github.com/stackernews/stacker.news/issues/734)
+- [Add Proper Styling](https://github.com/awest25/Tennis-Video-Viewer/issues/3)
+- [Handle Improperly Formatted JSON Uploads](https://github.com/awest25/Tennis-Video-Viewer/issues/1)
+- [Convert CSV to JSON Automatically](https://github.com/awest25/Tennis-Video-Viewer/issues/2)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
-- [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+- [[RFC]: Add `@stdlib/random/strided/gumbel`](https://github.com/stdlib-js/stdlib/issues/938)
+- [[RFC]: Add `@stdlib/random/strided/laplace`](https://github.com/stdlib-js/stdlib/issues/940)
+- [[RFC]: Add `@stdlib/random/strided/geometric`](https://github.com/stdlib-js/stdlib/issues/887)
+- [[RFC]: Add `@stdlib/random/strided/randn`](https://github.com/stdlib-js/stdlib/issues/867)
+- [[RFC]: Add `@stdlib/random/strided/t`](https://github.com/stdlib-js/stdlib/issues/890)
+- [[RFC]: Add `@stdlib/random/strided/poisson`](https://github.com/stdlib-js/stdlib/issues/888)
+- [[RFC]: Add `@stdlib/random/strided/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/950)
+- [[RFC]: Add `@stdlib/random/strided/rayleigh`](https://github.com/stdlib-js/stdlib/issues/889)
+- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
-- [Allow SSL validation to be turned off at request level](https://github.com/usebruno/bruno/issues/1325)
-- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
-- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
-- [Collection level CA certificate](https://github.com/usebruno/bruno/issues/1324)
-- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
-- [Auto Save Changes to request](https://github.com/usebruno/bruno/issues/142)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [[ACTION] Query BigQuery Database](https://github.com/PipedreamHQ/pipedream/issues/9103)
+- [Postmark - Send batch with templates](https://github.com/PipedreamHQ/pipedream/issues/9621)
+- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
+- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [[TRIGGER] GitHub New star by the user](https://github.com/PipedreamHQ/pipedream/issues/9675)
+- [[TRIGGER] Google calendar "working location" start / end](https://github.com/PipedreamHQ/pipedream/issues/9768)
+- [Alpaca - Place Order action: Add `extended_hour` param as a prop](https://github.com/PipedreamHQ/pipedream/issues/9476)
+- [[Actions] Eversign](https://github.com/PipedreamHQ/pipedream/issues/4229)
+- [Invite User to Slack Workspace[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/3927)
+- [[TRIGGER] When Discord Forum Thread is created](https://github.com/PipedreamHQ/pipedream/issues/4507)
+- [Trigger: Slack channel created (Instant)](https://github.com/PipedreamHQ/pipedream/issues/9311)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
 
