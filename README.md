@@ -4,53 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [awest25/Tennis-Video-Viewer](https://github.com/awest25/Tennis-Video-Viewer)
-
-- [Add Proper Styling](https://github.com/awest25/Tennis-Video-Viewer/issues/3)
-- [Handle Improperly Formatted JSON Uploads](https://github.com/awest25/Tennis-Video-Viewer/issues/1)
-- [Convert CSV to JSON Automatically](https://github.com/awest25/Tennis-Video-Viewer/issues/2)
-
-## [wikispeedruns/wikipedia-speedruns](https://github.com/wikispeedruns/wikipedia-speedruns)
-
-- [Broken anchor tag](https://github.com/wikispeedruns/wikipedia-speedruns/issues/549)
-- [Add a refresh button for suggested quick play prompts](https://github.com/wikispeedruns/wikipedia-speedruns/issues/552)
-- [Give populate db script option to generate a larger database (closer to prod size)](https://github.com/wikispeedruns/wikipedia-speedruns/issues/550)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Address `upload-cloud-storage` action warning](https://github.com/google/site-kit-wp/issues/8093)
-- [Remove translation from Google product names and terms](https://github.com/google/site-kit-wp/issues/7650)
-- [Don't display multiple errors on the main WordPress dashboard](https://github.com/google/site-kit-wp/issues/6377)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
-
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
-
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
-
-- [Decrease number of issues request on "Expiration Rules" area](https://github.com/LibreSign/libresign/issues/2030)
-- [Make possible display logs when enable debug in an integration test at GitHub Actions](https://github.com/LibreSign/libresign/issues/2021)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [[Bug]: Edit Network Panel appears over the accounts panel](https://github.com/MetaMask/metamask-extension/issues/20145)
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
+- [[RFC]: Add `@stdlib/random/strided/gumbel`](https://github.com/stdlib-js/stdlib/issues/938)
+- [[RFC]: Add `@stdlib/random/strided/laplace`](https://github.com/stdlib-js/stdlib/issues/940)
+- [[RFC]: Add `@stdlib/random/strided/geometric`](https://github.com/stdlib-js/stdlib/issues/887)
+- [[RFC]: Add `@stdlib/random/strided/randn`](https://github.com/stdlib-js/stdlib/issues/867)
+- [[RFC]: Add `@stdlib/random/strided/t`](https://github.com/stdlib-js/stdlib/issues/890)
+- [[RFC]: Add `@stdlib/random/strided/poisson`](https://github.com/stdlib-js/stdlib/issues/888)
+- [[RFC]: Add `@stdlib/random/strided/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/950)
+- [[RFC]: Add `@stdlib/random/strided/rayleigh`](https://github.com/stdlib-js/stdlib/issues/889)
+- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -63,4 +27,27 @@ This list gets updated every day at midnight.
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [endojs/endo](https://github.com/endojs/endo)
+
+- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
+- [Namespace should have a property Symbol.toStringTag](https://github.com/endojs/endo/issues/58)
+- [Drop Node.js 12 support in CI](https://github.com/endojs/endo/issues/1046)
+- [Ensure symbol can't be a key on scope proxy with a unit test](https://github.com/endojs/endo/issues/1240)
+- [Would be nice to know why this is useful](https://github.com/endojs/endo/issues/289)
+- [Decouple stackFiltering from stackShortening](https://github.com/endojs/endo/issues/913)
+- [Sync spec and XS interpretation of Date(), Date.now(), and Math.random()](https://github.com/endojs/endo/issues/934)
+- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
+- [iOS Safari fails to lockdown (with potential fix)](https://github.com/endojs/endo/issues/947)
+- [Document required order for lockdown() in esm module](https://github.com/endojs/endo/issues/957)
+- [Old marshal issues should either be migrated or closed](https://github.com/endojs/endo/issues/991)
+- [When we drop Node.js 14 support…](https://github.com/endojs/endo/issues/1053)
+- [StaticModuleRecord provides opaque errors for hidden identifier censorship](https://github.com/endojs/endo/issues/1124)
+- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
+- [Harden: test objects with getters/setters](https://github.com/endojs/endo/issues/87)
+- [SES: Remove the `location` argument from `StaticModuleRecord` constructor](https://github.com/endojs/endo/issues/522)
 
