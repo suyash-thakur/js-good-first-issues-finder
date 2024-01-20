@@ -4,17 +4,35 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [acasquete/taskmeapp](https://github.com/acasquete/taskmeapp)
 
-- [[RFC]: Add `@stdlib/random/strided/gumbel`](https://github.com/stdlib-js/stdlib/issues/938)
-- [[RFC]: Add `@stdlib/random/strided/laplace`](https://github.com/stdlib-js/stdlib/issues/940)
-- [[RFC]: Add `@stdlib/random/strided/geometric`](https://github.com/stdlib-js/stdlib/issues/887)
-- [[RFC]: Add `@stdlib/random/strided/randn`](https://github.com/stdlib-js/stdlib/issues/867)
-- [[RFC]: Add `@stdlib/random/strided/t`](https://github.com/stdlib-js/stdlib/issues/890)
-- [[RFC]: Add `@stdlib/random/strided/poisson`](https://github.com/stdlib-js/stdlib/issues/888)
-- [[RFC]: Add `@stdlib/random/strided/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/950)
-- [[RFC]: Add `@stdlib/random/strided/rayleigh`](https://github.com/stdlib-js/stdlib/issues/889)
-- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
+- [Notifications not working in PWA](https://github.com/acasquete/taskmeapp/issues/19)
+- [General Refactoring of Our 11-Year-Old JavaScript Application](https://github.com/acasquete/taskmeapp/issues/12)
+- [Add multiple languages support](https://github.com/acasquete/taskmeapp/issues/9)
+
+## [jeremyjia/Games](https://github.com/jeremyjia/Games)
+
+- [多人聊天室程序](https://github.com/jeremyjia/Games/issues/37)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
+- [[Meta] Standardize manual instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
+- [Update exporters intro with advantages of OTLP](https://github.com/open-telemetry/opentelemetry.io/issues/3295)
+- [Document how to change the span status](https://github.com/open-telemetry/opentelemetry.io/issues/2557)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
+
+## [dev-launchers/dev-launchers-platform](https://github.com/dev-launchers/dev-launchers-platform)
+
+- [[BUG] Idea Submission content fixes](https://github.com/dev-launchers/dev-launchers-platform/issues/1394)
+
+## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+- [List of sprocs that can be converted to libs directly](https://github.com/PrairieLearn/PrairieLearn/issues/8893)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -28,9 +46,16 @@ This list gets updated every day at midnight.
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
+- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
+- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
+- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
 
 ## [endojs/endo](https://github.com/endojs/endo)
 
