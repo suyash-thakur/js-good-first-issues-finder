@@ -4,35 +4,25 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [acasquete/taskmeapp](https://github.com/acasquete/taskmeapp)
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
-- [Notifications not working in PWA](https://github.com/acasquete/taskmeapp/issues/19)
-- [General Refactoring of Our 11-Year-Old JavaScript Application](https://github.com/acasquete/taskmeapp/issues/12)
-- [Add multiple languages support](https://github.com/acasquete/taskmeapp/issues/9)
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [jeremyjia/Games](https://github.com/jeremyjia/Games)
+## [awest25/Tennis-Video-Viewer](https://github.com/awest25/Tennis-Video-Viewer)
 
-- [多人聊天室程序](https://github.com/jeremyjia/Games/issues/37)
+- [Add Proper Styling](https://github.com/awest25/Tennis-Video-Viewer/issues/3)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 
-- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
-- [[Meta] Standardize manual instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
-- [Update exporters intro with advantages of OTLP](https://github.com/open-telemetry/opentelemetry.io/issues/3295)
-- [Document how to change the span status](https://github.com/open-telemetry/opentelemetry.io/issues/2557)
+- [(typescript) Using `namespace` as a variable name breaks highlighter state](https://github.com/highlightjs/highlight.js/issues/3972)
+- [(Fortran) highlight.js fails to identify literals](https://github.com/highlightjs/highlight.js/issues/3968)
+- [Add `sudo` added to the default Bash keywords. ](https://github.com/highlightjs/highlight.js/issues/3957)
+- [(rust) raw keyword variable names are not highlighted correctly](https://github.com/highlightjs/highlight.js/issues/3924)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [openSUSE/agama](https://github.com/openSUSE/agama)
 
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Marketplace: Logged out view should use pagination](https://github.com/Automattic/wp-calypso/issues/67075)
-
-## [dev-launchers/dev-launchers-platform](https://github.com/dev-launchers/dev-launchers-platform)
-
-- [[BUG] Idea Submission content fixes](https://github.com/dev-launchers/dev-launchers-platform/issues/1394)
-
-## [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)
-
-- [List of sprocs that can be converted to libs directly](https://github.com/PrairieLearn/PrairieLearn/issues/8893)
+- [auto-suggestion of username done differently](https://github.com/openSUSE/agama/issues/112)
+- [Improve mount point selector](https://github.com/openSUSE/agama/issues/932)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -46,33 +36,39 @@ This list gets updated every day at midnight.
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
 - [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
 
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
-- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
-- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
 
-- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
-- [Namespace should have a property Symbol.toStringTag](https://github.com/endojs/endo/issues/58)
-- [Drop Node.js 12 support in CI](https://github.com/endojs/endo/issues/1046)
-- [Ensure symbol can't be a key on scope proxy with a unit test](https://github.com/endojs/endo/issues/1240)
-- [Would be nice to know why this is useful](https://github.com/endojs/endo/issues/289)
-- [Decouple stackFiltering from stackShortening](https://github.com/endojs/endo/issues/913)
-- [Sync spec and XS interpretation of Date(), Date.now(), and Math.random()](https://github.com/endojs/endo/issues/934)
-- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
-- [iOS Safari fails to lockdown (with potential fix)](https://github.com/endojs/endo/issues/947)
-- [Document required order for lockdown() in esm module](https://github.com/endojs/endo/issues/957)
-- [Old marshal issues should either be migrated or closed](https://github.com/endojs/endo/issues/991)
-- [When we drop Node.js 14 support…](https://github.com/endojs/endo/issues/1053)
-- [StaticModuleRecord provides opaque errors for hidden identifier censorship](https://github.com/endojs/endo/issues/1124)
-- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
-- [Harden: test objects with getters/setters](https://github.com/endojs/endo/issues/87)
-- [SES: Remove the `location` argument from `StaticModuleRecord` constructor](https://github.com/endojs/endo/issues/522)
+- [Don't wrap URLs](https://github.com/ether/etherpad-lite/issues/5001)
+- [appendHTML api](https://github.com/ether/etherpad-lite/issues/5402)
+- [Logout / Exit button(s)](https://github.com/ether/etherpad-lite/issues/5633)
+- [Add configuration setting for using full width in colibris](https://github.com/ether/etherpad-lite/issues/5702)
+- [Consecutive numbering fails](https://github.com/ether/etherpad-lite/issues/5718)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [Allow SSL validation to be turned off at request level](https://github.com/usebruno/bruno/issues/1325)
+- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [Collection level CA certificate](https://github.com/usebruno/bruno/issues/1324)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Great Icon Review of 2024: A](https://github.com/simple-icons/simple-icons/issues/10282)
+- [Request: Ocado](https://github.com/simple-icons/simple-icons/issues/10194)
+- [Request Icon: Cricbuzz](https://github.com/simple-icons/simple-icons/issues/10295)
+- [WorkOS/Authkit](https://github.com/simple-icons/simple-icons/issues/10289)
+- [Icon Request: Typst](https://github.com/simple-icons/simple-icons/issues/10288)
+- [Icon Request: Paperless-ngx](https://github.com/simple-icons/simple-icons/issues/10287)
+- [365 DataScience](https://github.com/simple-icons/simple-icons/issues/10221)
+- [cohesity](https://github.com/simple-icons/simple-icons/issues/9941)
+- [Request: Perplexity](https://github.com/simple-icons/simple-icons/issues/10262)
+- [Missing icon for NVM](https://github.com/simple-icons/simple-icons/issues/10075)
+- [New icons : REPLICATE Website](https://github.com/simple-icons/simple-icons/issues/10186)
+- [Add Zip Pay](https://github.com/simple-icons/simple-icons/issues/10174)
 
