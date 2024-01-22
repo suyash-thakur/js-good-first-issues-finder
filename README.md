@@ -8,21 +8,21 @@ This list gets updated every day at midnight.
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [awest25/Tennis-Video-Viewer](https://github.com/awest25/Tennis-Video-Viewer)
+## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 
-- [Add Proper Styling](https://github.com/awest25/Tennis-Video-Viewer/issues/3)
+- [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204)
+- [[feat] setup jest and supertest for backend](https://github.com/idurar/idurar-erp-crm/issues/346)
+- [Learn How to Deploy IDURAR ERP CRM (Create Node.js APi and crud React app in. 1 hour)](https://github.com/idurar/idurar-erp-crm/issues/713)
 
-## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [(typescript) Using `namespace` as a variable name breaks highlighter state](https://github.com/highlightjs/highlight.js/issues/3972)
-- [(Fortran) highlight.js fails to identify literals](https://github.com/highlightjs/highlight.js/issues/3968)
-- [Add `sudo` added to the default Bash keywords. ](https://github.com/highlightjs/highlight.js/issues/3957)
-- [(rust) raw keyword variable names are not highlighted correctly](https://github.com/highlightjs/highlight.js/issues/3924)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [openSUSE/agama](https://github.com/openSUSE/agama)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [auto-suggestion of username done differently](https://github.com/openSUSE/agama/issues/112)
-- [Improve mount point selector](https://github.com/openSUSE/agama/issues/932)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Feature Request]: Unclickable Channel Link](https://github.com/FreeTubeApp/FreeTube/issues/3193)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -34,41 +34,33 @@ This list gets updated every day at midnight.
 - [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 - [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
-- [@next/next/no-html-link-for-pages doesn't work with app router](https://github.com/vercel/next.js/issues/51742)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
+- [Display the user name when hoving on the avatar icon.](https://github.com/Greenstand/treetracker-web-map-client/issues/1742)
 
-## [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
-- [Don't wrap URLs](https://github.com/ether/etherpad-lite/issues/5001)
-- [appendHTML api](https://github.com/ether/etherpad-lite/issues/5402)
-- [Logout / Exit button(s)](https://github.com/ether/etherpad-lite/issues/5633)
-- [Add configuration setting for using full width in colibris](https://github.com/ether/etherpad-lite/issues/5702)
-- [Consecutive numbering fails](https://github.com/ether/etherpad-lite/issues/5718)
+- [Cypress stops execution (hangs) entering infinite loop on focus](https://github.com/cypress-io/cypress/issues/28746)
+- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
+- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
+- [Selector playground doesn't correctly escape colon char in selector suggestion](https://github.com/cypress-io/cypress/issues/27258)
+- [Property 'request' does not exist on type 'HTMLElement'. during request aliasing](https://github.com/cypress-io/cypress/issues/24823)
+- [Error when using `scrollBehavior:false` at config with TypeScript](https://github.com/cypress-io/cypress/issues/28602)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [ZeLonewolf/openstreetmap-americana](https://github.com/ZeLonewolf/openstreetmap-americana)
 
-- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
-- [Allow SSL validation to be turned off at request level](https://github.com/usebruno/bruno/issues/1325)
-- [feat: save request/response history (including between launches)](https://github.com/usebruno/bruno/issues/411)
-- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
-- [Collection level CA certificate](https://github.com/usebruno/bruno/issues/1324)
-- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
+- [Odd-numbered admin-level boundaries are missing](https://github.com/ZeLonewolf/openstreetmap-americana/issues/481)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Great Icon Review of 2024: A](https://github.com/simple-icons/simple-icons/issues/10282)
-- [Request: Ocado](https://github.com/simple-icons/simple-icons/issues/10194)
-- [Request Icon: Cricbuzz](https://github.com/simple-icons/simple-icons/issues/10295)
-- [WorkOS/Authkit](https://github.com/simple-icons/simple-icons/issues/10289)
-- [Icon Request: Typst](https://github.com/simple-icons/simple-icons/issues/10288)
-- [Icon Request: Paperless-ngx](https://github.com/simple-icons/simple-icons/issues/10287)
-- [365 DataScience](https://github.com/simple-icons/simple-icons/issues/10221)
-- [cohesity](https://github.com/simple-icons/simple-icons/issues/9941)
-- [Request: Perplexity](https://github.com/simple-icons/simple-icons/issues/10262)
-- [Missing icon for NVM](https://github.com/simple-icons/simple-icons/issues/10075)
-- [New icons : REPLICATE Website](https://github.com/simple-icons/simple-icons/issues/10186)
-- [Add Zip Pay](https://github.com/simple-icons/simple-icons/issues/10174)
+- [[refactor]: Add Border Radius property to the Chart component's configuration options](https://github.com/ToolJet/ToolJet/issues/8502)
+- [[docs]: Fix text formatting issue for Marketplace Plugins > Github page](https://github.com/ToolJet/ToolJet/issues/8595)
+- [Password input widget: Option to customise the error message styles for validations](https://github.com/ToolJet/ToolJet/issues/4206)
+- [Dark Mode compatibility issue with datepicker component in time selection UI](https://github.com/ToolJet/ToolJet/issues/7072)
+- [Change labels to sentence case for Checkbox Component](https://github.com/ToolJet/ToolJet/issues/8429)
+- [[refactor]: Update descriptions(tooltips) for QR scanner, rating, divider and file picker components](https://github.com/ToolJet/ToolJet/issues/7521)
+- [Add support for Amazon DocumentDb](https://github.com/ToolJet/ToolJet/issues/8370)
+- [[docs]: Mention about the Env dropdown in the TopBar doc](https://github.com/ToolJet/ToolJet/issues/8455)
+- [Fix the `Edit email address` button after signup](https://github.com/ToolJet/ToolJet/issues/7802)
 
