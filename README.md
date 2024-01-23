@@ -4,63 +4,68 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [Grammatical Corrections](https://github.com/LibreSign/libresign/issues/727)
+- [Decrease number of issues request on "Expiration Rules" area](https://github.com/LibreSign/libresign/issues/2030)
+
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
-## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
-
-- [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204)
-- [[feat] setup jest and supertest for backend](https://github.com/idurar/idurar-erp-crm/issues/346)
-- [Learn How to Deploy IDURAR ERP CRM (Create Node.js APi and crud React app in. 1 hour)](https://github.com/idurar/idurar-erp-crm/issues/713)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Feature Request]: Unclickable Channel Link](https://github.com/FreeTubeApp/FreeTube/issues/3193)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
-- [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
+- [Drop Node.js 12 support in CI](https://github.com/endojs/endo/issues/1046)
+- [Ensure symbol can't be a key on scope proxy with a unit test](https://github.com/endojs/endo/issues/1240)
+- [Would be nice to know why this is useful](https://github.com/endojs/endo/issues/289)
+- [Decouple stackFiltering from stackShortening](https://github.com/endojs/endo/issues/913)
+- [Sync spec and XS interpretation of Date(), Date.now(), and Math.random()](https://github.com/endojs/endo/issues/934)
+- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
+- [iOS Safari fails to lockdown (with potential fix)](https://github.com/endojs/endo/issues/947)
+- [Document required order for lockdown() in esm module](https://github.com/endojs/endo/issues/957)
+- [Old marshal issues should either be migrated or closed](https://github.com/endojs/endo/issues/991)
+- [When we drop Node.js 14 support…](https://github.com/endojs/endo/issues/1053)
+- [StaticModuleRecord provides opaque errors for hidden identifier censorship](https://github.com/endojs/endo/issues/1124)
+- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
+- [Harden: test objects with getters/setters](https://github.com/endojs/endo/issues/87)
+- [SES: Remove the `location` argument from `StaticModuleRecord` constructor](https://github.com/endojs/endo/issues/522)
 
-## [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+## [chavi362/virtual-keyboard](https://github.com/chavi362/virtual-keyboard)
 
-- [Display the user name when hoving on the avatar icon.](https://github.com/Greenstand/treetracker-web-map-client/issues/1742)
+- [The color input doesn't get the color of the selected color](https://github.com/chavi362/virtual-keyboard/issues/85)
+- [Easy: adding support for another languages](https://github.com/chavi362/virtual-keyboard/issues/77)
+- [Design the style selector components](https://github.com/chavi362/virtual-keyboard/issues/66)
 
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
-- [Cypress stops execution (hangs) entering infinite loop on focus](https://github.com/cypress-io/cypress/issues/28746)
-- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
-- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
-- [Selector playground doesn't correctly escape colon char in selector suggestion](https://github.com/cypress-io/cypress/issues/27258)
-- [Property 'request' does not exist on type 'HTMLElement'. during request aliasing](https://github.com/cypress-io/cypress/issues/24823)
-- [Error when using `scrollBehavior:false` at config with TypeScript](https://github.com/cypress-io/cypress/issues/28602)
+- [Crossword example project](https://github.com/sugarlabs/musicblocks/issues/3327)
+- [Add JSDoc style documentation](https://github.com/sugarlabs/musicblocks/issues/2630)
+- [Add more documentation for some context menus](https://github.com/sugarlabs/musicblocks/issues/2403)
+- [Frame resizing after saving png removes project image [Chrome]](https://github.com/sugarlabs/musicblocks/issues/3034)
+- [star in auxiliary menu should change state on click](https://github.com/sugarlabs/musicblocks/issues/2053)
+- [Better Faux Pickup Support](https://github.com/sugarlabs/musicblocks/issues/2645)
 
-## [ZeLonewolf/openstreetmap-americana](https://github.com/ZeLonewolf/openstreetmap-americana)
+## [facebook/lexical](https://github.com/facebook/lexical)
 
-- [Odd-numbered admin-level boundaries are missing](https://github.com/ZeLonewolf/openstreetmap-americana/issues/481)
+- [Request: Support dragging & dropping text](https://github.com/facebook/lexical/issues/353)
+- [Feature: Add css class to horizontal rule node for targeted styling](https://github.com/facebook/lexical/issues/4336)
+- [Bug: Floating link editor doesn't show up for AutoLinkNode](https://github.com/facebook/lexical/issues/4202)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[refactor]: Add Border Radius property to the Chart component's configuration options](https://github.com/ToolJet/ToolJet/issues/8502)
-- [[docs]: Fix text formatting issue for Marketplace Plugins > Github page](https://github.com/ToolJet/ToolJet/issues/8595)
-- [Password input widget: Option to customise the error message styles for validations](https://github.com/ToolJet/ToolJet/issues/4206)
-- [Dark Mode compatibility issue with datepicker component in time selection UI](https://github.com/ToolJet/ToolJet/issues/7072)
-- [Change labels to sentence case for Checkbox Component](https://github.com/ToolJet/ToolJet/issues/8429)
-- [[refactor]: Update descriptions(tooltips) for QR scanner, rating, divider and file picker components](https://github.com/ToolJet/ToolJet/issues/7521)
-- [Add support for Amazon DocumentDb](https://github.com/ToolJet/ToolJet/issues/8370)
-- [[docs]: Mention about the Env dropdown in the TopBar doc](https://github.com/ToolJet/ToolJet/issues/8455)
-- [Fix the `Edit email address` button after signup](https://github.com/ToolJet/ToolJet/issues/7802)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
+- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
+- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
+- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
 
