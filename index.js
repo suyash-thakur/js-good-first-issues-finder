@@ -6,7 +6,7 @@ const marked = require('marked');
 env.config();
 
 const API_URL = 'https://api.github.com';
-const TOKEN = 'your API key';
+const TOKEN = process.env.API_KEY;
 const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 30;
 const WAIT_TIME = 1000;
