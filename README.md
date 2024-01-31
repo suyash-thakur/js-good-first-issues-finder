@@ -4,30 +4,31 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
 
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
 
-- [Unnecessary `process` polyfill when checking `process.env` and incomplete treeshaking](https://github.com/parcel-bundler/parcel/issues/8156)
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [Beta site bug](https://github.com/phlask/phlask-map/issues/376)
+- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
+- [Update V.2 Toolbar Size (Desktop)](https://github.com/phlask/phlask-map/issues/383)
+- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [facebook/react](https://github.com/facebook/react)
 
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
-- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [Bug: react-hooks/rules-of-hooks should support compound component pattern](https://github.com/facebook/react/issues/20700)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -39,48 +40,43 @@ This list gets updated every day at midnight.
 - [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [scientist-softserv/webstore](https://github.com/scientist-softserv/webstore)
 
-- [Test_runner: ` --experimental-test-coverage` generates partial file names](https://github.com/nodejs/node/issues/51299)
-- [test runner: dors the after hook run After failure ?](https://github.com/nodejs/node/issues/50901)
-- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
+- [fix cypress specs](https://github.com/scientist-softserv/webstore/issues/341)
+- [restore login ability for local development](https://github.com/scientist-softserv/webstore/issues/321)
+- [refactor shippingAddress & billingAddress](https://github.com/scientist-softserv/webstore/issues/263)
+- [Add pages e2e tests: <Service />](https://github.com/scientist-softserv/webstore/issues/256)
+- [e2e test: individual request page](https://github.com/scientist-softserv/webstore/issues/243)
+- [Testing a11y: add aria-role to all links and update tests to use aria-role](https://github.com/scientist-softserv/webstore/issues/204)
+- [EPIC: add pages e2e tests](https://github.com/scientist-softserv/webstore/issues/188)
+- [EPIC: add user flow e2e tests](https://github.com/scientist-softserv/webstore/issues/187)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 
-- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
-- [WPT Tests, which timeout should be shown as failure](https://github.com/nodejs/undici/issues/2627)
-- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
+- [Add ninjs 1.4 to `catalog.json`](https://github.com/SchemaStore/schemastore/issues/3558)
 
-## [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Add capability for specifying STIX file extensions in the File observable type](https://github.com/OpenCTI-Platform/opencti/issues/5285)
-- [Timeout in platform startup, could we get a more descriptive error?](https://github.com/OpenCTI-Platform/opencti/issues/4090)
-- [New entity type "exploit"](https://github.com/OpenCTI-Platform/opencti/issues/797)
+- [[TRIGGER] Hookdeck - New Event Received - Use async options for pre-existing sources](https://github.com/PipedreamHQ/pipedream/issues/10118)
+- [[ACTION] Apollo.io Events](https://github.com/PipedreamHQ/pipedream/issues/10007)
+- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[ACTION] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9933)
+- [[TRIGGER] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9932)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [[Components] - Plain](https://github.com/PipedreamHQ/pipedream/issues/9963)
+- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
+- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
+- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [[TRIGGER] Google calendar "working location" start / end](https://github.com/PipedreamHQ/pipedream/issues/9768)
+- [Alpaca - Place Order action: Add `extended_hour` param as a prop](https://github.com/PipedreamHQ/pipedream/issues/9476)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [CarletonURocketry/ground-station-ui](https://github.com/CarletonURocketry/ground-station-ui)
 
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
-
-- [Installation gif outdated in README](https://github.com/cypress-io/cypress/issues/28815)
-- [Clicking nested element in disabled button invokes button's onclick handler](https://github.com/cypress-io/cypress/issues/28788)
-- [cy.request: RequestBody type not aligned with RFC (e.g. boolean)](https://github.com/cypress-io/cypress/issues/28789)
-- [Property 'request' does not exist on type 'HTMLElement'. during request aliasing](https://github.com/cypress-io/cypress/issues/24823)
-- [Cypress stops execution (hangs) entering infinite loop on element focus within test](https://github.com/cypress-io/cypress/issues/28746)
-- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
-- [Clicking "View App Data" on Linux crashes Cypress](https://github.com/cypress-io/cypress/issues/20774)
-- [Selector playground doesn't correctly escape colon char in selector suggestion](https://github.com/cypress-io/cypress/issues/27258)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Block schema: Incorrect description for innerBlocks example](https://github.com/WordPress/gutenberg/issues/58381)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
-- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
-- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
+- [Update ground-station-ui README](https://github.com/CarletonURocketry/ground-station-ui/issues/39)
+- [Include dropdown of available COM ports](https://github.com/CarletonURocketry/ground-station-ui/issues/27)
 
