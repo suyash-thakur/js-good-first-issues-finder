@@ -12,51 +12,9 @@ This list gets updated every day at midnight.
 
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
-
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
-
-- [Beta site bug](https://github.com/phlask/phlask-map/issues/376)
-- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
-- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
-- [Update V.2 Toolbar Size (Desktop)](https://github.com/phlask/phlask-map/issues/383)
-- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
-
-## [facebook/react](https://github.com/facebook/react)
-
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [Bug: react-hooks/rules-of-hooks should support compound component pattern](https://github.com/facebook/react/issues/20700)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
-- [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-
-## [scientist-softserv/webstore](https://github.com/scientist-softserv/webstore)
-
-- [fix cypress specs](https://github.com/scientist-softserv/webstore/issues/341)
-- [restore login ability for local development](https://github.com/scientist-softserv/webstore/issues/321)
-- [refactor shippingAddress & billingAddress](https://github.com/scientist-softserv/webstore/issues/263)
-- [Add pages e2e tests: <Service />](https://github.com/scientist-softserv/webstore/issues/256)
-- [e2e test: individual request page](https://github.com/scientist-softserv/webstore/issues/243)
-- [Testing a11y: add aria-role to all links and update tests to use aria-role](https://github.com/scientist-softserv/webstore/issues/204)
-- [EPIC: add pages e2e tests](https://github.com/scientist-softserv/webstore/issues/188)
-- [EPIC: add user flow e2e tests](https://github.com/scientist-softserv/webstore/issues/187)
-
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-
-- [Add ninjs 1.4 to `catalog.json`](https://github.com/SchemaStore/schemastore/issues/3558)
-
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
+- [API not work with no systemd](https://github.com/PipedreamHQ/pipedream/issues/10151)
 - [[TRIGGER] Hookdeck - New Event Received - Use async options for pre-existing sources](https://github.com/PipedreamHQ/pipedream/issues/10118)
 - [[ACTION] Apollo.io Events](https://github.com/PipedreamHQ/pipedream/issues/10007)
 - [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
@@ -75,8 +33,43 @@ This list gets updated every day at midnight.
 - [[TRIGGER] Google calendar "working location" start / end](https://github.com/PipedreamHQ/pipedream/issues/9768)
 - [Alpaca - Place Order action: Add `extended_hour` param as a prop](https://github.com/PipedreamHQ/pipedream/issues/9476)
 
-## [CarletonURocketry/ground-station-ui](https://github.com/CarletonURocketry/ground-station-ui)
+## [CS-Social-Good-CalPoly/Vera](https://github.com/CS-Social-Good-CalPoly/Vera)
 
-- [Update ground-station-ui README](https://github.com/CarletonURocketry/ground-station-ui/issues/39)
-- [Include dropdown of available COM ports](https://github.com/CarletonURocketry/ground-station-ui/issues/27)
+- [Fix Footer Link Navigation](https://github.com/CS-Social-Good-CalPoly/Vera/issues/224)
+- [Fix Excessive Clickable Area Around Navbar Links](https://github.com/CS-Social-Good-CalPoly/Vera/issues/225)
+- [Add Underline to Current Tab](https://github.com/CS-Social-Good-CalPoly/Vera/issues/214)
+- [Improve Error Handling for Fetch Requests](https://github.com/CS-Social-Good-CalPoly/Vera/issues/203)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/6201)
+
+- [Resolved CodeQL alert 10 for a potential security risk](https://github.com/hackforla/website/pull/6201)
+- [Resolve CodeQL alert 10 "Potentially   unsafe external link"](https://github.com/hackforla/website/issues/6045)
+- [Epic: Create issues to resolve CodeQL alerts 1- 24 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5129)
+- [ER: Communities of Practice information updates: UI/UX CoP](https://github.com/hackforla/website/issues/6101)
+- [Add Heejung Hong to CoP Engineering on HfLA website](https://github.com/hackforla/website/pull/6197)
+- [Remove Josiah Odosu from project leadership section](https://github.com/hackforla/website/pull/6198)
+- [Resolved CodeQL alert 9 "Potentially unsafe external link"](https://github.com/hackforla/website/pull/6190)
+- [Update Project Profile: Hack for LA Site (Remove Josiah Odosu)](https://github.com/hackforla/website/issues/6165)
+- [Update Communities of Practice: Engineering (Add Heejung Hong)](https://github.com/hackforla/website/issues/6189)
+- [website-wiki repo readme setup readme development and testing](https://github.com/hackforla/website/issues/6195)
+- [Button to allow win submitter to donate](https://github.com/hackforla/website/issues/2108)
+- [Replace icon-slack-color.svg with icon-slack.svg in Resource Cards](https://github.com/hackforla/website/issues/5826)
+- [Add "_config.yml" to "ignorePaths" array in cspell.json](https://github.com/hackforla/website/issues/5850)
+- [Resolve CodeQL alert 3 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/6044)
+- [Add new variable github-handle to member Tan Zhou in civic-opportunity-project.md](https://github.com/hackforla/website/issues/6192)
+- [Add new variable github-handle to member Ray Fambro in civic-opportunity-project.md](https://github.com/hackforla/website/issues/6191)
+- [Resolve CodeQL alert 9 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/6043)
+- [ER: Communities of Practice information updates: Engineering](https://github.com/hackforla/website/issues/6183)
+- [Add github-handle for Iffath Sultana in civic-tech-index.md ](https://github.com/hackforla/website/issues/6182)
+- [Add github-handle for Dennis Chatkhan in civic-tech-index.md ](https://github.com/hackforla/website/issues/6181)
+- [Add github-handle for Maxwell Countryman Skewes in civic-tech-index.md ](https://github.com/hackforla/website/issues/6180)
+- [Add github-handle for Isaiah Ozadhe in civic-tech-index.md ](https://github.com/hackforla/website/issues/6179)
+- [Add github-handle for Ron Fu in civic-tech-index.md ](https://github.com/hackforla/website/issues/6178)
+- [Add github-handle for Bhaggyalakshmi Balasubramaniyan in civic-tech-index.md ](https://github.com/hackforla/website/issues/6177)
+- [Add github-handle for Bruce Lai in civic-tech-index.md ](https://github.com/hackforla/website/issues/6176)
+- [Add github-handle for Emerson Castaneda in civic-tech-index.md ](https://github.com/hackforla/website/issues/6175)
+- [Add github-handle for Nandana Rao in civic-tech-index.md ](https://github.com/hackforla/website/issues/6174)
+- [Add github-handle for Farzana Prianka in civic-tech-index.md ](https://github.com/hackforla/website/issues/6173)
+- [Add github-handle for Chali Prasertsri in civic-tech-index.md ](https://github.com/hackforla/website/issues/6172)
+- [Add github-handle for Briana Bennett in civic-tech-index.md ](https://github.com/hackforla/website/issues/6171)
 
