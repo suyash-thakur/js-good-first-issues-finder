@@ -4,36 +4,58 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [hubertle43100/minimal-portfolio](https://github.com/hubertle43100/minimal-portfolio)
 
-- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Block schema: Incorrect description for innerBlocks example](https://github.com/WordPress/gutenberg/issues/58381)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
-- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
-- [@wordpress/scripts lint-js not compatible with newer versions of eslint](https://github.com/WordPress/gutenberg/issues/55499)
+- [Cells are too big on medium screen](https://github.com/hubertle43100/minimal-portfolio/issues/21)
+- [Get rid of the website portfolio project](https://github.com/hubertle43100/minimal-portfolio/issues/26)
+- [Add github link for all buttons and do not display some links](https://github.com/hubertle43100/minimal-portfolio/issues/23)
+
+## [finos/git-proxy](https://github.com/finos/git-proxy)
+
+- [Scan for leaked credentials in PRs using TruffleHog OSS 🐷 ](https://github.com/finos/git-proxy/issues/414)
+- [feat: allow git-proxy to be configured both by environment as well as config file(s)](https://github.com/finos/git-proxy/issues/382)
+- [Implement a CI step to detect unused dependencies 📦 ](https://github.com/finos/git-proxy/issues/413)
+- [Replace console.log with structured logging](https://github.com/finos/git-proxy/issues/399)
+- [e2e testing of git-proxy ](https://github.com/finos/git-proxy/issues/394)
 
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
+- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
 
-## [facebook/react](https://github.com/facebook/react)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
+- [[ACTION] Apollo.io Events](https://github.com/PipedreamHQ/pipedream/issues/10007)
+- [[TRIGGER] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9932)
+- [[ACTION] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9933)
+- [API not work with no systemd](https://github.com/PipedreamHQ/pipedream/issues/10151)
+- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
+- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
+- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [[TRIGGER] Google calendar "working location" start / end](https://github.com/PipedreamHQ/pipedream/issues/9768)
 
-## [acasquete/taskmeapp](https://github.com/acasquete/taskmeapp)
+## [nartehi/TiC-Foundation](https://github.com/nartehi/TiC-Foundation)
 
-- [Notifications not working in PWA](https://github.com/acasquete/taskmeapp/issues/19)
-- [General Refactoring of Our 11-Year-Old JavaScript Application](https://github.com/acasquete/taskmeapp/issues/12)
-- [Add multiple languages support](https://github.com/acasquete/taskmeapp/issues/9)
+- [Add a donate button to the home page](https://github.com/nartehi/TiC-Foundation/issues/12)
+- [Create a new Navigation Tab](https://github.com/nartehi/TiC-Foundation/issues/13)
+- [Redesign the Donation component](https://github.com/nartehi/TiC-Foundation/issues/14)
+- [Create Quiz Component](https://github.com/nartehi/TiC-Foundation/issues/16)
+- [Landing Home page Redesign](https://github.com/nartehi/TiC-Foundation/issues/4)
+- [Redesign the About Section](https://github.com/nartehi/TiC-Foundation/issues/7)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -44,27 +66,4 @@ This list gets updated every day at midnight.
 - [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
 - [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
-
-## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
-
-- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
-- [Alarm time picker ](https://github.com/ufosc/Alarm-Clock/issues/3)
-- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
-
-## [bikehopper/bikehopper-ui](https://github.com/bikehopper/bikehopper-ui)
-
-- [Add threshold to steps warning](https://github.com/bikehopper/bikehopper-ui/issues/274)
-- [Show bike leg when tapping bike icon in detailed itinerary](https://github.com/bikehopper/bikehopper-ui/issues/284)
-- [Alert improvements](https://github.com/bikehopper/bikehopper-ui/issues/258)
-- [Progress indicators](https://github.com/bikehopper/bikehopper-ui/issues/184)
-- [Display when bikes are permitted both directions on an otherwise one-way road](https://github.com/bikehopper/bikehopper-ui/issues/268)
-- [Time picker uses system timezone rather than bay area time](https://github.com/bikehopper/bikehopper-ui/issues/125)
-- [Caltrain gray route color is confusing](https://github.com/bikehopper/bikehopper-ui/issues/152)
-- [Pinch zoom should not drag markers](https://github.com/bikehopper/bikehopper-ui/issues/181)
-- [Clearing text is annoying](https://github.com/bikehopper/bikehopper-ui/issues/244)
 
