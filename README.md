@@ -4,27 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [casanccs/projectHunter](https://github.com/casanccs/projectHunter)
-
-- [(backend) Style entire email](https://github.com/casanccs/projectHunter/issues/23)
-- [(frontend) add link to alternative signup/login](https://github.com/casanccs/projectHunter/issues/24)
-- [(frontend) Fix DOM class -> className issue in the console ](https://github.com/casanccs/projectHunter/issues/20)
-
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Add missing tests for transfer of ownership](https://github.com/nextcloud/forms/issues/1830)
-- [Edit default text of a question](https://github.com/nextcloud/forms/issues/1041)
-- [Allow changing answer types](https://github.com/nextcloud/forms/issues/352)
-
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
-
-- [Search on URL to disregard www. unless search included www. ](https://github.com/stackernews/stacker.news/issues/776)
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
@@ -35,6 +14,14 @@ This list gets updated every day at midnight.
 - [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
 - [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
 
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
 ## [ghousahmed/smit-share](https://github.com/ghousahmed/smit-share)
 
 - [Add Auto-Save Functionality to Text Input in  smit-share](https://github.com/ghousahmed/smit-share/issues/12)
@@ -43,22 +30,58 @@ This list gets updated every day at midnight.
 - [I want to add feedback feature!](https://github.com/ghousahmed/smit-share/issues/23)
 - [dwonload and delete button hide](https://github.com/ghousahmed/smit-share/issues/24)
 
-## [facebook/lexical](https://github.com/facebook/lexical)
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
 
-- [Load img error UI](https://github.com/facebook/lexical/issues/5564)
-- [Request: Support dragging & dropping text](https://github.com/facebook/lexical/issues/353)
-- [Feature: Add css class to horizontal rule node for targeted styling](https://github.com/facebook/lexical/issues/4336)
+- [Grammatical Corrections](https://github.com/LibreSign/libresign/issues/727)
 
-## [socketsupply/socket](https://github.com/socketsupply/socket)
+## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
 
-- [Warn to terminal if both `--port` (`--host`) and `--watch` being used](https://github.com/socketsupply/socket/issues/775)
-- [Improve File drag and drop API](https://github.com/socketsupply/socket/issues/791)
+- [Search on URL to disregard www. unless search included www. ](https://github.com/stackernews/stacker.news/issues/776)
+- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [playcanvas/engine](https://github.com/playcanvas/engine)
 
-- [Configuration](https://github.com/open-telemetry/opentelemetry.io/issues/3929)
-- [Update exporters intro with advantages of OTLP](https://github.com/open-telemetry/opentelemetry.io/issues/3295)
-- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
-- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
-- [Document how to change the span status](https://github.com/open-telemetry/opentelemetry.io/issues/2557)
+- [[Examples] Convert Particle examples to use AppBase and not Application](https://github.com/playcanvas/engine/issues/6022)
+
+## [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+
+- [Add capability for specifying STIX file extensions in the File observable type](https://github.com/OpenCTI-Platform/opencti/issues/5285)
+- [Timeout in platform startup, could we get a more descriptive error?](https://github.com/OpenCTI-Platform/opencti/issues/4090)
+- [New entity type "exploit"](https://github.com/OpenCTI-Platform/opencti/issues/797)
+
+## [nartehi/TiC-Foundation](https://github.com/nartehi/TiC-Foundation)
+
+- [Add a donate button to the home page](https://github.com/nartehi/TiC-Foundation/issues/12)
+- [Create a new Navigation Tab](https://github.com/nartehi/TiC-Foundation/issues/13)
+- [Create Quiz Component](https://github.com/nartehi/TiC-Foundation/issues/16)
+- [Landing Home page Redesign](https://github.com/nartehi/TiC-Foundation/issues/4)
+- [Redesign the About Section](https://github.com/nartehi/TiC-Foundation/issues/7)
+
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[UI] Tooltip changes](https://github.com/meshery/meshery/issues/10201)
+- [[Docs] Add two suggested reading links to Docs Contributing page](https://github.com/meshery/meshery/issues/10145)
+- [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
+- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
+- [[Playground Pop-Up] - Grammar adjustment](https://github.com/meshery/meshery/issues/10004)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
+- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[Docs Cloud Native app Configuration] - Grammar adjustment](https://github.com/meshery/meshery/issues/9999)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [[Docs] Contributing: Add debug level setting to Meshery Server contributing guide](https://github.com/meshery/meshery/issues/9819)
+- [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+
+- [Add ninjs 1.4 to `catalog.json`](https://github.com/SchemaStore/schemastore/issues/3558)
 
