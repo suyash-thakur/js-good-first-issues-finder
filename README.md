@@ -4,6 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
@@ -11,55 +19,9 @@ This list gets updated every day at midnight.
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Error fetching _devPagesManifest.json](https://github.com/vercel/next.js/issues/17274)
-- [ESM in .mjs files cause a dev mode runtime error](https://github.com/vercel/next.js/issues/17806)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [ghousahmed/smit-share](https://github.com/ghousahmed/smit-share)
-
-- [Add Auto-Save Functionality to Text Input in  smit-share](https://github.com/ghousahmed/smit-share/issues/12)
-- [Add links to menu-bar to their pages](https://github.com/ghousahmed/smit-share/issues/16)
-- [Create Footer with Icons](https://github.com/ghousahmed/smit-share/issues/21)
-- [I want to add feedback feature!](https://github.com/ghousahmed/smit-share/issues/23)
-- [dwonload and delete button hide](https://github.com/ghousahmed/smit-share/issues/24)
-
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
-
-- [Grammatical Corrections](https://github.com/LibreSign/libresign/issues/727)
-
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
-
-- [Search on URL to disregard www. unless search included www. ](https://github.com/stackernews/stacker.news/issues/776)
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
-
-## [playcanvas/engine](https://github.com/playcanvas/engine)
-
-- [[Examples] Convert Particle examples to use AppBase and not Application](https://github.com/playcanvas/engine/issues/6022)
-
-## [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
-
-- [Add capability for specifying STIX file extensions in the File observable type](https://github.com/OpenCTI-Platform/opencti/issues/5285)
-- [Timeout in platform startup, could we get a more descriptive error?](https://github.com/OpenCTI-Platform/opencti/issues/4090)
-- [New entity type "exploit"](https://github.com/OpenCTI-Platform/opencti/issues/797)
-
-## [nartehi/TiC-Foundation](https://github.com/nartehi/TiC-Foundation)
-
-- [Add a donate button to the home page](https://github.com/nartehi/TiC-Foundation/issues/12)
-- [Create a new Navigation Tab](https://github.com/nartehi/TiC-Foundation/issues/13)
-- [Create Quiz Component](https://github.com/nartehi/TiC-Foundation/issues/16)
-- [Landing Home page Redesign](https://github.com/nartehi/TiC-Foundation/issues/4)
-- [Redesign the About Section](https://github.com/nartehi/TiC-Foundation/issues/7)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[UI] Tooltip changes](https://github.com/meshery/meshery/issues/10201)
 - [[Docs] Add two suggested reading links to Docs Contributing page](https://github.com/meshery/meshery/issues/10145)
 - [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
@@ -81,7 +43,33 @@ This list gets updated every day at midnight.
 - [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Add ninjs 1.4 to `catalog.json`](https://github.com/SchemaStore/schemastore/issues/3558)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
+- [Alpaca - Place Order action: Add `extended_hour` param as a prop](https://github.com/PipedreamHQ/pipedream/issues/9476)
+- [[TRIGGER] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9932)
+- [[ACTION] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9933)
+- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
+- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
+- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [[TRIGGER] Google calendar "working location" start / end](https://github.com/PipedreamHQ/pipedream/issues/9768)
 
