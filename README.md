@@ -4,22 +4,45 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ghousahmed/smit-share](https://github.com/ghousahmed/smit-share)
+## [reactjs/react-modal](https://github.com/reactjs/react-modal)
 
-- [Add Auto-Save Functionality to Text Input in  smit-share](https://github.com/ghousahmed/smit-share/issues/12)
-- [Create Footer with Icons](https://github.com/ghousahmed/smit-share/issues/21)
-- [I want to add feedback feature!](https://github.com/ghousahmed/smit-share/issues/23)
-- [dwonload and delete button hide](https://github.com/ghousahmed/smit-share/issues/24)
+- [Focus escapes modal when radio buttons in modal](https://github.com/reactjs/react-modal/issues/636)
+- [Add support for React & Node 18 (as easy as adding startTransition() on each setState)](https://github.com/reactjs/react-modal/issues/1019)
 
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [facebook/react](https://github.com/facebook/react)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
+- [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
+- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
+- [[Playground Pop-Up] - Grammar adjustment](https://github.com/meshery/meshery/issues/10004)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
+- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[Docs Cloud Native app Configuration] - Grammar adjustment](https://github.com/meshery/meshery/issues/9999)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+- [[Docs] Contributing: Add debug level setting to Meshery Server contributing guide](https://github.com/meshery/meshery/issues/9819)
+- [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -28,37 +51,8 @@ This list gets updated every day at midnight.
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Add SMS integration into the app](https://github.com/ufosc/Alarm-Clock/issues/10)
-- [Fix broken link in readme](https://github.com/ufosc/Alarm-Clock/issues/8)
-- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
-- [Clean up basic alarm home page](https://github.com/ufosc/Alarm-Clock/issues/9)
-- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Update compatibility checks](https://github.com/google/site-kit-wp/issues/8101)
-- [Don't display multiple errors on the main WordPress dashboard](https://github.com/google/site-kit-wp/issues/6377)
-- [Add `audienceSegmentation` feature flag](https://github.com/google/site-kit-wp/issues/8107)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-- [Remove translation from Google product names and terms](https://github.com/google/site-kit-wp/issues/7650)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
-- [[ACTION] Create Hubspot Ticket](https://github.com/PipedreamHQ/pipedream/issues/10251)
-- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
-- [Alpaca - Place Order action: Add `extended_hour` param as a prop](https://github.com/PipedreamHQ/pipedream/issues/9476)
-- [[TRIGGER] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9932)
-- [[ACTION] Postmark](https://github.com/PipedreamHQ/pipedream/issues/9933)
-- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
-- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
-- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
-- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
-- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
-- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
-- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
-- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
-- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
 
