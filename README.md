@@ -4,46 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [reactjs/react-modal](https://github.com/reactjs/react-modal)
-
-- [Focus escapes modal when radio buttons in modal](https://github.com/reactjs/react-modal/issues/636)
-- [Add support for React & Node 18 (as easy as adding startTransition() on each setState)](https://github.com/reactjs/react-modal/issues/1019)
-
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
-- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
-- [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
-- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
-- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
-- [[Playground Pop-Up] - Grammar adjustment](https://github.com/meshery/meshery/issues/10004)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
-- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
-- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
-- [[Docs Cloud Native app Configuration] - Grammar adjustment](https://github.com/meshery/meshery/issues/9999)
-- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-- [[Docs] Contributing: Add debug level setting to Meshery Server contributing guide](https://github.com/meshery/meshery/issues/9819)
-- [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
@@ -51,8 +11,47 @@ This list gets updated every day at midnight.
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Button: Focus outline is too thick in disabled Primary variant](https://github.com/WordPress/gutenberg/issues/58632)
+- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
+- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+
+## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
+
+- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
+- [Implement tab feature](https://github.com/ufosc/Alarm-Clock/issues/19)
+- [Settings screen](https://github.com/ufosc/Alarm-Clock/issues/15)
+- [Add SMS integration into the app](https://github.com/ufosc/Alarm-Clock/issues/10)
+- [Add alarm feature  ](https://github.com/ufosc/Alarm-Clock/issues/16)
+- [Clean up basic alarm home page](https://github.com/ufosc/Alarm-Clock/issues/9)
+- [Add dark mode feature to UI](https://github.com/ufosc/Alarm-Clock/issues/14)
+- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
+
+## [Dollar-Dynasty/finance-app](https://github.com/Dollar-Dynasty/finance-app/pull/54)
+
+- [bugfix: changed title to Dollar Dynasty](https://github.com/Dollar-Dynasty/finance-app/pull/54)
+- [Landing Page](https://github.com/Dollar-Dynasty/finance-app/issues/50)
+- [convert goalCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/53)
+- [Convert categoryCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/52)
+- [Convert BudgetCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/51)
 
