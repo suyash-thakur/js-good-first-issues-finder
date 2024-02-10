@@ -4,21 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
-- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
+- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
 
 ## [facebook/react](https://github.com/facebook/react)
 
@@ -26,32 +15,60 @@ This list gets updated every day at midnight.
 - [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
 - ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Button: Focus outline is too thick in disabled Primary variant](https://github.com/WordPress/gutenberg/issues/58632)
-- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
 
-## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
-- [Implement tab feature](https://github.com/ufosc/Alarm-Clock/issues/19)
-- [Settings screen](https://github.com/ufosc/Alarm-Clock/issues/15)
-- [Add SMS integration into the app](https://github.com/ufosc/Alarm-Clock/issues/10)
-- [Add alarm feature  ](https://github.com/ufosc/Alarm-Clock/issues/16)
-- [Clean up basic alarm home page](https://github.com/ufosc/Alarm-Clock/issues/9)
-- [Add dark mode feature to UI](https://github.com/ufosc/Alarm-Clock/issues/14)
-- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
+- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
+- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
+- [Create transcription ](https://github.com/PipedreamHQ/pipedream/issues/10274)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [[ACTION] Create Hubspot Ticket](https://github.com/PipedreamHQ/pipedream/issues/10251)
+- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
+- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
+- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
+- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
 
-## [Dollar-Dynasty/finance-app](https://github.com/Dollar-Dynasty/finance-app/pull/54)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [bugfix: changed title to Dollar Dynasty](https://github.com/Dollar-Dynasty/finance-app/pull/54)
-- [Landing Page](https://github.com/Dollar-Dynasty/finance-app/issues/50)
-- [convert goalCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/53)
-- [Convert categoryCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/52)
-- [Convert BudgetCreation.html to ejs](https://github.com/Dollar-Dynasty/finance-app/issues/51)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
+- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+
+## [cjstyles6/Currency-Converter](https://github.com/cjstyles6/Currency-Converter)
+
+- [Add loading state while fetching API data](https://github.com/cjstyles6/Currency-Converter/issues/2)
+- [Conversion result shows immediately instead of after clicking "Convert"](https://github.com/cjstyles6/Currency-Converter/issues/1)
+- [Refactor codebase for readability](https://github.com/cjstyles6/Currency-Converter/issues/3)
+
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[UI] React Warnings in Meshery UI Build](https://github.com/meshery/meshery/issues/10254)
+- [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
+- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
+- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
+- [[Playground Pop-Up] - Grammar adjustment](https://github.com/meshery/meshery/issues/10004)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+- [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
