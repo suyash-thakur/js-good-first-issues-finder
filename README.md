@@ -4,39 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [Matriks404/mlc](https://github.com/Matriks404/mlc)
 
-- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
-- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
+- [Add GitHub link to the website](https://github.com/Matriks404/mlc/issues/60)
+- [Improve settings](https://github.com/Matriks404/mlc/issues/21)
 
-## [facebook/react](https://github.com/facebook/react)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
+- [Using dot (.) in variables names are recognized by the UI but not picked up when sending request](https://github.com/usebruno/bruno/issues/345)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [carbon-design-system/carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue)
 
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
-- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
-- [Create transcription ](https://github.com/PipedreamHQ/pipedream/issues/10274)
-- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
-- [[ACTION] Create Hubspot Ticket](https://github.com/PipedreamHQ/pipedream/issues/10251)
-- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
-- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
-- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
-- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
-- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
-- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
-- [Support an Alexa Verification action](https://github.com/PipedreamHQ/pipedream/issues/55)
-- [Google Cloud Storage - Delete Object](https://github.com/PipedreamHQ/pipedream/issues/9035)
-- [[ACTION] Coin Market Cap Metadata V2](https://github.com/PipedreamHQ/pipedream/issues/9431)
+- [Improve inline notification story](https://github.com/carbon-design-system/carbon-components-vue/issues/1565)
+- [Improve date picker story](https://github.com/carbon-design-system/carbon-components-vue/issues/1566)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -45,30 +30,41 @@ This list gets updated every day at midnight.
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [cjstyles6/Currency-Converter](https://github.com/cjstyles6/Currency-Converter)
+## [facebook/react](https://github.com/facebook/react)
 
-- [Add loading state while fetching API data](https://github.com/cjstyles6/Currency-Converter/issues/2)
-- [Conversion result shows immediately instead of after clicking "Convert"](https://github.com/cjstyles6/Currency-Converter/issues/1)
-- [Refactor codebase for readability](https://github.com/cjstyles6/Currency-Converter/issues/3)
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
 
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [[UI] React Warnings in Meshery UI Build](https://github.com/meshery/meshery/issues/10254)
-- [[Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
-- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
-- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
-- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
-- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
-- [[Playground Pop-Up] - Grammar adjustment](https://github.com/meshery/meshery/issues/10004)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
-- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
-- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-- [[UI] Expose configuration to control auto deployment of Operators/Controllers.](https://github.com/meshery/meshery/issues/9332)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
+- [Add SMS integration into the app](https://github.com/ufosc/Alarm-Clock/issues/10)
+- [Add alarm feature  ](https://github.com/ufosc/Alarm-Clock/issues/16)
+- [Clean up basic alarm home page](https://github.com/ufosc/Alarm-Clock/issues/9)
+- [Add dark mode feature to UI](https://github.com/ufosc/Alarm-Clock/issues/14)
+- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: Add `@stdlib/random/strided/erlang`](https://github.com/stdlib-js/stdlib/issues/876)
+
+## [hackforla/311-data](https://github.com/hackforla/311-data)
+
+- [Update 311-data README HuggingFace Link](https://github.com/hackforla/311-data/issues/1544)
+- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
+
+## [thecyberworld/TheCyberHUB](https://github.com/thecyberworld/TheCyberHUB)
+
+- [[FEATURE] Add checkbox/notifications option to user to choose get notified about events and more](https://github.com/thecyberworld/TheCyberHUB/issues/629)
+- [[BUG] Make the pattern of clicking sub comments in Feeds to work](https://github.com/thecyberworld/TheCyberHUB/issues/645)
+- [[FEATURE] Unix binaries that can be used to bypass local security restrictions in misconfigured systems like GTFO Bins, {branch: dev}.](https://github.com/thecyberworld/TheCyberHUB/issues/498)
+- [[BUG] Limit The Height of Image In Blogs Page](https://github.com/thecyberworld/TheCyberHUB/issues/642)
+- [[FEATURE] Feeds | Add Filters Of Users ](https://github.com/thecyberworld/TheCyberHUB/issues/601)
+- [[Validation BUG] If you face any validation problem, feel free to create a validation fix issue. ](https://github.com/thecyberworld/TheCyberHUB/issues/627)
+- [[OTHER] Change from Relative Paths to Absolute paths](https://github.com/thecyberworld/TheCyberHUB/issues/618)
+- [[FEATURE] Chat In Dashboard | Connected Users Display](https://github.com/thecyberworld/TheCyberHUB/issues/602)
+- [[FEATURE] Blogs | Add Filters Of Users](https://github.com/thecyberworld/TheCyberHUB/issues/600)
+- [[FEATURE] Show only connected users | Explore](https://github.com/thecyberworld/TheCyberHUB/issues/581)
+- [[FEATURE] Show only Connected Used in Chat | Dashboard -> Chat](https://github.com/thecyberworld/TheCyberHUB/issues/580)
 
