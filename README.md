@@ -4,41 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
-
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
-- [Add alert to settings page when only one auth method is linked](https://github.com/stackernews/stacker.news/issues/790)
-- [Link Post: Use canonical URL when the URL is for AMP (Accelerated Mobile Pages)](https://github.com/stackernews/stacker.news/issues/138)
-- [Having issue starting up docker env](https://github.com/stackernews/stacker.news/issues/439)
-- [Offline page is not styled](https://github.com/stackernews/stacker.news/issues/419)
-- [Smarter URL detection, not every @ in the middle makes it an e-mail address ](https://github.com/stackernews/stacker.news/issues/93)
-- [Disallow URIs in the post Title](https://github.com/stackernews/stacker.news/issues/117)
-- [Bug report: Underscores at the end of URLs](https://github.com/stackernews/stacker.news/issues/180)
-- [Improve the message that is displayed when error occurs related to node issue  ](https://github.com/stackernews/stacker.news/issues/181)
-- [Support <sub> and <sup> in markdown](https://github.com/stackernews/stacker.news/issues/253)
-- [Prevent formatting links as markdown links](https://github.com/stackernews/stacker.news/issues/323)
-- [Sign up with GitHub using account that require 2FA fails to sign up first, then succeeds in next attempt](https://github.com/stackernews/stacker.news/issues/495)
-- [Encode relays into nostr zap notification links](https://github.com/stackernews/stacker.news/issues/502)
-- [Mention doesn't work on markdown conflicts](https://github.com/stackernews/stacker.news/issues/663)
-- [Indicate if poll is still active](https://github.com/stackernews/stacker.news/issues/680)
-- [Display contribution from rewards when hovering over an items sats](https://github.com/stackernews/stacker.news/issues/684)
-- [Filtering option for earn in wallet history](https://github.com/stackernews/stacker.news/issues/685)
-- [/.well-known/security.txt](https://github.com/stackernews/stacker.news/issues/696)
-- [Searching on a territory shows incorrect context help](https://github.com/stackernews/stacker.news/issues/706)
-- [Title provided by user is overridden in link form](https://github.com/stackernews/stacker.news/issues/718)
-- [Improve the error message when LNURL Pay request fails due to reasons](https://github.com/stackernews/stacker.news/issues/735)
-- [UI Improvement after successful withdrawal](https://github.com/stackernews/stacker.news/issues/736)
-- [Web Share API runs into 500 Internal Server Error](https://github.com/stackernews/stacker.news/issues/741)
-- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -48,9 +22,41 @@ This list gets updated every day at midnight.
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 
-## [p2plabsxyz/dscan](https://github.com/p2plabsxyz/dscan)
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
-- [bug: popup window fails to gain focus after email verification](https://github.com/p2plabsxyz/dscan/issues/56)
-- [refactor: convert HTML to JSX Components ](https://github.com/p2plabsxyz/dscan/issues/51)
-- [feat: update progress percentage UI in accordance with w3up-client](https://github.com/p2plabsxyz/dscan/issues/52)
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
+
+## [life-itself/community](https://github.com/life-itself/community)
+
+- [What is Life Itself about / up to from June 2020 (post for historical purposes and for onboarding)](https://github.com/life-itself/community/issues/899)
+- [[inbox] Good first issues / for new joiners](https://github.com/life-itself/community/issues/112)
+- [[inbox] Website fixes & updates](https://github.com/life-itself/community/issues/454)
+- [Identify intentional community / conscious coliving related places to advertise residencies](https://github.com/life-itself/community/issues/93)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [DB: broken openapi documentation when using "openapi.prefix" option](https://github.com/platformatic/platformatic/issues/2081)
+- [Graphql compose not forwarding cookies](https://github.com/platformatic/platformatic/issues/1966)
+- [Update create-platformatic usage in docs](https://github.com/platformatic/platformatic/issues/2034)
+- [Runtime: Would be helpful to be able to see which services have been loaded at runtime](https://github.com/platformatic/platformatic/issues/1251)
+- [Amend webhook documentation about returned user metadata](https://github.com/platformatic/platformatic/issues/297)
+- [Add database tables allow/ignore list](https://github.com/platformatic/platformatic/issues/162)
+- [Add Links OpenAPI definitions in Platformatic DB](https://github.com/platformatic/platformatic/issues/73)
+- [Cursor based pagination for SQL queries](https://github.com/platformatic/platformatic/issues/230)
+- [Improve error message for `SQLITE_CANTOPEN`](https://github.com/platformatic/platformatic/issues/413)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
+- [HTTP2 Requests hang upon receiving 'Stream closed with error code NGHTTP2_INTERNAL_ERROR'](https://github.com/nodejs/undici/issues/2675)
+- [WPT Tests, which timeout should be shown as failure](https://github.com/nodejs/undici/issues/2627)
+- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
 
