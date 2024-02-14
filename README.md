@@ -16,11 +16,19 @@ This list gets updated every day at midnight.
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
 
 ## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 
@@ -28,35 +36,28 @@ This list gets updated every day at midnight.
 - [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
 - [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
 
-## [life-itself/community](https://github.com/life-itself/community)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [What is Life Itself about / up to from June 2020 (post for historical purposes and for onboarding)](https://github.com/life-itself/community/issues/899)
-- [[inbox] Good first issues / for new joiners](https://github.com/life-itself/community/issues/112)
-- [[inbox] Website fixes & updates](https://github.com/life-itself/community/issues/454)
-- [Identify intentional community / conscious coliving related places to advertise residencies](https://github.com/life-itself/community/issues/93)
+- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
+- [Using dot (.) in variables names are recognized by the UI but not picked up when sending request](https://github.com/usebruno/bruno/issues/345)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
 
-## [facebook/react](https://github.com/facebook/react)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [Parcel 2: Markdown transformer](https://github.com/parcel-bundler/parcel/issues/3357)
+- [Unnecessary `process` polyfill when checking `process.env` and incomplete treeshaking](https://github.com/parcel-bundler/parcel/issues/8156)
 
-## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [DB: broken openapi documentation when using "openapi.prefix" option](https://github.com/platformatic/platformatic/issues/2081)
-- [Graphql compose not forwarding cookies](https://github.com/platformatic/platformatic/issues/1966)
-- [Update create-platformatic usage in docs](https://github.com/platformatic/platformatic/issues/2034)
-- [Runtime: Would be helpful to be able to see which services have been loaded at runtime](https://github.com/platformatic/platformatic/issues/1251)
-- [Amend webhook documentation about returned user metadata](https://github.com/platformatic/platformatic/issues/297)
-- [Add database tables allow/ignore list](https://github.com/platformatic/platformatic/issues/162)
-- [Add Links OpenAPI definitions in Platformatic DB](https://github.com/platformatic/platformatic/issues/73)
-- [Cursor based pagination for SQL queries](https://github.com/platformatic/platformatic/issues/230)
-- [Improve error message for `SQLITE_CANTOPEN`](https://github.com/platformatic/platformatic/issues/413)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [Move from tap to the node core test runner](https://github.com/nodejs/undici/issues/2267)
-- [HTTP2 Requests hang upon receiving 'Stream closed with error code NGHTTP2_INTERNAL_ERROR'](https://github.com/nodejs/undici/issues/2675)
-- [WPT Tests, which timeout should be shown as failure](https://github.com/nodejs/undici/issues/2627)
-- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
+- [Command Palette: Prevent third-party plugins from crashing the editor.](https://github.com/WordPress/gutenberg/issues/58939)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Button: Focus outline is too thick in disabled Primary variant](https://github.com/WordPress/gutenberg/issues/58632)
+- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
+- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
 
