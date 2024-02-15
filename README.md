@@ -4,15 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+
+- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
+- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -23,41 +27,42 @@ This list gets updated every day at midnight.
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
+- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
+- [Create transcription ](https://github.com/PipedreamHQ/pipedream/issues/10274)
+- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
+- [[ACTION] Create Hubspot Ticket](https://github.com/PipedreamHQ/pipedream/issues/10251)
+- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
+- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
+- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
+- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
+- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
+- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
 
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Middle click on tab to close the tab](https://github.com/usebruno/bruno/issues/485)
-- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
-- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
-- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
-- [Using dot (.) in variables names are recognized by the UI but not picked up when sending request](https://github.com/usebruno/bruno/issues/345)
-- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
-- [Parcel 2: Markdown transformer](https://github.com/parcel-bundler/parcel/issues/3357)
-- [Unnecessary `process` polyfill when checking `process.env` and incomplete treeshaking](https://github.com/parcel-bundler/parcel/issues/8156)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Command Palette: Prevent third-party plugins from crashing the editor.](https://github.com/WordPress/gutenberg/issues/58939)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Button: Focus outline is too thick in disabled Primary variant](https://github.com/WordPress/gutenberg/issues/58632)
-- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-- [Scripts: Lazy loaded JavaScript files do not break browser cache upon changes](https://github.com/WordPress/gutenberg/issues/55397)
+- [Add alert to settings page when only one auth method is linked](https://github.com/stackernews/stacker.news/issues/790)
+- [Link Post: Use canonical URL when the URL is for AMP (Accelerated Mobile Pages)](https://github.com/stackernews/stacker.news/issues/138)
+- [Having issue starting up docker env](https://github.com/stackernews/stacker.news/issues/439)
+- [Offline page is not styled](https://github.com/stackernews/stacker.news/issues/419)
+- [Smarter URL detection, not every @ in the middle makes it an e-mail address ](https://github.com/stackernews/stacker.news/issues/93)
+- [Disallow URIs in the post Title](https://github.com/stackernews/stacker.news/issues/117)
+- [Bug report: Underscores at the end of URLs](https://github.com/stackernews/stacker.news/issues/180)
+- [Improve the message that is displayed when error occurs related to node issue  ](https://github.com/stackernews/stacker.news/issues/181)
+- [Support <sub> and <sup> in markdown](https://github.com/stackernews/stacker.news/issues/253)
+- [Prevent formatting links as markdown links](https://github.com/stackernews/stacker.news/issues/323)
+- [Sign up with GitHub using account that require 2FA fails to sign up first, then succeeds in next attempt](https://github.com/stackernews/stacker.news/issues/495)
+- [Encode relays into nostr zap notification links](https://github.com/stackernews/stacker.news/issues/502)
+- [Indicate if poll is still active](https://github.com/stackernews/stacker.news/issues/680)
+- [Display contribution from rewards when hovering over an items sats](https://github.com/stackernews/stacker.news/issues/684)
+- [Filtering option for earn in wallet history](https://github.com/stackernews/stacker.news/issues/685)
+- [/.well-known/security.txt](https://github.com/stackernews/stacker.news/issues/696)
+- [Searching on a territory shows incorrect context help](https://github.com/stackernews/stacker.news/issues/706)
+- [Title provided by user is overridden in link form](https://github.com/stackernews/stacker.news/issues/718)
+- [Improve the error message when LNURL Pay request fails due to reasons](https://github.com/stackernews/stacker.news/issues/735)
+- [UI Improvement after successful withdrawal](https://github.com/stackernews/stacker.news/issues/736)
+- [Web Share API runs into 500 Internal Server Error](https://github.com/stackernews/stacker.news/issues/741)
+- [Hidden user feedback on errors in options](https://github.com/stackernews/stacker.news/issues/491)
 
