@@ -14,9 +14,26 @@ This list gets updated every day at midnight.
 - [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
+- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
+- [[Meta] Sampling](https://github.com/open-telemetry/opentelemetry.io/issues/2548)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
+
+## [ufosc/Alarm-Clock](https://github.com/ufosc/Alarm-Clock)
+
+- [Add badges to README](https://github.com/ufosc/Alarm-Clock/issues/32)
+- [Finish README ](https://github.com/ufosc/Alarm-Clock/issues/1)
+- [Clean up basic alarm home page](https://github.com/ufosc/Alarm-Clock/issues/9)
+- [Notifications and sound](https://github.com/ufosc/Alarm-Clock/issues/4)
+- [Add SMS integration into the app](https://github.com/ufosc/Alarm-Clock/issues/10)
+- [Add alarm feature  ](https://github.com/ufosc/Alarm-Clock/issues/16)
+- [Add dark mode feature to UI](https://github.com/ufosc/Alarm-Clock/issues/14)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -25,24 +42,36 @@ This list gets updated every day at midnight.
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 - [Add support for server-timing header](https://github.com/vercel/next.js/issues/12382)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [NCEAS/metacatui](https://github.com/NCEAS/metacatui)
 
-- [[TRIGGER] Salesforce Pub/Sub Events](https://github.com/PipedreamHQ/pipedream/issues/10212)
-- [[Action] Elevenlabs - Add Voice ](https://github.com/PipedreamHQ/pipedream/issues/9089)
-- [Create transcription ](https://github.com/PipedreamHQ/pipedream/issues/10274)
-- [[ACTION] Save web page to omnivore by sending HTML content instead of a URL](https://github.com/PipedreamHQ/pipedream/issues/9898)
-- [[ACTION] Create Hubspot Ticket](https://github.com/PipedreamHQ/pipedream/issues/10251)
-- [[ACTION] Onedrive - Create shared link](https://github.com/PipedreamHQ/pipedream/issues/9965)
-- [[ACTION] Telegram - Download Voice message to tmp dir](https://github.com/PipedreamHQ/pipedream/issues/6162)
-- [[TRIGGER] Chat trigger](https://github.com/PipedreamHQ/pipedream/issues/9856)
-- [[TRIGGER] Squarespace: When new customer signs up for Members Area, new user is created in Google Directory](https://github.com/PipedreamHQ/pipedream/issues/7311)
-- [BloomGrowth To Do marked as completed](https://github.com/PipedreamHQ/pipedream/issues/9830)
-- [[TRIGGER] Pipedream Data Store - New Key in Data Store, Updated key in Data Store](https://github.com/PipedreamHQ/pipedream/issues/9408)
+- [Incorrect Ordering of Categories in Cesium LegendView](https://github.com/NCEAS/metacatui/issues/2184)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [@stylexjs/eslint-plugin: Better parsing to correctly validate various values.](https://github.com/facebook/stylex/issues/420)
+- [[Bug] Properties not recognized by eslint-plugin](https://github.com/facebook/stylex/issues/135)
+- [Safe typings for TypeScript v4](https://github.com/facebook/stylex/issues/327)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+
+- [Add capability for specifying STIX file extensions in the File observable type](https://github.com/OpenCTI-Platform/opencti/issues/5285)
+- [Timeout in platform startup, could we get a more descriptive error?](https://github.com/OpenCTI-Platform/opencti/issues/4090)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
 
 ## [stackernews/stacker.news](https://github.com/stackernews/stacker.news)
 
+- [Related section not collapsed after first reply](https://github.com/stackernews/stacker.news/issues/837)
 - [Add alert to settings page when only one auth method is linked](https://github.com/stackernews/stacker.news/issues/790)
 - [Link Post: Use canonical URL when the URL is for AMP (Accelerated Mobile Pages)](https://github.com/stackernews/stacker.news/issues/138)
 - [Having issue starting up docker env](https://github.com/stackernews/stacker.news/issues/439)
