@@ -4,70 +4,51 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
-
-- [Add capability for specifying STIX file extensions in the File observable type](https://github.com/OpenCTI-Platform/opencti/issues/5285)
-- [Timeout in platform startup, could we get a more descriptive error?](https://github.com/OpenCTI-Platform/opencti/issues/4090)
-
 ## [cncf/landscape-graph](https://github.com/cncf/landscape-graph)
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [nartehi/TiC-Foundation](https://github.com/nartehi/TiC-Foundation)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [Add a donate button to the home page](https://github.com/nartehi/TiC-Foundation/issues/12)
-- [Create a new Navigation Tab](https://github.com/nartehi/TiC-Foundation/issues/13)
-- [Create Quiz Component](https://github.com/nartehi/TiC-Foundation/issues/16)
-- [Redesign the About Section](https://github.com/nartehi/TiC-Foundation/issues/7)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
-
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
-- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
-- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
-- [DeepLinking onClick does not scroll or open Operation.  ](https://github.com/swagger-api/swagger-ui/issues/3958)
-- [OpenAPI 3.1.0 support: add support for expandable OpenAPI.webhooks grouped by tags](https://github.com/swagger-api/swagger-ui/issues/8490)
-- [XML hints in the Model view show "OrderedMap"](https://github.com/swagger-api/swagger-ui/issues/3954)
-
-## [endojs/endo](https://github.com/endojs/endo)
-
-- [Replace toString overrides with @toStringTag symbol overrides](https://github.com/endojs/endo/issues/676)
-
-## [facebook/react](https://github.com/facebook/react)
-
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-
-## [pinojs/pino](https://github.com/pinojs/pino)
-
-- [Update modules for v9](https://github.com/pinojs/pino/issues/1762)
-
-## [neoneye/ARC-Interactive](https://github.com/neoneye/ARC-Interactive)
-
-- [Editor: Overview eliminate excessive space between images on mobile devices](https://github.com/neoneye/ARC-Interactive/issues/27)
-- [Editor: Double tap on iOS causes unwanted zoom](https://github.com/neoneye/ARC-Interactive/issues/25)
-- [Editor: Tool panel with nicer buttons](https://github.com/neoneye/ARC-Interactive/issues/22)
+- [Clean up deprecated cosmos-sdk 0.46 API usage](https://github.com/Agoric/agoric-sdk/issues/8803)
+- [Clean up deprecated cosmos-sdk 0.47 API usage](https://github.com/Agoric/agoric-sdk/issues/8804)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
 
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Grammatical Corrections](https://github.com/LibreSign/libresign/issues/727)
 
-## [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Close the map flying animation for web map client](https://github.com/Greenstand/treetracker-web-map-client/issues/1723)
+- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
+- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
+- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
+- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
+- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[Catalog] Publish PHP Guestbook application with Redis](https://github.com/meshery/meshery/issues/9288)
+- [[Docs] Improve code formatting](https://github.com/meshery/meshery/issues/9897)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 
