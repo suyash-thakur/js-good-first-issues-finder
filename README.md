@@ -8,11 +8,6 @@ This list gets updated every day at midnight.
 
 - [Create documentation site (GitHub Pages or Netlify) using Docusaurus](https://github.com/cncf/landscape-graph/issues/97)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [Clean up deprecated cosmos-sdk 0.46 API usage](https://github.com/Agoric/agoric-sdk/issues/8803)
-- [Clean up deprecated cosmos-sdk 0.47 API usage](https://github.com/Agoric/agoric-sdk/issues/8804)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
@@ -20,9 +15,44 @@ This list gets updated every day at midnight.
 - [[Feature Request] View the app "On Your Network"](https://github.com/vercel/next.js/issues/11367)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Grammatical Corrections](https://github.com/LibreSign/libresign/issues/727)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
+
+## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+
+- [Better message when a supported browser in not found.](https://github.com/cypress-io/cypress/issues/28914)
+- [`its` type should exclude `null` and `undefined`](https://github.com/cypress-io/cypress/issues/28872)
+- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
+- [Errors from (fault)net::ERR_EMPTY_RESPONSE and TypeError [ERR_INVALID_HTTP_TOKEN]: Internal error during proxy](https://github.com/cypress-io/cypress/issues/28865)
+- [Error when using `scrollBehavior:false` at config with TypeScript](https://github.com/cypress-io/cypress/issues/28602)
+- [cy.request: RequestBody type not aligned with RFC (e.g. boolean)](https://github.com/cypress-io/cypress/issues/28789)
+- [Clicking nested element in disabled button invokes button's onclick handler](https://github.com/cypress-io/cypress/issues/28788)
+- [Property 'request' does not exist on type 'HTMLElement'. during request aliasing](https://github.com/cypress-io/cypress/issues/24823)
+- [Cypress stops execution (hangs) entering infinite loop on element focus within test](https://github.com/cypress-io/cypress/issues/28746)
+
+## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [HTTP2 Requests hang upon receiving 'Stream closed with error code NGHTTP2_INTERNAL_ERROR'](https://github.com/nodejs/undici/issues/2675)
+- [WPT Tests, which timeout should be shown as failure](https://github.com/nodejs/undici/issues/2627)
+- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
+
+## [Matriks404/mlc](https://github.com/Matriks404/mlc)
+
+- [Add GitHub link to the website](https://github.com/Matriks404/mlc/issues/60)
+- [Improve settings](https://github.com/Matriks404/mlc/issues/21)
+
+## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+
+- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
+- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
+- [Login: cookie notice needs padding and eye icon isn't vertically centred](https://github.com/Automattic/wp-calypso/issues/65961)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
