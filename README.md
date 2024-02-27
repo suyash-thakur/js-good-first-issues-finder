@@ -4,15 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [acm-projects/DineOutBuddy](https://github.com/acm-projects/DineOutBuddy)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Setup Env](https://github.com/acm-projects/DineOutBuddy/issues/23)
-- [User Flow](https://github.com/acm-projects/DineOutBuddy/issues/22)
-- [Wireframes](https://github.com/acm-projects/DineOutBuddy/issues/21)
-- [Restaurant/Menu Database](https://github.com/acm-projects/DineOutBuddy/issues/17)
-- [Profile/Group Database](https://github.com/acm-projects/DineOutBuddy/issues/16)
-- [Chatbot Research](https://github.com/acm-projects/DineOutBuddy/issues/13)
-- [Color Pallet](https://github.com/acm-projects/DineOutBuddy/issues/12)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
+- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -22,42 +20,32 @@ This list gets updated every day at midnight.
 - [Delete and search icons are overlapping in brave://history](https://github.com/brave/brave-browser/issues/32399)
 - [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 
-## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+## [PotLock/bos-app](https://github.com/PotLock/bos-app)
 
-- [[Feature request] CommonJS compatability](https://github.com/xenova/transformers.js/issues/152)
+- [[BUG] Upload profile picture button not working](https://github.com/PotLock/bos-app/issues/283)
+- [[ENHANCE] Use correct background for homepage (ListPage)](https://github.com/PotLock/bos-app/issues/282)
+- [[BUG] Some Projects have no tags](https://github.com/PotLock/bos-app/issues/256)
+- [[ENHANCE] Link Support](https://github.com/PotLock/bos-app/issues/253)
 
-## [facebook/react](https://github.com/facebook/react)
+## [acasquete/taskmeapp](https://github.com/acasquete/taskmeapp)
 
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [False positive getDefaultProps warning when mixing development and production versions](https://github.com/facebook/react/issues/9999)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Add multiple languages support](https://github.com/acasquete/taskmeapp/issues/9)
+- [General Refactoring of Our 11-Year-Old JavaScript Application](https://github.com/acasquete/taskmeapp/issues/12)
 
-## [gbowne1/TwitchBot](https://github.com/gbowne1/TwitchBot)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[Bug] Deprecated index.css properities causing Firefox issues](https://github.com/gbowne1/TwitchBot/issues/50)
-- [[TODO] Improve the PWA by updating the manifest.json, etc.](https://github.com/gbowne1/TwitchBot/issues/73)
-- [[TODO] create documentation for server database backend ](https://github.com/gbowne1/TwitchBot/issues/67)
-- [[TODO] Add provisions for OBS overlay for streamer ](https://github.com/gbowne1/TwitchBot/issues/66)
-- [[TODO] add provisions for drop game(s)](https://github.com/gbowne1/TwitchBot/issues/65)
-- [[ToDo] add models for MongoDB ](https://github.com/gbowne1/TwitchBot/issues/55)
-- [[TODO] Set up server side logging ](https://github.com/gbowne1/TwitchBot/issues/29)
-- [[TODO] Update the server side / backend / database / ORM  packages](https://github.com/gbowne1/TwitchBot/issues/15)
-- [[Testing] Add tests for login/logout ](https://github.com/gbowne1/TwitchBot/issues/61)
-- [[TODO] Some of the app has missing styling ](https://github.com/gbowne1/TwitchBot/issues/41)
-- [an error occurred when trying to log in](https://github.com/gbowne1/TwitchBot/issues/54)
-- [[TODO] Add a analytics page for streamers ](https://github.com/gbowne1/TwitchBot/issues/43)
-- [Implement OAuth2 for the Twitch API etc](https://github.com/gbowne1/TwitchBot/issues/38)
-- [[TODO][Bug] There is no UI item to close the drawer](https://github.com/gbowne1/TwitchBot/issues/33)
-- [Re-ocurrung chat comment / post](https://github.com/gbowne1/TwitchBot/issues/31)
-- [[TODO] Remove server side routing, use the current Client Side routing.](https://github.com/gbowne1/TwitchBot/issues/27)
-- [[Bug] Fix the bundle/routing for AppBarComponent](https://github.com/gbowne1/TwitchBot/issues/26)
-- [Add Discord.js/TMI.js webhook ](https://github.com/gbowne1/TwitchBot/issues/23)
-- [[TODO]  Packages to consider for client and server side](https://github.com/gbowne1/TwitchBot/issues/17)
-- [[TODO] Make a nice home/welcome screen](https://github.com/gbowne1/TwitchBot/issues/16)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Site Editor: consistent name for the Edit buttons](https://github.com/WordPress/gutenberg/issues/47780)
+- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
+- [Social Icons: Update Reddit Logo](https://github.com/WordPress/gutenberg/issues/59088)
+- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
+- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
+- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
+- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
+- [Social icons: Update Soundcloud Logo](https://github.com/WordPress/gutenberg/issues/59084)
+- [Button: Focus outline is too thick in disabled Primary variant](https://github.com/WordPress/gutenberg/issues/58632)
+- [Command Palette: Prevent third-party plugins from crashing the editor.](https://github.com/WordPress/gutenberg/issues/58939)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Social Icons block: Update the Medium logo](https://github.com/WordPress/gutenberg/issues/57064)
+- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
 
