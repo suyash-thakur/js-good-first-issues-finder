@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [hackforla/311-data](https://github.com/hackforla/311-data)
+
+- [Add the Privacy route back to reactivate Privacy page](https://github.com/hackforla/311-data/issues/1681)
+- [Display Neighborhood Council name when hovering over map so users know what they are clicking on](https://github.com/hackforla/311-data/issues/1538)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
@@ -11,25 +16,14 @@ This list gets updated every day at midnight.
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 - [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
 
-## [nextcloud/tables](https://github.com/nextcloud/tables)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Add import link to spreadsheets in files](https://github.com/nextcloud/tables/issues/365)
-- [Link field overflows border](https://github.com/nextcloud/tables/issues/778)
-- [Add plus and minus buttons for counter](https://github.com/nextcloud/tables/issues/603)
-- [Casesensitive frontend filter for text in selection columns](https://github.com/nextcloud/tables/issues/458)
-- [Add button to copy internal link when sharing](https://github.com/nextcloud/tables/issues/421)
+- [Missing types for `category.supportedModes` and `node.explanation`](https://github.com/GoogleChrome/lighthouse/issues/15799)
 
-## [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+## [meteor/meteor](https://github.com/meteor/meteor)
 
-- [Hever / Varia: Mobile Menu has a transparent background on a specific pages with a Contact Form](https://github.com/Automattic/wp-calypso/issues/72288)
-- [Theme Demo: Improve purchase bar](https://github.com/Automattic/wp-calypso/issues/85539)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
-- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
-- [test_runner: always use paths to identify files](https://github.com/nodejs/node/issues/51610)
-- [Test_runner: ` --experimental-test-coverage` generates partial file names](https://github.com/nodejs/node/issues/51299)
+- [Feature - Add TypeScript variations to `meteor create`](https://github.com/meteor/meteor/issues/12792)
+- [Unable to run meteor mongo in METEOR@2.14](https://github.com/meteor/meteor/issues/12941)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -38,45 +32,40 @@ This list gets updated every day at midnight.
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [yusufyusie/Book-my-Doctor-UI](https://github.com/yusufyusie/Book-my-Doctor-UI)
 
-- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
-- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [[5.5pt] Display list of selected items on the main page. - Team Member 2](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/10)
+- [[2.5pt ]Set up a "Book an Appointment " project as one app with Webpack - Group Task ](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/13)
+- [[3] API documentation -Group Task](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/14)
+- [[8 pt ] Implement functionality to display user's reservations.- Team member 3 ](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/3)
+- [[5.5 pt] Implement reservation functionality-Team member 3 ](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/6)
+- [[5.5 pt] Implement additional features- Team Member 4 ](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/4)
+- [[8pt] Create responsive design for mobile and desktop. - Team member 4](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/5)
+- [[8 pt] Create details page for each item. -Team member2](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/7)
+- [[5.5 pt] Implement a username-based authentication system. - Team Member 1](https://github.com/yusufyusie/Book-my-Doctor-UI/issues/12)
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [wp_safe_remote_get request to an HTTPS site fails](https://github.com/WordPress/wordpress-playground/issues/396)
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[bug] res.reponseTime fails to be asserted in runner](https://github.com/usebruno/bruno/issues/1145)
+- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
+- [[Feature Request] Allow specify request tab opened by deafult](https://github.com/usebruno/bruno/issues/332)
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [life-itself/community](https://github.com/life-itself/community)
 
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Docs] Dark mode bug](https://github.com/meshery/meshery/issues/10351)
-- [[DevOps] Create new Helm sub-chart for Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10370)
-- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
-- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
-- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
-- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
-- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
-- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [Post on blog 2020 idea/proposal about "Embodied Inquiry: Maps and Rafts"](https://github.com/life-itself/community/issues/1050)
+- [[inbox] Good first issues / for new joiners](https://github.com/life-itself/community/issues/112)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
-- [Dedicated Observer/Supervisor Class](https://github.com/Significant-Gravitas/AutoGPT/issues/4242)
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
+- [Provide documentation link for the warning ` Using a JavaScript PostCSS config file means losing out on caching features of Parcel. Use a .postcssrc(.json) file whenever possible.`](https://github.com/parcel-bundler/parcel/issues/5699)
+- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [`ENOENT no such file or directory, open 'parcel/packages/runtimes/js/src/runtime-0b0f0826e994744b.js`](https://github.com/parcel-bundler/parcel/issues/8392)
+- [Parcel 2: Markdown transformer](https://github.com/parcel-bundler/parcel/issues/3357)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
+- [test_runner: always use paths to identify files](https://github.com/nodejs/node/issues/51610)
 
