@@ -4,12 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [NostalgiArcade/NostalgiArcade](https://github.com/NostalgiArcade/NostalgiArcade)
+
+- [Create a game on scratch](https://github.com/NostalgiArcade/NostalgiArcade/issues/1)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
-- [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Dark mode bug](https://github.com/meshery/meshery/issues/10351)
@@ -39,4 +44,8 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
 - [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
+
+## [BUGS-NYU/nyu-cs-wiki](https://github.com/BUGS-NYU/nyu-cs-wiki)
+
+- [Link to CS@NYU discord](https://github.com/BUGS-NYU/nyu-cs-wiki/issues/99)
 
