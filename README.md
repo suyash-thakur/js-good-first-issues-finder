@@ -4,9 +4,33 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [NostalgiArcade/NostalgiArcade](https://github.com/NostalgiArcade/NostalgiArcade)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Create a game on scratch](https://github.com/NostalgiArcade/NostalgiArcade/issues/1)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Syntax error: Extra closing curly brace in 'inputStyleNeutral' CSS component](https://github.com/WordPress/gutenberg/issues/59529)
+- [Site Editor: Save shortcut shouldn't open the save sidebar](https://github.com/WordPress/gutenberg/issues/59472)
+- [Short description in `readme.txt` is too long](https://github.com/WordPress/gutenberg/issues/59494)
+- [Standardize capitalization of the term 'navigation menu'](https://github.com/WordPress/gutenberg/issues/59442)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Social Icons: Update Reddit Logo](https://github.com/WordPress/gutenberg/issues/59088)
+- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
+- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
+- [<FormTokenField> has links to outdated docu](https://github.com/WordPress/gutenberg/issues/59343)
+- [Maybe tags panel using hardcoded "tags" string instead of tags taxonomy name label](https://github.com/WordPress/gutenberg/issues/22588)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Button: Replace deprecated isSmall property with size="small" property](https://github.com/WordPress/gutenberg/issues/53560)
+- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
+- [Allow custom style variation classNames](https://github.com/WordPress/gutenberg/issues/11763)
+- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
+- [Social icons: Update Soundcloud Logo](https://github.com/WordPress/gutenberg/issues/59084)
+- [Command Palette: Prevent third-party plugins from crashing the editor.](https://github.com/WordPress/gutenberg/issues/58939)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -44,8 +68,4 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
 - [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
-
-## [BUGS-NYU/nyu-cs-wiki](https://github.com/BUGS-NYU/nyu-cs-wiki)
-
-- [Link to CS@NYU discord](https://github.com/BUGS-NYU/nyu-cs-wiki/issues/99)
 
