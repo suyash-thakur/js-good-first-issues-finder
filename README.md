@@ -4,13 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
@@ -21,6 +14,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] registry command help points to incorrect URL](https://github.com/meshery/meshery/issues/10502)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
@@ -49,43 +43,4 @@ This list gets updated every day at midnight.
 - [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
 - [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
-- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[Screenshots] Dragonfly under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5321)
-- [[Screenshots] AWS VPC CNI under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4854)
-- [[Screenshots] Fluentbit Skt under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5334)
-- [[Screenshots] Capsule Proxy under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4861)
-- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
-- [[Screenshots] Container Network Interface (CNI) under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4874)
-- [[Screenshots] Argo Workflows under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4847)
-- [[Screenshots] Aperture Controller under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4843)
-- [[Screenshots] Armory Spinnaker Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4849)
-- [[Screenshots] Apache Shardingsphere Operator Charts under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4841)
-- [[Screenshots] Cloudevents under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4869)
-- [[Screenshots] Confidential Containers under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4872)
-- [[Screenshots] Etcd Cluster Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5327)
-- [[Screenshots] Argo under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4862)
-- [[Screenshots] Containerssh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4876)
-- [[Screenshots] Chaos Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4867)
-- [[Screenshots] Dex under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5319)
-- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
-- [[Screenshots] Envoy under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5326)
-- [[Screenshots] External Secrets Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5328)
-- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
-- [[Screenshots] Aperture Agent under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4842)
-- [[Screenshots] Falco under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5329)
-- [[Screenshots] Emissary Ingress under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5325)
-- [[Screenshots] Flagger under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5331)
-- [[Screenshots] Citrix Service Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4880)
-- [[Screenshots] APISIX Ingress Controller under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4844)
-- [ Add Mention of Badges Site to Layer5.io Pages](https://github.com/layer5io/layer5/issues/4892)
-- [[Screenshots] Jfrog Distribution under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5320)
-- [[Screenshots] Fluentd Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5335)
 
