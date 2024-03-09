@@ -4,19 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
-- [Make it easier to copy the version, revision, and OS when reporting an issue](https://github.com/brave/brave-browser/issues/6916)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
-- [[mesheryctl] registry command help points to incorrect URL](https://github.com/meshery/meshery/issues/10502)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
@@ -40,7 +31,16 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [Add WSL 2 Setup Link to Meshery UI Contributing page](https://github.com/meshery/meshery/issues/9581)
-- [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
+- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [UX: Replace all FontAwesome Icons with New Icons](https://github.com/MetaMask/metamask-extension/issues/17475)
+- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
 
