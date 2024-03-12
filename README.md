@@ -4,10 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Pomax/custom-graphics-element](https://github.com/Pomax/custom-graphics-element)
-
-- [add pause-when-not-visible](https://github.com/Pomax/custom-graphics-element/issues/4)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
@@ -47,4 +43,37 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
 - [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: improve README examples of `stats/base/dists/studentized-range` namespace](https://github.com/stdlib-js/stdlib/issues/1644)
+- [[RFC]: refactor `blas/ext/base/ssorthp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1537)
+- [[RFC]: refactor `blas/ext/base/dsnannsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1491)
+- [[RFC]: refactor `blas/ext/base/ssortsh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1539)
+- [[RFC]: add tests to `@stdlib/utils/compact-adjacency-matrix`](https://github.com/stdlib-js/stdlib/issues/1330)
+- [[RFC]: Add C implementation for @stdlib/math/base/special/cot](https://github.com/stdlib-js/stdlib/issues/1663)
+- [[RFC]: refactor `blas/ext/base/dsum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1504)
+- [[RFC]: refactor `blas/ext/base/snansumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1531)
+- [[RFC]: add C implementation for `math/base/special/xlogy`](https://github.com/stdlib-js/stdlib/issues/1815)
+- [[RFC]: Add C implementation for `@stdlib/math/base/special/negafibonacci`](https://github.com/stdlib-js/stdlib/issues/1758)
+- [[RFC]: improve README examples of `ndarray/base/napi` namespace](https://github.com/stdlib-js/stdlib/issues/1587)
+- [[RFC]: refactor `blas/ext/base/dapx` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1464)
+- [[RFC]: refactor `blas/ext/base/dapxsum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1465)
+- [[RFC]: refactor `blas/ext/base/ssort2hp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1534)
+- [[RFC]: Add `@stdlib/utils/any-own-by`](https://github.com/stdlib-js/stdlib/issues/819)
+- [[RFC]: improve README examples of `random/iter` namespace](https://github.com/stdlib-js/stdlib/issues/1607)
+- [[RFC]: improve README examples of `stats/incr` namespace](https://github.com/stdlib-js/stdlib/issues/1651)
+- [[RFC]: improve README examples of `constants/time` namespace](https://github.com/stdlib-js/stdlib/issues/1562)
+- [[RFC]: Add C implementation for `@stdlib/math/base/special/bernoulli`](https://github.com/stdlib-js/stdlib/issues/1664)
+- [[RFC]: refactor `blas/ext/base/sfill` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1527)
+- [[RFC]: Add C implementation for `@stdlib/math/base/special/fibonacci-index`](https://github.com/stdlib-js/stdlib/issues/1756)
+- [[RFC]: add `@stdlib/string/base/last-code-point`](https://github.com/stdlib-js/stdlib/issues/1702)
+- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
+- [[RFC]: improve README examples of `stats/base/dists/rayleigh` namespace](https://github.com/stdlib-js/stdlib/issues/1642)
+- [[RFC]: Add `@stdlib/number/napi/int32`](https://github.com/stdlib-js/stdlib/issues/827)
+- [[RFC]: refactor `blas/ext/base/ssumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1542)
+- [[RFC]: refactor `blas/ext/base/ssortins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1538)
+- [[RFC]: improve README examples of `array/base/assert` namespace](https://github.com/stdlib-js/stdlib/issues/1545)
+- [[RFC]: refactor `blas/ext/base/scusum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1516)
+- [[RFC]: add `@stdlib/string/base/last-grapheme-cluster`](https://github.com/stdlib-js/stdlib/issues/1729)
 
