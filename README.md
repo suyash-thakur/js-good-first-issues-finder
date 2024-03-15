@@ -4,6 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
+
+- [Update Test Drivetrain Program for Phoenix 6 instead of Phoenix 5](https://github.com/wpilibsuite/frc-docs/issues/2400)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
@@ -11,52 +15,37 @@ This list gets updated every day at midnight.
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Silence lint warnings in cosmos-sdk](https://github.com/Agoric/agoric-sdk/issues/9034)
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
+- [[DevOps] Create new Helm sub-chart for Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10370)
+- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
+- [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
+- [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[Docs] Dark mode bug](https://github.com/meshery/meshery/issues/10351)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
+- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
+- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
+- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 
-## [nss-evening-cohort-26/pos-terminal-the-algorithm-avengers](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Read Revenue](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/38)
-- [view Orders ](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/32)
-- [Logout Screen - homeLoggedOut.js](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/39)
-- [Delete Item from Order](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/36)
-- [STRETCH: Create Item](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/35)
-- [Readme](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/42)
-- [Close Order ](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/37)
-- [DELETE AN ORDER](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/34)
-- [Create/update order](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/33)
-- [Add endpoints to API files ](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/30)
-- [read orderdetail](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/12)
+- [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
 
-- [[IMPROVEMENT] Notion: Find Page by Title - Exact Match](https://github.com/PipedreamHQ/pipedream/issues/10836)
-- [[ACTION] Trello: include custom fields to sources and actions](https://github.com/PipedreamHQ/pipedream/issues/10828)
-- [[ACTION] Coda — Get Formula(s)](https://github.com/PipedreamHQ/pipedream/issues/10878)
-- [[ACTION] Apollo.io](https://github.com/PipedreamHQ/pipedream/issues/10847)
-- [[TRIGGER] Ecwid Events](https://github.com/PipedreamHQ/pipedream/issues/4123)
-- [[ACTION] Apollo.io - Update Account Stage](https://github.com/PipedreamHQ/pipedream/issues/10659)
-- [[ACTION] Send message to Basecamp Campfire using Chatbots](https://github.com/PipedreamHQ/pipedream/issues/10645)
-- [Get Refreshes [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/10585)
-- [Trigger: Slack channel created (Instant)](https://github.com/PipedreamHQ/pipedream/issues/9311)
-- [[TRIGGER] Yotpo New Reviews Received](https://github.com/PipedreamHQ/pipedream/issues/4375)
-- [Seatable.io](https://github.com/PipedreamHQ/pipedream/issues/3910)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[ACTION] CommerceTools](https://github.com/PipedreamHQ/pipedream/issues/1326)
-
-## [PyAr/PyZombis](https://github.com/PyAr/PyZombis)
-
-- [Improve Web development sample with an SPA [TWP60]](https://github.com/PyAr/PyZombis/issues/219)
-- [Add CodeLens to activities](https://github.com/PyAr/PyZombis/issues/236)
-- [Implement basic extra interactive exercises (Google)](https://github.com/PyAr/PyZombis/issues/247)
-- [Write exercises for initial chapters](https://github.com/PyAr/PyZombis/issues/246)
-- [Fix MVC lecture names ](https://github.com/PyAr/PyZombis/issues/296)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [[bug] res.reponseTime fails to be asserted in runner](https://github.com/usebruno/bruno/issues/1145)
-- [Can't import a POSTMAN collection with a / char in the name](https://github.com/usebruno/bruno/issues/219)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [Include links to in js.xrpl.org to  https://xrpl.org/get-started-using-javascript.html](https://github.com/XRPLF/xrpl-dev-portal/issues/1795)
 
