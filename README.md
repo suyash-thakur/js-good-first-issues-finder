@@ -4,16 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
+## [asyncapi/website](https://github.com/asyncapi/website)
 
-- [Update Test Drivetrain Program for Phoenix 6 instead of Phoenix 5](https://github.com/wpilibsuite/frc-docs/issues/2400)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-- [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
+- [docs: new style guide - Glossary](https://github.com/asyncapi/website/issues/1294)
+- [Create a research page to have participants sign up for the research study](https://github.com/asyncapi/website/issues/1991)
+- [[📑 Docs]: suggestions on 'create-asyncapi-document.md' file](https://github.com/asyncapi/website/issues/1945)
+- [Add proper dropdowns to the Filters Select Menu](https://github.com/asyncapi/website/issues/1318)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -36,8 +32,6 @@ This list gets updated every day at midnight.
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
-- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -45,7 +39,23 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
 
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Include links to in js.xrpl.org to  https://xrpl.org/get-started-using-javascript.html](https://github.com/XRPLF/xrpl-dev-portal/issues/1795)
+- [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Login form not center aligned](https://github.com/HeyPuter/puter/issues/90)
+- [Feature request: query parameters in app url get passed into the app](https://github.com/HeyPuter/puter/issues/111)
+- [Implement Warning Message in Browser Console to Prevent Security Exploits](https://github.com/HeyPuter/puter/issues/101)
 
