@@ -4,13 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [asyncapi/website](https://github.com/asyncapi/website)
-
-- [docs: new style guide - Glossary](https://github.com/asyncapi/website/issues/1294)
-- [Create a research page to have participants sign up for the research study](https://github.com/asyncapi/website/issues/1991)
-- [[📑 Docs]: suggestions on 'create-asyncapi-document.md' file](https://github.com/asyncapi/website/issues/1945)
-- [Add proper dropdowns to the Filters Select Menu](https://github.com/asyncapi/website/issues/1318)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
@@ -23,39 +16,47 @@ This list gets updated every day at midnight.
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Docs] Dark mode bug](https://github.com/meshery/meshery/issues/10351)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
 - [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
 - [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
 - [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
 
-- [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Home] Dark mode compatibility for Layer5 logo](https://github.com/meshery/meshery.io/issues/1611)
+- [Add a test suite](https://github.com/newwwie/newwwie.com/issues/67)
+- [Precommit Hooks](https://github.com/newwwie/newwwie.com/issues/90)
+- [Issue Templates](https://github.com/newwwie/newwwie.com/issues/91)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [ItsSim/fsolauncher](https://github.com/ItsSim/fsolauncher)
 
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Tree shaking doesn't work with Typescript barrel files](https://github.com/vercel/next.js/issues/12557)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [[Windows/Mac] Externalize language packs](https://github.com/ItsSim/fsolauncher/issues/77)
+- [[Windows] Branching strategy for Electron >= 23](https://github.com/ItsSim/fsolauncher/issues/72)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [asyncapi/conference-website](https://github.com/asyncapi/conference-website)
 
-- [Login form not center aligned](https://github.com/HeyPuter/puter/issues/90)
-- [Feature request: query parameters in app url get passed into the app](https://github.com/HeyPuter/puter/issues/111)
-- [Implement Warning Message in Browser Console to Prevent Security Exploits](https://github.com/HeyPuter/puter/issues/101)
+- [Unaligned hero section](https://github.com/asyncapi/conference-website/issues/267)
+- [Card text is unreadable ](https://github.com/asyncapi/conference-website/issues/266)
+- [would be nice if venue from past events is grayed out](https://github.com/asyncapi/conference-website/issues/208)
+
+## [tomasdepiano/Group-Project](https://github.com/tomasdepiano/Group-Project)
+
+- [[feat]EndPoint for getting messages](https://github.com/tomasdepiano/Group-Project/issues/63)
+- [[feat]EndPoint for creating messages](https://github.com/tomasdepiano/Group-Project/issues/62)
+- [[feat]EndPoint for creating chats](https://github.com/tomasdepiano/Group-Project/issues/60)
+- [Seed database](https://github.com/tomasdepiano/Group-Project/issues/48)
+- [[feat] login-Page (Tomas)](https://github.com/tomasdepiano/Group-Project/issues/49)
+- [[feat] Chat-Page (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/50)
+- [[feat] ChatBox-Component (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/51)
+- [[feat] FriendsList-Component (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/52)
+- [[feat] addFriend-Modal (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/53)
+- [[feat] New Message-Modal (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/54)
+- [[feat] GroupChat-Modal (Pair Programming)](https://github.com/tomasdepiano/Group-Project/issues/55)
+- [[feat] create Account-Modal (Tomas)](https://github.com/tomasdepiano/Group-Project/issues/23)
 
