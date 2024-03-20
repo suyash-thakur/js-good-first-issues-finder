@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [Clean up deprecated cosmos-sdk 0.47 API usage](https://github.com/Agoric/agoric-sdk/issues/8804)
+- [Silence lint warnings in cosmos-sdk](https://github.com/Agoric/agoric-sdk/issues/9034)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
@@ -12,57 +17,41 @@ This list gets updated every day at midnight.
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [Make clock options display better with dark theme](https://github.com/brave/brave-browser/issues/12061)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Request: tldraw](https://github.com/simple-icons/simple-icons/issues/10648)
-- [Request: Wiz](https://github.com/simple-icons/simple-icons/issues/10612)
-- [Request: NVM](https://github.com/simple-icons/simple-icons/issues/10075)
-- [Request: EXPRESS](https://github.com/simple-icons/simple-icons/issues/10570)
-- [Request: Sky Bet](https://github.com/simple-icons/simple-icons/issues/10479)
-- [Request: Capsolver](https://github.com/simple-icons/simple-icons/issues/10493)
-- [Great Icon Review of 2024: A](https://github.com/simple-icons/simple-icons/issues/10282)
-- [Adobe Animate](https://github.com/simple-icons/simple-icons/issues/9177)
-- [Request: Grocy](https://github.com/simple-icons/simple-icons/issues/6831)
-- [Request: Open Policy Agent (OPA)](https://github.com/simple-icons/simple-icons/issues/6643)
-- [Request: FusionAuth](https://github.com/simple-icons/simple-icons/issues/6444)
-- [Request: Copa Airlines](https://github.com/simple-icons/simple-icons/issues/6267)
-- [Request: Saxo Bank](https://github.com/simple-icons/simple-icons/issues/10546)
-- [Request: abuse.ch](https://github.com/simple-icons/simple-icons/issues/6888)
-- [Request: PrimeFaces](https://github.com/simple-icons/simple-icons/issues/5603)
-- [Request: SWI Prolog](https://github.com/simple-icons/simple-icons/issues/6110)
-- [Request: Authentik](https://github.com/simple-icons/simple-icons/issues/10345)
-- [Request: PicoCTF](https://github.com/simple-icons/simple-icons/issues/10524)
-- [Request: Awwwards](https://github.com/simple-icons/simple-icons/issues/10536)
-- [Add doctrine orm](https://github.com/simple-icons/simple-icons/issues/8572)
-- [Request: dbdiagram.io](https://github.com/simple-icons/simple-icons/issues/10475)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
-- [[DevOps] Create new Helm sub-chart for Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10370)
-- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[DevOps] Create new Helm sub-chart for Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10370)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
-- [[Docs] Add Meshery CLI to the list of architectural components](https://github.com/meshery/meshery/issues/9623)
-- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Enhance the latest blog](https://github.com/meshery/meshery.io/issues/1651)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [NodeSecure/cli](https://github.com/NodeSecure/cli)
+## [nss-evening-cohort-26/pos-terminal-the-algorithm-avengers](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers)
 
-- [Refactor scorecard using @nodesecure/utils](https://github.com/NodeSecure/cli/issues/364)
-- [Allow to customize the theme for report export](https://github.com/NodeSecure/cli/issues/352)
-- [Add more logs to HTTP server](https://github.com/NodeSecure/cli/issues/351)
+- [Read Revenue](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/38)
+- [STRETCH: Create Item](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/35)
+- [Readme](https://github.com/nss-evening-cohort-26/pos-terminal-the-algorithm-avengers/issues/42)
+
+## [permaweb/ao](https://github.com/permaweb/ao)
+
+- [docs(connect/readme): wrong capitalization](https://github.com/permaweb/ao/issues/547)
+- [feat(ao-cli): check if docker exists when calling `ao` subcommands that require docker](https://github.com/permaweb/ao/issues/102)
+- [connect: add utility to serialize Cron "message" into flattened `Cron-Tag-{Name}` tags](https://github.com/permaweb/ao/issues/206)
+- [scheduler-utils: trim trailing slash from `Url` if it exists](https://github.com/permaweb/ao/issues/246)
+
+## [PotLock/bos-app](https://github.com/PotLock/bos-app)
+
+- [[BUG] Upload profile picture button not working](https://github.com/PotLock/bos-app/issues/283)
+- [[ENHANCE] Use correct background for homepage (ListPage)](https://github.com/PotLock/bos-app/issues/282)
 
