@@ -4,51 +4,54 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [metriport/metriport](https://github.com/metriport/metriport)
+
+- [Add SSN support](https://github.com/metriport/metriport/issues/1722)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add color to the Solana icon in Rewards panel ](https://github.com/brave/brave-browser/issues/36953)
 - [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
+- [Add color to the Solana icon in Rewards panel ](https://github.com/brave/brave-browser/issues/36953)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
-- [Add "Does It Run Puter?" to README.md](https://github.com/HeyPuter/puter/issues/136)
-- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
-- [Icons under taskbar](https://github.com/HeyPuter/puter/issues/114)
+- [Design page requires reload to reflect changes made in catalog data from info modal](https://github.com/meshery/meshery/issues/10593)
+- [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
+- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
+- [[UI] Registry: Cancel search button in wrong location](https://github.com/meshery/meshery/issues/10430)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[DevOps] Create new Helm sub-chart for Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10370)
+- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
+- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
+- [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
+- [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes)
 
-- [[RFC]: refactor `blas/ext/base/dsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1507)
-- [[RFC]: refactor `blas/ext/base/dsumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1505)
-- [[RFC]: refactor `blas/ext/base/sdsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1524)
-- [[RFC]: refactor `blas/ext/base/sapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1513)
-- [[RFC]: refactor `blas/ext/base/dsumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1508)
-- [[RFC]: refactor `blas/ext/base/sapxsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1512)
-- [[RFC]: refactor `blas/ext/base/sapx` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1509)
-- [[RFC]: refactor `blas/ext/base/scusumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1518)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [[RFC]: add C implementation for `@stdlib/math/base/special/fast/uint32-sqrt`](https://github.com/stdlib-js/stdlib/issues/1932)
-- [[RFC]: add C implementation for  `@stdlib/math/base/special/fast/alpha-max-plus-beta-min`](https://github.com/stdlib-js/stdlib/issues/1938)
-- [[RFC]: improve README examples of `array/base/assert` namespace](https://github.com/stdlib-js/stdlib/issues/1545)
-- [[RFC]: refactor `blas/ext/base/sapxsumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1514)
-- [[RFC]: refactor `blas/ext/base/dapx` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1464)
-- [[RFC]: refactor `blas/ext/base/ssorthp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1537)
-- [[RFC]: refactor `blas/ext/base/scusumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1519)
-- [[RFC]: feat: add C implementation for `@stdlib/math/base/assert/int32-is-even`](https://github.com/stdlib-js/stdlib/issues/1805)
-- [[RFC]: add C implementation for `math/base/special/acscd`](https://github.com/stdlib-js/stdlib/issues/1893)
-- [[RFC]: add C implementation for `@stdlib/math/base/special/fast/uint32-log2`](https://github.com/stdlib-js/stdlib/issues/1931)
-- [[RFC]: improve README examples of `stats/base/dists/triangular` namespace](https://github.com/stdlib-js/stdlib/issues/1646)
-- [[RFC]: refactor `blas/ext/base/scusumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1517)
-- [[RFC]: refactor `blas/ext/base/scusumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1520)
-- [[RFC]: refactor `blas/ext/base/dnannsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1480)
-- [[RFC]: refactor `blas/ext/base/dsnansum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1492)
-- [[RFC]: refactor `blas/ext/base/sapxsumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1511)
-- [[RFC]: refactor `blas/ext/base/sdsapxsumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1522)
-- [[RFC]: refactor `blas/ext/base/sdsapxsum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1521)
-- [[RFC]: refactor `blas/ext/base/dsapxsum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1489)
-- [[RFC]: refactor `blas/ext/base/scusum` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1516)
-- [[RFC]: improve README examples of `stats/base/dists/laplace` namespace](https://github.com/stdlib-js/stdlib/issues/1633)
+- [bug: UI Dashboard drop down issue](https://github.com/shravan20/github-readme-quotes/issues/253)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+
+## [tidalcycles/strudel](https://github.com/tidalcycles/strudel)
+
+- [REPLs editor (Codemirror) improvement suggestions](https://github.com/tidalcycles/strudel/issues/961)
 
