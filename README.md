@@ -4,8 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [Add a github link on playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/173)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [Design page requires reload to reflect changes made in catalog data from info modal](https://github.com/meshery/meshery/issues/10593)
 - [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
@@ -22,42 +27,34 @@ This list gets updated every day at midnight.
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [Consider changing return type of `NTPBackgroundPrefs::GetSelectedValue()` to `std::string`](https://github.com/brave/brave-browser/issues/25602)
+- [Add color to the Solana icon in Rewards panel ](https://github.com/brave/brave-browser/issues/36953)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [acm-projects/DineOutBuddy](https://github.com/acm-projects/DineOutBuddy)
 
-- [[RFC]: improve README examples of `stats/base/dists/f` namespace](https://github.com/stdlib-js/stdlib/issues/1625)
-- [[RFC]: improve README examples of `number/float64` namespace](https://github.com/stdlib-js/stdlib/issues/1595)
-- [[RFC]: refactor `blas/ext/base/dsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1507)
-- [[RFC]: refactor `blas/ext/base/dsumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1508)
-- [[RFC]: improve README examples of `ndarray/base/napi` namespace](https://github.com/stdlib-js/stdlib/issues/1587)
-- [[RFC]: improve README examples of `stats/base` namespace](https://github.com/stdlib-js/stdlib/issues/1650)
-- [[RFC]: improve README examples of `stats/base/dists/lognormal` namespace](https://github.com/stdlib-js/stdlib/issues/1636)
-- [[RFC]: improve README examples of `stats/base/dists/triangular` namespace](https://github.com/stdlib-js/stdlib/issues/1646)
-- [[RFC]: refactor `blas/ext/base/dasumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1470)
-- [[RFC]: refactor `blas/ext/base/dsorthp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1498)
-- [[RFC]: refactor `blas/ext/base/dssumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1502)
-- [[RFC]: refactor `blas/ext/base/dapxsumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1469)
-- [[RFC]: improve README examples of `math/iter/ops` namespace](https://github.com/stdlib-js/stdlib/issues/1575)
-- [[RFC]: refactor `blas/ext/base/dapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1468)
-- [[RFC]: refactor `blas/ext/base/sapxsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1512)
-- [[RFC]: refactor `blas/ext/base/dnansumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1485)
-- [[RFC]: refactor `blas/ext/base/dnansumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1484)
-- [[RFC]: refactor `blas/ext/base/dssumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1503)
-- [[RFC]: refactor `blas/ext/base/sapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1513)
-- [[RFC]: improve README examples in namespace packages](https://github.com/stdlib-js/stdlib/issues/1329)
-- [[RFC]: refactor `blas/ext/base/dapxsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1467)
-- [[RFC]: refactor `blas/ext/base/dsumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1505)
-- [[RFC]: refactor `blas/ext/base/sdsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1524)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [[RFC]: add C implementation for `@stdlib/math/base/special/fast/uint32-sqrt`](https://github.com/stdlib-js/stdlib/issues/1932)
-- [[RFC]: improve README examples of `array/base/assert` namespace](https://github.com/stdlib-js/stdlib/issues/1545)
-- [[RFC]: refactor `blas/ext/base/ssorthp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1537)
-- [[RFC]: feat: add C implementation for `@stdlib/math/base/assert/int32-is-even`](https://github.com/stdlib-js/stdlib/issues/1805)
-- [[RFC]: refactor `blas/ext/base/scusumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1517)
-- [[RFC]: refactor `blas/ext/base/dnannsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1480)
+- [Restaurant/Menu Database](https://github.com/acm-projects/DineOutBuddy/issues/17)
+- [Profile/Group Database](https://github.com/acm-projects/DineOutBuddy/issues/16)
+- [Color Pallet](https://github.com/acm-projects/DineOutBuddy/issues/12)
+- [Setup Env](https://github.com/acm-projects/DineOutBuddy/issues/23)
+- [User Flow](https://github.com/acm-projects/DineOutBuddy/issues/22)
+- [Wireframes](https://github.com/acm-projects/DineOutBuddy/issues/21)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [Convert curl commands to request.](https://github.com/usebruno/bruno/issues/338)
+- [[bug] res.reponseTime fails to be asserted in runner](https://github.com/usebruno/bruno/issues/1145)
+- [Can't import a POSTMAN collection with a / char in the name](https://github.com/usebruno/bruno/issues/219)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+
+## [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+
+- [[feat] setup jest and supertest for backend](https://github.com/idurar/idurar-erp-crm/issues/346)
+- [Create new Component Mulit Step Select Async](https://github.com/idurar/idurar-erp-crm/issues/94)
+- [Create new page for Tax](https://github.com/idurar/idurar-erp-crm/issues/545)
+- [User Authentication process](https://github.com/idurar/idurar-erp-crm/issues/457)
+- [Create new APi Endoint Tax](https://github.com/idurar/idurar-erp-crm/issues/544)
 
