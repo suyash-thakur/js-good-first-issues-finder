@@ -4,8 +4,25 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [bruh-9000/moddBlockly](https://github.com/bruh-9000/moddBlockly)
+
+- [Improve category coloration](https://github.com/bruh-9000/moddBlockly/issues/33)
+- [Create custom blocks for those which are colored black](https://github.com/bruh-9000/moddBlockly/issues/30)
+- [Add separate blocks for if and if else](https://github.com/bruh-9000/moddBlockly/issues/29)
+- [Make owner wrap around child](https://github.com/bruh-9000/moddBlockly/issues/26)
+- [Add links to modd official docs page for each action](https://github.com/bruh-9000/moddBlockly/issues/15)
+- [Add remaining Modd.io blocks](https://github.com/bruh-9000/moddBlockly/issues/2)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Include error code moniker in "search forum" URL](https://github.com/meshery/meshery/issues/10635)
+- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
@@ -18,61 +35,25 @@ This list gets updated every day at midnight.
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-- [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [AmericaSCORESBayArea/AmericaScores-CoachApp](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp)
 
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [to-do: Review and clean up branches](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/473)
+- [dependencies to review/update](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/469)
+- [Coach attendance is distinct from student attendance](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/391)
+- [minor cleanups to component names](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/462)
+- [disable screenview tracking so analytics events are not filled with class names](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/461)
+- [Incomplete Registration status needs to appear on the attendance list (and everywhere)](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/459)
 
-## [ItsSim/fsolauncher](https://github.com/ItsSim/fsolauncher)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[Windows] Branching strategy for Electron >= 23](https://github.com/ItsSim/fsolauncher/issues/72)
-- [[Windows/Mac] Externalize language packs](https://github.com/ItsSim/fsolauncher/issues/77)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [spytech-arkx/mern-crm](https://github.com/spytech-arkx/mern-crm)
 
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-- [Replace deprecated constants with enums](https://github.com/MetaMask/metamask-extension/issues/18714)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Support starting benchmark tasks using taskset on Linux](https://github.com/nodejs/node/issues/52233)
-- [test_runner: print failed tests with dot reporter](https://github.com/nodejs/node/issues/51769)
-- [REPL special commands need arg validation](https://github.com/nodejs/node/issues/52218)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Standardize link text and URL terminology across the editor](https://github.com/WordPress/gutenberg/issues/59993)
-- [Document title bar hover color should be the primary admin color](https://github.com/WordPress/gutenberg/issues/60059)
-- [Add READMEs for DatePicker and TimePicker](https://github.com/WordPress/gutenberg/issues/18072)
-- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
-- [@wordpress/scripts: sourcemap missing in builds](https://github.com/WordPress/gutenberg/issues/44278)
-- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
-- [Please keep ending spaced out of translatable strings](https://github.com/WordPress/gutenberg/issues/59821)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Standardize capitalization of the term 'navigation menu'](https://github.com/WordPress/gutenberg/issues/59442)
-- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[TRIGGER] Cliniko new triggers](https://github.com/PipedreamHQ/pipedream/issues/11184)
-- [[ACTION] HighLevel & HighLevel (OAuth) - New actions](https://github.com/PipedreamHQ/pipedream/issues/11185)
-- [[ACTION] Apollo.io - Create / Update Deal (Opportunity)](https://github.com/PipedreamHQ/pipedream/issues/11090)
-- [[IMPROVEMENT] Notion: Find Page by Title - Exact Match](https://github.com/PipedreamHQ/pipedream/issues/10836)
-- [[ACTION] Apollo.io](https://github.com/PipedreamHQ/pipedream/issues/10847)
-- [[TRIGGER] Ecwid Events](https://github.com/PipedreamHQ/pipedream/issues/4123)
-- [[ACTION] Apollo.io - Update Account Stage](https://github.com/PipedreamHQ/pipedream/issues/10659)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [container name ignored if it contains a `-` character due to missing url-encoding](https://github.com/louislam/uptime-kuma/issues/4620)
-- [Text that convert interval seconds to days, hours, minutes, seconds](https://github.com/louislam/uptime-kuma/issues/3601)
-- [Localisation of dates/times in the frontend via `vue-i18n` instead of `dayjs.format`](https://github.com/louislam/uptime-kuma/issues/4584)
-- [Using slack `Username` is missing the necessary helptext to explain what it does](https://github.com/louislam/uptime-kuma/issues/4560)
-- [Could we extend the length of status bar?](https://github.com/louislam/uptime-kuma/issues/4365)
-- [The grey box in this page can be adjusted and developed for better ui experience](https://github.com/louislam/uptime-kuma/issues/3841)
+- [Contact(s) Creation](https://github.com/spytech-arkx/mern-crm/issues/12)
+- [Deal Creation](https://github.com/spytech-arkx/mern-crm/issues/27)
+- [Company Creation](https://github.com/spytech-arkx/mern-crm/issues/17)
 
