@@ -4,24 +4,8 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [bruh-9000/moddBlockly](https://github.com/bruh-9000/moddBlockly)
-
-- [Improve category coloration](https://github.com/bruh-9000/moddBlockly/issues/33)
-- [Create custom blocks for those which are colored black](https://github.com/bruh-9000/moddBlockly/issues/30)
-- [Add separate blocks for if and if else](https://github.com/bruh-9000/moddBlockly/issues/29)
-- [Make owner wrap around child](https://github.com/bruh-9000/moddBlockly/issues/26)
-- [Add links to modd official docs page for each action](https://github.com/bruh-9000/moddBlockly/issues/15)
-- [Add remaining Modd.io blocks](https://github.com/bruh-9000/moddBlockly/issues/2)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Include error code moniker in "search forum" URL](https://github.com/meshery/meshery/issues/10635)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
@@ -36,24 +20,38 @@ This list gets updated every day at midnight.
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 
-## [AmericaSCORESBayArea/AmericaScores-CoachApp](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp)
+## [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl)
 
-- [to-do: Review and clean up branches](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/473)
-- [dependencies to review/update](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/469)
-- [Coach attendance is distinct from student attendance](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/391)
-- [minor cleanups to component names](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/462)
-- [disable screenview tracking so analytics events are not filled with class names](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/461)
-- [Incomplete Registration status needs to appear on the attendance list (and everywhere)](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/459)
+- [Better autocomplete](https://github.com/fonsp/Pluto.jl/issues/302)
+
+## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
+
+- [Update Test Drivetrain Program for Phoenix 6 instead of Phoenix 5](https://github.com/wpilibsuite/frc-docs/issues/2400)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [`util.inspect(new CompressionStream())` returns `undefined`](https://github.com/nodejs/node/issues/52263)
+- [Support starting benchmark tasks using taskset on Linux](https://github.com/nodejs/node/issues/52233)
+- [test_runner: print failed tests with dot reporter](https://github.com/nodejs/node/issues/51769)
+- [REPL special commands need arg validation](https://github.com/nodejs/node/issues/52218)
+
+## [ItsSim/fsolauncher](https://github.com/ItsSim/fsolauncher)
+
+- [[Windows] Branching strategy for Electron >= 23](https://github.com/ItsSim/fsolauncher/issues/72)
+- [[Windows/Mac] Externalize language packs](https://github.com/ItsSim/fsolauncher/issues/77)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 
-## [spytech-arkx/mern-crm](https://github.com/spytech-arkx/mern-crm)
+## [bruh-9000/moddBlockly](https://github.com/bruh-9000/moddBlockly)
 
-- [Contact(s) Creation](https://github.com/spytech-arkx/mern-crm/issues/12)
-- [Deal Creation](https://github.com/spytech-arkx/mern-crm/issues/27)
-- [Company Creation](https://github.com/spytech-arkx/mern-crm/issues/17)
+- [Improve category coloration](https://github.com/bruh-9000/moddBlockly/issues/33)
+- [Create custom blocks for those which are colored black](https://github.com/bruh-9000/moddBlockly/issues/30)
+- [Add separate blocks for if and if else](https://github.com/bruh-9000/moddBlockly/issues/29)
+- [Add links to modd official docs page for each action](https://github.com/bruh-9000/moddBlockly/issues/15)
+- [Add remaining Modd.io blocks](https://github.com/bruh-9000/moddBlockly/issues/2)
 
