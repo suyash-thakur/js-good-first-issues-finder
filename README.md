@@ -4,22 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints)
-
-- [Add 3D models to footprint definition](https://github.com/ceoloide/ergogen-footprints/issues/9)
-- [Add option to resist mirroring of coordinates](https://github.com/ceoloide/ergogen-footprints/issues/8)
-- [Allow MCU to be mounted chip facing up / down](https://github.com/ceoloide/ergogen-footprints/issues/7)
-- [Feature: Add extra pins to footprint for nice!nano](https://github.com/ceoloide/ergogen-footprints/issues/3)
-- [Add ability to mirror x or y position of diodes](https://github.com/ceoloide/ergogen-footprints/issues/6)
-- [Add both chevron jumpers and square jumpers to all footprints](https://github.com/ceoloide/ergogen-footprints/issues/5)
-- [Add courtyard and physical standoff / screwhead size to screw hole footprint](https://github.com/ceoloide/ergogen-footprints/issues/4)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -41,5 +25,26 @@ This list gets updated every day at midnight.
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Ads Module `Ads Conversion ID` Field Value Migration](https://github.com/google/site-kit-wp/issues/8248)
+- [Create `SetupComponent` in `Ads` Module](https://github.com/google/site-kit-wp/issues/8346)
+- [Update the description copy in the Consent Mode modal.](https://github.com/google/site-kit-wp/issues/8389)
+- [Implement Ads Conversion ID Field in `Ads` Module `SettingsView` and `SettingsEdit` Components](https://github.com/google/site-kit-wp/issues/8251)
+- [Create `Ads` Module Site Health Checks](https://github.com/google/site-kit-wp/issues/8245)
+- [Add the Audience Tile happy path view (Storybook)](https://github.com/google/site-kit-wp/issues/8135)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
 
