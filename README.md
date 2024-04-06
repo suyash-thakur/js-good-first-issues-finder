@@ -4,20 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
-- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
-- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
-- [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
-- [Icons under taskbar](https://github.com/HeyPuter/puter/issues/114)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
@@ -46,4 +32,22 @@ This list gets updated every day at midnight.
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [chesslablab/website](https://github.com/chesslablab/website)
+
+- [Refactor the chessboardFenStringModal component into an ES6 module](https://github.com/chesslablab/website/issues/182)
+- [Refactor the topOpeningsModal component into an ES6 module](https://github.com/chesslablab/website/issues/181)
+- [Modal popup design for Training > Checkmate Skills](https://github.com/chesslablab/website/issues/20)
+- [Modal popup design for Training > Endgame Skills](https://github.com/chesslablab/website/issues/19)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+
+## [evidence-dev/evidence](https://github.com/evidence-dev/evidence)
+
+- [Support 0 as a sidebar_position ](https://github.com/evidence-dev/evidence/issues/1797)
 
