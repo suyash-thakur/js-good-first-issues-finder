@@ -10,10 +10,17 @@ This list gets updated every day at midnight.
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 
+## [acm-ucr/tag-website](https://github.com/acm-ucr/tag-website)
+
+- [Create title section](https://github.com/acm-ucr/tag-website/issues/6)
+- [Mahjang rule section](https://github.com/acm-ucr/tag-website/issues/9)
+- [Create Connect Section](https://github.com/acm-ucr/tag-website/issues/20)
+- [Go rule section](https://github.com/acm-ucr/tag-website/issues/8)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
+- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
@@ -38,14 +45,19 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [facebook/react](https://github.com/facebook/react)
-
-- ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/facebook/react/issues/17355)
-- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
-- [Output JUnit XML test metadata for CircleCI](https://github.com/facebook/react/issues/11949)
+- [FocalPointPicker: Convert unit tests to TypeScript](https://github.com/WordPress/gutenberg/issues/60529)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [getSettings() returns WP defaults outside of edit() and save()](https://github.com/WordPress/gutenberg/issues/18467)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Documentation: Add missing docs in `editor` package](https://github.com/WordPress/gutenberg/issues/60358)
+- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
+- [Standardize link text and URL terminology across the editor](https://github.com/WordPress/gutenberg/issues/59993)
+- [Document title bar hover color should be the primary admin color](https://github.com/WordPress/gutenberg/issues/60059)
+- [Add READMEs for DatePicker and TimePicker](https://github.com/WordPress/gutenberg/issues/18072)
+- [Archives: Make the label above the dropdown editable](https://github.com/WordPress/gutenberg/issues/57528)
+- [@wordpress/scripts: sourcemap missing in builds](https://github.com/WordPress/gutenberg/issues/44278)
+- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
+- [Please keep ending spaced out of translatable strings](https://github.com/WordPress/gutenberg/issues/59821)
 
