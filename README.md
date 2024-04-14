@@ -4,10 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[Visual Design] New Recognition Badge: API Ace Badge](https://github.com/layer5labs/meshery-extensions-packages/issues/187)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
@@ -36,17 +32,21 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [workbenchdev/demos](https://github.com/workbenchdev/demos)
+## [GBADsInformatics/GBADsDataSearchUI](https://github.com/GBADsInformatics/GBADsDataSearchUI)
 
-- [Add Shortcuts Window demo](https://github.com/workbenchdev/demos/issues/31)
+- [UI/UX Testing 🔨 ](https://github.com/GBADsInformatics/GBADsDataSearchUI/issues/9)
 
-## [hackforla/food-oasis](https://github.com/hackforla/food-oasis)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Feature: For old listings (such as >1 year old), add an indicator / warning that data may be old and out-of-date](https://github.com/hackforla/food-oasis/issues/2068)
-
-## [ProjectEvergreen/wcc](https://github.com/ProjectEvergreen/wcc)
-
-- [rename experimental test scripts to jsx ](https://github.com/ProjectEvergreen/wcc/issues/160)
+- [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
+- [When publishing websites if there is an error the error shows as `undefined`](https://github.com/HeyPuter/puter/issues/271)
+- [preserve the search part of a puter app url](https://github.com/HeyPuter/puter/issues/242)
+- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
+- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
+- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
+- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
+- [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
+- [Icons under taskbar](https://github.com/HeyPuter/puter/issues/114)
 
 ## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
@@ -56,11 +56,4 @@ This list gets updated every day at midnight.
 
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [sveltejs/svelte](https://github.com/sveltejs/svelte)
-
-- [parser ignores interpolated strings for svelte:element this value](https://github.com/sveltejs/svelte/issues/9015)
-- [(minor) unquoted slash in attributes throws "attempted to close an element that was not open"](https://github.com/sveltejs/svelte/issues/7782)
-- [Binding focus state to elements](https://github.com/sveltejs/svelte/issues/8949)
 
