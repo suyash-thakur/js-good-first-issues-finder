@@ -4,42 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints)
 
-- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
-- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
-- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [GBADsInformatics/GBADsDataSearchUI](https://github.com/GBADsInformatics/GBADsDataSearchUI)
-
-- [UI/UX Testing 🔨 ](https://github.com/GBADsInformatics/GBADsDataSearchUI/issues/9)
+- [Upgrade footprints to KiCad 8](https://github.com/ceoloide/ergogen-footprints/issues/18)
+- [Feature: Add extra pins to footprint for nice!nano](https://github.com/ceoloide/ergogen-footprints/issues/3)
+- [Add 3D models to footprint definition](https://github.com/ceoloide/ergogen-footprints/issues/9)
+- [Add option to resist mirroring of coordinates](https://github.com/ceoloide/ergogen-footprints/issues/8)
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
 - [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
-- [When publishing websites if there is an error the error shows as `undefined`](https://github.com/HeyPuter/puter/issues/271)
 - [preserve the search part of a puter app url](https://github.com/HeyPuter/puter/issues/242)
 - [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
 - ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
@@ -48,12 +22,28 @@ This list gets updated every day at midnight.
 - [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
 - [Icons under taskbar](https://github.com/HeyPuter/puter/issues/114)
 
-## [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+## [hackforla/website](https://github.com/hackforla/website/pull/6647)
 
-- [Option to only allow whitelisted sites in Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT/issues/5289)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Added github handle for Sean Sada](https://github.com/hackforla/website/pull/6647)
+- [Make Slack links for Heart project consistent with other projects](https://github.com/hackforla/website/pull/6646)
+- [Add github-handle for Sean Sada in civic-tech-index.md ](https://github.com/hackforla/website/issues/6170)
+- [Add github-handle for Liz Brown in brigade-organizers-playbook.md](https://github.com/hackforla/website/issues/6156)
+- [Added github-handle var to Benny Van section](https://github.com/hackforla/website/pull/6625)
+- [Project Slack links: Heart](https://github.com/hackforla/website/issues/6512)
+- [ER: Inconsistencies in CONTRIBUTING.md](https://github.com/hackforla/website/issues/6218)
+- [Update Public Tree Map Slack Link #6514](https://github.com/hackforla/website/pull/6617)
+- [Design System Audit: Text Elements: Individual Projects Page](https://github.com/hackforla/website/issues/3526)
+- [Epic: Create issues to resolve CodeQL alerts 1- 24, 98 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5129)
+- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
+- [Project Slack links: Public Tree Map](https://github.com/hackforla/website/issues/6514)
+- [Add github-handle for Benny Van in civic-tech-jobs.md ](https://github.com/hackforla/website/issues/6124)
+- [Creating issues to update alt texts on SiteMap page ](https://github.com/hackforla/website/issues/3859)
+- [epic: Refactor img tags in CONTRIBUTING.md to end without a slash](https://github.com/hackforla/website/issues/6453)
+- [ER: Find all the places that slack should be Slack and fix](https://github.com/hackforla/website/issues/6163)
+- [ER: Find all the places that GitHub should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+- [ER: Update two files with Slack IDs](https://github.com/hackforla/website/issues/6224)
+- [ER: update Lucky Parking and Citizen Engagement info](https://github.com/hackforla/website/issues/5098)
+- [Add new variable github-handle to member Karen Coronel in ballot-nav.md](https://github.com/hackforla/website/issues/6234)
+- [Add new variable github-handle to member Melinda Sukosd in civic-tech-jobs.md ](https://github.com/hackforla/website/issues/5880)
+- [Update template for HfLA GitHub Actions wiki pages](https://github.com/hackforla/website/issues/4841)
 
