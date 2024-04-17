@@ -4,16 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -39,20 +40,20 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Update the wording upon acknowledgement of a contribution](https://github.com/phlask/phlask-map/issues/324)
+- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
+- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Missing types for `category.supportedModes` and `node.explanation`](https://github.com/GoogleChrome/lighthouse/issues/15799)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Add Learn more link on Ads module setup screen](https://github.com/google/site-kit-wp/issues/8532)
-- [Add `adsPax` feature flag](https://github.com/google/site-kit-wp/issues/8555)
-- [Update copy on Ads success notification](https://github.com/google/site-kit-wp/issues/8507)
-- [Update the description copy in the Consent Mode modal.](https://github.com/google/site-kit-wp/issues/8389)
-- [Add `Conversion_Events_Provider` Interface](https://github.com/google/site-kit-wp/issues/8529)
+- [[ACTION] ETSY Inventory Managmement](https://github.com/PipedreamHQ/pipedream/issues/11454)
+- [[ACTION] HighLevel & HighLevel (OAuth) - New actions](https://github.com/PipedreamHQ/pipedream/issues/11185)
+- [Paylocity](https://github.com/PipedreamHQ/pipedream/issues/3907)
+- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
+- [[TRIGGER] lobste.rs](https://github.com/PipedreamHQ/pipedream/issues/1387)
+- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
+- [[TRIGGER] Samsung SmartThings sources](https://github.com/PipedreamHQ/pipedream/issues/1331)
 
