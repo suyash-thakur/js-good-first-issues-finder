@@ -4,17 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -40,20 +43,13 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
 
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Update the wording upon acknowledgement of a contribution](https://github.com/phlask/phlask-map/issues/324)
-- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
-- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
-- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [[ACTION] ETSY Inventory Managmement](https://github.com/PipedreamHQ/pipedream/issues/11454)
-- [[ACTION] HighLevel & HighLevel (OAuth) - New actions](https://github.com/PipedreamHQ/pipedream/issues/11185)
-- [Paylocity](https://github.com/PipedreamHQ/pipedream/issues/3907)
-- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
-- [[TRIGGER] lobste.rs](https://github.com/PipedreamHQ/pipedream/issues/1387)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-- [[TRIGGER] Samsung SmartThings sources](https://github.com/PipedreamHQ/pipedream/issues/1331)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
 
