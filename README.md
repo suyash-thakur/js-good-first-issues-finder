@@ -4,45 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
-- [[RFC]: improve README examples of `constants/float16` namespace](https://github.com/stdlib-js/stdlib/issues/1555)
-- [[RFC]: refactor `blas/ext/base/ssort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1536)
-- [[RFC]: refactor `blas/ext/base/dsort2hp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1495)
-- [[RFC]: refactor `blas/ext/base/snansumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1530)
-- [[RFC]: refactor `blas/ext/base/dnannsumkbn` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1479)
-- [[RFC]: refactor `blas/ext/base/dsort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1497)
-- [[RFC]: improve README examples of `math/special` namespace](https://github.com/stdlib-js/stdlib/issues/1581)
-- [[RFC]: improve README examples of `constants/unicode` namespace](https://github.com/stdlib-js/stdlib/issues/1566)
-- [[RFC]: improve README examples of `stats/base/dists/logistic` namespace](https://github.com/stdlib-js/stdlib/issues/1635)
-- [[RFC]: improve README examples of `stats/base` namespace](https://github.com/stdlib-js/stdlib/issues/1650)
-- [[RFC]: improve README examples of `stats/base/dists/triangular` namespace](https://github.com/stdlib-js/stdlib/issues/1646)
-- [[RFC]: add `@stdlib/assert/is-complex-string`](https://github.com/stdlib-js/stdlib/issues/1370)
-- [[RFC]: Hamming distance between two strings](https://github.com/stdlib-js/stdlib/issues/836)
-- [[RFC]: refactor `blas/ext/base/dsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1494)
-- [[RFC]: improve README examples of `stats/iter` namespace](https://github.com/stdlib-js/stdlib/issues/1652)
-- [[RFC]: refactor `blas/ext/base/dnannsumkbn2` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1480)
-- [[RFC]: refactor `blas/ext/base/dsort2ins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1496)
-- [[RFC]: improve README examples of `stats/base/dists/f` namespace](https://github.com/stdlib-js/stdlib/issues/1625)
-- [[RFC]: improve README examples of `number/float64` namespace](https://github.com/stdlib-js/stdlib/issues/1595)
-- [[RFC]: improve README examples of `ndarray/base/napi` namespace](https://github.com/stdlib-js/stdlib/issues/1587)
-- [[RFC]: improve README examples of `stats/base/dists/lognormal` namespace](https://github.com/stdlib-js/stdlib/issues/1636)
-- [[RFC]: refactor `blas/ext/base/dsorthp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1498)
-- [[RFC]: improve README examples of `math/iter/ops` namespace](https://github.com/stdlib-js/stdlib/issues/1575)
-- [[RFC]: refactor `blas/ext/base/sapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1513)
-- [[RFC]: improve README examples in namespace packages](https://github.com/stdlib-js/stdlib/issues/1329)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Guest account username/password modification while un-logged in](https://github.com/HeyPuter/puter/issues/300)
-- [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
-- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
-- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
-- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
-- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
-- [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
-- [Icons under taskbar](https://github.com/HeyPuter/puter/issues/114)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -67,4 +33,41 @@ This list gets updated every day at midnight.
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [microservices-suite/node-microservices-suite](https://github.com/microservices-suite/node-microservices-suite)
+
+- [Platform aware/agnostic cli](https://github.com/microservices-suite/node-microservices-suite/issues/56)
+- [yarn upgrade not upgrading packages to the latest anymore](https://github.com/microservices-suite/node-microservices-suite/issues/55)
+- [Automate publishing to npm registry before deployment](https://github.com/microservices-suite/node-microservices-suite/issues/43)
+
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+
+- [Import statements trigger an error in virtual modules](https://github.com/parcel-bundler/parcel/issues/8939)
+- [Parcel 2: Markdown transformer](https://github.com/parcel-bundler/parcel/issues/3357)
+- [[webextensions] Parcel doesn't accept manifest v3 with both `service_worker` and `scripts`](https://github.com/parcel-bundler/parcel/issues/9458)
+
+## [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
+
+- ["Try by yourself" editor](https://github.com/codeceptjs/CodeceptJS/issues/4183)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
+- [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
+- [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+
+## [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk)
+
+- [[FEATURE SUGGESTION]  Virtual joysticks](https://github.com/xeokit/xeokit-sdk/issues/1344)
+- [[OPTIMIZATION SUGGESTION] Run WebIFC in Worker for WebIFCLoaderPlugin](https://github.com/xeokit/xeokit-sdk/issues/962)
 
