@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [hackforla/food-oasis](https://github.com/hackforla/food-oasis)
+
+- [Bug: icons from verification email not displayed](https://github.com/hackforla/food-oasis/issues/2101)
+- [Feature: For old listings (such as >1 year old), add an indicator / warning that data may be old and out-of-date](https://github.com/hackforla/food-oasis/issues/2068)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
@@ -34,24 +39,18 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [microservices-suite/node-microservices-suite](https://github.com/microservices-suite/node-microservices-suite)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Platform aware/agnostic cli](https://github.com/microservices-suite/node-microservices-suite/issues/56)
-- [yarn upgrade not upgrading packages to the latest anymore](https://github.com/microservices-suite/node-microservices-suite/issues/55)
-- [Automate publishing to npm registry before deployment](https://github.com/microservices-suite/node-microservices-suite/issues/43)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [Import statements trigger an error in virtual modules](https://github.com/parcel-bundler/parcel/issues/8939)
-- [Parcel 2: Markdown transformer](https://github.com/parcel-bundler/parcel/issues/3357)
-- [[webextensions] Parcel doesn't accept manifest v3 with both `service_worker` and `scripts`](https://github.com/parcel-bundler/parcel/issues/9458)
-
-## [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS)
-
-- ["Try by yourself" editor](https://github.com/codeceptjs/CodeceptJS/issues/4183)
+- [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
+- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
+- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
+- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
+- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
+- [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
 - [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
 - [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
@@ -65,9 +64,4 @@ This list gets updated every day at midnight.
 - [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
-
-## [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk)
-
-- [[FEATURE SUGGESTION]  Virtual joysticks](https://github.com/xeokit/xeokit-sdk/issues/1344)
-- [[OPTIMIZATION SUGGESTION] Run WebIFC in Worker for WebIFCLoaderPlugin](https://github.com/xeokit/xeokit-sdk/issues/962)
 
