@@ -4,6 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [OpenSource-GH/dumsor-tracker-api](https://github.com/OpenSource-GH/dumsor-tracker-api)
+
+- [Authentication : User Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/8)
+- [Logs Functionality: Logs Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/10)
+- [Logs Functionality: Log Model](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/9)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
@@ -12,6 +23,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
@@ -30,29 +42,24 @@ This list gets updated every day at midnight.
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [endojs/endo](https://github.com/endojs/endo)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
-- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
-- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
-- [Pass Locale Preferences to Apps](https://github.com/HeyPuter/puter/issues/135)
-- [Add Cancellation Button for Ongoing Zip Operations](https://github.com/HeyPuter/puter/issues/116)
-- [Changing language does not update name of "Trash" until reloading the page](https://github.com/HeyPuter/puter/issues/148)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION]Calendly Set Noshow](https://github.com/PipedreamHQ/pipedream/issues/11582)
-- [[TRIGGER] Twitch - New Subscribers trigger](https://github.com/PipedreamHQ/pipedream/issues/11605)
-- [[ACTION] HighLevel & HighLevel (OAuth) - New actions](https://github.com/PipedreamHQ/pipedream/issues/11185)
-- [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
-- [Paylocity](https://github.com/PipedreamHQ/pipedream/issues/3907)
-- [Google Ads API [ACTION]](https://github.com/PipedreamHQ/pipedream/issues/821)
-- [[TRIGGER] lobste.rs](https://github.com/PipedreamHQ/pipedream/issues/1387)
-- [[TRIGGER] LinkedIn - New Connection Source](https://github.com/PipedreamHQ/pipedream/issues/6846)
-- [[TRIGGER] Samsung SmartThings sources](https://github.com/PipedreamHQ/pipedream/issues/1331)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
+- [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
+- [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
 
