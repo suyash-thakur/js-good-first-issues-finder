@@ -4,25 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [OpenSource-GH/dumsor-tracker-api](https://github.com/OpenSource-GH/dumsor-tracker-api)
-
-- [Authentication : User Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/8)
-- [Logs Functionality: Logs Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/10)
-- [Logs Functionality: Log Model](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/9)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+- [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[Docs] Update the documentation for removing Meshery as a Docker extension](https://github.com/meshery/meshery/issues/9901)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
@@ -42,24 +27,23 @@ This list gets updated every day at midnight.
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
-- [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
-- [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
-- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Warnings when debugging in VS Code](https://github.com/vercel/next.js/issues/24349)
+- [Components: Replace `reducedMotion()` usage with media queries](https://github.com/WordPress/gutenberg/issues/60902)
+- [@wordpress/scripts lint-js not compatible with newer versions of ESLint (ESLint 9+)](https://github.com/WordPress/gutenberg/issues/55499)
+- [Typo - build/edit-site/index.js:23718](https://github.com/WordPress/gutenberg/issues/61052)
+- [typo - build/editor/index.js](https://github.com/WordPress/gutenberg/issues/61053)
+- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
+- [Search Results Title block: Rename title](https://github.com/WordPress/gutenberg/issues/60701)
+- [FocalPointPicker: Convert unit tests to TypeScript](https://github.com/WordPress/gutenberg/issues/60529)
+- [Clarify the 'Play inline' setting for videos](https://github.com/WordPress/gutenberg/issues/60867)
+- [TabPanel: Focus styles on `tabpanel` are wrong](https://github.com/WordPress/gutenberg/issues/60663)
+- [getSettings() returns WP defaults outside of edit() and save()](https://github.com/WordPress/gutenberg/issues/18467)
+- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
 
