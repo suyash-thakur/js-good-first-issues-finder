@@ -4,8 +4,27 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Update label casing to sentence case](https://github.com/FreeTubeApp/FreeTube/issues/5000)
+- [[Feature Request]: Transient "hide watched" toggle](https://github.com/FreeTubeApp/FreeTube/issues/4999)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
+- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+
+## [OpenSource-GH/dumsor-tracker-api](https://github.com/OpenSource-GH/dumsor-tracker-api)
+
+- [Authentication : User Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/8)
+- [Logs Functionality: Logs Controller](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/10)
+- [Logs Functionality: Log Model](https://github.com/OpenSource-GH/dumsor-tracker-api/issues/9)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
@@ -31,19 +50,4 @@ This list gets updated every day at midnight.
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Components: Replace `reducedMotion()` usage with media queries](https://github.com/WordPress/gutenberg/issues/60902)
-- [@wordpress/scripts lint-js not compatible with newer versions of ESLint (ESLint 9+)](https://github.com/WordPress/gutenberg/issues/55499)
-- [Typo - build/edit-site/index.js:23718](https://github.com/WordPress/gutenberg/issues/61052)
-- [typo - build/editor/index.js](https://github.com/WordPress/gutenberg/issues/61053)
-- [Add class to <ul> in List block.](https://github.com/WordPress/gutenberg/issues/12420)
-- [Search Results Title block: Rename title](https://github.com/WordPress/gutenberg/issues/60701)
-- [FocalPointPicker: Convert unit tests to TypeScript](https://github.com/WordPress/gutenberg/issues/60529)
-- [Clarify the 'Play inline' setting for videos](https://github.com/WordPress/gutenberg/issues/60867)
-- [TabPanel: Focus styles on `tabpanel` are wrong](https://github.com/WordPress/gutenberg/issues/60663)
-- [getSettings() returns WP defaults outside of edit() and save()](https://github.com/WordPress/gutenberg/issues/18467)
-- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
-- [Extract `getNodeText` and add Unit Tests](https://github.com/WordPress/gutenberg/issues/55495)
 
