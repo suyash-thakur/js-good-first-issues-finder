@@ -4,11 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Update reference on all footprints](https://github.com/ceoloide/ergogen-footprints/issues/26)
-- [Feature: Add extra pins to footprint for nice!nano](https://github.com/ceoloide/ergogen-footprints/issues/3)
-- [Add 3D models to footprint definition](https://github.com/ceoloide/ergogen-footprints/issues/9)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [metriport/metriport](https://github.com/metriport/metriport)
+
+- [Add SSN support](https://github.com/metriport/metriport/issues/1722)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -18,6 +21,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
@@ -40,12 +44,9 @@ This list gets updated every day at midnight.
 - [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [discord-tickets/bot](https://github.com/discord-tickets/bot)
-
-- [`/new` with invalid `references` value causes unexpected error](https://github.com/discord-tickets/bot/issues/540)
+- [More PWA functions](https://github.com/HeyPuter/puter/issues/276)
+- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
+- ["My Websites" does not explain how to publish websites](https://github.com/HeyPuter/puter/issues/153)
 
