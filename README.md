@@ -4,44 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [mcollina/autocannon](https://github.com/mcollina/autocannon)
-
-- [Investigate and fix failing test on windows with node 20](https://github.com/mcollina/autocannon/issues/522)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Transient "hide watched" toggle](https://github.com/FreeTubeApp/FreeTube/issues/4999)
-- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Update label casing to sentence case](https://github.com/FreeTubeApp/FreeTube/issues/5000)
-- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
-- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
-- [Search Box - Long query](https://github.com/FreeTubeApp/FreeTube/issues/940)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
-
-- [[webextensions] Parcel doesn't accept manifest v3 with both `service_worker` and `scripts`](https://github.com/parcel-bundler/parcel/issues/9458)
-- [Import statements trigger an error in virtual modules](https://github.com/parcel-bundler/parcel/issues/8939)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
+- [[Docs] Need single line display of <code>](https://github.com/meshery/meshery/issues/10863)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
+- [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
@@ -61,9 +28,28 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [Use RJSF schema from Sistent in Meshery UI](https://github.com/meshery/meshery/issues/10445)
 
-## [Volumetrics-io/mrjs](https://github.com/Volumetrics-io/mrjs)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [CSS: `scale` not applied in WebKit browsers](https://github.com/Volumetrics-io/mrjs/issues/525)
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [Nactore-Org/Nacto-Care](https://github.com/Nactore-Org/Nacto-Care)
+
+- [[Frontend] : Implement an `About` page just like other standard websites](https://github.com/Nactore-Org/Nacto-Care/issues/10)
+- [[Backend] : Email and Phone Number should be unique in the database](https://github.com/Nactore-Org/Nacto-Care/issues/13)
+- [[Frontend] : Implement `/blog` route and component on the website](https://github.com/Nactore-Org/Nacto-Care/issues/12)
+- [[Design] : Logo for Nacto-Care and Nactore](https://github.com/Nactore-Org/Nacto-Care/issues/11)
+- [[Frontend] : New Route `/book` when Book Nurse Button is pressed.](https://github.com/Nactore-Org/Nacto-Care/issues/8)
+- [[Document] : Add installation and development instructions in README](https://github.com/Nactore-Org/Nacto-Care/issues/5)
+- [[Frontend] : Improvement for Header](https://github.com/Nactore-Org/Nacto-Care/issues/3)
+
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [RunPHPWithOptionsStep demo returns nothing](https://github.com/WordPress/wordpress-playground/issues/1162)
+- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+- [UI to install WordPress plugins on Playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/170)
+- [Website: Onboarding modal for new users](https://github.com/WordPress/wordpress-playground/issues/497)
+- [Add a github link on playground.wordpress.net](https://github.com/WordPress/wordpress-playground/issues/173)
 
