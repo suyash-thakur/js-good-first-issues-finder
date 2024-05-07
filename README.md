@@ -4,6 +4,49 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- ["Pause while I watch a 2nd video" bug](https://github.com/code-charity/youtube/issues/1867)
+- [Autplay not working. Ver 4.820](https://github.com/code-charity/youtube/issues/2137)
+- [Return "original" Layout to Youtube](https://github.com/code-charity/youtube/issues/2178)
+- [The plugin don't work no mo'.](https://github.com/code-charity/youtube/issues/2219)
+- [autoplay problem](https://github.com/code-charity/youtube/issues/2042)
+- [autoplay quickfix ](https://github.com/code-charity/youtube/issues/1703)
+- [`.github/README.md` "Contributing" heading underline renders over table.](https://github.com/code-charity/youtube/issues/2239)
+- [Hide 'Notify Me' / Scheduled Releases / Premieres](https://github.com/code-charity/youtube/issues/2245)
+- [Bandwidth // Audio only   ](https://github.com/code-charity/youtube/issues/566)
+- [enlarge(/boost/magnify/increase)   youtube's volume slider](https://github.com/code-charity/youtube/issues/2116)
+- [<video> Player buttons to be added</video>](https://github.com/code-charity/youtube/issues/1445)
+- [The Blocklist button doesn't work for me, let me edit manually (plus import/export)](https://github.com/code-charity/youtube/issues/2236)
+- [tracking watched videos: missing a minimum in seconds & percent of the video duration. We count played time (analyzer feature). We can store the percentages watched. And the exact parts to mark them up on the player's time bar. And skip them or rehearse them exclusively (skip all else) ](https://github.com/code-charity/youtube/issues/2238)
+- [Title in the same language as the video or icon that indicates the language](https://github.com/code-charity/youtube/issues/2232)
+- [quality & bandwidth](https://github.com/code-charity/youtube/issues/2240)
+- [can you please assign a key to the rotate video option ?](https://github.com/code-charity/youtube/issues/1699)
+- [Youtube's Embedded Player: 2. show suggestion in the same window (no popup, same for those appearing at the end of videos)    (Done: 1. Hide Overlay suggestions (on pause))           ](https://github.com/code-charity/youtube/issues/867)
+- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
+- [Auto PIP    -  only works when the video is paused and not when playing, should be the opposite](https://github.com/code-charity/youtube/issues/1352)
+- [Add Share Button with Auto-Copy Timestamp Feature for YouTube Videos](https://github.com/code-charity/youtube/issues/2233)
+- [Feature Request: PiP Scrub, volume, and previous/next controls](https://github.com/code-charity/youtube/issues/2234)
+- [Shifting video player on x2 speed shortcut](https://github.com/code-charity/youtube/issues/2229)
+- [home page auto-play (can't find it)](https://github.com/code-charity/youtube/issues/2224)
+- [Pause video bug](https://github.com/code-charity/youtube/issues/2225)
+- [Make the mini-guide visible by default](https://github.com/code-charity/youtube/issues/2227)
+- [Suggestion : Remove Youtube Doodles](https://github.com/code-charity/youtube/issues/2223)
+- [Windows Accessibility -> Visual Effects -> "Always show scrollbars" :  Settings window positioned too right, scrollbars are hidden](https://github.com/code-charity/youtube/issues/2222)
+- [Add visual/audio feedback for like/dislike/unrate keyboard shortcuts for fullscreen mode](https://github.com/code-charity/youtube/issues/2217)
+- [Make the genre selector background as transparent as the header bar in the youtube homepage](https://github.com/code-charity/youtube/issues/2211)
+- [The autoplay feature(not up next) on a new tab isn't working.](https://github.com/code-charity/youtube/issues/1851)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
@@ -12,6 +55,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Docs] Update Meshery repo README](https://github.com/meshery/meshery/issues/10770)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 - [[UI] Registry tree should be full screen height](https://github.com/meshery/meshery/issues/9595)
@@ -19,35 +63,13 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
 - [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
-- [[Docs] Need single line display of <code>](https://github.com/meshery/meshery/issues/10863)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [OREL-group/Project-Management-SP-24](https://github.com/OREL-group/Project-Management-SP-24)
-
-- [Finalize Project Vision Statement](https://github.com/OREL-group/Project-Management-SP-24/issues/150)
-- [Sketch out user interface design for the app](https://github.com/OREL-group/Project-Management-SP-24/issues/110)
-- [Finalize Project Documentation](https://github.com/OREL-group/Project-Management-SP-24/issues/148)
-- [Issue Title: Implement User Profile Page](https://github.com/OREL-group/Project-Management-SP-24/issues/145)
-- [Explore the use of blockchain for enhancing transaction security](https://github.com/OREL-group/Project-Management-SP-24/issues/121)
-- [Code backend logic for price fluctuation](https://github.com/OREL-group/Project-Management-SP-24/issues/105)
-- [Add Customization and Personalization Elements to Application](https://github.com/OREL-group/Project-Management-SP-24/issues/96)
-- [Develop lo-fi prototype of application](https://github.com/OREL-group/Project-Management-SP-24/issues/90)
-- [Client Feedback Call](https://github.com/OREL-group/Project-Management-SP-24/issues/62)
-- [Hand off Figma design file to developers](https://github.com/OREL-group/Project-Management-SP-24/issues/60)
-- [Inputting new words into database](https://github.com/OREL-group/Project-Management-SP-24/issues/56)
 
