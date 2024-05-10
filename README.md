@@ -4,18 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[ACTIONS] MongoDb - Aggregation, Update Many Documents, Find a Document](https://github.com/PipedreamHQ/pipedream/issues/11834)
-- [[TRIGGER] Facebook Pages - New Comment/New Post triggers](https://github.com/PipedreamHQ/pipedream/issues/11642)
-- [[ACTION] Microsoft Planner actions](https://github.com/PipedreamHQ/pipedream/issues/11691)
-- [Google Drive - Get File by ID](https://github.com/PipedreamHQ/pipedream/issues/11696)
-- [[ACTIONS & TRIGGERS] PagesJaunes](https://github.com/PipedreamHQ/pipedream/issues/11702)
-- [[TRIGGER] Twitch - New Subscribers trigger](https://github.com/PipedreamHQ/pipedream/issues/11605)
-- [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [Volumetrics-io/mrjs](https://github.com/Volumetrics-io/mrjs)
+
+- [CSS: `scale` not applied in WebKit browsers](https://github.com/Volumetrics-io/mrjs/issues/525)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [[Brave News]: Remove small "News" Card from above peeking card](https://github.com/brave/brave-browser/issues/38188)
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
@@ -23,6 +24,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Broken image link in `Provider` modal.](https://github.com/meshery/meshery/issues/10909)
 - [[Docs] Reduce font size in Meshery REST API page](https://github.com/meshery/meshery/issues/10900)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -40,9 +42,10 @@ This list gets updated every day at midnight.
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[Meta] Add missing "Using instrumentation libraries" pages](https://github.com/open-telemetry/opentelemetry.io/issues/4319)
+- [[.NET] remove the pattern of "using var meterProvider"](https://github.com/open-telemetry/opentelemetry.io/issues/4075)
+- [Native libraries list](https://github.com/open-telemetry/opentelemetry.io/issues/3896)
+- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
 
