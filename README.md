@@ -4,24 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [Volumetrics-io/mrjs](https://github.com/Volumetrics-io/mrjs)
-
-- [CSS: `scale` not applied in WebKit browsers](https://github.com/Volumetrics-io/mrjs/issues/525)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Brave News]: Remove small "News" Card from above peeking card](https://github.com/brave/brave-browser/issues/38188)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Broken image link in `Provider` modal.](https://github.com/meshery/meshery/issues/10909)
@@ -40,12 +22,38 @@ This list gets updated every day at midnight.
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
-- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[Meta] Add missing "Using instrumentation libraries" pages](https://github.com/open-telemetry/opentelemetry.io/issues/4319)
-- [[.NET] remove the pattern of "using var meterProvider"](https://github.com/open-telemetry/opentelemetry.io/issues/4075)
-- [Native libraries list](https://github.com/open-telemetry/opentelemetry.io/issues/3896)
-- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
+- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
+- [next/link prefixing urls with / only on client side](https://github.com/vercel/next.js/issues/19922)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
+- [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+
+## [endojs/endo](https://github.com/endojs/endo)
+
+- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
 
