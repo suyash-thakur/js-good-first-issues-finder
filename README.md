@@ -4,9 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[UI] Broken image link in `Provider` modal.](https://github.com/meshery/meshery/issues/10909)
+- [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[Docs] Reduce font size in Meshery REST API page](https://github.com/meshery/meshery/issues/10900)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -15,19 +21,32 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Source](https://github.com/meshery/meshery/issues/10298)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cron Workflow](https://github.com/meshery/meshery/issues/10296)
 - [[Models] Relationship: Need Edge support for all Annotation Components](https://github.com/meshery/meshery/issues/10278)
-- [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-- [[mesheryctl]: Interactive Pagination for `mesheryctl filter list` command](https://github.com/meshery/meshery/issues/10366)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [CatalystDevOrg/Catalyst](https://github.com/CatalystDevOrg/Catalyst)
 
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Screenshots with Shadow and Rounded Corners](https://github.com/CatalystDevOrg/Catalyst/issues/475)
+- [Password Manager](https://github.com/CatalystDevOrg/Catalyst/issues/471)
+
+## [MHCommunity/mousehunt-improved](https://github.com/MHCommunity/mousehunt-improved)
+
+- [Suggest cheese / trap in m400 helper](https://github.com/MHCommunity/mousehunt-improved/issues/242)
+
+## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
+
+- [Feature request: Mapillary layer on by default as a challenge option](https://github.com/maproulette/maproulette3/issues/844)
+- [sort=tasks_remaining fails](https://github.com/maproulette/maproulette3/issues/2324)
+
+## [cse110-sp24-group7/cse110-sp24-group7](https://github.com/cse110-sp24-group7/cse110-sp24-group7)
+
+- [[US #3] Main Task View for MVP](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/7)
+- [[US #2] Journal task Pop up](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/6)
+- [[US #1] Pop up Task](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/5)
+- [Electron.js Proof of Concept](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/4)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -52,8 +71,4 @@ This list gets updated every day at midnight.
 - [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
 - [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 - [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-
-## [endojs/endo](https://github.com/endojs/endo)
-
-- [Some endo tests are not using @endo/init](https://github.com/endojs/endo/issues/1298)
 
