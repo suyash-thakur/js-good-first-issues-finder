@@ -4,11 +4,26 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [badging/badging](https://github.com/badging/badging)
 
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Create a direct route to the badging table and link it in the readme.](https://github.com/badging/badging/issues/100)
+- [add project and badge counter to home page of website](https://github.com/badging/badging/issues/101)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Brave News]: Remove small "News" Card from above peeking card](https://github.com/brave/brave-browser/issues/38188)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -27,48 +42,27 @@ This list gets updated every day at midnight.
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 
-## [CatalystDevOrg/Catalyst](https://github.com/CatalystDevOrg/Catalyst)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Screenshots with Shadow and Rounded Corners](https://github.com/CatalystDevOrg/Catalyst/issues/475)
-- [Password Manager](https://github.com/CatalystDevOrg/Catalyst/issues/471)
-
-## [MHCommunity/mousehunt-improved](https://github.com/MHCommunity/mousehunt-improved)
-
-- [Suggest cheese / trap in m400 helper](https://github.com/MHCommunity/mousehunt-improved/issues/242)
-
-## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
-
-- [Feature request: Mapillary layer on by default as a challenge option](https://github.com/maproulette/maproulette3/issues/844)
-- [sort=tasks_remaining fails](https://github.com/maproulette/maproulette3/issues/2324)
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
 ## [cse110-sp24-group7/cse110-sp24-group7](https://github.com/cse110-sp24-group7/cse110-sp24-group7)
 
+- [[US #5] All Tasks View](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/11)
 - [[US #3] Main Task View for MVP](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/7)
 - [[US #2] Journal task Pop up](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/6)
 - [[US #1] Pop up Task](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/5)
 - [Electron.js Proof of Concept](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/4)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [<AppTree /> is incorrect](https://github.com/vercel/next.js/issues/9336)
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [Cannot destructure property `publicRuntimeConfig` of 'undefined' or 'null'. (v9.5.0)](https://github.com/vercel/next.js/issues/15568)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Multiple Optional Catchall Routes with overlapping patterns fails to correctly fall-back in dev mode](https://github.com/vercel/next.js/issues/17367)
-- [next/link prefixing urls with / only on client side](https://github.com/vercel/next.js/issues/19922)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Build occasionally fails complains about missing modules but also succeeds](https://github.com/vercel/next.js/issues/15874)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [Bug in Resetting the Form DOM on Browser Back/Forth](https://github.com/vercel/next.js/issues/6128)
-- [FOUC only in production on latest Firefox](https://github.com/vercel/next.js/issues/22465)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [[RFC]: add `@stdlib/array/base/mskfilter-map`](https://github.com/stdlib-js/stdlib/issues/1322)
+- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
+- [[RFC]: improve README examples of `constants/float16` namespace](https://github.com/stdlib-js/stdlib/issues/1555)
+
+## [climate-tech-handbook/climate-tech-handbook](https://github.com/climate-tech-handbook/climate-tech-handbook)
+
+- [Fix Solutions explorer](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/218)
 
