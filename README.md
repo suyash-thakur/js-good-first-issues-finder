@@ -4,20 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [badging/badging](https://github.com/badging/badging)
-
-- [Create a direct route to the badging table and link it in the readme.](https://github.com/badging/badging/issues/100)
-- [add project and badge counter to home page of website](https://github.com/badging/badging/issues/101)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
-- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [[Brave News]: Remove small "News" Card from above peeking card](https://github.com/brave/brave-browser/issues/38188)
@@ -28,7 +14,6 @@ This list gets updated every day at midnight.
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
-- [[Docs] Reduce font size in Meshery REST API page](https://github.com/meshery/meshery/issues/10900)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
@@ -48,21 +33,46 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [cse110-sp24-group7/cse110-sp24-group7](https://github.com/cse110-sp24-group7/cse110-sp24-group7)
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 
-- [[US #5] All Tasks View](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/11)
-- [[US #3] Main Task View for MVP](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/7)
-- [[US #2] Journal task Pop up](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/6)
-- [[US #1] Pop up Task](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/5)
-- [Electron.js Proof of Concept](https://github.com/cse110-sp24-group7/cse110-sp24-group7/issues/4)
+- [Semantic HTML issues in header section](https://github.com/processing/p5.js-web-editor/issues/2967)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [[RFC]: add `@stdlib/array/base/mskfilter-map`](https://github.com/stdlib-js/stdlib/issues/1322)
-- [[RFC]: Add `@stdlib/string/for-each-right`](https://github.com/stdlib-js/stdlib/issues/856)
-- [[RFC]: improve README examples of `constants/float16` namespace](https://github.com/stdlib-js/stdlib/issues/1555)
+- [[Meta] Add missing "Using instrumentation libraries" pages](https://github.com/open-telemetry/opentelemetry.io/issues/4319)
+- [[.NET] remove the pattern of "using var meterProvider"](https://github.com/open-telemetry/opentelemetry.io/issues/4075)
+- [Native libraries list](https://github.com/open-telemetry/opentelemetry.io/issues/3896)
+- [[Meta] Standardize instrumentation docs with sample app](https://github.com/open-telemetry/opentelemetry.io/issues/3229)
 
-## [climate-tech-handbook/climate-tech-handbook](https://github.com/climate-tech-handbook/climate-tech-handbook)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Fix Solutions explorer](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/218)
+- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
+- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
+- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
+- [Replace deprecated Dialog component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20463)
+- [“Gas limit must be at least 21000” flashes on screen before confirmation](https://github.com/MetaMask/metamask-extension/issues/9345)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+
+## [PolicyEngine/policyengine-app](https://github.com/PolicyEngine/policyengine-app)
+
+- [Square off edges in PoliciesModelledPopup](https://github.com/PolicyEngine/policyengine-app/issues/1730)
+- [Buttons in household calculator are sized improperly](https://github.com/PolicyEngine/policyengine-app/issues/1757)
+- [Remove AI prompt Copy button](https://github.com/PolicyEngine/policyengine-app/issues/1756)
+- [Dates in the research cards on the Research page and in the article sections on the homepage should be internationalized](https://github.com/PolicyEngine/policyengine-app/issues/1735)
+- [Clicking Reproduce in Python pages resets the policies simulated modal](https://github.com/PolicyEngine/policyengine-app/issues/1732)
+- [Not all authors are displayed properly on Research page's authors filter tab ](https://github.com/PolicyEngine/policyengine-app/issues/1554)
+- [The author selection in the Web App does not seem to work](https://github.com/PolicyEngine/policyengine-app/issues/1726)
+- [Zoom into the graphs of the Microsim seems broken ](https://github.com/PolicyEngine/policyengine-app/issues/1720)
+- [Parameter underlining is inconsistent](https://github.com/PolicyEngine/policyengine-app/issues/1691)
+- [Ensure that API page displays properly on smaller breakpoints](https://github.com/PolicyEngine/policyengine-app/issues/1593)
+- [Train embeddings for the PolicyEngine-[country] repo codebases to allow users to ask it questions](https://github.com/PolicyEngine/policyengine-app/issues/512)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [Active filter must reset after i search for something else](https://github.com/FreeTubeApp/FreeTube/issues/1693)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Integrate Autoplay mode into mediaplayer](https://github.com/FreeTubeApp/FreeTube/issues/1181)
+- [Add setting to always play videos in fullscreen](https://github.com/FreeTubeApp/FreeTube/issues/647)
 
