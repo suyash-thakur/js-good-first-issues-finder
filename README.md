@@ -4,15 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-- [update SM Icon with Pattern's](https://github.com/meshery/meshery.io/issues/1744)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -22,9 +17,35 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+- [update SM Icon with Pattern's](https://github.com/meshery/meshery.io/issues/1744)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [DateTimePicker: AM/PM switcher is not screen reader accessible](https://github.com/WordPress/gutenberg/issues/61163)
+- [Rename titles - of Search Results Title and Archive Title blocks](https://github.com/WordPress/gutenberg/issues/60701)
+- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
+- [Social icons: Update Soundcloud Logo](https://github.com/WordPress/gutenberg/issues/59084)
+- [Interactivity API: Improve readability in directives check function inside `vdom.ts`](https://github.com/WordPress/gutenberg/issues/61455)
+- [Query Loop / Post Template block: additional grid view layout options ](https://github.com/WordPress/gutenberg/issues/61298)
+- [Components: Replace `reducedMotion()` usage with media queries](https://github.com/WordPress/gutenberg/issues/60902)
+- [Clarify the 'Play inline' setting for videos](https://github.com/WordPress/gutenberg/issues/60867)
+- [Custom HTML Block should display content in LTR layout for all languages](https://github.com/WordPress/gutenberg/issues/61324)
+- [Focus ring doesn't match button Site Hub Icon size](https://github.com/WordPress/gutenberg/issues/61339)
+- [TabPanel: Focus styles on `tabpanel` are wrong](https://github.com/WordPress/gutenberg/issues/60663)
+- [Remove font weight on toolbar tab button](https://github.com/WordPress/gutenberg/issues/61254)
+- [Author's Username is missing from Author dropdown.](https://github.com/WordPress/gutenberg/issues/17364)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [@wordpress/scripts lint-js not compatible with newer versions of ESLint (ESLint 9+)](https://github.com/WordPress/gutenberg/issues/55499)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Add option to enable Turbopack with `create-next-app`](https://github.com/vercel/next.js/issues/65924)
 - [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
