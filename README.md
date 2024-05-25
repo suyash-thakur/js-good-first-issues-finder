@@ -4,27 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [hyperdatalabs/AchadosELatidos.org](https://github.com/hyperdatalabs/AchadosELatidos.org)
 
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-
-## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-
-- [Prebid 9: raise minimum node version from 12 to 16](https://github.com/prebid/Prebid.js/issues/10999)
-- [ortbConverter: send max tmax](https://github.com/prebid/Prebid.js/issues/10964)
-- [feature request: configurable maxbid](https://github.com/prebid/Prebid.js/issues/11252)
-- [Proposal: remove bid adapter access to navigator](https://github.com/prebid/Prebid.js/issues/11001)
-- [Ban getting window dimensions from bid adapters](https://github.com/prebid/Prebid.js/issues/11234)
+- [Área de parceiros](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/8)
+- [Melhorias de SEO](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/5)
+- ["Compartilhar pet" contém apenas textos](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/2)
+- [Criação de página de contribuição no site](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/4)
+- [Revisão visual](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/3)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Bug] Fix background color of design page](https://github.com/meshery/meshery/issues/10775)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -34,21 +29,28 @@ This list gets updated every day at midnight.
 
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [Volumetrics-io/mrjs](https://github.com/Volumetrics-io/mrjs)
+## [CatalystDevOrg/Catalyst](https://github.com/CatalystDevOrg/Catalyst)
 
-- [CSS: `scale` not applied in WebKit browsers](https://github.com/Volumetrics-io/mrjs/issues/525)
+- [Screenshots with Shadow and Rounded Corners](https://github.com/CatalystDevOrg/Catalyst/issues/475)
+- [Password Manager](https://github.com/CatalystDevOrg/Catalyst/issues/471)
 
-## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
+## [permaweb/ao](https://github.com/permaweb/ao)
 
-- [Nested SubQueries do not work as expected](https://github.com/AlaSQL/alasql/issues/1924)
-- [Foreign key not detected in tables object](https://github.com/AlaSQL/alasql/issues/1643)
+- [connect: add utility to serialize Cron "message" into flattened `Cron-Tag-{Name}` tags](https://github.com/permaweb/ao/issues/206)
+- [`PROCESS_MEMORY_CACHE_TTL` cannot be large than `int32`](https://github.com/permaweb/ao/issues/666)
 
-## [metriport/metriport](https://github.com/metriport/metriport)
+## [github/docs](https://github.com/github/docs)
 
-- [Allow for multiple unique consolidated calls in parallel](https://github.com/metriport/metriport/issues/2090)
-- [Add SSN support](https://github.com/metriport/metriport/issues/1722)
+- [Remove unnecessary second period from creating-gists#about-gists](https://github.com/github/docs/issues/33161)
+- [Add missing period in creating-gists#about-gists](https://github.com/github/docs/issues/33159)
+- [Move period inside quotation marks in managing-your-theme-settings.md](https://github.com/github/docs/issues/33137)
+- [Move period inside ending quotation marks in github-glossary#upstream-branch](https://github.com/github/docs/issues/33136)
+- [Move period inside ending quotation marks in github-glossary#upstream](https://github.com/github/docs/issues/33135)
+- [Fix lists in communicating-on-github.md](https://github.com/github/docs/issues/33100)
+- [Move period inside ending quotation marks in github-glossary#pull](https://github.com/github/docs/issues/33103)
+- [Remove unnecessary ellipses at the end of step](https://github.com/github/docs/issues/33027)
+- [Period needs to be moved inside quotation marks in github-flow.md](https://github.com/github/docs/issues/33032)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
