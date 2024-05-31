@@ -4,12 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [GoodGameRuler/unitrack_v3](https://github.com/GoodGameRuler/unitrack_v3)
+
+- [Major Enhancement - Responsiveness General](https://github.com/GoodGameRuler/unitrack_v3/issues/46)
+- [Different font in OS browser](https://github.com/GoodGameRuler/unitrack_v3/issues/43)
+- [Minor Enhancement - Separate Details Input from Degree Planner](https://github.com/GoodGameRuler/unitrack_v3/issues/50)
+- [feat: adding start and end year date pickers to the form ](https://github.com/GoodGameRuler/unitrack_v3/pull/34)
+- [Add degree start year and end year in degree details form](https://github.com/GoodGameRuler/unitrack_v3/issues/26)
+- [Nav bar icon disappears upon hovered ](https://github.com/GoodGameRuler/unitrack_v3/issues/40)
+- [Unit search filter functionality](https://github.com/GoodGameRuler/unitrack_v3/issues/32)
+- [Add some nice css for scrollbar](https://github.com/GoodGameRuler/unitrack_v3/issues/14)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
@@ -23,35 +48,19 @@ This list gets updated every day at midnight.
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [facebook/react](https://github.com/facebook/react)
 
-- [Replace `std::to_address` with `base::to_address`](https://github.com/brave/brave-browser/issues/38658)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [[Compiler]: Consider the `dispatch` fn from useActionState and useFormState to be non-reactive](https://github.com/facebook/react/issues/29674)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Replace `std::to_address` with `base::to_address`](https://github.com/brave/brave-browser/issues/38658)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-
-## [hyperdatalabs/AchadosELatidos.org](https://github.com/hyperdatalabs/AchadosELatidos.org)
-
-- [Área de parceiros](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/8)
-- [Melhorias de SEO](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/5)
-- ["Compartilhar pet" contém apenas textos](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/2)
-- [Criação de página de contribuição no site](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/4)
-- [Revisão visual](https://github.com/hyperdatalabs/AchadosELatidos.org/issues/3)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
+- [parseArgs with type: "boolean" and default: true does not allow a false value](https://github.com/nodejs/node/issues/53095)
+- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [`nextTick` doesn't execute as expected with `.mjs`](https://github.com/nodejs/node/issues/52978)
+- [`assert.ok()` throwing `AssertionError` instead of provided `Error` object](https://github.com/nodejs/node/issues/50780)
+- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+- [`--test` & `--test-reporter` & `--test-reporter-destination` will swallow error](https://github.com/nodejs/node/issues/52670)
+- [[WebSocket] Add `CloseEvent`](https://github.com/nodejs/node/issues/50275)
 
