@@ -23,45 +23,45 @@ This list gets updated every day at midnight.
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
-- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
 
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
 
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [Proposal: remove bid adapter access to navigator](https://github.com/prebid/Prebid.js/issues/11001)
+- [Ban getting window dimensions from bid adapters](https://github.com/prebid/Prebid.js/issues/11234)
 
-## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
+## [Northeastern-Science-Magazine/nusci-website](https://github.com/Northeastern-Science-Magazine/nusci-website)
 
-- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
-- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
-- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
-- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
-- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
-
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
-
-- [Cypress incorrectly uses the box model of elements that have `display:contents` when determining visibility of child elements](https://github.com/cypress-io/cypress/issues/29605)
-- [readFile command cannot read file with special symbols in name on Linux Debian - it says there is no such file](https://github.com/cypress-io/cypress/issues/29589)
-- [CT: cypress doesn't recognize "+" symbol in the path to the Angular component](https://github.com/cypress-io/cypress/issues/29493)
-- [selectFile from fixture will omit file name if used in two consequent tests](https://github.com/cypress-io/cypress/issues/21936)
-- [Google Chrome for testing - version not parsed correctly](https://github.com/cypress-io/cypress/issues/28123)
-- [Minor bug on UI - Tooltip shows for a hidden element](https://github.com/cypress-io/cypress/issues/22717)
-- [Selector playground doesn't correctly escape colon char in selector suggestion](https://github.com/cypress-io/cypress/issues/27258)
+- [Standardizing the Routers/Controllers](https://github.com/Northeastern-Science-Magazine/nusci-website/issues/106)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 - [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+
+## [facebook/react](https://github.com/facebook/react)
+
+- [[Compiler]: Consider the `dispatch` fn from useActionState and useFormState to be non-reactive](https://github.com/facebook/react/issues/29674)
+- [value|defaultValue={Symbol|Function} should be ignored, not stringified](https://github.com/facebook/react/issues/11734)
+
+## [plotly/plotly.js](https://github.com/plotly/plotly.js)
+
+- [[Feature request] 'symlog' scale](https://github.com/plotly/plotly.js/issues/221)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
+- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
+- [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
+- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
+- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
 
