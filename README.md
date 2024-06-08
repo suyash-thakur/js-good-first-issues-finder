@@ -4,14 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 
-- [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -25,27 +20,22 @@ This list gets updated every day at midnight.
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
 
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
 
-## [Volumetrics-io/mrjs](https://github.com/Volumetrics-io/mrjs)
+## [BeaconCMS/beacon_live_admin](https://github.com/BeaconCMS/beacon_live_admin)
 
-- [CSS: `scale` not applied in WebKit browsers](https://github.com/Volumetrics-io/mrjs/issues/525)
+- [Components: Sorting and Pagination](https://github.com/BeaconCMS/beacon_live_admin/issues/88)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[TRIGGER] npm new release](https://github.com/PipedreamHQ/pipedream/issues/12070)
-- [[ACTION] Slack - usability updates](https://github.com/PipedreamHQ/pipedream/issues/12244)
-- [[ACTION] AWS S3 - Generate Presigned URL](https://github.com/PipedreamHQ/pipedream/issues/12237)
-- [[ACTION] Discord Bot - Send New Message to Forum Post](https://github.com/PipedreamHQ/pipedream/issues/12120)
-- [[ACTIONS, TRIGGERS] Tricount new components](https://github.com/PipedreamHQ/pipedream/issues/3964)
-- [[TRIGGER] Lawmatics - New Matter](https://github.com/PipedreamHQ/pipedream/issues/12000)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
 
 ## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
@@ -54,5 +44,18 @@ This list gets updated every day at midnight.
 - [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
 - [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
 - [Replace deprecated Chip component with Tag from the component-library](https://github.com/MetaMask/metamask-extension/issues/20487)
-- [Replace deprecated NetworkDisplay component with PickerNetwork from the component-library](https://github.com/MetaMask/metamask-extension/issues/20485)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Request: Sky Bet](https://github.com/simple-icons/simple-icons/issues/10479)
+- [Request: Plume](https://github.com/simple-icons/simple-icons/issues/9574)
+- [Request: VEGAS Pro](https://github.com/simple-icons/simple-icons/issues/7250)
+- [Request: Apryse](https://github.com/simple-icons/simple-icons/issues/9656)
+- [Request: Lobsters](https://github.com/simple-icons/simple-icons/issues/8538)
+- [Request: OKX](https://github.com/simple-icons/simple-icons/issues/10371)
+- [Request: WorkOS](https://github.com/simple-icons/simple-icons/issues/10289)
+- [Request: Maze](https://github.com/simple-icons/simple-icons/issues/10925)
+- [Request: Doctrine](https://github.com/simple-icons/simple-icons/issues/8572)
+- [Request: Zip Pay](https://github.com/simple-icons/simple-icons/issues/10174)
+- [Request: EXPRESS](https://github.com/simple-icons/simple-icons/issues/10570)
 
