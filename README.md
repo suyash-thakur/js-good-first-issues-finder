@@ -4,6 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
+
+## [ZeusLN/zeus](https://github.com/ZeusLN/zeus)
+
+- [Point of Sale: Charge button: show total in sats if currency rates disabled](https://github.com/ZeusLN/zeus/issues/2128)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
@@ -16,21 +33,15 @@ This list gets updated every day at midnight.
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX]: Design Icon for ArgoCD Component - Sensor](https://github.com/meshery/meshery/issues/10300)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
-- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
+- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
+- [[RFC]: add `@stdlib/math/base/special/nanmin`](https://github.com/stdlib-js/stdlib/issues/2318)
 - [[RFC]: add `@stdlib/array/base/cuany`](https://github.com/stdlib-js/stdlib/issues/2319)
 - [[RFC]: add `@stdlib/math/base/special/nanmax`](https://github.com/stdlib-js/stdlib/issues/2317)
-- [[RFC]: add `@stdlib/math/base/special/nanmin`](https://github.com/stdlib-js/stdlib/issues/2318)
 - [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
 - [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
 - [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
