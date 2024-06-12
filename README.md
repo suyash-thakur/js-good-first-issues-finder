@@ -4,13 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -36,19 +32,29 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 
-- [Request: Hostelworld](https://github.com/simple-icons/simple-icons/issues/11178)
-- [Request: WebGPU Icon](https://github.com/simple-icons/simple-icons/issues/11168)
-- [Request: Rime](https://github.com/simple-icons/simple-icons/issues/11159)
-- [Request: Sky Bet](https://github.com/simple-icons/simple-icons/issues/10479)
-- [Request: Plume](https://github.com/simple-icons/simple-icons/issues/9574)
-- [Request: VEGAS Pro](https://github.com/simple-icons/simple-icons/issues/7250)
-- [Request: Apryse](https://github.com/simple-icons/simple-icons/issues/9656)
-- [Request: Lobsters](https://github.com/simple-icons/simple-icons/issues/8538)
-- [Request: OKX](https://github.com/simple-icons/simple-icons/issues/10371)
-- [Request: WorkOS](https://github.com/simple-icons/simple-icons/issues/10289)
-- [Request: Maze](https://github.com/simple-icons/simple-icons/issues/10925)
-- [Request: Zip Pay](https://github.com/simple-icons/simple-icons/issues/10174)
-- [Request: EXPRESS](https://github.com/simple-icons/simple-icons/issues/10570)
+- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
+
+## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
+
+- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
+- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
+- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
+- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
+- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
+
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
+- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
 
