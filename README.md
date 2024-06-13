@@ -4,9 +4,71 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
 
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/6991)
+
+- [Updated Victoria Wu's section by adding "github-handle"](https://github.com/hackforla/website/pull/6991)
+- [Added GitHub handle for Shawn Duenas](https://github.com/hackforla/website/pull/6916)
+- [Add GitHub handle for Charlotte Soestini](https://github.com/hackforla/website/pull/6980)
+- [github-handle variable added for Gian Reyes Dionisio #6937](https://github.com/hackforla/website/pull/6984)
+- [Fixes Add github-handle for Adrian Inchauste in heart.md #6934](https://github.com/hackforla/website/pull/6982)
+- [Add github-handle for Virginia Wu in food-oasis.md](https://github.com/hackforla/website/issues/6737)
+- [Add github-handle for Tien Yuan in heart](https://github.com/hackforla/website/issues/6941)
+- [Update template for HfLA GitHub Actions wiki pages](https://github.com/hackforla/website/issues/4841)
+- [Add github-handle for Jason LaManque in heart.md](https://github.com/hackforla/website/issues/6935)
+- [Add github-handle for Bonnie Wolfe in heart.md](https://github.com/hackforla/website/issues/6939)
+- [Add github-handle for Marie-Aimee Brajeux in heart.md](https://github.com/hackforla/website/issues/6933)
+- [Add github-handle for Gian Reyes Dionisio in heart.md](https://github.com/hackforla/website/issues/6937)
+- [Update Project Profile: remove Gayle Martin from HackforLA.org Website](https://github.com/hackforla/website/issues/6981)
+- [Add github-handle for Adrian Inchauste in heart.md](https://github.com/hackforla/website/issues/6934)
+- [Add github-handle for Charlotte Soestini in heart.md](https://github.com/hackforla/website/issues/6938)
+- [Add github-handle for Roland Abregorivas in heart.md](https://github.com/hackforla/website/issues/6940)
+- [Add ESlint VS Code installation instructions](https://github.com/hackforla/website/issues/4264)
+- [Add sort by feature to the project board](https://github.com/hackforla/website/issues/1742)
+- [Requirements Gathering for 'Suggest a Guide' Button Link on Toolkits Page](https://github.com/hackforla/website/issues/3115)
+- [Design System Audit: Text Elements:  Toolkit Page](https://github.com/hackforla/website/issues/3528)
+- [Linkedin Letter for API Request ](https://github.com/hackforla/website/issues/1076)
+- [Add github-handle for Shawn Duenas in ems-triage-tracker.md](https://github.com/hackforla/website/issues/6719)
+- [Epic: Create issues to resolve CodeQL alerts 1- 24, 98 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5129)
+- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
+- [ER: Find all the places that GitHub should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+- [Create Issues to add new variable github-handle for members in design-systems.md](https://github.com/hackforla/website/issues/6828)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- [`chips-wrapper` doesn't care about the state of the header (renders even if it's hidden)](https://github.com/code-charity/youtube/issues/2358)
+- [When you start a video it stutters for 1 second](https://github.com/code-charity/youtube/issues/2371)
+- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
+- [Opening in new tab doesn't apply settings (playback speed, fullscreen, autoplay) - clearing cookies fixes it for a time](https://github.com/code-charity/youtube/issues/2136)
+- [Show video chapters / key moments without opening the video](https://github.com/code-charity/youtube/issues/2368)
+- [1. Shortcuts need adoptive developer  AND  2. Shortcuts vs. Smart Keyboard Event Analysis! : if(1-3 chars){might be a shortcut?} if(2-10chars){a Search? a part of the transcript or top comments?}](https://github.com/code-charity/youtube/issues/1565)
+- [Suggestion : Remove Youtube Doodles](https://github.com/code-charity/youtube/issues/2223)
+- [Option for a censored settings export (watching history)](https://github.com/code-charity/youtube/issues/731)
+- [It is recommended to add the date at the end of the file name for export settings.](https://github.com/code-charity/youtube/issues/714)
+- [Export settings doesn't work in Safari](https://github.com/code-charity/youtube/issues/1829)
+- [Undo New Sidebar not working in some instances](https://github.com/code-charity/youtube/issues/2327)
+- [Changing Appearance -> Buttons -> Thanks to "Hidden" does not work](https://github.com/code-charity/youtube/issues/2364)
+- [Toggle to remove "Create" icon in the YouTube header](https://github.com/code-charity/youtube/issues/2363)
+- [Blank space at the bottom of the video.](https://github.com/code-charity/youtube/issues/2359)
+- [Add data to the playlist](https://github.com/code-charity/youtube/issues/2354)
+- [Improvement Suggestion for YouTube's Subtitle Feature](https://github.com/code-charity/youtube/issues/2348)
+- [Screenshot button doesn't work on firefox](https://github.com/code-charity/youtube/issues/2341)
+- [Scroll Bar for the Sidebar ](https://github.com/code-charity/youtube/issues/2342)
+- [Add Option to show Absolute dates, not Relative dates, in playlists and main Details](https://github.com/code-charity/youtube/issues/2352)
+- [Can't use mouse wheel to scroll page when use Undo New Sidebar option ](https://github.com/code-charity/youtube/issues/2339)
+- [Rainbow player or Randomize Player Colors](https://github.com/code-charity/youtube/issues/282)
+- [Mini-Player progress bar is not scaled down to fit the window size.](https://github.com/code-charity/youtube/issues/2351)
+- [The ads Off (block or skip) didn't work because of Anti-Adblock Message](https://github.com/code-charity/youtube/issues/2343)
+- [Undo the new layout... again](https://github.com/code-charity/youtube/issues/2346)
+- [Can.t  utilize Player size in the browser window - it does not work anymore](https://github.com/code-charity/youtube/issues/2328)
+- [Custom loop start and end times?](https://github.com/code-charity/youtube/issues/2307)
+- [Comment sidebar doesn't work properly over 1935px in width](https://github.com/code-charity/youtube/issues/2335)
+- [Ask Vivaldi to fix side panels](https://github.com/code-charity/youtube/issues/2288)
+- [ Automation of Testing, Github & Stores](https://github.com/code-charity/youtube/issues/842)
+- [YouTube Home Screen empty space ?](https://github.com/code-charity/youtube/issues/2326)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -18,43 +80,17 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Add a better background color to Choose your platform section on homepage](https://github.com/meshery/meshery.io/issues/1735)
-
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Top score in Lighthouse from the start](https://github.com/vercel/next.js/issues/40418)
-
-## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
-
-- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
-- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
-- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
-- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
-- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
-
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
-
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
 
