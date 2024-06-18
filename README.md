@@ -4,15 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
-- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
-- [[Feature Request]: Change icon color of FT logo on About page based on set theme](https://github.com/FreeTubeApp/FreeTube/issues/4020)
-- [Highlighting comments](https://github.com/FreeTubeApp/FreeTube/issues/783)
-- [[Feature Request]: Customisable scrollbar size](https://github.com/FreeTubeApp/FreeTube/issues/3057)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
@@ -37,23 +28,27 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
-## [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite)
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
 
-- [Improve Zettelkasten Parsing](https://github.com/satellitecomponent/Neurite/issues/44)
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
+- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [badges/shields](https://github.com/badges/shields)
 
-- [Request: Capsolver](https://github.com/simple-icons/simple-icons/issues/10493)
-- [Request: Sky Bet](https://github.com/simple-icons/simple-icons/issues/10479)
-- [Request: Hostelworld](https://github.com/simple-icons/simple-icons/issues/11178)
-- [Request: WebGPU Icon](https://github.com/simple-icons/simple-icons/issues/11168)
-- [Request: Plume](https://github.com/simple-icons/simple-icons/issues/9574)
-- [Request: VEGAS Pro](https://github.com/simple-icons/simple-icons/issues/7250)
-- [Request: Apryse](https://github.com/simple-icons/simple-icons/issues/9656)
-- [Request: Lobsters](https://github.com/simple-icons/simple-icons/issues/8538)
-- [Request: OKX](https://github.com/simple-icons/simple-icons/issues/10371)
-- [Request: WorkOS](https://github.com/simple-icons/simple-icons/issues/10289)
-- [Request: Maze](https://github.com/simple-icons/simple-icons/issues/10925)
-- [Request: Zip Pay](https://github.com/simple-icons/simple-icons/issues/10174)
-- [Request: EXPRESS](https://github.com/simple-icons/simple-icons/issues/10570)
+- [Mbin](https://github.com/badges/shields/issues/10264)
+- [crates.io dependents](https://github.com/badges/shields/issues/10204)
+- [New service: winget](https://github.com/badges/shields/issues/5548)
+
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
+- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
+
+## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
+
+- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
+- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
+- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
+- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
+- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
 
