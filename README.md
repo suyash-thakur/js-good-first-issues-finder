@@ -6,6 +6,7 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [Click on Brave News (RSS) button should also close dialog](https://github.com/brave/brave-browser/issues/37216)
@@ -16,39 +17,32 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
-- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
+- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+## [qunitjs/qunit](https://github.com/qunitjs/qunit)
 
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
+- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
 
-## [badges/shields](https://github.com/badges/shields)
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
 
-- [Mbin](https://github.com/badges/shields/issues/10264)
-- [crates.io dependents](https://github.com/badges/shields/issues/10204)
-- [New service: winget](https://github.com/badges/shields/issues/5548)
-
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
-
-## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
-
-- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
-- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
-- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
-- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
-- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
+- [Show the water resource type and other info in addition to tags within the detailed view](https://github.com/phlask/phlask-map/issues/447)
+- [Update Styling of SelectedTap Modal on Mobile](https://github.com/phlask/phlask-map/issues/423)
+- [Update Toolbar Size on Widescreens (Desktop)](https://github.com/phlask/phlask-map/issues/383)
+- [Add Resource Confirmation Modal for Desktop](https://github.com/phlask/phlask-map/issues/418)
+- [Remove unnecessary console.log statements from code base](https://github.com/phlask/phlask-map/issues/442)
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
+- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
+- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
+- [Update Water Filter Add "vessel" Remove "water jug" and "pitcher"](https://github.com/phlask/phlask-map/issues/409)
 
