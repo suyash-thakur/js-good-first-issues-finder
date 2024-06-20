@@ -29,20 +29,26 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
-## [qunitjs/qunit](https://github.com/qunitjs/qunit)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
-- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
+- [Misleading link to collector from SDK examples](https://github.com/open-telemetry/opentelemetry.io/issues/4713)
+- [[Meta] Standardize exporters docs ](https://github.com/open-telemetry/opentelemetry.io/issues/3559)
 
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+## [github/docs](https://github.com/github/docs)
 
-- [Show the water resource type and other info in addition to tags within the detailed view](https://github.com/phlask/phlask-map/issues/447)
-- [Update Styling of SelectedTap Modal on Mobile](https://github.com/phlask/phlask-map/issues/423)
-- [Update Toolbar Size on Widescreens (Desktop)](https://github.com/phlask/phlask-map/issues/383)
-- [Add Resource Confirmation Modal for Desktop](https://github.com/phlask/phlask-map/issues/418)
-- [Remove unnecessary console.log statements from code base](https://github.com/phlask/phlask-map/issues/442)
-- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
-- [Create a Confirmation Modal of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
-- [Create V.2 MapMarkers](https://github.com/phlask/phlask-map/issues/224)
-- [Update Water Filter Add "vessel" Remove "water jug" and "pitcher"](https://github.com/phlask/phlask-map/issues/409)
+- [Remove periods from list in personalizing-your-profile#setting-your-location-and-time-zone](https://github.com/github/docs/issues/33586)
+- [Format reference to README in about-your-organizations-profile.md](https://github.com/github/docs/issues/33584)
+- [Add missing period in inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository](https://github.com/github/docs/issues/33583)
+- [Change "user name" to one word in remembering-your-github-username-or-email#finding-your-username-in-the-url-of-remote-repositories](https://github.com/github/docs/issues/33582)
+- [Break up run-on sentence in deleting-your-personal-account#deleting-your-personal-account](https://github.com/github/docs/issues/33581)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Show app descriptions in oembed](https://github.com/HeyPuter/puter/issues/398)
+
+## [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+
+- [EXIF Orientation metadata option does not affect when drawing image on canvas.](https://github.com/Automattic/node-canvas/issues/1670)
 
