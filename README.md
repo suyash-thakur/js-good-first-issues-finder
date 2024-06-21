@@ -4,6 +4,18 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Sp3rick/GroupHelp](https://github.com/Sp3rick/GroupHelp)
+
+- [Allow group mods> to identify all users with additional bot perms or roles](https://github.com/Sp3rick/GroupHelp/issues/36)
+- [Panel to change user perms on /perms](https://github.com/Sp3rick/GroupHelp/issues/41)
+- [Allow to customize /staff allowing to hide roles](https://github.com/Sp3rick/GroupHelp/issues/40)
+- [Add a config to allow/disallow adding bot from non-admin users (main.js)](https://github.com/Sp3rick/GroupHelp/issues/39)
+- [Allow to warn only usersIds who exhist on telegram, it can be checked if applyng a restriction returns true](https://github.com/Sp3rick/GroupHelp/issues/38)
+- [Add photo preview-mode in MessageMaker.js](https://github.com/Sp3rick/GroupHelp/issues/37)
+- [Allow to show an user how his permissions is calculated on group](https://github.com/Sp3rick/GroupHelp/issues/35)
+- [Check system to drop wrong formatted cb.data and user.waitingReplyType (main.js)](https://github.com/Sp3rick/GroupHelp/issues/34)
+- [Add a /commands command](https://github.com/Sp3rick/GroupHelp/issues/33)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
@@ -17,11 +29,11 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
-- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
@@ -29,26 +41,11 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
 
-- [Misleading link to collector from SDK examples](https://github.com/open-telemetry/opentelemetry.io/issues/4713)
-- [[Meta] Standardize exporters docs ](https://github.com/open-telemetry/opentelemetry.io/issues/3559)
-
-## [github/docs](https://github.com/github/docs)
-
-- [Remove periods from list in personalizing-your-profile#setting-your-location-and-time-zone](https://github.com/github/docs/issues/33586)
-- [Format reference to README in about-your-organizations-profile.md](https://github.com/github/docs/issues/33584)
-- [Add missing period in inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository](https://github.com/github/docs/issues/33583)
-- [Change "user name" to one word in remembering-your-github-username-or-email#finding-your-username-in-the-url-of-remote-repositories](https://github.com/github/docs/issues/33582)
-- [Break up run-on sentence in deleting-your-personal-account#deleting-your-personal-account](https://github.com/github/docs/issues/33581)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-- [Show app descriptions in oembed](https://github.com/HeyPuter/puter/issues/398)
-
-## [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
-
-- [EXIF Orientation metadata option does not affect when drawing image on canvas.](https://github.com/Automattic/node-canvas/issues/1670)
+- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
+- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
+- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
+- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
+- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
 
