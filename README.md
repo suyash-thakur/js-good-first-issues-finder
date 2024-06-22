@@ -4,36 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Sp3rick/GroupHelp](https://github.com/Sp3rick/GroupHelp)
-
-- [Allow group mods> to identify all users with additional bot perms or roles](https://github.com/Sp3rick/GroupHelp/issues/36)
-- [Panel to change user perms on /perms](https://github.com/Sp3rick/GroupHelp/issues/41)
-- [Allow to customize /staff allowing to hide roles](https://github.com/Sp3rick/GroupHelp/issues/40)
-- [Add a config to allow/disallow adding bot from non-admin users (main.js)](https://github.com/Sp3rick/GroupHelp/issues/39)
-- [Allow to warn only usersIds who exhist on telegram, it can be checked if applyng a restriction returns true](https://github.com/Sp3rick/GroupHelp/issues/38)
-- [Add photo preview-mode in MessageMaker.js](https://github.com/Sp3rick/GroupHelp/issues/37)
-- [Allow to show an user how his permissions is calculated on group](https://github.com/Sp3rick/GroupHelp/issues/35)
-- [Check system to drop wrong formatted cb.data and user.waitingReplyType (main.js)](https://github.com/Sp3rick/GroupHelp/issues/34)
-- [Add a /commands command](https://github.com/Sp3rick/GroupHelp/issues/33)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
-- [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Click on Brave News (RSS) button should also close dialog](https://github.com/brave/brave-browser/issues/37216)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
@@ -41,11 +18,40 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 
-## [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [still not working](https://github.com/KudoAI/duckduckgpt/issues/46)
-- [not working](https://github.com/KudoAI/duckduckgpt/issues/44)
-- [Is this really gpt-4? ](https://github.com/KudoAI/duckduckgpt/issues/27)
-- [Adding pre - prompt .](https://github.com/KudoAI/duckduckgpt/issues/20)
-- [names of saved sessions?](https://github.com/KudoAI/duckduckgpt/issues/13)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [stackable generated CLI does not allow booleans to be set to false](https://github.com/platformatic/platformatic/issues/2583)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[TRIGGER] Shopify Developer App - New Product Updated](https://github.com/PipedreamHQ/pipedream/issues/12412)
+- [[ACTION] [COHERE] Chat](https://github.com/PipedreamHQ/pipedream/issues/12476)
+- [[ACTION] Google Analytics 4 - Submit event](https://github.com/PipedreamHQ/pipedream/issues/12450)
+- [[TRIGGER] Cliniko - New Appointment updated Webhook](https://github.com/PipedreamHQ/pipedream/issues/12462)
+- [[TRIGGER] Lawmatics - New Matter](https://github.com/PipedreamHQ/pipedream/issues/12000)
+- [HUBSPOT: Create company if doesn't exist](https://github.com/PipedreamHQ/pipedream/issues/12365)
+- [[ACTION] AWS S3 - Generate Presigned URL](https://github.com/PipedreamHQ/pipedream/issues/12237)
+- [[ACTIONS, TRIGGERS] Tricount new components](https://github.com/PipedreamHQ/pipedream/issues/3964)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
+- [[Bug]: Decrypt request displays incomplete message](https://github.com/MetaMask/metamask-extension/issues/19549)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [[Feature Request] Auto updater](https://github.com/usebruno/bruno/issues/103)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
+- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
+- [parseArgs with type: "boolean" and default: true does not allow a false value](https://github.com/nodejs/node/issues/53095)
 
