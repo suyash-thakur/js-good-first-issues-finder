@@ -4,30 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
 
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
-- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
-- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
-- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [Remove deprecated namespace of vfsStream at tests](https://github.com/LibreSign/libresign/issues/2972)
+- [JS error "cannot read properties of null (reading 'uuid')" when open details of a file](https://github.com/LibreSign/libresign/issues/3145)
+- [Show requestor name/mail instead of generic mail](https://github.com/LibreSign/libresign/issues/2532)
+- [Delete .zip files and .tar.gz files after installing java and jsignpdf](https://github.com/LibreSign/libresign/issues/2487)
+- [Add Button "open file location"](https://github.com/LibreSign/libresign/issues/830)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Click on Brave News (RSS) button should also close dialog](https://github.com/brave/brave-browser/issues/37216)
 - [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
@@ -36,23 +22,36 @@ This list gets updated every day at midnight.
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
 
-## [qunitjs/qunit](https://github.com/qunitjs/qunit)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
-- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
+- [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
+- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
+- [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
+- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [feat(UI): Role Categories on Learn Page and Popover](https://github.com/UltiMafia/Ultimafia/issues/1535)
-- [feat(UI): Make all "Setups Created" visible on User page](https://github.com/UltiMafia/Ultimafia/issues/1507)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
 
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
+- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
+- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
 
