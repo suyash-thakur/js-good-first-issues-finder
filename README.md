@@ -4,18 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
-
-- [Remove deprecated namespace of vfsStream at tests](https://github.com/LibreSign/libresign/issues/2972)
-- [JS error "cannot read properties of null (reading 'uuid')" when open details of a file](https://github.com/LibreSign/libresign/issues/3145)
-- [Show requestor name/mail instead of generic mail](https://github.com/LibreSign/libresign/issues/2532)
-- [Delete .zip files and .tar.gz files after installing java and jsignpdf](https://github.com/LibreSign/libresign/issues/2487)
-- [Add Button "open file location"](https://github.com/LibreSign/libresign/issues/830)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
+- [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
@@ -36,22 +28,45 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [WildMeOrg/scout](https://github.com/WildMeOrg/scout)
 
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [Add Camera Side "Down"](https://github.com/WildMeOrg/scout/issues/84)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
 - [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
 - [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
-- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
+- [Update PopoverHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20155)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [[Sistent] Add a copy button to copy code](https://github.com/layer5io/layer5/issues/5517)
+- [[Community] Member Profile: Ashparsh Pandey](https://github.com/layer5io/layer5/issues/5596)
+- [[Screenshots] Jfrog Distribution under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5320)
+- [[Sistent] Add spacing between the sections](https://github.com/layer5io/layer5/issues/5518)
+- [[Animation] Add animation to "Manage your Cloud Native mess" section on homepage](https://github.com/layer5io/layer5/issues/5513)
+- [[Screenshots] Cert Manager Crds under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4865)
+- [[Sistent] Page Content Update: About](https://github.com/layer5io/layer5/issues/5544)
+- [[Sistent] Implement Modal component page ](https://github.com/layer5io/layer5/issues/5519)
+- [[UI] Implement the Use cases page](https://github.com/layer5io/layer5/issues/5190)
+- [[Home] Integrations column not visible in mobile view in "Manage your cloud native mess" section ](https://github.com/layer5io/layer5/issues/5514)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
 - [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Undefined array key in DKIM validator](https://github.com/nextcloud/mail/issues/9213)
 
