@@ -4,6 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+
+- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
@@ -16,8 +20,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application](https://github.com/meshery/meshery/issues/10293)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
@@ -25,48 +29,39 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 
-## [WildMeOrg/scout](https://github.com/WildMeOrg/scout)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [Add Camera Side "Down"](https://github.com/WildMeOrg/scout/issues/84)
+- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
+- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite)
 
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Improve Zettelkasten Parsing](https://github.com/satellitecomponent/Neurite/issues/44)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
+- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
+- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
+- [[RFC]: add `@stdlib/array/base/cunone`](https://github.com/stdlib-js/stdlib/issues/2321)
+- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
+- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
+- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
+- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
+- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
+- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
+- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
+- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
+- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
+- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+- [[RFC]: add `@stdlib/iter/cusome`](https://github.com/stdlib-js/stdlib/issues/2334)
+- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
 
 ## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
 
-- [Update PopoverHeader to use TS Box version](https://github.com/MetaMask/metamask-extension/issues/20155)
 - [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[Sistent] Add a copy button to copy code](https://github.com/layer5io/layer5/issues/5517)
-- [[Community] Member Profile: Ashparsh Pandey](https://github.com/layer5io/layer5/issues/5596)
-- [[Screenshots] Jfrog Distribution under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5320)
-- [[Sistent] Add spacing between the sections](https://github.com/layer5io/layer5/issues/5518)
-- [[Animation] Add animation to "Manage your Cloud Native mess" section on homepage](https://github.com/layer5io/layer5/issues/5513)
-- [[Screenshots] Cert Manager Crds under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4865)
-- [[Sistent] Page Content Update: About](https://github.com/layer5io/layer5/issues/5544)
-- [[Sistent] Implement Modal component page ](https://github.com/layer5io/layer5/issues/5519)
-- [[UI] Implement the Use cases page](https://github.com/layer5io/layer5/issues/5190)
-- [[Home] Integrations column not visible in mobile view in "Manage your cloud native mess" section ](https://github.com/layer5io/layer5/issues/5514)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
-- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Undefined array key in DKIM validator](https://github.com/nextcloud/mail/issues/9213)
 
