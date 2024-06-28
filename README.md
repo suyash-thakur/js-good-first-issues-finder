@@ -4,14 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 
-- [Parcel crashes with `Error: ENOENT: no such file or directory,` when using `--detailed-report`](https://github.com/parcel-bundler/parcel/issues/7816)
+- [(C/C++) Hex float literal hilit](https://github.com/highlightjs/highlight.js/issues/4065)
+- [(sql) 'foreign key' and 'primary key'  do not highlight 'key'.](https://github.com/highlightjs/highlight.js/issues/4057)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
-- [vertical line separator on Bookmarks Toolbar re-appears after browser relaunch - follow up to #6043](https://github.com/brave/brave-browser/issues/36554)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
@@ -31,37 +31,27 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 
-## [hackclub/sprig](https://github.com/hackclub/sprig)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
-- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
+- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
 
-## [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Improve Zettelkasten Parsing](https://github.com/satellitecomponent/Neurite/issues/44)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [Davichobits/Phaser-single-player-Pong](https://github.com/Davichobits/Phaser-single-player-Pong)
 
-- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
-- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
-- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
-- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
-- [[RFC]: add `@stdlib/array/base/cunone`](https://github.com/stdlib-js/stdlib/issues/2321)
-- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
-- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
-- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
-- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
-- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
-- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
-- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
-- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
-- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
-- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
-- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
-- [[RFC]: add `@stdlib/iter/cusome`](https://github.com/stdlib-js/stdlib/issues/2334)
-- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
+- [While increasing the level make the ceil down](https://github.com/Davichobits/Phaser-single-player-Pong/issues/8)
+- [Add a final scene](https://github.com/Davichobits/Phaser-single-player-Pong/issues/2)
+- [Change the codebase from JavaScript to TypeScript.](https://github.com/Davichobits/Phaser-single-player-Pong/issues/5)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
 
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
+- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
 
