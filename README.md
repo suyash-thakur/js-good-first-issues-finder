@@ -4,22 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-
-- [(C/C++) Hex float literal hilit](https://github.com/highlightjs/highlight.js/issues/4065)
-- [(sql) 'foreign key' and 'primary key'  do not highlight 'key'.](https://github.com/highlightjs/highlight.js/issues/4057)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
 - [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
@@ -29,24 +16,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
-- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-
-## [Davichobits/Phaser-single-player-Pong](https://github.com/Davichobits/Phaser-single-player-Pong)
-
-- [While increasing the level make the ceil down](https://github.com/Davichobits/Phaser-single-player-Pong/issues/8)
-- [Add a final scene](https://github.com/Davichobits/Phaser-single-player-Pong/issues/2)
-- [Change the codebase from JavaScript to TypeScript.](https://github.com/Davichobits/Phaser-single-player-Pong/issues/5)
 
 ## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
 
@@ -54,4 +23,44 @@ This list gets updated every day at midnight.
 - [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
 - [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
 - [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
+- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
+
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+
+- [files.js: Maybe add a warning before reading files >100MB](https://github.com/TurboWarp/extensions/issues/81)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+
+## [qunitjs/qunit](https://github.com/qunitjs/qunit)
+
+- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
+- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
+- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
+
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
+- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
+- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
 
