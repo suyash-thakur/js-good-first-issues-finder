@@ -17,12 +17,14 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+## [thecyberworld/TheCyberHUB](https://github.com/thecyberworld/TheCyberHUB)
 
-- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [[FEATURE] Notes App, Manage Selecting Multiple Notes.](https://github.com/thecyberworld/TheCyberHUB/issues/561)
+- [[Responsive-Web] AI Chat | change position of opened left menu](https://github.com/thecyberworld/TheCyberHUB/issues/865)
+- [[BUG] AI | hide 3 dots, fix input field mode for not logged in user](https://github.com/thecyberworld/TheCyberHUB/issues/869)
+- [[Responsive-Web] Search/Sidebar width not full in small screen](https://github.com/thecyberworld/TheCyberHUB/issues/802)
+- [[FEATURE] Notes App, Make The Notes And Categories Draggable.](https://github.com/thecyberworld/TheCyberHUB/issues/559)
+- [[Responsive-Web] Irresponsive Elements on mobile screen](https://github.com/thecyberworld/TheCyberHUB/issues/803)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -30,37 +32,24 @@ This list gets updated every day at midnight.
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [hackforla/food-oasis](https://github.com/hackforla/food-oasis)
 
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+- [Bug: icons from verification email not displayed](https://github.com/hackforla/food-oasis/issues/2101)
 
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+## [acm-ucr/gardening-website](https://github.com/acm-ucr/gardening-website/pull/21)
 
-- [Compensate Operation content in lower resolution sizes](https://github.com/swagger-api/swagger-ui/issues/8940)
+- [Added title & body, change white to tan in tailwind](https://github.com/acm-ucr/gardening-website/pull/21)
+- [Join Gardening text](https://github.com/acm-ucr/gardening-website/issues/5)
+- [Join Gardening Images](https://github.com/acm-ucr/gardening-website/issues/7)
+- [Hero Section, left side](https://github.com/acm-ucr/gardening-website/issues/3)
+- [Values section](https://github.com/acm-ucr/gardening-website/issues/4)
+- [Why Join section](https://github.com/acm-ucr/gardening-website/issues/6)
+- [Gardening Tips text](https://github.com/acm-ucr/gardening-website/issues/8)
+- [Gardening Tips image](https://github.com/acm-ucr/gardening-website/issues/9)
+- [Directions section](https://github.com/acm-ucr/gardening-website/issues/10)
 
-## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+## [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 
-- [files.js: Maybe add a warning before reading files >100MB](https://github.com/TurboWarp/extensions/issues/81)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
-
-## [qunitjs/qunit](https://github.com/qunitjs/qunit)
-
-- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
-- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Docs: `useCodeCache: true` for SEA blob preparation leads to 'broken' executables when creating cross platform SEAs.](https://github.com/nodejs/node/issues/52420)
-- [test_runner: make the dot reporter colored](https://github.com/nodejs/node/issues/51770)
-
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
-- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
-- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [Any way to cast the input?](https://github.com/SBoudrias/Inquirer.js/issues/1383)
+- [Input prompt flickers while waiting for validation function](https://github.com/SBoudrias/Inquirer.js/issues/1407)
 
