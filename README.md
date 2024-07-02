@@ -16,6 +16,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
@@ -24,43 +26,44 @@ This list gets updated every day at midnight.
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 
-## [code-charity/youtube](https://github.com/code-charity/youtube)
+## [hackclub/sprig](https://github.com/hackclub/sprig)
 
-- [Autoplay on Android](https://github.com/code-charity/youtube/issues/2388)
-- ["Add to Blocklist" button no longer working in Nightly (129.0a1 (2024-06-28) (64-bit))](https://github.com/code-charity/youtube/issues/2422)
-- [Remove interruptions find out why popup](https://github.com/code-charity/youtube/issues/2424)
-- [autoplay problem](https://github.com/code-charity/youtube/issues/2042)
-- [Remove "includes paid promotion" links from thumbnails.](https://github.com/code-charity/youtube/issues/2423)
-- ["My active features" cant distinguish between default YT shortcut or User override using same key combination.](https://github.com/code-charity/youtube/issues/2425)
-- [[feature request] Option to remove playlist max height](https://github.com/code-charity/youtube/issues/214)
-- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
-- [Allow hiding video duration in thumbnails, per channel](https://github.com/code-charity/youtube/issues/1392)
-- [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
-- [Suggestion: Short videos, Full screen button and convert URL then open in normal YouTube video mode](https://github.com/code-charity/youtube/issues/1819)
-- [Allow ctrl + scroll to be bindable in the shortcut menu](https://github.com/code-charity/youtube/issues/1887)
-- [Hold right click and drag on player to adjust volume](https://github.com/code-charity/youtube/issues/1131)
-- [Space to Play/Pause double pressing when adding space as a shortcut for play/pause](https://github.com/code-charity/youtube/issues/1889)
-- [Youtube volume control with mouse wheel](https://github.com/code-charity/youtube/issues/1941)
-- [Using keyboard shortcuts to pause/play makes pause/play not work](https://github.com/code-charity/youtube/issues/1993)
-- [Hotkey for resolution change only works 50% of the time](https://github.com/code-charity/youtube/issues/2046)
-- [Changing playback speed with a hotkey does not work reliably](https://github.com/code-charity/youtube/issues/2166)
-- [Chapter shortcuts do not work](https://github.com/code-charity/youtube/issues/2190)
-- [Shifting video player on x2 speed shortcut](https://github.com/code-charity/youtube/issues/2229)
-- [Feature Request: PiP Scrub, volume, and previous/next controls](https://github.com/code-charity/youtube/issues/2234)
-- [Always new home feed when reloading the page](https://github.com/code-charity/youtube/issues/2420)
-- [The ads Off (block or skip) didn't work because of Anti-Adblock Message](https://github.com/code-charity/youtube/issues/2343)
-- [Progress Bar Bug](https://github.com/code-charity/youtube/issues/2417)
-- [Remove controls from in frame](https://github.com/code-charity/youtube/issues/2418)
-- [Accessibility Option for people getting motion sickness watching Shorts.](https://github.com/code-charity/youtube/issues/2419)
-- [Default Youtube player shortcuts disabled on Opera browser.](https://github.com/code-charity/youtube/issues/2403)
-- [For some reason, the arrow keys don't advance/go back in time nor Up/Lower the Volume. Arrow keys just not working.](https://github.com/code-charity/youtube/issues/2406)
-- [Suggestion Center video player button icons](https://github.com/code-charity/youtube/issues/2410)
-- [Auto speed stopped working for me](https://github.com/code-charity/youtube/issues/2175)
+- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
+- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate)
 
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+- [Translate the application in Brazilian](https://github.com/microrealestate/microrealestate/issues/18)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [Fix Lint issues in agoric-sdk](https://github.com/Agoric/agoric-sdk/issues/9632)
+- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
+- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
+- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+
+## [xenova/transformers.js](https://github.com/xenova/transformers.js)
+
+- [Is 'aggregation_strategy' parameter available for token classification pipeline?](https://github.com/xenova/transformers.js/issues/633)
+
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [Fix pagination](https://github.com/LibreSign/libresign/issues/3245)
+- [filter the listing of files at API side by status](https://github.com/LibreSign/libresign/issues/3244)
+- [JS error "cannot read properties of null (reading 'uuid')" when open details of a file](https://github.com/LibreSign/libresign/issues/3145)
+- [Show requestor name/mail instead of generic mail](https://github.com/LibreSign/libresign/issues/2532)
+- [Add Button "open file location"](https://github.com/LibreSign/libresign/issues/830)
 
