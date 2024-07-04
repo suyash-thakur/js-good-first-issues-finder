@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+
+- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
+- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
@@ -17,6 +22,13 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
+- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
+- [[mesheryctl] `filter list` logs endpoint remove it.](https://github.com/meshery/meshery/issues/11315)
+- [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
+- [[mesheryctl] `relationships view` command unmarshall error.](https://github.com/meshery/meshery/issues/11313)
+- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
+- [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
@@ -29,26 +41,19 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [cboard-org/cboard](https://github.com/cboard-org/cboard)
 
-- [[Home] The switching of images in the relationships carousel causes the page contents to jump](https://github.com/meshery/meshery.io/issues/1795)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate)
-
-- [Translate the application in Brazilian](https://github.com/microrealestate/microrealestate/issues/18)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+- [Create a custom password input component](https://github.com/cboard-org/cboard/issues/1702)
 
 ## [code-charity/youtube](https://github.com/code-charity/youtube)
 
+- [1. Dynamic instant Search:  if(1-3 chars){might be a shortcut?} if(2-10chars){a Search? a part of the transcript or top comments?}  & 2. How to preventing accidental single letter shortcuts? #1566](https://github.com/code-charity/youtube/issues/2437)
+- [Can't take screenshots with shortcut after a min](https://github.com/code-charity/youtube/issues/2439)
+- [New YouTube Layout - Improved YT doesnt work (v4.10007)](https://github.com/code-charity/youtube/issues/2443)
+- [1.)Theme: Background image /loop (beach.png,sea.gif,..) -  2.)Theme: Scroll-to-top  -  3.)Shortcuts: Include a great cheat-sheet about standard hotkeys](https://github.com/code-charity/youtube/issues/2442)
+- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
+- [BUG: scroll shortcuts in firefox & FEATURE REQUEST: 1. Shortcut requirement hover player optional (or other elements) 2. predefined scroll for volume option 3. multiple shortcuts for one action](https://github.com/code-charity/youtube/issues/862)
 - [Disabling 'Up Next Autoplay' doesn't working in Firefox's Cookie Banner Blocker](https://github.com/code-charity/youtube/issues/2404)
-- [1. Shortcuts need adoptive developer  AND  2. Shortcuts vs. Smart Keyboard Event Analysis! : if(1-3 chars){might be a shortcut?} if(2-10chars){a Search? a part of the transcript or top comments?}](https://github.com/code-charity/youtube/issues/1565)
 - [IDEA: show all default shortcuts in shortcut menu](https://github.com/code-charity/youtube/issues/517)
 - [Remove "includes paid promotion" links from thumbnails.](https://github.com/code-charity/youtube/issues/2423)
 - [Remove interruptions find out why popup](https://github.com/code-charity/youtube/issues/2424)
@@ -72,9 +77,15 @@ This list gets updated every day at midnight.
 - [Progress Bar Bug](https://github.com/code-charity/youtube/issues/2417)
 - [Remove controls from in frame](https://github.com/code-charity/youtube/issues/2418)
 - [Accessibility Option for people getting motion sickness watching Shorts.](https://github.com/code-charity/youtube/issues/2419)
-- [Suggestion Center video player button icons](https://github.com/code-charity/youtube/issues/2410)
-- [Auto speed stopped working for me](https://github.com/code-charity/youtube/issues/2175)
-- [VerySmall UI redisign: scalable UI; small window-size tweaks](https://github.com/code-charity/youtube/issues/2416)
-- [Ability to remove videos from the feed automatically based on simple criteria](https://github.com/code-charity/youtube/issues/2390)
-- [Suggestions for comment/video toggle function](https://github.com/code-charity/youtube/issues/2412)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
+
+## [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate)
+
+- [Translate the application in Brazilian](https://github.com/microrealestate/microrealestate/issues/18)
 
