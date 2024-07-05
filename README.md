@@ -4,10 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [TheBevyFlock/bevy-template](https://github.com/TheBevyFlock/bevy-template)
 
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [[Bug]: Confirmation Add Suggested NFTs page is missing responsive support](https://github.com/MetaMask/metamask-extension/issues/20975)
+- [ Perhaps support cargo-generate](https://github.com/TheBevyFlock/bevy-template/issues/1)
+- [Disable trace logging for better performance](https://github.com/TheBevyFlock/bevy-template/issues/5)
+- [Add a CSS background / spinner on web for before the game has loaded](https://github.com/TheBevyFlock/bevy-template/issues/8)
+- [Show Bevy logo while loading game](https://github.com/TheBevyFlock/bevy-template/issues/12)
+- [Add `fast_builds_config.toml`](https://github.com/TheBevyFlock/bevy-template/issues/13)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -19,6 +22,16 @@ This list gets updated every day at midnight.
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+
+## [acm-ucr/hackathon-website](https://github.com/acm-ucr/hackathon-website)
+
+- [Add Prettier Tailwind Class Ordering](https://github.com/acm-ucr/hackathon-website/issues/1382)
+- [Add Padding](https://github.com/acm-ucr/hackathon-website/issues/1355)
+- [Update Packing List ](https://github.com/acm-ucr/hackathon-website/issues/1385)
+- [Clean Up Rules Section](https://github.com/acm-ucr/hackathon-website/issues/1386)
+- [Create Filter Component Test](https://github.com/acm-ucr/hackathon-website/issues/1402)
+- [Create Tab Component Test](https://github.com/acm-ucr/hackathon-website/issues/1399)
+- [Add Hackathon Logo](https://github.com/acm-ucr/hackathon-website/issues/1405)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -41,51 +54,10 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 
-## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [Create a custom password input component](https://github.com/cboard-org/cboard/issues/1702)
-
-## [code-charity/youtube](https://github.com/code-charity/youtube)
-
-- [1. Dynamic instant Search:  if(1-3 chars){might be a shortcut?} if(2-10chars){a Search? a part of the transcript or top comments?}  & 2. How to preventing accidental single letter shortcuts? #1566](https://github.com/code-charity/youtube/issues/2437)
-- [Can't take screenshots with shortcut after a min](https://github.com/code-charity/youtube/issues/2439)
-- [New YouTube Layout - Improved YT doesnt work (v4.10007)](https://github.com/code-charity/youtube/issues/2443)
-- [1.)Theme: Background image /loop (beach.png,sea.gif,..) -  2.)Theme: Scroll-to-top  -  3.)Shortcuts: Include a great cheat-sheet about standard hotkeys](https://github.com/code-charity/youtube/issues/2442)
-- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
-- [BUG: scroll shortcuts in firefox & FEATURE REQUEST: 1. Shortcut requirement hover player optional (or other elements) 2. predefined scroll for volume option 3. multiple shortcuts for one action](https://github.com/code-charity/youtube/issues/862)
-- [Disabling 'Up Next Autoplay' doesn't working in Firefox's Cookie Banner Blocker](https://github.com/code-charity/youtube/issues/2404)
-- [IDEA: show all default shortcuts in shortcut menu](https://github.com/code-charity/youtube/issues/517)
-- [Remove "includes paid promotion" links from thumbnails.](https://github.com/code-charity/youtube/issues/2423)
-- [Remove interruptions find out why popup](https://github.com/code-charity/youtube/issues/2424)
-- ["Add to Blocklist" button no longer working in Nightly (129.0a1 (2024-06-28) (64-bit))](https://github.com/code-charity/youtube/issues/2422)
-- [autoplay problem](https://github.com/code-charity/youtube/issues/2042)
-- [Youtube Queue Recovery](https://github.com/code-charity/youtube/issues/2427)
-- [Autoplay on Android](https://github.com/code-charity/youtube/issues/2388)
-- ["My active features" cant distinguish between default YT shortcut or User override using same key combination.](https://github.com/code-charity/youtube/issues/2425)
-- [[feature request] Option to remove playlist max height](https://github.com/code-charity/youtube/issues/214)
-- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
-- [Allow hiding video duration in thumbnails, per channel](https://github.com/code-charity/youtube/issues/1392)
-- [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
-- [Suggestion: Short videos, Full screen button and convert URL then open in normal YouTube video mode](https://github.com/code-charity/youtube/issues/1819)
-- [Hold right click and drag on player to adjust volume](https://github.com/code-charity/youtube/issues/1131)
-- [Hotkey for resolution change only works 50% of the time](https://github.com/code-charity/youtube/issues/2046)
-- [Chapter shortcuts do not work](https://github.com/code-charity/youtube/issues/2190)
-- [Shifting video player on x2 speed shortcut](https://github.com/code-charity/youtube/issues/2229)
-- [Feature Request: PiP Scrub, volume, and previous/next controls](https://github.com/code-charity/youtube/issues/2234)
-- [Always new home feed when reloading the page](https://github.com/code-charity/youtube/issues/2420)
-- [The ads Off (block or skip) didn't work because of Anti-Adblock Message](https://github.com/code-charity/youtube/issues/2343)
-- [Progress Bar Bug](https://github.com/code-charity/youtube/issues/2417)
-- [Remove controls from in frame](https://github.com/code-charity/youtube/issues/2418)
-- [Accessibility Option for people getting motion sickness watching Shorts.](https://github.com/code-charity/youtube/issues/2419)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Be able to create service-worker in typescript](https://github.com/vercel/next.js/issues/33863)
-
-## [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate)
-
-- [Translate the application in Brazilian](https://github.com/microrealestate/microrealestate/issues/18)
+- [Fix Lint issues in agoric-sdk](https://github.com/Agoric/agoric-sdk/issues/9632)
+- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
+- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
+- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
 
