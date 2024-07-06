@@ -4,35 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [TheBevyFlock/bevy-template](https://github.com/TheBevyFlock/bevy-template)
-
-- [ Perhaps support cargo-generate](https://github.com/TheBevyFlock/bevy-template/issues/1)
-- [Disable trace logging for better performance](https://github.com/TheBevyFlock/bevy-template/issues/5)
-- [Add a CSS background / spinner on web for before the game has loaded](https://github.com/TheBevyFlock/bevy-template/issues/8)
-- [Show Bevy logo while loading game](https://github.com/TheBevyFlock/bevy-template/issues/12)
-- [Add `fast_builds_config.toml`](https://github.com/TheBevyFlock/bevy-template/issues/13)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
-- [In a private window, duckduckgo logo does not appear](https://github.com/brave/brave-browser/issues/18931)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [[Brave News]: Publisher list in side panel collapses after adding/updating publishers/channels](https://github.com/brave/brave-browser/issues/36550)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-
-## [acm-ucr/hackathon-website](https://github.com/acm-ucr/hackathon-website)
-
-- [Add Prettier Tailwind Class Ordering](https://github.com/acm-ucr/hackathon-website/issues/1382)
-- [Add Padding](https://github.com/acm-ucr/hackathon-website/issues/1355)
-- [Update Packing List ](https://github.com/acm-ucr/hackathon-website/issues/1385)
-- [Clean Up Rules Section](https://github.com/acm-ucr/hackathon-website/issues/1386)
-- [Create Filter Component Test](https://github.com/acm-ucr/hackathon-website/issues/1402)
-- [Create Tab Component Test](https://github.com/acm-ucr/hackathon-website/issues/1399)
-- [Add Hackathon Logo](https://github.com/acm-ucr/hackathon-website/issues/1405)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
@@ -48,16 +19,36 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [Replace the repetitive logic for extracting `page, pagesize, search, offset` from API handlers to use  `getPaginationParams ` in `utils.go`.](https://github.com/meshery/meshery/issues/10825)
-- [[UI] Enhance Connection Deletion confirmation modal](https://github.com/meshery/meshery/issues/10558)
 - [[Meshery-Cloud] [Share your design PopUp] - Grammar adjustment](https://github.com/meshery/meshery/issues/10038)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [AmericaSCORESBayArea/AmericaScores-CoachApp](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp)
 
-- [Fix Lint issues in agoric-sdk](https://github.com/Agoric/agoric-sdk/issues/9632)
-- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
-- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
-- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [Remove Affiliation select from the front of the UX](https://github.com/AmericaSCORESBayArea/AmericaScores-CoachApp/issues/509)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Complete Thai translation based on English file](https://github.com/HeyPuter/puter/issues/522)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+
+- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
+- [Monitor details page](https://github.com/bluewave-labs/bluewave-uptime/issues/268)
+- [Refactor Incidents page](https://github.com/bluewave-labs/bluewave-uptime/issues/267)
+- [Frontend - Add navigation Back button](https://github.com/bluewave-labs/bluewave-uptime/issues/258)
+- [Frontend - Update navBar user dropdown](https://github.com/bluewave-labs/bluewave-uptime/issues/224)
+- [Inline editing of the company name](https://github.com/bluewave-labs/bluewave-uptime/issues/222)
+
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
+
+- [Better error message in runtime with circular dependencies](https://github.com/platformatic/platformatic/issues/2785)
 
