@@ -4,8 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [qunitjs/qunit](https://github.com/qunitjs/qunit)
+
+- [Document QUnit.equiv()](https://github.com/qunitjs/qunit/issues/1778)
+- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
+- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Clarifying the Search placeholder in Lifecycle ](https://github.com/meshery/meshery/issues/11389)
 - [[Docs] Link not working](https://github.com/meshery/meshery/issues/11349)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
@@ -28,38 +35,29 @@ This list gets updated every day at midnight.
 - [Use pattern icon in catalog single page as fallback icon](https://github.com/meshery/meshery.io/issues/1809)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Validation - Password validation needs to be synced between front and backend](https://github.com/bluewave-labs/bluewave-uptime/issues/310)
+- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
+- [Monitor details page](https://github.com/bluewave-labs/bluewave-uptime/issues/268)
+- [Refactor Incidents page](https://github.com/bluewave-labs/bluewave-uptime/issues/267)
 
-## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+## [SpaceTesla/Mivro](https://github.com/SpaceTesla/Mivro)
 
-- [Add security step before delete user account ](https://github.com/cboard-org/cboard/issues/1699)
-- [Create a custom password input component](https://github.com/cboard-org/cboard/issues/1702)
+- [Improve database print message to display the search key containing the product keyword](https://github.com/SpaceTesla/Mivro/issues/66)
+- [Implement Retry Logic for Open Food Facts API Requests](https://github.com/SpaceTesla/Mivro/issues/79)
+- [Refactor models.py to Pydantic model](https://github.com/SpaceTesla/Mivro/issues/78)
 
-## [cypress-io/cypress](https://github.com/cypress-io/cypress)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Minor bug on UI - Tooltip shows for a hidden element](https://github.com/cypress-io/cypress/issues/22717)
-- [Missing baseUrl in compilerOptions. tsconfig-paths will be skipped](https://github.com/cypress-io/cypress/issues/15724)
-- [Cypress incorrectly uses the box model of elements that have `display:contents` when determining visibility of child elements](https://github.com/cypress-io/cypress/issues/29605)
-- [after:screenshot NodeEvent is missing `specName` ](https://github.com/cypress-io/cypress/issues/26598)
-- [An ancestor element with `display: contents` and `overflow: hidden` causes visibility check to fail](https://github.com/cypress-io/cypress/issues/25199)
-
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
-
-- [filter the listing of files at API side by status](https://github.com/LibreSign/libresign/issues/3244)
-- [JS error "cannot read properties of null (reading 'uuid')" when open details of a file](https://github.com/LibreSign/libresign/issues/3145)
-- [Show requestor name/mail instead of generic mail](https://github.com/LibreSign/libresign/issues/2532)
-
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [No deletion of older swing-store artifacts when creating new spans](https://github.com/Agoric/agoric-sdk/issues/9387)
-- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
-- [Cosmos config to control historical swing-store artifact retention](https://github.com/Agoric/agoric-sdk/issues/9386)
-- [Fix Lint issues in agoric-sdk](https://github.com/Agoric/agoric-sdk/issues/9632)
-- [Otel slog sender does not handle `cosmic-swingset-upgrade-finish`](https://github.com/Agoric/agoric-sdk/issues/9569)
-- [Make maxVatsOnline customizable to optimize resource usage](https://github.com/Agoric/agoric-sdk/issues/9574)
-- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [[RFC]: add `@stdlib/iter/cusome`](https://github.com/stdlib-js/stdlib/issues/2334)
+- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
+- [[RFC]: improve README examples of `stats/base/dists/kumaraswamy` namespace](https://github.com/stdlib-js/stdlib/issues/1632)
+- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
+- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
+- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
+- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
 
