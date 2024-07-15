@@ -4,11 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [qunitjs/qunit](https://github.com/qunitjs/qunit)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Document QUnit.equiv()](https://github.com/qunitjs/qunit/issues/1778)
-- [Add tests for QUnit.config.fixture](https://github.com/qunitjs/qunit/issues/1767)
-- [Let simple array data in test.each() serve as automatic labels](https://github.com/qunitjs/qunit/issues/1733)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -30,34 +33,27 @@ This list gets updated every day at midnight.
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Use pattern icon in catalog single page as fallback icon](https://github.com/meshery/meshery.io/issues/1809)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [AppData menu in setings](https://github.com/HeyPuter/puter/issues/587)
+- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Complete Spanish translation based on English file](https://github.com/HeyPuter/puter/issues/532)
+- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
+- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
+- [Complete Igbo translation based on English file](https://github.com/HeyPuter/puter/issues/539)
+- [Complete Korean translation based on English file](https://github.com/HeyPuter/puter/issues/541)
+- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
+- [Complete Dutch translation based on English file](https://github.com/HeyPuter/puter/issues/543)
+- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+- [Complete Polish translation based on English file](https://github.com/HeyPuter/puter/issues/545)
+- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
+- [Complete Traditional Chinese translation based on English file](https://github.com/HeyPuter/puter/issues/550)
+- [Create Vietnamese translation based on English file](https://github.com/HeyPuter/puter/issues/553)
+- [Create Tamil translation based on English file](https://github.com/HeyPuter/puter/issues/554)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
 
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
 
-- [Validation - Password validation needs to be synced between front and backend](https://github.com/bluewave-labs/bluewave-uptime/issues/310)
-- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
-- [Monitor details page](https://github.com/bluewave-labs/bluewave-uptime/issues/268)
-- [Refactor Incidents page](https://github.com/bluewave-labs/bluewave-uptime/issues/267)
-
-## [SpaceTesla/Mivro](https://github.com/SpaceTesla/Mivro)
-
-- [Improve database print message to display the search key containing the product keyword](https://github.com/SpaceTesla/Mivro/issues/66)
-- [Implement Retry Logic for Open Food Facts API Requests](https://github.com/SpaceTesla/Mivro/issues/79)
-- [Refactor models.py to Pydantic model](https://github.com/SpaceTesla/Mivro/issues/78)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: add `@stdlib/iter/cusome`](https://github.com/stdlib-js/stdlib/issues/2334)
-- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
-- [[RFC]: improve README examples of `stats/base/dists/kumaraswamy` namespace](https://github.com/stdlib-js/stdlib/issues/1632)
-- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
-- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
-- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
-- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
-- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
-- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
-- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
+- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
 
