@@ -4,6 +4,31 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [hackclub/sprig](https://github.com/hackclub/sprig)
+
+- [Establish code formatting standard for sprig](https://github.com/hackclub/sprig/issues/1740)
+- [Modal for naming game upon creation](https://github.com/hackclub/sprig/issues/1744)
+- [Clutter in the top bar.](https://github.com/hackclub/sprig/issues/1453)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Complete Igbo translation based on English file](https://github.com/HeyPuter/puter/issues/539)
+- [AppData menu in setings](https://github.com/HeyPuter/puter/issues/587)
+- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Complete Spanish translation based on English file](https://github.com/HeyPuter/puter/issues/532)
+- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
+- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
+- [Complete Korean translation based on English file](https://github.com/HeyPuter/puter/issues/541)
+- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
+- [Complete Dutch translation based on English file](https://github.com/HeyPuter/puter/issues/543)
+- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+- [Complete Polish translation based on English file](https://github.com/HeyPuter/puter/issues/545)
+- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
+- [Complete Traditional Chinese translation based on English file](https://github.com/HeyPuter/puter/issues/550)
+- [Create Vietnamese translation based on English file](https://github.com/HeyPuter/puter/issues/553)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
@@ -32,28 +57,4 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [AppData menu in setings](https://github.com/HeyPuter/puter/issues/587)
-- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
-- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
-- [Complete Spanish translation based on English file](https://github.com/HeyPuter/puter/issues/532)
-- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
-- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
-- [Complete Igbo translation based on English file](https://github.com/HeyPuter/puter/issues/539)
-- [Complete Korean translation based on English file](https://github.com/HeyPuter/puter/issues/541)
-- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
-- [Complete Dutch translation based on English file](https://github.com/HeyPuter/puter/issues/543)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-- [Complete Polish translation based on English file](https://github.com/HeyPuter/puter/issues/545)
-- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
-- [Complete Traditional Chinese translation based on English file](https://github.com/HeyPuter/puter/issues/550)
-- [Create Vietnamese translation based on English file](https://github.com/HeyPuter/puter/issues/553)
-- [Create Tamil translation based on English file](https://github.com/HeyPuter/puter/issues/554)
-- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
-
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
-
-- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
 
