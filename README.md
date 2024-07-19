@@ -4,36 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Docs] "help-wanted label" hyperlink missing multi-org search for label](https://github.com/meshery/meshery/issues/11416)
-- [[Docs] Link not working](https://github.com/meshery/meshery/issues/11349)
-- [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
-- [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
-- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[mesheryctl] `filter list` logs endpoint remove it.](https://github.com/meshery/meshery/issues/11315)
-- [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
-
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
 - [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
@@ -53,4 +23,29 @@ This list gets updated every day at midnight.
 - [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
 - [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
 - [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
+
+## [VisActor/VChart](https://github.com/VisActor/VChart)
+
+- [[Demo] demo of funnel chart](https://github.com/VisActor/VChart/issues/2657)
+- [[Feature] 希望桑基图（sankey）支持滚动条以及缩略轴](https://github.com/VisActor/VChart/issues/2838)
+- [[Feature] when the data of pie is not empty, but the values area all zero, pie can show equal sectors](https://github.com/VisActor/VChart/issues/2863)
+- [[Feature] radar support max configuration in each single radius axis](https://github.com/VisActor/VChart/issues/2840)
+- [[Feature] support contains relation in venn chart](https://github.com/VisActor/VChart/issues/2847)
+- [[Feature] 饼图在无数据时支持展示占位圆](https://github.com/VisActor/VChart/issues/1156)
+- [[Feature] histogram support `barPadding`](https://github.com/VisActor/VChart/issues/2629)
+- [[Bug] Crosshair doesn't always show in histogram charts](https://github.com/VisActor/VChart/issues/2826)
+- [[Feature] 环形进度图最大值与最小值相等时，优化绘制效果](https://github.com/VisActor/VChart/issues/2811)
+
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [filter the listing of files at API side by status](https://github.com/LibreSign/libresign/issues/3244)
+- [JS error "cannot read properties of null (reading 'uuid')" when open details of a file](https://github.com/LibreSign/libresign/issues/3145)
+
+## [ZeLonewolf/openstreetmap-americana](https://github.com/ZeLonewolf/openstreetmap-americana)
+
+- [Courthouses](https://github.com/ZeLonewolf/openstreetmap-americana/issues/1125)
+- [Language picker menu omits some supported languages](https://github.com/ZeLonewolf/openstreetmap-americana/issues/836)
+- [Pedestrian malls](https://github.com/ZeLonewolf/openstreetmap-americana/issues/185)
+- [Major circles of latitude and meridians](https://github.com/ZeLonewolf/openstreetmap-americana/issues/602)
+- [Outline building parts](https://github.com/ZeLonewolf/openstreetmap-americana/issues/915)
 
