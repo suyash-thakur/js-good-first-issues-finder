@@ -4,9 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [neomjs/neo](https://github.com/neomjs/neo)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [tab.Container: getLayoutConfig() => replace the switch block with an object (map)](https://github.com/neomjs/neo/issues/5429)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -31,41 +39,16 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [[RFC]: improve README examples of `stats/base` namespace](https://github.com/stdlib-js/stdlib/issues/1650)
-- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
-- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
-- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
-- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
-- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
-- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
-- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
-- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
-- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
-- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
-- [[RFC]: improve README examples of `stats/base/dists/kumaraswamy` namespace](https://github.com/stdlib-js/stdlib/issues/1632)
-- [[RFC]: add `@stdlib/iter/cusome`](https://github.com/stdlib-js/stdlib/issues/2334)
-- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
-- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
-- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
-- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
-
-## [acm-ucr/hackathon-website](https://github.com/acm-ucr/hackathon-website/pull/1561)
-
-- [added hackathon logo to hackathon engineering site + fixed text opaci…](https://github.com/acm-ucr/hackathon-website/pull/1561)
-- [Centered Text](https://github.com/acm-ucr/hackathon-website/pull/1564)
-- [Clean Up Rules Section](https://github.com/acm-ucr/hackathon-website/issues/1386)
-- [Add Prettier Tailwind Class Ordering](https://github.com/acm-ucr/hackathon-website/issues/1382)
-- [Add Padding](https://github.com/acm-ucr/hackathon-website/issues/1355)
-- [Create Hackpack Component Test](https://github.com/acm-ucr/hackathon-website/issues/1392)
-- [Add Hackathon Logo](https://github.com/acm-ucr/hackathon-website/issues/1405)
-- [Create Tab Component Test](https://github.com/acm-ucr/hackathon-website/issues/1399)
-- [Create Filter Component Test](https://github.com/acm-ucr/hackathon-website/issues/1402)
-- [Fix Mobile Responsiveness](https://github.com/acm-ucr/hackathon-website/issues/1407)
+- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
+- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
+- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
+- [Complete Korean translation based on English file](https://github.com/HeyPuter/puter/issues/541)
+- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
+- [Complete Dutch translation based on English file](https://github.com/HeyPuter/puter/issues/543)
+- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
 
