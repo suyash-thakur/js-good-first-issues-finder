@@ -18,9 +18,9 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Link not working](https://github.com/meshery/meshery/issues/11349)
 - [[mesheryctl] `pattern import` command should have a proper log on successful import of pattern ](https://github.com/meshery/meshery/issues/11422)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-- [[Docs] Link not working](https://github.com/meshery/meshery/issues/11349)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
@@ -41,7 +41,6 @@ This list gets updated every day at midnight.
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Custom file templates](https://github.com/HeyPuter/puter/issues/432)
 - [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
 - [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
 - [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
