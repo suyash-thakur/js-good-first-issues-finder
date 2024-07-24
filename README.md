@@ -4,6 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+
+- [Near Me Button Functionality](https://github.com/phlask/phlask-map/issues/385)
+- [Add Resource Confirmation Modal for Desktop](https://github.com/phlask/phlask-map/issues/418)
+- [Improve display of resources with no address or name](https://github.com/phlask/phlask-map/issues/462)
+- [Avoid panning to user location in most cases](https://github.com/phlask/phlask-map/issues/459)
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
+
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+
+- [New bridge: matrix-appservice-revolt](https://github.com/matrix-org/matrix.org/issues/2389)
+- [Quotes with just bullets have pretty large indentation/margin](https://github.com/matrix-org/matrix.org/issues/2038)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
@@ -19,6 +32,7 @@ This list gets updated every day at midnight.
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Link not working](https://github.com/meshery/meshery/issues/11349)
+- [[mesheryctl] `filter list` logs endpoint remove it.](https://github.com/meshery/meshery/issues/11315)
 - [[mesheryctl] `pattern import` command should have a proper log on successful import of pattern ](https://github.com/meshery/meshery/issues/11422)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
@@ -26,7 +40,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[mesheryctl] `filter list` logs endpoint remove it.](https://github.com/meshery/meshery/issues/11315)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
@@ -36,18 +49,11 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
 
-- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
-- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
-- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
-- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
-- [Complete Korean translation based on English file](https://github.com/HeyPuter/puter/issues/541)
-- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
-- [Complete Dutch translation based on English file](https://github.com/HeyPuter/puter/issues/543)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
+- [[Issue]: Remove Upcoming Closing Date from Dashboard](https://github.com/usdigitalresponse/usdr-gost/issues/3155)
+- [[Issue]: Move Copy, Print, and Grants.gov link on Grant Details page](https://github.com/usdigitalresponse/usdr-gost/issues/3153)
 
