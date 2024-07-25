@@ -4,30 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
 
-- [Near Me Button Functionality](https://github.com/phlask/phlask-map/issues/385)
-- [Add Resource Confirmation Modal for Desktop](https://github.com/phlask/phlask-map/issues/418)
-- [Improve display of resources with no address or name](https://github.com/phlask/phlask-map/issues/462)
-- [Avoid panning to user location in most cases](https://github.com/phlask/phlask-map/issues/459)
-- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [New bridge: matrix-appservice-revolt](https://github.com/matrix-org/matrix.org/issues/2389)
-- [Quotes with just bullets have pretty large indentation/margin](https://github.com/matrix-org/matrix.org/issues/2038)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
+- [feat(mafia): Flavor text for each Modifier](https://github.com/UltiMafia/Ultimafia/issues/1596)
+- [feat(UI): Role Categories on Learn Page and Popover](https://github.com/UltiMafia/Ultimafia/issues/1535)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -47,13 +27,26 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[Issue]: Remove Upcoming Closing Date from Dashboard](https://github.com/usdigitalresponse/usdr-gost/issues/3155)
-- [[Issue]: Move Copy, Print, and Grants.gov link on Grant Details page](https://github.com/usdigitalresponse/usdr-gost/issues/3153)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Es2018 Unicode Property Escapes Not working](https://github.com/vercel/next.js/issues/19303)
 
