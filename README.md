@@ -6,56 +6,48 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [rhino-project/rhino-project](https://github.com/rhino-project/rhino-project)
 
-- [Replace deprecated babel dependencies](https://github.com/jellyfin/jellyfin-web/issues/5794)
+- [Use public all_timestamp_attributes_in_model insted of send(:all_timestamp_attributes_in_model)](https://github.com/rhino-project/rhino-project/issues/215)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
-- [`--env-file` watch](https://github.com/nodejs/node/issues/54001)
-- [`assert.ok()` throwing `AssertionError` instead of provided `Error` object](https://github.com/nodejs/node/issues/50780)
-- [doc: clarify Web Storage behavior](https://github.com/nodejs/node/issues/53871)
-- [Native WebSockets in node 20](https://github.com/nodejs/node/issues/53684)
-
-## [lingua-libre/SignIt](https://github.com/lingua-libre/SignIt)
-
-- [Button to submit corrections](https://github.com/lingua-libre/SignIt/issues/13)
-- [Fix iframe CSS](https://github.com/lingua-libre/SignIt/issues/110)
-- [Onboard interested volunteer developers](https://github.com/lingua-libre/SignIt/issues/103)
-- [Add Indonesian sign language](https://github.com/lingua-libre/SignIt/issues/104)
-- [Bubble on selection positioning](https://github.com/lingua-libre/SignIt/issues/33)
-
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-
-- [Replace deprecated mixins `@include H1` - `@include H9` in SCSS with Text component](https://github.com/MetaMask/metamask-extension/issues/20496)
-- [Replace deprecated ConfirmPageContainerWarning component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20466)
-- [Replace deprecated ErrorMessage component with BannerAlert from the component-library](https://github.com/MetaMask/metamask-extension/issues/20394)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Incidents fallback](https://github.com/bluewave-labs/bluewave-uptime/issues/434)
+- [Frontend - Loading component](https://github.com/bluewave-labs/bluewave-uptime/issues/452)
+- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
 
