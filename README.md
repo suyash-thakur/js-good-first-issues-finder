@@ -6,8 +6,8 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 - [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
@@ -17,7 +17,6 @@ This list gets updated every day at midnight.
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-- [Orange focus ring in `Enter a sync code` dialog](https://github.com/brave/brave-browser/issues/39471)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -42,4 +41,8 @@ This list gets updated every day at midnight.
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [google/blockly-samples](https://github.com/google/blockly-samples)
+
+- [Make resizable side sections of new Block Factory tool](https://github.com/google/blockly-samples/issues/2401)
 
