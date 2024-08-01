@@ -6,8 +6,8 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
@@ -42,7 +42,12 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [google/blockly-samples](https://github.com/google/blockly-samples)
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-- [Make resizable side sections of new Block Factory tool](https://github.com/google/blockly-samples/issues/2401)
+- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
+- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
+- [FE - Redirect to NotFound page if monitor does not exist](https://github.com/bluewave-labs/bluewave-uptime/issues/502)
+- [Frontend - Loading component](https://github.com/bluewave-labs/bluewave-uptime/issues/452)
+- [Incidents fallback](https://github.com/bluewave-labs/bluewave-uptime/issues/434)
+- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
 
