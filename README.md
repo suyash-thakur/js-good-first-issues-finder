@@ -4,6 +4,42 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [rustic-ai/ui-components](https://github.com/rustic-ai/ui-components)
+
+- [Add Sound story with transcripts](https://github.com/rustic-ai/ui-components/issues/142)
+- [Timestamp does not reflect correct time](https://github.com/rustic-ai/ui-components/issues/238)
+- [Map component not showing address](https://github.com/rustic-ai/ui-components/issues/237)
+- [TextInput component send button is misaligned](https://github.com/rustic-ai/ui-components/issues/236)
+- [FCCalendar component styling is not consistent with library](https://github.com/rustic-ai/ui-components/issues/235)
+- [Video component - missing bg opacity and gradient](https://github.com/rustic-ai/ui-components/issues/169)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
+- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
+- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
+- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
+- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
+- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
+- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
+- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
+- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
+- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
+- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Complete Hebrew translation based on English file](https://github.com/HeyPuter/puter/issues/651)
+- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
+- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
+- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
+- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
@@ -20,11 +56,11 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
-- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
@@ -34,20 +70,9 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
-- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-
-- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
-- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
-- [FE - Redirect to NotFound page if monitor does not exist](https://github.com/bluewave-labs/bluewave-uptime/issues/502)
-- [Frontend - Loading component](https://github.com/bluewave-labs/bluewave-uptime/issues/452)
-- [Incidents fallback](https://github.com/bluewave-labs/bluewave-uptime/issues/434)
-- [Frontend - Monitors page redirect](https://github.com/bluewave-labs/bluewave-uptime/issues/240)
 
