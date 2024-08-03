@@ -4,58 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [rustic-ai/ui-components](https://github.com/rustic-ai/ui-components)
-
-- [Add Sound story with transcripts](https://github.com/rustic-ai/ui-components/issues/142)
-- [Timestamp does not reflect correct time](https://github.com/rustic-ai/ui-components/issues/238)
-- [Map component not showing address](https://github.com/rustic-ai/ui-components/issues/237)
-- [TextInput component send button is misaligned](https://github.com/rustic-ai/ui-components/issues/236)
-- [FCCalendar component styling is not consistent with library](https://github.com/rustic-ai/ui-components/issues/235)
-- [Video component - missing bg opacity and gradient](https://github.com/rustic-ai/ui-components/issues/169)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
-- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
-- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
-- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
-- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
-- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
-- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
-- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
-- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
-- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
-- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
-- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
-- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Complete Hebrew translation based on English file](https://github.com/HeyPuter/puter/issues/651)
-- [Complete Portuguese translation based on English file](https://github.com/HeyPuter/puter/issues/531)
-- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
-- [Complete Danish translation based on English file](https://github.com/HeyPuter/puter/issues/533)
-- [Complete Finnish translation based on English file](https://github.com/HeyPuter/puter/issues/536)
-- [Complete Norwegian Bokmål translation based on English file](https://github.com/HeyPuter/puter/issues/542)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-- [Complete Swedish translation based on English file](https://github.com/HeyPuter/puter/issues/548)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
@@ -75,4 +26,32 @@ This list gets updated every day at midnight.
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [Autism-Technology-Research-Syndicate/SEALApplication](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication)
+
+- [Create a GPT prompt that can reliably format preexisting curriculum to be fed into the db programmatically ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/13)
+- [In the curriculum storage table, add a new value for whether curriculum has been completed.](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/19)
+- [Add score to the table for inputs and outputs and make a function to analyze the slope of the line at which scores have been trending.](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/16)
+- [Add functionality to the notifications preferences setting, should be able to disable notifications completely ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/34)
+- [Create a break system and page for students](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/15)
+- [Add functionality to the font sizes and dyslexic font options in settings ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/32)
+- [Create a table in the db which stores input, output, responsiveness, it will be used by the AI models to store data. ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/30)
+- [Create a page for viewing the long form text output, test by using curriculum from the curriculum table ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/22)
+- [Create a setting to enable developer mode. Should be hidden in the application so a student cannot accidentally enable it. ](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication/issues/14)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Travis](https://github.com/PipedreamHQ/pipedream/issues/13109)
+- [[ACTION] get nested resources](https://github.com/PipedreamHQ/pipedream/issues/13107)
+- [[ACTION] get organization info](https://github.com/PipedreamHQ/pipedream/issues/13106)
+- [[ACTION] get build info](https://github.com/PipedreamHQ/pipedream/issues/13105)
+- [[TRIGGER] New Refund Created (Instant) from Shopify Developer App](https://github.com/PipedreamHQ/pipedream/issues/13085)
+- [Student log-in](https://github.com/PipedreamHQ/pipedream/issues/13086)
+- [[ACTION] Twilio - Detect Landline Phone Number](https://github.com/PipedreamHQ/pipedream/issues/13084)
+- [Get Call Recordings](https://github.com/PipedreamHQ/pipedream/issues/13056)
+- [[ACTION] Create Linear Project and optionally assign project template](https://github.com/PipedreamHQ/pipedream/issues/12942)
+- [[TRIGGER] TODOIST: New Parent and Incomplete Task](https://github.com/PipedreamHQ/pipedream/issues/12937)
+- [[ACTIONS] Eleven Labs - Projects APIs](https://github.com/PipedreamHQ/pipedream/issues/12909)
+- [[ACTION] Google Sheets Insert new Row at X](https://github.com/PipedreamHQ/pipedream/issues/12803)
+- [Please add "upload document section" to Pandadoc](https://github.com/PipedreamHQ/pipedream/issues/12828)
 
