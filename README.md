@@ -4,8 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+
+- [Unnecessary `process` polyfill when checking `process.env` and incomplete treeshaking](https://github.com/parcel-bundler/parcel/issues/8156)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
@@ -22,41 +27,24 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
+- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [code-charity/youtube](https://github.com/code-charity/youtube)
-
-- [toggle to keep original audio track ASAP](https://github.com/code-charity/youtube/issues/2503)
-- [Always jumps to the description part](https://github.com/code-charity/youtube/issues/2499)
-- [Adjustable font sizes (25-200%) for Youtube video titles.](https://github.com/code-charity/youtube/issues/2487)
-- [Add hiding Shorts from Trends.](https://github.com/code-charity/youtube/issues/2507)
-- [Auto-pause while tab is inactive  doesn't work since a long time](https://github.com/code-charity/youtube/issues/2465)
-- [Remove YouTube Playables (Games)](https://github.com/code-charity/youtube/issues/2505)
-- [autoplay problem](https://github.com/code-charity/youtube/issues/2042)
-- [Hide Buy Recommendations](https://github.com/code-charity/youtube/issues/2504)
-- [hide the Group Category section (Example: Gaming. BROWSE ALL GAMING)](https://github.com/code-charity/youtube/issues/2470)
-- [Hide "Top live games" ](https://github.com/code-charity/youtube/issues/2207)
-- [Force region and language option](https://github.com/code-charity/youtube/issues/319)
-- [Option to disable certain Left Panel sections of YT](https://github.com/code-charity/youtube/issues/618)
-- [Auto-PiP (Picture-in-Picture) always listed in "My Active Features", and cannot be toggled](https://github.com/code-charity/youtube/issues/2502)
-- [Subtitle icon colour](https://github.com/code-charity/youtube/issues/2500)
-- ["Add to Blocklist" button no longer working in Nightly (129.0a1 (2024-06-28) (64-bit))](https://github.com/code-charity/youtube/issues/2422)
-- [Option to show the stats for nerds screen while the video is loading (Buffering)](https://github.com/code-charity/youtube/issues/721)
-- [Appearence > Description: Sidebar: animation is too slow](https://github.com/code-charity/youtube/issues/2477)
-- [Mini-Player progress bar is not scaled down to fit the window size.](https://github.com/code-charity/youtube/issues/2351)
-- [New YouTube video layout breaks chapters on the sidebar](https://github.com/code-charity/youtube/issues/2324)
-- [Can't use mouse wheel to scroll page when use Undo New Sidebar option ](https://github.com/code-charity/youtube/issues/2339)
-- [[Bug] 'Appearance -> Sidebar -> Chapters' feature breaks "key moments" links/timestamps](https://github.com/code-charity/youtube/issues/2476)
-- [Messed Up Buttons](https://github.com/code-charity/youtube/issues/1966)
-- [The "Forced theater mode" settings do not work correctly](https://github.com/code-charity/youtube/issues/2497)
-- [youtube search → "open in a new tab" doesn't work](https://github.com/code-charity/youtube/issues/2482)
-- [windows high contrast mode support](https://github.com/code-charity/youtube/issues/2493)
-- [Auto-Like Feature](https://github.com/code-charity/youtube/issues/728)
-- [The "Cinema Mode" settings do not work correctly](https://github.com/code-charity/youtube/issues/2496)
-- [Undo New Sidebar not working in some instances](https://github.com/code-charity/youtube/issues/2327)
-- [Arabic Subtitles Support](https://github.com/code-charity/youtube/issues/2491)
-- [Why dont Analytics graph, Mixer & custom css/js work since years?](https://github.com/code-charity/youtube/issues/1658)
 
