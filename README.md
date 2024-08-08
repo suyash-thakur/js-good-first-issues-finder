@@ -4,12 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
-
-- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
 - [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
@@ -26,14 +23,14 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[Docs] Tutorial: Accessing Meshery with Gateway API add-on](https://github.com/meshery/meshery/issues/10333)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
@@ -42,10 +39,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Add sass-embedded as an optional dependency](https://github.com/jellyfin/jellyfin-web/issues/5862)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
