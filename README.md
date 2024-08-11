@@ -27,44 +27,37 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
-
-- [Add informative error logging to debug Treasury report failures](https://github.com/usdigitalresponse/usdr-gost/issues/2525)
-- [[Issue]: Remove Upcoming Closing Date from Dashboard](https://github.com/usdigitalresponse/usdr-gost/issues/3155)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-
-- [UI color/font weight fixes](https://github.com/bluewave-labs/bluewave-uptime/issues/519)
-- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
-- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
-
-## [nextcloud/tables](https://github.com/nextcloud/tables)
-
-- [Hide Pre-/Suffix for empty Values](https://github.com/nextcloud/tables/issues/1224)
-
-## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-
-- [Minor security vulnerability via babel-traverse 6.26.0](https://github.com/prebid/Prebid.js/issues/12010)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Ease participating as a internal user when joining public conversations](https://github.com/nextcloud/spreed/issues/12772)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Message expiration is not hidden when not supported by the server](https://github.com/nextcloud/spreed/issues/11335)
-- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [`--test` & `--test-reporter` & `--test-reporter-destination` will swallow error](https://github.com/nodejs/node/issues/52670)
 - [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 - [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
 - [doc: clarify Web Storage behavior](https://github.com/nodejs/node/issues/53871)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
+- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
+- [[RFC]: add `@stdlib/fs/resolve-parent-paths-by`](https://github.com/stdlib-js/stdlib/issues/2567)
+- [[RFC]: refactor `blas/ext/base/dsnannsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1491)
+- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+- [[RFC]: refactor `blas/ext/base/ssortins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1538)
+- [[RFC]: refactor `blas/ext/base/ssort2hp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1534)
+- [[RFC]: refactor `blas/ext/base/sdsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1524)
+- [[RFC]: refactor `blas/ext/base/sapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1513)
+- [[RFC]: refactor `blas/ext/base/dsort2ins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1496)
+- [[RFC]: refactor `blas/ext/base/dsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1494)
+- [[RFC]: refactor `blas/ext/base/ssort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1536)
+- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
+- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
+- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
+- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
+- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
+- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
+- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
+- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
+- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
+- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
 
