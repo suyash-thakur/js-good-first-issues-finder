@@ -4,6 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
@@ -19,7 +35,6 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-- [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -34,30 +49,9 @@ This list gets updated every day at midnight.
 - [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
 - [doc: clarify Web Storage behavior](https://github.com/nodejs/node/issues/53871)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [RiveraSonoely-FS/PP3_SpotifyAPI](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI)
 
-- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
-- [[RFC]: add `@stdlib/array/base/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2325)
-- [[RFC]: add `@stdlib/fs/resolve-parent-paths-by`](https://github.com/stdlib-js/stdlib/issues/2567)
-- [[RFC]: refactor `blas/ext/base/dsnannsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1491)
-- [[RFC]: add `@stdlib/array/base/cuevery-by-right`](https://github.com/stdlib-js/stdlib/issues/2328)
-- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
-- [[RFC]: refactor `blas/ext/base/ssortins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1538)
-- [[RFC]: refactor `blas/ext/base/ssort2hp` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1534)
-- [[RFC]: refactor `blas/ext/base/sdsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1524)
-- [[RFC]: refactor `blas/ext/base/sapxsumors` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1513)
-- [[RFC]: refactor `blas/ext/base/dsort2ins` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1496)
-- [[RFC]: refactor `blas/ext/base/dsnansumpw` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1494)
-- [[RFC]: refactor `blas/ext/base/ssort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1536)
-- [[RFC]: add `@stdlib/iter/cunone-by`](https://github.com/stdlib-js/stdlib/issues/2337)
-- [[RFC]: add `@stdlib/iter/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2336)
-- [[RFC]: add `@stdlib/array/base/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2326)
-- [[RFC]: add `@stdlib/array/base/cusome`](https://github.com/stdlib-js/stdlib/issues/2322)
-- [[RFC]: add `@stdlib/array/base/cuevery-by`](https://github.com/stdlib-js/stdlib/issues/2324)
-- [[RFC]: add `@stdlib/array/base/cunone-by-right`](https://github.com/stdlib-js/stdlib/issues/2329)
-- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
-- [[RFC]: add `@stdlib/array/base/cuany-by-right`](https://github.com/stdlib-js/stdlib/issues/2327)
-- [RFC: add support for computing the hyperbolic secant (sech)](https://github.com/stdlib-js/stdlib/issues/228)
-- [[RFC]: add `@stdlib/iter/cunone`](https://github.com/stdlib-js/stdlib/issues/2333)
-- [[RFC]: add `@stdlib/iter/cuevery`](https://github.com/stdlib-js/stdlib/issues/2332)
+- [Deploy the frontend with either Netlify or Vercel](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/12)
+- [Begin basic styling with CSS](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/8)
+- [Begin frontend development](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/5)
 
