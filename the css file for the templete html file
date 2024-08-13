@@ -1,0 +1,97 @@
+/* General Reset */
+* {
+    margin: 1 ;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background: #007BFF;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+
+
+header h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+header p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+.repo-section {
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2{
+    text-shadow: 2px 2px 3px rgb(29, 29, 29);
+    text-align: center;
+}
+
+.repo-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #007BFF;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 0.5rem;
+}
+
+.repo-section a {
+    color: #007BFF;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.repo-section a:hover {
+    color: #0056b3;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+code {
+    background: #e9ecef;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #d63384;
+}
+
+footer {
+    background: #333; 
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
