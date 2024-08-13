@@ -6,10 +6,9 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [Update button is bigger than the other toolbar buttons](https://github.com/brave/brave-browser/issues/40003)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
@@ -42,16 +41,9 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [`--test` & `--test-reporter` & `--test-reporter-destination` will swallow error](https://github.com/nodejs/node/issues/52670)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
-- [doc: clarify Web Storage behavior](https://github.com/nodejs/node/issues/53871)
-
-## [RiveraSonoely-FS/PP3_SpotifyAPI](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI)
-
-- [Deploy the frontend with either Netlify or Vercel](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/12)
-- [Begin basic styling with CSS](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/8)
-- [Begin frontend development](https://github.com/RiveraSonoely-FS/PP3_SpotifyAPI/issues/5)
+- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [No deletion of older swing-store artifacts when creating new spans](https://github.com/Agoric/agoric-sdk/issues/9387)
+- [Cosmos config to control historical swing-store artifact retention](https://github.com/Agoric/agoric-sdk/issues/9386)
 
