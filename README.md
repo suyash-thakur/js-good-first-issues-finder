@@ -17,7 +17,6 @@ This list gets updated every day at midnight.
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
 - [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -41,17 +40,18 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [finos/git-proxy](https://github.com/finos/git-proxy)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [blockForAuth should use the environment for hostname](https://github.com/finos/git-proxy/issues/674)
-- [pullRemote clone dir permissions are extraneous ](https://github.com/finos/git-proxy/issues/673)
-- [ui/docs: clone component is undefined when running as a server](https://github.com/finos/git-proxy/issues/669)
-- [Selectively disable TLS](https://github.com/finos/git-proxy/issues/658)
-- [Default config not loaded due to excessive validation](https://github.com/finos/git-proxy/issues/654)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
-- [doc: clarify Web Storage behavior](https://github.com/nodejs/node/issues/53871)
+- [Translate README.md from English to Romanian](https://github.com/HeyPuter/puter/issues/677)
+- [Translate README.md from English to Indonesian](https://github.com/HeyPuter/puter/issues/676)
+- [Translate README.md from English to Thai](https://github.com/HeyPuter/puter/issues/675)
+- [Translate README.md from English to Turkish](https://github.com/HeyPuter/puter/issues/674)
+- [Translate README.md from English to Tamil](https://github.com/HeyPuter/puter/issues/673)
+- [Translate README.md from English to Japanese](https://github.com/HeyPuter/puter/issues/671)
+- [Translate README.md from English to German](https://github.com/HeyPuter/puter/issues/670)
+- [Translate README.md from English to Bengali](https://github.com/HeyPuter/puter/issues/668)
+- [Translate README.md from English to French](https://github.com/HeyPuter/puter/issues/667)
+- [Translate README.md from English to Hindi](https://github.com/HeyPuter/puter/issues/666)
+- [Translate README.md from English to Chinese](https://github.com/HeyPuter/puter/issues/665)
+- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
 
