@@ -4,8 +4,49 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Undo for "Remove from Playlist"](https://github.com/FreeTubeApp/FreeTube/issues/5421)
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/7299)
+
+- [Add github-handle variable to Jessie Liu](https://github.com/hackforla/website/pull/7299)
+- [Added github-handle property for Andrew Salvatore](https://github.com/hackforla/website/pull/7293)
+- [Add github-handle for Natalie Aguilar in tech-work-experience.md #7252](https://github.com/hackforla/website/pull/7298)
+- [Add github-handle for Jessie Liu in tech-work-experience.md](https://github.com/hackforla/website/issues/7250)
+- [Add github-handle for Natalie Aguilar in tech-work-experience.md](https://github.com/hackforla/website/issues/7252)
+- [Prep Website Project Board for Migration](https://github.com/hackforla/website/issues/6970)
+- [Added 'github-handle' key below name for Flora Osmond](https://github.com/hackforla/website/pull/7270)
+- [Add github-handle for Andrew Salvatore in tech-work-experience.md](https://github.com/hackforla/website/issues/7246)
+- [Create Issues to add new variable github-handle for members in design-systems.md](https://github.com/hackforla/website/issues/6828)
+- [Add github-handle for Zeynep Aslan in design-systems.md](https://github.com/hackforla/website/issues/7286)
+- [Add github-handle for Robert Schacht in design-systems.md](https://github.com/hackforla/website/issues/7292)
+- [Add github-handle for Michael Morgan in design-systems.md](https://github.com/hackforla/website/issues/7291)
+- [Add github-handle for Liz Zheng in design-systems.md](https://github.com/hackforla/website/issues/7290)
+- [Add github-handle for Asad Haider in design-systems.md](https://github.com/hackforla/website/issues/7289)
+- [Add github-handle for Eli Marietta in design-systems.md](https://github.com/hackforla/website/issues/7288)
+- [Add github-handle for Gala Stojnic in design-systems.md](https://github.com/hackforla/website/issues/7287)
+- [Create Issues to add new variable github-handle for members in work-for-la.md](https://github.com/hackforla/website/issues/7268)
+- [Add github-handle for Nino Dzotsenidze in tech-work-experience.md](https://github.com/hackforla/website/issues/7253)
+- [Added github-handle for Farah Khan in home-unite-us.md ](https://github.com/hackforla/website/pull/7264)
+- [Add github-handle for Bryanna Lim in tech-work-experience.md](https://github.com/hackforla/website/issues/7248)
+- [Update Project Profile: remove Gayle Martin from HackforLA.org Website](https://github.com/hackforla/website/issues/6981)
+- [Add github-handle for Jane He in tdm-calculator.md](https://github.com/hackforla/website/issues/7170)
+- [Add github-handle for Mira Kinebuchi in home-unite-us.md](https://github.com/hackforla/website/issues/7177)
+- [Add github-handle for Flora Osmond in home-unite-us.md](https://github.com/hackforla/website/issues/7187)
+- [Create Issues to add new variable github-handle for members in vrms.md](https://github.com/hackforla/website/issues/7266)
+- [Create Issues to add new variable github-handle for members in youthjusticenav.md](https://github.com/hackforla/website/issues/7265)
+- [Create Issues to add new variable github-handle for members in website.md](https://github.com/hackforla/website/issues/7267)
+- [Add github-handle for Farah Khan in home-unite-us.md](https://github.com/hackforla/website/issues/7185)
+- [epic: Refactor img tags in CONTRIBUTING.md to end without a slash](https://github.com/hackforla/website/issues/6453)
+- [Add github-handle for Raji Pradheap in home-unite-us.md](https://github.com/hackforla/website/issues/7183)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
@@ -14,12 +55,12 @@ This list gets updated every day at midnight.
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
 - [[Android] Rename Allow contribution to videos to Allow contributions for videos](https://github.com/brave/brave-browser/issues/17896)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
@@ -29,29 +70,7 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Website] The Layer5 Cloud extension should have a "5" mark, not Meshery logo](https://github.com/meshery/meshery.io/issues/1851)
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Translate README.md from English to Romanian](https://github.com/HeyPuter/puter/issues/677)
-- [Translate README.md from English to Indonesian](https://github.com/HeyPuter/puter/issues/676)
-- [Translate README.md from English to Thai](https://github.com/HeyPuter/puter/issues/675)
-- [Translate README.md from English to Turkish](https://github.com/HeyPuter/puter/issues/674)
-- [Translate README.md from English to Tamil](https://github.com/HeyPuter/puter/issues/673)
-- [Translate README.md from English to Japanese](https://github.com/HeyPuter/puter/issues/671)
-- [Translate README.md from English to German](https://github.com/HeyPuter/puter/issues/670)
-- [Translate README.md from English to Bengali](https://github.com/HeyPuter/puter/issues/668)
-- [Translate README.md from English to French](https://github.com/HeyPuter/puter/issues/667)
-- [Translate README.md from English to Hindi](https://github.com/HeyPuter/puter/issues/666)
-- [Translate README.md from English to Chinese](https://github.com/HeyPuter/puter/issues/665)
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
 
