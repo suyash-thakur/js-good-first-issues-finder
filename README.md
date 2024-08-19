@@ -2,8 +2,6 @@
 
 This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!
 
-This list gets updated every day at midnight.
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
