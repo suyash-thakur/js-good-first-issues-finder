@@ -4,19 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [m0nt4ld0/crucigrama](https://github.com/m0nt4ld0/crucigrama)
-
-- [Add a popup when the user has completed the crossword](https://github.com/m0nt4ld0/crucigrama/issues/10)
-- [Add keyboard events to move between cells inside the crossword puzzle](https://github.com/m0nt4ld0/crucigrama/issues/11)
-- [Add progress bar at the bottom of the crossword](https://github.com/m0nt4ld0/crucigrama/issues/9)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
 - [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
@@ -37,14 +31,6 @@ This list gets updated every day at midnight.
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
-- [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-
-- [If a page cannot be found, then it should be possible to go back with browser's back button.](https://github.com/bluewave-labs/bluewave-uptime/issues/668)
-- [FE/BE - Realtime Data Updates](https://github.com/bluewave-labs/bluewave-uptime/issues/646)
-- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
-- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -52,12 +38,28 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [jlab-sensing/DirtViz](https://github.com/jlab-sensing/DirtViz)
 
-- [Playground PR Previews as a GitHub App or a generic GitHub action](https://github.com/WordPress/wordpress-playground/issues/1138)
+- [Create endpoint that supports generic sensor data in json](https://github.com/jlab-sensing/DirtViz/issues/332)
 
-## [shift-org/shift-docs](https://github.com/shift-org/shift-docs)
+## [m0nt4ld0/crucigrama](https://github.com/m0nt4ld0/crucigrama)
 
-- [Change API response when requesting an invalid event ID](https://github.com/shift-org/shift-docs/issues/566)
-- [Length field is not being saved or fetched properly](https://github.com/shift-org/shift-docs/issues/570)
+- [Add progress bar at the bottom of the crossword](https://github.com/m0nt4ld0/crucigrama/issues/9)
+- [Add keyboard events to move between cells inside the crossword puzzle](https://github.com/m0nt4ld0/crucigrama/issues/11)
+- [Add a popup when the user has completed the crossword](https://github.com/m0nt4ld0/crucigrama/issues/10)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
+- [Add sass-embedded as an optional dependency](https://github.com/jellyfin/jellyfin-web/issues/5862)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [server.listen's bind argument does not accept [::] for ipv6](https://github.com/nodejs/node/issues/54441)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+- [test_runner: differentiate describe from it in event:enqueue so we can have a total test count](https://github.com/nodejs/node/issues/51235)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
