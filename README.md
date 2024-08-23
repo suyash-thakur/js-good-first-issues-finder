@@ -6,6 +6,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
@@ -15,7 +16,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 
@@ -32,27 +32,31 @@ This list gets updated every day at midnight.
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
 
+## [SkywardAI/voyager](https://github.com/SkywardAI/voyager)
+
+- [[Feature]: Add test cases for 2 new apis](https://github.com/SkywardAI/voyager/issues/34)
+- [[Feature]: A simple UI for developer testing API](https://github.com/SkywardAI/voyager/issues/53)
+- [[Feature]: Add test case for POST /v1/chat/rag-completions](https://github.com/SkywardAI/voyager/issues/33)
+
+## [usdigitalresponse/usdr-gost](https://github.com/usdigitalresponse/usdr-gost)
+
+- [Follow+Notes: Expose grant notes retrieval in Finder API](https://github.com/usdigitalresponse/usdr-gost/issues/3205)
+- [Follow+Notes: Create client-side feature flag](https://github.com/usdigitalresponse/usdr-gost/issues/3405)
+- [Follow+Notes: Conditionally hide the Team Status Section based on feature flag](https://github.com/usdigitalresponse/usdr-gost/issues/3429)
+- [[Issue]: Cannot submit "Not applicable to needs/goals" as team status in Grant Finder](https://github.com/usdigitalresponse/usdr-gost/issues/3380)
+- [Follow+Notes: Expose ability to follow a grant via Finder API](https://github.com/usdigitalresponse/usdr-gost/issues/3206)
+- [Follow+Notes: Expose ability to un-follow a grant via Finder API](https://github.com/usdigitalresponse/usdr-gost/issues/3207)
+- [[Issue]: UI tweaks to card design related to issue 3154](https://github.com/usdigitalresponse/usdr-gost/issues/3373)
+- [Add informative error logging to debug Treasury report failures](https://github.com/usdigitalresponse/usdr-gost/issues/2525)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
-- [No deletion of older swing-store artifacts when creating new spans](https://github.com/Agoric/agoric-sdk/issues/9387)
-- [Cosmos config to control historical swing-store artifact retention](https://github.com/Agoric/agoric-sdk/issues/9386)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-- [DateTimePicker: AM/PM switcher is not screen reader accessible](https://github.com/WordPress/gutenberg/issues/61163)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Allow Patient Deletion in Sandbox from Dashboard](https://github.com/metriport/metriport/issues/1592)
+- [Don't allow future dates as date of birth (dob)](https://github.com/metriport/metriport/issues/2453)
 
