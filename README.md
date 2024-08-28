@@ -4,14 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [omshub/website](https://github.com/omshub/website)
-
-- [[BUG] Reset to most recent semester on new year set](https://github.com/omshub/website/issues/138)
-- [[FEATURE] Add tooltip for course-stats data on landing page](https://github.com/omshub/website/issues/256)
-- [[FEATURE] Single-Review View](https://github.com/omshub/website/issues/309)
-- [[FEATURE] Add email to website & README](https://github.com/omshub/website/issues/351)
-- [[FEATURE] Add text to star selections in Add Review form](https://github.com/omshub/website/issues/410)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
@@ -28,11 +20,12 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
-- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
-- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
+- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
+- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
