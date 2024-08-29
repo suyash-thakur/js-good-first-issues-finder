@@ -4,6 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
@@ -20,10 +24,10 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
-- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
@@ -42,4 +46,8 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [Rspack plugin support](https://github.com/facebook/stylex/issues/172)
 
