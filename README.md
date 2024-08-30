@@ -4,9 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Extract metrics from slogs and send them to otel/datadog](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [[Bug]: doc list for sandbox pt looks funky](https://github.com/metriport/metriport/issues/2664)
+- [Allow Patient Deletion in Sandbox from Dashboard](https://github.com/metriport/metriport/issues/1592)
+- [Don't allow future dates as date of birth (dob)](https://github.com/metriport/metriport/issues/2453)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -24,21 +26,20 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Sistent Page Bugs - Text and Link errors](https://github.com/meshery/meshery/issues/11553)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
+- [[CI] Add new PR labeler rule for *.rego files](https://github.com/meshery/meshery/issues/11849)
+- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
-- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -47,7 +48,10 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [facebook/stylex](https://github.com/facebook/stylex)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Rspack plugin support](https://github.com/facebook/stylex/issues/172)
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [Test `test/parallel/test-runner-run.mjs` fails when run from a TTY with color support](https://github.com/nodejs/node/issues/54551)
+- [Native WebSockets in node 20](https://github.com/nodejs/node/issues/53684)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 
