@@ -4,29 +4,8 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [metriport/metriport](https://github.com/metriport/metriport)
-
-- [[Bug]: doc list for sandbox pt looks funky](https://github.com/metriport/metriport/issues/2664)
-- [Allow Patient Deletion in Sandbox from Dashboard](https://github.com/metriport/metriport/issues/1592)
-- [Don't allow future dates as date of birth (dob)](https://github.com/metriport/metriport/issues/2453)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [[Desktop] top sites should not move when toggling clock on/off](https://github.com/brave/brave-browser/issues/11484)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[CI] Add new PR labeler rule for *.rego files](https://github.com/meshery/meshery/issues/11849)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
@@ -48,10 +27,46 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+
+## [bikehopper/bikehopper-ui](https://github.com/bikehopper/bikehopper-ui)
+
+- [Transit alert improvements](https://github.com/bikehopper/bikehopper-ui/issues/258)
+
+## [hackforla/food-oasis](https://github.com/hackforla/food-oasis)
+
+- [Add client-side validation for LinkedIn contact detail field](https://github.com/hackforla/food-oasis/issues/2199)
+- [Add tooltip for Instagram contact detail field](https://github.com/hackforla/food-oasis/issues/2179)
+- [Add client-side validation for Instagram contact detail field](https://github.com/hackforla/food-oasis/issues/2180)
+- [Add tooltip for LinkedIn contact detail field](https://github.com/hackforla/food-oasis/issues/2197)
+- [Change "Back to Search" link to "< Back to Results" and change color](https://github.com/hackforla/food-oasis/issues/2189)
+- [Feature: For old listings (such as >1 year old), add an indicator / warning that data may be old and out-of-date](https://github.com/hackforla/food-oasis/issues/2068)
+
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
 - [Test `test/parallel/test-runner-run.mjs` fails when run from a TTY with color support](https://github.com/nodejs/node/issues/54551)
 - [Native WebSockets in node 20](https://github.com/nodejs/node/issues/53684)
 - [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+
+## [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui)
+
+- [Share Link incorrectly gives path routed instead of subdomain routed URL.](https://github.com/ipfs/ipfs-webui/issues/2244)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Translate README.md from English to Ukrainian](https://github.com/HeyPuter/puter/issues/738)
+- [Translate README.md from English to Swedish](https://github.com/HeyPuter/puter/issues/737)
+- [Translate README.md from English to Dutch](https://github.com/HeyPuter/puter/issues/736)
+- [Translate README.md from English to Armenian](https://github.com/HeyPuter/puter/issues/735)
+- [Translate README.md from English to Hungarian](https://github.com/HeyPuter/puter/issues/734)
+- [Translate README.md from English to Finnish](https://github.com/HeyPuter/puter/issues/733)
+- [Translate README.md from English to Hebrew](https://github.com/HeyPuter/puter/issues/732)
+- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
+- [Translate README.md from English to German](https://github.com/HeyPuter/puter/issues/670)
+- [Translate README.md from English to Polish](https://github.com/HeyPuter/puter/issues/688)
+- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
+- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
 
