@@ -6,11 +6,12 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
+- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
@@ -27,46 +28,35 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+
+- [Research server agents for data collection (CPU, RAM, Disk, Temperature, etc.)](https://github.com/bluewave-labs/bluewave-uptime/issues/768)
+- [Add ntfy.sh support ](https://github.com/bluewave-labs/bluewave-uptime/issues/702)
+- [FE/BE - Realtime Data Updates](https://github.com/bluewave-labs/bluewave-uptime/issues/646)
+- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
+- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
+
+## [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
+
+- [Sources missing a license](https://github.com/osmlab/editor-layer-index/issues/439)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [How to handle text/event-stream?](https://github.com/nodejs/undici/issues/536)
+- [socketPath option is not passed to the connect function](https://github.com/nodejs/undici/issues/3486)
+- [Add a proxy server example for testing undici fetch.](https://github.com/nodejs/undici/issues/3508)
+- [fetch: wpt tests that are failing](https://github.com/nodejs/undici/issues/1666)
+- [interceptors: move `throwOnError` to interceptor](https://github.com/nodejs/undici/issues/3275)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
-## [bikehopper/bikehopper-ui](https://github.com/bikehopper/bikehopper-ui)
+## [omshub/website](https://github.com/omshub/website)
 
-- [Transit alert improvements](https://github.com/bikehopper/bikehopper-ui/issues/258)
-
-## [hackforla/food-oasis](https://github.com/hackforla/food-oasis)
-
-- [Add client-side validation for LinkedIn contact detail field](https://github.com/hackforla/food-oasis/issues/2199)
-- [Add tooltip for Instagram contact detail field](https://github.com/hackforla/food-oasis/issues/2179)
-- [Add client-side validation for Instagram contact detail field](https://github.com/hackforla/food-oasis/issues/2180)
-- [Add tooltip for LinkedIn contact detail field](https://github.com/hackforla/food-oasis/issues/2197)
-- [Change "Back to Search" link to "< Back to Results" and change color](https://github.com/hackforla/food-oasis/issues/2189)
-- [Feature: For old listings (such as >1 year old), add an indicator / warning that data may be old and out-of-date](https://github.com/hackforla/food-oasis/issues/2068)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-- [Test `test/parallel/test-runner-run.mjs` fails when run from a TTY with color support](https://github.com/nodejs/node/issues/54551)
-- [Native WebSockets in node 20](https://github.com/nodejs/node/issues/53684)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-
-## [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui)
-
-- [Share Link incorrectly gives path routed instead of subdomain routed URL.](https://github.com/ipfs/ipfs-webui/issues/2244)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Translate README.md from English to Ukrainian](https://github.com/HeyPuter/puter/issues/738)
-- [Translate README.md from English to Swedish](https://github.com/HeyPuter/puter/issues/737)
-- [Translate README.md from English to Dutch](https://github.com/HeyPuter/puter/issues/736)
-- [Translate README.md from English to Armenian](https://github.com/HeyPuter/puter/issues/735)
-- [Translate README.md from English to Hungarian](https://github.com/HeyPuter/puter/issues/734)
-- [Translate README.md from English to Finnish](https://github.com/HeyPuter/puter/issues/733)
-- [Translate README.md from English to Hebrew](https://github.com/HeyPuter/puter/issues/732)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-- [Translate README.md from English to German](https://github.com/HeyPuter/puter/issues/670)
-- [Translate README.md from English to Polish](https://github.com/HeyPuter/puter/issues/688)
-- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
+- [[FEATURE] Add text to star selections in Add Review form](https://github.com/omshub/website/issues/410)
+- [[FEATURE] Add email to website & README](https://github.com/omshub/website/issues/351)
+- [[FEATURE] Single-Review View](https://github.com/omshub/website/issues/309)
+- [[FEATURE] Add tooltip for course-stats data on landing page](https://github.com/omshub/website/issues/256)
+- [[BUG] Reset to most recent semester on new year set](https://github.com/omshub/website/issues/138)
 
