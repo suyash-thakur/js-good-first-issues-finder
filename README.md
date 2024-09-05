@@ -4,10 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [davidvargas050695/aclFeNIX](https://github.com/davidvargas050695/aclFeNIX)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [add form etc etc.. change errors](https://github.com/davidvargas050695/aclFeNIX/issues/48)
-- [add change news](https://github.com/davidvargas050695/aclFeNIX/issues/41)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -19,15 +18,14 @@ This list gets updated every day at midnight.
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Mouse pointer doesn't disappear in fullscreen videos](https://github.com/brave/brave-browser/issues/17292)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
+- [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
-- [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-- [[CI] `version` is a deprecated property of Docker Compose files](https://github.com/meshery/meshery/issues/11875)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
@@ -40,14 +38,6 @@ This list gets updated every day at midnight.
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
@@ -55,10 +45,13 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Research server agents for data collection (CPU, RAM, Disk, Temperature, etc.)](https://github.com/bluewave-labs/bluewave-uptime/issues/768)
-- [Add ntfy.sh support ](https://github.com/bluewave-labs/bluewave-uptime/issues/702)
-- [FE/BE - Realtime Data Updates](https://github.com/bluewave-labs/bluewave-uptime/issues/646)
-- [Clone a monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/512)
+- [[Bug]: doc list for sandbox pt looks funky](https://github.com/metriport/metriport/issues/2664)
+- [Allow Patient Deletion in Sandbox from Dashboard](https://github.com/metriport/metriport/issues/1592)
+- [Don't allow future dates as date of birth (dob)](https://github.com/metriport/metriport/issues/2453)
+
+## [opensearch-project/alerting-dashboards-plugin](https://github.com/opensearch-project/alerting-dashboards-plugin)
+
+- [[BUG] Query Execute Error when creating Per Document Monitor](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/538)
 
