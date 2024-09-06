@@ -4,26 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Docs] Missing li tag in extension points](https://github.com/meshery/meshery/issues/11782)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
-- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
@@ -45,13 +41,12 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [metriport/metriport](https://github.com/metriport/metriport)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [[Bug]: doc list for sandbox pt looks funky](https://github.com/metriport/metriport/issues/2664)
-- [Allow Patient Deletion in Sandbox from Dashboard](https://github.com/metriport/metriport/issues/1592)
-- [Don't allow future dates as date of birth (dob)](https://github.com/metriport/metriport/issues/2453)
+- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
 
-## [opensearch-project/alerting-dashboards-plugin](https://github.com/opensearch-project/alerting-dashboards-plugin)
+## [davidvargas050695/aclFeNIX](https://github.com/davidvargas050695/aclFeNIX)
 
-- [[BUG] Query Execute Error when creating Per Document Monitor](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/538)
+- [add form etc etc.. change errors](https://github.com/davidvargas050695/aclFeNIX/issues/48)
+- [add change news](https://github.com/davidvargas050695/aclFeNIX/issues/41)
 
