@@ -4,16 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [[CR109] Custom Filters styling not applied for Filter lists and Add custom filter lists](https://github.com/brave/brave-browser/issues/27647)
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [Test `test/parallel/test-runner-run.mjs` fails when run from a TTY with color support](https://github.com/nodejs/node/issues/54551)
+- [Native WebSockets in node 20](https://github.com/nodejs/node/issues/53684)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -36,17 +33,27 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 - [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
-## [davidvargas050695/aclFeNIX](https://github.com/davidvargas050695/aclFeNIX)
+## [vedhsaka/Nothotdog](https://github.com/vedhsaka/Nothotdog)
 
-- [add form etc etc.. change errors](https://github.com/davidvargas050695/aclFeNIX/issues/48)
-- [add change news](https://github.com/davidvargas050695/aclFeNIX/issues/41)
+- [Use relative units of sizing in css](https://github.com/vedhsaka/Nothotdog/issues/69)
+- [Update user_guide url in ReadMe](https://github.com/vedhsaka/Nothotdog/issues/98)
+- [Add hover effect on row when Set As Output is displayed in Rest API tab (response section)](https://github.com/vedhsaka/Nothotdog/issues/92)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+- [[RFC]: refactor `blas/ext/base/dsort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1497)
+- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
 
