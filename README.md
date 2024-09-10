@@ -16,6 +16,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
@@ -32,7 +33,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -42,40 +42,27 @@ This list gets updated every day at midnight.
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Replace deprecated Typography with Text component](https://github.com/MetaMask/metamask-extension/issues/17670)
-- [Fix Button Alignment of Send Button in Nft-Details](https://github.com/MetaMask/metamask-extension/issues/20050)
-- [Replace deprecated SiteOrigin component with TagUrl from the component-library](https://github.com/MetaMask/metamask-extension/issues/20489)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Add "selected" styling to active elements in the design selector.](https://github.com/WordPress/gutenberg/issues/65127)
-- [URLInput should use InputControl internally](https://github.com/WordPress/gutenberg/issues/64709)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
-- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
+- [[RFC]: add `@stdlib/iter/cusome-by`](https://github.com/stdlib-js/stdlib/issues/2338)
+- [[RFC]: add `@stdlib/assert/is-same-accessor-array`](https://github.com/stdlib-js/stdlib/issues/2888)
+- [[RFC]: add `@stdlib/fs/resolve-parent-paths-by`](https://github.com/stdlib-js/stdlib/issues/2567)
+- [[RFC]: add `@stdlib/assert/is-same-typed-array-like`](https://github.com/stdlib-js/stdlib/issues/2887)
+- [[RFC]: add `assert/is-same-array-like-object`](https://github.com/stdlib-js/stdlib/issues/2886)
+- [[RFC]: add `@stdlib/iter/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2335)
+- [[RFC]: add `@stdlib/array/base/cuany-by`](https://github.com/stdlib-js/stdlib/issues/2323)
+- [[RFC]: refactor `blas/ext/base/dsort2sh` to follow current project conventions](https://github.com/stdlib-js/stdlib/issues/1497)
+- [[RFC]: add `@stdlib/array/base/cusome-by-right`](https://github.com/stdlib-js/stdlib/issues/2330)
 
-## [bitfocus/companion](https://github.com/bitfocus/companion)
+## [omshub/website](https://github.com/omshub/website)
 
-- [Export notes](https://github.com/bitfocus/companion/issues/1711)
-- [[Feature] Filter dropdown options based on other dropdown selections](https://github.com/bitfocus/companion/issues/1635)
-- [A "notes" section in the button editor](https://github.com/bitfocus/companion/issues/760)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [draggable.DragZone: onAfterDragStart()](https://github.com/neomjs/neo/issues/1504)
-- [dialog.Base: title => title_ config](https://github.com/neomjs/neo/issues/1542)
-- [SharedDialog.view.MainContainerController: enhance the demo to support gaps between windows](https://github.com/neomjs/neo/issues/1735)
-- [Textarea field resize should be anchored to top/left](https://github.com/neomjs/neo/issues/2117)
-- [examples/tableFiltering: typing into the country filter field can cause JS errors](https://github.com/neomjs/neo/issues/2146)
-- [Learning Section / Wiki](https://github.com/neomjs/neo/issues/2776)
-- [Overhaul the Neo.mjs roadmap](https://github.com/neomjs/neo/issues/3145)
-- [examples/README.md update](https://github.com/neomjs/neo/issues/3540)
-- [neo theme files: auto-generate css vars](https://github.com/neomjs/neo/issues/3604)
-- [buildScripts/createClass: guessBaseClass() => add container.Viewport](https://github.com/neomjs/neo/issues/3623)
-- [worker.App: webpack magic comments](https://github.com/neomjs/neo/issues/4969)
-- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
+- [[FEATURE] Add text to star selections in Add Review form](https://github.com/omshub/website/issues/410)
+- [[FEATURE] Add email to website & README](https://github.com/omshub/website/issues/351)
+- [[FEATURE] Single-Review View](https://github.com/omshub/website/issues/309)
+- [[FEATURE] Add tooltip for course-stats data on landing page](https://github.com/omshub/website/issues/256)
+- [[BUG] Reset to most recent semester on new year set](https://github.com/omshub/website/issues/138)
 
