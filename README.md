@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Wartets/N-Body-Problem](https://github.com/Wartets/N-Body-Problem)
+
+- [[1.1.2:Suggestion} - Various interface support](https://github.com/Wartets/N-Body-Problem/issues/17)
+- [[v1.0.0:Bug] - Zoom problem](https://github.com/Wartets/N-Body-Problem/issues/1)
+- [[1.1.2:Bug] - Terms that don't translate](https://github.com/Wartets/N-Body-Problem/issues/15)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
@@ -16,8 +22,9 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+- [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
@@ -40,19 +47,4 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [draggable.DragZone: onAfterDragStart()](https://github.com/neomjs/neo/issues/1504)
-- [dialog.Base: title => title_ config](https://github.com/neomjs/neo/issues/1542)
-- [SharedDialog.view.MainContainerController: enhance the demo to support gaps between windows](https://github.com/neomjs/neo/issues/1735)
-- [Textarea field resize should be anchored to top/left](https://github.com/neomjs/neo/issues/2117)
-- [examples/tableFiltering: typing into the country filter field can cause JS errors](https://github.com/neomjs/neo/issues/2146)
-- [Learning Section / Wiki](https://github.com/neomjs/neo/issues/2776)
-- [Overhaul the Neo.mjs roadmap](https://github.com/neomjs/neo/issues/3145)
-- [examples/README.md update](https://github.com/neomjs/neo/issues/3540)
-- [neo theme files: auto-generate css vars](https://github.com/neomjs/neo/issues/3604)
-- [buildScripts/createClass: guessBaseClass() => add container.Viewport](https://github.com/neomjs/neo/issues/3623)
-- [worker.App: webpack magic comments](https://github.com/neomjs/neo/issues/4969)
-- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
 
