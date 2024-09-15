@@ -4,13 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Wartets/N-Body-Problem](https://github.com/Wartets/N-Body-Problem)
+
+- [[1.1.2:Suggestion] - Various interface support](https://github.com/Wartets/N-Body-Problem/issues/17)
+- [[v1.0.0:Bug] - Zoom problem](https://github.com/Wartets/N-Body-Problem/issues/1)
+- [[1.1.2:Bug] - Terms that don't translate](https://github.com/Wartets/N-Body-Problem/issues/15)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/23/2024](https://github.com/meshery/meshery/issues/12010)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
@@ -28,6 +34,12 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Catalog] Publish iscsi](https://github.com/meshery/meshery/issues/9287)
 
+## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
+
+- [Help New Teams With Multiple Programmers Learn About Github](https://github.com/wpilibsuite/frc-docs/issues/2634)
+- [Update Status Light Reference for the CTRE Devices](https://github.com/wpilibsuite/frc-docs/issues/2659)
+- [Addressable LED Cleanup](https://github.com/wpilibsuite/frc-docs/issues/2322)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
@@ -35,16 +47,4 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/13896)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/13892)
-- [[ACTION] App: cloudconvert - Wait for completion + Get output file url](https://github.com/PipedreamHQ/pipedream/issues/13706)
-- [[ACTIONS] Eleven Labs - Projects APIs](https://github.com/PipedreamHQ/pipedream/issues/12909)
-- [[ACTION] Create Linear Project and optionally assign project template](https://github.com/PipedreamHQ/pipedream/issues/12942)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
