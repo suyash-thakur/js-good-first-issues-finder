@@ -34,12 +34,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 
-## [CGallardo98/CodeNet](https://github.com/CGallardo98/CodeNet)
-
-- [Página inicial - Tabs](https://github.com/CGallardo98/CodeNet/issues/6)
-- [Página inicial - Tarjetas](https://github.com/CGallardo98/CodeNet/issues/4)
-- [Página inicial - footer](https://github.com/CGallardo98/CodeNet/issues/3)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
@@ -48,28 +42,9 @@ This list gets updated every day at midnight.
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Button: Replace remaining 40px default size violations](https://github.com/WordPress/gutenberg/issues/65018)
-- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
-- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
-- [Add "selected" styling to active elements in the design selector.](https://github.com/WordPress/gutenberg/issues/65127)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
-- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Block Registration: add SlotFill to extend a block's description](https://github.com/WordPress/gutenberg/issues/49887)
-
-## [ourcodeinc/ActiveDocumentation-webapp](https://github.com/ourcodeinc/ActiveDocumentation-webapp)
-
-- [[UI] Add file names to snippets.](https://github.com/ourcodeinc/ActiveDocumentation-webapp/issues/5)
-- [[RulePad][UI] The save feature for file/folder selector is not visible for users.](https://github.com/ourcodeinc/ActiveDocumentation-webapp/issues/33)
-- [[UI] Add a description for All Rules page](https://github.com/ourcodeinc/ActiveDocumentation-webapp/issues/12)
+- [next/link prefixing urls with / only on client side](https://github.com/vercel/next.js/issues/19922)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
