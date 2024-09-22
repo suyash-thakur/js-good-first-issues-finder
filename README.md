@@ -4,17 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
-
-- [FE/BE - Realtime Data Updates](https://github.com/bluewave-labs/bluewave-uptime/issues/646)
-- [Add ntfy.sh support ](https://github.com/bluewave-labs/bluewave-uptime/issues/702)
-- [Research server agents for data collection (CPU, RAM, Disk, Temperature, etc.)](https://github.com/bluewave-labs/bluewave-uptime/issues/768)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
-- [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
@@ -38,18 +32,21 @@ This list gets updated every day at midnight.
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 - [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
-## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
+## [Wartets/N-Body-Problem](https://github.com/Wartets/N-Body-Problem)
 
-- [[DevEx]: Configure eslint rule to require space in front of comments](https://github.com/cuttle-cards/cuttle/issues/1050)
-- [[DevEx]: Configure eslint array-bracket-spacing and object-curly-spacing to enforce whitespace](https://github.com/cuttle-cards/cuttle/issues/1049)
-- [[Bug]: Jacks cover up their target point cards on mobile devices in portrait orientation](https://github.com/cuttle-cards/cuttle/issues/1029)
-- [[DevEx]: rename the `api/helpers/gamestate` folder to `api/helpers/gameStates`](https://github.com/cuttle-cards/cuttle/issues/1028)
-- [[Feature]: Rename `MoveType.FACECARD` to `MoveType.FACE_CARD` and `MoveType.SEVEN_FACECARD` to `MoveType.SEVEN_FACE_CARD`](https://github.com/cuttle-cards/cuttle/issues/1027)
-- [[DevEx]: Replace references to `this.game` with `this.gameStore` in GameView.vue](https://github.com/cuttle-cards/cuttle/issues/1023)
-- [[Feature]: Reveal the opponent's hand when the deck is exhausted](https://github.com/cuttle-cards/cuttle/issues/1022)
-- [[DevEx]: Configure eslint rule: newline-per-chained-call](https://github.com/cuttle-cards/cuttle/issues/1019)
-- [[Feature]: Request game list on socket reconnect](https://github.com/cuttle-cards/cuttle/issues/1012)
-- [[Feature]: Add robots.txt and add a canonical link to the Signup page](https://github.com/cuttle-cards/cuttle/issues/929)
+- [[1.1.2:Bug] - Terms that don't translate](https://github.com/Wartets/N-Body-Problem/issues/15)
+- [[1.1.2:Suggestion] - Various interface support](https://github.com/Wartets/N-Body-Problem/issues/17)
+- [[v1.0.0:Bug] - Zoom problem](https://github.com/Wartets/N-Body-Problem/issues/1)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
+- [Button: Replace remaining 40px default size violations](https://github.com/WordPress/gutenberg/issues/65018)
+- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
+- [Add "selected" styling to active elements in the design selector.](https://github.com/WordPress/gutenberg/issues/65127)
+- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
 
