@@ -4,6 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
+- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
+- [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
@@ -28,25 +39,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-
-## [Wartets/N-Body-Problem](https://github.com/Wartets/N-Body-Problem)
-
-- [[1.1.2:Bug] - Terms that don't translate](https://github.com/Wartets/N-Body-Problem/issues/15)
-- [[1.1.2:Suggestion] - Various interface support](https://github.com/Wartets/N-Body-Problem/issues/17)
-- [[v1.0.0:Bug] - Zoom problem](https://github.com/Wartets/N-Body-Problem/issues/1)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
-- [Button: Replace remaining 40px default size violations](https://github.com/WordPress/gutenberg/issues/65018)
-- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
-- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
-- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
-- [Add "selected" styling to active elements in the design selector.](https://github.com/WordPress/gutenberg/issues/65127)
-- [Social icons without a link are invisible](https://github.com/WordPress/gutenberg/issues/55543)
-- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
 
