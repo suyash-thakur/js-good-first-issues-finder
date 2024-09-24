@@ -4,6 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [Increase history length of flight recorder ](https://github.com/Agoric/agoric-sdk/issues/8425)
+- [Add test to x/swingset covering swing-store export data updates](https://github.com/Agoric/agoric-sdk/issues/8338)
+- [`agd export` option for diagnosis](https://github.com/Agoric/agoric-sdk/issues/8420)
+- [Clean up deprecated cosmos-sdk 0.46 API usage](https://github.com/Agoric/agoric-sdk/issues/8803)
+- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
@@ -17,6 +25,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/23/2024](https://github.com/meshery/meshery/issues/12104)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
