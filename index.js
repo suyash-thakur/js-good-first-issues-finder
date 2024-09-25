@@ -1,21 +1,20 @@
+// Import required modules
 const axios = require('axios');
 const fs = require('fs');
 const env = require('dotenv');
 const Markdown = require('markdown-to-html').Markdown;
 
+// Load environment variables
 env.config();
 
+// Define constants
 const API_URL = 'https://api.github.com';
 const TOKEN = process.env.API_KEY;
 const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 30;
 const WAIT_TIME = 1000;
 
-/**
- * Get repositories from GitHub API.
- * @param {number} page Page number
- * @returns {Promise} Promise with repositories
- */
+// Function to get JavaScript repositories from GitHub API
 const getJavascriptRepos = async (page) => {
   try {
     const response = await axios.get(`${API_URL}/search/repositories`, {
@@ -29,14 +28,7 @@ const getJavascriptRepos = async (page) => {
   }
 };
 
-
-
-/**
- * Fetches issues from a repository
- * @param {object} repo - The repository object
- * @returns {array} - The issues array
- */
-
+// Function to fetch issues from a repository
 const getFilteredIssues = async (repo) => {
   try {
     const response = await axios.get(`${API_URL}/repos/${repo.full_name}/issues`, {
@@ -57,7 +49,7 @@ const getFilteredIssues = async (repo) => {
   }
 };
 
-
+// Function to get good first issues
 const getGoodFirstIssues = async () => {
   try {
     let goodFirstIssues = [];
@@ -85,6 +77,7 @@ const getGoodFirstIssues = async () => {
       await new Promise(resolve => setTimeout(resolve, WAIT_TIME));
     }
 
+    // Generate Markdown content
     let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
     markdown += `This list gets updated every day at midnight.\n\n`;
 
@@ -96,17 +89,11 @@ const getGoodFirstIssues = async () => {
       markdown += '\n';
     }
 
+    // Write Markdown content to file
     fs.writeFileSync('README.md', markdown);
-  } catch (error) {
-    console.error(`An error occurred: ${error.message}`);
-    process.exit();
-  }
-};
 
-const convertToHtml = async () => {
-  try {
+    // Convert Markdown to HTML
     const md = new Markdown();
-
     md.render('README.md', {
       title: 'Good Javascript First Issues',
       highlight: true,
@@ -117,17 +104,12 @@ const convertToHtml = async () => {
       if (err) {
         throw err;
       }
-      md.pipe(fs.createWriteStream('index.html'));
+      md.pipe(fs.createWriteStream ('index.html'));
     });
-  } catch (e) {
-    console.error('>>>' + e);
-    process.exit();
+  } catch (error) {
+    console.error('Failed to generate good first issues:', error.message);
   }
 };
 
-const main = async () => {
-  await getGoodFirstIssues();
-  await convertToHtml();
-};
-
-main();
+// Run the script
+getGoodFirstIssues();
