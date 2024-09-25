@@ -1,111 +1,95 @@
-/* Style for the entire page */
 body {
-    background-color: #f9f9f9;
-    color: #444444;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
+    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 10px;
-    }
-    
-    /* Style for the page title */
-    h1 {
-    font-size: 48px;
-    font-weight: bold;
-    margin: 40px 0;
+    padding: 0;
+    background-color: #f7f7f7; /* Light gray background */
+    font-size: 24px; /* Increased font size for the body */
+  }
+  
+  header {
+    background-color: #4CAF50; /* Green background for header */
+    color: #fff;
+    padding: 20px;
     text-align: center;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    /* Style for the section headings */
-    h2 {
-    font-size: 36px;
-    margin: 40px 0 20px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    /* Style for the links */
-    a {
-    color: #2b9af3;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  h1 {
+    font-size: 48px; /* Increased font size for h1 */
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  section {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 36px; /* Increased font size for h2 */
+    margin-top: 0;
+    color: #337ab7;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    font-size: 24px; /* Increased font size for p */
+    color: #666;
+  }
+  
+  a {
+    color: #337ab7;
     text-decoration: none;
-    transition: all 0.3s ease;
-    }
-    
-    a:hover {
-    color: #1663b3;
+    font-size: 24px; /* Increased font size for a */
+  }
+  
+  a:hover {
+    color: #23527c;
     text-decoration: underline;
+  }
+  
+  .icon {
+    font-size: 36px; /* Increased font size for icon */
+    margin-right: 10px;
+    color: #337ab7;
+  }
+  
+  /* Add some CSS animations to make the page more engaging */
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
     }
-    
-    /* Style for the lists */
-    ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    100% {
+      opacity: 1;
     }
-    
-    li {
-    margin: 10px 0;
-    }
-    
-    /* Style for the paragraphs */
-    p {
-    margin: 20px 0;
-    text-align: justify;
-    }
-    
-    /* Style for the code blocks */
-    code {
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    color: #444444;
-    font-family: Consolas, monospace;
-    font-size: 14px;
-    padding: 2px 4px;
-    }
-    
-    pre code {
-    background-color: transparent;
-    border-radius: 0;
-    padding: 0;
-    }
-    
-    /* Style for the GitHub markdown */
-    .markdown-body {
-    box-sizing: border-box;
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 45px;
-    }
-    
-    /* Style for the header link */
-    .markdown-body h2 a {
-    color: #2b9af3;
-    text-decoration: none;
-    }
-    
-    .markdown-body h2 a:hover {
-    color: #1663b3;
-    text-decoration: underline;
-    }
-    
-    /* Style for the header link when focused */
-    .markdown-body h2 a:focus {
-    background-color: #f5f5f5;
-    outline: none;
-    }
-    
-    /* Style for the selected list item */
-    .markdown-body li.selected {
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    padding: 5px;
-    }
-    
-    .markdown-body li.selected a {
-    color: #2b9af3;
-    }
-    
-    .markdown-body li.selected a:hover {
-    text-decoration: none;
-    }
+  }
+  
+  main {
+    animation: fade-in 1s;
+  }
+  
+  section {
+    animation: fade-in 1.5s;
+  }
+  
+  /* Add some hover effects to make the page more interactive */
+  section:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+  }
+  
+  a:hover {
+    transform: translateY(2px);
+  }
