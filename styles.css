@@ -1,111 +1,166 @@
-/* Style for the entire page */
+/* Base Styles */
 body {
-    background-color: #f9f9f9;
-    color: #444444;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    margin: 0;
-    padding: 10px;
-    }
-    
-    /* Style for the page title */
-    h1 {
-    font-size: 48px;
-    font-weight: bold;
-    margin: 40px 0;
-    text-align: center;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    /* Style for the section headings */
-    h2 {
-    font-size: 36px;
-    margin: 40px 0 20px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    /* Style for the links */
-    a {
-    color: #2b9af3;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    }
-    
-    a:hover {
-    color: #1663b3;
-    text-decoration: underline;
-    }
-    
-    /* Style for the lists */
-    ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    }
-    
-    li {
-    margin: 10px 0;
-    }
-    
-    /* Style for the paragraphs */
-    p {
-    margin: 20px 0;
-    text-align: justify;
-    }
-    
-    /* Style for the code blocks */
-    code {
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    color: #444444;
-    font-family: Consolas, monospace;
-    font-size: 14px;
-    padding: 2px 4px;
-    }
-    
-    pre code {
-    background-color: transparent;
-    border-radius: 0;
-    padding: 0;
-    }
-    
-    /* Style for the GitHub markdown */
-    .markdown-body {
-    box-sizing: border-box;
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 45px;
-    }
-    
-    /* Style for the header link */
-    .markdown-body h2 a {
-    color: #2b9af3;
-    text-decoration: none;
-    }
-    
-    .markdown-body h2 a:hover {
-    color: #1663b3;
-    text-decoration: underline;
-    }
-    
-    /* Style for the header link when focused */
-    .markdown-body h2 a:focus {
-    background-color: #f5f5f5;
-    outline: none;
-    }
-    
-    /* Style for the selected list item */
-    .markdown-body li.selected {
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    padding: 5px;
-    }
-    
-    .markdown-body li.selected a {
-    color: #2b9af3;
-    }
-    
-    .markdown-body li.selected a:hover {
-    text-decoration: none;
-    }
+  background-color: #f3f6f9;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;  /* Increased base font size */
+  line-height: 1.8;  /* Adjusted line height for readability */
+  margin: 0;
+  padding: 20px;
+}
+
+/* Page Header */
+header {
+  text-align: center;
+  padding: 30px;
+  background-color: #2b9af3;
+  color: white;
+  border-bottom: 4px solid #1663b3;
+}
+
+h1 {
+  font-size: 56px;  /* Increased font size for main title */
+  font-weight: 700;
+  margin: 0;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Main Content */
+main {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+p {
+  margin: 20px 0;
+  text-align: justify;
+  font-size: 22px;  /* Increased paragraph font size */
+}
+
+/* Section Styling */
+section {
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 40px;  /* Increased font size for section titles */
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #1663b3;
+  border-bottom: 2px solid #2b9af3;
+  padding-bottom: 10px;
+}
+
+/* Links Styling */
+a {
+  color: #2b9af3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 22px;  /* Increased font size for links */
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a:hover {
+  color: #104c80;
+  text-decoration: underline;
+}
+
+/* List Styling */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+  padding: 12px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #2b9af3;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+  font-size: 22px;  /* Increased font size for list items */
+}
+
+li:hover {
+  background-color: #eef6fc;
+}
+
+/* Code Blocks */
+code {
+  background-color: #e8eef3;
+  border-radius: 4px;
+  color: #2b2b2b;
+  font-family: Consolas, "Courier New", monospace;
+  padding: 6px 12px;
+  font-size: 18px;  /* Increased font size for code */
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Markdown Body Styling */
+.markdown-body {
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+.markdown-body h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body h2 a:hover {
+  text-decoration: underline;
+}
+
+/* Selected List Item */
+.markdown-body li.selected {
+  background-color: #eef6fc;
+  border-left: 4px solid #1663b3;
+}
+
+.markdown-body li.selected a {
+  color: #1663b3;
+}
+
+.markdown-body li.selected a:hover {
+  text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+      padding: 10px;
+  }
+
+  h1 {
+      font-size: 40px;  /* Adjusted for mobile */
+  }
+
+  h2 {
+      font-size: 28px;  /* Adjusted for mobile */
+  }
+
+  p {
+      font-size: 20px;  /* Adjusted for mobile */
+  }
+
+  main {
+      padding: 15px;
+  }
+
+  a {
+      font-size: 20px;  /* Adjusted for mobile */
+  }
+
+  li {
+      font-size: 20px;  /* Adjusted for mobile */
+  }
+}
