@@ -4,24 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Update "Quick commands" to be "Quick Commands" - follow up to #36777](https://github.com/brave/brave-browser/issues/36845)
+- [Clean up deprecated cosmos-sdk 0.47 API usage](https://github.com/Agoric/agoric-sdk/issues/8804)
+- [Increase history length of flight recorder ](https://github.com/Agoric/agoric-sdk/issues/8425)
+- [Add test to x/swingset covering swing-store export data updates](https://github.com/Agoric/agoric-sdk/issues/8338)
+- [`agd export` option for diagnosis](https://github.com/Agoric/agoric-sdk/issues/8420)
+- [Clean up deprecated cosmos-sdk 0.46 API usage](https://github.com/Agoric/agoric-sdk/issues/8803)
+- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/23/2024](https://github.com/meshery/meshery/issues/12104)
-- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
+- [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
 - [Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
+- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/23/2024](https://github.com/meshery/meshery/issues/12104)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
@@ -39,13 +38,11 @@ This list gets updated every day at midnight.
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-- [[mesheryctl] `exp connections` needs update in Long and short description.](https://github.com/meshery/meshery/issues/11311)
-- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
+- [Modules: node:module API > Customization Hooks > Examples > Import from HTTPS](https://github.com/nodejs/node/issues/55091)
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
 
