@@ -4,35 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [mozilla/rhino](https://github.com/mozilla/rhino)
+## [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-- [Issue with BigInt.asUintN](https://github.com/mozilla/rhino/issues/1573)
-- [Support ES2021 WeakRef & FinalizationRegistry](https://github.com/mozilla/rhino/issues/943)
-- [ES2015 Object.assign doesn't copy over (own) symbol properties](https://github.com/mozilla/rhino/issues/1391)
-- [ES2015 Issue with Template Literal Object > string substitution](https://github.com/mozilla/rhino/issues/1406)
-
-## [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS)
-
-- [BedrockChat Langchain Custom Integration not working](https://github.com/kaiban-ai/KaibanJS/issues/81)
-- [Add ESLint and Prettier Configuration to Project](https://github.com/kaiban-ai/KaibanJS/issues/69)
-
-## [facebook/stylex](https://github.com/facebook/stylex)
-
-- [[Bug] Properties not recognized by eslint-plugin](https://github.com/facebook/stylex/issues/135)
-- [Rspack plugin support](https://github.com/facebook/stylex/issues/172)
+- [Create confirmation dialogs for "Clear all stats" and "Remove all monitors"](https://github.com/bluewave-labs/bluewave-uptime/issues/901)
+- [Research server agents for data collection (CPU, RAM, Disk, Temperature, etc.)](https://github.com/bluewave-labs/bluewave-uptime/issues/768)
+- [Check if endpoint URL resolves before adding the monitor](https://github.com/bluewave-labs/bluewave-uptime/issues/513)
+- [FE/BE - Realtime Data Updates](https://github.com/bluewave-labs/bluewave-uptime/issues/646)
+- [Add ntfy.sh support ](https://github.com/bluewave-labs/bluewave-uptime/issues/702)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
 - [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Models][UX]: Design Icon for ArgoCD Component - Application Set](https://github.com/meshery/meshery/issues/10292)
+- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[UI] Make the json data foramtted into design card](https://github.com/meshery/meshery/issues/12220)
+- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
+- [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
@@ -53,5 +55,19 @@ This list gets updated every day at midnight.
 - [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
-- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [[Catalog] Generate Model for Azure architectural icons](https://github.com/meshery/meshery.io/issues/1911)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+
+## [StevenEgnaczyk/DatabaseD](https://github.com/StevenEgnaczyk/DatabaseD)
+
+- [Create a logo for DataBaseD](https://github.com/StevenEgnaczyk/DatabaseD/issues/7)
+- [Style the sign-in with page](https://github.com/StevenEgnaczyk/DatabaseD/issues/9)
+- [Design Mock-Up for the File Upload Pop-Up](https://github.com/StevenEgnaczyk/DatabaseD/issues/3)
+- [Research on Database for storing files](https://github.com/StevenEgnaczyk/DatabaseD/issues/1)
 
