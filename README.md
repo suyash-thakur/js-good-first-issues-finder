@@ -6,6 +6,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
@@ -26,7 +27,6 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
-- [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
@@ -35,5 +35,12 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [[Catalog] Generate Model for Azure architectural icons](https://github.com/meshery/meshery.io/issues/1911)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
