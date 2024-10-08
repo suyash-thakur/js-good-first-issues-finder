@@ -4,6 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [NiranjanKumar001/iPhone16Pro](https://github.com/NiranjanKumar001/iPhone16Pro)
+
+- [design a proper 3d model of iPhone 16 Pro ](https://github.com/NiranjanKumar001/iPhone16Pro/issues/3)
+- [Footer enhancement](https://github.com/NiranjanKumar001/iPhone16Pro/issues/13)
+- [Adding Suitable Navigation Links](https://github.com/NiranjanKumar001/iPhone16Pro/issues/10)
+- [fixing highlight section video carousel responsiveness](https://github.com/NiranjanKumar001/iPhone16Pro/issues/6)
+- [Navbar with hero section fix.](https://github.com/NiranjanKumar001/iPhone16Pro/issues/4)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
@@ -18,10 +26,10 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
-- [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
 - [[UI] Make the json data foramtted into design card](https://github.com/meshery/meshery/issues/12220)
 - [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
@@ -46,19 +54,4 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-
-## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
-
-- [Help New Teams With Multiple Programmers Learn About Github](https://github.com/wpilibsuite/frc-docs/issues/2634)
-- [Update Status Light Reference for the CTRE Devices](https://github.com/wpilibsuite/frc-docs/issues/2659)
-- [Addressable LED Cleanup](https://github.com/wpilibsuite/frc-docs/issues/2322)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-- [[Catalog] Generate Model for Azure architectural icons](https://github.com/meshery/meshery.io/issues/1911)
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
