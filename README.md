@@ -4,14 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [NiranjanKumar001/iPhone16Pro](https://github.com/NiranjanKumar001/iPhone16Pro)
-
-- [design a proper 3d model of iPhone 16 Pro ](https://github.com/NiranjanKumar001/iPhone16Pro/issues/3)
-- [Footer enhancement](https://github.com/NiranjanKumar001/iPhone16Pro/issues/13)
-- [Adding Suitable Navigation Links](https://github.com/NiranjanKumar001/iPhone16Pro/issues/10)
-- [fixing highlight section video carousel responsiveness](https://github.com/NiranjanKumar001/iPhone16Pro/issues/6)
-- [Navbar with hero section fix.](https://github.com/NiranjanKumar001/iPhone16Pro/issues/4)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
@@ -27,6 +19,7 @@ This list gets updated every day at midnight.
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `enviornment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
@@ -41,7 +34,6 @@ This list gets updated every day at midnight.
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
-- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
@@ -54,4 +46,17 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [Rspack plugin support](https://github.com/facebook/stylex/issues/172)
+- [[Bug] Properties not recognized by eslint-plugin](https://github.com/facebook/stylex/issues/135)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Catalog] Generate Model for Azure architectural icons](https://github.com/meshery/meshery.io/issues/1911)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
