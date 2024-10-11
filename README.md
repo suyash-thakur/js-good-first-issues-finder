@@ -6,15 +6,16 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 - [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
 - [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 - [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
