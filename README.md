@@ -4,18 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [mozilla/rhino](https://github.com/mozilla/rhino)
 
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
+- [please support java class access, eg: java.lang.Object.class](https://github.com/mozilla/rhino/issues/757)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -46,5 +37,20 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
-- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [[Catalog] Generate Model for Azure architectural icons](https://github.com/meshery/meshery.io/issues/1911)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 
