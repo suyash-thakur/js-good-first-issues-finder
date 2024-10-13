@@ -4,9 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [mozilla/rhino](https://github.com/mozilla/rhino)
+## [ATHARVA262005/GDG-On-Campus-Certificate-Maker](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker)
 
-- [please support java class access, eg: java.lang.Object.class](https://github.com/mozilla/rhino/issues/757)
+- [Add Live Preview of Certificate](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/3)
+- [Store Generated Certificates in Database](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/1)
+- [Generate Verification URL with Unique Certificate ID](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/2)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -34,9 +36,6 @@ This list gets updated every day at midnight.
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -46,11 +45,11 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
+
+## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+
+- [Adding Multiple Restaurants](https://github.com/osmlab/name-suggestion-index/issues/8045)
 
