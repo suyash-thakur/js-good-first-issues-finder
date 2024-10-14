@@ -4,14 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ATHARVA262005/GDG-On-Campus-Certificate-Maker](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add Live Preview of Certificate](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/3)
-- [Store Generated Certificates in Database](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/1)
-- [Generate Verification URL with Unique Certificate ID](https://github.com/ATHARVA262005/GDG-On-Campus-Certificate-Maker/issues/2)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
+- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
+- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [[BYOM]: Allow setting a custom max context size for custom models](https://github.com/brave/brave-browser/issues/41167)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [[BYOM]: Allow users to set system prompt](https://github.com/brave/brave-browser/issues/40690)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[mesheryctl] `environment create ` command panic error](https://github.com/meshery/meshery/issues/11314)
 - [[Docs] Tutorials : Organizing Tutorial Screenshots](https://github.com/meshery/meshery/issues/11805)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
@@ -29,13 +37,11 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
-- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/30/2024](https://github.com/meshery/meshery/issues/12011)
 - [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using `mesheryctl`](https://github.com/meshery/meshery/issues/10458)
-- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -45,11 +51,11 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- ["Add Image" button is missing on mobile implementation ](https://github.com/jellyfin/jellyfin-web/issues/5426)
-
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-
-- [Adding Multiple Restaurants](https://github.com/osmlab/name-suggestion-index/issues/8045)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 
