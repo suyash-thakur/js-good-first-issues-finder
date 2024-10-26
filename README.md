@@ -4,28 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
+- [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
+- [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-- [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-- [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
-- [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
