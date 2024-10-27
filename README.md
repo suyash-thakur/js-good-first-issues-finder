@@ -4,8 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+
+- [ISSUE: image impression on the header background](https://github.com/multiverseweb/CodeIt/issues/171)
+- [Improving Navbar UI in dark mode](https://github.com/multiverseweb/CodeIt/issues/66)
+- [Changing the Register Msg](https://github.com/multiverseweb/CodeIt/issues/182)
+- [Enhance The footer of the website](https://github.com/multiverseweb/CodeIt/issues/122)
+- [presentation better](https://github.com/multiverseweb/CodeIt/pull/92)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
 - [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
@@ -17,7 +26,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
 - [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
-- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
