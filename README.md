@@ -4,18 +4,42 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [multiverseweb/CodeIt](https://github.com/multiverseweb/CodeIt)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [ISSUE: image impression on the header background](https://github.com/multiverseweb/CodeIt/issues/171)
-- [Improving Navbar UI in dark mode](https://github.com/multiverseweb/CodeIt/issues/66)
-- [Changing the Register Msg](https://github.com/multiverseweb/CodeIt/issues/182)
-- [Enhance The footer of the website](https://github.com/multiverseweb/CodeIt/issues/122)
-- [presentation better](https://github.com/multiverseweb/CodeIt/pull/92)
+- [Add Transformation from Separator to Spacer](https://github.com/WordPress/gutenberg/issues/65492)
+- [Latest Post block having spacing issue when we change post content from "Excerpt" to "Full Post"](https://github.com/WordPress/gutenberg/issues/66412)
+- [Scripts: Enhance the way entry points are detected in projects consisting of blocks and editor plugins](https://github.com/WordPress/gutenberg/issues/55936)
+- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
+- [l10n: Make percentage values ​​translatable](https://github.com/WordPress/gutenberg/issues/66298)
+- [Don't render tools control when getRenderingMode is set to post-only](https://github.com/WordPress/gutenberg/issues/65678)
+- [Standardize link text and URL terminology across the editor](https://github.com/WordPress/gutenberg/issues/59993)
+- [Add "selected" styling to active elements in the design selector.](https://github.com/WordPress/gutenberg/issues/65127)
+- [Move navigation error state to the inspector](https://github.com/WordPress/gutenberg/issues/44486)
+- [Social Icons: placeholder styles are broken, don't correspond to the real thing](https://github.com/WordPress/gutenberg/issues/55296)
+- [Focus ring doesn't match button Site Hub Icon size](https://github.com/WordPress/gutenberg/issues/61339)
+- [Please keep ending spaced out of translatable strings](https://github.com/WordPress/gutenberg/issues/59821)
+- [Block inserter doesn't show that some blocks are disabled](https://github.com/WordPress/gutenberg/issues/17235)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
+- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
+- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
+- [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
 - [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
+- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
+- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
@@ -23,7 +47,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
 - [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
@@ -43,7 +66,6 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
