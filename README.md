@@ -4,25 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [codeaashu/DevDisplay](https://github.com/codeaashu/DevDisplay)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [[style]: Redesign Sidebar for Better UI/UX](https://github.com/codeaashu/DevDisplay/issues/95)
-- [Add Your Profile On - DevDisplay  ( Easiest way to contribute )](https://github.com/codeaashu/DevDisplay/issues/111)
-- [Add a New Features - "Tech Resouorces" page](https://github.com/codeaashu/DevDisplay/issues/109)
-- [[Feat]: Improve Pagination Experience with Loading Animation](https://github.com/codeaashu/DevDisplay/issues/105)
+- [[Design] Create a design for recognition stages](https://github.com/layer5labs/meshery-extensions-packages/issues/158)
+- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
 
-## [peterphann/aggieseek](https://github.com/peterphann/aggieseek)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Reimplement main dashboard table](https://github.com/peterphann/aggieseek/issues/36)
-- [Accounts with missing information hang in settings](https://github.com/peterphann/aggieseek/issues/42)
-- [Create screen designs for mobile app](https://github.com/peterphann/aggieseek/issues/37)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -40,8 +36,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
+- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
 - [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
@@ -70,15 +66,4 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
 
