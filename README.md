@@ -16,24 +16,6 @@ This list gets updated every day at midnight.
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
@@ -66,4 +48,11 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
+- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 
