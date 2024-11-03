@@ -4,11 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[Design] Create a design for recognition stages](https://github.com/layer5labs/meshery-extensions-packages/issues/158)
-- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
@@ -48,11 +43,4 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 
