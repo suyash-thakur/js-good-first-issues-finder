@@ -4,6 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [StevenEgnaczyk/DatabaseD](https://github.com/StevenEgnaczyk/DatabaseD)
+
+- [File Not Found Screen Issue](https://github.com/StevenEgnaczyk/DatabaseD/issues/96)
+- [Change formatting on filter dropdowns](https://github.com/StevenEgnaczyk/DatabaseD/issues/101)
+- [BUG: Page routing system doesn't work properly with no file search results](https://github.com/StevenEgnaczyk/DatabaseD/issues/102)
+- [Look at NextUI -- Use their menu and loading ](https://github.com/StevenEgnaczyk/DatabaseD/issues/75)
+- [Add in a "Forgot Password?" Screen](https://github.com/StevenEgnaczyk/DatabaseD/issues/40)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
@@ -43,18 +51,4 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 
