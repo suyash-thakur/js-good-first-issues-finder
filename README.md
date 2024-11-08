@@ -4,20 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [StevenEgnaczyk/DatabaseD](https://github.com/StevenEgnaczyk/DatabaseD)
-
-- [File Not Found Screen Issue](https://github.com/StevenEgnaczyk/DatabaseD/issues/96)
-- [Change formatting on filter dropdowns](https://github.com/StevenEgnaczyk/DatabaseD/issues/101)
-- [BUG: Page routing system doesn't work properly with no file search results](https://github.com/StevenEgnaczyk/DatabaseD/issues/102)
-- [Look at NextUI -- Use their menu and loading ](https://github.com/StevenEgnaczyk/DatabaseD/issues/75)
-- [Add in a "Forgot Password?" Screen](https://github.com/StevenEgnaczyk/DatabaseD/issues/40)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
