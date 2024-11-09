@@ -4,6 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [discord-tickets/bot](https://github.com/discord-tickets/bot)
+
+- [Add nick/display name placeholder for channel names](https://github.com/discord-tickets/bot/issues/567)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
@@ -13,10 +17,10 @@ This list gets updated every day at midnight.
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
+- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
-- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
