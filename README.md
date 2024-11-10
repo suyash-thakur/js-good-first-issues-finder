@@ -4,10 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [discord-tickets/bot](https://github.com/discord-tickets/bot)
-
-- [Add nick/display name placeholder for channel names](https://github.com/discord-tickets/bot/issues/567)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
@@ -16,6 +12,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
+- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
@@ -23,7 +21,6 @@ This list gets updated every day at midnight.
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
@@ -40,7 +37,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
