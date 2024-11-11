@@ -6,12 +6,16 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
@@ -41,5 +45,17 @@ This list gets updated every day at midnight.
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
-- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
+- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
+- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
+- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 
