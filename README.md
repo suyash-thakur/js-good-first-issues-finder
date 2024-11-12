@@ -15,9 +15,9 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
@@ -55,7 +55,4 @@ This list gets updated every day at midnight.
 - [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
 - [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-- [Add group policy to configure shields default filterlists rather than URL specifics only](https://github.com/brave/brave-browser/issues/41429)
-- [BYOM crash with Azure Open AI models](https://github.com/brave/brave-browser/issues/40902)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 
