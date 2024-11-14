@@ -4,12 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io)
-
-- [Standardize Sutta Titles](https://github.com/buddhist-uni/buddhist-uni.github.io/issues/240)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
+- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 - [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
@@ -17,13 +15,6 @@ This list gets updated every day at midnight.
 - [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
 - [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Add tests for ecosystem packages](https://github.com/vercel/next.js/issues/31690)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -57,4 +48,21 @@ This list gets updated every day at midnight.
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
+- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Play the Puter chime at startup](https://github.com/HeyPuter/puter/issues/783)
+- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
+- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
 
