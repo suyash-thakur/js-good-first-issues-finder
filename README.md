@@ -4,6 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add Shuffle button within both YouTube and User Playlists](https://github.com/FreeTubeApp/FreeTube/issues/5618)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+- [[Feature Request]: Reveal original title when using DeArrow](https://github.com/FreeTubeApp/FreeTube/issues/3900)
+- [[Feature Request]: "Hide Videos From Channels" List As Submenu](https://github.com/FreeTubeApp/FreeTube/issues/5652)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
@@ -14,7 +23,6 @@ This list gets updated every day at midnight.
 - [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 - [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Add Group Policy to disable webtorrent](https://github.com/brave/brave-browser/issues/41427)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -49,6 +57,10 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
 
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+
+- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
@@ -57,12 +69,4 @@ This list gets updated every day at midnight.
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Play the Puter chime at startup](https://github.com/HeyPuter/puter/issues/783)
-- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
-- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
 
