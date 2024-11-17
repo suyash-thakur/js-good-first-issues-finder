@@ -44,9 +44,4 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [Playground PR Previews as a GitHub App or a generic GitHub action](https://github.com/WordPress/wordpress-playground/issues/1138)
 
