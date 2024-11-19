@@ -45,7 +45,16 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [[UI] Improve Release Version Component](https://github.com/meshery/meshery/issues/9569)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Add ESLint rule to prevent usage of the order CSS property](https://github.com/WordPress/gutenberg/issues/61247)
+- [l10n: Make percentage values ​​translatable](https://github.com/WordPress/gutenberg/issues/66298)
+- [Latest Post block having spacing issue when we change post content from "Excerpt" to "Full Post"](https://github.com/WordPress/gutenberg/issues/66412)
+- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Add Transformation from Separator to Spacer](https://github.com/WordPress/gutenberg/issues/65492)
+- [Standardize link text and URL terminology across the editor](https://github.com/WordPress/gutenberg/issues/59993)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
