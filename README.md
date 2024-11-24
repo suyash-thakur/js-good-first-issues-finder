@@ -30,16 +30,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
-- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
-- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -49,7 +39,11 @@ This list gets updated every day at midnight.
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add Shuffle button within both YouTube and User Playlists](https://github.com/FreeTubeApp/FreeTube/issues/5618)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
 
