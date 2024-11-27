@@ -4,16 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [wikispeedruns/wikipedia-speedruns](https://github.com/wikispeedruns/wikipedia-speedruns)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [View past runs / history on profile](https://github.com/wikispeedruns/wikipedia-speedruns/issues/613)
-- [QR code to lobby page](https://github.com/wikispeedruns/wikipedia-speedruns/issues/600)
-
-## [DeshySan/daddysproject](https://github.com/DeshySan/daddysproject)
-
-- [Search functionality on Header](https://github.com/DeshySan/daddysproject/issues/22)
-- [Rename the name of the website and icon](https://github.com/DeshySan/daddysproject/issues/6)
-- [Redesign the Admin Sidebar](https://github.com/DeshySan/daddysproject/issues/2)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
+- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
+- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
+- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -39,18 +40,6 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
 - [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
-- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
-- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -59,15 +48,4 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Message expiration is not hidden when not supported by the server](https://github.com/nextcloud/spreed/issues/11335)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
 
