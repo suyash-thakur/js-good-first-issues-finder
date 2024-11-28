@@ -1,11 +1,11 @@
-const axios = require('axios');
-const fs = require('fs');
-const env = require('dotenv');
-const Markdown = require('markdown-to-html').Markdown;
+const axios = require("axios");
+const fs = require("fs");
+const env = require("dotenv");
+const Markdown = require("markdown-to-html").Markdown;
 
 env.config();
 
-const API_URL = 'https://api.github.com';
+const API_URL = "https://api.github.com";
 const TOKEN = process.env.API_KEY;
 const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 30;
@@ -20,16 +20,19 @@ const getJavascriptRepos = async (page) => {
   try {
     const response = await axios.get(`${API_URL}/search/repositories`, {
       headers: { Authorization: `token ${TOKEN}` },
-      params: { q: `good-first-issues:>2`, language: 'javascript', sort: 'updated', page },
+      params: {
+        q: `good-first-issues:>2`,
+        language: "javascript",
+        sort: "updated",
+        page,
+      },
     });
-    return response.data.items.filter((repo) => repo.language === 'JavaScript');
+    return response.data.items.filter((repo) => repo.language === "JavaScript");
   } catch (error) {
     console.error(`Failed to fetch repos from page ${page}: ${error.message}`);
     return [];
   }
 };
-
-
 
 /**
  * Fetches issues from a repository
@@ -39,24 +42,32 @@ const getJavascriptRepos = async (page) => {
 
 const getFilteredIssues = async (repo) => {
   try {
-    const response = await axios.get(`${API_URL}/repos/${repo.full_name}/issues`, {
-      headers: { Authorization: `token ${TOKEN}` },
-      params: { state: 'open', labels: 'good first issue', sort: 'updated' },
-    });
+    const response = await axios.get(
+      `${API_URL}/repos/${repo.full_name}/issues`,
+      {
+        headers: { Authorization: `token ${TOKEN}` },
+        params: { state: "open", labels: "good first issue", sort: "updated" },
+      }
+    );
 
     const today = new Date();
-    const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+    const lastMonth = new Date(
+      today.getFullYear(),
+      today.getMonth() - 1,
+      today.getDate()
+    );
 
-    return response.data.filter(issue => {
+    return response.data.filter((issue) => {
       const updatedAt = new Date(issue.updated_at);
       return updatedAt > lastMonth;
     });
   } catch (error) {
-    console.error(`Failed to fetch issues for ${repo.full_name}: ${error.message}`);
+    console.error(
+      `Failed to fetch issues for ${repo.full_name}: ${error.message}`
+    );
     return [];
   }
 };
-
 
 const getGoodFirstIssues = async () => {
   try {
@@ -82,84 +93,70 @@ const getGoodFirstIssues = async () => {
 
       page++;
       elapsedTime = Date.now() - start;
-      await new Promise(resolve => setTimeout(resolve, WAIT_TIME));
+      await new Promise((resolve) => setTimeout(resolve, WAIT_TIME));
     }
 
     let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
     markdown += `This list gets updated every day at midnight.\n\n`;
 
     for (const issue of goodFirstIssues) {
-      markdown += `## [${issue.repo}](${issue.issues[0].html_url.split('/issues')[0]})\n\n`;
+      markdown += `## [${issue.repo}](${
+        issue.issues[0].html_url.split("/issues")[0]
+      })\n\n`;
       for (const item of issue.issues) {
         markdown += `- [${item.title}](${item.html_url})\n`;
       }
-      markdown += '\n';
+      markdown += "\n";
     }
 
-    fs.writeFileSync('README.md', markdown);
+    fs.writeFileSync("README.md", markdown);
   } catch (error) {
     console.error(`An error occurred: ${error.message}`);
     process.exit();
   }
 };
 
-// const convertToHtml = async () => {
-//   try {
-//     const md = new Markdown();
-
-//     md.render('README.md', {
-//       title: 'Good Javascript First Issues',
-//       highlight: true,
-//       highlightTheme: 'github',
-//       stylesheet: 'styles.css',
-//       context: 'https://github.com',
-//     }, function (err) {
-//       if (err) {
-//         throw err;
-//       }
-//       md.pipe(fs.createWriteStream('index.html'));
-//     });
-//   } catch (e) {
-//     console.error('>>>' + e);
-//     process.exit();
-//   }
-// };
 const convertToHtml = async () => {
   try {
     const md = new Markdown();
-    const template = fs.readFileSync('template.html', 'utf-8');
+    const template = fs.readFileSync("template.html", "utf-8");
 
-    md.render('README.md', {
-      title: 'Good Javascript First Issues',
-      highlight: true,
-      highlightTheme: 'github',
-      stylesheet: 'styles.css',
-      context: 'https://github.com',
-    }, function (err) {
-      if (err) {
-        throw err;
+    md.render(
+      "README.md",
+      {
+        title: "Good Javascript First Issues",
+        highlight: true,
+        highlightTheme: "github",
+        stylesheet: "styles.css",
+        context: "https://github.com",
+      },
+      function (err) {
+        if (err) {
+          throw err;
+        }
+
+        let generatedHtml = "";
+        md.on("data", (chunk) => {
+          generatedHtml += chunk;
+        });
+
+        md.on("end", () => {
+          const finalHtml = template
+            .replace("{{title}}", "Good Javascript First Issues")
+            .replace("{{content}}", generatedHtml);
+
+          fs.writeFileSync("index.html", finalHtml);
+          console.log(
+            "index.html has been generated successfully with the custom template!"
+          );
+        });
       }
-
-      let generatedHtml = '';
-      md.on('data', (chunk) => {
-        generatedHtml += chunk;
-      });
-
-      md.on('end', () => {
-        const finalHtml = template
-          .replace('{{title}}', 'Good Javascript First Issues')
-          .replace('{{content}}', generatedHtml);
-
-        fs.writeFileSync('index.html', finalHtml);
-        console.log('index.html has been generated successfully with the custom template!');
-      });
-    });
+    );
   } catch (e) {
-    console.error('Error in convertToHtml:', e);
+    console.error("Error in convertToHtml:", e);
     process.exit();
   }
 };
-
 
 const main = async () => {
   await getGoodFirstIssues();
