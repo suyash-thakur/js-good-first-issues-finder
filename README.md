@@ -38,8 +38,6 @@ This list gets updated every day at midnight.
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-- [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
-- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -48,4 +46,9 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Incorrect redirect when clicking on 'Learn More' link in Connected Services](https://github.com/google/site-kit-wp/issues/9734)
+- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
 
