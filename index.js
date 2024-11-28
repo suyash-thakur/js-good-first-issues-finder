@@ -103,9 +103,31 @@ const getGoodFirstIssues = async () => {
   }
 };
 
+// const convertToHtml = async () => {
+//   try {
+//     const md = new Markdown();
+
+//     md.render('README.md', {
+//       title: 'Good Javascript First Issues',
+//       highlight: true,
+//       highlightTheme: 'github',
+//       stylesheet: 'styles.css',
+//       context: 'https://github.com',
+//     }, function (err) {
+//       if (err) {
+//         throw err;
+//       }
+//       md.pipe(fs.createWriteStream('index.html'));
+//     });
+//   } catch (e) {
+//     console.error('>>>' + e);
+//     process.exit();
+//   }
+// };
 const convertToHtml = async () => {
   try {
     const md = new Markdown();
+    const template = fs.readFileSync('template.html', 'utf-8');
 
     md.render('README.md', {
       title: 'Good Javascript First Issues',
@@ -117,13 +139,27 @@ const convertToHtml = async () => {
       if (err) {
         throw err;
       }
-      md.pipe(fs.createWriteStream('index.html'));
+
+      let generatedHtml = '';
+      md.on('data', (chunk) => {
+        generatedHtml += chunk;
+      });
+
+      md.on('end', () => {
+        const finalHtml = template
+          .replace('{{title}}', 'Good Javascript First Issues')
+          .replace('{{content}}', generatedHtml);
+
+        fs.writeFileSync('index.html', finalHtml);
+        console.log('index.html has been generated successfully with the custom template!');
+      });
     });
   } catch (e) {
-    console.error('>>>' + e);
+    console.error('Error in convertToHtml:', e);
     process.exit();
   }
 };
+
 
 const main = async () => {
   await getGoodFirstIssues();

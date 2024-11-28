@@ -4,17 +4,63 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
-- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add Shuffle button within both YouTube and User Playlists](https://github.com/FreeTubeApp/FreeTube/issues/5618)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Enable Save button in Dev Center only when app settings have changed](https://github.com/HeyPuter/puter/issues/880)
+- [Complete the Igbo translation of Puter](https://github.com/HeyPuter/puter/issues/864)
+- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
+- [Complete the Polish (Polski) translation of Puter](https://github.com/HeyPuter/puter/issues/856)
+- [Complete the Italian (Italiano) translation of Puter](https://github.com/HeyPuter/puter/issues/863)
+- [Complete the Hebrew (עברית) translation of Puter](https://github.com/HeyPuter/puter/issues/869)
+- [Complete the Finnish (Suomi) translation of Puter](https://github.com/HeyPuter/puter/issues/871)
+- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/874)
+- [Complete the Danish (Dansk) translation of Puter](https://github.com/HeyPuter/puter/issues/875)
+- [Improve flexibility of file association format in Dev Center](https://github.com/HeyPuter/puter/issues/881)
+- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
+- [Warn users when deploying `.git` directory in Dev Center](https://github.com/HeyPuter/puter/issues/878)
+- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
+- [Test for `date` command in phoenix fails](https://github.com/HeyPuter/puter/issues/796)
+- [Play the Puter chime at startup](https://github.com/HeyPuter/puter/issues/783)
+- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
+- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
+- [Request: Lime](https://github.com/simple-icons/simple-icons/issues/11983)
+- [Request: NOAA](https://github.com/simple-icons/simple-icons/issues/11651)
+- [Request: MacPorts](https://github.com/simple-icons/simple-icons/issues/11676)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Navigation Submenu's block is not marked as Invalid when page is deleted](https://github.com/WordPress/gutenberg/issues/44760)
+- [Navigation: Possible to create two navigations by mistake](https://github.com/WordPress/gutenberg/issues/56248)
+- [Navigation Submenu block does not render menu item description](https://github.com/WordPress/gutenberg/issues/52505)
+- [Navigation item with sub menu is missing wp-block-navigation-item__label span](https://github.com/WordPress/gutenberg/issues/57099)
+- [Add ESLint rule to prevent usage of the order CSS property](https://github.com/WordPress/gutenberg/issues/61247)
+- [l10n: Make percentage values ​​translatable](https://github.com/WordPress/gutenberg/issues/66298)
+- [Latest Post block having spacing issue when we change post content from "Excerpt" to "Full Post"](https://github.com/WordPress/gutenberg/issues/66412)
+- [Replace ButtonGroup usage with ToggleGroupControl](https://github.com/WordPress/gutenberg/issues/65339)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Add Transformation from Separator to Spacer](https://github.com/WordPress/gutenberg/issues/65492)
+
+## [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt)
+
+- [Markdown blocks do not properly resize at narrow browser widths](https://github.com/AllYourBot/hostedgpt/issues/368)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -38,17 +84,6 @@ This list gets updated every day at midnight.
 - [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
 - [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
 - [[Catalog] Publish Kubernetes apps to Meshery Catalog using `mesheryctl`](https://github.com/meshery/meshery/issues/10444)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Incorrect redirect when clicking on 'Learn More' link in Connected Services](https://github.com/google/site-kit-wp/issues/9734)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+- [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
+- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 
