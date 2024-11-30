@@ -4,26 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
-- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Add Shuffle button within both YouTube and User Playlists](https://github.com/FreeTubeApp/FreeTube/issues/5618)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
-- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
@@ -51,4 +31,37 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
 - [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+
+## [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui)
+
+- [Files: ipfs.files.stat RPC call missing error handling](https://github.com/ipfs/ipfs-webui/issues/2299)
+- [feat: settings screen - allow adjusting kubo log level](https://github.com/ipfs/ipfs-webui/issues/2294)
+- [feat: bulk CIDs import](https://github.com/ipfs/ipfs-webui/issues/2173)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
+- [Improve flexibility of file association format in Dev Center](https://github.com/HeyPuter/puter/issues/881)
+- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
+- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
+- [Complete the Italian (Italiano) translation of Puter](https://github.com/HeyPuter/puter/issues/863)
+- [Complete the Hebrew (עברית) translation of Puter](https://github.com/HeyPuter/puter/issues/869)
+- [Complete the Finnish (Suomi) translation of Puter](https://github.com/HeyPuter/puter/issues/871)
+- [Complete the Danish (Dansk) translation of Puter](https://github.com/HeyPuter/puter/issues/875)
+- [Warn users when deploying `.git` directory in Dev Center](https://github.com/HeyPuter/puter/issues/878)
+- [Test for `date` command in phoenix fails](https://github.com/HeyPuter/puter/issues/796)
+- [Play the Puter chime at startup](https://github.com/HeyPuter/puter/issues/783)
+- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
+- [Add configuration to disable new user sign ups](https://github.com/HeyPuter/puter/issues/696)
 
