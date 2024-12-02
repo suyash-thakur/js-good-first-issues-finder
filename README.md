@@ -4,32 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
-- [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
-- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
-- [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
-- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
-- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Director](https://github.com/meshery/meshery/issues/12134)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-- [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
-- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
-- [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
-- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
-
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
 - [[RFC]: add `toSorted` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3160)
@@ -37,10 +11,8 @@ This list gets updated every day at midnight.
 - [[RFC]: add `sort` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3156)
 - [[RFC]: add `findLastIndex` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3144)
 - [[RFC]: add `findIndex` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3142)
-- [[RFC]: add `reduceRight` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3152)
 - [[RFC]: add `with` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3162)
 - [[RFC]: add `entries` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3137)
-- [[RFC]: add `filter` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3140)
 - [[RFC]: add `copyWithin` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3136)
 - [Bug with skin tone emojis when using `prevGraphemeClusterBreak` package](https://github.com/stdlib-js/stdlib/issues/1092)
 - [Insufficient TypeScript declaration tests for `@stdlib/utils/circular-buffer`](https://github.com/stdlib-js/stdlib/issues/474)
@@ -62,4 +34,17 @@ This list gets updated every day at midnight.
 - [[RFC]: add `toLocaleString` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3158)
 - [[RFC]: add `keys` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3148)
 - [[RFC]: add `slice` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3154)
+- [[RFC]: add `includes` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3145)
+- [[RFC]: add `fill` method to `array/fixed-endian-factory`](https://github.com/stdlib-js/stdlib/issues/3139)
+
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+
+## [starteryouInc/Starteryou-Website](https://github.com/starteryouInc/Starteryou-Website)
+
+- [Create Authentication API](https://github.com/starteryouInc/Starteryou-Website/issues/9)
+- [Automate Employee Access to EC2 Instances](https://github.com/starteryouInc/Starteryou-Website/issues/18)
+- [Priority Jobs page design](https://github.com/starteryouInc/Starteryou-Website/issues/16)
+- [Create API for Landing Page](https://github.com/starteryouInc/Starteryou-Website/pull/5)
 
