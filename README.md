@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Incorrect redirect when clicking on 'Learn More' link in Connected Services](https://github.com/google/site-kit-wp/issues/9734)
+- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
@@ -36,19 +41,10 @@ This list gets updated every day at midnight.
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
 - [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 
-## [kyverno/website](https://github.com/kyverno/website)
-
-- [Update note for ArgoCD users](https://github.com/kyverno/website/issues/1437)
-
-## [Ibrahem-Ali99/Scholar-Project](https://github.com/Ibrahem-Ali99/Scholar-Project)
-
-- [Fix redirection after google authentication](https://github.com/Ibrahem-Ali99/Scholar-Project/issues/42)
-- [Course Page](https://github.com/Ibrahem-Ali99/Scholar-Project/issues/32)
-- [Course Material Management Page(for teacher role)](https://github.com/Ibrahem-Ali99/Scholar-Project/issues/29)
-- [Teacher Approval Page (for Admin Role)](https://github.com/Ibrahem-Ali99/Scholar-Project/issues/27)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 - [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
