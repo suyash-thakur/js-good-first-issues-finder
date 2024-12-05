@@ -4,10 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Incorrect redirect when clicking on 'Learn More' link in Connected Services](https://github.com/google/site-kit-wp/issues/9734)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+- [add postman collection to repo and docs](https://github.com/metriport/metriport/issues/2999)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Sendgrid "Campaign sends"](https://github.com/PipedreamHQ/pipedream/issues/14026)
+- [[Action] Docusign - Download Envelope Documents](https://github.com/PipedreamHQ/pipedream/issues/14805)
+- [[ACTION] Upsert Records into Salesforce ](https://github.com/PipedreamHQ/pipedream/issues/14812)
+- [[TRIGGER] Wise New Transaction  ](https://github.com/PipedreamHQ/pipedream/issues/14757)
+- [[ACTION] Microsoft Teams Bot - Reply to Message](https://github.com/PipedreamHQ/pipedream/issues/14758)
+- [[ACTION] Create a Hostaway Reservation](https://github.com/PipedreamHQ/pipedream/issues/14431)
+- [[Action] TestMonitor - Create a new Test Result](https://github.com/PipedreamHQ/pipedream/issues/13990)
+- [[TRIGGER] QBO - Employee Add / Update / Remove](https://github.com/PipedreamHQ/pipedream/issues/14032)
+- [[ACTION] New PicDefense Actions](https://github.com/PipedreamHQ/pipedream/issues/14731)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -19,11 +30,17 @@ This list gets updated every day at midnight.
 - [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
 - [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Allow to toggle mute tab with shortcut on tab with no content](https://github.com/brave/brave-browser/issues/40016)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
+- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
+- [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
+- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
+- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
+- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
@@ -36,17 +53,10 @@ This list gets updated every day at midnight.
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
 - [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
 - [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
-- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[UI] Navbar is not closing on click getting started in mobile view](https://github.com/meshery/meshery.io/issues/1888)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using mesheryctl](https://github.com/meshery/meshery.io/issues/1650)
-- [[Catalog] Generate Models for Emoji pack](https://github.com/meshery/meshery.io/issues/1910)
 
