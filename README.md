@@ -4,22 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [metriport/metriport](https://github.com/metriport/metriport)
-
-- [add postman collection to repo and docs](https://github.com/metriport/metriport/issues/2999)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Sendgrid "Campaign sends"](https://github.com/PipedreamHQ/pipedream/issues/14026)
-- [[Action] Docusign - Download Envelope Documents](https://github.com/PipedreamHQ/pipedream/issues/14805)
-- [[ACTION] Upsert Records into Salesforce ](https://github.com/PipedreamHQ/pipedream/issues/14812)
-- [[TRIGGER] Wise New Transaction  ](https://github.com/PipedreamHQ/pipedream/issues/14757)
-- [[ACTION] Microsoft Teams Bot - Reply to Message](https://github.com/PipedreamHQ/pipedream/issues/14758)
-- [[ACTION] Create a Hostaway Reservation](https://github.com/PipedreamHQ/pipedream/issues/14431)
-- [[Action] TestMonitor - Create a new Test Result](https://github.com/PipedreamHQ/pipedream/issues/13990)
-- [[TRIGGER] QBO - Employee Add / Update / Remove](https://github.com/PipedreamHQ/pipedream/issues/14032)
-- [[ACTION] New PicDefense Actions](https://github.com/PipedreamHQ/pipedream/issues/14731)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
@@ -50,13 +34,47 @@ This list gets updated every day at midnight.
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create an ER Diagram template](https://github.com/meshery/meshery/issues/12450)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/09/2024](https://github.com/meshery/meshery/issues/11929)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 09/16/2024](https://github.com/meshery/meshery/issues/12009)
-- [[Docs] Publish Layer5 Release documents under Meshery Build and Release Strategy](https://github.com/meshery/meshery/issues/12021)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [LabinatorSolutions/boldchess-web-app](https://github.com/LabinatorSolutions/boldchess-web-app)
+
+- [Implement Chess Opening Detection & Interactive Learning Features](https://github.com/LabinatorSolutions/boldchess-web-app/issues/28)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/952)
+- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
+- [Complete the French (Français) translation of Puter](https://github.com/HeyPuter/puter/issues/975)
+- [Complete the Tamil (ஆங்கிலம்) translation of Puter](https://github.com/HeyPuter/puter/issues/959)
+- [Complete the Spanish (Español) translation of Puter](https://github.com/HeyPuter/puter/issues/978)
+- [Complete the Finnish (Suomi) translation of Puter](https://github.com/HeyPuter/puter/issues/976)
+- [Complete the Hebrew (עברית) translation of Puter](https://github.com/HeyPuter/puter/issues/974)
+- [Complete the Hungarian (Magyar) translation of Puter](https://github.com/HeyPuter/puter/issues/972)
+- [Complete Armenian (Հայերեն) translation of Puter](https://github.com/HeyPuter/puter/issues/971)
+- [Complete the Indonesian (Bahasa Indonesia) translation of Puter](https://github.com/HeyPuter/puter/issues/970)
+- [Complete the Igbo translation of Puter](https://github.com/HeyPuter/puter/issues/969)
+- [Complete the Italian (Italiano) translation of Puter](https://github.com/HeyPuter/puter/issues/968)
+- [Complete the Japanese (日本語) translation of Puter](https://github.com/HeyPuter/puter/issues/967)
+- [Complete the Korean (한국어) translation of Puter](https://github.com/HeyPuter/puter/issues/966)
+- [Complete the Kurdish (کوردی) translation of Puter](https://github.com/HeyPuter/puter/issues/965)
+- [Complete the Portuguese (Português) translation of Puter](https://github.com/HeyPuter/puter/issues/963)
+- [Complete the Romanian (Română) translation of Puter](https://github.com/HeyPuter/puter/issues/962)
+- [Complete the Russian (Русский) translation of Puter](https://github.com/HeyPuter/puter/issues/961)
+- [Complete the Swedish (Svenska) translation of Puter](https://github.com/HeyPuter/puter/issues/960)
+- [Complete the Thai (ไทย) translation of Puter](https://github.com/HeyPuter/puter/issues/958)
+- [Complete the Ukrainian (Українська) translation of Puter](https://github.com/HeyPuter/puter/issues/956)
+- [Complete the Vietnamese (Tiếng Việt) translation of Puter](https://github.com/HeyPuter/puter/issues/954)
+- [Complete the Brazilian translation of Puter](https://github.com/HeyPuter/puter/issues/951)
+- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/950)
+- [Complete the Bengali (বাংলা) translation of Puter](https://github.com/HeyPuter/puter/issues/949)
+- [Complete the Arabic (العربية) translation of Puter](https://github.com/HeyPuter/puter/issues/948)
+- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
+- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
+- [Complete the Danish (Dansk) translation of Puter](https://github.com/HeyPuter/puter/issues/875)
 
