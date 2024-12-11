@@ -4,23 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate)
-
-- [Issues when content area stretches below the sidebar](https://github.com/bluewave-labs/checkmate/issues/1290)
-- [Infratructure monitors should be editable](https://github.com/bluewave-labs/checkmate/issues/1277)
-- [Add ntfy.sh support ](https://github.com/bluewave-labs/checkmate/issues/702)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
-- [Add private Tor window to quick settings in desktop icon](https://github.com/brave/brave-browser/issues/41606)
-- [Commands in omnibox only show if Brave Search is default](https://github.com/brave/brave-browser/issues/38793)
-- [Add popup when navigating across recent tabs](https://github.com/brave/brave-browser/issues/38700)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -44,4 +27,24 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [Support `bufferSize` option with recursive mode in `fs.opendir`](https://github.com/nodejs/node/issues/55764)
+- [fs.rmSync('速') crash without throw](https://github.com/nodejs/node/issues/56049)
+- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
+- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
 
