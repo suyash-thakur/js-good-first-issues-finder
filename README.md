@@ -4,8 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [nodejs/bluesky](https://github.com/nodejs/bluesky)
+
+- [Support embed for links](https://github.com/nodejs/bluesky/issues/20)
+- [Split validation workflow](https://github.com/nodejs/bluesky/issues/10)
+- [Comment with a link to the post in the PR](https://github.com/nodejs/bluesky/issues/9)
+
+## [dev-launchers/dev-launchers-platform](https://github.com/dev-launchers/dev-launchers-platform)
+
+- [Sort Ideas by number of Votes](https://github.com/dev-launchers/dev-launchers-platform/issues/1986)
+- [User images to match profile picture](https://github.com/dev-launchers/dev-launchers-platform/issues/1968)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
@@ -26,25 +39,43 @@ This list gets updated every day at midnight.
 - [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
-- [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
-- [Support `bufferSize` option with recursive mode in `fs.opendir`](https://github.com/nodejs/node/issues/55764)
-- [fs.rmSync('速') crash without throw](https://github.com/nodejs/node/issues/56049)
-- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
-- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+- [[ACTION] Upsert Records into Salesforce ](https://github.com/PipedreamHQ/pipedream/issues/14812)
+- [[ACTION] Microsoft Teams Bot - Reply to Message](https://github.com/PipedreamHQ/pipedream/issues/14758)
+- [[ACTION] Chargebee - Create Customer, Create Subscription](https://github.com/PipedreamHQ/pipedream/issues/14857)
+- [Search in JIRA](https://github.com/PipedreamHQ/pipedream/issues/14903)
+- [[TRIGGER] Wise New Transaction  ](https://github.com/PipedreamHQ/pipedream/issues/14757)
+- [[ACTION] Salesforce - Content Note actions](https://github.com/PipedreamHQ/pipedream/issues/14465)
+- [[ACTION] Shopify - Get Order](https://github.com/PipedreamHQ/pipedream/issues/14854)
+- [[ACTION] New PicDefense Actions](https://github.com/PipedreamHQ/pipedream/issues/14731)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Add an option for `create-next-app` to create a headless API app.](https://github.com/vercel/next.js/issues/68118)
+- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
+- [Use namespace for textdomain when --no-plugin is in use](https://github.com/WordPress/gutenberg/issues/54980)
+- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Improve editor error boundaries and error messages](https://github.com/WordPress/gutenberg/issues/34482)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Move navigation error state to the inspector](https://github.com/WordPress/gutenberg/issues/44486)
+- [Navigation Submenu block does not render menu item description](https://github.com/WordPress/gutenberg/issues/52505)
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Navigation Submenu's block is not marked as Invalid when page is deleted](https://github.com/WordPress/gutenberg/issues/44760)
+- [Navigation item with sub menu is missing wp-block-navigation-item__label span](https://github.com/WordPress/gutenberg/issues/57099)
+- [Add ESLint rule to prevent usage of the order CSS property](https://github.com/WordPress/gutenberg/issues/61247)
+- [l10n: Make percentage values ​​translatable](https://github.com/WordPress/gutenberg/issues/66298)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [[CLI] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
+- [[eslint-plugin] sort keys rule should sort object keys when applying fix](https://github.com/facebook/stylex/issues/787)
+- [[compiler] Automatically pick up alias configuration from package.json or tsconfig](https://github.com/facebook/stylex/issues/765)
+- [[Bug] Properties not recognized by eslint-plugin](https://github.com/facebook/stylex/issues/135)
 
