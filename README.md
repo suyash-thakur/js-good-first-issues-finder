@@ -4,27 +4,35 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
-- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
-- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
-- [Complete the French (Français) translation of Puter](https://github.com/HeyPuter/puter/issues/975)
-- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
-- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
-- [Test for `date` command in phoenix fails](https://github.com/HeyPuter/puter/issues/796)
+- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+- [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
+- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
+- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
+- [List the Helm Plugin for Meshery Snapshots on the Meshery Extensions page](https://github.com/meshery/meshery/issues/11866)
+- [[Template] Create a Relationship Diagram template ](https://github.com/meshery/meshery/issues/12453)
+- [Responsiveness on 'Remote Provider' page.](https://github.com/meshery/meshery/issues/10743)
+- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
+- [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
+- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
+- [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
+- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
+- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
+- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
+- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
+- [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 
-## [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Email invitation not working](https://github.com/bluewave-labs/checkmate/issues/1377)
-- [Advanced settings area should be detached and moved to the settings page. Also 'About' section in Advanced Settings should be removed](https://github.com/bluewave-labs/checkmate/issues/1379)
-- [Notification message when a monitor is paused](https://github.com/bluewave-labs/checkmate/issues/1380)
-- [Logo in the sidebar should redirect to / page](https://github.com/bluewave-labs/checkmate/issues/1320)
-- [Red button mouse hover status has wrong color](https://github.com/bluewave-labs/checkmate/issues/1335)
-- [Move certificate expiry to a card](https://github.com/bluewave-labs/checkmate/issues/1327)
-- [Pagespeed Details -> Response chart color -> center green should be lighter ](https://github.com/bluewave-labs/checkmate/issues/1331)
-- [Infratructure monitors should be editable](https://github.com/bluewave-labs/checkmate/issues/1277)
-- [Add ntfy.sh support ](https://github.com/bluewave-labs/checkmate/issues/702)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
@@ -58,4 +66,13 @@ This list gets updated every day at midnight.
 - [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/mean`](https://github.com/stdlib-js/stdlib/issues/3860)
 - [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/logcdf`](https://github.com/stdlib-js/stdlib/issues/3858)
 - [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3857)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Microsoft Teams Bot - Reply to Message](https://github.com/PipedreamHQ/pipedream/issues/14758)
+- [[ACTION] JIRA Search Issues](https://github.com/PipedreamHQ/pipedream/issues/14903)
+- [[ACTION] Salesforce - Content Note actions](https://github.com/PipedreamHQ/pipedream/issues/14465)
+- [[TRIGGER] Wise New Transaction  ](https://github.com/PipedreamHQ/pipedream/issues/14757)
+- [[ACTION] Shopify - Get Order](https://github.com/PipedreamHQ/pipedream/issues/14854)
+- [[ACTION] New PicDefense Actions](https://github.com/PipedreamHQ/pipedream/issues/14731)
 
