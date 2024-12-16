@@ -4,6 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Show BAT favicon when adding rewards internal page to sidebar](https://github.com/brave/brave-browser/issues/41617)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -34,45 +42,8 @@ This list gets updated every day at midnight.
 - [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
 - [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
-- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
-- [[RFC]: Add C implementations to truncated normal distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3868)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/variance`](https://github.com/stdlib-js/stdlib/issues/3881)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/stdev`](https://github.com/stdlib-js/stdlib/issues/3880)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/skewness`](https://github.com/stdlib-js/stdlib/issues/3879)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/quantile`](https://github.com/stdlib-js/stdlib/issues/3878)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/pdf`](https://github.com/stdlib-js/stdlib/issues/3877)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/mode`](https://github.com/stdlib-js/stdlib/issues/3876)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/median`](https://github.com/stdlib-js/stdlib/issues/3875)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/mean`](https://github.com/stdlib-js/stdlib/issues/3874)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logpdf`](https://github.com/stdlib-js/stdlib/issues/3873)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3871)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/entropy`](https://github.com/stdlib-js/stdlib/issues/3870)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/variance`](https://github.com/stdlib-js/stdlib/issues/3867)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/stdev`](https://github.com/stdlib-js/stdlib/issues/3866)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/skewness`](https://github.com/stdlib-js/stdlib/issues/3865)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/quantile`](https://github.com/stdlib-js/stdlib/issues/3864)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/pdf`](https://github.com/stdlib-js/stdlib/issues/3863)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/mode`](https://github.com/stdlib-js/stdlib/issues/3862)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/median`](https://github.com/stdlib-js/stdlib/issues/3861)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/logpdf`](https://github.com/stdlib-js/stdlib/issues/3859)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/mean`](https://github.com/stdlib-js/stdlib/issues/3860)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/logcdf`](https://github.com/stdlib-js/stdlib/issues/3858)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/pareto-type1/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3857)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Microsoft Teams Bot - Reply to Message](https://github.com/PipedreamHQ/pipedream/issues/14758)
-- [[ACTION] JIRA Search Issues](https://github.com/PipedreamHQ/pipedream/issues/14903)
-- [[ACTION] Salesforce - Content Note actions](https://github.com/PipedreamHQ/pipedream/issues/14465)
-- [[TRIGGER] Wise New Transaction  ](https://github.com/PipedreamHQ/pipedream/issues/14757)
-- [[ACTION] Shopify - Get Order](https://github.com/PipedreamHQ/pipedream/issues/14854)
-- [[ACTION] New PicDefense Actions](https://github.com/PipedreamHQ/pipedream/issues/14731)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
 
