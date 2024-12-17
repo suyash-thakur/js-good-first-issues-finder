@@ -36,14 +36,25 @@ This list gets updated every day at midnight.
 - [[Docs] rbenv installation not working properly following instructions](https://github.com/meshery/meshery/issues/12230)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
+- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
+- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
+- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
+- [Complete the French (Français) translation of Puter](https://github.com/HeyPuter/puter/issues/975)
+- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
+- [Test for `date` command in phoenix fails](https://github.com/HeyPuter/puter/issues/796)
+
+## [agniv-the-marker/orchard-web](https://github.com/agniv-the-marker/orchard-web)
+
+- [cull pictures](https://github.com/agniv-the-marker/orchard-web/issues/6)
+- [make it easy to add logs](https://github.com/agniv-the-marker/orchard-web/issues/1)
+- [add doodles around the site](https://github.com/agniv-the-marker/orchard-web/issues/4)
 
