@@ -4,6 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
+- [File Explorer table view is far too wide](https://github.com/HeyPuter/puter/issues/355)
+- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
+- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
+- [Complete the French (Français) translation of Puter](https://github.com/HeyPuter/puter/issues/975)
+- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/857)
+- [Test for `date` command in phoenix fails](https://github.com/HeyPuter/puter/issues/796)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
@@ -14,6 +25,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
@@ -34,22 +46,41 @@ This list gets updated every day at midnight.
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/median`](https://github.com/stdlib-js/stdlib/issues/3403)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/mode`](https://github.com/stdlib-js/stdlib/issues/3405)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/pdf`](https://github.com/stdlib-js/stdlib/issues/3406)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/stdev`](https://github.com/stdlib-js/stdlib/issues/3409)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/skewness`](https://github.com/stdlib-js/stdlib/issues/3408)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/cdf`](https://github.com/stdlib-js/stdlib/issues/3411)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/entropy`](https://github.com/stdlib-js/stdlib/issues/3412)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3413)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/median`](https://github.com/stdlib-js/stdlib/issues/3415)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/mgf`](https://github.com/stdlib-js/stdlib/issues/3416)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/pmf`](https://github.com/stdlib-js/stdlib/issues/3418)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/quantile`](https://github.com/stdlib-js/stdlib/issues/3419)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/skewness`](https://github.com/stdlib-js/stdlib/issues/3420)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/variance`](https://github.com/stdlib-js/stdlib/issues/3422)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/cdf`](https://github.com/stdlib-js/stdlib/issues/3423)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/entropy`](https://github.com/stdlib-js/stdlib/issues/3424)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/cauchy/quantile`](https://github.com/stdlib-js/stdlib/issues/3486)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3425)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logcdf`](https://github.com/stdlib-js/stdlib/issues/3426)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logpdf`](https://github.com/stdlib-js/stdlib/issues/3427)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/mean`](https://github.com/stdlib-js/stdlib/issues/3428)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/mgf`](https://github.com/stdlib-js/stdlib/issues/3430)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/pdf`](https://github.com/stdlib-js/stdlib/issues/3432)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/quantile`](https://github.com/stdlib-js/stdlib/issues/3433)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/cdf`](https://github.com/stdlib-js/stdlib/issues/3437)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/logcdf`](https://github.com/stdlib-js/stdlib/issues/3439)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/logpdf`](https://github.com/stdlib-js/stdlib/issues/3440)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/mean`](https://github.com/stdlib-js/stdlib/issues/3441)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
 - [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-
-## [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide)
-
-- [Cannot locate keybindings.json on Windows](https://github.com/software-mansion/radon-ide/issues/812)
-- [Can't run with yarn installed using corepack](https://github.com/software-mansion/radon-ide/issues/820)
-- [First button always highlighted in ManageDevicesView opened from settings](https://github.com/software-mansion/radon-ide/issues/670)
-- [Allow changing primary background Color of Radon](https://github.com/software-mansion/radon-ide/issues/729)
-- [Expo debugger doesn't open](https://github.com/software-mansion/radon-ide/issues/782)
 
