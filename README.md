@@ -4,12 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -33,17 +27,24 @@ This list gets updated every day at midnight.
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 
-## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Display list count ](https://github.com/ClearskyApp06/ClearskyUI/issues/188)
-- [did:web with history (handle history) not showing proper date / profile data](https://github.com/ClearskyApp06/ClearskyUI/issues/90)
-- [Rework block stats table view](https://github.com/ClearskyApp06/ClearskyUI/issues/195)
-- [Increase size and style of donate button](https://github.com/ClearskyApp06/ClearskyUI/issues/100)
-- [Add placement in profile landing page](https://github.com/ClearskyApp06/ClearskyUI/issues/187)
-- [make stats pane it's own path](https://github.com/ClearskyApp06/ClearskyUI/issues/196)
-- [Add hyperlink to list URL](https://github.com/ClearskyApp06/ClearskyUI/issues/186)
-- [hyperlinks in profile description](https://github.com/ClearskyApp06/ClearskyUI/issues/96)
-- [Word wrap long handles in handle history](https://github.com/ClearskyApp06/ClearskyUI/issues/180)
-- [handle history wording is off](https://github.com/ClearskyApp06/ClearskyUI/issues/179)
-- [Tooltip for a user has outsized large DID](https://github.com/ClearskyApp06/ClearskyUI/issues/173)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
+- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+
+## [IMGIITRoorkee/Ticketify](https://github.com/IMGIITRoorkee/Ticketify)
+
+- [Create a Custom 404 Error Page for Better UX](https://github.com/IMGIITRoorkee/Ticketify/issues/29)
+- [Display Status Tag](https://github.com/IMGIITRoorkee/Ticketify/issues/17)
+- [Update Ticket schema](https://github.com/IMGIITRoorkee/Ticketify/issues/8)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
+- [Request: MyFonts](https://github.com/simple-icons/simple-icons/issues/12262)
+- [Request: Vinted](https://github.com/simple-icons/simple-icons/issues/12268)
+- [Request: Wallapop](https://github.com/simple-icons/simple-icons/issues/12266)
+- [Request: Helium10](https://github.com/simple-icons/simple-icons/issues/12255)
+- [Request: Namelix](https://github.com/simple-icons/simple-icons/issues/12259)
 
