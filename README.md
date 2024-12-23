@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
+- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -27,24 +33,34 @@ This list gets updated every day at midnight.
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [[Catalog] Generate Model for Material designs icon pack](https://github.com/meshery/meshery.io/issues/1912)
-- [Implement Two-Column Layout for Mobile](https://github.com/meshery/meshery.io/issues/1827)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
-## [IMGIITRoorkee/Ticketify](https://github.com/IMGIITRoorkee/Ticketify)
+## [platformatic/platformatic](https://github.com/platformatic/platformatic)
 
-- [Create a Custom 404 Error Page for Better UX](https://github.com/IMGIITRoorkee/Ticketify/issues/29)
-- [Display Status Tag](https://github.com/IMGIITRoorkee/Ticketify/issues/17)
-- [Update Ticket schema](https://github.com/IMGIITRoorkee/Ticketify/issues/8)
+- [update dependency postgrator to v8 in Platformatic DB](https://github.com/platformatic/platformatic/issues/3663)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
 
-- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
-- [Request: MyFonts](https://github.com/simple-icons/simple-icons/issues/12262)
-- [Request: Vinted](https://github.com/simple-icons/simple-icons/issues/12268)
-- [Request: Wallapop](https://github.com/simple-icons/simple-icons/issues/12266)
-- [Request: Helium10](https://github.com/simple-icons/simple-icons/issues/12255)
-- [Request: Namelix](https://github.com/simple-icons/simple-icons/issues/12259)
+- [Add placement in profile landing page](https://github.com/ClearskyApp06/ClearskyUI/issues/187)
+- [Re-introduce list search for blocked and blocked by](https://github.com/ClearskyApp06/ClearskyUI/issues/211)
+- [Display list count ](https://github.com/ClearskyApp06/ClearskyUI/issues/188)
+- [did:web with history (handle history) not showing proper date / profile data](https://github.com/ClearskyApp06/ClearskyUI/issues/90)
+- [Rework block stats table view](https://github.com/ClearskyApp06/ClearskyUI/issues/195)
+- [Increase size and style of donate button](https://github.com/ClearskyApp06/ClearskyUI/issues/100)
+- [make stats pane it's own path](https://github.com/ClearskyApp06/ClearskyUI/issues/196)
+- [hyperlinks in profile description](https://github.com/ClearskyApp06/ClearskyUI/issues/96)
+- [Word wrap long handles in handle history](https://github.com/ClearskyApp06/ClearskyUI/issues/180)
+- [handle history wording is off](https://github.com/ClearskyApp06/ClearskyUI/issues/179)
+- [Tooltip for a user has outsized large DID](https://github.com/ClearskyApp06/ClearskyUI/issues/173)
+
+## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+
+- [Simaltaneous Video and Screensharing](https://github.com/miroslavpejic85/mirotalk/issues/167)
+- [Feature request: Screen draw/annotation while screen sharing](https://github.com/miroslavpejic85/mirotalk/issues/128)
+- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+- [Sound reactions](https://github.com/miroslavpejic85/mirotalk/issues/264)
 
