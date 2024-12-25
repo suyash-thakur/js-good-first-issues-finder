@@ -4,39 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/entropy`](https://github.com/stdlib-js/stdlib/issues/3412)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/median`](https://github.com/stdlib-js/stdlib/issues/3403)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/mode`](https://github.com/stdlib-js/stdlib/issues/3405)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/pdf`](https://github.com/stdlib-js/stdlib/issues/3406)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/stdev`](https://github.com/stdlib-js/stdlib/issues/3409)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/skewness`](https://github.com/stdlib-js/stdlib/issues/3408)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/cdf`](https://github.com/stdlib-js/stdlib/issues/3411)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3413)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/median`](https://github.com/stdlib-js/stdlib/issues/3415)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/mgf`](https://github.com/stdlib-js/stdlib/issues/3416)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/pmf`](https://github.com/stdlib-js/stdlib/issues/3418)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/quantile`](https://github.com/stdlib-js/stdlib/issues/3419)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/skewness`](https://github.com/stdlib-js/stdlib/issues/3420)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/variance`](https://github.com/stdlib-js/stdlib/issues/3422)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/cdf`](https://github.com/stdlib-js/stdlib/issues/3423)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/entropy`](https://github.com/stdlib-js/stdlib/issues/3424)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/cauchy/quantile`](https://github.com/stdlib-js/stdlib/issues/3486)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3425)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logcdf`](https://github.com/stdlib-js/stdlib/issues/3426)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logpdf`](https://github.com/stdlib-js/stdlib/issues/3427)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/mean`](https://github.com/stdlib-js/stdlib/issues/3428)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/mgf`](https://github.com/stdlib-js/stdlib/issues/3430)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/pdf`](https://github.com/stdlib-js/stdlib/issues/3432)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/quantile`](https://github.com/stdlib-js/stdlib/issues/3433)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/cdf`](https://github.com/stdlib-js/stdlib/issues/3437)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/logcdf`](https://github.com/stdlib-js/stdlib/issues/3439)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
@@ -45,11 +12,12 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
+- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
+- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
-- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
-- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
@@ -63,6 +31,21 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [cross-domain iframe not hydrating after SSR on devServer](https://github.com/vercel/next.js/issues/18028)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
+
+## [ShazanRizvi/BoardWise](https://github.com/ShazanRizvi/BoardWise)
+
+- [Document Task Endpoints (Swagger)](https://github.com/ShazanRizvi/BoardWise/issues/9)
+- [Add Dark Mode](https://github.com/ShazanRizvi/BoardWise/issues/1)
+- [Sanitize endpoints responses](https://github.com/ShazanRizvi/BoardWise/issues/3)
 
