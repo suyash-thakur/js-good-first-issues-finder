@@ -6,10 +6,14 @@ This list gets updated every day at midnight.
 
 ## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[Bug]: Expanding description automatically scrolls to the bottom of the description](https://github.com/FreeTubeApp/FreeTube/issues/6419)
 - [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
 - [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 - [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+- [Badge Misalignment in "Special Edition Badges" Section in badges.layer5.io](https://github.com/layer5labs/meshery-extensions-packages/issues/448)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -19,8 +23,8 @@ This list gets updated every day at midnight.
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
-- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [upgrade statichcheck-action to `v1.3.0` across all repos](https://github.com/meshery/meshery/issues/13041)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
@@ -41,8 +45,21 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-- [[Docs] Create Newcomer's meeting attendance folder for the week of 10/07/2024](https://github.com/meshery/meshery/issues/12012)
-- [[mesheryctl] `filter delete` returns 500 server error](https://github.com/meshery/meshery/issues/11318)
-- [[UI] Theme was not change on the first click from preferences](https://github.com/meshery/meshery/issues/12218)
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
+- [bug: Front-End fails silently once JWT Token expires](https://github.com/open-webui/open-webui/issues/5866)
+- [enh: foocus image generation engine support](https://github.com/open-webui/open-webui/issues/2648)
+- [enh: allow to use S3 for uploaded files](https://github.com/open-webui/open-webui/issues/5763)
+- [enh: Allow setting TTS voice selection per model](https://github.com/open-webui/open-webui/issues/3097)
+- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [Unable to start docker container in offline environment >= 0.4.0](https://github.com/open-webui/open-webui/issues/7207)
+- [enh: non-english (chinese) autocompletion handling](https://github.com/open-webui/open-webui/issues/7533)
 
