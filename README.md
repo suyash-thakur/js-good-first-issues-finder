@@ -7,7 +7,6 @@ This list gets updated every day at midnight.
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
-- ['New Tab' button hover background in the vertical sidebar looks oblong](https://github.com/brave/brave-browser/issues/40323)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -37,9 +36,13 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
 
-## [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Add a duplicate row/col command](https://github.com/CedricBonjour/nanocell-csv/issues/4)
-- [open link with ctrl+click](https://github.com/CedricBonjour/nanocell-csv/issues/3)
-- [On save, change window title if new filename](https://github.com/CedricBonjour/nanocell-csv/issues/7)
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+- [Badge Misalignment in "Special Edition Badges" Section in badges.layer5.io](https://github.com/layer5labs/meshery-extensions-packages/issues/448)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
 
