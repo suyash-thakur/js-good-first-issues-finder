@@ -4,6 +4,39 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/mode`](https://github.com/stdlib-js/stdlib/issues/3405)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/median`](https://github.com/stdlib-js/stdlib/issues/3403)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/stdev`](https://github.com/stdlib-js/stdlib/issues/3409)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/skewness`](https://github.com/stdlib-js/stdlib/issues/3408)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/cdf`](https://github.com/stdlib-js/stdlib/issues/3411)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3413)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/median`](https://github.com/stdlib-js/stdlib/issues/3415)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/mgf`](https://github.com/stdlib-js/stdlib/issues/3416)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/pmf`](https://github.com/stdlib-js/stdlib/issues/3418)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/quantile`](https://github.com/stdlib-js/stdlib/issues/3419)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/skewness`](https://github.com/stdlib-js/stdlib/issues/3420)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/variance`](https://github.com/stdlib-js/stdlib/issues/3422)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/cdf`](https://github.com/stdlib-js/stdlib/issues/3423)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/entropy`](https://github.com/stdlib-js/stdlib/issues/3424)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/cauchy/quantile`](https://github.com/stdlib-js/stdlib/issues/3486)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3425)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logcdf`](https://github.com/stdlib-js/stdlib/issues/3426)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/logpdf`](https://github.com/stdlib-js/stdlib/issues/3427)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/mgf`](https://github.com/stdlib-js/stdlib/issues/3430)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
@@ -35,14 +68,4 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
-- [Badge Misalignment in "Special Edition Badges" Section in badges.layer5.io](https://github.com/layer5labs/meshery-extensions-packages/issues/448)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
 
