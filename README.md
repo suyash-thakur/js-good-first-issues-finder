@@ -4,25 +4,18 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Add copy button for current PDS](https://github.com/ClearskyApp06/ClearskyUI/issues/243)
-- [did:web with history (handle history) not showing proper date / profile data](https://github.com/ClearskyApp06/ClearskyUI/issues/90)
-- [Increase size and re-style of donate button](https://github.com/ClearskyApp06/ClearskyUI/issues/100)
-- [show follow/follower/post count](https://github.com/ClearskyApp06/ClearskyUI/issues/87)
-- [Re-introduce list search for blocked and blocked by](https://github.com/ClearskyApp06/ClearskyUI/issues/211)
-- [Self assign action not working properly](https://github.com/ClearskyApp06/ClearskyUI/issues/239)
-- [Fix spacing issue for placement](https://github.com/ClearskyApp06/ClearskyUI/issues/231)
-- [Authentication required flow re-work](https://github.com/ClearskyApp06/ClearskyUI/issues/218)
-- [banner leak over to profiles that they don't belong to](https://github.com/ClearskyApp06/ClearskyUI/issues/224)
-- [handle history wording is off](https://github.com/ClearskyApp06/ClearskyUI/issues/179)
-- [Display list count ](https://github.com/ClearskyApp06/ClearskyUI/issues/188)
-- [make stats pane it's own path](https://github.com/ClearskyApp06/ClearskyUI/issues/196)
+- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
+- [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
+- [[mesheryctl] Implement a new command `org`](https://github.com/meshery/meshery/issues/13146)
+- [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
