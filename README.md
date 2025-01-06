@@ -4,18 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
-- [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[mesheryctl] Implement a new command `org`](https://github.com/meshery/meshery/issues/13146)
-- [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
@@ -40,8 +42,11 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
+- [[docs] Update ENV.md with all environment variables](https://github.com/CycloneDX/cdxgen/issues/1494)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
 
