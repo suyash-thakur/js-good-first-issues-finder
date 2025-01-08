@@ -6,10 +6,16 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
+- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
+- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
+- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
+- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
 - [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[Template] Create a Concept Map template](https://github.com/meshery/meshery/issues/12454)
 - [[Template] Create a GCP architecture template](https://github.com/meshery/meshery/issues/12498)
@@ -36,24 +42,4 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
-- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
-- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
-- [a11y: Add missing `reduce-motion` mixin](https://github.com/WordPress/gutenberg/issues/68282)
-- [Simplify a11y text on Nav block submenu indicators panel](https://github.com/WordPress/gutenberg/issues/68181)
-- [Improve editor error boundaries and error messages](https://github.com/WordPress/gutenberg/issues/34482)
-- [Add linting rule to fail build if package A incorrectly depends on package B](https://github.com/WordPress/gutenberg/issues/11865)
-- [srcset and sizes attributes missing from the featured image meta box](https://github.com/WordPress/gutenberg/issues/20795)
-- [@wordpress/scripts: sourcemap missing in builds](https://github.com/WordPress/gutenberg/issues/44278)
-- [Move navigation error state to the inspector](https://github.com/WordPress/gutenberg/issues/44486)
-- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
-- [Social Icons: Update Dribbble Logo](https://github.com/WordPress/gutenberg/issues/59090)
 
