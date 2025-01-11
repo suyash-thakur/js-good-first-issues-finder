@@ -4,35 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Upgrade antd and icons](https://github.com/jaegertracing/jaeger-ui/issues/2576)
-- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
-- [[Bug]: DAG default zoom cuts off some node label text](https://github.com/jaegertracing/jaeger-ui/issues/2060)
-- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
-- [[Deps] Remove dependency on redux-form](https://github.com/jaegertracing/jaeger-ui/issues/2556)
-- [[Feature]: log JSON wrapping](https://github.com/jaegertracing/jaeger-ui/issues/2477)
-- [[Deps]: Upgrade react-redux to 9.x](https://github.com/jaegertracing/jaeger-ui/issues/2530)
-- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
-- [[Deps]: Upgrade redux-actions to 3.x](https://github.com/jaegertracing/jaeger-ui/issues/1260)
-- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Translate README.md from English to Dutch](https://github.com/HeyPuter/puter/issues/736)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-- [Add ability to cancel ongoing deployments in Dev Center](https://github.com/HeyPuter/puter/issues/879)
-- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
-- [Add context menu to search results for better file navigation](https://github.com/HeyPuter/puter/issues/876)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
-- [Update design for https warning interstitial](https://github.com/brave/brave-browser/issues/21669)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+- [Ubuntu 22.04 is a Tier 1 platform, but main does not build with default gcc, and we do not provide instructions](https://github.com/nodejs/node/issues/56475)
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [fs.rmSync('速') crash without throw](https://github.com/nodejs/node/issues/56049)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
