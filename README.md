@@ -4,17 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
-- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
-- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
-- [Ubuntu 22.04 is a Tier 1 platform, but main does not build with default gcc, and we do not provide instructions](https://github.com/nodejs/node/issues/56475)
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [fs.rmSync('速') crash without throw](https://github.com/nodejs/node/issues/56049)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
@@ -39,6 +28,51 @@ This list gets updated every day at midnight.
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Catalog] Publish Configuring Prometheus](https://github.com/meshery/meshery/issues/9626)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [with-electron-typescript show example of image path mapped correctly](https://github.com/vercel/next.js/issues/17071)
+- [RNW example doesn't allow the page to scroll](https://github.com/vercel/next.js/issues/16956)
+- [with-segment-analytics example reports incorrect data on client-side transitions](https://github.com/vercel/next.js/issues/11535)
+- [Unable to configure modular imports for antd with babel-import-plugin](https://github.com/vercel/next.js/issues/11403)
+- [AppTree is not updated client side](https://github.com/vercel/next.js/issues/10126)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/logcdf`](https://github.com/stdlib-js/stdlib/issues/3750)
+- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/quantile`](https://github.com/stdlib-js/stdlib/issues/3444)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/levy/quantile`](https://github.com/stdlib-js/stdlib/issues/3730)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/cdf`](https://github.com/stdlib-js/stdlib/issues/3747)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/quantile`](https://github.com/stdlib-js/stdlib/issues/3756)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/mode`](https://github.com/stdlib-js/stdlib/issues/3405)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
+- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/median`](https://github.com/stdlib-js/stdlib/issues/3403)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/stdev`](https://github.com/stdlib-js/stdlib/issues/3409)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/skewness`](https://github.com/stdlib-js/stdlib/issues/3408)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/cdf`](https://github.com/stdlib-js/stdlib/issues/3411)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3413)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/median`](https://github.com/stdlib-js/stdlib/issues/3415)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/mgf`](https://github.com/stdlib-js/stdlib/issues/3416)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/pmf`](https://github.com/stdlib-js/stdlib/issues/3418)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/quantile`](https://github.com/stdlib-js/stdlib/issues/3419)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/skewness`](https://github.com/stdlib-js/stdlib/issues/3420)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/variance`](https://github.com/stdlib-js/stdlib/issues/3422)
 
