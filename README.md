@@ -4,38 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/logcdf`](https://github.com/stdlib-js/stdlib/issues/3750)
-- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
-- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/quantile`](https://github.com/stdlib-js/stdlib/issues/3444)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/levy/quantile`](https://github.com/stdlib-js/stdlib/issues/3730)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/cdf`](https://github.com/stdlib-js/stdlib/issues/3747)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/quantile`](https://github.com/stdlib-js/stdlib/issues/3756)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/mode`](https://github.com/stdlib-js/stdlib/issues/3405)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
-- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/median`](https://github.com/stdlib-js/stdlib/issues/3403)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/stdev`](https://github.com/stdlib-js/stdlib/issues/3409)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/skewness`](https://github.com/stdlib-js/stdlib/issues/3408)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/cdf`](https://github.com/stdlib-js/stdlib/issues/3411)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3413)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/median`](https://github.com/stdlib-js/stdlib/issues/3415)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/mgf`](https://github.com/stdlib-js/stdlib/issues/3416)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/pmf`](https://github.com/stdlib-js/stdlib/issues/3418)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/quantile`](https://github.com/stdlib-js/stdlib/issues/3419)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/skewness`](https://github.com/stdlib-js/stdlib/issues/3420)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/bernoulli/variance`](https://github.com/stdlib-js/stdlib/issues/3422)
+- [Display Hero Tokens](https://github.com/MetaMorphic-Digital/draw-steel/issues/156)
+- [Add Feature Subtypes](https://github.com/MetaMorphic-Digital/draw-steel/issues/63)
+- [Update System Banner](https://github.com/MetaMorphic-Digital/draw-steel/issues/22)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [winget submission](https://github.com/CycloneDX/cdxgen/issues/525)
+- [[container] Temp directories are no longer cleared](https://github.com/CycloneDX/cdxgen/issues/1234)
+- [[docs] Update ENV.md with all environment variables](https://github.com/CycloneDX/cdxgen/issues/1494)
+
+## [healthyregions/oeps](https://github.com/healthyregions/oeps)
+
+- [Update Census metrics to 2023 5-year average ](https://github.com/healthyregions/oeps/issues/62)
+- [Add Harm Reduction Metrics - Mental Health Locations](https://github.com/healthyregions/oeps/issues/59)
+- [Calculate Methadone 2023 ](https://github.com/healthyregions/oeps/issues/80)
+- [Calculate OTP Spatial Availability Metrics - 2024](https://github.com/healthyregions/oeps/issues/79)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -75,7 +61,14 @@ This list gets updated every day at midnight.
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [make Greenwood CLI and plugins `async` through and through](https://github.com/ProjectEvergreen/greenwood/issues/823)
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+
+## [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate)
+
+- [Name can contain non-ascii letters or space and long names must fit in the user context menu](https://github.com/bluewave-labs/checkmate/issues/1561)
+- [Add a modal to encourage starring the Checkmate repo](https://github.com/bluewave-labs/checkmate/issues/1484)
+- [Sidebar design changes](https://github.com/bluewave-labs/checkmate/issues/1509)
+- [Support for translation (and other localization)](https://github.com/bluewave-labs/checkmate/issues/1396)
 
