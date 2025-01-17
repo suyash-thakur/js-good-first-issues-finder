@@ -4,14 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [with-electron-typescript show example of image path mapped correctly](https://github.com/vercel/next.js/issues/17071)
-- [RNW example doesn't allow the page to scroll](https://github.com/vercel/next.js/issues/16956)
-- [with-segment-analytics example reports incorrect data on client-side transitions](https://github.com/vercel/next.js/issues/11535)
-- [Unable to configure modular imports for antd with babel-import-plugin](https://github.com/vercel/next.js/issues/11403)
-- [AppTree is not updated client side](https://github.com/vercel/next.js/issues/10126)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -38,18 +33,27 @@ This list gets updated every day at midnight.
 - [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Request: Lime](https://github.com/simple-icons/simple-icons/issues/11983)
+- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
+- [Request: MyFonts](https://github.com/simple-icons/simple-icons/issues/12262)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [with-electron-typescript show example of image path mapped correctly](https://github.com/vercel/next.js/issues/17071)
+- [RNW example doesn't allow the page to scroll](https://github.com/vercel/next.js/issues/16956)
+- [with-segment-analytics example reports incorrect data on client-side transitions](https://github.com/vercel/next.js/issues/11535)
+- [Unable to configure modular imports for antd with babel-import-plugin](https://github.com/vercel/next.js/issues/11403)
+- [AppTree is not updated client side](https://github.com/vercel/next.js/issues/10126)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+
+## [adobe/spacecat-api-service](https://github.com/adobe/spacecat-api-service)
+
+- [Slack command/API to (re)trigger reporting for a specific org/site and audit type](https://github.com/adobe/spacecat-api-service/issues/235)
 
