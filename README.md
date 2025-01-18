@@ -4,13 +4,33 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/weibull/skewness`](https://github.com/stdlib-js/stdlib/issues/3849)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/logcdf`](https://github.com/stdlib-js/stdlib/issues/3750)
+- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/quantile`](https://github.com/stdlib-js/stdlib/issues/3444)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/levy/quantile`](https://github.com/stdlib-js/stdlib/issues/3730)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/cdf`](https://github.com/stdlib-js/stdlib/issues/3747)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/quantile`](https://github.com/stdlib-js/stdlib/issues/3756)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
+- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Create Unit and Integration Tests for `mesheryctl relationships generate`Command`](https://github.com/meshery/meshery/issues/12135)
+- [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
+- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -22,7 +42,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [upgrade statichcheck-action to `v1.3.0` across all repos](https://github.com/meshery/meshery/issues/13041)
 - [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
-- [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
@@ -30,30 +49,5 @@ This list gets updated every day at midnight.
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Request: Lime](https://github.com/simple-icons/simple-icons/issues/11983)
-- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
-- [Request: MyFonts](https://github.com/simple-icons/simple-icons/issues/12262)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [with-electron-typescript show example of image path mapped correctly](https://github.com/vercel/next.js/issues/17071)
-- [RNW example doesn't allow the page to scroll](https://github.com/vercel/next.js/issues/16956)
-- [with-segment-analytics example reports incorrect data on client-side transitions](https://github.com/vercel/next.js/issues/11535)
-- [Unable to configure modular imports for antd with babel-import-plugin](https://github.com/vercel/next.js/issues/11403)
-- [AppTree is not updated client side](https://github.com/vercel/next.js/issues/10126)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-
-## [adobe/spacecat-api-service](https://github.com/adobe/spacecat-api-service)
-
-- [Slack command/API to (re)trigger reporting for a specific org/site and audit type](https://github.com/adobe/spacecat-api-service/issues/235)
 
