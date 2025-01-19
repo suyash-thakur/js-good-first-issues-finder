@@ -4,28 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/weibull/skewness`](https://github.com/stdlib-js/stdlib/issues/3849)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/logcdf`](https://github.com/stdlib-js/stdlib/issues/3750)
-- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
-- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/quantile`](https://github.com/stdlib-js/stdlib/issues/3444)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/levy/quantile`](https://github.com/stdlib-js/stdlib/issues/3730)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/cdf`](https://github.com/stdlib-js/stdlib/issues/3747)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/quantile`](https://github.com/stdlib-js/stdlib/issues/3756)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
-- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -50,4 +33,23 @@ This list gets updated every day at midnight.
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
+- [enh: allow to use S3 for uploaded files](https://github.com/open-webui/open-webui/issues/5763)
+- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
+- [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
+- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
+- [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
+- [OIDC Login Fails with 500 Error Pydantic ValidationError on Missing 'name' Field](https://github.com/open-webui/open-webui/issues/8319)
+- [feat: smarter ollama load balancing](https://github.com/open-webui/open-webui/issues/1081)
+- [bug: Front-End fails silently once JWT Token expires](https://github.com/open-webui/open-webui/issues/5866)
+- [enh: foocus image generation engine support](https://github.com/open-webui/open-webui/issues/2648)
+- [enh: Allow setting TTS voice selection per model](https://github.com/open-webui/open-webui/issues/3097)
 
