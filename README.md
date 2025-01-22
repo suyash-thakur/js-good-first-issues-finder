@@ -4,24 +4,8 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Server] Lint check failure:   server/helpers/adapters_tracker.go:114:38: SA1019: types.NetworkListOptions is deprecated: use [network.ListOptions].](https://github.com/meshery/meshery/issues/13313)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 - [[Template] Create a Kubernetes Diagram template](https://github.com/meshery/meshery/issues/12462)
 - [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
@@ -44,8 +28,33 @@ This list gets updated every day at midnight.
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
+- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
+- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
+- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
+- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
+- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
+
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
+
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
 
