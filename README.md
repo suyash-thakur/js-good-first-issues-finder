@@ -4,17 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
+- [[RFC]: Add C implementations to truncated normal distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3868)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/logpmf`](https://github.com/stdlib-js/stdlib/issues/3762)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/quantile`](https://github.com/stdlib-js/stdlib/issues/3794)
+- [[RFC]: Improve doctests for complex number typed arrays in documentation examples](https://github.com/stdlib-js/stdlib/issues/4833)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
+- [[RFC]: Add `@stdlib/assert/has-same-constructor`](https://github.com/stdlib-js/stdlib/issues/815)
+- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/weibull/skewness`](https://github.com/stdlib-js/stdlib/issues/3849)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/logcdf`](https://github.com/stdlib-js/stdlib/issues/3750)
+- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/betaprime/quantile`](https://github.com/stdlib-js/stdlib/issues/3444)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/levy/quantile`](https://github.com/stdlib-js/stdlib/issues/3730)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/cdf`](https://github.com/stdlib-js/stdlib/issues/3747)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/lognormal/quantile`](https://github.com/stdlib-js/stdlib/issues/3756)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/cdf`](https://github.com/stdlib-js/stdlib/issues/3887)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/pdf`](https://github.com/stdlib-js/stdlib/issues/3884)
+- [[RFC]: Add C implementations to Wilcoxon signed rank test statistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3854)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/cdf`](https://github.com/stdlib-js/stdlib/issues/3670)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/cdf`](https://github.com/stdlib-js/stdlib/issues/3883)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/invgamma/quantile`](https://github.com/stdlib-js/stdlib/issues/3677)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
+
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
+
+- [[UI] Duplicate rows added to table when sorting the worker page](https://github.com/taskcluster/taskcluster/issues/5431)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -40,9 +60,4 @@ This list gets updated every day at midnight.
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
