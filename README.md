@@ -4,21 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm)
 
-- [[Bug]: Support for defaultProps in Function Components to be Removed](https://github.com/jaegertracing/jaeger-ui/issues/2596)
-- [[Bug]: Error converting traces to OTLP (\uFFFD)](https://github.com/jaegertracing/jaeger-ui/issues/2589)
-- [[Fun task]: Add React tracing](https://github.com/jaegertracing/jaeger-ui/issues/1307)
-- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
-- [[Deps] Upgrade jsdom](https://github.com/jaegertracing/jaeger-ui/issues/2585)
-- [Upgrade antd and icons](https://github.com/jaegertracing/jaeger-ui/issues/2576)
-- [[Feature]: Add Horizontal Scrollbar for Viewing Long Traces in Jaeger UI](https://github.com/jaegertracing/jaeger-ui/issues/2419)
-- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
-- [[Bug]: DAG default zoom cuts off some node label text](https://github.com/jaegertracing/jaeger-ui/issues/2060)
-- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
-- [[Feature]: log JSON wrapping](https://github.com/jaegertracing/jaeger-ui/issues/2477)
-- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
-- [[Deps]: Upgrade redux-actions to 3.x](https://github.com/jaegertracing/jaeger-ui/issues/1260)
+- [Replace `_init()` with `constructor()` where possible](https://github.com/ddterm/gnome-shell-extension-ddterm/issues/1098)
+- [Use #private properties where possible](https://github.com/ddterm/gnome-shell-extension-ddterm/issues/1158)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -29,44 +18,40 @@ This list gets updated every day at midnight.
 - [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
 - [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
+- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
+- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
+- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
+- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
 
-- [Record and Generate Lilypond/ABC (Under Play)](https://github.com/sugarlabs/musicblocks/issues/2330)
-- [Octave Flip works backward for Temperament's Custom Pitch Pie Menu](https://github.com/sugarlabs/musicblocks/issues/2255)
-- [Add more documentation for some context menus](https://github.com/sugarlabs/musicblocks/issues/2403)
+- [Move copyright watermark to new location](https://github.com/ClearskyApp06/ClearskyUI/issues/289)
+- [make stats pane it's own path](https://github.com/ClearskyApp06/ClearskyUI/issues/196)
+- [Reformat history tab when user has authenticate logged out users enabled](https://github.com/ClearskyApp06/ClearskyUI/issues/260)
+- [banner leak over to profiles that they don't belong to](https://github.com/ClearskyApp06/ClearskyUI/issues/224)
+- [show follow/follower/post count](https://github.com/ClearskyApp06/ClearskyUI/issues/87)
+- [De-hyperlink unresolved (not-active) list links](https://github.com/ClearskyApp06/ClearskyUI/issues/275)
+- [Fix as of timestamp on homepage](https://github.com/ClearskyApp06/ClearskyUI/issues/273)
+- [Display list count ](https://github.com/ClearskyApp06/ClearskyUI/issues/188)
+- [Re-introduce list search for blocked and blocked by](https://github.com/ClearskyApp06/ClearskyUI/issues/211)
+- [Self assign github action not working properly](https://github.com/ClearskyApp06/ClearskyUI/issues/239)
+- [Increase size and re-style of donate button](https://github.com/ClearskyApp06/ClearskyUI/issues/100)
+- [handle history wording is off](https://github.com/ClearskyApp06/ClearskyUI/issues/179)
+- [Authentication required flow re-work](https://github.com/ClearskyApp06/ClearskyUI/issues/218)
+- [De-hyperlink accounts that are de-active in list tab](https://github.com/ClearskyApp06/ClearskyUI/issues/251)
+- [did:web with history (handle history) not showing proper date / profile data](https://github.com/ClearskyApp06/ClearskyUI/issues/90)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [Unreal-Dan/lightshow.lol](https://github.com/Unreal-Dan/lightshow.lol)
 
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
-
-## [adobe/spacecat-api-service](https://github.com/adobe/spacecat-api-service)
-
-- [Slack command/API to (re)trigger reporting for a specific org/site and audit type](https://github.com/adobe/spacecat-api-service/issues/235)
-
-## [Gautam123bot/ProjexPeers](https://github.com/Gautam123bot/ProjexPeers)
-
-- [NotFound page not working on random and wrong urls](https://github.com/Gautam123bot/ProjexPeers/issues/40)
-- [country-state-city filter not working on dashboard page](https://github.com/Gautam123bot/ProjexPeers/issues/31)
-- [Improve frontend ui](https://github.com/Gautam123bot/ProjexPeers/issues/4)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
-
-## [D2R-Reimagined/d2r-reimagined-mod](https://github.com/D2R-Reimagined/d2r-reimagined-mod)
-
-- [Paladin Late-game HolyFire Nerfs](https://github.com/D2R-Reimagined/d2r-reimagined-mod/issues/517)
-- [Last Wish Buff?](https://github.com/D2R-Reimagined/d2r-reimagined-mod/issues/515)
-- [Frost Nova](https://github.com/D2R-Reimagined/d2r-reimagined-mod/issues/516)
-- [Rebalance "Add Skills to Amulet" Recipe](https://github.com/D2R-Reimagined/d2r-reimagined-mod/issues/356)
-- [Item Addition](https://github.com/D2R-Reimagined/d2r-reimagined-mod/issues/491)
+- [Improve About Panel](https://github.com/Unreal-Dan/lightshow.lol/issues/93)
+- [Chromalink Battery Removal Popup Warning](https://github.com/Unreal-Dan/lightshow.lol/issues/90)
+- [Stop windows from being dragged off screen](https://github.com/Unreal-Dan/lightshow.lol/issues/89)
+- [adding new color could open color picker](https://github.com/Unreal-Dan/lightshow.lol/issues/88)
 
