@@ -4,19 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [songifi/lyricsflip](https://github.com/songifi/lyricsflip)
-
-- [Responsive Navbar fixes](https://github.com/songifi/lyricsflip/issues/81)
-- [Make the Hero Section Responsive with Visual Improvements](https://github.com/songifi/lyricsflip/issues/84)
-- [Build All NestJS CRUD Services for Admin and Test with Controllers](https://github.com/songifi/lyricsflip/issues/85)
-- [Develop a Responsive Play Game process pages/components](https://github.com/songifi/lyricsflip/issues/46)
-- [CONTRACT: Get Cards by Year](https://github.com/songifi/lyricsflip/issues/63)
-- [CONTRACT: Implement Next Card Logic](https://github.com/songifi/lyricsflip/issues/59)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
-- [Custom Scriptlets names should allow uppercase characters and not be restricted to lowercase only.](https://github.com/brave/brave-browser/issues/43107)
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
@@ -30,9 +20,21 @@ This list gets updated every day at midnight.
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [nextcloud/mail](https://github.com/nextcloud/mail)
+## [terrastruct/d2](https://github.com/terrastruct/d2)
 
-- [Undefined array key in DKIM validator](https://github.com/nextcloud/mail/issues/9213)
+- [d2js: Create build that splits WASM file [help wanted]](https://github.com/terrastruct/d2/issues/2285)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
+- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
+- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/15302)
+- [[ACTION] Calendly - List User Availability Schedules](https://github.com/PipedreamHQ/pipedream/issues/15214)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -42,43 +44,32 @@ This list gets updated every day at midnight.
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 
-## [grommet/grommet](https://github.com/grommet/grommet)
+## [Lead-Studios/DeWordle](https://github.com/Lead-Studios/DeWordle)
 
-- [Add `plain` prop to FormField](https://github.com/grommet/grommet/issues/2975)
+- [Implement Sign-In Page from Figma Design](https://github.com/Lead-Studios/DeWordle/issues/61)
+- [Create Landing Page for DEW_RDLE](https://github.com/Lead-Studios/DeWordle/issues/62)
+- [ FRONTEND: Update Grid Dynamically with Keyboard](https://github.com/Lead-Studios/DeWordle/issues/11)
+- [CONTRACT: Implement `is_correct_word` Functionality](https://github.com/Lead-Studios/DeWordle/issues/29)
 
-## [sl5net/autocivP](https://github.com/sl5net/autocivP)
+## [facebook/stylex](https://github.com/facebook/stylex)
 
-- [Chat Position is not defined (guest during game-configuration)](https://github.com/sl5net/autocivP/issues/37)
-- [test greeting](https://github.com/sl5net/autocivP/issues/36)
+- [Allow `stylex.create` nested within TS namespaces (and more?)](https://github.com/facebook/stylex/issues/829)
 
-## [facebook/create-react-app](https://github.com/facebook/create-react-app)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Check Node version early](https://github.com/facebook/create-react-app/issues/5430)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Elements are not consistently aligned](https://github.com/nextcloud/forms/issues/2403)
-
-## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-
-- [Remove the Dependency on Babel: Allow Prebid to be used with any build system](https://github.com/prebid/Prebid.js/issues/10086)
+- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
 
 ## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
+- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
 - [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
 - [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
 - [OIDC Login Fails with 500 Error Pydantic ValidationError on Missing 'name' Field](https://github.com/open-webui/open-webui/issues/8319)
 - [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
-- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
 - [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
 - [feat: smarter ollama load balancing](https://github.com/open-webui/open-webui/issues/1081)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [TryGhost/gscan](https://github.com/TryGhost/gscan/pull/434)
 
-- [Support for pnpm dlx command](https://github.com/CycloneDX/cdxgen/issues/1605)
-- [[formulation] Capture workflow steps](https://github.com/CycloneDX/cdxgen/issues/1573)
-- [[cargo]: Incorrect version number parsing in cargo.toml](https://github.com/CycloneDX/cdxgen/issues/1592)
-- [[python] Automatic pip install is not working for python>=3.12 without wheel](https://github.com/CycloneDX/cdxgen/issues/1531)
-- [winget submission](https://github.com/CycloneDX/cdxgen/issues/525)
-- [[container] Temp directories are no longer cleared](https://github.com/CycloneDX/cdxgen/issues/1234)
+- [Simplified koenig css class checker syntax](https://github.com/TryGhost/gscan/pull/434)
 
