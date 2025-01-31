@@ -20,21 +20,20 @@ This list gets updated every day at midnight.
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [terrastruct/d2](https://github.com/terrastruct/d2)
+## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
 
-- [d2js: Create build that splits WASM file [help wanted]](https://github.com/terrastruct/d2/issues/2285)
+- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
+- [Extract metrics from slogs and send them to otel](https://github.com/Agoric/agoric-sdk/issues/9579)
+- [Increase history length of flight recorder ](https://github.com/Agoric/agoric-sdk/issues/8425)
+- [Add test to x/swingset covering swing-store export data updates](https://github.com/Agoric/agoric-sdk/issues/8338)
+- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
-- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
-- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/15302)
-- [[ACTION] Calendly - List User Availability Schedules](https://github.com/PipedreamHQ/pipedream/issues/15214)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -44,32 +43,25 @@ This list gets updated every day at midnight.
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 
-## [Lead-Studios/DeWordle](https://github.com/Lead-Studios/DeWordle)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Implement Sign-In Page from Figma Design](https://github.com/Lead-Studios/DeWordle/issues/61)
-- [Create Landing Page for DEW_RDLE](https://github.com/Lead-Studios/DeWordle/issues/62)
-- [ FRONTEND: Update Grid Dynamically with Keyboard](https://github.com/Lead-Studios/DeWordle/issues/11)
-- [CONTRACT: Implement `is_correct_word` Functionality](https://github.com/Lead-Studios/DeWordle/issues/29)
+- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
+- [Add support for multiple configurable webhook URLs](https://github.com/metriport/metriport/issues/2051)
 
-## [facebook/stylex](https://github.com/facebook/stylex)
+## [grommet/grommet](https://github.com/grommet/grommet)
 
-- [Allow `stylex.create` nested within TS namespaces (and more?)](https://github.com/facebook/stylex/issues/829)
+- [Add `plain` prop to FormField](https://github.com/grommet/grommet/issues/2975)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
 
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
+- [`limit` response field in `account_lines`](https://github.com/XRPLF/xrpl-dev-portal/issues/1838)
 
 ## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
+- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
 - [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
 - [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
-- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
-- [OIDC Login Fails with 500 Error Pydantic ValidationError on Missing 'name' Field](https://github.com/open-webui/open-webui/issues/8319)
 - [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
 - [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
 - [feat: smarter ollama load balancing](https://github.com/open-webui/open-webui/issues/1081)
-
-## [TryGhost/gscan](https://github.com/TryGhost/gscan/pull/434)
-
-- [Simplified koenig css class checker syntax](https://github.com/TryGhost/gscan/pull/434)
 
