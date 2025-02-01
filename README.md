@@ -4,36 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Make Ads Settings and 30-Day Ads History modal wider in full view](https://github.com/brave/brave-browser/issues/43295)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [refactor enumeratePrefixedKeys to return { key, suffix }](https://github.com/Agoric/agoric-sdk/issues/10340)
-- [Extract metrics from slogs and send them to otel](https://github.com/Agoric/agoric-sdk/issues/9579)
-- [Increase history length of flight recorder ](https://github.com/Agoric/agoric-sdk/issues/8425)
-- [Add test to x/swingset covering swing-store export data updates](https://github.com/Agoric/agoric-sdk/issues/8338)
-- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
+- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -43,25 +21,50 @@ This list gets updated every day at midnight.
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 
-## [metriport/metriport](https://github.com/metriport/metriport)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
-- [Add support for multiple configurable webhook URLs](https://github.com/metriport/metriport/issues/2051)
+- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
+- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
+- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/15302)
+- [[ACTION] Calendly - List User Availability Schedules](https://github.com/PipedreamHQ/pipedream/issues/15214)
+
+## [solhint-community/solhint-community](https://github.com/solhint-community/solhint-community)
+
+- [`no-empty-blocks` exceptions](https://github.com/solhint-community/solhint-community/issues/149)
+
+## [abo3skr2019/Student-Club-Management-System](https://github.com/abo3skr2019/Student-Club-Management-System)
+
+- [Add Types to the Codebase](https://github.com/abo3skr2019/Student-Club-Management-System/issues/44)
+- [Create Landing Page](https://github.com/abo3skr2019/Student-Club-Management-System/issues/35)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [Record and Generate Lilypond/ABC (Under Play)](https://github.com/sugarlabs/musicblocks/issues/2330)
+- [Octave Flip works backward for Temperament's Custom Pitch Pie Menu](https://github.com/sugarlabs/musicblocks/issues/2255)
+- [Add more documentation for some context menus](https://github.com/sugarlabs/musicblocks/issues/2403)
 
 ## [grommet/grommet](https://github.com/grommet/grommet)
 
 - [Add `plain` prop to FormField](https://github.com/grommet/grommet/issues/2975)
 
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [`limit` response field in `account_lines`](https://github.com/XRPLF/xrpl-dev-portal/issues/1838)
+- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
-- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
-- [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
-- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
-- [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
-- [feat: smarter ollama load balancing](https://github.com/open-webui/open-webui/issues/1081)
+- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Message expiration is not hidden when not supported by the server](https://github.com/nextcloud/spreed/issues/11335)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
 
