@@ -9,44 +9,39 @@ This list gets updated every day at midnight.
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [aminezouari52/telemedicine-website](https://github.com/aminezouari52/telemedicine-website)
 
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
+- [Add data fetching and caching tool](https://github.com/aminezouari52/telemedicine-website/issues/3)
+- [Implement video call capability](https://github.com/aminezouari52/telemedicine-website/issues/4)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
+- [Add support for multiple configurable webhook URLs](https://github.com/metriport/metriport/issues/2051)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
-- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
-- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/15302)
-- [[ACTION] Calendly - List User Availability Schedules](https://github.com/PipedreamHQ/pipedream/issues/15214)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
 
-## [solhint-community/solhint-community](https://github.com/solhint-community/solhint-community)
+## [tidalcycles/strudel](https://github.com/tidalcycles/strudel)
 
-- [`no-empty-blocks` exceptions](https://github.com/solhint-community/solhint-community/issues/149)
+- [Missing documentation](https://github.com/tidalcycles/strudel/issues/58)
+- [ pipe operator is not described yet](https://github.com/tidalcycles/strudel/issues/1131)
 
-## [abo3skr2019/Student-Club-Management-System](https://github.com/abo3skr2019/Student-Club-Management-System)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Add Types to the Codebase](https://github.com/abo3skr2019/Student-Club-Management-System/issues/44)
-- [Create Landing Page](https://github.com/abo3skr2019/Student-Club-Management-System/issues/35)
+- [Add Kanvas and Sistent Contributor badges to members and recognition pages](https://github.com/layer5io/layer5/issues/6205)
+- [[form] remove the gradient from form fields](https://github.com/layer5io/layer5/issues/6199)
+- [Responsive issues on Internship, brand pages of layer5 ](https://github.com/layer5io/layer5/issues/5997)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [DevDogs-UGA/Optimal-Schedule-Builder](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder)
 
-- [Record and Generate Lilypond/ABC (Under Play)](https://github.com/sugarlabs/musicblocks/issues/2330)
-- [Octave Flip works backward for Temperament's Custom Pitch Pie Menu](https://github.com/sugarlabs/musicblocks/issues/2255)
-- [Add more documentation for some context menus](https://github.com/sugarlabs/musicblocks/issues/2403)
-
-## [grommet/grommet](https://github.com/grommet/grommet)
-
-- [Add `plain` prop to FormField](https://github.com/grommet/grommet/issues/2975)
+- [Create Code: Create a Helper method in BruteForceUtil.java that converts days to usable format](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/475)
+- [Footer Redesign](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/470)
+- [Schedule Page Navbar Changes](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/438)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -54,17 +49,24 @@ This list gets updated every day at midnight.
 - [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
 - [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
 - [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+## [ETEnterprises1/Master](https://github.com/ETEnterprises1/Master)
 
-- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [Message expiration is not hidden when not supported by the server](https://github.com/nextcloud/spreed/issues/11335)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Verification ID56255766.Get Outlook for Android](https://github.com/ETEnterprises1/Master/issues/221)
+- [Uniswap wallet balance](https://github.com/ETEnterprises1/Master/issues/219)
+- [Import files and update main](https://github.com/ETEnterprises1/Master/issues/218)
+- [> `git commit -requesting pull all`](https://github.com/ETEnterprises1/Master/issues/216)
+- [.mhtml](https://github.com/ETEnterprises1/Master/issues/214)
+- [import all branches and update master](https://github.com/ETEnterprises1/Master/issues/213)
+- [https://www.google.com/search?q=BMO+Financial+Group&oq=BMO+Financial+Group&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDINCAIQLhivARjHARiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMzE2M2owajeoAhSwAgE&client=ms-android-dish-us-rvc3&sourceid=chrome-mobile&ie=UTF-8#ebo=0](https://github.com/ETEnterprises1/Master/issues/209)
+
+## [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv)
+
+- [Show the delimiter used in the footer](https://github.com/CedricBonjour/nanocell-csv/issues/14)
+
+## [abo3skr2019/Student-Club-Management-System](https://github.com/abo3skr2019/Student-Club-Management-System)
+
+- [Add API Documentation to the WIKI](https://github.com/abo3skr2019/Student-Club-Management-System/issues/70)
+- [Add Types to the Codebase](https://github.com/abo3skr2019/Student-Club-Management-System/issues/44)
+- [Create Landing Page](https://github.com/abo3skr2019/Student-Club-Management-System/issues/35)
 
