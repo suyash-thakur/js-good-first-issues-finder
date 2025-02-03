@@ -4,21 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-
-## [aminezouari52/telemedicine-website](https://github.com/aminezouari52/telemedicine-website)
-
-- [Add data fetching and caching tool](https://github.com/aminezouari52/telemedicine-website/issues/3)
-- [Implement video call capability](https://github.com/aminezouari52/telemedicine-website/issues/4)
-
-## [metriport/metriport](https://github.com/metriport/metriport)
-
-- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
-- [Add support for multiple configurable webhook URLs](https://github.com/metriport/metriport/issues/2051)
-
 ## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
 - [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
@@ -26,47 +11,66 @@ This list gets updated every day at midnight.
 - [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 - [Ability to change buffer size](https://github.com/FreeTubeApp/FreeTube/issues/678)
 
+## [eltoder/setwithfriends](https://github.com/eltoder/setwithfriends)
+
+- [Allow liking messages in chat](https://github.com/eltoder/setwithfriends/issues/104)
+- [Add notifications](https://github.com/eltoder/setwithfriends/issues/109)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
+- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
+- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
+- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
+
 ## [tidalcycles/strudel](https://github.com/tidalcycles/strudel)
 
 - [Missing documentation](https://github.com/tidalcycles/strudel/issues/58)
 - [ pipe operator is not described yet](https://github.com/tidalcycles/strudel/issues/1131)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [terrastruct/d2](https://github.com/terrastruct/d2)
 
-- [Add Kanvas and Sistent Contributor badges to members and recognition pages](https://github.com/layer5io/layer5/issues/6205)
-- [[form] remove the gradient from form fields](https://github.com/layer5io/layer5/issues/6199)
-- [Responsive issues on Internship, brand pages of layer5 ](https://github.com/layer5io/layer5/issues/5997)
+- [d2js: Create build that splits WASM file [help wanted]](https://github.com/terrastruct/d2/issues/2285)
 
-## [DevDogs-UGA/Optimal-Schedule-Builder](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Create Code: Create a Helper method in BruteForceUtil.java that converts days to usable format](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/475)
-- [Footer Redesign](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/470)
-- [Schedule Page Navbar Changes](https://github.com/DevDogs-UGA/Optimal-Schedule-Builder/issues/438)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
-- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [Buffer.utf8Write() fails to write when buffer length exceeds 2 GB](https://github.com/nodejs/node/issues/51817)
-
-## [ETEnterprises1/Master](https://github.com/ETEnterprises1/Master)
-
-- [Verification ID56255766.Get Outlook for Android](https://github.com/ETEnterprises1/Master/issues/221)
-- [Uniswap wallet balance](https://github.com/ETEnterprises1/Master/issues/219)
-- [Import files and update main](https://github.com/ETEnterprises1/Master/issues/218)
-- [> `git commit -requesting pull all`](https://github.com/ETEnterprises1/Master/issues/216)
-- [.mhtml](https://github.com/ETEnterprises1/Master/issues/214)
-- [import all branches and update master](https://github.com/ETEnterprises1/Master/issues/213)
-- [https://www.google.com/search?q=BMO+Financial+Group&oq=BMO+Financial+Group&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDINCAIQLhivARjHARiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMzE2M2owajeoAhSwAgE&client=ms-android-dish-us-rvc3&sourceid=chrome-mobile&ie=UTF-8#ebo=0](https://github.com/ETEnterprises1/Master/issues/209)
-
-## [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv)
-
-- [Show the delimiter used in the footer](https://github.com/CedricBonjour/nanocell-csv/issues/14)
-
-## [abo3skr2019/Student-Club-Management-System](https://github.com/abo3skr2019/Student-Club-Management-System)
-
-- [Add API Documentation to the WIKI](https://github.com/abo3skr2019/Student-Club-Management-System/issues/70)
-- [Add Types to the Codebase](https://github.com/abo3skr2019/Student-Club-Management-System/issues/44)
-- [Create Landing Page](https://github.com/abo3skr2019/Student-Club-Management-System/issues/35)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/uniform`](https://github.com/stdlib-js/stdlib/issues/4991)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/pmf`](https://github.com/stdlib-js/stdlib/issues/3766)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists` (tracking issue)](https://github.com/stdlib-js/stdlib/issues/4993)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/studentized-range`](https://github.com/stdlib-js/stdlib/issues/4987)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/lognormal`](https://github.com/stdlib-js/stdlib/issues/4979)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/4982)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/rayleigh`](https://github.com/stdlib-js/stdlib/issues/4985)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/triangular`](https://github.com/stdlib-js/stdlib/issues/4989)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/levy`](https://github.com/stdlib-js/stdlib/issues/4977)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/logistic`](https://github.com/stdlib-js/stdlib/issues/4978)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/negative-binomial`](https://github.com/stdlib-js/stdlib/issues/4980)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/normal`](https://github.com/stdlib-js/stdlib/issues/4981)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/planck`](https://github.com/stdlib-js/stdlib/issues/4983)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/poisson`](https://github.com/stdlib-js/stdlib/issues/4984)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/t`](https://github.com/stdlib-js/stdlib/issues/4988)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/truncated-normal`](https://github.com/stdlib-js/stdlib/issues/4990)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/weibull`](https://github.com/stdlib-js/stdlib/issues/4992)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/laplace`](https://github.com/stdlib-js/stdlib/issues/4976)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/kumaraswamy`](https://github.com/stdlib-js/stdlib/issues/4975)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/logpmf`](https://github.com/stdlib-js/stdlib/issues/3788)
+- [[RFC]: Add C implementations to truncated normal distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3868)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/logpmf`](https://github.com/stdlib-js/stdlib/issues/3762)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/quantile`](https://github.com/stdlib-js/stdlib/issues/3794)
+- [[RFC]: Improve doctests for complex number typed arrays in documentation examples](https://github.com/stdlib-js/stdlib/issues/4833)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
+- [[RFC]: Add `@stdlib/assert/has-same-constructor`](https://github.com/stdlib-js/stdlib/issues/815)
+- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/t/logcdf`](https://github.com/stdlib-js/stdlib/issues/3872)
 
