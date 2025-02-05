@@ -4,22 +4,26 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## [metriport/metriport](https://github.com/metriport/metriport)
 
-- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
-- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
-- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
-- [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
-- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
-- [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
-- [feat: smarter ollama load balancing](https://github.com/open-webui/open-webui/issues/1081)
+- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
 
-## [terrastruct/d2](https://github.com/terrastruct/d2)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [d2js: Create build that splits WASM file [help wanted]](https://github.com/terrastruct/d2/issues/2285)
+- [Server side page si not generated in lingui example](https://github.com/vercel/next.js/issues/36717)
+- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
+- [Hot Reloading not working in Next.js 9 using custom routing, styled components and withApollo example](https://github.com/vercel/next.js/issues/16449)
+- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
+- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
+- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Update brave://settings header](https://github.com/brave/brave-browser/issues/43718)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
@@ -29,33 +33,26 @@ This list gets updated every day at midnight.
 - [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
 - [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
 
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
+- [Infratructure monitors should be editable](https://github.com/bluewave-labs/Checkmate/issues/1277)
+- [Allow username to contain non-ascii letters or space + long names must fit in the user context menu](https://github.com/bluewave-labs/Checkmate/issues/1561)
+- [Support for translation (and other localization)](https://github.com/bluewave-labs/Checkmate/issues/1396)
+- [Add a modal to encourage starring the Checkmate repo](https://github.com/bluewave-labs/Checkmate/issues/1484)
+- [Sidebar design changes](https://github.com/bluewave-labs/Checkmate/issues/1509)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 
-## [ampproject/amphtml](https://github.com/ampproject/amphtml)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Request to include channel in <amp-youtube>](https://github.com/ampproject/amphtml/issues/26304)
+- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [phlask/phlask-map](https://github.com/phlask/phlask-map)
 
-- [Cesium3DTileBatchTable: getClassificationFragmentShaderCallback not used in code?](https://github.com/CesiumGS/cesium/issues/12422)
-- [Plan to remove `request` lib](https://github.com/CesiumGS/cesium/issues/11095)
-- [Sandcastle thumbnails not all the same size](https://github.com/CesiumGS/cesium/issues/8229)
-- [EntityCluster hasLabelIndex always returns false](https://github.com/CesiumGS/cesium/issues/7446)
-- [GeocoderViewModel.search command not executed when user clicks a suggestion](https://github.com/CesiumGS/cesium/issues/6313)
-- [Add async constructor for Materials with image textures](https://github.com/CesiumGS/cesium/issues/10566)
-- [defaultValue.EMPTY_OBJECT missing from documentation and Typescript](https://github.com/CesiumGS/cesium/issues/11326)
-- [CesiumJS should not use `push.apply` for potentially large arrays](https://github.com/CesiumGS/cesium/issues/12053)
-- [ktx2 texture with mipmap has Jagged Edge in Cesium'Primitive](https://github.com/CesiumGS/cesium/issues/12413)
-- [MOUSE_MOVE fires outside of canvas in Firefox](https://github.com/CesiumGS/cesium/issues/12373)
-- [[Cesium WebGL] Fragment shader compile log: ERROR: 0:430: 'clipPolygons' : no matching overloaded function found](https://github.com/CesiumGS/cesium/issues/12414)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Invalid HTML inside `dangerouslySetInnerHTML` breaks the page.](https://github.com/vercel/next.js/issues/14797)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Create a Confirmation Modal (mobile) of the Add Site Crowdsourcing Flow](https://github.com/phlask/phlask-map/issues/341)
+- [Selected Tap should be marked by Active/Inverted Pin](https://github.com/phlask/phlask-map/issues/386)
 
