@@ -4,11 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
 
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Auto-populate Jurisdiction field in add incident screen](https://github.com/sheltermanager/asm3/issues/1661)
+- [Vaccination batch expiry](https://github.com/sheltermanager/asm3/issues/965)
+- [Stock: Move option](https://github.com/sheltermanager/asm3/issues/1654)
+- [4 digit padding XXXX and NNNN codes](https://github.com/sheltermanager/asm3/issues/1643)
+- [animalmedical.MedicalTypeID column](https://github.com/sheltermanager/asm3/issues/1652)
+- [Better CSV import validation](https://github.com/sheltermanager/asm3/issues/1478)
+- [Bulk create medical/vacc/test keep list after creation](https://github.com/sheltermanager/asm3/issues/1326)
+- [Bulk change animals: refactor screen](https://github.com/sheltermanager/asm3/issues/1618)
+- [Mobile UI: Menu to show online forms](https://github.com/sheltermanager/asm3/issues/1534)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -24,35 +30,38 @@ This list gets updated every day at midnight.
 - [winget submission](https://github.com/CycloneDX/cdxgen/issues/525)
 - [[container] Temp directories are no longer cleared](https://github.com/CycloneDX/cdxgen/issues/1234)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Support for pnpm dlx command](https://github.com/CycloneDX/cdxgen/issues/1605)
-- [[formulation] Capture workflow steps](https://github.com/CycloneDX/cdxgen/issues/1573)
-- [[cargo]: Incorrect version number parsing in cargo.toml](https://github.com/CycloneDX/cdxgen/issues/1592)
-- [[python] Automatic pip install is not working for python>=3.12 without wheel](https://github.com/CycloneDX/cdxgen/issues/1531)
-- [winget submission](https://github.com/CycloneDX/cdxgen/issues/525)
-- [[container] Temp directories are no longer cleared](https://github.com/CycloneDX/cdxgen/issues/1234)
-
-## [sl5net/autocivp](https://github.com/sl5net/autocivp)
-
-- [test it with Grapjas93 mod](https://github.com/sl5net/autocivp/issues/38)
-- [test greeting](https://github.com/sl5net/autocivp/issues/36)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
-- [Allow Custom Scriptlets / Developer mode to assign different mime to the 'scriptlets'](https://github.com/brave/brave-browser/issues/43108)
-- [Custom Scriptlets / Developer mode should have buttons to re-order the list of Scriptlets](https://github.com/brave/brave-browser/issues/43106)
-- [Shortcut in the commander show incorrect key binding order instead of the originally created order](https://github.com/brave/brave-browser/issues/43129)
-
-## [Marak/buddypond](https://github.com/Marak/buddypond)
-
-- [Entire Desktop should support Drag and Drop Event and understand Desktop's active app and context](https://github.com/Marak/buddypond/issues/54)
+- [Address commit comments (commit `28b78a0`)](https://github.com/stdlib-js/stdlib/issues/5126)
+- [Address commit comments (commit `95dd2ff`)](https://github.com/stdlib-js/stdlib/issues/5125)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/t`](https://github.com/stdlib-js/stdlib/issues/4988)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/logistic`](https://github.com/stdlib-js/stdlib/issues/4978)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/planck`](https://github.com/stdlib-js/stdlib/issues/4983)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/normal`](https://github.com/stdlib-js/stdlib/issues/4981)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/truncated-normal`](https://github.com/stdlib-js/stdlib/issues/4990)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/rayleigh`](https://github.com/stdlib-js/stdlib/issues/4985)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/weibull`](https://github.com/stdlib-js/stdlib/issues/4992)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists` (tracking issue)](https://github.com/stdlib-js/stdlib/issues/4993)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/levy`](https://github.com/stdlib-js/stdlib/issues/4977)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/studentized-range`](https://github.com/stdlib-js/stdlib/issues/4987)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/uniform`](https://github.com/stdlib-js/stdlib/issues/4991)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/pmf`](https://github.com/stdlib-js/stdlib/issues/3766)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/lognormal`](https://github.com/stdlib-js/stdlib/issues/4979)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/4982)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/triangular`](https://github.com/stdlib-js/stdlib/issues/4989)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/negative-binomial`](https://github.com/stdlib-js/stdlib/issues/4980)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/laplace`](https://github.com/stdlib-js/stdlib/issues/4976)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/kumaraswamy`](https://github.com/stdlib-js/stdlib/issues/4975)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/logpmf`](https://github.com/stdlib-js/stdlib/issues/3788)
+- [[RFC]: Add C implementations to truncated normal distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3868)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/logpmf`](https://github.com/stdlib-js/stdlib/issues/3762)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/quantile`](https://github.com/stdlib-js/stdlib/issues/3794)
+- [[RFC]: Improve doctests for complex number typed arrays in documentation examples](https://github.com/stdlib-js/stdlib/issues/4833)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
+- [[RFC]: Add `@stdlib/assert/has-same-constructor`](https://github.com/stdlib-js/stdlib/issues/815)
+- [[RFC]: Add C implementations to studentized range distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3886)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/signrank/quantile`](https://github.com/stdlib-js/stdlib/issues/3885)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
