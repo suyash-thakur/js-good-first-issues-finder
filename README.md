@@ -4,11 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [sl5net/autocivp](https://github.com/sl5net/autocivp)
-
-- [test it with Grapjas93 mod](https://github.com/sl5net/autocivp/issues/38)
-- [test greeting](https://github.com/sl5net/autocivp/issues/36)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
@@ -18,30 +13,10 @@ This list gets updated every day at midnight.
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 - [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
-- [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
-- [bug: Front-End fails silently once JWT Token expires](https://github.com/open-webui/open-webui/issues/5866)
-- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
-- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
-- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
-- [add Auto Direction Detection ](https://github.com/open-webui/open-webui/issues/8448)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
-
-## [tradingbootcamp/platform](https://github.com/tradingbootcamp/platform)
-
-- [0 in price/size field persists when typing](https://github.com/tradingbootcamp/platform/issues/110)
-- [Have UI show all open orders somewhere](https://github.com/tradingbootcamp/platform/issues/109)
-- [Toggleable sidebar](https://github.com/tradingbootcamp/platform/issues/86)
-- [Format the SQL queries nicely](https://github.com/tradingbootcamp/platform/issues/152)
-- [Price chart timestamp formatting](https://github.com/tradingbootcamp/platform/issues/57)
-- [Add doc comments to the protobuf files](https://github.com/tradingbootcamp/platform/issues/69)
-- [Reject order placed < 0.1 from settlement limits](https://github.com/tradingbootcamp/platform/issues/82)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -53,4 +28,30 @@ This list gets updated every day at midnight.
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
+- [FE - Excessive gutter on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1730)
+- [FE - Status Page graph not displaying well on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1729)
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
+- [Infratructure monitors should be editable](https://github.com/bluewave-labs/Checkmate/issues/1277)
+- [Allow username to contain non-ascii letters or space + long names must fit in the user context menu](https://github.com/bluewave-labs/Checkmate/issues/1561)
+- [Support for translation (and other localization)](https://github.com/bluewave-labs/Checkmate/issues/1396)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [Bruno is altering response headers to lowercase when they shouldn't be](https://github.com/usebruno/bruno/issues/2012)
+- [It's difficult to find how to open web console in Bruno v0.20.0](https://github.com/usebruno/bruno/issues/440)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
+- [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985)
+- [Auth option Api Key does not add header to request](https://github.com/usebruno/bruno/issues/3843)
 
