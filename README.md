@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [sl5net/autocivp](https://github.com/sl5net/autocivp)
+
+- [test it with Grapjas93 mod](https://github.com/sl5net/autocivp/issues/38)
+- [test greeting](https://github.com/sl5net/autocivp/issues/36)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
@@ -11,47 +16,64 @@ This list gets updated every day at midnight.
 - [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
 - [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [add a shortcut to enable the pip mode while watching youtube](https://github.com/brave/brave-browser/issues/43081)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [lowercasename/gathio](https://github.com/lowercasename/gathio)
 
-- [Feat: Converting Hamburger icon to cross in Navbar after clicking](https://github.com/meshery/meshery.io/issues/1894)
-- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
+- [user can bypass capacity if using Mastodon bridge](https://github.com/lowercasename/gathio/issues/183)
+
+## [acm-uic/WebMinigames](https://github.com/acm-uic/WebMinigames)
+
+- [Prototype LikedGames component](https://github.com/acm-uic/WebMinigames/issues/29)
+- [Prototype ProfileBio component](https://github.com/acm-uic/WebMinigames/issues/28)
+- [Create GameDetails component](https://github.com/acm-uic/WebMinigames/issues/34)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
+- [Forms](https://github.com/PipedreamHQ/pipedream/issues/15514)
+- [Direct Costs](https://github.com/PipedreamHQ/pipedream/issues/15515)
+- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
+- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/15302)
+- [[ACTION] Calendly - List User Availability Schedules](https://github.com/PipedreamHQ/pipedream/issues/15214)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Server side page si not generated in lingui example](https://github.com/vercel/next.js/issues/36717)
-- [withApollo example is still firing queries server-side](https://github.com/vercel/next.js/issues/18313)
-- [Hot Reloading not working in Next.js 9 using custom routing, styled components and withApollo example](https://github.com/vercel/next.js/issues/16449)
-- [[with-firebase-authentication] Can't use Firebase Admin SDK for anything other than verifying the token](https://github.com/vercel/next.js/issues/14139)
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
-- [FE - Excessive gutter on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1730)
-- [FE - Status Page graph not displaying well on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1729)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
-- [Infratructure monitors should be editable](https://github.com/bluewave-labs/Checkmate/issues/1277)
-- [Allow username to contain non-ascii letters or space + long names must fit in the user context menu](https://github.com/bluewave-labs/Checkmate/issues/1561)
-- [Support for translation (and other localization)](https://github.com/bluewave-labs/Checkmate/issues/1396)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
-- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Bruno is altering response headers to lowercase when they shouldn't be](https://github.com/usebruno/bruno/issues/2012)
-- [It's difficult to find how to open web console in Bruno v0.20.0](https://github.com/usebruno/bruno/issues/440)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-- [script PostResponse: res is not a function ](https://github.com/usebruno/bruno/issues/481)
-- [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985)
-- [Auth option Api Key does not add header to request](https://github.com/usebruno/bruno/issues/3843)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/negative-binomial`](https://github.com/stdlib-js/stdlib/issues/4980)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/5155)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/laplace`](https://github.com/stdlib-js/stdlib/issues/4976)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/lognormal`](https://github.com/stdlib-js/stdlib/issues/4979)
+- [Address commit comments (commit `0eac653`)](https://github.com/stdlib-js/stdlib/issues/5148)
+- [Address commit comments (commit `0806d8d`)](https://github.com/stdlib-js/stdlib/issues/5147)
+- [Address commit comments (commit `a94091c`)](https://github.com/stdlib-js/stdlib/issues/5146)
+- [Address commit comments (commit `8cfbf33`)](https://github.com/stdlib-js/stdlib/issues/5145)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/t`](https://github.com/stdlib-js/stdlib/issues/4988)
+- [Address commit comments (commit `95dd2ff`)](https://github.com/stdlib-js/stdlib/issues/5125)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/logistic`](https://github.com/stdlib-js/stdlib/issues/4978)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/normal`](https://github.com/stdlib-js/stdlib/issues/4981)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/truncated-normal`](https://github.com/stdlib-js/stdlib/issues/4990)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/rayleigh`](https://github.com/stdlib-js/stdlib/issues/4985)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/weibull`](https://github.com/stdlib-js/stdlib/issues/4992)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists` (tracking issue)](https://github.com/stdlib-js/stdlib/issues/4993)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/levy`](https://github.com/stdlib-js/stdlib/issues/4977)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/studentized-range`](https://github.com/stdlib-js/stdlib/issues/4987)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/uniform`](https://github.com/stdlib-js/stdlib/issues/4991)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/pmf`](https://github.com/stdlib-js/stdlib/issues/3766)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1`](https://github.com/stdlib-js/stdlib/issues/4982)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/triangular`](https://github.com/stdlib-js/stdlib/issues/4989)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/kumaraswamy`](https://github.com/stdlib-js/stdlib/issues/4975)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/logpmf`](https://github.com/stdlib-js/stdlib/issues/3788)
+- [[RFC]: Add C implementations to truncated normal distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3868)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/logpmf`](https://github.com/stdlib-js/stdlib/issues/3762)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/poisson/quantile`](https://github.com/stdlib-js/stdlib/issues/3794)
+- [[RFC]: Improve doctests for complex number typed arrays in documentation examples](https://github.com/stdlib-js/stdlib/issues/4833)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/truncated-normal/pdf`](https://github.com/stdlib-js/stdlib/issues/3882)
 
