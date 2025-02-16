@@ -6,6 +6,7 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
@@ -33,26 +34,10 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 
-## [metriport/metriport](https://github.com/metriport/metriport)
+## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
 
-- [Filter by facility on patient page](https://github.com/metriport/metriport/issues/3168)
-
-## [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop)
-
-- [Add support for user high-contrast themes and dyslexia font](https://github.com/nextcloud/talk-desktop/issues/56)
-- [Add log in via web-browser (Login flow v2)](https://github.com/nextcloud/talk-desktop/issues/61)
-- [Update notification is too easy to miss](https://github.com/nextcloud/talk-desktop/issues/155)
-- [Add language/locale settings](https://github.com/nextcloud/talk-desktop/issues/1034)
-- [Save and restore window position on reopen](https://github.com/nextcloud/talk-desktop/issues/15)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Human in the loop for apps](https://github.com/PipedreamHQ/pipedream/issues/15579)
-- [[TRIGGER] GitHub issue_comment](https://github.com/PipedreamHQ/pipedream/issues/15619)
-- [Jobber API version update](https://github.com/PipedreamHQ/pipedream/issues/15599)
-- [[ACTIONS] Procore - Direct Costs API](https://github.com/PipedreamHQ/pipedream/issues/15515)
-- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
-- [Forms](https://github.com/PipedreamHQ/pipedream/issues/15514)
-- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
-- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
+- [Add Sanioptic](https://github.com/osmlab/name-suggestion-index/issues/10464)
+- [Add Ciciban](https://github.com/osmlab/name-suggestion-index/issues/10463)
+- [Add Diopta](https://github.com/osmlab/name-suggestion-index/issues/10462)
+- [Add Galerija podova](https://github.com/osmlab/name-suggestion-index/issues/10417)
 
