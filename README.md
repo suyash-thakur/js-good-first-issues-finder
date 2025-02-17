@@ -34,10 +34,10 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add Sanioptic](https://github.com/osmlab/name-suggestion-index/issues/10464)
-- [Add Ciciban](https://github.com/osmlab/name-suggestion-index/issues/10463)
-- [Add Diopta](https://github.com/osmlab/name-suggestion-index/issues/10462)
-- [Add Galerija podova](https://github.com/osmlab/name-suggestion-index/issues/10417)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
 
