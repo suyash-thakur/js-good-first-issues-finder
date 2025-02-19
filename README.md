@@ -4,8 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Setting Registry page ignore button is empty when state is ingored](https://github.com/meshery/meshery/issues/13652)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
@@ -34,17 +42,4 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
 
