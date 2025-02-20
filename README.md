@@ -4,15 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[UI] Setting Registry page ignore button is empty when state is ingored](https://github.com/meshery/meshery/issues/13652)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -41,5 +35,31 @@ This list gets updated every day at midnight.
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-- [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Apollo.io Add Contact to List and Remove Contact from List](https://github.com/PipedreamHQ/pipedream/issues/15670)
+- [[TRIGGER] New form submitted for Formaloo.](https://github.com/PipedreamHQ/pipedream/issues/15635)
+- [[TRIGGER] Google Sheet - New Rows Added (Polling Source)](https://github.com/PipedreamHQ/pipedream/issues/15666)
+- [Test Issue](https://github.com/PipedreamHQ/pipedream/issues/15663)
+- [[TRIGGER] GitHub issue_comment](https://github.com/PipedreamHQ/pipedream/issues/15619)
+- [[ACTIONS] Procore - Direct Costs API](https://github.com/PipedreamHQ/pipedream/issues/15515)
+- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
+- [Forms](https://github.com/PipedreamHQ/pipedream/issues/15514)
+- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
+- [[ACTION] Shopify - Bulk Import](https://github.com/PipedreamHQ/pipedream/issues/15352)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
 
