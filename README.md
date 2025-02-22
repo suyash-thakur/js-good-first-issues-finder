@@ -6,6 +6,8 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
+- [[Docs] Make footer sticky](https://github.com/meshery/meshery/issues/13705)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
@@ -34,24 +36,4 @@ This list gets updated every day at midnight.
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [Chrome://apps page uses Chromium icon and links to Google Support page](https://github.com/brave/brave-browser/issues/38755)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [[NEXT-856] Error Overlay does not display the current version of Next.js](https://github.com/vercel/next.js/issues/47124)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-- [[Issue]: Unit for dummy chapter interval setting not documented](https://github.com/jellyfin/jellyfin-web/issues/5555)
 
