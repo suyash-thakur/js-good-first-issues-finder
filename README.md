@@ -37,3 +37,9 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+
