@@ -4,11 +4,36 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [Allow username to contain non-ascii letters or space + long names must fit in the user context menu](https://github.com/bluewave-labs/Checkmate/issues/1561)
+- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
+- [Infratructure monitors should be editable](https://github.com/bluewave-labs/Checkmate/issues/1277)
+- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
+- [Sidebar design changes](https://github.com/bluewave-labs/Checkmate/issues/1509)
+- [FE - Status Page graph not displaying well on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1729)
+- [Mention with a note if there are no incidents](https://github.com/bluewave-labs/Checkmate/issues/1757)
+- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
+- [Add a modal to encourage starring the Checkmate repo](https://github.com/bluewave-labs/Checkmate/issues/1484)
+- [FE - Excessive gutter on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1730)
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Make footer sticky](https://github.com/meshery/meshery/issues/13705)
-- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
+- [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
+- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -36,10 +61,4 @@ This list gets updated every day at midnight.
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
 
