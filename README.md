@@ -4,30 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [stylelint/stylelint](https://github.com/stylelint/stylelint)
 
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Add helpful warning for invalid file pattern for Windows users](https://github.com/stylelint/stylelint/issues/3626)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 - [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Allow username to contain non-ascii letters or space + long names must fit in the user context menu](https://github.com/bluewave-labs/Checkmate/issues/1561)
-- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
-- [Infratructure monitors should be editable](https://github.com/bluewave-labs/Checkmate/issues/1277)
-- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
-- [Sidebar design changes](https://github.com/bluewave-labs/Checkmate/issues/1509)
-- [FE - Status Page graph not displaying well on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1729)
-- [Mention with a note if there are no incidents](https://github.com/bluewave-labs/Checkmate/issues/1757)
-- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
-- [Add a modal to encourage starring the Checkmate repo](https://github.com/bluewave-labs/Checkmate/issues/1484)
-- [FE - Excessive gutter on high resolution screens](https://github.com/bluewave-labs/Checkmate/issues/1730)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -61,4 +53,20 @@ This list gets updated every day at midnight.
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [enh: Allow setting TTS voice selection per model](https://github.com/open-webui/open-webui/issues/3097)
+- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
+- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
+- [enh: Functions/Tools & Valves additional gimmicks](https://github.com/open-webui/open-webui/issues/5486)
+- [feat: screen reader](https://github.com/open-webui/open-webui/issues/1001)
+- [feat: Volume, Speech Rate, and Pitch Controls for Text-to-Speech (TTS) Output](https://github.com/open-webui/open-webui/issues/1331)
+- [bug: Front-End fails silently once JWT Token expires](https://github.com/open-webui/open-webui/issues/5866)
+- [issue/enh: STT retrofeeds to mic during call](https://github.com/open-webui/open-webui/issues/7509)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
 
