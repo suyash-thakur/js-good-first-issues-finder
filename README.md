@@ -4,30 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
+- [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl model import` Command](https://github.com/meshery/meshery/issues/12137)
 - [Enhance mesheryctl to Update Existing Components and Models from Local CSV Directory](https://github.com/meshery/meshery/issues/12134)
@@ -54,5 +36,13 @@ This list gets updated every day at midnight.
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
+- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 
