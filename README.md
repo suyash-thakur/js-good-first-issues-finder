@@ -4,8 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [terrastruct/d2](https://github.com/terrastruct/d2)
+
+- [Code shape text boxes do not respect style.multiple](https://github.com/terrastruct/d2/issues/2364)
+- [write a force-directed layout engine](https://github.com/terrastruct/d2/issues/641)
+- [connection numbered icons](https://github.com/terrastruct/d2/issues/2356)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Import button needs a our brand kepple green color in the light mode](https://github.com/meshery/meshery/issues/13796)
 - [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
@@ -35,14 +42,4 @@ This list gets updated every day at midnight.
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
-- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 
