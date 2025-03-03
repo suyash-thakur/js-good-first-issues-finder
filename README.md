@@ -4,18 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Dashboard/Users fields truncated.](https://github.com/jellyfin/jellyfin-web/issues/5608)
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
@@ -48,10 +36,12 @@ This list gets updated every day at midnight.
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Docs] Add some spacing between image and text on tutorials](https://github.com/meshery/meshery/issues/11783)
 
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add Sanioptic](https://github.com/osmlab/name-suggestion-index/issues/10464)
-- [Add Ciciban](https://github.com/osmlab/name-suggestion-index/issues/10463)
-- [Add Diopta](https://github.com/osmlab/name-suggestion-index/issues/10462)
-- [Add Galerija podova](https://github.com/osmlab/name-suggestion-index/issues/10417)
+- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
+- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 
