@@ -9,8 +9,8 @@
   --size-28: 1.75rem;
 }
 body {
-  background-color: #f3f6f9;
-  color: #333;
+  background-color: #bfdbf7;
+  color: #263860;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: var(--size-20);  /* Increased base font size */
   line-height: 1.8;  /* Adjusted line height for readability */
@@ -32,6 +32,7 @@ h1 {
   font-weight: 700;
   margin: 0;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
 /* Main Content */
@@ -46,8 +47,10 @@ main {
 
 p {
   margin: 20px 0;
-  text-align: justify;
+/*   text-align: justify; */
   font-size: var(--size-22);  /* Increased paragraph font size */
+  text-align: center;
+  font-style: italic;
 }
 
 /* Section Styling */
