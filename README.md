@@ -4,26 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Abraomukas/h-d-web](https://github.com/Abraomukas/h-d-web)
-
-- [ServiceEntry component](https://github.com/Abraomukas/h-d-web/issues/21)
-- [Add legal documentation ](https://github.com/Abraomukas/h-d-web/issues/15)
-
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
-- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
-
-## [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
-
-- [[Feature request] Logging Level and Progress Bar for Model Downloads](https://github.com/huggingface/transformers.js/issues/117)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[UI] Wrong color is used for adapter icon in the sidebar](https://github.com/meshery/meshery/issues/13870)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[UI] Replace the design logo little dot with the pencil edit icon](https://github.com/meshery/meshery/issues/13843)
+- [[Server] [Refactor] Move Credential Persistence for Default local provider to a dedicated file.](https://github.com/meshery/meshery/issues/13847)
+- [[UI] Wrong color is used for adapter icon in the sidebar](https://github.com/meshery/meshery/issues/13870)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[UI] Import button needs a our brand kepple green color in the light mode](https://github.com/meshery/meshery/issues/13796)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
@@ -49,7 +36,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
 - [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
-- [upgrade statichcheck-action to `v1.3.0` across all repos](https://github.com/meshery/meshery/issues/13041)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -59,6 +45,14 @@ This list gets updated every day at midnight.
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
