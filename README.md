@@ -4,15 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
@@ -46,19 +37,23 @@ This list gets updated every day at midnight.
 - [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
+- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
+- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
+- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
+- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
-
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [issue: synchronous sqlalchemy usage blocks the event-loop, seriously harming responsiveness](https://github.com/open-webui/open-webui/issues/11233)
-- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
-- [enh: Allow setting TTS voice selection per model](https://github.com/open-webui/open-webui/issues/3097)
-- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
-- [feat: ROCm /w RAG and SentenceTransformers](https://github.com/open-webui/open-webui/issues/8365)
-- [enh: Functions/Tools & Valves additional gimmicks](https://github.com/open-webui/open-webui/issues/5486)
-- [feat: screen reader](https://github.com/open-webui/open-webui/issues/1001)
 
