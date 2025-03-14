@@ -4,18 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
+- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
+- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Wrong icon is used in connection chip](https://github.com/meshery/meshery/issues/14001)
 - [[Server] [Refactor] Move Credential Persistence for Default local provider to a dedicated file.](https://github.com/meshery/meshery/issues/13847)
+- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
+- [[UI] Wrong color is used for adapter icon in the sidebar](https://github.com/meshery/meshery/issues/13870)
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 - [[UI] Import button needs a our brand kepple green color in the light mode](https://github.com/meshery/meshery/issues/13796)
-- [[UI] Wrong color is used for adapter icon in the sidebar](https://github.com/meshery/meshery/issues/13870)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Catalog] Publish GlusterFS](https://github.com/meshery/meshery/issues/9286)
@@ -40,11 +45,4 @@ This list gets updated every day at midnight.
 
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Auth option Api Key does not add header to request](https://github.com/usebruno/bruno/issues/3843)
-- [[Bug] - URLEncode edited Query parameters from the dedicated table/tab on change](https://github.com/usebruno/bruno/issues/732)
-- ["About Bruno" does not display info about Bruno](https://github.com/usebruno/bruno/issues/4040)
-- [Collection level CA certificate](https://github.com/usebruno/bruno/issues/1324)
 
