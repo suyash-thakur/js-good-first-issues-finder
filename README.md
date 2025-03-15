@@ -4,11 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
-- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Wrong icon is used in connection chip](https://github.com/meshery/meshery/issues/14001)
@@ -32,17 +27,30 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `model search` command not working for some model names.](https://github.com/meshery/meshery/issues/11319)
 - [[mesheryctl] mesheryctl system logs fails with docker-compose dependency](https://github.com/meshery/meshery/issues/10777)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
-- [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
+- [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
+- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
+- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+
+## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
+
+- [Example request string is not populated](https://github.com/swagger-api/swagger-ui/issues/3233)
+- [make component names case insensitive. ie: getComponent("fooBaR")](https://github.com/swagger-api/swagger-ui/issues/3393)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [[doc] configuring AI services](https://github.com/HeyPuter/puter/issues/1180)
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
+- [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
+- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
+- [[doc] contributors/extensions/events](https://github.com/HeyPuter/puter/issues/1122)
 
