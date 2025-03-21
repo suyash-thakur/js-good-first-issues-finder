@@ -6,10 +6,11 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] increase test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
+- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[UI] Wrong color is used for adapter icon in the sidebar](https://github.com/meshery/meshery/issues/13870)
-- [[mesheryctl] increase test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 - [[UI] Wrong icon is used in connection chip](https://github.com/meshery/meshery/issues/14001)
 - [[Server] [Refactor] Move Credential Persistence for Default local provider to a dedicated file.](https://github.com/meshery/meshery/issues/13847)
@@ -36,15 +37,6 @@ This list gets updated every day at midnight.
 - [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 - [change `Learn more` link under `brave://management`](https://github.com/brave/brave-browser/issues/43548)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
-- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
@@ -57,5 +49,11 @@ This list gets updated every day at midnight.
 - [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
 - [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
 - [TextDecoder incorrectly decodes 0x92 for Windows-1252](https://github.com/nodejs/node/issues/56542)
-- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
