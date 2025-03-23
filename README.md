@@ -4,28 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [facebook/stylex](https://github.com/facebook/stylex)
-
-- [[babel-plugin] Allow `stylex.create` nested within TS namespaces (and more?)](https://github.com/facebook/stylex/issues/829)
-- [[eslint-plugin] properties not recognized](https://github.com/facebook/stylex/issues/135)
-- [[eslint-plugin] 'Computed key cannot be resolved' when overwriting var](https://github.com/facebook/stylex/issues/337)
-- [[eslint-plugin] Better parsing to correctly validate various values](https://github.com/facebook/stylex/issues/420)
-- [[eslint-plugin] Add rule to enforce usage of shared media queries and other constants](https://github.com/facebook/stylex/issues/725)
-- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
-- [[babel-plugin] Automatically pick up alias configuration from package.json or tsconfig](https://github.com/facebook/stylex/issues/765)
-- [[babel-plugin] TypeScript types are wrong](https://github.com/facebook/stylex/issues/889)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [[Info] End of service for LINE Notify](https://github.com/louislam/uptime-kuma/issues/5527)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
@@ -49,15 +27,42 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
-- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6312)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6311)
+- [[RFC]: add `stats/incr/nanmeanstdev`](https://github.com/stdlib-js/stdlib/issues/5574)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6236)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6214)
+- [[RFC]: refactor and add protocol support to `stats/base/nanvariance`](https://github.com/stdlib-js/stdlib/issues/5673)
+- [Address commit comments (commit `d8322de`)](https://github.com/stdlib-js/stdlib/issues/6002)
+- [[RFC]: refactor and add protocol support to `stats/base/stdevyc`](https://github.com/stdlib-js/stdlib/issues/5686)
+- [[RFC]: refactor and add protocol support to `stats/base/varianceyc`](https://github.com/stdlib-js/stdlib/issues/5692)
+- [[RFC]: add `stats/incr/nanmpcorr`](https://github.com/stdlib-js/stdlib/issues/5600)
+- [[RFC]: add `stats/incr/nanmhmean`](https://github.com/stdlib-js/stdlib/issues/5577)
+- [[RFC]: add `stats/incr/nanmvmr`](https://github.com/stdlib-js/stdlib/issues/5615)
+- [[RFC]: add `stats/incr/nanmsumabs2`](https://github.com/stdlib-js/stdlib/issues/5612)
+- [[RFC]: add `stats/incr/nanmvariance`](https://github.com/stdlib-js/stdlib/issues/5614)
+- [[RFC]: add `stats/incr/nanpcorr`](https://github.com/stdlib-js/stdlib/issues/5616)
+- [[RFC]: add `stats/incr/nanstdev`](https://github.com/stdlib-js/stdlib/issues/5624)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6031)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/quantile`](https://github.com/stdlib-js/stdlib/issues/3433)
+- [[RFC]: add incremental accumulators for handling `NaN` values in `stats/incr/*` (tracking issue)](https://github.com/stdlib-js/stdlib/issues/5966)
+- [[RFC]: add `stats/incr/nancovariance`](https://github.com/stdlib-js/stdlib/issues/5554)
+- [[RFC]: refactor and add protocol support to `stats/base/variance`](https://github.com/stdlib-js/stdlib/issues/5687)
+- [[RFC]: add `stats/incr/nanminmax`](https://github.com/stdlib-js/stdlib/issues/5579)
+- [[RFC]: refactor and add protocol support to `stats/base/variancech`](https://github.com/stdlib-js/stdlib/issues/5688)
+- [[RFC]: add `stats/incr/nanmax`](https://github.com/stdlib-js/stdlib/issues/5550)
+- [Address commit comments (commit `b790b70`)](https://github.com/stdlib-js/stdlib/issues/5902)
+- [Address commit comments (commit `f6829da`)](https://github.com/stdlib-js/stdlib/issues/5903)
+- [Address commit comments (commit `ad7a023`)](https://github.com/stdlib-js/stdlib/issues/5901)
+- [Address commit comments (commit `afc07e7`)](https://github.com/stdlib-js/stdlib/issues/5899)
+- [Address commit comments (commit `c31eccd`)](https://github.com/stdlib-js/stdlib/issues/5894)
+
+## [Unreal-Dan/lightshow.lol](https://github.com/Unreal-Dan/lightshow.lol)
+
+- [If the modes list is empty, the led select should indicate to 'add modes' or similar](https://github.com/Unreal-Dan/lightshow.lol/issues/118)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -65,30 +70,4 @@ This list gets updated every day at midnight.
 - [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [Underline Missing on Guidance Section Click](https://github.com/layer5io/layer5/issues/6332)
-- [[Sistent] Add spacing between the sections](https://github.com/layer5io/layer5/issues/5518)
-- [[Brand] White text on Saffron color card is difficult to read](https://github.com/layer5io/layer5/issues/5941)
-- [[Handbook] Add new meshery-extensions org](https://github.com/layer5io/layer5/issues/6310)
-- [Add Employee badge to members and recognition pages](https://github.com/layer5io/layer5/issues/6277)
-- [UI: Contact Sales Buttons have unusual behavior](https://github.com/layer5io/layer5/issues/6276)
-- [[Community] Member Profile: Ian Whitney](https://github.com/layer5io/layer5/issues/6047)
-- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
-- [[Screenshots] Jfrog Distribution under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5320)
-- [[Screenshots] Brigade under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4858)
-- [[Blog] Publish the Learning path blogpost](https://github.com/layer5io/layer5/issues/2323)
-- [[Screenshots] Dragonfly under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5321)
-- [[Screenshots] Cert Manager under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4864)
-- [[Screenshots] Fluentd Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5335)
-- [[Screenshots] Fluentbit Skt under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5334)
-- [[Screenshots] Etcd Cluster Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5327)
-- [[Screenshots] Argo under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4862)
-- [[Screenshots] Chaos Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4867)
-- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
-- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
-- [[Screenshots] Fluentbit Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5333)
-- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
-- [[Event] "May Maintainers Circle 2023" should not longer be "upcoming"](https://github.com/layer5io/layer5/issues/5889)
 
