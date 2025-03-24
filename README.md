@@ -4,9 +4,29 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [robustmq/robustmq](https://github.com/robustmq/robustmq)
+
+- [[Test] Add `list_shard` test for memory storage adapter](https://github.com/robustmq/robustmq/issues/975)
+- [[Refactor] Supplement delayed release test cases](https://github.com/robustmq/robustmq/issues/884)
+- [[Refactor]Grpc Admin interface calls the audit log](https://github.com/robustmq/robustmq/issues/885)
+- [[MINOR][Refactor][Subtask] Add validation to save_offset_data method in GrpcPlacementService and test](https://github.com/robustmq/robustmq/issues/767)
+- [[Docs] Add Shared Subscription Document](https://github.com/robustmq/robustmq/issues/889)
+- [[Docs] Complete the documentation for the Robustmq feature](https://github.com/robustmq/robustmq/issues/875)
+- [[Build] Use cargo deny check to identify and resolve dependency issues.](https://github.com/robustmq/robustmq/issues/874)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+- [[Feature Request]: Add apply button to search filters modal](https://github.com/FreeTubeApp/FreeTube/issues/6194)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[UI] Hovering over cards in registry dashboard doesn't change cursor to pointer](https://github.com/meshery/meshery/issues/13743)
 - [[mesheryctl] increase test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
@@ -27,47 +47,18 @@ This list gets updated every day at midnight.
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6312)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6311)
-- [[RFC]: add `stats/incr/nanmeanstdev`](https://github.com/stdlib-js/stdlib/issues/5574)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6236)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6214)
-- [[RFC]: refactor and add protocol support to `stats/base/nanvariance`](https://github.com/stdlib-js/stdlib/issues/5673)
-- [Address commit comments (commit `d8322de`)](https://github.com/stdlib-js/stdlib/issues/6002)
-- [[RFC]: refactor and add protocol support to `stats/base/stdevyc`](https://github.com/stdlib-js/stdlib/issues/5686)
-- [[RFC]: refactor and add protocol support to `stats/base/varianceyc`](https://github.com/stdlib-js/stdlib/issues/5692)
-- [[RFC]: add `stats/incr/nanmpcorr`](https://github.com/stdlib-js/stdlib/issues/5600)
-- [[RFC]: add `stats/incr/nanmhmean`](https://github.com/stdlib-js/stdlib/issues/5577)
-- [[RFC]: add `stats/incr/nanmvmr`](https://github.com/stdlib-js/stdlib/issues/5615)
-- [[RFC]: add `stats/incr/nanmsumabs2`](https://github.com/stdlib-js/stdlib/issues/5612)
-- [[RFC]: add `stats/incr/nanmvariance`](https://github.com/stdlib-js/stdlib/issues/5614)
-- [[RFC]: add `stats/incr/nanpcorr`](https://github.com/stdlib-js/stdlib/issues/5616)
-- [[RFC]: add `stats/incr/nanstdev`](https://github.com/stdlib-js/stdlib/issues/5624)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6031)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/quantile`](https://github.com/stdlib-js/stdlib/issues/3433)
-- [[RFC]: add incremental accumulators for handling `NaN` values in `stats/incr/*` (tracking issue)](https://github.com/stdlib-js/stdlib/issues/5966)
-- [[RFC]: add `stats/incr/nancovariance`](https://github.com/stdlib-js/stdlib/issues/5554)
-- [[RFC]: refactor and add protocol support to `stats/base/variance`](https://github.com/stdlib-js/stdlib/issues/5687)
-- [[RFC]: add `stats/incr/nanminmax`](https://github.com/stdlib-js/stdlib/issues/5579)
-- [[RFC]: refactor and add protocol support to `stats/base/variancech`](https://github.com/stdlib-js/stdlib/issues/5688)
-- [[RFC]: add `stats/incr/nanmax`](https://github.com/stdlib-js/stdlib/issues/5550)
-- [Address commit comments (commit `b790b70`)](https://github.com/stdlib-js/stdlib/issues/5902)
-- [Address commit comments (commit `f6829da`)](https://github.com/stdlib-js/stdlib/issues/5903)
-- [Address commit comments (commit `ad7a023`)](https://github.com/stdlib-js/stdlib/issues/5901)
-- [Address commit comments (commit `afc07e7`)](https://github.com/stdlib-js/stdlib/issues/5899)
-- [Address commit comments (commit `c31eccd`)](https://github.com/stdlib-js/stdlib/issues/5894)
-
-## [Unreal-Dan/lightshow.lol](https://github.com/Unreal-Dan/lightshow.lol)
-
-- [If the modes list is empty, the led select should indicate to 'add modes' or similar](https://github.com/Unreal-Dan/lightshow.lol/issues/118)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
+- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
-- [Catalog Modal responsive issue](https://github.com/meshery/meshery.io/issues/2017)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
