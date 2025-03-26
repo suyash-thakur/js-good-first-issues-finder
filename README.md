@@ -4,35 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 - [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
 - [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [eclipse-ee4j/cargotracker](https://github.com/eclipse-ee4j/cargotracker)
-
-- [Clean up/complete tests](https://github.com/eclipse-ee4j/cargotracker/issues/6)
-- [Add JMeter stress tests](https://github.com/eclipse-ee4j/cargotracker/issues/17)
-- [Switch to Eclipse IDE](https://github.com/eclipse-ee4j/cargotracker/issues/201)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
-- [The setting "Auto Open DevTools for popups" is ignored](https://github.com/brave/brave-browser/issues/39597)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -59,4 +35,28 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 - [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
+- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
+- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
+- [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [stellar/js-stellar-sdk](https://github.com/stellar/js-stellar-sdk)
+
+- [Port Travis config to CircleCI](https://github.com/stellar/js-stellar-sdk/issues/303)
+- [Use TS in test files.](https://github.com/stellar/js-stellar-sdk/issues/518)
+- [Add helpers to obtain Claimable Balance IDs](https://github.com/stellar/js-stellar-sdk/issues/584)
+- [StellarTomlResolver.resolve should offer better types](https://github.com/stellar/js-stellar-sdk/issues/371)
+- [Document how to get working on React Native](https://github.com/stellar/js-stellar-sdk/issues/290)
 
