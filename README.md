@@ -4,12 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Docs: Caching in GitHub Actions with Bun](https://github.com/vercel/next.js/issues/57079)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Cross-Functional Flow-chart template](https://github.com/meshery/meshery/issues/12504)
@@ -42,8 +36,6 @@ This list gets updated every day at midnight.
 - [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Shortcut to switch a video to PiP mode](https://github.com/brave/brave-browser/issues/44255)
-- [`Ctrl + A` in screenshot mode to select full viewport](https://github.com/brave/brave-browser/issues/44251)
-- [Add keyboard shortcut to update adblock lists](https://github.com/brave/brave-browser/issues/43667)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -51,12 +43,4 @@ This list gets updated every day at midnight.
 - [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [stellar/js-stellar-sdk](https://github.com/stellar/js-stellar-sdk)
-
-- [Port Travis config to CircleCI](https://github.com/stellar/js-stellar-sdk/issues/303)
-- [Use TS in test files.](https://github.com/stellar/js-stellar-sdk/issues/518)
-- [Add helpers to obtain Claimable Balance IDs](https://github.com/stellar/js-stellar-sdk/issues/584)
-- [StellarTomlResolver.resolve should offer better types](https://github.com/stellar/js-stellar-sdk/issues/371)
-- [Document how to get working on React Native](https://github.com/stellar/js-stellar-sdk/issues/290)
 
