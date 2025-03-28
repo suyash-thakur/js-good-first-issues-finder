@@ -28,7 +28,6 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
-- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
