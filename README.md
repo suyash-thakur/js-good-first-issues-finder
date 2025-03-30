@@ -28,7 +28,6 @@ This list gets updated every day at midnight.
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
-- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -36,10 +35,6 @@ This list gets updated every day at midnight.
 - [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
@@ -49,13 +44,4 @@ This list gets updated every day at midnight.
 - [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
 - [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
 - [[doc] contributors/extensions/events](https://github.com/HeyPuter/puter/issues/1122)
-
-## [Lead-Studios/DeWordle](https://github.com/Lead-Studios/DeWordle)
-
-- [FRONTEND: Feature Request: Dual Player – Challenge a Friend](https://github.com/Lead-Studios/DeWordle/issues/363)
-- [Animated 'Practice Mode' Card Feature Implementation](https://github.com/Lead-Studios/DeWordle/issues/353)
-- [Animated 'How to Play' Card Feature](https://github.com/Lead-Studios/DeWordle/issues/352)
-- [Animated 'Daily Challenge' Card Feature Implementation](https://github.com/Lead-Studios/DeWordle/issues/355)
-- [New AllGames Page & Component with Animations](https://github.com/Lead-Studios/DeWordle/issues/349)
-- [Issue: Show "How to Play" Popup for First-Time Users](https://github.com/Lead-Studios/DeWordle/issues/342)
 
