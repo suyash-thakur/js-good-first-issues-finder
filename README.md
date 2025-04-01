@@ -4,6 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [[poetry] Install command requires --all-groups --all-extras](https://github.com/CycloneDX/cdxgen/issues/1710)
+- [[cli] container image-based generator](https://github.com/CycloneDX/cdxgen/issues/1699)
+- [[container] php base images](https://github.com/CycloneDX/cdxgen/issues/1695)
+- [[formulation] Capture workflow steps](https://github.com/CycloneDX/cdxgen/issues/1573)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
+- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
+- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
+- [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
+- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
+- [[doc] contributors/extensions/events](https://github.com/HeyPuter/puter/issues/1122)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Add GitHub user profile hyperlink to each entry in maintainers.md](https://github.com/meshery/meshery/issues/14159)
@@ -27,6 +43,7 @@ This list gets updated every day at midnight.
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[Catalog] Publish WordPress and MySQL on Kubernetes](https://github.com/meshery/meshery/issues/9284)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
+- [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -37,40 +54,6 @@ This list gets updated every day at midnight.
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [Each integration should redirect to its respective docs page](https://github.com/meshery/meshery.io/issues/2077)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6457)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6456)
-- [[RFC]: add `stats/incr/nanmmda`](https://github.com/stdlib-js/stdlib/issues/5586)
-- [[RFC]: add `stats/incr/nanmminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5597)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6446)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6433)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6432)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6417)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6416)
-- [[RFC]: add `stats/incr/nanmminmax`](https://github.com/stdlib-js/stdlib/issues/5596)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6406)
-- [[RFC]: add `stats/incr/nanminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5580)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6383)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6354)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6214)
-- [[RFC]: add `stats/incr/nanmeanstdev`](https://github.com/stdlib-js/stdlib/issues/5574)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6236)
-- [[RFC]: refactor and add protocol support to `stats/base/nanvariance`](https://github.com/stdlib-js/stdlib/issues/5673)
-- [Address commit comments (commit `d8322de`)](https://github.com/stdlib-js/stdlib/issues/6002)
-- [[RFC]: refactor and add protocol support to `stats/base/stdevyc`](https://github.com/stdlib-js/stdlib/issues/5686)
-- [[RFC]: refactor and add protocol support to `stats/base/varianceyc`](https://github.com/stdlib-js/stdlib/issues/5692)
-- [[RFC]: add `stats/incr/nanmpcorr`](https://github.com/stdlib-js/stdlib/issues/5600)
-- [[RFC]: add `stats/incr/nanmhmean`](https://github.com/stdlib-js/stdlib/issues/5577)
-- [[RFC]: add `stats/incr/nanmvmr`](https://github.com/stdlib-js/stdlib/issues/5615)
-- [[RFC]: add `stats/incr/nanmsumabs2`](https://github.com/stdlib-js/stdlib/issues/5612)
-- [[RFC]: add `stats/incr/nanmvariance`](https://github.com/stdlib-js/stdlib/issues/5614)
-- [[RFC]: add `stats/incr/nanpcorr`](https://github.com/stdlib-js/stdlib/issues/5616)
-- [[RFC]: add `stats/incr/nanstdev`](https://github.com/stdlib-js/stdlib/issues/5624)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/arcsine/quantile`](https://github.com/stdlib-js/stdlib/issues/3407)
 
