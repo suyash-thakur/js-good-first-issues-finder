@@ -4,13 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
@@ -25,45 +18,48 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
 
-## [endojs/endo](https://github.com/endojs/endo)
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
-- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
+- [GIF support for media block](https://github.com/sugarlabs/musicblocks/issues/4560)
+- [Documentation for program blocks is not present](https://github.com/sugarlabs/musicblocks/issues/3844)
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [Guide Improvement: Add some musical examples of when double-sharp / double-flat is most useful](https://github.com/sugarlabs/musicblocks/issues/3855)
+- [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
+- [Record and Generate Lilypond/ABC (Under Play)](https://github.com/sugarlabs/musicblocks/issues/2330)
+- [[Docs] Adding all documentation files in Docs/](https://github.com/sugarlabs/musicblocks/issues/3569)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[Bug]: SPM monitor tab does not show Latency data](https://github.com/jaegertracing/jaeger-ui/issues/2088)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [ReadableRegex/readableRegex](https://github.com/ReadableRegex/readableRegex)
 
-- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+- [Add isValidStateCode API route and function](https://github.com/ReadableRegex/readableRegex/issues/47)
+- [Replace dropdown of endpoints with search bar](https://github.com/ReadableRegex/readableRegex/issues/69)
+- [Add route and function isAbaRouting](https://github.com/ReadableRegex/readableRegex/issues/82)
+- [Add isProvince API route and function](https://github.com/ReadableRegex/readableRegex/issues/46)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-- [Complete Farsi translation based on English file](https://github.com/HeyPuter/puter/issues/535)
-- [Links shortcuts as icons on desktop](https://github.com/HeyPuter/puter/issues/682)
-- [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
-- [Add app category display in Dev Center](https://github.com/HeyPuter/puter/issues/1033)
-- [[doc] contributors/extensions/events](https://github.com/HeyPuter/puter/issues/1122)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [[Feature Request]: Hide Searchbar and Search filter in Add to Playlist when there are < 2 playlists ](https://github.com/FreeTubeApp/FreeTube/issues/4924)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
-## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+## [stylelint/stylelint](https://github.com/stylelint/stylelint)
 
-- [Replace OPL Practice Cover Photos with Ilaria's Doodles](https://github.com/openpracticelibrary/openpracticelibrary/issues/2163)
-
-## [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui)
-
-- [pinning: remove dead service presets ](https://github.com/ipfs/ipfs-webui/issues/2311)
-- [feat: ability to import/export IPNS key](https://github.com/ipfs/ipfs-webui/issues/2345)
-- [Feature: dark mode](https://github.com/ipfs/ipfs-webui/issues/1702)
-
-## [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-
-- [Please add some Turkish brands](https://github.com/osmlab/name-suggestion-index/issues/7706)
-
-## [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-
-- [localTimerService reports times in 2012](https://github.com/Agoric/agoric-sdk/issues/2219)
-- [swing-store export discard error](https://github.com/Agoric/agoric-sdk/issues/8716)
+- [Add `selector-no-invalid`](https://github.com/stylelint/stylelint/issues/3480)
+- [Add `selector-no-deprecated`](https://github.com/stylelint/stylelint/issues/8225)
+- [Add `exceptWithoutPropertyFallback: []` to `function-allowed-list`](https://github.com/stylelint/stylelint/issues/8291)
+- [Fix `declaration-block-no-redundant-longhand-properties` false negatives for short and long combinations](https://github.com/stylelint/stylelint/issues/8349)
 
