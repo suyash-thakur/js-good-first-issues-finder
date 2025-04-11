@@ -4,19 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [imloadinqqq/Game-Ratings](https://github.com/imloadinqqq/Game-Ratings)
 
-- [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
-- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
-- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
-- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
-- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
-- [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
+- [feature: Login Functionality](https://github.com/imloadinqqq/Game-Ratings/issues/18)
+- [feature: Search Function](https://github.com/imloadinqqq/Game-Ratings/issues/13)
+- [feature: Homepage Layout](https://github.com/imloadinqqq/Game-Ratings/issues/14)
+
+## [Create-Third-Places/DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames)
+
+- [Add feedback form](https://github.com/Create-Third-Places/DMVBoardGames/issues/182)
+- [Remove Washington as a location option for the location search dropdown](https://github.com/Create-Third-Places/DMVBoardGames/issues/210)
+- [Add favicon](https://github.com/Create-Third-Places/DMVBoardGames/issues/105)
+- [Update long location descriptions to be on multiple lines](https://github.com/Create-Third-Places/DMVBoardGames/issues/201)
+- [Make the text on the local designers pages and upcoming plans page look like the listings page](https://github.com/Create-Third-Places/DMVBoardGames/issues/199)
+- [Update CSS for listing page](https://github.com/Create-Third-Places/DMVBoardGames/issues/138)
+- [Add info buttons to list of game stores on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/194)
+- [Add info buttons to list of board game bars and cafés on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/195)
+- [Add  info buttons to list of conventions on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/193)
+- [Design access control system for users](https://github.com/Create-Third-Places/DMVBoardGames/issues/179)
+- [Evaluatve using Vue for website UI](https://github.com/Create-Third-Places/DMVBoardGames/issues/137)
+- [Add ESLint and Prettier to pipeline](https://github.com/Create-Third-Places/DMVBoardGames/issues/21)
+- [Set up Jenkins pipeline for CI/CD](https://github.com/Create-Third-Places/DMVBoardGames/issues/157)
+- [Research options for implementing feature flags](https://github.com/Create-Third-Places/DMVBoardGames/issues/156)
+- [Enable live updating when a CSS change is made](https://github.com/Create-Third-Places/DMVBoardGames/issues/155)
+
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+
+- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
+- [Error on iOS](https://github.com/KudoAI/googlegpt/issues/90)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -26,35 +44,12 @@ This list gets updated every day at midnight.
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [[generic-worker] Change ownership of caches to current task](https://github.com/taskcluster/taskcluster/issues/6561)
-- [generic-worker/posix: task exception when caches dir is on a different mount point from tasks dir](https://github.com/taskcluster/taskcluster/issues/7580)
-
 ## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
 - [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [layer5io/docs](https://github.com/layer5io/docs)
 
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [issue: synchronous sqlalchemy usage blocks the event-loop, seriously harming responsiveness](https://github.com/open-webui/open-webui/issues/11233)
-- [bug: Front-End fails silently once JWT Token expires](https://github.com/open-webui/open-webui/issues/5866)
-- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
-- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
-
-## [MartinNang/travel-app](https://github.com/MartinNang/travel-app)
-
-- [FE: Edit/Update profile name](https://github.com/MartinNang/travel-app/issues/15)
+- [[Docs] Change "Connector" tool mode to "Pen" tool mode](https://github.com/layer5io/docs/issues/462)
+- [[Docs] Improve visibility of Tab Menus (for tabbed content)](https://github.com/layer5io/docs/issues/466)
 
