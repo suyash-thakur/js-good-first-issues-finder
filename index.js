@@ -1,55 +1,111 @@
 const axios = require('axios');
 const fs = require('fs');
+const path = require('path');
 const env = require('dotenv');
 const Markdown = require('markdown-to-html').Markdown;
 
+// Load environment variables
 env.config();
 
-const API_URL = 'https://api.github.com';
-const TOKEN = process.env.API_KEY;
-const MAX_ELAPSED_TIME = 2 * 60 * 1000;
-const MAX_ISSUES_COUNT = 30;
-const WAIT_TIME = 1000;
+// Configuration constants
+const CONFIG = {
+  API_URL: 'https://api.github.com',
+  MAX_ELAPSED_TIME: 2 * 60 * 1000, // 2 minutes
+  MAX_ISSUES_COUNT: 30,
+  WAIT_TIME: 1500, // 1.5 seconds between requests
+  RATE_LIMIT_HEADER: 'x-ratelimit-remaining',
+  RESET_HEADER: 'x-ratelimit-reset',
+  ACCEPT_HEADER: 'application/vnd.github.v3+json'
+};
+
+// Validate environment variables
+if (!process.env.API_KEY) {
+  console.error('Missing required API_KEY environment variable');
+  process.exit(1);
+}
 
 /**
- * Get repositories from GitHub API.
- * @param {number} page Page number
- * @returns {Promise} Promise with repositories
+ * Safely sleep for specified milliseconds
+ * @param {number} ms - Milliseconds to sleep
+ * @returns {Promise} - Sleep promise
+ */
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+/**
+ * Handle GitHub API rate limiting
+ * @param {object} headers - Response headers
+ */
+const handleRateLimiting = async (headers) => {
+  const remaining = parseInt(headers[CONFIG.RATE_LIMIT_HEADER], 10);
+  const resetTime = parseInt(headers[CONFIG.RESET_HEADER], 10) * 1000;
+  
+  if (remaining < 10) {
+    const now = Date.now();
+    const sleepDuration = Math.max(resetTime - now, 0) + 1000;
+    console.log(`Approaching rate limit. Sleeping for ${sleepDuration}ms`);
+    await sleep(sleepDuration);
+  }
+};
+
+/**
+ * Get JavaScript repositories with good first issues
+ * @param {number} page - Pagination page number
+ * @returns {Promise<Array>} - Array of repositories
  */
 const getJavascriptRepos = async (page) => {
   try {
-    const response = await axios.get(`${API_URL}/search/repositories`, {
-      headers: { Authorization: `token ${TOKEN}` },
-      params: { q: `good-first-issues:>2`, language: 'javascript', sort: 'updated', page },
+    const response = await axios.get(`${CONFIG.API_URL}/search/repositories`, {
+      headers: {
+        Authorization: `token ${process.env.API_KEY}`,
+        Accept: CONFIG.ACCEPT_HEADER
+      },
+      params: {
+        q: 'good-first-issues:>2 language:javascript',
+        sort: 'updated',
+        page,
+        per_page: 30 // Max allowed per page
+      }
     });
-    return response.data.items.filter((repo) => repo.language === 'JavaScript');
+
+    await handleRateLimiting(response.headers);
+    
+    return response.data.items;
   } catch (error) {
-    console.error(`Failed to fetch repos from page ${page}: ${error.message}`);
+    if (error.response) {
+      console.error(`GitHub API Error: ${error.response.status} ${error.response.data.message}`);
+    }
     return [];
   }
 };
 
-
-
 /**
- * Fetches issues from a repository
- * @param {object} repo - The repository object
- * @returns {array} - The issues array
+ * Fetch and filter issues for a repository
+ * @param {object} repo - Repository object
+ * @returns {Promise<Array>} - Filtered issues array
  */
-
 const getFilteredIssues = async (repo) => {
   try {
-    const response = await axios.get(`${API_URL}/repos/${repo.full_name}/issues`, {
-      headers: { Authorization: `token ${TOKEN}` },
-      params: { state: 'open', labels: 'good first issue', sort: 'updated' },
+    const response = await axios.get(`${CONFIG.API_URL}/repos/${repo.full_name}/issues`, {
+      headers: {
+        Authorization: `token ${process.env.API_KEY}`,
+        Accept: CONFIG.ACCEPT_HEADER
+      },
+      params: {
+        state: 'open',
+        labels: 'good first issue',
+        sort: 'updated',
+        direction: 'desc'
+      }
     });
 
-    const today = new Date();
-    const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+    await handleRateLimiting(response.headers);
+
+    const cutoffDate = new Date();
+    cutoffDate.setDate(cutoffDate.getDate() - 30); // Last 30 days
 
     return response.data.filter(issue => {
       const updatedAt = new Date(issue.updated_at);
-      return updatedAt > lastMonth;
+      return !issue.pull_request && updatedAt >= cutoffDate;
     });
   } catch (error) {
     console.error(`Failed to fetch issues for ${repo.full_name}: ${error.message}`);
@@ -57,77 +113,82 @@ const getFilteredIssues = async (repo) => {
   }
 };
 
+/**
+ * Generate formatted markdown content
+ * @param {Array} issues - Array of issues grouped by repository
+ * @returns {string} - Formatted markdown content
+ */
+const generateMarkdown = (issues) => {
+  let markdown = `# Good First Issues in JavaScript Projects\n\n`;
+  markdown += `Automatically curated list of JavaScript projects with welcoming issues for new contributors. \n\n`;
+  markdown += `**Updated**: ${new Date().toUTCString()}\n\n`;
+  markdown += `_This list is updated daily via [GitHub Actions](https://github.com/your-repo/actions)_\n\n`;
 
-const getGoodFirstIssues = async () => {
+  issues.forEach(({ repo, issues }) => {
+    const repoUrl = `https://github.com/${repo}`;
+    markdown += `## [${repo}](${repoUrl})\n\n`;
+    markdown += `**Recent Good First Issues**:\n\n`;
+    
+    issues.forEach(issue => {
+      markdown += `- [${issue.title}](${issue.html_url}) `;
+      markdown += `(Updated: ${new Date(issue.updated_at).toISOString().split('T')[0]})\n`;
+    });
+    
+    markdown += '\n';
+  });
+
+  return markdown;
+};
+
+/**
+ * Main function to generate and write results
+ */
+const generateIssueList = async () => {
   try {
-    let goodFirstIssues = [];
+    const startTime = Date.now();
+    const seenRepos = new Set();
+    let allIssues = [];
     let page = 1;
-    let issuesCount = 0;
-    let elapsedTime = 0;
 
-    const start = Date.now();
-
-    while (elapsedTime < MAX_ELAPSED_TIME && issuesCount < MAX_ISSUES_COUNT) {
+    while (
+      (Date.now() - startTime) < CONFIG.MAX_ELAPSED_TIME &&
+      allIssues.length < CONFIG.MAX_ISSUES_COUNT
+    ) {
       const repos = await getJavascriptRepos(page);
+      if (repos.length === 0) break;
 
       for (const repo of repos) {
-        console.log(`Fetching issues for ${repo.full_name}`);
-        const issues = await getFilteredIssues(repo);
+        if (seenRepos.has(repo.id)) continue;
+        seenRepos.add(repo.id);
 
+        console.log(`Processing ${repo.full_name}`);
+        const issues = await getFilteredIssues(repo);
+        
         if (issues.length > 0) {
-          goodFirstIssues.push({ repo: repo.full_name, issues });
-          issuesCount += issues.length;
+          allIssues.push({
+            repo: repo.full_name,
+            issues: issues.slice(0, 3) // Max 3 issues per repo
+          });
         }
+
+        await sleep(CONFIG.WAIT_TIME);
       }
 
       page++;
-      elapsedTime = Date.now() - start;
-      await new Promise(resolve => setTimeout(resolve, WAIT_TIME));
     }
 
-    let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
-    markdown += `This list gets updated every day at midnight.\n\n`;
+    // Sort repositories by star count descending
+    allIssues.sort((a, b) => b.repo.stargazers_count - a.repo.stargazers_count);
 
-    for (const issue of goodFirstIssues) {
-      markdown += `## [${issue.repo}](${issue.issues[0].html_url.split('/issues')[0]})\n\n`;
-      for (const item of issue.issues) {
-        markdown += `- [${item.title}](${item.html_url})\n`;
-      }
-      markdown += '\n';
-    }
-
-    fs.writeFileSync('README.md', markdown);
+    const markdownContent = generateMarkdown(allIssues);
+    fs.writeFileSync(path.join(__dirname, 'README.md'), markdownContent);
+    
+    console.log(`Successfully generated ${allIssues.length} repositories with issues`);
   } catch (error) {
-    console.error(`An error occurred: ${error.message}`);
-    process.exit();
+    console.error(`Fatal error: ${error.message}`);
+    process.exit(1);
   }
 };
 
-const convertToHtml = async () => {
-  try {
-    const md = new Markdown();
-
-    md.render('README.md', {
-      title: 'Good Javascript First Issues',
-      highlight: true,
-      highlightTheme: 'github',
-      stylesheet: 'styles.css',
-      context: 'https://github.com',
-    }, function (err) {
-      if (err) {
-        throw err;
-      }
-      md.pipe(fs.createWriteStream('index.html'));
-    });
-  } catch (e) {
-    console.error('>>>' + e);
-    process.exit();
-  }
-};
-
-const main = async () => {
-  await getGoodFirstIssues();
-  await convertToHtml();
-};
-
-main();
+// Execute the main workflow
+generateIssueList();
