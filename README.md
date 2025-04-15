@@ -4,15 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
-- [[Docs] UI bug at /guides](https://github.com/meshery/meshery/issues/14393)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
@@ -27,6 +21,17 @@ This list gets updated every day at midnight.
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [[Feature Request]: Remember the Playlists "Sort By" selection between sessions](https://github.com/FreeTubeApp/FreeTube/issues/5008)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [Enable window scrolling with keyboard arrows when clicking outside the video controls.](https://github.com/FreeTubeApp/FreeTube/issues/931)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
@@ -40,15 +45,9 @@ This list gets updated every day at midnight.
 - [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [jlab-sensing/ENTS-backend](https://github.com/jlab-sensing/ENTS-backend)
 
-- [[poetry] Install command requires --all-groups --all-extras](https://github.com/CycloneDX/cdxgen/issues/1710)
-- [[cli] container image-based generator](https://github.com/CycloneDX/cdxgen/issues/1699)
-- [[container] php base images](https://github.com/CycloneDX/cdxgen/issues/1695)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Unflag  --experimental-webstorage](https://github.com/nodejs/node/issues/57658)
-- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
-- [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
+- [Edit Button on Profile Page](https://github.com/jlab-sensing/ENTS-backend/issues/347)
+- [Create the Contact Us form in the website](https://github.com/jlab-sensing/ENTS-backend/issues/173)
+- [Delete Button on Profile Page](https://github.com/jlab-sensing/ENTS-backend/issues/348)
 
