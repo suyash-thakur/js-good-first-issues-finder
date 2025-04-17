@@ -4,9 +4,35 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Hubspot Meetings](https://github.com/PipedreamHQ/pipedream/issues/16258)
+- [[ENHANCEMENT] Microsoft Outlook: New Attachment Received & Download Attachment](https://github.com/PipedreamHQ/pipedream/issues/16270)
+- [[SHOPIFY SUBSCRIPTION EVENTS]](https://github.com/PipedreamHQ/pipedream/issues/16309)
+- [[ACTION] Improve Apify actions](https://github.com/PipedreamHQ/pipedream/issues/16305)
+- [[ACTION] Update Google Gemini actions](https://github.com/PipedreamHQ/pipedream/issues/16262)
+- [[ACTION] RingCentral - Create Company Contact](https://github.com/PipedreamHQ/pipedream/issues/16266)
+- [[ACTION] Coda actions](https://github.com/PipedreamHQ/pipedream/issues/16279)
+- [Create Blog Post - WIX](https://github.com/PipedreamHQ/pipedream/issues/15782)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/15944)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [[Docs] Add link / callout to Operator troubleshooting guide](https://github.com/meshery/meshery/issues/13706)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[Docs] Include Operator Troubleshooting Guide as a resource in the Operator and MeshSync architecture pages](https://github.com/meshery/meshery/issues/11430)
 - [[Template] Create a Dichotomous Key template](https://github.com/meshery/meshery/issues/12463)
@@ -19,45 +45,4 @@ This list gets updated every day at midnight.
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6615)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6577)
-- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
-- [[RFC]: add `stats/incr/nanmmda`](https://github.com/stdlib-js/stdlib/issues/5586)
-- [[RFC]: add `stats/incr/nanmminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5597)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6433)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6432)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6417)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6416)
-- [[RFC]: add `stats/incr/nanmminmax`](https://github.com/stdlib-js/stdlib/issues/5596)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6406)
-- [[RFC]: add `stats/incr/nanminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5580)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6383)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6354)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6214)
-- [[RFC]: add `stats/incr/nanmeanstdev`](https://github.com/stdlib-js/stdlib/issues/5574)
-- [[RFC]: refactor and add protocol support to `stats/base/nanvariance`](https://github.com/stdlib-js/stdlib/issues/5673)
-- [[RFC]: refactor and add protocol support to `stats/base/stdevyc`](https://github.com/stdlib-js/stdlib/issues/5686)
-- [[RFC]: add `stats/incr/nanmpcorr`](https://github.com/stdlib-js/stdlib/issues/5600)
-- [[RFC]: add `stats/incr/nanmhmean`](https://github.com/stdlib-js/stdlib/issues/5577)
-- [[RFC]: add `stats/incr/nanmvmr`](https://github.com/stdlib-js/stdlib/issues/5615)
-- [[RFC]: add `stats/incr/nanmsumabs2`](https://github.com/stdlib-js/stdlib/issues/5612)
-- [[RFC]: add `stats/incr/nanmvariance`](https://github.com/stdlib-js/stdlib/issues/5614)
 
