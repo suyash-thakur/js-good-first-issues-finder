@@ -60,5 +60,22 @@
 <li><a href="https://github.com/vercel/next.js/issues/15971">Redux-observable server side fetching</a></li>
 <li><a href="https://github.com/vercel/next.js/issues/25108">Slow page reload running in development</a></li>
 </ul>
+<h2>Previous Issues</h2>
+<div id="history-links"></div>
+
+<script>
+fetch('dates.json')
+  .then(response => response.json())
+  .then(dates => {
+    const container = document.getElementById('history-links');
+    dates.forEach(date => {
+      const link = document.createElement('a');
+      link.href = `history/${date}.html`;
+      link.textContent = date;
+      link.style.display = 'block'; // For better spacing
+      container.appendChild(link);
+    });
+  });
+</script>
 </body>
 </html>
