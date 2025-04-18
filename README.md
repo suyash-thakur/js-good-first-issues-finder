@@ -4,33 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Hubspot Meetings](https://github.com/PipedreamHQ/pipedream/issues/16258)
-- [[ENHANCEMENT] Microsoft Outlook: New Attachment Received & Download Attachment](https://github.com/PipedreamHQ/pipedream/issues/16270)
-- [[SHOPIFY SUBSCRIPTION EVENTS]](https://github.com/PipedreamHQ/pipedream/issues/16309)
-- [[ACTION] Improve Apify actions](https://github.com/PipedreamHQ/pipedream/issues/16305)
-- [[ACTION] Update Google Gemini actions](https://github.com/PipedreamHQ/pipedream/issues/16262)
-- [[ACTION] RingCentral - Create Company Contact](https://github.com/PipedreamHQ/pipedream/issues/16266)
-- [[ACTION] Coda actions](https://github.com/PipedreamHQ/pipedream/issues/16279)
-- [Create Blog Post - WIX](https://github.com/PipedreamHQ/pipedream/issues/15782)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/15944)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
@@ -45,4 +18,41 @@ This list gets updated every day at midnight.
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [Create-Third-Places/DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames)
+
+- [Update description on dmvboardgames.com homepage to have a light blue background](https://github.com/Create-Third-Places/DMVBoardGames/issues/225)
+- [Add DMV designers to designers page](https://github.com/Create-Third-Places/DMVBoardGames/issues/221)
+- [Add feedback form](https://github.com/Create-Third-Places/DMVBoardGames/issues/182)
+- [Make the text on the local designers pages and upcoming plans page look like the listings page](https://github.com/Create-Third-Places/DMVBoardGames/issues/199)
+- [Set up reset password page](https://github.com/Create-Third-Places/DMVBoardGames/issues/218)
+- [Remove Washington as a location option for the location search dropdown](https://github.com/Create-Third-Places/DMVBoardGames/issues/210)
+- [Add favicon](https://github.com/Create-Third-Places/DMVBoardGames/issues/105)
+- [Update long location descriptions to be on multiple lines](https://github.com/Create-Third-Places/DMVBoardGames/issues/201)
+- [Update CSS for listing page](https://github.com/Create-Third-Places/DMVBoardGames/issues/138)
+- [Add info buttons to list of game stores on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/194)
+- [Add info buttons to list of board game bars and cafés on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/195)
+- [Add  info buttons to list of conventions on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/193)
+- [Design access control system for users](https://github.com/Create-Third-Places/DMVBoardGames/issues/179)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
