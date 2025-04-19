@@ -4,6 +4,42 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
+- [Address commit comments (commit `3656652`)](https://github.com/stdlib-js/stdlib/issues/6712)
+- [Address commit comments (commit `da4436d`)](https://github.com/stdlib-js/stdlib/issues/6714)
+- [Address commit comments (commit `4d0f11a`)](https://github.com/stdlib-js/stdlib/issues/6715)
+- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6703)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6698)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6615)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6577)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
+- [[RFC]: add `stats/incr/nanmmda`](https://github.com/stdlib-js/stdlib/issues/5586)
+- [[RFC]: add `stats/incr/nanmminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5597)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6433)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6432)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6417)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6416)
+- [[RFC]: add `stats/incr/nanmminmax`](https://github.com/stdlib-js/stdlib/issues/5596)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6406)
+- [[RFC]: add `stats/incr/nanminmaxabs`](https://github.com/stdlib-js/stdlib/issues/5580)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6383)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6354)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6214)
+- [[RFC]: add `stats/incr/nanmeanstdev`](https://github.com/stdlib-js/stdlib/issues/5574)
+- [[RFC]: refactor and add protocol support to `stats/base/nanvariance`](https://github.com/stdlib-js/stdlib/issues/5673)
+- [[RFC]: refactor and add protocol support to `stats/base/stdevyc`](https://github.com/stdlib-js/stdlib/issues/5686)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
@@ -18,41 +54,4 @@ This list gets updated every day at midnight.
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 - [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [Create-Third-Places/DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames)
-
-- [Update description on dmvboardgames.com homepage to have a light blue background](https://github.com/Create-Third-Places/DMVBoardGames/issues/225)
-- [Add DMV designers to designers page](https://github.com/Create-Third-Places/DMVBoardGames/issues/221)
-- [Add feedback form](https://github.com/Create-Third-Places/DMVBoardGames/issues/182)
-- [Make the text on the local designers pages and upcoming plans page look like the listings page](https://github.com/Create-Third-Places/DMVBoardGames/issues/199)
-- [Set up reset password page](https://github.com/Create-Third-Places/DMVBoardGames/issues/218)
-- [Remove Washington as a location option for the location search dropdown](https://github.com/Create-Third-Places/DMVBoardGames/issues/210)
-- [Add favicon](https://github.com/Create-Third-Places/DMVBoardGames/issues/105)
-- [Update long location descriptions to be on multiple lines](https://github.com/Create-Third-Places/DMVBoardGames/issues/201)
-- [Update CSS for listing page](https://github.com/Create-Third-Places/DMVBoardGames/issues/138)
-- [Add info buttons to list of game stores on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/194)
-- [Add info buttons to list of board game bars and cafés on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/195)
-- [Add  info buttons to list of conventions on dmvboardgames.com home page](https://github.com/Create-Third-Places/DMVBoardGames/issues/193)
-- [Design access control system for users](https://github.com/Create-Third-Places/DMVBoardGames/issues/179)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Fastify: next.js attempts (and fails) to consume a request body that's already been consumed by Fastify](https://github.com/vercel/next.js/issues/24894)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [TypeError: handler is not a function only when deployed to firebase but not when serve](https://github.com/vercel/next.js/issues/10227)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
