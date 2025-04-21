@@ -11,11 +11,6 @@ const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 30;
 const WAIT_TIME = 1000;
 
-/**
- * Get repositories from GitHub API.
- * @param {number} page Page number
- * @returns {Promise} Promise with repositories
- */
 const getJavascriptRepos = async (page) => {
   try {
     const response = await axios.get(`${API_URL}/search/repositories`, {
@@ -29,14 +24,6 @@ const getJavascriptRepos = async (page) => {
   }
 };
 
-
-
-/**
- * Fetches issues from a repository
- * @param {object} repo - The repository object
- * @returns {array} - The issues array
- */
-
 const getFilteredIssues = async (repo) => {
   try {
     const response = await axios.get(`${API_URL}/repos/${repo.full_name}/issues`, {
@@ -47,16 +34,14 @@ const getFilteredIssues = async (repo) => {
     const today = new Date();
     const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
 
-    return response.data.filter(issue => {
-      const updatedAt = new Date(issue.updated_at);
-      return updatedAt > lastMonth;
-    });
+    return response.data
+      .filter(issue => !issue.pull_request)
+      .filter(issue => new Date(issue.updated_at) > lastMonth);
   } catch (error) {
     console.error(`Failed to fetch issues for ${repo.full_name}: ${error.message}`);
     return [];
   }
 };
-
 
 const getGoodFirstIssues = async () => {
   try {
@@ -106,21 +91,30 @@ const getGoodFirstIssues = async () => {
 const convertToHtml = async () => {
   try {
     const md = new Markdown();
+    let htmlOutput = '';
 
-    md.render('README.md', {
-      title: 'Good Javascript First Issues',
-      highlight: true,
-      highlightTheme: 'github',
-      stylesheet: 'styles.css',
-      context: 'https://github.com',
-    }, function (err) {
-      if (err) {
-        throw err;
-      }
-      md.pipe(fs.createWriteStream('index.html'));
+    md.bufmax = 2048;
+    md.render('README.md', {}, function (err) {
+      if (err) throw err;
     });
+
+    const input = fs.createReadStream('README.md');
+
+    md.once('end', () => {
+      const content = htmlOutput;
+      const template = fs.readFileSync('template.html', 'utf8');
+      const finalHtml = template.replace('{{content}}', content);
+      fs.writeFileSync('index.html', finalHtml);
+      console.log('✅ index.html created successfully');
+    });
+
+    md.on('data', (chunk) => {
+      htmlOutput += chunk;
+    });
+
+    md.render(input);
   } catch (e) {
-    console.error('>>>' + e);
+    console.error('>>> ' + e);
     process.exit();
   }
 };
