@@ -4,12 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [OmniCloudOrg/OmniCloud-Dashboard](https://github.com/OmniCloudOrg/OmniCloud-Dashboard)
-
-- [Dashboard API integration](https://github.com/OmniCloudOrg/OmniCloud-Dashboard/issues/2)
-- [Applications Page](https://github.com/OmniCloudOrg/OmniCloud-Dashboard/issues/4)
-- [Dashboard Page](https://github.com/OmniCloudOrg/OmniCloud-Dashboard/issues/3)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
@@ -23,7 +17,22 @@ This list gets updated every day at midnight.
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
-- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -38,40 +47,23 @@ This list gets updated every day at midnight.
 - [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
 - [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [lumore-xyz/backend](https://github.com/lumore-xyz/backend)
 
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Convert javascript code to type script](https://github.com/lumore-xyz/backend/issues/1)
 
-## [hackforla/website](https://github.com/hackforla/website)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Skills Issue: Developer: Khinememe Kyaw](https://github.com/hackforla/website/issues/7894)
-- [Add github-handle for Jacquelin Coronilla in not-today.md](https://github.com/hackforla/website/issues/7782)
-- [Update Project Profile: Website Add Gilbert Quionnez](https://github.com/hackforla/website/issues/7755)
-- [Add github-handle for Mark Jackson in public-tree-map.md](https://github.com/hackforla/website/issues/7795)
-- [Add github-handle for Mya Stark in not-today.md](https://github.com/hackforla/website/issues/7781)
-- [Add github-handle for Isabelle Wagenvoord in public-tree-map.md](https://github.com/hackforla/website/issues/7794)
-- [Add github-handle for Emily F. in public-tree-map.md](https://github.com/hackforla/website/issues/7792)
-- [Add github-handle for Greg Pawin in lucky-parking.md](https://github.com/hackforla/website/issues/7799)
-- [Add github-handle for Glen Paul Florendo in lucky-parking.md](https://github.com/hackforla/website/issues/7800)
-- [Add github-handle for Michael Morgan in lucky-parking.md](https://github.com/hackforla/website/issues/7801)
-- [Add github-handle for Seymour Liao in lucky-parking.md](https://github.com/hackforla/website/issues/7802)
-- [Update Project Profile: Civic Tech Jobs - Remove Nooria Ali](https://github.com/hackforla/website/issues/8070)
-- [Update Project Profile: Home Unite Us Add John Wroge](https://github.com/hackforla/website/issues/7926)
-- [Update Project Profile: Home Unite Us Add Gabriella Dominic](https://github.com/hackforla/website/issues/7924)
-- [Update Project Profile: Home Unite Us Add Ariel Lasry](https://github.com/hackforla/website/issues/7909)
-- [Update Project Profile: Home Unite Us Add Jasmine Guraya](https://github.com/hackforla/website/issues/7922)
-- [Add github-handle for [INSERT NAME] in [INSERT PROJECT FILE]](https://github.com/hackforla/website/issues/7934)
-- [Update Project Profile: Home Unite Us Add Paul Espinosa](https://github.com/hackforla/website/issues/7944)
-- [Update Project Profile: Home Unite Us Add Jazmyne Newman](https://github.com/hackforla/website/issues/7943)
-- [Update Project Profile: Home Unite Us Update Tyler Thome's Role From HUU Tech Lead to Lead Developer](https://github.com/hackforla/website/issues/7957)
-- [Update Project Profile: Home Unite Us Add Nihan Durmaz](https://github.com/hackforla/website/issues/7956)
-- [Update Project Profile: Home Unite Us Add Amy Li](https://github.com/hackforla/website/issues/7955)
-- [Update Project Profile: Home Unite Us Add Jon Ilaw](https://github.com/hackforla/website/issues/7954)
-- [Update Project Profile: Home Unite Us Add Nicci Van](https://github.com/hackforla/website/issues/7953)
-- [Update Project Profile: Civic Tech Jobs- Add Janis Mollineau](https://github.com/hackforla/website/issues/7997)
-- [Update Project Profile: Civic Tech Jobs- Remove Ida Valenzuela](https://github.com/hackforla/website/issues/7996)
-- [Update Project Profile: Civic Tech Jobs- Remove Carmen Mak](https://github.com/hackforla/website/issues/7995)
-- [Update Project Profile: Expunge Assist- Remove Samantha Hyler](https://github.com/hackforla/website/issues/8004)
-- [Update Project Profile: Expunge Assist- Remove Mireya V. Aviles](https://github.com/hackforla/website/issues/8003)
-- [Update Project Profile: Expunge Assist- Remove Srishti Gupta](https://github.com/hackforla/website/issues/8002)
+- [!stats](https://github.com/PipedreamHQ/pipedream/issues/16374)
+- [Help Scout: add triggers for conversation thread events  (e.g. convo.customer.reply.created, convo.agent.reply.created, convo.note.created)](https://github.com/PipedreamHQ/pipedream/issues/16372)
+- [[ACTION] Get Voices with Descriptions from ElevenLabs](https://github.com/PipedreamHQ/pipedream/issues/16371)
+- [[ACTION] Coda actions](https://github.com/PipedreamHQ/pipedream/issues/16279)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/16365)
+- [[ACTION] Update Google Gemini actions](https://github.com/PipedreamHQ/pipedream/issues/16262)
+- [[ENHANCEMENT] Microsoft Outlook: New Attachment Received & Download Attachment](https://github.com/PipedreamHQ/pipedream/issues/16270)
+- [[ACTION] Improve Apify actions](https://github.com/PipedreamHQ/pipedream/issues/16305)
+- [Create Blog Post - WIX](https://github.com/PipedreamHQ/pipedream/issues/15782)
+
+## [MartinNang/en-route](https://github.com/MartinNang/en-route)
+
+- [FE: Edit/Update profile name](https://github.com/MartinNang/en-route/issues/15)
 
