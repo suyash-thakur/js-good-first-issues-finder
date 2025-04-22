@@ -11,6 +11,11 @@ const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 30;
 const WAIT_TIME = 1000;
 
+/**
+ * Fetches repositories from the GitHub API based on search parameters.
+ * @param {number} page - The page number to fetch repositories from.
+ * @returns {Array} - The list of repositories that match the search criteria.
+ */
 const getJavascriptRepos = async (page) => {
   try {
     const response = await axios.get(`${API_URL}/search/repositories`, {
@@ -24,6 +29,14 @@ const getJavascriptRepos = async (page) => {
   }
 };
 
+/**
+ * Fetches filtered issues from a repository.
+ * @param {Object} repo - The repository object.
+ * @param {string} repo.full_name - The full name of the repository (e.g., "owner/repo-name").
+ * @param {string} repo.language - The programming language of the repository (e.g., "JavaScript").
+ * @param {string} repo.html_url - The URL to the repository on GitHub.
+ * @returns {Array} - The list of open issues that are labeled "good first issue" and updated in the last month.
+ */
 const getFilteredIssues = async (repo) => {
   try {
     const response = await axios.get(`${API_URL}/repos/${repo.full_name}/issues`, {
@@ -43,6 +56,10 @@ const getFilteredIssues = async (repo) => {
   }
 };
 
+/**
+ * Fetches good first issues from multiple JavaScript repositories and generates a markdown report.
+ * @returns {Promise<void>} - This function doesn't return anything, it writes the data to a file.
+ */
 const getGoodFirstIssues = async () => {
   try {
     let goodFirstIssues = [];
@@ -88,6 +105,11 @@ const getGoodFirstIssues = async () => {
   }
 };
 
+/**
+ * Converts the markdown file to HTML using the markdown-to-html library.
+ * Injects the converted content into an HTML template.
+ * @returns {Promise<void>} - This function doesn't return anything, it writes the final HTML to a file.
+ */
 const convertToHtml = async () => {
   try {
     const md = new Markdown();
@@ -119,6 +141,10 @@ const convertToHtml = async () => {
   }
 };
 
+/**
+ * Main function to fetch good first issues and convert the markdown to HTML.
+ * @returns {Promise<void>} - This function doesn't return anything, it orchestrates the other functions.
+ */
 const main = async () => {
   await getGoodFirstIssues();
   await convertToHtml();
