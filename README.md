@@ -4,15 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Triple Dot Button is on the  scroll bar ](https://github.com/brave/brave-browser/issues/36298)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
@@ -26,32 +17,50 @@ This list gets updated every day at midnight.
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 - [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
 
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Make it easier to browse the blog by category](https://github.com/matrix-org/matrix.org/issues/2573)
+- [Links on the privacy policy lead to 404s](https://github.com/matrix-org/matrix.org/issues/2687)
+- [Some <h>eadings are smaller than regular text](https://github.com/matrix-org/matrix.org/issues/2688)
+- [Mark all the mx-puppet bridges as unmaintained](https://github.com/matrix-org/matrix.org/issues/2579)
+- [Add https://github.com/osousa/livematrix to /ecosystem/clients](https://github.com/matrix-org/matrix.org/issues/1365)
+- [We want some place to put meeting infos of WGs](https://github.com/matrix-org/matrix.org/issues/2679)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
 
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6901)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6826)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6762)
-- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6577)
-- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
+- [Please add a api Picker for proxy mode](https://github.com/KudoAI/googlegpt/issues/104)
+- [Error on iOS](https://github.com/KudoAI/googlegpt/issues/90)
+- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
+- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
+- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
+- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
 
-## [Create-Third-Places/DMVBoardGames](https://github.com/Create-Third-Places/DMVBoardGames)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Move DMV_board_games_site_pic_600.png to public/assets folder](https://github.com/Create-Third-Places/DMVBoardGames/issues/272)
-- [When the show info button for a group is clicked on, make sure that group information is visible](https://github.com/Create-Third-Places/DMVBoardGames/issues/260)
-- [Add feedback form](https://github.com/Create-Third-Places/DMVBoardGames/issues/182)
-- [Add automated UI test that verifies links on homepage](https://github.com/Create-Third-Places/DMVBoardGames/issues/241)
-- [Add loading indictor for the search dropdown](https://github.com/Create-Third-Places/DMVBoardGames/issues/238)
-- [Make time to update UI with backend data more consistent](https://github.com/Create-Third-Places/DMVBoardGames/issues/237)
-- [Add loading indicator when a user clicks the search button](https://github.com/Create-Third-Places/DMVBoardGames/issues/236)
-- [Set up reset password page](https://github.com/Create-Third-Places/DMVBoardGames/issues/218)
-- [Update long location descriptions to be on multiple lines](https://github.com/Create-Third-Places/DMVBoardGames/issues/201)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [pedroborgescruz/Jukeboxd](https://github.com/pedroborgescruz/Jukeboxd)
+
+- [Add content to guest page](https://github.com/pedroborgescruz/Jukeboxd/issues/6)
+- [Make sure front-end components are using CSS classes/IDs](https://github.com/pedroborgescruz/Jukeboxd/issues/5)
+- [Album page](https://github.com/pedroborgescruz/Jukeboxd/issues/3)
+
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+
+- [bug: dev_workflow and taskmaster MDC files reference internal/dev rules](https://github.com/eyaltoledano/claude-task-master/issues/334)
+- [bug: delete-task with multiple id's only processes the first id](https://github.com/eyaltoledano/claude-task-master/issues/140)
+- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
+- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
+- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
+- [chore: If available, add complexity scores to tasks in `list` and `show`](https://github.com/eyaltoledano/claude-task-master/issues/56)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] OpenAI Speech to Text / Create Transcription](https://github.com/PipedreamHQ/pipedream/issues/16501)
+- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
+- [[ACTION] Posthog Query](https://github.com/PipedreamHQ/pipedream/issues/16533)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16526)
 
