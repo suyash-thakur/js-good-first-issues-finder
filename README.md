@@ -15,25 +15,11 @@ This list gets updated every day at midnight.
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
 
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Make it easier to browse the blog by category](https://github.com/matrix-org/matrix.org/issues/2573)
-- [Links on the privacy policy lead to 404s](https://github.com/matrix-org/matrix.org/issues/2687)
-- [Some <h>eadings are smaller than regular text](https://github.com/matrix-org/matrix.org/issues/2688)
-- [Mark all the mx-puppet bridges as unmaintained](https://github.com/matrix-org/matrix.org/issues/2579)
-- [Add https://github.com/osousa/livematrix to /ecosystem/clients](https://github.com/matrix-org/matrix.org/issues/1365)
-- [We want some place to put meeting infos of WGs](https://github.com/matrix-org/matrix.org/issues/2679)
-
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
-
-- [Please add a api Picker for proxy mode](https://github.com/KudoAI/googlegpt/issues/104)
-- [Error on iOS](https://github.com/KudoAI/googlegpt/issues/90)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
+- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -41,26 +27,23 @@ This list gets updated every day at midnight.
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [pedroborgescruz/Jukeboxd](https://github.com/pedroborgescruz/Jukeboxd)
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
-- [Add content to guest page](https://github.com/pedroborgescruz/Jukeboxd/issues/6)
-- [Make sure front-end components are using CSS classes/IDs](https://github.com/pedroborgescruz/Jukeboxd/issues/5)
-- [Album page](https://github.com/pedroborgescruz/Jukeboxd/issues/3)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [bug: dev_workflow and taskmaster MDC files reference internal/dev rules](https://github.com/eyaltoledano/claude-task-master/issues/334)
-- [bug: delete-task with multiple id's only processes the first id](https://github.com/eyaltoledano/claude-task-master/issues/140)
-- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
-- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
-- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
-- [chore: If available, add complexity scores to tasks in `list` and `show`](https://github.com/eyaltoledano/claude-task-master/issues/56)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] OpenAI Speech to Text / Create Transcription](https://github.com/PipedreamHQ/pipedream/issues/16501)
-- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
-- [[ACTION] Posthog Query](https://github.com/PipedreamHQ/pipedream/issues/16533)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16526)
+- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
+- [Checkmate behind reverse proxy](https://github.com/bluewave-labs/Checkmate/issues/2153)
+- [Translation fixes](https://github.com/bluewave-labs/Checkmate/issues/2015)
+- [Minor usability fix for Infrastructure page](https://github.com/bluewave-labs/Checkmate/issues/2178)
+- [Infrastructure > Actions column shouldn't be visible/actionable for members](https://github.com/bluewave-labs/Checkmate/issues/2172)
+- [Certificate expiry box should be enabled only for HTTPS sites](https://github.com/bluewave-labs/Checkmate/issues/2169)
+- [Small issues on infrastructure monitoring](https://github.com/bluewave-labs/Checkmate/issues/2168)
+- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
+- [Ignore TLS/SSL error option](https://github.com/bluewave-labs/Checkmate/issues/2108)
+- [BE - Implement test email routes and template](https://github.com/bluewave-labs/Checkmate/issues/2151)
+- [UI - Public Status Page Link](https://github.com/bluewave-labs/Checkmate/issues/2152)
+- [Fonts in button group components must be 13px](https://github.com/bluewave-labs/Checkmate/issues/2056)
+- [Add support for user-managed Google Pagespeed API key in Settings](https://github.com/bluewave-labs/Checkmate/issues/2135)
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
+- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
+- [Infrastructure monitor > Add new > Customize alerts color fixes](https://github.com/bluewave-labs/Checkmate/issues/2055)
 
