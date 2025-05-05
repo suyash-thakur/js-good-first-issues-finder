@@ -16,34 +16,52 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [UI bugs in meshery.io/extensions page](https://github.com/meshery/meshery.io/issues/2084)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
+- [`--watch-path` combined with `--run` fails](https://github.com/nodejs/node/issues/58113)
+- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
+- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
-- [Checkmate behind reverse proxy](https://github.com/bluewave-labs/Checkmate/issues/2153)
-- [Translation fixes](https://github.com/bluewave-labs/Checkmate/issues/2015)
-- [Minor usability fix for Infrastructure page](https://github.com/bluewave-labs/Checkmate/issues/2178)
-- [Infrastructure > Actions column shouldn't be visible/actionable for members](https://github.com/bluewave-labs/Checkmate/issues/2172)
-- [Certificate expiry box should be enabled only for HTTPS sites](https://github.com/bluewave-labs/Checkmate/issues/2169)
-- [Small issues on infrastructure monitoring](https://github.com/bluewave-labs/Checkmate/issues/2168)
-- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
-- [Ignore TLS/SSL error option](https://github.com/bluewave-labs/Checkmate/issues/2108)
-- [BE - Implement test email routes and template](https://github.com/bluewave-labs/Checkmate/issues/2151)
-- [UI - Public Status Page Link](https://github.com/bluewave-labs/Checkmate/issues/2152)
-- [Fonts in button group components must be 13px](https://github.com/bluewave-labs/Checkmate/issues/2056)
-- [Add support for user-managed Google Pagespeed API key in Settings](https://github.com/bluewave-labs/Checkmate/issues/2135)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
-- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
-- [Infrastructure monitor > Add new > Customize alerts color fixes](https://github.com/bluewave-labs/Checkmate/issues/2055)
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add sort by date to the history page](https://github.com/FreeTubeApp/FreeTube/issues/5595)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
+- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
+
+## [taver-ca/Taver_Hackathon](https://github.com/taver-ca/Taver_Hackathon)
+
+- [Convert Map theme to chip style selection](https://github.com/taver-ca/Taver_Hackathon/issues/135)
+
+## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+
+- [webextension: add support for `options_page` key](https://github.com/parcel-bundler/parcel/issues/10076)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6926)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6925)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6826)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6762)
+- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6577)
 
