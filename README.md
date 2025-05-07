@@ -4,19 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [[ACTION] Posthog Query](https://github.com/PipedreamHQ/pipedream/issues/16533)
+- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -30,23 +22,35 @@ This list gets updated every day at midnight.
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
 - [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6934)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6933)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6925)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6826)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6762)
-- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6577)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [`invalid time value` after enacting an mainenance fucking with notifications, login, ...](https://github.com/louislam/uptime-kuma/issues/5780)
-- ["Show Clickable Link" checkbox does not update until entire dashboard is saved](https://github.com/louislam/uptime-kuma/issues/3794)
-- [Friendly Name can default to host name](https://github.com/louislam/uptime-kuma/issues/5467)
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+- [feat: Allow reranker to be accessed via API instead of local model](https://github.com/open-webui/open-webui/issues/8478)
+- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
+
+## [free-gather/DMVBoardGames](https://github.com/free-gather/DMVBoardGames)
+
+- [Evaluate usage of Angular framework for UI](https://github.com/free-gather/DMVBoardGames/issues/291)
+- [Create new repo for UI framework](https://github.com/free-gather/DMVBoardGames/issues/288)
+- [When the show info button for a group is clicked on, make sure that group information is visible](https://github.com/free-gather/DMVBoardGames/issues/260)
+- [Add feedback form](https://github.com/free-gather/DMVBoardGames/issues/182)
+- [Add automated UI test that verifies links on homepage](https://github.com/free-gather/DMVBoardGames/issues/241)
+- [Add loading indictor for the search dropdown](https://github.com/free-gather/DMVBoardGames/issues/238)
+- [Make time to update UI with backend data more consistent](https://github.com/free-gather/DMVBoardGames/issues/237)
+- [Add loading indicator when a user clicks the search button](https://github.com/free-gather/DMVBoardGames/issues/236)
+- [Set up reset password page](https://github.com/free-gather/DMVBoardGames/issues/218)
 
