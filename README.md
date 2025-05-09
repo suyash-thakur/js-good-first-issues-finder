@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
@@ -14,13 +20,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
-- [[Template] Create an UML Diagram template](https://github.com/meshery/meshery/issues/12451)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -30,42 +29,24 @@ This list gets updated every day at midnight.
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [free-gather/DMVBoardGames](https://github.com/free-gather/DMVBoardGames)
 
-- [[docker-compose] Support for automatically building compose images](https://github.com/CycloneDX/cdxgen/issues/1759)
+- [Evaluate usage of Angular framework for UI](https://github.com/free-gather/DMVBoardGames/issues/291)
+- [Create new repo for UI framework](https://github.com/free-gather/DMVBoardGames/issues/288)
+- [When the show info button for a group is clicked on, make sure that group information is visible](https://github.com/free-gather/DMVBoardGames/issues/260)
+- [Add feedback form](https://github.com/free-gather/DMVBoardGames/issues/182)
+- [Add automated UI test that verifies links on homepage](https://github.com/free-gather/DMVBoardGames/issues/241)
+- [Add loading indictor for the search dropdown](https://github.com/free-gather/DMVBoardGames/issues/238)
+- [Make time to update UI with backend data more consistent](https://github.com/free-gather/DMVBoardGames/issues/237)
+- [Add loading indicator when a user clicks the search button](https://github.com/free-gather/DMVBoardGames/issues/236)
+- [Set up reset password page](https://github.com/free-gather/DMVBoardGames/issues/218)
 
-## [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt)
+## [MrJohanF/wheretogo](https://github.com/MrJohanF/wheretogo)
 
-- [Please add a api Picker for proxy mode](https://github.com/KudoAI/googlegpt/issues/104)
-- [Error on iOS](https://github.com/KudoAI/googlegpt/issues/90)
-- [Can you add any integration with google gemini pro which recently launched?](https://github.com/KudoAI/googlegpt/issues/10)
-- [Automatically delete chats](https://github.com/KudoAI/googlegpt/issues/2)
-- [Not working in Safari](https://github.com/KudoAI/googlegpt/issues/33)
-- [Light Mode](https://github.com/KudoAI/googlegpt/issues/40)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330)
-
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-
-- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
-- [Infrastructure monitor > Add new > Customize alerts color fixes](https://github.com/bluewave-labs/Checkmate/issues/2055)
-- [Small issues on infrastructure monitoring](https://github.com/bluewave-labs/Checkmate/issues/2168)
-- [Translation fixes](https://github.com/bluewave-labs/Checkmate/issues/2015)
-- [Checkmate behind reverse proxy](https://github.com/bluewave-labs/Checkmate/issues/2153)
-- [Ignore TLS/SSL error option](https://github.com/bluewave-labs/Checkmate/issues/2108)
-- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
-- [Add support for user-managed Google Pagespeed API key in Settings](https://github.com/bluewave-labs/Checkmate/issues/2135)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Fonts in button group components must be 13px](https://github.com/bluewave-labs/Checkmate/issues/2056)
-- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
-- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
-- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
+- [Explore View](https://github.com/MrJohanF/wheretogo/issues/6)
+- [Footer Home page](https://github.com/MrJohanF/wheretogo/issues/4)
+- [Feature - Tags](https://github.com/MrJohanF/wheretogo/issues/3)
+- [Bug - About us](https://github.com/MrJohanF/wheretogo/issues/1)
 
 ## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
 
