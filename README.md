@@ -4,11 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
 
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
+- [finalizing app designs](https://github.com/OREL-group/Project-Management/issues/140)
+- [Support internationalization in currency and language translation for subletting app](https://github.com/OREL-group/Project-Management/issues/92)
+- [Change Website Name and Logo](https://github.com/OREL-group/Project-Management/issues/82)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -17,41 +18,47 @@ This list gets updated every day at midnight.
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[Template] Create a Brainstorming template](https://github.com/meshery/meshery/issues/12503)
-- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/9282)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [free-gather/DMVBoardGames](https://github.com/free-gather/DMVBoardGames)
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
-- [Evaluate usage of Angular framework for UI](https://github.com/free-gather/DMVBoardGames/issues/291)
-- [Create new repo for UI framework](https://github.com/free-gather/DMVBoardGames/issues/288)
-- [When the show info button for a group is clicked on, make sure that group information is visible](https://github.com/free-gather/DMVBoardGames/issues/260)
-- [Add feedback form](https://github.com/free-gather/DMVBoardGames/issues/182)
-- [Add automated UI test that verifies links on homepage](https://github.com/free-gather/DMVBoardGames/issues/241)
-- [Add loading indictor for the search dropdown](https://github.com/free-gather/DMVBoardGames/issues/238)
-- [Make time to update UI with backend data more consistent](https://github.com/free-gather/DMVBoardGames/issues/237)
-- [Add loading indicator when a user clicks the search button](https://github.com/free-gather/DMVBoardGames/issues/236)
-- [Set up reset password page](https://github.com/free-gather/DMVBoardGames/issues/218)
+- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
+- [Translation fixes](https://github.com/bluewave-labs/Checkmate/issues/2015)
+- [Checkmate behind reverse proxy](https://github.com/bluewave-labs/Checkmate/issues/2153)
+- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
+- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
+- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
+- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
 
-## [MrJohanF/wheretogo](https://github.com/MrJohanF/wheretogo)
+## [alvarotorrestx/DevConnect](https://github.com/alvarotorrestx/DevConnect)
 
-- [Explore View](https://github.com/MrJohanF/wheretogo/issues/6)
-- [Footer Home page](https://github.com/MrJohanF/wheretogo/issues/4)
-- [Feature - Tags](https://github.com/MrJohanF/wheretogo/issues/3)
-- [Bug - About us](https://github.com/MrJohanF/wheretogo/issues/1)
+- [BUG: User must login (when not persistently logged in) every page refresh](https://github.com/alvarotorrestx/DevConnect/issues/64)
+- [BE - Bio/About cannot be empty](https://github.com/alvarotorrestx/DevConnect/issues/105)
+- [FE - Posts body render their HTML name or codes instead of displaying symbols (React Markdown)](https://github.com/alvarotorrestx/DevConnect/issues/108)
+- [FE - Blog Posts needs pagination](https://github.com/alvarotorrestx/DevConnect/issues/109)
+- [FE - Improve the registration form with auto checking if username already taken (automatic)](https://github.com/alvarotorrestx/DevConnect/issues/111)
+- [FE - Job page design](https://github.com/alvarotorrestx/DevConnect/issues/98)
+- [FE - On successful registration, auto forward to login page](https://github.com/alvarotorrestx/DevConnect/issues/91)
 
-## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
-- [finalizing app designs](https://github.com/OREL-group/Project-Management/issues/140)
-- [Support internationalization in currency and language translation for subletting app](https://github.com/OREL-group/Project-Management/issues/92)
-- [Change Website Name and Logo](https://github.com/OREL-group/Project-Management/issues/82)
+- [[ACTION] Search for issues using JQL enhanced search](https://github.com/PipedreamHQ/pipedream/issues/16591)
+- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
+
+## [medic/cht-core](https://github.com/medic/cht-core)
+
+- [Add a @medic/constants shared library](https://github.com/medic/cht-core/issues/9621)
+- [UI Navigation: Screenshot Generation for Reports Section](https://github.com/medic/cht-core/issues/9500)
+- [UI Navigation: Screenshot Generation for Targets Section](https://github.com/medic/cht-core/issues/9503)
+- [Admin app fails to update `partners` if existing document is malformed](https://github.com/medic/cht-core/issues/8027)
+- [Add user storage usage to user-devices API](https://github.com/medic/cht-core/issues/9869)
 
