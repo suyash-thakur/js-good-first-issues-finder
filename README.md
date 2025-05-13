@@ -4,9 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [webextension: add support for `options_page` key](https://github.com/parcel-bundler/parcel/issues/10076)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -17,15 +18,17 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
 - [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [wpilibsuite/frc-docs](https://github.com/wpilibsuite/frc-docs)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Convert inline code blocks to allwpilib snippets with RLIs](https://github.com/wpilibsuite/frc-docs/issues/3018)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -37,43 +40,32 @@ This list gets updated every day at midnight.
 - [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
 - [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [[docker-compose] Support for automatically building compose images](https://github.com/CycloneDX/cdxgen/issues/1759)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
 
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-- [Standardize snackbar copy for `App Visibility Toggle`](https://github.com/ToolJet/ToolJet/issues/11552)
-- [Invite use drawer - tab background dark mode issue](https://github.com/ToolJet/ToolJet/issues/10700)
-- [Alignment in Dark Mode and Light mode is Different](https://github.com/ToolJet/ToolJet/issues/11432)
+- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
+- [finalizing app designs](https://github.com/OREL-group/Project-Management/issues/140)
+- [Support internationalization in currency and language translation for subletting app](https://github.com/OREL-group/Project-Management/issues/92)
 
-## [eltoder/setwithfriends](https://github.com/eltoder/setwithfriends)
+## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
 
-- [Add volume slider](https://github.com/eltoder/setwithfriends/issues/60)
+- [Fix `<label>` tag for `messages.automatedEditsCodeUICheckboxLabel`](https://github.com/maproulette/maproulette3/issues/2580)
+- [When showing challenges in Leaderboard, distinguish finished from active challenges](https://github.com/maproulette/maproulette3/issues/666)
 
-## [uclaacm/website](https://github.com/uclaacm/website)
+## [onflow/fcl-js](https://github.com/onflow/fcl-js)
 
-- [Updates to About Page](https://github.com/uclaacm/website/issues/492)
-- [In The News](https://github.com/uclaacm/website/issues/792)
-- [Increasing Visibility for Initiatives](https://github.com/uclaacm/website/issues/780)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [Search "x" button has wrong gradient colors](https://github.com/layer5io/docs/issues/544)
-- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-- [[Docs] Restructure the layout of "Understanding Tool Modes"](https://github.com/layer5io/docs/issues/541)
-- [add resources dropdown in nav menu](https://github.com/layer5io/docs/issues/518)
-- [[Footer] Site feature: Layer5 Service Status](https://github.com/layer5io/docs/issues/524)
+- [Docs: Add Event Name Format to FCL Docs](https://github.com/onflow/fcl-js/issues/1507)
+- [util-invariant should use logger under the hood](https://github.com/onflow/fcl-js/issues/1488)
 
 ## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
 - [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
 - [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
 - [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
 - [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
 - [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
 - [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
