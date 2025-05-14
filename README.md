@@ -4,25 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
 
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
-- [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
-- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
+- [finalizing app designs](https://github.com/OREL-group/Project-Management/issues/140)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -30,43 +15,63 @@ This list gets updated every day at midnight.
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
-- [Should document stability of diagnostics_channel publishers.](https://github.com/nodejs/node/issues/58234)
-- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
-- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
-- [`--watch-path` combined with `--run` fails](https://github.com/nodejs/node/issues/58113)
-- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [[Template] Create a Kinship Diagram template](https://github.com/meshery/meshery/issues/12452)
+- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
+- [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
+- [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Save Watched Progress - Video is considered 'Watched' far too early](https://github.com/FreeTubeApp/FreeTube/issues/964)
 
 ## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
 - [[docker-compose] Support for automatically building compose images](https://github.com/CycloneDX/cdxgen/issues/1759)
 
-## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
-- [finalizing app designs](https://github.com/OREL-group/Project-Management/issues/140)
-- [Support internationalization in currency and language translation for subletting app](https://github.com/OREL-group/Project-Management/issues/92)
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
 
-## [maproulette/maproulette3](https://github.com/maproulette/maproulette3)
+## [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS)
 
-- [Fix `<label>` tag for `messages.automatedEditsCodeUICheckboxLabel`](https://github.com/maproulette/maproulette3/issues/2580)
-- [When showing challenges in Leaderboard, distinguish finished from active challenges](https://github.com/maproulette/maproulette3/issues/666)
+- [Create KaibanJS Astro Documentation & Tutorial](https://github.com/kaiban-ai/KaibanJS/issues/206)
 
-## [onflow/fcl-js](https://github.com/onflow/fcl-js)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Docs: Add Event Name Format to FCL Docs](https://github.com/onflow/fcl-js/issues/1507)
-- [util-invariant should use logger under the hood](https://github.com/onflow/fcl-js/issues/1488)
+- [[ACTION] Search for issues using JQL enhanced search](https://github.com/PipedreamHQ/pipedream/issues/16591)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/16646)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/16643)
+- [[ACTION] View, List, Search Tickets actions for Zendesk](https://github.com/PipedreamHQ/pipedream/issues/16632)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16628)
+- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [free-gather/DMVBoardGames](https://github.com/free-gather/DMVBoardGames)
 
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
-- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
-- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
-- [Please consider adding a helm chart](https://github.com/bluewave-labs/Checkmate/issues/1680)
-- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
+- [Move html files to public directory and make sure site works in production mode](https://github.com/free-gather/DMVBoardGames/issues/318)
+- [Clicking on browser back button doesn’t return to homepage from group page](https://github.com/free-gather/DMVBoardGames/issues/312)
+- [Add group page mocks for local development](https://github.com/free-gather/DMVBoardGames/issues/313)
+- [Some events have a blank location](https://github.com/free-gather/DMVBoardGames/issues/314)
+- [Group info pages for groups without events are stuck in loading state.](https://github.com/free-gather/DMVBoardGames/issues/311)
+- [Remove extra logic for show info buttons on homepage](https://github.com/free-gather/DMVBoardGames/issues/299)
+- [Evaluate usage of Angular framework for UI](https://github.com/free-gather/DMVBoardGames/issues/291)
+- [Create new repo for UI framework](https://github.com/free-gather/DMVBoardGames/issues/288)
+- [When the show info button for a group is clicked on, make sure that group information is visible](https://github.com/free-gather/DMVBoardGames/issues/260)
+- [Add feedback form](https://github.com/free-gather/DMVBoardGames/issues/182)
+- [Add automated UI test that verifies links on homepage](https://github.com/free-gather/DMVBoardGames/issues/241)
+- [Add loading indictor for the search dropdown](https://github.com/free-gather/DMVBoardGames/issues/238)
+- [Make time to update UI with backend data more consistent](https://github.com/free-gather/DMVBoardGames/issues/237)
+- [Add loading indicator when a user clicks the search button](https://github.com/free-gather/DMVBoardGames/issues/236)
+- [Set up reset password page](https://github.com/free-gather/DMVBoardGames/issues/218)
+
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+
+- [Accessibility issue: Font Size change](https://github.com/MetaMorphic-Digital/draw-steel/issues/322)
+- [Create DSID getter on Item](https://github.com/MetaMorphic-Digital/draw-steel/issues/389)
+- [On applying prone, revert token movement type to null](https://github.com/MetaMorphic-Digital/draw-steel/issues/431)
 
