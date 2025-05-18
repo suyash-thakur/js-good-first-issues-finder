@@ -4,9 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
+## [gbowne1/flickpicker](https://github.com/gbowne1/flickpicker/pull/30)
 
-- [Accessibility Pass for Color Styles and Icons for Main Screens](https://github.com/OREL-group/Project-Management/issues/196)
+- [Fix movies table layout (#14)](https://github.com/gbowne1/flickpicker/pull/30)
+- [Fix movie search functionality (#15)](https://github.com/gbowne1/flickpicker/pull/25)
+- [[Feature] No new user registration](https://github.com/gbowne1/flickpicker/issues/19)
+- [[Bug] Loaded movie cards are too huge and render in a single vertical column](https://github.com/gbowne1/flickpicker/issues/14)
+- [[TODO] Add a guide to contribution CONTRIBUTING.md](https://github.com/gbowne1/flickpicker/issues/28)
+- [[Feature] Profile frontend doesn't currently doesn't do much](https://github.com/gbowne1/flickpicker/issues/27)
+- [[Feature] Add a feature to bring in images](https://github.com/gbowne1/flickpicker/issues/22)
+- [[Bug][a11y] fix accessibility a11y](https://github.com/gbowne1/flickpicker/issues/21)
+- [[Bug][Feature] Playlist feature doesn't work](https://github.com/gbowne1/flickpicker/issues/20)
+- [[Bug] Eye icon on login form doesn't work changing the state to visible or not visible](https://github.com/gbowne1/flickpicker/issues/18)
+- [[Bug][Feature] List view doesn't work](https://github.com/gbowne1/flickpicker/issues/16)
+- [[Bug} Movie search functionality doesn't work](https://github.com/gbowne1/flickpicker/issues/15)
+- [[Feature] Add a Details feature](https://github.com/gbowne1/flickpicker/issues/5)
+- [[Bug] script.mjs bugs](https://github.com/gbowne1/flickpicker/issues/13)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -19,36 +32,22 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [Joy-of-Coding/ReactJam_2025_Spring](https://github.com/Joy-of-Coding/ReactJam_2025_Spring)
 
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Update the README with game details and rules](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/3)
+- [Start Game screen with start game button](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/8)
+- [Add participants to the Credits Page](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/7)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7018)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7011)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7003)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7002)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6998)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6993)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6992)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6976)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6956)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6826)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6762)
-- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
-- [When Maintenance menu is clicked, the placeholder is shown for < 1 seconds](https://github.com/bluewave-labs/Checkmate/issues/2286)
-- [Saving for Features doesn't work for Status pages](https://github.com/bluewave-labs/Checkmate/issues/2274)
-- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
-- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
-- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
+- [feat: Add codex integration](https://github.com/eyaltoledano/claude-task-master/issues/524)
+- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
+- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
+- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
 
