@@ -4,22 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [gbowne1/flickpicker](https://github.com/gbowne1/flickpicker/pull/30)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Fix movies table layout (#14)](https://github.com/gbowne1/flickpicker/pull/30)
-- [Fix movie search functionality (#15)](https://github.com/gbowne1/flickpicker/pull/25)
-- [[Feature] No new user registration](https://github.com/gbowne1/flickpicker/issues/19)
-- [[Bug] Loaded movie cards are too huge and render in a single vertical column](https://github.com/gbowne1/flickpicker/issues/14)
-- [[TODO] Add a guide to contribution CONTRIBUTING.md](https://github.com/gbowne1/flickpicker/issues/28)
-- [[Feature] Profile frontend doesn't currently doesn't do much](https://github.com/gbowne1/flickpicker/issues/27)
-- [[Feature] Add a feature to bring in images](https://github.com/gbowne1/flickpicker/issues/22)
-- [[Bug][a11y] fix accessibility a11y](https://github.com/gbowne1/flickpicker/issues/21)
-- [[Bug][Feature] Playlist feature doesn't work](https://github.com/gbowne1/flickpicker/issues/20)
-- [[Bug] Eye icon on login form doesn't work changing the state to visible or not visible](https://github.com/gbowne1/flickpicker/issues/18)
-- [[Bug][Feature] List view doesn't work](https://github.com/gbowne1/flickpicker/issues/16)
-- [[Bug} Movie search functionality doesn't work](https://github.com/gbowne1/flickpicker/issues/15)
-- [[Feature] Add a Details feature](https://github.com/gbowne1/flickpicker/issues/5)
-- [[Bug] script.mjs bugs](https://github.com/gbowne1/flickpicker/issues/13)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -32,11 +23,19 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 
-## [Joy-of-Coding/ReactJam_2025_Spring](https://github.com/Joy-of-Coding/ReactJam_2025_Spring)
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-- [Update the README with game details and rules](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/3)
-- [Start Game screen with start game button](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/8)
-- [Add participants to the Credits Page](https://github.com/Joy-of-Coding/ReactJam_2025_Spring/issues/7)
+- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
+- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+- [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
+- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
+- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
+- [`--watch-path` combined with `--run` fails](https://github.com/nodejs/node/issues/58113)
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -44,10 +43,29 @@ This list gets updated every day at midnight.
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+## [taver-ca/Taver_Hackathon](https://github.com/taver-ca/Taver_Hackathon)
 
-- [feat: Add codex integration](https://github.com/eyaltoledano/claude-task-master/issues/524)
-- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
-- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
-- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
+- [Make event title scrollable](https://github.com/taver-ca/Taver_Hackathon/issues/130)
+- [Convert Map theme to chip style selection](https://github.com/taver-ca/Taver_Hackathon/issues/135)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
+- [`invalid time value` after enacting an mainenance fucking with notifications, login, ...](https://github.com/louislam/uptime-kuma/issues/5780)
+- ["Show Clickable Link" checkbox does not update until entire dashboard is saved](https://github.com/louislam/uptime-kuma/issues/3794)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+
+## [pinojs/pino](https://github.com/pinojs/pino)
+
+- [Update modules for v9](https://github.com/pinojs/pino/issues/1762)
+
+## [espruino/BangleApps](https://github.com/espruino/BangleApps)
+
+- [[tally] By default Tally app is entirely empty](https://github.com/espruino/BangleApps/issues/3853)
+
+## [PolyPixels/Holes_Client](https://github.com/PolyPixels/Holes_Client)
+
+- [Make all images webps](https://github.com/PolyPixels/Holes_Client/issues/19)
+- [Plants should heal over time as well](https://github.com/PolyPixels/Holes_Client/issues/26)
+- [Crafting feedback and enhancement](https://github.com/PolyPixels/Holes_Client/issues/7)
 
