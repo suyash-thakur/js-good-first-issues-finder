@@ -4,16 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
@@ -23,49 +22,30 @@ This list gets updated every day at midnight.
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [The sorting icon should be dark mode friendly](https://github.com/meshery/meshery/issues/13306)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add `/api/v1/embeddings` endpoint for 100% OpenAI compatibility](https://github.com/open-webui/open-webui/issues/8719)
-- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
-- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
-- [--cpu-prof-name 'CPU.${pid}.cpuprofile' doesn't replace the placeholder](https://github.com/nodejs/node/issues/57418)
-- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
-- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
-- [`--watch-path` combined with `--run` fails](https://github.com/nodejs/node/issues/58113)
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [Optionally show IP/URL of the monitor in status page](https://github.com/bluewave-labs/Checkmate/issues/2304)
+- [When Maintenance menu is clicked, the placeholder is shown for < 1 seconds](https://github.com/bluewave-labs/Checkmate/issues/2286)
+- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
+- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
+- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
+- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
+- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [taver-ca/Taver_Hackathon](https://github.com/taver-ca/Taver_Hackathon)
-
-- [Make event title scrollable](https://github.com/taver-ca/Taver_Hackathon/issues/130)
-- [Convert Map theme to chip style selection](https://github.com/taver-ca/Taver_Hackathon/issues/135)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
-- [`invalid time value` after enacting an mainenance fucking with notifications, login, ...](https://github.com/louislam/uptime-kuma/issues/5780)
-- ["Show Clickable Link" checkbox does not update until entire dashboard is saved](https://github.com/louislam/uptime-kuma/issues/3794)
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
-## [pinojs/pino](https://github.com/pinojs/pino)
-
-- [Update modules for v9](https://github.com/pinojs/pino/issues/1762)
-
-## [espruino/BangleApps](https://github.com/espruino/BangleApps)
-
-- [[tally] By default Tally app is entirely empty](https://github.com/espruino/BangleApps/issues/3853)
-
-## [PolyPixels/Holes_Client](https://github.com/PolyPixels/Holes_Client)
-
-- [Make all images webps](https://github.com/PolyPixels/Holes_Client/issues/19)
-- [Plants should heal over time as well](https://github.com/PolyPixels/Holes_Client/issues/26)
-- [Crafting feedback and enhancement](https://github.com/PolyPixels/Holes_Client/issues/7)
+- [feat: any interest in using `brew` to install script ?](https://github.com/eyaltoledano/claude-task-master/issues/538)
+- [feat: Add codex integration](https://github.com/eyaltoledano/claude-task-master/issues/524)
+- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
+- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
+- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
 
