@@ -4,11 +4,18 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
+- [New Apollo recording available](https://github.com/PipedreamHQ/pipedream/issues/16725)
+- [[TRIGGER] watch a row](https://github.com/PipedreamHQ/pipedream/issues/16656)
+- [[ACTION] Google Sheet - Create Spreadsheet: allow create spreadsheet in a folder](https://github.com/PipedreamHQ/pipedream/issues/16643)
+- [[TRIGGER] Quriiri - New Message Received](https://github.com/PipedreamHQ/pipedream/issues/16535)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16530)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -31,21 +38,22 @@ This list gets updated every day at midnight.
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Optionally show IP/URL of the monitor in status page](https://github.com/bluewave-labs/Checkmate/issues/2304)
-- [When Maintenance menu is clicked, the placeholder is shown for < 1 seconds](https://github.com/bluewave-labs/Checkmate/issues/2286)
-- [UI - Unified control header](https://github.com/bluewave-labs/Checkmate/issues/2148)
-- [Add port monitors to maintenance windows](https://github.com/bluewave-labs/Checkmate/issues/1926)
-- [UI - Remove delete button from status pages](https://github.com/bluewave-labs/Checkmate/issues/2150)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [feat: any interest in using `brew` to install script ?](https://github.com/eyaltoledano/claude-task-master/issues/538)
-- [feat: Add codex integration](https://github.com/eyaltoledano/claude-task-master/issues/524)
-- [feat: Enhance research prompt to include documentation URLs for tasks and subtasks](https://github.com/eyaltoledano/claude-task-master/issues/226)
-- [feat: add next steps to response of done task](https://github.com/eyaltoledano/claude-task-master/issues/235)
-- [feat: support dependency detection](https://github.com/eyaltoledano/claude-task-master/issues/201)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7050)
+- [Address commit comments (commit `c9edc1a`)](https://github.com/stdlib-js/stdlib/issues/7049)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7031)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7024)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7011)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6603)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7003)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7002)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6993)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6976)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6956)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6716)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6826)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6762)
 
