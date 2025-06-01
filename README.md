@@ -4,11 +4,18 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Jaidenmagnan/neetcoder](https://github.com/Jaidenmagnan/neetcoder)
+## [DevSocUOS/A-Space-2-Grow-Website](https://github.com/DevSocUOS/A-Space-2-Grow-Website)
 
-- [[FEATURE] removing Theo from the leaderboard](https://github.com/Jaidenmagnan/neetcoder/issues/51)
-- [[FEATURE] Fix our README](https://github.com/Jaidenmagnan/neetcoder/issues/35)
-- [[FEATURE] Leaderboard](https://github.com/Jaidenmagnan/neetcoder/issues/32)
+- [Mihai - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/8)
+- [Anas - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/36)
+- [Christiana - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/25)
+- [Michaela - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/7)
+- [Sarah - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/10)
+- [Aung Ko Min - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/12)
+
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+
+- [Add searchbar to "Mark role as" box](https://github.com/UltiMafia/Ultimafia/issues/2007)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -21,27 +28,30 @@ This list gets updated every day at midnight.
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [Contributing docs recommend running bash on container with user that doesn't have npm installed](https://github.com/LibreSign/libresign/issues/5005)
+- [Implement debounce on add signer search field](https://github.com/LibreSign/libresign/issues/5004)
+- [Remove title from new issues](https://github.com/LibreSign/libresign/issues/5073)
+- [Split environment information when report a bug.](https://github.com/LibreSign/libresign/issues/5072)
+- [Initial implementation of Jest](https://github.com/LibreSign/libresign/issues/5062)
+- [Decrease number of issues request on "Expiration Rules" area](https://github.com/LibreSign/libresign/issues/2030)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[docker-compose] Support for automatically building compose images](https://github.com/CycloneDX/cdxgen/issues/1759)
-
-## [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
-
-- [Need a Task for brownfield integration planning for existing code bases](https://github.com/bmadcode/BMAD-METHOD/issues/92)
-- [move .ide.md agents to a new location.](https://github.com/bmadcode/BMAD-METHOD/issues/89)
-- [Architect modifies bmad-agent/checklists/architect-checklist.md file](https://github.com/bmadcode/BMAD-METHOD/issues/72)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7136)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7135)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7149)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7148)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7115)
 - [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7110)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7107)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7090)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
 - [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7077)
