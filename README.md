@@ -4,18 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [DevSocUOS/A-Space-2-Grow-Website](https://github.com/DevSocUOS/A-Space-2-Grow-Website)
+## [nodejs/undici](https://github.com/nodejs/undici)
 
-- [Mihai - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/8)
-- [Anas - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/36)
-- [Christiana - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/25)
-- [Michaela - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/7)
-- [Sarah - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/10)
-- [Aung Ko Min - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/12)
+- [Docs: Clarify undici module vs fetch in Node](https://github.com/nodejs/undici/issues/4066)
+- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
+- [Allow asynchronous mocking replies](https://github.com/nodejs/undici/issues/1348)
 
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Add searchbar to "Mark role as" box](https://github.com/UltiMafia/Ultimafia/issues/2007)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -28,39 +30,31 @@ This list gets updated every day at midnight.
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+## [DevSocUOS/A-Space-2-Grow-Website](https://github.com/DevSocUOS/A-Space-2-Grow-Website)
 
-- [Contributing docs recommend running bash on container with user that doesn't have npm installed](https://github.com/LibreSign/libresign/issues/5005)
-- [Implement debounce on add signer search field](https://github.com/LibreSign/libresign/issues/5004)
-- [Remove title from new issues](https://github.com/LibreSign/libresign/issues/5073)
-- [Split environment information when report a bug.](https://github.com/LibreSign/libresign/issues/5072)
-- [Initial implementation of Jest](https://github.com/LibreSign/libresign/issues/5062)
-- [Decrease number of issues request on "Expiration Rules" area](https://github.com/LibreSign/libresign/issues/2030)
+- [Anas - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/36)
+- [Aung Ko Min - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/12)
+- [Mihai - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/8)
+- [Christiana - Add your name in your team](https://github.com/DevSocUOS/A-Space-2-Grow-Website/issues/25)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[ACTION] Add Quickbook Endpoints (Missing but are available on Zapier!)](https://github.com/PipedreamHQ/pipedream/issues/16906)
+- [Add song to Queue](https://github.com/PipedreamHQ/pipedream/issues/16891)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16876)
+- [Deepmind](https://github.com/PipedreamHQ/pipedream/issues/16875)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16750)
+- [New Apollo recording available](https://github.com/PipedreamHQ/pipedream/issues/16725)
+- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
+- [[TRIGGER] watch a row](https://github.com/PipedreamHQ/pipedream/issues/16656)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7149)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7148)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7115)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7110)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7090)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7077)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7070)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/6354)
-- [Address commit comments (commit `c9edc1a`)](https://github.com/stdlib-js/stdlib/issues/7049)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7024)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6993)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6976)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6956)
+- [Need a Task for brownfield integration planning for existing code bases](https://github.com/bmadcode/BMAD-METHOD/issues/92)
+- [move .ide.md agents to a new location.](https://github.com/bmadcode/BMAD-METHOD/issues/89)
+- [Architect modifies bmad-agent/checklists/architect-checklist.md file](https://github.com/bmadcode/BMAD-METHOD/issues/72)
 
