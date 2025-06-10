@@ -4,24 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[pt] Localize docs/contributing/sig-practices.md](https://github.com/open-telemetry/opentelemetry.io/issues/6860)
-- [K8s operator API links are invalid](https://github.com/open-telemetry/opentelemetry.io/issues/6237)
-- [Events sub-section to Community tab on site?](https://github.com/open-telemetry/opentelemetry.io/issues/6560)
-- [[pt] Localize docs/contributing/style-guide.md](https://github.com/open-telemetry/opentelemetry.io/issues/6854)
-- [[pt] Localize docs/contributing/acknowledgements.md](https://github.com/open-telemetry/opentelemetry.io/issues/6861)
-- [[pt] Localize docs/contributing/development.md](https://github.com/open-telemetry/opentelemetry.io/issues/6859)
-- [[pt] Localize docs/contributing/announcements.md](https://github.com/open-telemetry/opentelemetry.io/issues/6858)
-- [[pt] Localize docs/contributing/pr-checks.md](https://github.com/open-telemetry/opentelemetry.io/issues/6857)
-- [[pt] Localize docs/contributing/blog.md](https://github.com/open-telemetry/opentelemetry.io/issues/6856)
-- [[pt] Localize docs/contributing/localization.md](https://github.com/open-telemetry/opentelemetry.io/issues/6855)
-- [[pt] Localize docs/contributing/pull-requests.md](https://github.com/open-telemetry/opentelemetry.io/issues/6853)
-- [[pt] Localize docs/contributing/issues.md](https://github.com/open-telemetry/opentelemetry.io/issues/6852)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -30,7 +17,6 @@ This list gets updated every day at midnight.
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 - [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -43,12 +29,12 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
+- [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Security Vulnerabilities" Page](https://github.com/meshery/meshery.io/issues/2194)
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
-- [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
-- [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
 - [[Feature] Creating a Member Form](https://github.com/meshery/meshery.io/issues/2177)
