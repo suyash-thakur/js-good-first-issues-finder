@@ -4,6 +4,28 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+
+- [errors-in-console audit can produce extremely large JSON reports](https://github.com/GoogleChrome/lighthouse/issues/13817)
+- ["Save as Gist" is grayed out in Viewer after first click](https://github.com/GoogleChrome/lighthouse/issues/14947)
+- [Do something if an invalid category is provided](https://github.com/GoogleChrome/lighthouse/issues/16085)
+- [runWarnings format difficult for pragmatic usage](https://github.com/GoogleChrome/lighthouse/issues/11352)
+- [Update minify-trace to exclude unnecessary trace data](https://github.com/GoogleChrome/lighthouse/issues/12748)
+- [Add guidance about preferring secure canonical links](https://github.com/GoogleChrome/lighthouse/issues/4700)
+- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Picqer.com MCP server](https://github.com/PipedreamHQ/pipedream/issues/16939)
+- [[ACTION] GItHub actions for retrieving commits](https://github.com/PipedreamHQ/pipedream/issues/17048)
+- [[ACTION] Linkedin fetch historic posts of authenticated user](https://github.com/PipedreamHQ/pipedream/issues/16921)
+- [[ACTION] Add Quickbook Endpoints (Missing but are available on Zapier!)](https://github.com/PipedreamHQ/pipedream/issues/16906)
+- [[ACTION] OpenAI Responses API](https://github.com/PipedreamHQ/pipedream/issues/17031)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/16750)
+- [New Apollo recording available](https://github.com/PipedreamHQ/pipedream/issues/16725)
+- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
+- [[TRIGGER] watch a row](https://github.com/PipedreamHQ/pipedream/issues/16656)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
@@ -29,13 +51,13 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
+- [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
+- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Security Vulnerabilities" Page](https://github.com/meshery/meshery.io/issues/2194)
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
-- [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
-- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
-- [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
 - [[Feature] Creating a Member Form](https://github.com/meshery/meshery.io/issues/2177)
 - [[bug] Fixing Text OverFlow in Programs Section](https://github.com/meshery/meshery.io/issues/2180)
