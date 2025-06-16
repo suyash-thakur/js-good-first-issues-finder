@@ -4,6 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+
+- [Replace OPL Practice Cover Photos with Ilaria's Doodles](https://github.com/openpracticelibrary/openpracticelibrary/issues/2163)
+
+## [AnJoMort0/VR_What_We_Behold](https://github.com/AnJoMort0/VR_What_We_Behold)
+
+- [HMPH is flipped when the snobby peeps looks left](https://github.com/AnJoMort0/VR_What_We_Behold/issues/18)
+- [Well... Sound is a thing... a thing I'm not doing right now](https://github.com/AnJoMort0/VR_What_We_Behold/issues/17)
+- [Currently all face changes are removing child and appending it again](https://github.com/AnJoMort0/VR_What_We_Behold/issues/13)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Top Padding for K8 Connection Menu.](https://github.com/meshery/meshery/issues/15041)
@@ -17,8 +27,24 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
@@ -32,25 +58,4 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
-
-- [GIF support for media block](https://github.com/sugarlabs/musicblocks/issues/4560)
-- [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7362)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7361)
-- [[RFC]: add `stats/incr/nanmme`](https://github.com/stdlib-js/stdlib/issues/5587)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7070)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7024)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
 
