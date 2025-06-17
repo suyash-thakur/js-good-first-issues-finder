@@ -4,15 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
 
-- [Replace OPL Practice Cover Photos with Ilaria's Doodles](https://github.com/openpracticelibrary/openpracticelibrary/issues/2163)
-
-## [AnJoMort0/VR_What_We_Behold](https://github.com/AnJoMort0/VR_What_We_Behold)
-
-- [HMPH is flipped when the snobby peeps looks left](https://github.com/AnJoMort0/VR_What_We_Behold/issues/18)
-- [Well... Sound is a thing... a thing I'm not doing right now](https://github.com/AnJoMort0/VR_What_We_Behold/issues/17)
-- [Currently all face changes are removing child and appending it again](https://github.com/AnJoMort0/VR_What_We_Behold/issues/13)
+- [Remove the Dependency on Babel: Allow Prebid to be used with any build system](https://github.com/prebid/Prebid.js/issues/10086)
+- [Use on device language detection](https://github.com/prebid/Prebid.js/issues/13054)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -36,16 +31,11 @@ This list gets updated every day at midnight.
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Import profiles of contributor training series presenters](https://github.com/meshery/meshery.io/issues/2248)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
 - [[Feature] Creating a Member Form](https://github.com/meshery/meshery.io/issues/2177)
@@ -58,4 +48,18 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7378)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
+- [[RFC]: Add C implementations to logistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3692)
+- [[RFC]: add `stats/incr/nanmme`](https://github.com/stdlib-js/stdlib/issues/5587)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7070)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7024)
+
+## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+
+- [Replace OPL Practice Cover Photos with Ilaria's Doodles](https://github.com/openpracticelibrary/openpracticelibrary/issues/2163)
 
