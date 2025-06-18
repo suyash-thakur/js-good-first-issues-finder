@@ -4,16 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Remove the Dependency on Babel: Allow Prebid to be used with any build system](https://github.com/prebid/Prebid.js/issues/10086)
-- [Use on device language detection](https://github.com/prebid/Prebid.js/issues/13054)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[UI] Top Padding for K8 Connection Menu.](https://github.com/meshery/meshery/issues/15041)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
@@ -29,7 +32,20 @@ This list gets updated every day at midnight.
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
+- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -49,17 +65,9 @@ This list gets updated every day at midnight.
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [duolicious/duolicious-frontend](https://github.com/duolicious/duolicious-frontend)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7378)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
-- [[RFC]: Add C implementations to logistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3692)
-- [[RFC]: add `stats/incr/nanmme`](https://github.com/stdlib-js/stdlib/issues/5587)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7070)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7024)
-
-## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
-
-- [Replace OPL Practice Cover Photos with Ilaria's Doodles](https://github.com/openpracticelibrary/openpracticelibrary/issues/2163)
+- [Make type checks stricter](https://github.com/duolicious/duolicious-frontend/issues/606)
+- [Remove whitespace at the top of the screen on web](https://github.com/duolicious/duolicious-frontend/issues/627)
+- [Make it possible to escape `>` in markdown](https://github.com/duolicious/duolicious-frontend/issues/791)
 
