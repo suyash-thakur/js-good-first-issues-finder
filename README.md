@@ -4,13 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -25,38 +25,16 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Import profiles of contributor training series presenters](https://github.com/meshery/meshery.io/issues/2248)
-- [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
+- [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
+- [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
+- [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
+- [Import profiles of contributor training series presenters](https://github.com/meshery/meshery.io/issues/2248)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
 - [[Feature] Creating a Member Form](https://github.com/meshery/meshery.io/issues/2177)
-- [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
-- [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Security Vulnerabilities" Page](https://github.com/meshery/meshery.io/issues/2194)
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
@@ -65,9 +43,11 @@ This list gets updated every day at midnight.
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 
-## [duolicious/duolicious-frontend](https://github.com/duolicious/duolicious-frontend)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Make type checks stricter](https://github.com/duolicious/duolicious-frontend/issues/606)
-- [Remove whitespace at the top of the screen on web](https://github.com/duolicious/duolicious-frontend/issues/627)
-- [Make it possible to escape `>` in markdown](https://github.com/duolicious/duolicious-frontend/issues/791)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
