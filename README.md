@@ -4,16 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[UI] Top Padding for K8 Connection Menu.](https://github.com/meshery/meshery/issues/15041)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
@@ -25,10 +18,18 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
+- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [Import profiles of contributor training series presenters](https://github.com/meshery/meshery.io/issues/2248)
@@ -42,12 +43,4 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
