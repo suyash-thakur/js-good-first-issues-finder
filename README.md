@@ -4,14 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
 - [[UI] Top Padding for K8 Connection Menu.](https://github.com/meshery/meshery/issues/15041)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -34,28 +43,4 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
-- [[Feature Request]: Add missing keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
-
-## [AdityaSavara/JSONGrapher](https://github.com/AdityaSavara/JSONGrapher)
-
-- [Browser Record Creator Enhancement for Equations Case](https://github.com/AdityaSavara/JSONGrapher/issues/43)
-- [Update Download Last Data Set As:](https://github.com/AdityaSavara/JSONGrapher/issues/34)
-- [move more functions to modules](https://github.com/AdityaSavara/JSONGrapher/issues/26)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
