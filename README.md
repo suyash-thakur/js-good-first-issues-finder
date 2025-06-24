@@ -4,20 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
-- [[UI] Top Padding for K8 Connection Menu.](https://github.com/meshery/meshery/issues/15041)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
@@ -26,6 +20,15 @@ This list gets updated every day at midnight.
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -43,4 +46,8 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+
+## [buddypond/buddypond](https://github.com/buddypond/buddypond)
+
+- [Improve Theme Editor / Switching Themes Should Change Desktop Window And Text Colors](https://github.com/buddypond/buddypond/issues/77)
 
