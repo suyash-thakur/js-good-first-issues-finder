@@ -4,12 +4,28 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [The steps for installing opentelemetry.io on is not working on Windows](https://github.com/open-telemetry/opentelemetry.io/issues/7069)
+- [[pt] Localize docs/contributing/sig-practices.md](https://github.com/open-telemetry/opentelemetry.io/issues/6860)
+- [Events sub-section to Community tab on site?](https://github.com/open-telemetry/opentelemetry.io/issues/6560)
+- [[pt] Localize docs/contributing/style-guide.md](https://github.com/open-telemetry/opentelemetry.io/issues/6854)
+
 ## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
 - [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
 
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Spelling error in error report](https://github.com/nodejs/node/issues/58805)
+- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
+- [TextDecoder incorrectly decodes 0x92 and several other characters for Windows-1252](https://github.com/nodejs/node/issues/56542)
+- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
+- [Support `bufferSize` option with recursive mode in `fs.opendir`](https://github.com/nodejs/node/issues/55764)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
@@ -19,7 +35,6 @@ This list gets updated every day at midnight.
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -46,8 +61,4 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-
-## [buddypond/buddypond](https://github.com/buddypond/buddypond)
-
-- [Improve Theme Editor / Switching Themes Should Change Desktop Window And Text Colors](https://github.com/buddypond/buddypond/issues/77)
 
