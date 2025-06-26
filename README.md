@@ -4,37 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
 
-- [The steps for installing opentelemetry.io on is not working on Windows](https://github.com/open-telemetry/opentelemetry.io/issues/7069)
-- [[pt] Localize docs/contributing/sig-practices.md](https://github.com/open-telemetry/opentelemetry.io/issues/6860)
-- [Events sub-section to Community tab on site?](https://github.com/open-telemetry/opentelemetry.io/issues/6560)
-- [[pt] Localize docs/contributing/style-guide.md](https://github.com/open-telemetry/opentelemetry.io/issues/6854)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Spelling error in error report](https://github.com/nodejs/node/issues/58805)
-- [http.request should be documented to receive an headers array](https://github.com/nodejs/node/issues/57986)
-- [TextDecoder incorrectly decodes 0x92 and several other characters for Windows-1252](https://github.com/nodejs/node/issues/56542)
-- [readFile will not read files larger than 2 GiB even if buffers can be larger](https://github.com/nodejs/node/issues/55864)
-- [Support `bufferSize` option with recursive mode in `fs.opendir`](https://github.com/nodejs/node/issues/55764)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
-- [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
-- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [Dev: WAVE Accessibility: Account Management Pages, Missing Form Labels](https://github.com/hackforla/tdm-calculator/issues/2573)
+- [Dev: Update Submitted modal to bold datestamp](https://github.com/hackforla/tdm-calculator/issues/2565)
+- [Dev: WAVE Accessibility - Contrast Ratio Fixes](https://github.com/hackforla/tdm-calculator/issues/2534)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -45,6 +19,22 @@ This list gets updated every day at midnight.
 - [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
+- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
+- [[UI] Share options overflow outside dialog container on performance chart modal](https://github.com/meshery/meshery/issues/15180)
+- [[UI] Import design dialog does not dismiss upon successful addition](https://github.com/meshery/meshery/issues/15181)
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
+- [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
+- [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
+- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
+- [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
+- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
@@ -53,7 +43,6 @@ This list gets updated every day at midnight.
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
-- [[Feature] Creating a Member Form](https://github.com/meshery/meshery.io/issues/2177)
 - [[Improvement] Create the "Security Vulnerabilities" Page](https://github.com/meshery/meshery.io/issues/2194)
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
@@ -61,4 +50,29 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+
+## [kenwuuu/pencil-it-in-web](https://github.com/kenwuuu/pencil-it-in-web)
+
+- [Add pull-to-refresh to all Pages using Capacitor](https://github.com/kenwuuu/pencil-it-in-web/issues/286)
+- [Add dark mode to login/create account](https://github.com/kenwuuu/pencil-it-in-web/issues/155)
+- [Add pull-to-refresh to Friends List using Capacitor](https://github.com/kenwuuu/pencil-it-in-web/issues/287)
+- [Add pull-to-refresh to Event Feed using Capacitor](https://github.com/kenwuuu/pencil-it-in-web/issues/285)
+- [get user's previous events](https://github.com/kenwuuu/pencil-it-in-web/issues/7)
+- [Placeholder times in Event Creation component don't update each time you open it](https://github.com/kenwuuu/pencil-it-in-web/issues/216)
+- [Friends list subtitle isn't centered when user has no friends](https://github.com/kenwuuu/pencil-it-in-web/issues/198)
+- [Event cover photo](https://github.com/kenwuuu/pencil-it-in-web/issues/70)
+- [Add host profile picture to Event Card](https://github.com/kenwuuu/pencil-it-in-web/issues/25)
+- [Allow users to add Cohosts](https://github.com/kenwuuu/pencil-it-in-web/issues/141)
+- [When the attendance limit is hit, make the event not appear for anyone else.](https://github.com/kenwuuu/pencil-it-in-web/issues/34)
+- [Add Groups tab to sidebar menu](https://github.com/kenwuuu/pencil-it-in-web/issues/33)
+- [Likely unused code in vite.config.js, requires testing after removal](https://github.com/kenwuuu/pencil-it-in-web/issues/87)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
