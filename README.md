@@ -4,6 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
@@ -20,15 +27,6 @@ This list gets updated every day at midnight.
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
@@ -44,4 +42,13 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [with-passport-and-next-connect redefines response `end` function as async](https://github.com/vercel/next.js/issues/51628)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
