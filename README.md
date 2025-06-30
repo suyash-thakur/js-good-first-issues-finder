@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [inDevelopme/justaskdavidb-vuestic-ui](https://github.com/inDevelopme/justaskdavidb-vuestic-ui)
+
+- [[Enhancement]: Sprint 2 - Create Ruleset to Protect main branch in repository](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/8)
+- [[Enhancement]: Sprint 1 - Need to create a Issue Templates for JustAskDavidB VuesticUI](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/5)
+- [[Mission]: Update readme to include instructions on running locally using VuesticUI](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/4)
+
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
 - [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
@@ -27,6 +33,15 @@ This list gets updated every day at midnight.
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
@@ -42,11 +57,4 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Add remaining YT player keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-- [[Bug]: catppuccinMocha: Color contrast for owner comments is too low](https://github.com/FreeTubeApp/FreeTube/issues/6597)
 
