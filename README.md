@@ -4,19 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [inDevelopme/justaskdavidb-vuestic-ui](https://github.com/inDevelopme/justaskdavidb-vuestic-ui)
-
-- [[Enhancement]: Sprint 2 - Create Ruleset to Protect main branch in repository](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/8)
-- [[Enhancement]: Sprint 1 - Need to create a Issue Templates for JustAskDavidB VuesticUI](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/5)
-- [[Mission]: Update readme to include instructions on running locally using VuesticUI](https://github.com/inDevelopme/justaskdavidb-vuestic-ui/issues/4)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -44,9 +31,9 @@ This list gets updated every day at midnight.
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
-- [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
