@@ -10,7 +10,6 @@ This list gets updated every day at midnight.
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 - [[UI] Share options overflow outside dialog container on performance chart modal](https://github.com/meshery/meshery/issues/15180)
-- [[UI] Import design dialog does not dismiss upon successful addition](https://github.com/meshery/meshery/issues/15181)
 - [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [Add support for sort by count for database table in settings registry page](https://github.com/meshery/meshery/issues/13958)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
@@ -44,4 +43,8 @@ This list gets updated every day at midnight.
 - [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
 
