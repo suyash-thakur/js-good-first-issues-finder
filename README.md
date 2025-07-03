@@ -4,6 +4,13 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
+- [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
+- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
+- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -17,15 +24,14 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
 - [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
@@ -44,7 +50,9 @@ This list gets updated every day at midnight.
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 
-- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
+- [i18n Sync: Update Settings and SubmitSaveAllSettings Keys Across Locale Files](https://github.com/processing/p5.js-web-editor/issues/3510)
+- [Some text on the p5.js Editor “About” page is not translated](https://github.com/processing/p5.js-web-editor/issues/3485)
+- [Resetting to p5.js default version](https://github.com/processing/p5.js-web-editor/issues/3504)
 
