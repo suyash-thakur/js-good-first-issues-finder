@@ -4,16 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
-- [cleanup/remove interfaces.js from src/backend/src/services/drivers](https://github.com/HeyPuter/puter/issues/1131)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-- [Development console flicker](https://github.com/HeyPuter/puter/issues/232)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 - [[UI] Share options overflow outside dialog container on performance chart modal](https://github.com/meshery/meshery/issues/15180)
@@ -22,7 +16,6 @@ This list gets updated every day at midnight.
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
 - [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
-- [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
@@ -32,10 +25,10 @@ This list gets updated every day at midnight.
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
 - [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
-- [Right arrow-key to auto-complete url bar](https://github.com/brave/brave-browser/issues/44927)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "Recognitions" Page](https://github.com/meshery/meshery.io/issues/2192)
 - [[Improvement] Create the "Code of Conduct" and "Community" Pages](https://github.com/meshery/meshery.io/issues/2186)
@@ -46,13 +39,13 @@ This list gets updated every day at midnight.
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
 - [[bug] Fixing Text OverFlow in Programs Section](https://github.com/meshery/meshery.io/issues/2180)
-- [[Improvement]  Create the "Mentorship Programs" Page](https://github.com/meshery/meshery.io/issues/2190)
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 
-## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [i18n Sync: Update Settings and SubmitSaveAllSettings Keys Across Locale Files](https://github.com/processing/p5.js-web-editor/issues/3510)
-- [Some text on the p5.js Editor “About” page is not translated](https://github.com/processing/p5.js-web-editor/issues/3485)
-- [Resetting to p5.js default version](https://github.com/processing/p5.js-web-editor/issues/3504)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
