@@ -30,24 +30,22 @@ This list gets updated every day at midnight.
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
 - [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
 - [[bug] Fixing Text OverFlow in Programs Section](https://github.com/meshery/meshery.io/issues/2180)
-- [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [JustKesha/yt-shorts-compilations](https://github.com/JustKesha/yt-shorts-compilations)
 
-- [[ACTION] GItHub actions for retrieving commits](https://github.com/PipedreamHQ/pipedream/issues/17048)
-- [[ACTION] OpenAI Responses API](https://github.com/PipedreamHQ/pipedream/issues/17031)
-- [[ACTION] KakaoTalk](https://github.com/PipedreamHQ/pipedream/issues/17470)
-- [[ACTION] Download PDF](https://github.com/PipedreamHQ/pipedream/issues/17453)
-- [[ACTION] Integrate Pipedream Connect with our Lovable App](https://github.com/PipedreamHQ/pipedream/issues/17393)
-- [Add Google Slide - Pages / Slides CRUD](https://github.com/PipedreamHQ/pipedream/issues/17404)
-- [[ACTION] Clevertap extend mcp servers to Campaign API](https://github.com/PipedreamHQ/pipedream/issues/17282)
-- [[ACTION] Extend Vertex AI MCP server with Veo3 support](https://github.com/PipedreamHQ/pipedream/issues/17363)
-- [[TRIGGER] New SMS in Aircall](https://github.com/PipedreamHQ/pipedream/issues/17285)
-- [[ACTION] Freshsales](https://github.com/PipedreamHQ/pipedream/issues/17341)
-- [[TRIGGER] Add "shared drive" prop to relevant Onedrive triggers, like with Google Drive and Sheets](https://github.com/PipedreamHQ/pipedream/issues/17335)
-- [[COMPONENTS]  New Esendex Components](https://github.com/PipedreamHQ/pipedream/issues/17120)
-- [[ACTION] Square create order fix](https://github.com/PipedreamHQ/pipedream/issues/17168)
-- [[ACTION] Picqer.com MCP server](https://github.com/PipedreamHQ/pipedream/issues/16939)
-- [[APP][TRIGGER] NewsBlur ](https://github.com/PipedreamHQ/pipedream/issues/8447)
-- [[ACTION] Linkedin fetch historic posts of authenticated user](https://github.com/PipedreamHQ/pipedream/issues/16921)
+- [Docs](https://github.com/JustKesha/yt-shorts-compilations/issues/28)
+- [Optimize font loading](https://github.com/JustKesha/yt-shorts-compilations/issues/26)
+- [Chrome extension - better collection backgrounds](https://github.com/JustKesha/yt-shorts-compilations/issues/30)
+
+## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
+
+- [update Greenwood to address all (as many) TypeScript no check comments](https://github.com/ProjectEvergreen/greenwood/issues/1427)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
