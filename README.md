@@ -4,6 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Feature Request]: Add remaining YT player keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
@@ -18,6 +24,15 @@ This list gets updated every day at midnight.
 - [[mesheryctl] `workspace create` command error code 404.](https://github.com/meshery/meshery/issues/11312)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
+- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
@@ -28,18 +43,6 @@ This list gets updated every day at midnight.
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
 - [[Improvement] Create the "Security Vulnerabilities" Page](https://github.com/meshery/meshery.io/issues/2194)
 - [[Improvement] Create the "Repository Overview" Page](https://github.com/meshery/meshery.io/issues/2193)
-- [[Improvement] Create the "Community Roles" Page](https://github.com/meshery/meshery.io/issues/2187)
-- [[bug] Fixing Text OverFlow in Programs Section](https://github.com/meshery/meshery.io/issues/2180)
-
-## [JustKesha/yt-shorts-compilations](https://github.com/JustKesha/yt-shorts-compilations)
-
-- [Docs](https://github.com/JustKesha/yt-shorts-compilations/issues/28)
-- [Optimize font loading](https://github.com/JustKesha/yt-shorts-compilations/issues/26)
-- [Chrome extension - better collection backgrounds](https://github.com/JustKesha/yt-shorts-compilations/issues/30)
-
-## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
-
-- [update Greenwood to address all (as many) TypeScript no check comments](https://github.com/ProjectEvergreen/greenwood/issues/1427)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -48,4 +51,17 @@ This list gets updated every day at midnight.
 - [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+
+## [interplaynetary/free-association](https://github.com/interplaynetary/free-association)
+
+- [Direct/Group Secure Chat: End-2-End Messaging Gun](https://github.com/interplaynetary/free-association/issues/49)
+- [Share button with existing contacts](https://github.com/interplaynetary/free-association/issues/77)
+- [Capacity Filters](https://github.com/interplaynetary/free-association/issues/47)
+- [Integrate Inventory as a Map view](https://github.com/interplaynetary/free-association/issues/36)
+- [Commitments as nodes with fixed percentages](https://github.com/interplaynetary/free-association/issues/40)
+- [Your Recognition and Mutual Recognition texts cut off](https://github.com/interplaynetary/free-association/issues/56)
+- [Surplus distribution interface & Inventory](https://github.com/interplaynetary/free-association/issues/16)
+- [add Fulfillment % Bar to Nodes! (manualFulfillment)](https://github.com/interplaynetary/free-association/issues/30)
+- [Allow for touching & growing multiple nodes at once](https://github.com/interplaynetary/free-association/issues/18)
+- [Allow nodes to store hyperlinks and additional data](https://github.com/interplaynetary/free-association/issues/11)
 
