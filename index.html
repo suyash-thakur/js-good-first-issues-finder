@@ -55,5 +55,22 @@
 <li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/6674">[Page feedback]: Context Description Rewording</a></li>
 <li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/7069">The steps for installing opentelemetry.io on is not working on Windows</a></li>
 </ul>
+<h2>Previous Issues</h2>
+<div id="history-links"></div>
+
+<script>
+fetch('dates.json')
+  .then(response => response.json())
+  .then(dates => {
+    const container = document.getElementById('history-links');
+    dates.forEach(date => {
+      const link = document.createElement('a');
+      link.href = `history/${date}.html`;
+      link.textContent = date;
+      link.style.display = 'block'; // For better spacing
+      container.appendChild(link);
+    });
+  });
+</script>
 </body>
 </html>
