@@ -4,10 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
-
-- [[pnpm] Improve metadata collection with node_modules parsing](https://github.com/CycloneDX/cdxgen/issues/1981)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
@@ -41,18 +37,17 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Improvement] Create the "FAQs" Page](https://github.com/meshery/meshery.io/issues/2196)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7599)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7559)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7553)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7542)
-- [Address commit comments (commit `dd4ec1f`)](https://github.com/stdlib-js/stdlib/issues/7454)
-- [Address commit comments (commit `c11ef6e`)](https://github.com/stdlib-js/stdlib/issues/7453)
-- [Address commit comments (commit `75a786a`)](https://github.com/stdlib-js/stdlib/issues/7452)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6406)
-- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7019)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7085)
-- [[RFC]: Add C implementations to logistic distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3692)
+- [Show loader icon while saving rename of library components](https://github.com/openedx/frontend-app-authoring/issues/2208)
+- [Bug: Overflow menu icon shifts to a new-line in some cases](https://github.com/openedx/frontend-app-authoring/issues/1822)
+- [Bug: Drag and drop editor/preview keeps loading](https://github.com/openedx/frontend-app-authoring/issues/1749)
+- [Only one overflow menu or dropdown menu should be visible at a time](https://github.com/openedx/frontend-app-authoring/issues/1804)
+- [Library reference dialog phrasing fixes](https://github.com/openedx/frontend-app-authoring/issues/2175)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [Events sub-section to Community tab on site?](https://github.com/open-telemetry/opentelemetry.io/issues/6560)
+- [[Page feedback]: Context Description Rewording](https://github.com/open-telemetry/opentelemetry.io/issues/6674)
+- [The steps for installing opentelemetry.io on is not working on Windows](https://github.com/open-telemetry/opentelemetry.io/issues/7069)
 
