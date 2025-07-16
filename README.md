@@ -4,15 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7675)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7660)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7553)
+- [Address commit comments (commit `dd4ec1f`)](https://github.com/stdlib-js/stdlib/issues/7454)
+- [Address commit comments (commit `c11ef6e`)](https://github.com/stdlib-js/stdlib/issues/7453)
+- [Address commit comments (commit `75a786a`)](https://github.com/stdlib-js/stdlib/issues/7452)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6406)
+- [Address commit comments (commit `1871022`)](https://github.com/stdlib-js/stdlib/issues/6713)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
@@ -32,7 +38,6 @@ This list gets updated every day at midnight.
 - [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Update design for Private Window and Private Window with Tor](https://github.com/brave/brave-browser/issues/44909)
-- [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -43,26 +48,4 @@ This list gets updated every day at midnight.
 - [[Improvement] Creating a Community Handbook and Contents](https://github.com/meshery/meshery.io/issues/2176)
 - [[Improvement] Create the "GitHub Organization Membership" Page](https://github.com/meshery/meshery.io/issues/2197)
 - [[Improvement] Create the "GitHub Process" Page](https://github.com/meshery/meshery.io/issues/2195)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[Screenshots] AWS Elastic Kubernetes Service under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5322)
-- [[UI] Visibility Issue of Table rows in Dark Mode](https://github.com/layer5io/layer5/issues/6581)
-- [[Handbook] Extra spaces in the beginning every page of handbook.](https://github.com/layer5io/layer5/issues/6312)
-- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
-- [Update Call To Action](https://github.com/layer5io/layer5/issues/6556)
-- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
-- [[Screenshots] Fluentbit Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5333)
-- [The text and layout need to be adjusted for better readability and usability across different screen sizes.](https://github.com/layer5io/layer5/issues/5640)
-- [Update resources and hands-on labs with latest content](https://github.com/layer5io/layer5/issues/6387)
-- [Add Employee badge to members and recognition pages](https://github.com/layer5io/layer5/issues/6277)
-- [add max-width to images on learnign-paths](https://github.com/layer5io/layer5/issues/6411)
-- [[UI] Overlapping Content on HandBook Repository OverView.](https://github.com/layer5io/layer5/issues/6538)
-- [[Screenshots] Flagger under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5331)
-- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
-- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
-- [Replace MeshMap icons to new Kanvas logo](https://github.com/layer5io/layer5/issues/6032)
-- [Responsive issues on Internship, brand pages of layer5 ](https://github.com/layer5io/layer5/issues/5997)
-- [[Visual Design] New Recognition Badge: Feature Trailblazer Badge](https://github.com/layer5io/layer5/issues/4808)
 
