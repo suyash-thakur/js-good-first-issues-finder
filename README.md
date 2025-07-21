@@ -4,15 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [功能请求：更细粒度的代码块展开控制](https://github.com/Yue-plus/hexo-theme-arknights/issues/194)
+- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
+- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
@@ -26,39 +30,40 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [SulkesLisa-FS/PP3_spotify-api](https://github.com/SulkesLisa-FS/PP3_spotify-api)
-
-- [Add JWT refresh](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/20)
-- [Client Environment Checks for dev and production](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/46)
-- [Client html  title ico](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/40)
-- [SCRUM Check In Discussion - REPLY](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/39)
-- [SCRUM Check In Discussion - POST](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/30)
-- [Weekly Progress Check](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/29)
-- [Finalize and Complete UI Application](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/27)
-- [Enforce Login Logic (JWT Based Route Protection)](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/26)
-- [Create UI login Screen](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/25)
-- [Attend SCRUM meeting - Milestone 4](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/28)
-- [SCRUM Check In Discussion - REPLY](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/38)
-- [SCRUM Check In Discussion - POST](https://github.com/SulkesLisa-FS/PP3_spotify-api/issues/24)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+- [[Feature]: Add dark theme support to Jaeger-UI](https://github.com/jaegertracing/jaeger-ui/issues/1911)
+- [Remove dependency on enzyme](https://github.com/jaegertracing/jaeger-ui/issues/1668)
+- [[Feature]: Add click-to-copy capability to trace ID display](https://github.com/jaegertracing/jaeger-ui/issues/2813)
+- [[Bug]: Support for defaultProps in Function Components to be Removed](https://github.com/jaegertracing/jaeger-ui/issues/2596)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [Denis-alt254/DevPort](https://github.com/Denis-alt254/DevPort)
 
-- [Verified mark(Right mark) beside channel name](https://github.com/FreeTubeApp/FreeTube/issues/944)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [[Feature Request]: Add remaining YT player keyboard shortcuts](https://github.com/FreeTubeApp/FreeTube/issues/2138)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [feat: any interest in using `brew` to install script ?](https://github.com/eyaltoledano/claude-task-master/issues/538)
-- [bug: expand command does not work with WSL / Claude Code because of using home path instead of project path](https://github.com/eyaltoledano/claude-task-master/issues/862)
-- [Automated README Progress Badges & Table](https://github.com/eyaltoledano/claude-task-master/issues/838)
+- [Implement conditional rendering based on login](https://github.com/Denis-alt254/DevPort/issues/40)
+- [Create routing system with React Router](https://github.com/Denis-alt254/DevPort/issues/27)
+- [Test live version + fix any issues](https://github.com/Denis-alt254/DevPort/issues/48)
+- [Deploy frontend (Vercel/Netlify)](https://github.com/Denis-alt254/DevPort/issues/47)
+- [Deploy backend (Render/Railway)](https://github.com/Denis-alt254/DevPort/issues/46)
+- [Test all major user flows](https://github.com/Denis-alt254/DevPort/issues/45)
+- [Clean up UI (spacing, fonts, colors)](https://github.com/Denis-alt254/DevPort/issues/44)
+- [Implement loading spinners where needed](https://github.com/Denis-alt254/DevPort/issues/43)
+- [Add toast notifications (e.g. react-hot-toast)](https://github.com/Denis-alt254/DevPort/issues/42)
+- [Validate all input forms (auth, project, profile)](https://github.com/Denis-alt254/DevPort/issues/41)
+- [Connect all API endpoints to UI](https://github.com/Denis-alt254/DevPort/issues/39)
+- [Add Skill endorsement buttons](https://github.com/Denis-alt254/DevPort/issues/38)
+- [Build Explore Developers page (search + follow)](https://github.com/Denis-alt254/DevPort/issues/37)
+- [Create Add Project form + upload](https://github.com/Denis-alt254/DevPort/issues/36)
+- [Add/Edit Profile form](https://github.com/Denis-alt254/DevPort/issues/35)
+- [Build Profile page (self + others)](https://github.com/Denis-alt254/DevPort/issues/34)
+- [Build Dashboard layout](https://github.com/Denis-alt254/DevPort/issues/33)
+- [Handle token saving in localStorage](https://github.com/Denis-alt254/DevPort/issues/32)
+- [Connect login/register to backend with Axios](https://github.com/Denis-alt254/DevPort/issues/31)
+- [Setup AuthContext with JWT support](https://github.com/Denis-alt254/DevPort/issues/30)
+- [Create Register page UI](https://github.com/Denis-alt254/DevPort/issues/29)
+- [Create Login page UI](https://github.com/Denis-alt254/DevPort/issues/28)
 
