@@ -4,6 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Blankscreen-exe/ExpenTable](https://github.com/Blankscreen-exe/ExpenTable)
+
+- [Redesign the checkboxes on the main table](https://github.com/Blankscreen-exe/ExpenTable/issues/13)
+
+## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
+
+- [Show loader icon while saving rename of library components](https://github.com/openedx/frontend-app-authoring/issues/2208)
+- [Bug: Date picker controls cause MFE error on Safari](https://github.com/openedx/frontend-app-authoring/issues/2323)
+- [Remove Higher Order Components from Editors](https://github.com/openedx/frontend-app-authoring/issues/2089)
+- [Replace of injectIntl with useIntl() part 5](https://github.com/openedx/frontend-app-authoring/issues/2285)
+- [Replace of injectIntl with useIntl() part 6](https://github.com/openedx/frontend-app-authoring/issues/2286)
+- [Replace of injectIntl with useIntl() part 8](https://github.com/openedx/frontend-app-authoring/issues/2288)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
@@ -18,6 +31,7 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 - [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
 - [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
@@ -30,59 +44,30 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [InetIntel/ioda-ui](https://github.com/InetIntel/ioda-ui)
 
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+- [Time Selector Changes Your Page View](https://github.com/InetIntel/ioda-ui/issues/197)
+- [Mobile UI Improvements](https://github.com/InetIntel/ioda-ui/issues/193)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [micahlt/wasteof.mobile](https://github.com/micahlt/wasteof.mobile)
-
-- [[object Object] error](https://github.com/micahlt/wasteof.mobile/issues/48)
-
-## [skybrush-io/live](https://github.com/skybrush-io/live)
-
-- [UAVs panel toolbar is drawn on top of other maximized panels](https://github.com/skybrush-io/live/issues/82)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Module recovery banner is re-appearing shortly after `Recover` CTA is clicked](https://github.com/google/site-kit-wp/issues/11055)
-- [Update casing of dashboard sharing references](https://github.com/google/site-kit-wp/issues/11109)
-- [Update RRM module to use global `isURLUsingHTTPS` util function](https://github.com/google/site-kit-wp/issues/11012)
-- [Refactor and consolidate all module inline data into a single method](https://github.com/google/site-kit-wp/issues/10988)
-- [Remove unused methods from Google_Proxy class](https://github.com/google/site-kit-wp/issues/11107)
-- [Move the blocks build output directory from `dist/assets/js/blocks` to `dist/assets/blocks`](https://github.com/google/site-kit-wp/issues/10694)
-- [Decommission active consumers information tracking](https://github.com/google/site-kit-wp/issues/10189)
-- [Simplify inline module data handling.](https://github.com/google/site-kit-wp/issues/11120)
-- [Improve `sitekit/acronym-case` ESLint rule to cover propTypes declarations on valid acronym exports](https://github.com/google/site-kit-wp/issues/10591)
-- [Refactor `getChartOptions` function to remove ESLint override](https://github.com/google/site-kit-wp/issues/10985)
-- [Add `useFormValue` hook to get easier access to values from `CORE_FORMS`](https://github.com/google/site-kit-wp/issues/7871)
-- [Increase padding between One Tap settings](https://github.com/google/site-kit-wp/issues/9968)
-- [Replace use of `WithTestRegistry` with `WithRegistrySetup` in JS stories](https://github.com/google/site-kit-wp/issues/10757)
-- [Update button font-weight to match design system](https://github.com/google/site-kit-wp/issues/8856)
-- [Remove the Ads Conversion ID flag from a users SH information](https://github.com/google/site-kit-wp/issues/9960)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-
-- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
-- [Global Threshold](https://github.com/bluewave-labs/Checkmate/issues/2628)
-- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
-- [Yellow range for infrastructure monitors](https://github.com/bluewave-labs/Checkmate/issues/2615)
-- [Feature Request: Consecutive incidents should be 1 incident](https://github.com/bluewave-labs/Checkmate/issues/2626)
-- [Implement exponential backoff for incidents](https://github.com/bluewave-labs/Checkmate/issues/2366)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Add bearer/basic auth option to webhooks](https://github.com/bluewave-labs/Checkmate/issues/2369)
-- [FE - Testing Framework ](https://github.com/bluewave-labs/Checkmate/issues/923)
-- [Bulk edit monitor notification settings](https://github.com/bluewave-labs/Checkmate/issues/2320)
+- [[ACTION] Tableau - Download PDF](https://github.com/PipedreamHQ/pipedream/issues/17453)
+- [[Asana] Get-Task-Strories](https://github.com/PipedreamHQ/pipedream/issues/17794)
+- [[ACTION] unable to create image and text posts](https://github.com/PipedreamHQ/pipedream/issues/17752)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/17741)
+- [[ACTION] Bright Data](https://github.com/PipedreamHQ/pipedream/issues/17768)
+- [actions for hootsuite](https://github.com/PipedreamHQ/pipedream/issues/17712)
+- [[TRIGGERS] Facebook Pages](https://github.com/PipedreamHQ/pipedream/issues/17713)
+- [Please add tools to the `launch_darkly_oauth` MCP server!](https://github.com/PipedreamHQ/pipedream/issues/17725)
+- [[ACTION] Box Document Signing Create](https://github.com/PipedreamHQ/pipedream/issues/17737)
+- [[ACTION] Extend Vertex AI MCP server with Veo3 support](https://github.com/PipedreamHQ/pipedream/issues/17363)
+- [Search Rows](https://github.com/PipedreamHQ/pipedream/issues/17696)
+- [[APP][TRIGGER] NewsBlur ](https://github.com/PipedreamHQ/pipedream/issues/8447)
+- [[TRIGGER] Quickbooks - Purchase created/Purchase updated](https://github.com/PipedreamHQ/pipedream/issues/17625)
+- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
+- [[ACTION] KakaoTalk](https://github.com/PipedreamHQ/pipedream/issues/17470)
+- [Add Google Slide - Pages / Slides CRUD](https://github.com/PipedreamHQ/pipedream/issues/17404)
+- [[TRIGGER] Yahoo Fantasy Baseball](https://github.com/PipedreamHQ/pipedream/issues/17486)
+- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
+- [[ACTION] Integrate Pipedream Connect with our Lovable App](https://github.com/PipedreamHQ/pipedream/issues/17393)
 
