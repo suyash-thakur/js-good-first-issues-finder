@@ -4,18 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Blankscreen-exe/ExpenTable](https://github.com/Blankscreen-exe/ExpenTable)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [Redesign the checkboxes on the main table](https://github.com/Blankscreen-exe/ExpenTable/issues/13)
-
-## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
-
-- [Show loader icon while saving rename of library components](https://github.com/openedx/frontend-app-authoring/issues/2208)
-- [Bug: Date picker controls cause MFE error on Safari](https://github.com/openedx/frontend-app-authoring/issues/2323)
-- [Remove Higher Order Components from Editors](https://github.com/openedx/frontend-app-authoring/issues/2089)
-- [Replace of injectIntl with useIntl() part 5](https://github.com/openedx/frontend-app-authoring/issues/2285)
-- [Replace of injectIntl with useIntl() part 6](https://github.com/openedx/frontend-app-authoring/issues/2286)
-- [Replace of injectIntl with useIntl() part 8](https://github.com/openedx/frontend-app-authoring/issues/2288)
+- [Block certain sheet interactions from non-owners](https://github.com/MetaMorphic-Digital/draw-steel/issues/744)
+- [Orden Calendar](https://github.com/MetaMorphic-Digital/draw-steel/issues/49)
+- [Implement `unflankable` status](https://github.com/MetaMorphic-Digital/draw-steel/issues/714)
+- [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
+- [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
+- [Add display for Complications](https://github.com/MetaMorphic-Digital/draw-steel/issues/703)
+- [Add "Polyglot" compatibility](https://github.com/MetaMorphic-Digital/draw-steel/issues/640)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -27,47 +24,34 @@ This list gets updated every day at midnight.
 - [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 - [[Docs] Enhance dropdown menu that specifies docs version](https://github.com/meshery/meshery/issues/9227)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
-- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
-- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [InetIntel/ioda-ui](https://github.com/InetIntel/ioda-ui)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Time Selector Changes Your Page View](https://github.com/InetIntel/ioda-ui/issues/197)
-- [Mobile UI Improvements](https://github.com/InetIntel/ioda-ui/issues/193)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [JustKesha/yt-shorts-compilations](https://github.com/JustKesha/yt-shorts-compilations)
 
-- [[ACTION] Tableau - Download PDF](https://github.com/PipedreamHQ/pipedream/issues/17453)
-- [[Asana] Get-Task-Strories](https://github.com/PipedreamHQ/pipedream/issues/17794)
-- [[ACTION] unable to create image and text posts](https://github.com/PipedreamHQ/pipedream/issues/17752)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/17741)
-- [[ACTION] Bright Data](https://github.com/PipedreamHQ/pipedream/issues/17768)
-- [actions for hootsuite](https://github.com/PipedreamHQ/pipedream/issues/17712)
-- [[TRIGGERS] Facebook Pages](https://github.com/PipedreamHQ/pipedream/issues/17713)
-- [Please add tools to the `launch_darkly_oauth` MCP server!](https://github.com/PipedreamHQ/pipedream/issues/17725)
-- [[ACTION] Box Document Signing Create](https://github.com/PipedreamHQ/pipedream/issues/17737)
-- [[ACTION] Extend Vertex AI MCP server with Veo3 support](https://github.com/PipedreamHQ/pipedream/issues/17363)
-- [Search Rows](https://github.com/PipedreamHQ/pipedream/issues/17696)
-- [[APP][TRIGGER] NewsBlur ](https://github.com/PipedreamHQ/pipedream/issues/8447)
-- [[TRIGGER] Quickbooks - Purchase created/Purchase updated](https://github.com/PipedreamHQ/pipedream/issues/17625)
-- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
-- [[ACTION] KakaoTalk](https://github.com/PipedreamHQ/pipedream/issues/17470)
-- [Add Google Slide - Pages / Slides CRUD](https://github.com/PipedreamHQ/pipedream/issues/17404)
-- [[TRIGGER] Yahoo Fantasy Baseball](https://github.com/PipedreamHQ/pipedream/issues/17486)
-- [[COMPONENTS] Facebook Lead Ads](https://github.com/PipedreamHQ/pipedream/issues/6907)
-- [[ACTION] Integrate Pipedream Connect with our Lovable App](https://github.com/PipedreamHQ/pipedream/issues/17393)
+- [Website - "Generate button" colors](https://github.com/JustKesha/yt-shorts-compilations/issues/62)
+- [Website - Improve ambient colors](https://github.com/JustKesha/yt-shorts-compilations/issues/65)
+- [Website - Add disabled state to generate button](https://github.com/JustKesha/yt-shorts-compilations/issues/60)
+- [Website - seek action using 1...9 keys](https://github.com/JustKesha/yt-shorts-compilations/issues/58)
+- [Website - Collection preview](https://github.com/JustKesha/yt-shorts-compilations/issues/61)
+- [Website - mobile view page too tall](https://github.com/JustKesha/yt-shorts-compilations/issues/52)
+- [Chrome extension - better collection backgrounds](https://github.com/JustKesha/yt-shorts-compilations/issues/30)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Visual enhancement to home page](https://github.com/layer5io/docs/issues/687)
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+- [[Docs] Add missing actions to comment history panel](https://github.com/layer5io/docs/issues/549)
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/646)
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/647)
+- [[Docs] Designer: How to pin a model to the dock](https://github.com/layer5io/docs/issues/562)
 
