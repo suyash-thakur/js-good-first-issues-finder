@@ -4,14 +4,10 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
-- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
-- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -23,44 +19,39 @@ This list gets updated every day at midnight.
 - [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
+- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [q5js/q5.js](https://github.com/q5js/q5.js)
+## [facebook/stylex](https://github.com/facebook/stylex)
 
-- [Missing types when running in instance mode](https://github.com/q5js/q5.js/issues/132)
+- [[eslint-plugin] Better parsing to correctly validate various values](https://github.com/facebook/stylex/issues/420)
 
-## [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [How to install BMAD-METHOD into qwen-code?](https://github.com/bmadcode/BMAD-METHOD/issues/367)
-- [OpenCode Integration](https://github.com/bmadcode/BMAD-METHOD/issues/285)
-- [Zed IDE support](https://github.com/bmadcode/BMAD-METHOD/issues/301)
+- [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
+- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Change status to maintenance mode](https://github.com/bluewave-labs/Checkmate/issues/2679)
-- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
-- [Global Threshold](https://github.com/bluewave-labs/Checkmate/issues/2628)
-- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
-- [Yellow range for infrastructure monitors](https://github.com/bluewave-labs/Checkmate/issues/2615)
-- [Feature Request: Consecutive incidents should be 1 incident](https://github.com/bluewave-labs/Checkmate/issues/2626)
-- [Implement exponential backoff for incidents](https://github.com/bluewave-labs/Checkmate/issues/2366)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Add bearer/basic auth option to webhooks](https://github.com/bluewave-labs/Checkmate/issues/2369)
-- [FE - Testing Framework ](https://github.com/bluewave-labs/Checkmate/issues/923)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/859)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-
-## [dovedalerailway/dovedale-map](https://github.com/dovedalerailway/dovedale-map)
-
-- [Add stroke to map location text to address contrast issues](https://github.com/dovedalerailway/dovedale-map/issues/12)
-- [Add box UI](https://github.com/dovedalerailway/dovedale-map/issues/6)
-- [Add quality selection](https://github.com/dovedalerailway/dovedale-map/issues/1)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7765)
+- [Address commit comments (commit `394df9c`)](https://github.com/stdlib-js/stdlib/issues/7758)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7750)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7683)
+- [[RFC]: Add C implementations to Laplace distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3691)
+- [[RFC]: Add C implementations to Lévy distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3693)
+- [[RFC]: Add C implementations to Rayleigh distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3687)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7660)
 
