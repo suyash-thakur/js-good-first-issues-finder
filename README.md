@@ -4,10 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
+- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
+- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -17,41 +27,32 @@ This list gets updated every day at midnight.
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
 - [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
-- [Feature Request: Shortcut for “Show bookmarks only on new tab page](https://github.com/brave/brave-browser/issues/47000)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
-- [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
-- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [facebook/stylex](https://github.com/facebook/stylex)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [[eslint-plugin] Better parsing to correctly validate various values](https://github.com/facebook/stylex/issues/420)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization docs/contributing](https://github.com/open-telemetry/opentelemetry.io/issues/5205)
+- [[pt] Localize docs/contributing/pr-checks.md](https://github.com/open-telemetry/opentelemetry.io/issues/6857)
+- [[pt] Localize docs/contributing/announcements.md](https://github.com/open-telemetry/opentelemetry.io/issues/6858)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [EduHaven/EduHaven](https://github.com/EduHaven/EduHaven)
 
-- [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
-- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
+- [bug: the arrow button is not visible on few themes.](https://github.com/EduHaven/EduHaven/issues/128)
+- [Fix: the color of the date on calendar](https://github.com/EduHaven/EduHaven/issues/122)
+- [Game: Ehnahce the Tic-Tac-Toe game UI.](https://github.com/EduHaven/EduHaven/issues/131)
+- [Fix: the max width of the friends section is overflowing.](https://github.com/EduHaven/EduHaven/issues/130)
+- [Redeign 404 page](https://github.com/EduHaven/EduHaven/issues/111)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7765)
-- [Address commit comments (commit `394df9c`)](https://github.com/stdlib-js/stdlib/issues/7758)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7750)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7683)
-- [[RFC]: Add C implementations to Laplace distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3691)
-- [[RFC]: Add C implementations to Lévy distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3693)
-- [[RFC]: Add C implementations to Rayleigh distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3687)
-- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
-- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/7660)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
