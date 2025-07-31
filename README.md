@@ -4,10 +4,33 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [Replace human-readable text with i18n keys](https://github.com/HeyPuter/puter/issues/663)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
+- [Default texture should be transparent instead of white](https://github.com/CesiumGS/cesium/issues/12775)
+- [clockTrackedDataSource tracks non-clock dataSources](https://github.com/CesiumGS/cesium/issues/11738)
+- [Primitive with heightReference have a wrong positioning in 2D mode](https://github.com/CesiumGS/cesium/issues/12531)
+- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
+- [Export KML Sandcastle - model cannot be opened in Google Earth?](https://github.com/CesiumGS/cesium/issues/9222)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [Add async constructor for Materials with image textures](https://github.com/CesiumGS/cesium/issues/10566)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Custom duotone menu has disappeared](https://github.com/WordPress/gutenberg/issues/58548)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Focus not visible on Cover block background video](https://github.com/WordPress/gutenberg/issues/41989)
+- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
+- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
+- [Add READMEs to all block-editor components](https://github.com/WordPress/gutenberg/issues/22891)
+- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
+- [Testing: Add integration test which ensures that npm packages can be used with Node](https://github.com/WordPress/gutenberg/issues/17273)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
+- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
+- [Add ESLint rule to prevent usage of the order CSS property](https://github.com/WordPress/gutenberg/issues/61247)
+- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -21,8 +44,8 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
 - [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 - [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
@@ -32,27 +55,4 @@ This list gets updated every day at midnight.
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[es] Spanish folder localization docs/contributing](https://github.com/open-telemetry/opentelemetry.io/issues/5205)
-- [[pt] Localize docs/contributing/pr-checks.md](https://github.com/open-telemetry/opentelemetry.io/issues/6857)
-- [[pt] Localize docs/contributing/announcements.md](https://github.com/open-telemetry/opentelemetry.io/issues/6858)
-
-## [EduHaven/EduHaven](https://github.com/EduHaven/EduHaven)
-
-- [bug: the arrow button is not visible on few themes.](https://github.com/EduHaven/EduHaven/issues/128)
-- [Fix: the color of the date on calendar](https://github.com/EduHaven/EduHaven/issues/122)
-- [Game: Ehnahce the Tic-Tac-Toe game UI.](https://github.com/EduHaven/EduHaven/issues/131)
-- [Fix: the max width of the friends section is overflowing.](https://github.com/EduHaven/EduHaven/issues/130)
-- [Redeign 404 page](https://github.com/EduHaven/EduHaven/issues/111)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
