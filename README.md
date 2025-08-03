@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
@@ -26,12 +31,6 @@ This list gets updated every day at midnight.
 - [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
 - [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
 
-## [EduHaven/EduHaven](https://github.com/EduHaven/EduHaven)
-
-- [Game: Ehnahce the Tic-Tac-Toe game UI.](https://github.com/EduHaven/EduHaven/issues/131)
-- [Redeign 404 page](https://github.com/EduHaven/EduHaven/issues/111)
-- [Fix: the color of the date on calendar](https://github.com/EduHaven/EduHaven/issues/122)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Docs: "Use Supabase with Next.js" documentation not consistent with `fetch-data-steps.tsx`](https://github.com/vercel/next.js/issues/82218)
@@ -39,25 +38,27 @@ This list gets updated every day at midnight.
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [facebook/stylex](https://github.com/facebook/stylex)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[eslint-plugin] Better parsing to correctly validate various values](https://github.com/facebook/stylex/issues/420)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [lacymorrow/crossover](https://github.com/lacymorrow/crossover)
 
-- [Type, Status and State strings should be vertically aligned](https://github.com/bluewave-labs/Checkmate/issues/2701)
-- [Add Game Server support](https://github.com/bluewave-labs/Checkmate/issues/2727)
-- [Change status to maintenance mode](https://github.com/bluewave-labs/Checkmate/issues/2679)
-- [Diagnostic page design fix](https://github.com/bluewave-labs/Checkmate/issues/2725)
-- [Incident page block area - new icons](https://github.com/bluewave-labs/Checkmate/issues/2702)
-- [Add support to monitor Postgres database](https://github.com/bluewave-labs/Checkmate/issues/2637)
-- [Upgrade the helm chart with subcharts to make it more versatile](https://github.com/bluewave-labs/Checkmate/issues/2683)
-- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
-- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
-- [Yellow range for infrastructure monitors](https://github.com/bluewave-labs/Checkmate/issues/2615)
-- [Feature Request: Consecutive incidents should be 1 incident](https://github.com/bluewave-labs/Checkmate/issues/2626)
-- [Implement exponential backoff for incidents](https://github.com/bluewave-labs/Checkmate/issues/2366)
-- [Modals display centered relative to the viewport, not their container](https://github.com/bluewave-labs/Checkmate/issues/1705)
-- [Add bearer/basic auth option to webhooks](https://github.com/bluewave-labs/Checkmate/issues/2369)
-- [FE - Testing Framework ](https://github.com/bluewave-labs/Checkmate/issues/923)
+- [Convert Kenney.nl Crosshairs to SVG](https://github.com/lacymorrow/crossover/issues/179)
+
+## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+
+- [Make TOS page open in same tab on Sign Up page](https://github.com/saayam-for-all/webapp/issues/834)
+- [Enlarge Volunteer agreement box on Volunteer wizard step 1 page](https://github.com/saayam-for-all/webapp/issues/783)
+- [Add link for Terms and Conditions on Contact Us page](https://github.com/saayam-for-all/webapp/issues/754)
+- [Allow users to upload PNG files for ID document](https://github.com/saayam-for-all/webapp/issues/818)
+- [Set default value for Country field on Personal Information tab](https://github.com/saayam-for-all/webapp/issues/748)
+- [Add red asterisks to mandatory fields on Personal Info tab](https://github.com/saayam-for-all/webapp/issues/801)
+- [Hide phone and video call icons from Request Details page](https://github.com/saayam-for-all/webapp/issues/677)
+
+## [dineshsutihar/CodeTranslateAI](https://github.com/dineshsutihar/CodeTranslateAI)
+
+- [Bug: The loading spinner is not centered](https://github.com/dineshsutihar/CodeTranslateAI/issues/9)
+- [Feature: add your fav language to language dropdown](https://github.com/dineshsutihar/CodeTranslateAI/issues/7)
+- [UI: Improve the styling of the 'Enable Picker' button](https://github.com/dineshsutihar/CodeTranslateAI/issues/8)
 
