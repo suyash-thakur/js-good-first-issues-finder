@@ -4,10 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+## [Rohit-Dnath/LOL-URL](https://github.com/Rohit-Dnath/LOL-URL)
 
-- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [🖼️ Add Social Media Preview Images](https://github.com/Rohit-Dnath/LOL-URL/issues/101)
+- [📧 Add Email Verification on Signup](https://github.com/Rohit-Dnath/LOL-URL/issues/93)
+- [🔑 Add GitHub Login (OAuth2) Support](https://github.com/Rohit-Dnath/LOL-URL/issues/87)
+- [🌙 Add Light/Dark Toggle Mode Support](https://github.com/Rohit-Dnath/LOL-URL/issues/44)
+- [♿ Accessibility Improvements](https://github.com/Rohit-Dnath/LOL-URL/issues/100)
+- [🧪 Add More Unit & Integration Tests](https://github.com/Rohit-Dnath/LOL-URL/issues/99)
+- [📦 Export Analytics Data as CSV](https://github.com/Rohit-Dnath/LOL-URL/issues/98)
+- [🔑 Add Google Login (OAuth2) Support](https://github.com/Rohit-Dnath/LOL-URL/issues/86)
+- [🧑‍💻 Add Contributor Recognition Section](https://github.com/Rohit-Dnath/LOL-URL/issues/53)
+- [📦 Export Analytics Data as CSV](https://github.com/Rohit-Dnath/LOL-URL/issues/52)
+- [🖼️ Add Social Media Preview Images](https://github.com/Rohit-Dnath/LOL-URL/issues/51)
+- [♿ Accessibility Improvements](https://github.com/Rohit-Dnath/LOL-URL/issues/49)
+- [🐞 Fix: QR Code Download Fails on Safari](https://github.com/Rohit-Dnath/LOL-URL/issues/48)
+- [📝 Improve Documentation for API Usage](https://github.com/Rohit-Dnath/LOL-URL/issues/47)
+- [🧪 Add More Unit & Integration Tests](https://github.com/Rohit-Dnath/LOL-URL/issues/46)
+- [📱 Mobile UI Enhancements](https://github.com/Rohit-Dnath/LOL-URL/issues/45)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -18,47 +32,18 @@ This list gets updated every day at midnight.
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
+- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Terminal loses focus when running a background app](https://github.com/HeyPuter/puter/issues/453)
-- [Horizontal scrolling can occur in desktop](https://github.com/HeyPuter/puter/issues/710)
-- [Complete Norwegian Nynorsk translation based on English file](https://github.com/HeyPuter/puter/issues/544)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Docs: "Use Supabase with Next.js" documentation not consistent with `fetch-data-steps.tsx`](https://github.com/vercel/next.js/issues/82218)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [lacymorrow/crossover](https://github.com/lacymorrow/crossover)
-
-- [Convert Kenney.nl Crosshairs to SVG](https://github.com/lacymorrow/crossover/issues/179)
-
-## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
-
-- [Make TOS page open in same tab on Sign Up page](https://github.com/saayam-for-all/webapp/issues/834)
-- [Enlarge Volunteer agreement box on Volunteer wizard step 1 page](https://github.com/saayam-for-all/webapp/issues/783)
-- [Add link for Terms and Conditions on Contact Us page](https://github.com/saayam-for-all/webapp/issues/754)
-- [Allow users to upload PNG files for ID document](https://github.com/saayam-for-all/webapp/issues/818)
-- [Set default value for Country field on Personal Information tab](https://github.com/saayam-for-all/webapp/issues/748)
-- [Add red asterisks to mandatory fields on Personal Info tab](https://github.com/saayam-for-all/webapp/issues/801)
-- [Hide phone and video call icons from Request Details page](https://github.com/saayam-for-all/webapp/issues/677)
-
-## [dineshsutihar/CodeTranslateAI](https://github.com/dineshsutihar/CodeTranslateAI)
-
-- [Bug: The loading spinner is not centered](https://github.com/dineshsutihar/CodeTranslateAI/issues/9)
-- [Feature: add your fav language to language dropdown](https://github.com/dineshsutihar/CodeTranslateAI/issues/7)
-- [UI: Improve the styling of the 'Enable Picker' button](https://github.com/dineshsutihar/CodeTranslateAI/issues/8)
 
