@@ -4,27 +4,27 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Rohit-Dnath/LOL-URL](https://github.com/Rohit-Dnath/LOL-URL)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [🖼️ Add Social Media Preview Images](https://github.com/Rohit-Dnath/LOL-URL/issues/101)
-- [📧 Add Email Verification on Signup](https://github.com/Rohit-Dnath/LOL-URL/issues/93)
-- [🔑 Add GitHub Login (OAuth2) Support](https://github.com/Rohit-Dnath/LOL-URL/issues/87)
-- [🌙 Add Light/Dark Toggle Mode Support](https://github.com/Rohit-Dnath/LOL-URL/issues/44)
-- [♿ Accessibility Improvements](https://github.com/Rohit-Dnath/LOL-URL/issues/100)
-- [🧪 Add More Unit & Integration Tests](https://github.com/Rohit-Dnath/LOL-URL/issues/99)
-- [📦 Export Analytics Data as CSV](https://github.com/Rohit-Dnath/LOL-URL/issues/98)
-- [🔑 Add Google Login (OAuth2) Support](https://github.com/Rohit-Dnath/LOL-URL/issues/86)
-- [🧑‍💻 Add Contributor Recognition Section](https://github.com/Rohit-Dnath/LOL-URL/issues/53)
-- [📦 Export Analytics Data as CSV](https://github.com/Rohit-Dnath/LOL-URL/issues/52)
-- [🖼️ Add Social Media Preview Images](https://github.com/Rohit-Dnath/LOL-URL/issues/51)
-- [♿ Accessibility Improvements](https://github.com/Rohit-Dnath/LOL-URL/issues/49)
-- [🐞 Fix: QR Code Download Fails on Safari](https://github.com/Rohit-Dnath/LOL-URL/issues/48)
-- [📝 Improve Documentation for API Usage](https://github.com/Rohit-Dnath/LOL-URL/issues/47)
-- [🧪 Add More Unit & Integration Tests](https://github.com/Rohit-Dnath/LOL-URL/issues/46)
-- [📱 Mobile UI Enhancements](https://github.com/Rohit-Dnath/LOL-URL/issues/45)
+- [Block certain sheet interactions from non-owners](https://github.com/MetaMorphic-Digital/draw-steel/issues/744)
+- [Accessibility issue: Font Size change](https://github.com/MetaMorphic-Digital/draw-steel/issues/322)
+- [Orden Calendar](https://github.com/MetaMorphic-Digital/draw-steel/issues/49)
+- [Implement `unflankable` status](https://github.com/MetaMorphic-Digital/draw-steel/issues/714)
+- [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
+- [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
+
+## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
+
+- [[FEATURE] [REACT] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
+- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
+- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
+- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
+- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Docs] Ensure that each permission key's ID is displayed in the reference table](https://github.com/meshery/meshery/issues/15514)
+- [[Docs] Permission Keys Reference: Add callout to relevant contributing page](https://github.com/meshery/meshery/issues/15515)
 - [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
@@ -46,4 +46,11 @@ This list gets updated every day at midnight.
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Docs: "Use Supabase with Next.js" documentation not consistent with `fetch-data-steps.tsx`](https://github.com/vercel/next.js/issues/82218)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
