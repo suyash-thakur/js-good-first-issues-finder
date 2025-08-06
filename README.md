@@ -13,14 +13,6 @@ This list gets updated every day at midnight.
 - [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
 - [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
 
-## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
-
-- [[FEATURE] [REACT] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
-- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
-- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
-- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
-- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Docs] Ensure that each permission key's ID is displayed in the reference table](https://github.com/meshery/meshery/issues/15514)
@@ -35,6 +27,7 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 - [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 - [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
@@ -47,10 +40,27 @@ This list gets updated every day at midnight.
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
+## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+
+- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
+
+## [Sundaram-Katare/BookHub](https://github.com/Sundaram-Katare/BookHub)
+
+- [Documentation](https://github.com/Sundaram-Katare/BookHub/issues/13)
+- [Dark Mode](https://github.com/Sundaram-Katare/BookHub/issues/5)
+- [Add logout confirmation dialog](https://github.com/Sundaram-Katare/BookHub/issues/3)
+- [Feature Request: Add Footer to BookHub App](https://github.com/Sundaram-Katare/BookHub/issues/1)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Docs: "Use Supabase with Next.js" documentation not consistent with `fetch-data-steps.tsx`](https://github.com/vercel/next.js/issues/82218)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+
+## [Pulsefy/starkpulse-web](https://github.com/Pulsefy/starkpulse-web)
+
+- [Advanced Risk Management System](https://github.com/Pulsefy/starkpulse-web/issues/162)
+- [Proprietary News Aggregation Algorithm Implementation](https://github.com/Pulsefy/starkpulse-web/issues/152)
+- [Community Governance and DAO Integration](https://github.com/Pulsefy/starkpulse-web/issues/164)
 
