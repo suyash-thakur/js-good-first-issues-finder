@@ -4,20 +4,16 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Block certain sheet interactions from non-owners](https://github.com/MetaMorphic-Digital/draw-steel/issues/744)
-- [Accessibility issue: Font Size change](https://github.com/MetaMorphic-Digital/draw-steel/issues/322)
-- [Orden Calendar](https://github.com/MetaMorphic-Digital/draw-steel/issues/49)
-- [Implement `unflankable` status](https://github.com/MetaMorphic-Digital/draw-steel/issues/714)
-- [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
-- [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [[Docs] Ensure that each permission key's ID is displayed in the reference table](https://github.com/meshery/meshery/issues/15514)
 - [[Docs] Permission Keys Reference: Add callout to relevant contributing page](https://github.com/meshery/meshery/issues/15515)
-- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
 - [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
@@ -33,23 +29,18 @@ This list gets updated every day at midnight.
 - [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
 - [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
-
-## [Sundaram-Katare/BookHub](https://github.com/Sundaram-Katare/BookHub)
-
-- [Documentation](https://github.com/Sundaram-Katare/BookHub/issues/13)
-- [Dark Mode](https://github.com/Sundaram-Katare/BookHub/issues/5)
-- [Add logout confirmation dialog](https://github.com/Sundaram-Katare/BookHub/issues/3)
-- [Feature Request: Add Footer to BookHub App](https://github.com/Sundaram-Katare/BookHub/issues/1)
+- [issue: Native Tool Calling with OpenAPI Spec with Array Query Parameter Generates Invalid AI Functions for OpenAI (OpenAI returns 400)](https://github.com/open-webui/open-webui/issues/14115)
+- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [feat: token counting according to model's context size](https://github.com/open-webui/open-webui/issues/573)
+- [feat: additional webhook events](https://github.com/open-webui/open-webui/issues/1240)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -58,9 +49,11 @@ This list gets updated every day at midnight.
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [Pulsefy/starkpulse-web](https://github.com/Pulsefy/starkpulse-web)
+## [layer5io/docs](https://github.com/layer5io/docs)
 
-- [Advanced Risk Management System](https://github.com/Pulsefy/starkpulse-web/issues/162)
-- [Proprietary News Aggregation Algorithm Implementation](https://github.com/Pulsefy/starkpulse-web/issues/152)
-- [Community Governance and DAO Integration](https://github.com/Pulsefy/starkpulse-web/issues/164)
+- [Visual enhancement to home page](https://github.com/layer5io/docs/issues/687)
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+- [[Docs] Add missing actions to comment history panel](https://github.com/layer5io/docs/issues/549)
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/646)
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/647)
 
