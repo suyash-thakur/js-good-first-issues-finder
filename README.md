@@ -4,21 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
-
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-
-- [[Feature]: TraceGraph should indicate which mode is selected](https://github.com/jaegertracing/jaeger-ui/issues/2572)
-- [[Feature]: Add dark theme support to Jaeger-UI](https://github.com/jaegertracing/jaeger-ui/issues/1911)
-- [Update Tooltip Arrow Configuration in Ant Design Components](https://github.com/jaegertracing/jaeger-ui/issues/2221)
-- [[Bug]: Error converting traces to OTLP (\uFFFD)](https://github.com/jaegertracing/jaeger-ui/issues/2589)
-- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
-- [[Feature]: Add click-to-copy capability to trace ID display](https://github.com/jaegertracing/jaeger-ui/issues/2813)
-- [[Bug]: Support for defaultProps in Function Components to be Removed](https://github.com/jaegertracing/jaeger-ui/issues/2596)
-
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
@@ -31,50 +16,44 @@ This list gets updated every day at midnight.
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
+- [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
+- [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
+- [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
+- [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [Try all available addresses when connecting to localhost (127.0.0.1 and ::1)](https://github.com/nodejs/undici/issues/1602)
+- [Invalid HTTP2 headers should be recoverable](https://github.com/nodejs/undici/issues/4356)
+- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Fix: Wrong link for meshery discussion forum](https://github.com/meshery/meshery.io/issues/2292)
 
-## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[FEATURE] [REACT] Corregir el estilo del botón de actualizar en el footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/22)
-- [[FEATURE] [REACT] Agregar pruebas unitarias para NotaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/17)
-- [[FEATURE] [REACT] Agregar pruebas unitarias para RecetaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/18)
-- [[FEATURE] [REACT] Agregar pruebas unitarias para OtrosItemClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/19)
-- [[FEATURE] [REACT] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
-- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
-- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
-- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
-- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [hackforla/website](https://github.com/hackforla/website/pull/8199)
 
-- [Docs: "Use Supabase with Next.js" documentation not consistent with `fetch-data-steps.tsx`](https://github.com/vercel/next.js/issues/82218)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
-
-- [`Fork on GitHub` small top right corner image / banner / ribbon](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/440)
-- [Add Open Graph protocol tags](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/453)
-- [Urgently we need a nice and easy to follow help for developers to be aware if they want to develop or run the website locally they need to run `npm run start` for development with watching feature and `npm run build` for just build it once](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/413)
-- [Need three pages written from Matt about life and his views on "A Good Player Is Always Lucky"](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/390)
-- [Change the Shields IO buttons in the README to use the standard GitHub buttons where possible](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/382)
-- [We need to have all CSS responsive images](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373)
-- [Register page error missing form fields for `username` and `email`](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/236)
-- [Fully test Dockerfile - I already explained how we can build/test/run docker](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/349)
-- [6 meetups locations image needs to be better the border is not great](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/284)
-- [Need a webpage for each meetup location](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/125)
-- [Webpage for: Friday chess in the city - Chocolate Moments](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/261)
-- [Webpage for: Thursday night chess at "Royal Hotel", Nundah](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/260)
-- [Minutes from BSC meeting 24/06/2025 version 2.0](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/243)
-- [Linter feature: checking broken links and show in PR (+CICD)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/143)
-- [Review register page and suggest to change](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/72)
-
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
-- [feat: token counting according to model's context size](https://github.com/open-webui/open-webui/issues/573)
+- [Removed Samantha Hyler and information about them from the leadership](https://github.com/hackforla/website/pull/8199)
+- [remove Srishti Gupta from Expunge Assist](https://github.com/hackforla/website/pull/8253)
+- [Update Project Profile: Expunge Assist- Remove Srishti Gupta](https://github.com/hackforla/website/issues/8002)
+- [Update Project Profile: Website: Remove Siyun Feng](https://github.com/hackforla/website/issues/8238)
+- [Update Project Profile: Website- Remove J Pham](https://github.com/hackforla/website/issues/8244)
+- [Add github-handle for Emily F. in public-tree-map.md](https://github.com/hackforla/website/issues/7792)
+- [Add github-handle for [INSERT NAME] in [INSERT PROJECT FILE]](https://github.com/hackforla/website/issues/8252)
+- [Removed Srishti Gupta's profile from Expunge Assist Project Team](https://github.com/hackforla/website/pull/8242)
+- [Add github-handle for Emily F. in public-tree-map.md](https://github.com/hackforla/website/pull/8173)
+- [Add Audreen Fune to 311 Data Page](https://github.com/hackforla/website/pull/8243)
 
