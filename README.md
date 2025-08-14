@@ -4,6 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [The-AI-Alliance/agent-lab-ui](https://github.com/The-AI-Alliance/agent-lab-ui)
+
+- [[Docs/Website] Add permissions and APIs needed in getting started guide](https://github.com/The-AI-Alliance/agent-lab-ui/issues/157)
+- [[FEATURE] Standardize card widths](https://github.com/The-AI-Alliance/agent-lab-ui/issues/102)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
@@ -20,6 +25,12 @@ This list gets updated every day at midnight.
 - [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
 - [Text change in forgetful browsing global setting](https://github.com/brave/brave-browser/issues/30163)
 
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [enh: Functions/Tools & Valves additional gimmicks](https://github.com/open-webui/open-webui/issues/5486)
+- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [feat: token counting according to model's context size](https://github.com/open-webui/open-webui/issues/573)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
@@ -31,20 +42,50 @@ This list gets updated every day at midnight.
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 
+## [jjm3x3/AmazingRaceFantasy](https://github.com/jjm3x3/AmazingRaceFantasy)
+
+- [Google login button sometimes missing](https://github.com/jjm3x3/AmazingRaceFantasy/issues/342)
+- [Add an form page for admins to use to add league configs](https://github.com/jjm3x3/AmazingRaceFantasy/issues/311)
+- [Add regression testing](https://github.com/jjm3x3/AmazingRaceFantasy/issues/336)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 - [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
+- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 - [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [JustKesha/yt-shorts-compilations](https://github.com/JustKesha/yt-shorts-compilations)
+## [Sundaram-Katare/BookHub](https://github.com/Sundaram-Katare/BookHub)
 
-- [Website - Onload animation](https://github.com/JustKesha/yt-shorts-compilations/issues/70)
-- [Website - "Failed to generate" error message](https://github.com/JustKesha/yt-shorts-compilations/issues/69)
-- [Website - Improve ambient colors](https://github.com/JustKesha/yt-shorts-compilations/issues/65)
-- [Website - Add disabled state to generate button](https://github.com/JustKesha/yt-shorts-compilations/issues/60)
-- [Website - seek action using 1...9 keys](https://github.com/JustKesha/yt-shorts-compilations/issues/58)
-- [Website - Collection preview](https://github.com/JustKesha/yt-shorts-compilations/issues/61)
-- [Chrome extension - better collection backgrounds](https://github.com/JustKesha/yt-shorts-compilations/issues/30)
+- [Add Icon](https://github.com/Sundaram-Katare/BookHub/issues/24)
+- [Documentation](https://github.com/Sundaram-Katare/BookHub/issues/13)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [Zoom/Zoom Admin - New Recording Transcript completed source & Get meeting transcript action](https://github.com/PipedreamHQ/pipedream/issues/18032)
+- [[ACTION] Google business profile - List review](https://github.com/PipedreamHQ/pipedream/issues/17821)
+- [[ACTION] Polar.sh](https://github.com/PipedreamHQ/pipedream/issues/17977)
+- [Acuity Scheduling Event Rescheduled](https://github.com/PipedreamHQ/pipedream/issues/17864)
+- [[ACTION]Hubspot CMS and Marketing API](https://github.com/PipedreamHQ/pipedream/issues/18029)
+- [Salesforce Experience MCP (aka Communities)](https://github.com/PipedreamHQ/pipedream/issues/18027)
+- [Netatmo](https://github.com/PipedreamHQ/pipedream/issues/18017)
+- [[ACTION] Salesforce Accounts/Opportunities Batch Create/Update](https://github.com/PipedreamHQ/pipedream/issues/18016)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/17972)
+- [[ACTION] Stripe - Expanded Actions](https://github.com/PipedreamHQ/pipedream/issues/17991)
+- [[TRIGGERS] Facebook Pages](https://github.com/PipedreamHQ/pipedream/issues/17713)
+- [[ACTION] Make tools available for the Nasdaq Data Link (Time Series and Table data) MCP Server](https://github.com/PipedreamHQ/pipedream/issues/17846)
+- [Google Sheet - Batch Update Spreadsheet  & Allow cell formatting props ](https://github.com/PipedreamHQ/pipedream/issues/17905)
+- [[ACTION] Slack "list_replies" tool MCP needs to be improved](https://github.com/PipedreamHQ/pipedream/issues/17939)
+- [[TRIGGER] Coinbase / x402](https://github.com/PipedreamHQ/pipedream/issues/17934)
+- [[ACTION] Mboum MCP Server tools needed](https://github.com/PipedreamHQ/pipedream/issues/17889)
+- [[ACTION] Lawmatics](https://github.com/PipedreamHQ/pipedream/issues/17906)
+- [[ACTION] Zep - Memory APIs](https://github.com/PipedreamHQ/pipedream/issues/17817)
+- [[ACTION] unable to create image and text posts](https://github.com/PipedreamHQ/pipedream/issues/17752)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/17741)
+- [Search Rows](https://github.com/PipedreamHQ/pipedream/issues/17696)
+- [[APP][TRIGGER] NewsBlur ](https://github.com/PipedreamHQ/pipedream/issues/8447)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [[jar] application crashes without error when attempting to retrieve license](https://github.com/CycloneDX/cdxgen/issues/2058)
 
