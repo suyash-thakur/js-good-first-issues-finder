@@ -4,12 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [EduHaven/EduHaven](https://github.com/EduHaven/EduHaven)
-
-- [Bug: the 2048 game's navbar is taking too much space on larger screen.](https://github.com/EduHaven/EduHaven/issues/326)
-- [Improvement in code readability, improve code structure.](https://github.com/EduHaven/EduHaven/issues/328)
-- [Bug: The timer dropdown doesn't close on clicking outside.](https://github.com/EduHaven/EduHaven/issues/230)
-
 ## [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
 - [OpenCode Integration](https://github.com/bmad-code-org/BMAD-METHOD/issues/285)
@@ -28,7 +22,6 @@ This list gets updated every day at midnight.
 - [Docs: Fix Broken Link on Build and Release Page](https://github.com/meshery/meshery/issues/15326)
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -36,6 +29,20 @@ This list gets updated every day at midnight.
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 - [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7898)
+- [[RFC]: Add C implementations to Laplace distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3691)
+- [[RFC]: Add C implementations to Lévy distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3693)
+- [[RFC]: Add C implementations to Rayleigh distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3687)
+- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
+- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+
+## [Ruby-DF/site](https://github.com/Ruby-DF/site)
+
+- [Generate Agenda automatically](https://github.com/Ruby-DF/site/issues/18)
+- [Enviar lembretes](https://github.com/Ruby-DF/site/issues/42)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
