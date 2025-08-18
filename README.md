@@ -4,14 +4,22 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [OpenCode Integration](https://github.com/bmad-code-org/BMAD-METHOD/issues/285)
-- [Augment Code Support](https://github.com/bmad-code-org/BMAD-METHOD/issues/320)
-- [Zed IDE support](https://github.com/bmad-code-org/BMAD-METHOD/issues/301)
-- [Agents Options Incorrect](https://github.com/bmad-code-org/BMAD-METHOD/issues/398)
-- [Upgrading expansion pack results in odd behavior with modified files](https://github.com/bmad-code-org/BMAD-METHOD/issues/351)
-- [Requesting support for Warp](https://github.com/bmad-code-org/BMAD-METHOD/issues/383)
+- [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
+- [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
+- [Split view - Fixes to gap menu button](https://github.com/brave/brave-browser/issues/47451)
+- [outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532](https://github.com/brave/brave-browser/issues/45815)
+- [Consider linking to `brave://settings/privacy` with message (change crash setting at any time) on `brave://crashes` page when reporting is disabled](https://github.com/brave/brave-browser/issues/27491)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
+- [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
+- [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -28,21 +36,10 @@ This list gets updated every day at midnight.
 - [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 - [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [bytecodealliance/jco](https://github.com/bytecodealliance/jco)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7898)
-- [[RFC]: Add C implementations to Laplace distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3691)
-- [[RFC]: Add C implementations to Lévy distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3693)
-- [[RFC]: Add C implementations to Rayleigh distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3687)
-- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
-- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
-
-## [Ruby-DF/site](https://github.com/Ruby-DF/site)
-
-- [Generate Agenda automatically](https://github.com/Ruby-DF/site/issues/18)
-- [Enviar lembretes](https://github.com/Ruby-DF/site/issues/42)
+- [Lint and format interfere](https://github.com/bytecodealliance/jco/issues/860)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
