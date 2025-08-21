@@ -4,33 +4,9 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
-
-- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Otros](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/23)
-- [[FEATURE] [MAIN] Corregir el estilo del botón de actualizar en el footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/22)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para OtrosItemClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/19)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para RecetaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/18)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para NotaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/17)
-- [[FEATURE] [MAIN] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
-- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Medicamentos](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/24)
-- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
-- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
-- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
-- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
-
-## [anonympins/data-primals-engine](https://github.com/anonympins/data-primals-engine)
-
-- [Client: History pagination](https://github.com/anonympins/data-primals-engine/issues/140)
-- [Client: History filter](https://github.com/anonympins/data-primals-engine/issues/141)
-- [Client: Password Field](https://github.com/anonympins/data-primals-engine/issues/128)
-- [Client : Numbers as delays](https://github.com/anonympins/data-primals-engine/issues/127)
-- [Client: Change time scale on charts](https://github.com/anonympins/data-primals-engine/issues/102)
-- [Client : convert ColorField to multiple format](https://github.com/anonympins/data-primals-engine/issues/64)
-- [Gauges for number type](https://github.com/anonympins/data-primals-engine/issues/82)
-- [Leaflet and geolocalization fields](https://github.com/anonympins/data-primals-engine/issues/73)
-
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [Split view - Fixes to gap menu button](https://github.com/brave/brave-browser/issues/47451)
 - [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
@@ -46,17 +22,35 @@ This list gets updated every day at midnight.
 - [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [feat(UI): Add friend request button to miniprofile](https://github.com/UltiMafia/Ultimafia/issues/2091)
-- [feat(UI): Make emotes larger](https://github.com/UltiMafia/Ultimafia/issues/2154)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7910)
-- [[RFC]: Add C implementations to Laplace distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3691)
-- [[RFC]: Add C implementations to Lévy distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3693)
-- [[RFC]: Add C implementations to Rayleigh distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3687)
-- [[RFC]: Add C implementations to triangular distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3685)
-- [[RFC]: Add C implementations to continuous uniform distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3684)
+- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+- [[UI] Ensure that all meshery.io/extensions have cards in Meshery UI Extensions page](https://github.com/meshery/meshery/issues/13623)
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
+- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
 
