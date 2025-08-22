@@ -4,61 +4,66 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+_Last updated: 2025-08-22. Language: javascript. Label: "good first issue"._
 
-- [outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532](https://github.com/brave/brave-browser/issues/45815)
-- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
-- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
-- [Split view - Fixes to gap menu button](https://github.com/brave/brave-browser/issues/47451)
-- [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
-- [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
-- [Consider linking to `brave://settings/privacy` with message (change crash setting at any time) on `brave://crashes` page when reporting is disabled](https://github.com/brave/brave-browser/issues/27491)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
-- [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
-- [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
-- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+- ✨ [enh: Functions/Tools & Valves additional gimmicks](https://github.com/open-webui/open-webui/issues/5486)
+- 🟢 [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- ✨ [feat: token counting according to model's context size](https://github.com/open-webui/open-webui/issues/573)
 
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+## [ankaboot-source/wikiadviser](https://github.com/ankaboot-source/wikiadviser)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+- ✨ [Article item's "Delete" button to drop-down list](https://github.com/ankaboot-source/wikiadviser/issues/150)
+- 🟢 [Jump to a specific Change (URL)](https://github.com/ankaboot-source/wikiadviser/issues/354)
 
-- [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
+## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+- ✨ [Show costs tab on suppliers and vets](https://github.com/sheltermanager/asm3/issues/1834)
+- 🟢 [Accounting transactions: person link](https://github.com/sheltermanager/asm3/issues/736)
+- ✨ [online forms: Person home check fields](https://github.com/sheltermanager/asm3/issues/1827)
+- ✨ [Autocomplete additional field type](https://github.com/sheltermanager/asm3/issues/79)
+- ✨ [Contextual reports](https://github.com/sheltermanager/asm3/issues/80)
+- ✨ [Create waiting list from animal](https://github.com/sheltermanager/asm3/issues/338)
+- ✨ [Suggestions for Transport Book](https://github.com/sheltermanager/asm3/issues/464)
+- ✨ [Online form: Create equipment loan](https://github.com/sheltermanager/asm3/issues/530)
+- ✨ [New lookup dropdown with descriptions](https://github.com/sheltermanager/asm3/issues/1002)
+- ✨ [Signing date placeholder](https://github.com/sheltermanager/asm3/issues/1327)
 
-- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
-- [Update resources and hands-on labs with latest content](https://github.com/layer5io/layer5/issues/6387)
-- [Responsive issues on Internship, brand pages of layer5 ](https://github.com/layer5io/layer5/issues/5997)
-- [Replace MeshMap icons to new Kanvas logo](https://github.com/layer5io/layer5/issues/6032)
-- [[Screenshots] AWS Elastic Kubernetes Service under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5322)
-- [[Screenshots] Fluentbit Operator under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5333)
-- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
-- [add max-width to images on learnign-paths](https://github.com/layer5io/layer5/issues/6411)
+## [nodejs/node](https://github.com/nodejs/node)
 
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+- ✨ [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
+- 🟢 [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
 
-- [Block certain sheet interactions from non-owners](https://github.com/MetaMorphic-Digital/draw-steel/issues/744)
-- [Add "Polyglot" compatibility](https://github.com/MetaMorphic-Digital/draw-steel/issues/640)
-- [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
-- [Accessibility issue: Font Size change](https://github.com/MetaMorphic-Digital/draw-steel/issues/322)
+## [numbas/Numbas](https://github.com/numbas/Numbas)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+- 🟢 ["allow empty answer" option for match text pattern parts](https://github.com/numbas/Numbas/issues/1145)
 
-- [[Task] Change default view in Loadout to list view](https://github.com/Foundryborne/daggerheart/issues/957)
-- [[BUG] - Homebrew Settings, Initial Trait Modifiers has a visual issue](https://github.com/Foundryborne/daggerheart/issues/868)
-- [[Feature] Homebrew Settings - Gold](https://github.com/Foundryborne/daggerheart/issues/734)
+## [nextcloud/calendar](https://github.com/nextcloud/calendar)
 
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
+- 🐞 [Settings still uses the old pattern](https://github.com/nextcloud/calendar/issues/7216)
 
-- [Remove common fields from ledger entry reference tables](https://github.com/XRPLF/xrpl-dev-portal/issues/3238)
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+
+- 🟢 [improve inline code style](https://github.com/matrix-org/matrix.org/issues/1758)
+- 🟢 [Add link checker CI](https://github.com/matrix-org/matrix.org/issues/2829)
+- ✨ [CME member entry links to https://matrix.org/support/](https://github.com/matrix-org/matrix.org/issues/2499)
+
+## [NexGenStudioDev/ciitm-frontend](https://github.com/NexGenStudioDev/ciitm-frontend)
+
+- ✨ [Implement View, Edit, and Delete Teacher Functionality](https://github.com/NexGenStudioDev/ciitm-frontend/issues/207)
+- ✨ [CreateNewTeacher Page for Admin Panel](https://github.com/NexGenStudioDev/ciitm-frontend/issues/206)
+- ✨ [✏️ Update Student View Page – Add Edit (Pencil) Icon for Admin Access Only](https://github.com/NexGenStudioDev/ciitm-frontend/issues/209)
+- ✨ [Create Testimonial Submission Page Accessible to All Users](https://github.com/NexGenStudioDev/ciitm-frontend/issues/208)
+- ✨ [Create Page for Admin Role Assignment & Access Control](https://github.com/NexGenStudioDev/ciitm-frontend/issues/204)
+- ✨ [Build Full Student Dashboard with Chart.js, Announcements, and Payment Data](https://github.com/NexGenStudioDev/ciitm-frontend/issues/195)
+- ✨ [Looking for a UI/UX + React.js Developer to Join My Personal Project](https://github.com/NexGenStudioDev/ciitm-frontend/issues/165)
+
+## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+
+- 🐞 [The Welcome Email has broken UI elements](https://github.com/CircuitVerse/CircuitVerse/issues/5984)
+- 🐞 [🐞 Bug  Spacing issue between the CAPTCHA and the login button.](https://github.com/CircuitVerse/CircuitVerse/issues/5442)
+- 🎨 [🐞 Bug Ui Alignment under the Assignment section](https://github.com/CircuitVerse/CircuitVerse/issues/5541)
+- 🐞 [🐞 Bug   Missing Circuit Previews in "Editor's Picks" Section on Homepage](https://github.com/CircuitVerse/CircuitVerse/issues/5275)
+- ✨ [Adding collaborator via invitation link](https://github.com/CircuitVerse/CircuitVerse/issues/2307)
 
