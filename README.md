@@ -10,26 +10,22 @@ This list gets updated every day at midnight.
 - [[BUG] - Homebrew Settings, Initial Trait Modifiers has a visual issue](https://github.com/Foundryborne/daggerheart/issues/868)
 - [[Feature] Homebrew Settings - Gold](https://github.com/Foundryborne/daggerheart/issues/734)
 
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Mobile UX: unclear how to view document before signing](https://github.com/LibreSign/libresign/issues/5274)
-- [Replace deprecated PHPUnit methods](https://github.com/LibreSign/libresign/issues/5261)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
-
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
-
-- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7942)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -44,27 +40,32 @@ This list gets updated every day at midnight.
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [The-AI-Alliance/agent-lab-ui](https://github.com/The-AI-Alliance/agent-lab-ui)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [[FEATURE] Standardize card widths](https://github.com/The-AI-Alliance/agent-lab-ui/issues/102)
-- [[Docs/Website] Add permissions and APIs needed in getting started guide](https://github.com/The-AI-Alliance/agent-lab-ui/issues/157)
+- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## [interplaynetary/free-association](https://github.com/interplaynetary/free-association)
 
-- [enh: Functions/Tools & Valves additional gimmicks](https://github.com/open-webui/open-webui/issues/5486)
-- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [Support Login with pubkey / privKey](https://github.com/interplaynetary/free-association/issues/116)
+- [Make text/slider etc. scale with Child Node Size](https://github.com/interplaynetary/free-association/issues/111)
+- [Your Recognition and Mutual Recognition texts cut off](https://github.com/interplaynetary/free-association/issues/56)
+- [Direct/Group Secure Chat: End-2-End Messaging Gun](https://github.com/interplaynetary/free-association/issues/49)
+- [Scale Tree Navigation Path Text](https://github.com/interplaynetary/free-association/issues/112)
+- [Integrate Inventory as a Map view](https://github.com/interplaynetary/free-association/issues/36)
+- [Capacity Filters](https://github.com/interplaynetary/free-association/issues/47)
+- [Onboarding](https://github.com/interplaynetary/free-association/issues/83)
 
-## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
+## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
 
-- [ensure Greenwood CLI and plugins are favoring idiomatic usages of `async`](https://github.com/ProjectEvergreen/greenwood/issues/823)
-- [refactor CLI command runner to use native NodeJS `parseArgs` utility](https://github.com/ProjectEvergreen/greenwood/issues/1552)
-- [`init` scaffolding should prompt for installing Greenwood plugins](https://github.com/ProjectEvergreen/greenwood/issues/1270)
-- [Have develop command pick next randomly available port](https://github.com/ProjectEvergreen/greenwood/issues/71)
-- [refactor usages of glob-promise with native NodeJS `fs.glob`](https://github.com/ProjectEvergreen/greenwood/issues/1551)
-- [stylized console logging for development and production builds](https://github.com/ProjectEvergreen/greenwood/issues/1393)
-- [call `bundle.close` when done generating Rollup bundles](https://github.com/ProjectEvergreen/greenwood/issues/1488)
-- [<script> tags using optimization attributes have a space before the closing bracket of the opening tag](https://github.com/ProjectEvergreen/greenwood/issues/1052)
-- [static router outputting a `<script>` tag with a path of `/undefined` (when an SSR route is present?)](https://github.com/ProjectEvergreen/greenwood/issues/1051)
-- [Support Web Assembly format](https://github.com/ProjectEvergreen/greenwood/issues/1039)
-- [refactor project to use JSON Modules](https://github.com/ProjectEvergreen/greenwood/issues/1015)
+- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Otros](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/23)
+- [[FEATURE] [MAIN] Corregir el estilo del botón de actualizar en el footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/22)
+- [[FEATURE] [MAIN] Agregar pruebas unitarias para OtrosItemClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/19)
+- [[FEATURE] [MAIN] Agregar pruebas unitarias para RecetaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/18)
+- [[FEATURE] [MAIN] Agregar pruebas unitarias para NotaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/17)
+- [[FEATURE] [MAIN] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
+- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Medicamentos](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/24)
+- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
+- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
+- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
+- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
 
