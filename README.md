@@ -4,16 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [[Task] Change default view in Loadout to list view](https://github.com/Foundryborne/daggerheart/issues/957)
-- [[BUG] - Homebrew Settings, Initial Trait Modifiers has a visual issue](https://github.com/Foundryborne/daggerheart/issues/868)
-- [[Feature] Homebrew Settings - Gold](https://github.com/Foundryborne/daggerheart/issues/734)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532](https://github.com/brave/brave-browser/issues/45815)
+- [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
+- [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
+- [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
+- [Split view - Fixes to gap menu button](https://github.com/brave/brave-browser/issues/47451)
+- [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
+- [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
+- [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
+- [Consider linking to `brave://settings/privacy` with message (change crash setting at any time) on `brave://crashes` page when reporting is disabled](https://github.com/brave/brave-browser/issues/27491)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
+- [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
+- [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
+- [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -23,9 +31,25 @@ This list gets updated every day at midnight.
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/7942)
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
+- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
+- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [winston-yallow/godot-discord-bot](https://github.com/winston-yallow/godot-discord-bot)
+
+- [GDScript command to display gdscript tutorial link](https://github.com/winston-yallow/godot-discord-bot/issues/15)
+- [Add `/why` command for information about specific topics](https://github.com/winston-yallow/godot-discord-bot/issues/2)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -38,34 +62,4 @@ This list gets updated every day at midnight.
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
-
-## [interplaynetary/free-association](https://github.com/interplaynetary/free-association)
-
-- [Support Login with pubkey / privKey](https://github.com/interplaynetary/free-association/issues/116)
-- [Make text/slider etc. scale with Child Node Size](https://github.com/interplaynetary/free-association/issues/111)
-- [Your Recognition and Mutual Recognition texts cut off](https://github.com/interplaynetary/free-association/issues/56)
-- [Direct/Group Secure Chat: End-2-End Messaging Gun](https://github.com/interplaynetary/free-association/issues/49)
-- [Scale Tree Navigation Path Text](https://github.com/interplaynetary/free-association/issues/112)
-- [Integrate Inventory as a Map view](https://github.com/interplaynetary/free-association/issues/36)
-- [Capacity Filters](https://github.com/interplaynetary/free-association/issues/47)
-- [Onboarding](https://github.com/interplaynetary/free-association/issues/83)
-
-## [Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)
-
-- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Otros](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/23)
-- [[FEATURE] [MAIN] Corregir el estilo del botón de actualizar en el footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/22)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para OtrosItemClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/19)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para RecetaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/18)
-- [[FEATURE] [MAIN] Agregar pruebas unitarias para NotaClass.js](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/17)
-- [[FEATURE] [MAIN] Agregar link a repositorio e info de licencia en el Footer](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/11)
-- [[FEATURE] [MAIN] Agregar botón de actualizar en la sección Medicamentos](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/24)
-- [[FEATURE] [ASTRO] Agregar footer mostrando la licencia y que es creado en comunidad](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/6)
-- [ [BUG] [ASTRO] Problema de contraste en el nav bar](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/7)
-- [[BUG] [ASTRO] UI cortada en Dashboard, en pantallas pequeñas,](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/8)
-- [[BUG] [ASTRO]  La palabra `Eliminar` no aparece completa en pantallas pequeñas, apenas se puede hacer click, en Recetas.](https://github.com/Ariel-GonzAguer/comidaEmergencia/issues/9)
 
