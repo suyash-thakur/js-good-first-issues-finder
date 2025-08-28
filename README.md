@@ -4,8 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization community](https://github.com/open-telemetry/opentelemetry.io/issues/7516)
+- [[es] Fix Spanish localization drifted pages](https://github.com/open-telemetry/opentelemetry.io/issues/7521)
+- [[es] Spanish folder localization docs/contributing](https://github.com/open-telemetry/opentelemetry.io/issues/5205)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[pt] Localize content/en/docs/demo pages](https://github.com/open-telemetry/opentelemetry.io/issues/7544)
+- [[pt] Localize /community pages](https://github.com/open-telemetry/opentelemetry.io/issues/7475)
+- [[es] Spanish folder localization ecosystem](https://github.com/open-telemetry/opentelemetry.io/issues/7488)
+- [[pt] 34 pages are out-of-date](https://github.com/open-telemetry/opentelemetry.io/issues/7492)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Incorrect icon for Bookmarks in side panel](https://github.com/brave/brave-browser/issues/42163)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532](https://github.com/brave/brave-browser/issues/45815)
 - [Reader Mode Custom Fonts](https://github.com/brave/brave-browser/issues/47598)
@@ -33,22 +49,4 @@ This list gets updated every day at midnight.
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
 - [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
 - [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Adding UserAvatar Image to assests in Meshery Extensions](https://github.com/meshery/meshery.io/issues/2327)
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Docs: Docker examples use image `node:18-alpine` with vulnerability](https://github.com/vercel/next.js/issues/78465)
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
