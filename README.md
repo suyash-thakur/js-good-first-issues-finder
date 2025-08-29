@@ -4,20 +4,32 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[es] Spanish folder localization community](https://github.com/open-telemetry/opentelemetry.io/issues/7516)
-- [[es] Fix Spanish localization drifted pages](https://github.com/open-telemetry/opentelemetry.io/issues/7521)
-- [[es] Spanish folder localization docs/contributing](https://github.com/open-telemetry/opentelemetry.io/issues/5205)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[pt] Localize content/en/docs/demo pages](https://github.com/open-telemetry/opentelemetry.io/issues/7544)
-- [[pt] Localize /community pages](https://github.com/open-telemetry/opentelemetry.io/issues/7475)
-- [[es] Spanish folder localization ecosystem](https://github.com/open-telemetry/opentelemetry.io/issues/7488)
-- [[pt] 34 pages are out-of-date](https://github.com/open-telemetry/opentelemetry.io/issues/7492)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [Docs: Optimizing:Opentelemetry should be updated](https://github.com/vercel/next.js/issues/77451)
+- [Docs: Docker examples use image `node:18-alpine` with vulnerability](https://github.com/vercel/next.js/issues/78465)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
+
+- [refactor Greenwood hashing utils to use `crypto.createHash`](https://github.com/ProjectEvergreen/greenwood/issues/1534)
+- [update Greenwood to address all (as many) TypeScript no check comments](https://github.com/ProjectEvergreen/greenwood/issues/1427)
+- [`init` scaffolding should prompt for installing Greenwood plugins](https://github.com/ProjectEvergreen/greenwood/issues/1270)
+- [Have develop command pick next randomly available port](https://github.com/ProjectEvergreen/greenwood/issues/71)
+- [refactor usages of glob-promise with native NodeJS `fs.glob`](https://github.com/ProjectEvergreen/greenwood/issues/1551)
+- [stylized console logging for development and production builds](https://github.com/ProjectEvergreen/greenwood/issues/1393)
+- [call `bundle.close` when done generating Rollup bundles](https://github.com/ProjectEvergreen/greenwood/issues/1488)
+- [<script> tags using optimization attributes have a space before the closing bracket of the opening tag](https://github.com/ProjectEvergreen/greenwood/issues/1052)
+- [static router outputting a `<script>` tag with a path of `/undefined` (when an SSR route is present?)](https://github.com/ProjectEvergreen/greenwood/issues/1051)
+- [Support Web Assembly format](https://github.com/ProjectEvergreen/greenwood/issues/1039)
+- [refactor project to use JSON Modules](https://github.com/ProjectEvergreen/greenwood/issues/1015)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -38,15 +50,4 @@ This list gets updated every day at midnight.
 - [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
 - [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 - [Add Group policy for playlist](https://github.com/brave/brave-browser/issues/41428)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
 
