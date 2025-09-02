@@ -24,6 +24,11 @@ This list gets updated every day at midnight.
 - [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
 - [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 
+## [buddypond/buddypond](https://github.com/buddypond/buddypond)
+
+- [Developer SDK Feedback + Improvements](https://github.com/buddypond/buddypond/issues/88)
+- [Improve `chess` experience for local and multiplayer games](https://github.com/buddypond/buddypond/issues/87)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
@@ -33,18 +38,11 @@ This list gets updated every day at midnight.
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [layer5io/docs](https://github.com/layer5io/docs)
 
-- [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
-- [Pop-up does not show video controls on large screens](https://github.com/meshery/meshery.io/issues/1776)
-
-## [syscoin/syshub](https://github.com/syscoin/syshub)
-
-- [SYSHUB001v3-ER06](https://github.com/syscoin/syshub/issues/119)
-- [SYSHUB001v3-ER05](https://github.com/syscoin/syshub/issues/118)
-- [SYSHUB001v1-SG01](https://github.com/syscoin/syshub/issues/80)
-- [SYSHUB001v1-ER13](https://github.com/syscoin/syshub/issues/92)
-- [SYSHUB001v1-ER15](https://github.com/syscoin/syshub/issues/94)
-- [SYSHUB001v1-ER16](https://github.com/syscoin/syshub/issues/95)
-- [SYSHUB001v1-ER17](https://github.com/syscoin/syshub/issues/96)
+- [[Docs] Convert Static Image to Meshery Design - 1](https://github.com/layer5io/docs/issues/759)
+- [[Docs] Convert Static Image to Meshery Design - 4](https://github.com/layer5io/docs/issues/794)
+- [[Docs] Convert Static Image to Meshery Design - 3](https://github.com/layer5io/docs/issues/793)
+- [[Docs] Outdataed images in "Cloning a Design"](https://github.com/layer5io/docs/issues/785)
+- [[Docs] Academy: Example use of REST APIs](https://github.com/layer5io/docs/issues/784)
 
