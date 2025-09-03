@@ -4,10 +4,24 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+
+## [nextcloud/calendar](https://github.com/nextcloud/calendar)
+
+- [Settings still uses the old pattern](https://github.com/nextcloud/calendar/issues/7216)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
-- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
+- [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
+- [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
 - [Incorrect icon for Bookmarks in side panel](https://github.com/brave/brave-browser/issues/42163)
 - [Brave wordmark should be bold](https://github.com/brave/brave-browser/issues/41637)
 - [outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532](https://github.com/brave/brave-browser/issues/45815)
@@ -24,25 +38,15 @@ This list gets updated every day at midnight.
 - [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
 - [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 
-## [buddypond/buddypond](https://github.com/buddypond/buddypond)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Developer SDK Feedback + Improvements](https://github.com/buddypond/buddypond/issues/88)
-- [Improve `chess` experience for local and multiplayer games](https://github.com/buddypond/buddypond/issues/87)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Docs] Convert Static Image to Meshery Design - 1](https://github.com/layer5io/docs/issues/759)
-- [[Docs] Convert Static Image to Meshery Design - 4](https://github.com/layer5io/docs/issues/794)
-- [[Docs] Convert Static Image to Meshery Design - 3](https://github.com/layer5io/docs/issues/793)
-- [[Docs] Outdataed images in "Cloning a Design"](https://github.com/layer5io/docs/issues/785)
-- [[Docs] Academy: Example use of REST APIs](https://github.com/layer5io/docs/issues/784)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Docs: Docker examples use image `node:18-alpine` with vulnerability](https://github.com/vercel/next.js/issues/78465)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [amp-custom attribute gets stripped (if react-jss is used)](https://github.com/vercel/next.js/issues/12243)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [Incremental Static Regeneration replaces `.amp` with `?amp=1`](https://github.com/vercel/next.js/issues/14251)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
