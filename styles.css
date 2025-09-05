@@ -1,81 +1,63 @@
-/* Base Styles */
-/* Changed font sizes from pixel values to rem units for improved scalability and accessibility. Added CSS variables for common font sizes used*/
-:root{
+:root {
   --size-20: 1.25rem;
   --size-56: 3.5rem;
   --size-22: 1.375rem;
   --size-40: 2.5rem;
   --size-18: 1.125rem;
   --size-28: 1.75rem;
-}
-body {
-  background-color: #f3f6f9;
-  color: #333;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: var(--size-20);  /* Increased base font size */
-  line-height: 1.8;  /* Adjusted line height for readability */
-  margin: 0;
-  padding: 20px;
+  --primary: #2b9af3;
+  --primary-dark: #1663b3;
+  --light-bg: #f3f6f9;
+  --card-bg: #fff;
 }
 
-/* Page Header */
+body {
+  background-color: var(--light-bg);
+  color: #333;
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: var(--size-20);
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
 header {
   text-align: center;
-  padding: 30px;
-  background-color: #2b9af3;
+  padding: 50px 20px;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
   color: white;
-  border-bottom: 4px solid #1663b3;
+  border-bottom: 6px solid var(--primary-dark);
 }
 
-h1 {
-  font-size: var(--size-56);  /* Increased font size for main title */
-  font-weight: 700;
-  margin: 0;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+header h1 {
+  font-size: var(--size-56);
+  margin-bottom: 10px;
 }
 
-/* Main Content */
+header p {
+  font-size: var(--size-22);
+  opacity: 0.9;
+}
+
+/* Main */
 main {
   max-width: 1100px;
   margin: 40px auto;
-  padding: 30px;
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
 }
 
-p {
-  margin: 20px 0;
-  text-align: justify;
-  font-size: var(--size-22);  /* Increased paragraph font size */
-}
-
-/* Section Styling */
+/* Section */
 section {
   margin-top: 40px;
 }
 
 h2 {
-  font-size: var(--size-40);  /* Increased font size for section titles */
-  font-weight: bold;
+  font-size: var(--size-40);
   margin-bottom: 20px;
-  color: #1663b3;
-  border-bottom: 2px solid #2b9af3;
+  color: var(--primary-dark);
+  border-bottom: 2px solid var(--primary);
   padding-bottom: 10px;
-}
-
-/* Links Styling */
-a {
-  color: #2b9af3;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: var(--size-22);  /* Increased font size for links */
-  transition: color 0.3s ease, text-decoration 0.3s ease;
-}
-
-a:hover {
-  color: #104c80;
-  text-decoration: underline;
 }
 
 /* List Styling */
@@ -87,89 +69,51 @@ ul {
 
 li {
   margin: 15px 0;
-  padding: 12px;
-  background-color: #f9f9f9;
-  border-left: 4px solid #2b9af3;
-  border-radius: 6px;
-  transition: background-color 0.3s ease;
-  font-size: var(--size-22);  /* Increased font size for list items */
+  padding: 16px 20px;
+  background-color: var(--card-bg);
+  border-left: 6px solid var(--primary);
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
 }
 
 li:hover {
   background-color: #eef6fc;
+  transform: translateX(4px);
 }
 
-/* Code Blocks */
-code {
-  background-color: #e8eef3;
-  border-radius: 4px;
-  color: #2b2b2b;
-  font-family: Consolas, "Courier New", monospace;
-  padding: 6px 12px;
-  font-size: var(--size-18);  /* Increased font size for code */
-}
-
-pre code {
-  background-color: transparent;
-  padding: 0;
-}
-
-/* Markdown Body Styling */
-.markdown-body {
-  max-width: 100%;
-  padding: 0 20px;
-}
-
-.markdown-body h2 a {
-  color: inherit;
+/* Links */
+a {
+  color: var(--primary);
   text-decoration: none;
+  font-weight: 600;
+  font-size: var(--size-22);
 }
 
-.markdown-body h2 a:hover {
+a:hover {
+  color: var(--primary-dark);
   text-decoration: underline;
 }
 
-/* Selected List Item */
-.markdown-body li.selected {
-  background-color: #eef6fc;
-  border-left: 4px solid #1663b3;
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: var(--primary-dark);
+  color: white;
+  margin-top: 40px;
+  font-size: var(--size-18);
 }
 
-.markdown-body li.selected a {
-  color: #1663b3;
-}
-
-.markdown-body li.selected a:hover {
-  text-decoration: none;
-}
-
-/* Responsive Design */
+/* Responsive */
 @media (max-width: 768px) {
-  body {
-      padding: 10px;
+  header h1 {
+    font-size: var(--size-40);
   }
-
-  h1 {
-      font-size: var(--size-40);  /* Adjusted for mobile */
+  header p, h2, a, li {
+    font-size: var(--size-20);
   }
-
-  h2 {
-      font-size: var(--size-28);  /* Adjusted for mobile */
-  }
-
-  p {
-      font-size: var(--size-20);  /* Adjusted for mobile */
-  }
-
-  main {
-      padding: 15px;
-  }
-
-  a {
-      font-size: var(--size-20);  /* Adjusted for mobile */
-  }
-
   li {
-      font-size: var(--size-20);  /* Adjusted for mobile */
+    padding: 12px 15px;
   }
 }
