@@ -6,6 +6,8 @@ This list gets updated every day at midnight.
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
+- [Purple background behind search and keyboard elements](https://github.com/brave/brave-browser/issues/48812)
+- [Closing a tab from the Tabs Bar will occasionally fail](https://github.com/brave/brave-browser/issues/48847)
 - [PDFs with a "blob:" URL cannot be saved on desktop or iOS](https://github.com/brave/brave-browser/issues/46348)
 - [Save button doesn't have bottom padding when Developer mode is enabled in Shields settings](https://github.com/brave/brave-browser/issues/47782)
 - [Remove `Dashboard Settings` tool tip for each stats](https://github.com/brave/brave-browser/issues/6084)
@@ -25,25 +27,19 @@ This list gets updated every day at midnight.
 - [Right click (context menu) should have `Use Image as Desktop Picture`](https://github.com/brave/brave-browser/issues/7922)
 - [Private and Tor windows redesign](https://github.com/brave/brave-browser/issues/37595)
 
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+
+- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
 - [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
 - [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
 - [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
 - [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[pt] Localize /community pages](https://github.com/open-telemetry/opentelemetry.io/issues/7475)
-- [[es] Spanish folder localization community](https://github.com/open-telemetry/opentelemetry.io/issues/7516)
-- [[es] Fix Spanish localization drifted pages](https://github.com/open-telemetry/opentelemetry.io/issues/7521)
-- [[es] Spanish folder localization docs/contributing](https://github.com/open-telemetry/opentelemetry.io/issues/5205)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[pt] Localize content/en/docs/demo pages](https://github.com/open-telemetry/opentelemetry.io/issues/7544)
-- [[es] Spanish folder localization ecosystem](https://github.com/open-telemetry/opentelemetry.io/issues/7488)
-- [[pt] 34 pages are out-of-date](https://github.com/open-telemetry/opentelemetry.io/issues/7492)
 
