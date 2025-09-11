@@ -4,17 +4,18 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [Pomax/make-webbly-things](https://github.com/Pomax/make-webbly-things)
+## [meshery/meshery](https://github.com/meshery/meshery)
 
-- [Get coverage testing to 100%](https://github.com/Pomax/make-webbly-things/issues/74)
-- [Add image metadata for image previews](https://github.com/Pomax/make-webbly-things/issues/65)
-- [improve the editor button bar](https://github.com/Pomax/make-webbly-things/issues/17)
-- [Create and document a "preview location" script](https://github.com/Pomax/make-webbly-things/issues/51)
-- [Add untracked front-end customization / theming](https://github.com/Pomax/make-webbly-things/issues/57)
-- [Make codemirror "syntax highlight" imports normal, local `/vendor` assets](https://github.com/Pomax/make-webbly-things/issues/38)
-- [add starter project for 11y](https://github.com/Pomax/make-webbly-things/issues/29)
-- [add a flask server starter](https://github.com/Pomax/make-webbly-things/issues/31)
-- [add starter project for vite](https://github.com/Pomax/make-webbly-things/issues/30)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -35,16 +36,32 @@ This list gets updated every day at midnight.
 - [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
 - [Consider linking to `brave://settings/privacy` with message (change crash setting at any time) on `brave://crashes` page when reporting is disabled](https://github.com/brave/brave-browser/issues/27491)
 
-## [meshery/meshery](https://github.com/meshery/meshery)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
+
+## [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
+
+- [Remove all alert() in script.js and create a custom and nice user-friendly alert by css/js](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/631)
+- [Add info to install Python packages from the `requirements.txt` file in `CONTRIBUTING` guide and clean up the `pre-commit` instructions](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/628)
+- [Need some server rules for Discord](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/170)
+- [We need to double check to make sure we fully ignore _site and _deploy dir from eslint, prettier, pre-commit, and other linters/checkers](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/594)
+- [DeepSource: Docker - Analysis failed: Blocking issues or failing metrics found](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/608)
+- [Deeply check TailwindCSS output css file](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/595)
+- [Skip Vite to generate `.js` files for assets (images)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/596)
+- [Super-Linter CSS errors](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/571)
+- [We should inline the bandit skips for more coverage](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/585)
+- [Need small Google map embed for each meetup location on the meetup pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/545)
+- [Increase and standardize the font size on the "rules" and "terms" pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/551)
+- [We need to have all CSS responsive images](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373)
+- [Add "Jasper" to the Discord moderators section on the About page](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/524)
 
