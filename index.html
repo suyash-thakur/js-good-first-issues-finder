@@ -69,5 +69,22 @@
 <li><a href="https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373">We need to have all CSS responsive images</a></li>
 <li><a href="https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/524">Add &quot;Jasper&quot; to the Discord moderators section on the About page</a></li>
 </ul>
+<h2>Previous Issues</h2>
+<div id="history-links"></div>
+
+<script>
+fetch('dates.json')
+  .then(response => response.json())
+  .then(dates => {
+    const container = document.getElementById('history-links');
+    dates.forEach(date => {
+      const link = document.createElement('a');
+      link.href = `history/${date}.html`;
+      link.textContent = date;
+      link.style.display = 'block'; // For better spacing
+      container.appendChild(link);
+    });
+  });
+</script>
 </body>
 </html>
