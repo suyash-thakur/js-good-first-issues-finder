@@ -4,6 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [[UI] Enhance meshery operator connectivity check button behavior based on the real operator status value.](https://github.com/meshery/meshery/issues/15814)
+- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
+- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
+- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
+- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
+- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
+- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Closing a tab from the Tabs Bar will occasionally fail](https://github.com/brave/brave-browser/issues/48847)
@@ -20,48 +35,10 @@ This list gets updated every day at midnight.
 - [Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab](https://github.com/brave/brave-browser/issues/24120)
 - [Split view - Fixes to gap menu button](https://github.com/brave/brave-browser/issues/47451)
 - [`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`](https://github.com/brave/brave-browser/issues/48002)
-- [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
-- [[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file](https://github.com/brave/brave-browser/issues/43294)
-
-## [aemsites/rundisney](https://github.com/aemsites/rundisney)
-
-- [Hero](https://github.com/aemsites/rundisney/issues/12)
-- [Cards](https://github.com/aemsites/rundisney/issues/15)
-- [Columns](https://github.com/aemsites/rundisney/issues/16)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[UI] Enhance meshery operator connectivity check button behavior based on the real operator status value.](https://github.com/meshery/meshery/issues/15814)
-- [[Models][UX]: Design Icon for ArgoCD Component - Event Bus](https://github.com/meshery/meshery/issues/10297)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [[mesheryctl] increase unit/integration test coverage on model subcommands](https://github.com/meshery/meshery/issues/14042)
-- [[Template] Create a Design Critique template](https://github.com/meshery/meshery/issues/12502)
-- [[Template] Create a Service blueprint template ](https://github.com/meshery/meshery/issues/12497)
-- [Design Error Code Reference Page in Figma to Enhance the UI ](https://github.com/meshery/meshery/issues/8995)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-
-## [YodasWs/Empires-4x](https://github.com/YodasWs/Empires-4x)
-
-- [Home Page Needed](https://github.com/YodasWs/Empires-4x/issues/12)
-- [Switch to use Phaser.js Tilemap Layers](https://github.com/YodasWs/Empires-4x/issues/9)
-- [Add fog-of-war](https://github.com/YodasWs/Empires-4x/issues/5)
-- [Add Blog Section to Website](https://github.com/YodasWs/Empires-4x/issues/8)
-- [Split `Player` class into `Nation` and `Faction` classes](https://github.com/YodasWs/Empires-4x/issues/7)
-- [Main Menu Needed](https://github.com/YodasWs/Empires-4x/issues/2)
-- [Title Screen Needed](https://github.com/YodasWs/Empires-4x/issues/3)
-
-## [sveltejs/svelte](https://github.com/sveltejs/svelte)
-
-- [Cannot call `unmount` method with using Attachment and $state](https://github.com/sveltejs/svelte/issues/16656)
-- [Docs: Add a link from [svelte-transition](https://svelte.dev/docs/svelte-transition) to [svelte/transition](https://svelte.dev/docs/svelte/transition) page](https://github.com/sveltejs/svelte/issues/15296)
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Complete the Romanian (Română) translation of Puter](https://github.com/HeyPuter/puter/issues/1511)
-- [Complete the Russian (Русский) translation of Puter](https://github.com/HeyPuter/puter/issues/1510)
+- [Complete the Japanese (日本語) translation of Puter](https://github.com/HeyPuter/puter/issues/1519)
 - [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
 - [Complete the Danish (Dansk) translation of Puter](https://github.com/HeyPuter/puter/issues/1533)
 - [Complete the Farsi (فارسی) translation of Puter](https://github.com/HeyPuter/puter/issues/1529)
@@ -73,7 +50,6 @@ This list gets updated every day at midnight.
 - [Complete the Indonesian (Bahasa Indonesia) translation of Puter](https://github.com/HeyPuter/puter/issues/1522)
 - [Complete the Igbo translation of Puter](https://github.com/HeyPuter/puter/issues/1521)
 - [Complete the Italian (Italiano) translation of Puter](https://github.com/HeyPuter/puter/issues/1520)
-- [Complete the Japanese (日本語) translation of Puter](https://github.com/HeyPuter/puter/issues/1519)
 - [Complete the Kurdish (کوردی) translation of Puter](https://github.com/HeyPuter/puter/issues/1517)
 - [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/1516)
 - [Complete the Dutch (Nederlands) translation of Puter](https://github.com/HeyPuter/puter/issues/1515)
@@ -89,36 +65,6 @@ This list gets updated every day at midnight.
 - [Complete the Vietnamese (Tiếng Việt) translation of Puter](https://github.com/HeyPuter/puter/issues/1503)
 - [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6956)
-
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
-
-- [🎨 Feature: Dark Mode Theme Variations (Nord, Dracula, Monokai)](https://github.com/lokus-ai/lokus/issues/17)
-- [🐛 Fix: React Testing Library Act Warnings in Component Tests](https://github.com/lokus-ai/lokus/issues/15)
-- [🚀 Feature: Add Command Palette Search History](https://github.com/lokus-ai/lokus/issues/14)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Docs] Convert Static Image to Meshery Design - 3](https://github.com/layer5io/docs/issues/793)
-- [[Docs] Convert Static Image to Meshery Design - 4](https://github.com/layer5io/docs/issues/794)
-- [[Docs] Convert Static Image to Meshery Design - 1](https://github.com/layer5io/docs/issues/759)
-- [[Docs] Outdataed images in "Cloning a Design"](https://github.com/layer5io/docs/issues/785)
-- [[Docs] Academy: Example use of REST APIs](https://github.com/layer5io/docs/issues/784)
-
 ## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
 - [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
@@ -126,65 +72,238 @@ This list gets updated every day at midnight.
 - [Add "Polyglot" compatibility](https://github.com/MetaMorphic-Digital/draw-steel/issues/640)
 - [Block certain sheet interactions from non-owners](https://github.com/MetaMorphic-Digital/draw-steel/issues/744)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Request: Wallapop](https://github.com/simple-icons/simple-icons/issues/12266)
-- [Request: Contensis](https://github.com/simple-icons/simple-icons/issues/11910)
-- [Request: Namelix](https://github.com/simple-icons/simple-icons/issues/12259)
-- [Request: Supercell](https://github.com/simple-icons/simple-icons/issues/13538)
+- [Docs: Examples don’t use @ imports for internal paths](https://github.com/vercel/next.js/issues/83717)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 
-## [hackforla/website](https://github.com/hackforla/website)
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-- [Update Project Profile: HackforLA Website Add Donovan Vernon](https://github.com/hackforla/website/issues/8329)
-- [Update Project Profile: Civic Tech Jobs Remove Terence Lo](https://github.com/hackforla/website/issues/8287)
-- [Update Project Profile: Expunge Assist- Remove Samantha Hyler](https://github.com/hackforla/website/issues/8004)
-- [Update Project Profile: Civic Tech Jobs (Remove Tech: Express)](https://github.com/hackforla/website/issues/8278)
-- [Update Project Profile: Expunge Assist - Remove Sylvia Nam](https://github.com/hackforla/website/issues/8117)
-- [Update Project Profile: Guides Team - Remove Aditya Soni](https://github.com/hackforla/website/issues/8113)
-- [Update Project Profile: Civic Tech Jobs Add Gowthami Cherukuri](https://github.com/hackforla/website/issues/8282)
-- [Update Project Profile: Civic Tech Jobs - Add Jason Shi](https://github.com/hackforla/website/issues/8111)
-- [Edits to the "Project Profile Leader Updates- Add" template](https://github.com/hackforla/website/issues/8314)
-- [Update CoP: Ops - Add Brittany Sims](https://github.com/hackforla/website/issues/8120)
-- [Update CoP: Ops - Remove Sudha Raamakrishnan](https://github.com/hackforla/website/issues/8119)
-- [Update Project Profile: Civic Tech Jobs - Add Brandon Hu](https://github.com/hackforla/website/issues/8112)
-- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8280)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8279)
+- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
-- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
-- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
-- [Command Palette: Prevent third-party plugins from crashing the editor.](https://github.com/WordPress/gutenberg/issues/58939)
-- [Scripts: Try using cosmiconf for locating tool configs ](https://github.com/WordPress/gutenberg/issues/30842)
-- [Dropdown active option indicator misaligned](https://github.com/WordPress/gutenberg/issues/52001)
-- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
-- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
-- [Gradient backgrounds should be set with `background-image` instead of `background`](https://github.com/WordPress/gutenberg/issues/32787)
+- [Remove all alert() in script.js and create a custom and nice user-friendly alert by css/js](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/631)
+- [Integrate first post into menu nav and blog system](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/675)
+- [FRONT: Change theme toggle icon to sun / mon / and special one (for random) after clicking on each one](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/689)
+- [Add info to install Python packages from the `requirements.txt` file in `CONTRIBUTING` guide and clean up the `pre-commit` instructions](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/628)
+- [We need to explain `npm run coverage` in the root for frontend, and `npm run coverage` in packages/cfsite for backend in README.md or somewhere](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/677)
+- [Add proselint](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/332)
+- [Add pull request template](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/47)
+- [Skip Vite to generate `.js` files for assets (images)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/596)
+- [Increase and standardize the font size on the "rules" and "terms" pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/551)
+- [Games page game bug](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/641)
+- [Super-Linter CSS errors](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/571)
+- [Need some server rules for Discord](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/170)
+- [We need to double check to make sure we fully ignore _site and _deploy dir from eslint, prettier, pre-commit, and other linters/checkers](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/594)
+- [Deeply check TailwindCSS output css file](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/595)
+- [We should inline the bandit skips for more coverage](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/585)
+- [Need small Google map embed for each meetup location on the meetup pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/545)
+- [We need to have all CSS responsive images](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373)
 
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+## [aemsites/rundisney](https://github.com/aemsites/rundisney)
 
-- [feat(UI): Make all "Setups Created" visible on User page](https://github.com/UltiMafia/Ultimafia/issues/1507)
-- [feat(mafia): Upgrades for Independent Roles](https://github.com/UltiMafia/Ultimafia/issues/1695)
-- [feat(UI): Add friend request button to miniprofile](https://github.com/UltiMafia/Ultimafia/issues/2091)
-- [feat(game): Add separate sliders for music and sfx](https://github.com/UltiMafia/Ultimafia/issues/2070)
+- [Accordion](https://github.com/aemsites/rundisney/issues/13)
+- [Hero](https://github.com/aemsites/rundisney/issues/12)
+- [Cards](https://github.com/aemsites/rundisney/issues/15)
+- [Columns](https://github.com/aemsites/rundisney/issues/16)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
 
-- [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
-- [[Bug]: Flaky test in src/components/TracePage/index.test.js](https://github.com/jaegertracing/jaeger-ui/issues/3066)
-- [Search on attributes is broken with some characters](https://github.com/jaegertracing/jaeger-ui/issues/633)
-- [[Feature]: Automate release process](https://github.com/jaegertracing/jaeger-ui/issues/3056)
+- [documentation: highlight that defining `registry` as part of `setup-node` can conflict with semantic-release behaviors](https://github.com/semantic-release/semantic-release/issues/3842)
+
+## [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb)
+
+- [Visual feedback when the search fails](https://github.com/Jelmerro/Vieb/issues/568)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Databricks API extension](https://github.com/PipedreamHQ/pipedream/issues/18126)
+- [[ACTION] add anchor prop into existing`google_sheets-insert-comment`](https://github.com/PipedreamHQ/pipedream/issues/18185)
+- [[TRIGGER] Coinbase / x402](https://github.com/PipedreamHQ/pipedream/issues/17934)
+- [[ACTION]  Add sharling links for Dropbox App](https://github.com/PipedreamHQ/pipedream/issues/18364)
+- [[ACTION] Hubspot Page - Widgets missing from the update page action](https://github.com/PipedreamHQ/pipedream/issues/18300)
+- [[ACTION] - Affinity CRM MCP](https://github.com/PipedreamHQ/pipedream/issues/18318)
+- [[TRIGGER] Migrate from Google Drive File Subscriptions API to Changes API to Avoid Rate Limits](https://github.com/PipedreamHQ/pipedream/issues/18315)
+- [SEVDESK - TimeTracker2Excel or Sheets](https://github.com/PipedreamHQ/pipedream/issues/18301)
+- [Add FullStory API Integration to MCP Server - Session Data and Events Access](https://github.com/PipedreamHQ/pipedream/issues/18263)
+- [[ACTION] Braze MCP](https://github.com/PipedreamHQ/pipedream/issues/18257)
+- [[ACTION] Microsoft Booking](https://github.com/PipedreamHQ/pipedream/issues/18231)
+- [Everhour Events](https://github.com/PipedreamHQ/pipedream/issues/18163)
+- [[ACTION] Add https://zapr.link/ integration - it has also MCP](https://github.com/PipedreamHQ/pipedream/issues/18123)
+- [[ACTION] Slack "list_replies" tool MCP needs to be improved](https://github.com/PipedreamHQ/pipedream/issues/17939)
+- [Groupon API](https://github.com/PipedreamHQ/pipedream/issues/5200)
+- [Netatmo](https://github.com/PipedreamHQ/pipedream/issues/18017)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [Alignment in Dark Mode and Light mode is Different](https://github.com/ToolJet/ToolJet/issues/11432)
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
+- [Add support for Amazon DocumentDb](https://github.com/ToolJet/ToolJet/issues/8370)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Update `service_version` to `v3` when the setupFlowRefresh feature flag is enabled](https://github.com/google/site-kit-wp/issues/11488)
+- [Ensure all user facing instances of "consent mode" to be lowercase / sentence case.](https://github.com/google/site-kit-wp/issues/11076)
+- [Simplify inline module data handling.](https://github.com/google/site-kit-wp/issues/11120)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
+- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
+- [Error [ERR_INTERNAL_ASSERTION]: TypeError [ERR_INVALID_THIS]: Value of "this" must be of type EventTarget](https://github.com/nodejs/node/issues/46323)
+- [Inconsistent validation of custom signals](https://github.com/nodejs/node/issues/44749)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [ESM import of `http` is slower compared to CommonJS](https://github.com/nodejs/node/issues/59686)
+
+## [scilent-digital/scilent-one](https://github.com/scilent-digital/scilent-one)
+
+- [Init Styles Package](https://github.com/scilent-digital/scilent-one/issues/9)
+- [Init UI Package](https://github.com/scilent-digital/scilent-one/issues/8)
+- [Init Auth package](https://github.com/scilent-digital/scilent-one/issues/7)
+- [Init Database Package](https://github.com/scilent-digital/scilent-one/issues/6)
+
+## [WoodenKhrystyn-FS/music-spotify-temp](https://github.com/WoodenKhrystyn-FS/music-spotify-temp)
+
+- [JWT Refresh Feature](https://github.com/WoodenKhrystyn-FS/music-spotify-temp/issues/12)
+- [Route & Middleware](https://github.com/WoodenKhrystyn-FS/music-spotify-temp/issues/13)
+
+## [ajaxorg/ace](https://github.com/ajaxorg/ace)
+
+- [Android remove event](https://github.com/ajaxorg/ace/issues/5304)
+
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+
+- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Enable Default Master Design Hyperlink in meshery-design-embed](https://github.com/layer5labs/meshery-extensions-packages/issues/526)
+
+## [asyncapi/community](https://github.com/asyncapi/community)
+
+- [[📑 Docs]: Document how to get and use the Holopin Badge in repos](https://github.com/asyncapi/community/issues/2041)
+
+## [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
+
+- [Add Speech Recognition to Search Bar](https://github.com/codervivek5/VigyBag/issues/2085)
+- [Category filters show irrelevant results due to missing/incorrect product mapping](https://github.com/codervivek5/VigyBag/issues/2661)
+- [Fix: Corrected routing for 'Login as Vigy' button (Issue #2638)](https://github.com/codervivek5/VigyBag/pull/2658)
+- [Downloaded pdf of privacy is not covering the whole content](https://github.com/codervivek5/VigyBag/issues/2662)
+- [Need more content on Terms and Conditions](https://github.com/codervivek5/VigyBag/issues/2663)
+- [Enhancement: Improve layout consistency between Privacy Policy and Terms & Conditions pages](https://github.com/codervivek5/VigyBag/issues/2656)
+- [Resize 'home page' and make it responsive](https://github.com/codervivek5/VigyBag/issues/849)
+- [Explore Button on Wishlist page is Different color from Other Similar Buttons and Site Theme](https://github.com/codervivek5/VigyBag/issues/2312)
+- [Enhance the navbar](https://github.com/codervivek5/VigyBag/issues/2570)
+- [[Bug🐛]: Fix the career page design and improve it](https://github.com/codervivek5/VigyBag/issues/2615)
+- [UI enhancement of the homepage](https://github.com/codervivek5/VigyBag/issues/2623)
+- [Showing Orders in a newly added user](https://github.com/codervivek5/VigyBag/issues/2425)
+- [[Bug] "Login as Vigy" button redirects to 404 page](https://github.com/codervivek5/VigyBag/issues/2638)
+- [Adjusting the length of sidebar till navbar](https://github.com/codervivek5/VigyBag/issues/2405)
+- [Add links to Gift Card](https://github.com/codervivek5/VigyBag/issues/2621)
+- [Live Delivery Time Estimator on Product Listings](https://github.com/codervivek5/VigyBag/issues/2607)
+- [✨ User Profile Enhancements & API Integration  ](https://github.com/codervivek5/VigyBag/pull/2628)
+- [Add a typing animation to the heading “Welcome to VigyBag”](https://github.com/codervivek5/VigyBag/issues/2591)
+- [Make Active Links More Interactive in Navbar](https://github.com/codervivek5/VigyBag/issues/2590)
+- [✨ Feature Request: Story Behind the Product Section 🧵](https://github.com/codervivek5/VigyBag/issues/2584)
+- [BUG: The Chatbot is Overlapping to Scrollbar Button](https://github.com/codervivek5/VigyBag/issues/1877)
+- [Adding "get started" page for app](https://github.com/codervivek5/VigyBag/issues/2054)
+- [[BUG] Google and Facebook Authentication not working](https://github.com/codervivek5/VigyBag/issues/2599)
+- [Price range issue](https://github.com/codervivek5/VigyBag/issues/2582)
+- [Get the best products at the best price.](https://github.com/codervivek5/VigyBag/issues/2574)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [FE&BE - Scrollable Pagespeed Graph](https://github.com/bluewave-labs/Checkmate/issues/606)
+- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
+- [Feature Request: Consecutive incidents should be 1 incident](https://github.com/bluewave-labs/Checkmate/issues/2626)
+- [It would be good for things like CPU to have a window like we have for uptime.](https://github.com/bluewave-labs/Checkmate/issues/2950)
+- [FE - Testing Framework ](https://github.com/bluewave-labs/Checkmate/issues/923)
+- [Homepage Widget](https://github.com/bluewave-labs/Checkmate/issues/2792)
+- [Status Page: Custom CSS/JS/HTML overrides](https://github.com/bluewave-labs/Checkmate/issues/2863)
+- [Recent data shows weeks of data](https://github.com/bluewave-labs/Checkmate/issues/2898)
+- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
+- [Allow response time chart to be displayed on status page](https://github.com/bluewave-labs/Checkmate/issues/2924)
+- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
+- [Display timezone setting is missing UTC](https://github.com/bluewave-labs/Checkmate/issues/2837)
+- [More roles and permissions (Custom roles?)](https://github.com/bluewave-labs/Checkmate/issues/2861)
+- [Feature Request: Be able to choose what disks to monitor](https://github.com/bluewave-labs/Checkmate/issues/2840)
+- [Successive failed pings are counted as separate incidents](https://github.com/bluewave-labs/Checkmate/issues/2860)
+- [Add bearer/basic auth option to webhooks](https://github.com/bluewave-labs/Checkmate/issues/2369)
+- [Add a way of public view as member role (or similar)](https://github.com/bluewave-labs/Checkmate/issues/2751)
+- [Add ntfy support to Checkmate](https://github.com/bluewave-labs/Checkmate/issues/2817)
+- [Custom Monitor Intervals](https://github.com/bluewave-labs/Checkmate/issues/2633)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+
+## [ampproject/amphtml](https://github.com/ampproject/amphtml)
+
+- [Change window.context API to avoid problematic terms](https://github.com/ampproject/amphtml/issues/30789)
+- [Consolidate image serving in examples and test/manual](https://github.com/ampproject/amphtml/issues/25045)
+- [🐛Story Ads UI appears very small on 4k monitor](https://github.com/ampproject/amphtml/issues/33068)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Fix Spanish localization drifted pages](https://github.com/open-telemetry/opentelemetry.io/issues/7521)
+- [[pt] Localize /community pages](https://github.com/open-telemetry/opentelemetry.io/issues/7475)
+- [[es] Spanish folder localization community](https://github.com/open-telemetry/opentelemetry.io/issues/7516)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+
+- [Notation for the need of login to upload (image) files](https://github.com/processing/p5.js-web-editor/issues/3079)
+
+## [AlexTregub/softwareEngineering_teamDelta](https://github.com/AlexTregub/softwareEngineering_teamDelta)
+
+- [HTML Wrapper, Pass Client Viewport to JS](https://github.com/AlexTregub/softwareEngineering_teamDelta/issues/12)
+- [Create basic camera controls](https://github.com/AlexTregub/softwareEngineering_teamDelta/issues/18)
+
+## [sveltejs/svelte](https://github.com/sveltejs/svelte)
+
+- [Cannot call `unmount` method with using Attachment and $state](https://github.com/sveltejs/svelte/issues/16656)
+- [Docs: Add a link from [svelte-transition](https://svelte.dev/docs/svelte-transition) to [svelte/transition](https://svelte.dev/docs/svelte/transition) page](https://github.com/sveltejs/svelte/issues/15296)
+
+## [hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)
+
+- [Replace usage of Nominatim with pg-nearest-city](https://github.com/hotosm/tasking-manager/issues/6905)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
+## [OSC/ondemand](https://github.com/OSC/ondemand)
+
+- [give prominence to the 'powered by' open ondemand footer](https://github.com/OSC/ondemand/issues/1986)
+- [shell app could use some padding/margin on sides](https://github.com/OSC/ondemand/issues/2868)
+- [touch up icon margin / square quick launch icons](https://github.com/OSC/ondemand/issues/2035)
+- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
+- [Add tests for #1482](https://github.com/OSC/ondemand/issues/1483)
 
 ## [goffxnca/propkub-web](https://github.com/goffxnca/propkub-web)
 
-- [Add GitHub icon to bottom-right corner](https://github.com/goffxnca/propkub-web/issues/12)
 - [Allow users to add 10 images to post](https://github.com/goffxnca/propkub-web/issues/7)
+- [Add GitHub icon to bottom-right corner](https://github.com/goffxnca/propkub-web/issues/12)
 
 ## [akathedeveloper/CareSync](https://github.com/akathedeveloper/CareSync)
 
-- [Update Twitter Icon to Latest X Logo](https://github.com/akathedeveloper/CareSync/issues/386)
-- [Optimizing Search Functionality in blogs page](https://github.com/akathedeveloper/CareSync/issues/381)
 - [Adding a Slider](https://github.com/akathedeveloper/CareSync/issues/379)
 - [Bug Report: Header Menu Hash Links Not Updating URL](https://github.com/akathedeveloper/CareSync/issues/377)
 - [Add Proper Loading States and Feedback Across the App](https://github.com/akathedeveloper/CareSync/issues/370)
@@ -224,64 +343,4 @@ This list gets updated every day at midnight.
 - [Add CareSync logo In Patient Panel And Change The Text Colour From Blue To Emerald Of Patient Panel](https://github.com/akathedeveloper/CareSync/issues/195)
 - [Bug in the feature of no scrolling with menu icon on mobile devices](https://github.com/akathedeveloper/CareSync/issues/177)
 - [Newsletter is not working properly](https://github.com/akathedeveloper/CareSync/issues/174)
-
-## [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
-
-- [Windows gets unlink error when running yarn while an executable is running](https://github.com/yarnpkg/yarn/issues/2685)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
-- [Error [ERR_INTERNAL_ASSERTION]: TypeError [ERR_INVALID_THIS]: Value of "this" must be of type EventTarget](https://github.com/nodejs/node/issues/46323)
-- [Inconsistent validation of custom signals](https://github.com/nodejs/node/issues/44749)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [ESM import of `http` is slower compared to CommonJS](https://github.com/nodejs/node/issues/59686)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [Is guide up to date?](https://github.com/meteor/meteor/issues/13866)
-- [Missing docs](https://github.com/meteor/meteor/issues/13641)
-- [Meteor.loginWithPassword should have a similar signature as Accounts.createUser](https://github.com/meteor/meteor/issues/13069)
-- [Upgrade deprecated packages](https://github.com/meteor/meteor/issues/13812)
-- [Calling Roles.getUsersInRoleAsync with queryOptions fields throws error](https://github.com/meteor/meteor/issues/13873)
-- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
-- [Did `Meteor.connection._processOneDataMessage` get eliminated?](https://github.com/meteor/meteor/issues/13655)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Docs: Examples don’t use @ imports for internal paths](https://github.com/vercel/next.js/issues/83717)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-
-## [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
-
-- [Integrate first post into menu nav and blog system](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/675)
-- [Ideas for a third color theme. We have dark and soon light. Would be nice to have something special](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/679)
-- [Add info to install Python packages from the `requirements.txt` file in `CONTRIBUTING` guide and clean up the `pre-commit` instructions](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/628)
-- [We need to explain `npm run coverage` in the root for frontend, and `npm run coverage` in packages/cfsite for backend in README.md or somewhere](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/677)
-- [It seems exclude is not working for vitest coverage (`vite.config.js`)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/674)
-- [Add proselint](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/332)
-- [Add pull request template](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/47)
-- [Skip Vite to generate `.js` files for assets (images)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/596)
-- [Remove all alert() in script.js and create a custom and nice user-friendly alert by css/js](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/631)
-- [Increase and standardize the font size on the "rules" and "terms" pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/551)
-- [Games page game bug](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/641)
-- [Super-Linter CSS errors](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/571)
-- [Need some server rules for Discord](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/170)
-- [We need to double check to make sure we fully ignore _site and _deploy dir from eslint, prettier, pre-commit, and other linters/checkers](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/594)
-- [Deeply check TailwindCSS output css file](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/595)
-- [We should inline the bandit skips for more coverage](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/585)
-- [Need small Google map embed for each meetup location on the meetup pages](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/545)
-- [We need to have all CSS responsive images](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373)
-
-## [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-
-- [Add wheelchair to shop=health_food](https://github.com/openstreetmap/id-tagging-schema/issues/1262)
-- [Edit mural preset](https://github.com/openstreetmap/id-tagging-schema/issues/1259)
-- [Add highway=hitchhiking](https://github.com/openstreetmap/id-tagging-schema/issues/1675)
-- [tagging schema for craft=atelier](https://github.com/openstreetmap/id-tagging-schema/issues/1362)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Enable Default Master Design Hyperlink in meshery-design-embed](https://github.com/layer5labs/meshery-extensions-packages/issues/526)
 
