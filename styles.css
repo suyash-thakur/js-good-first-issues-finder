@@ -1,84 +1,117 @@
-/* Base Styles */
-/* Changed font sizes from pixel values to rem units for improved scalability and accessibility. Added CSS variables for common font sizes used*/
-:root{
-  --size-20: 1.25rem;
-  --size-56: 3.5rem;
-  --size-22: 1.375rem;
-  --size-40: 2.5rem;
+/* ===========================
+   Root Variables & Base Setup
+   =========================== */
+:root {
+  /* Font Sizes (rem units for scalability) */
   --size-18: 1.125rem;
+  --size-20: 1.25rem;
+  --size-22: 1.375rem;
   --size-28: 1.75rem;
-}
-body {
-  background-color: #f3f6f9;
-  color: #333;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: var(--size-20);  /* Increased base font size */
-  line-height: 1.8;  /* Adjusted line height for readability */
-  margin: 0;
-  padding: 20px;
+  --size-40: 2.5rem;
+  --size-56: 3.5rem;
+
+  /* Spacing (reusable for layout) */
+  --space-10: 0.625rem;
+  --space-20: 1.25rem;
+  --space-30: 1.875rem;
+  --space-40: 2.5rem;
+
+  /* Colors */
+  --color-primary: #2b9af3;
+  --color-primary-dark: #1663b3;
+  --color-bg: #f3f6f9;
+  --color-text: #333;
+  --color-light: #f9f9f9;
+  --color-hover-bg: #eef6fc;
 }
 
-/* Page Header */
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: var(--size-20);
+  line-height: 1.8;
+  margin: 0;
+  padding: var(--space-20);
+}
+
+/* ===========================
+   Header
+   =========================== */
 header {
   text-align: center;
-  padding: 30px;
-  background-color: #2b9af3;
+  padding: var(--space-30);
+  background-color: var(--color-primary);
   color: white;
-  border-bottom: 4px solid #1663b3;
+  border-bottom: 4px solid var(--color-primary-dark);
 }
 
 h1 {
-  font-size: var(--size-56);  /* Increased font size for main title */
+  font-size: var(--size-56);
   font-weight: 700;
   margin: 0;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.12);
 }
 
-/* Main Content */
+/* ===========================
+   Main Content Area
+   =========================== */
 main {
   max-width: 1100px;
-  margin: 40px auto;
-  padding: 30px;
+  margin: var(--space-40) auto;
+  padding: var(--space-30);
   background-color: white;
-  border-radius: 8px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.08);
 }
 
 p {
-  margin: 20px 0;
+  margin: var(--space-20) 0;
   text-align: justify;
-  font-size: var(--size-22);  /* Increased paragraph font size */
+  font-size: var(--size-22);
 }
 
-/* Section Styling */
+/* ===========================
+   Section & Headings
+   =========================== */
 section {
-  margin-top: 40px;
+  margin-top: var(--space-40);
 }
 
 h2 {
-  font-size: var(--size-40);  /* Increased font size for section titles */
-  font-weight: bold;
-  margin-bottom: 20px;
-  color: #1663b3;
-  border-bottom: 2px solid #2b9af3;
-  padding-bottom: 10px;
+  font-size: var(--size-40);
+  font-weight: 700;
+  color: var(--color-primary-dark);
+  border-bottom: 2px solid var(--color-primary);
+  padding-bottom: 8px;
+  margin-bottom: var(--space-20);
 }
 
-/* Links Styling */
+/* ===========================
+   Links
+   =========================== */
 a {
-  color: #2b9af3;
+  color: var(--color-primary);
   text-decoration: none;
   font-weight: 600;
-  font-size: var(--size-22);  /* Increased font size for links */
+  font-size: var(--size-22);
   transition: color 0.3s ease, text-decoration 0.3s ease;
 }
 
-a:hover {
-  color: #104c80;
+a:hover,
+a:focus {
+  color: var(--color-primary-dark);
   text-decoration: underline;
 }
 
-/* List Styling */
+a:focus {
+  outline: 2px dashed var(--color-primary-dark);
+  outline-offset: 4px;
+}
+
+/* ===========================
+   Lists
+   =========================== */
 ul {
   list-style: none;
   margin: 0;
@@ -86,27 +119,30 @@ ul {
 }
 
 li {
-  margin: 15px 0;
-  padding: 12px;
-  background-color: #f9f9f9;
-  border-left: 4px solid #2b9af3;
+  margin: var(--space-20) 0;
+  padding: var(--space-20);
+  background-color: var(--color-light);
+  border-left: 4px solid var(--color-primary);
   border-radius: 6px;
-  transition: background-color 0.3s ease;
-  font-size: var(--size-22);  /* Increased font size for list items */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-size: var(--size-22);
 }
 
 li:hover {
-  background-color: #eef6fc;
+  background-color: var(--color-hover-bg);
+  transform: translateX(2px);
 }
 
-/* Code Blocks */
+/* ===========================
+   Code Blocks
+   =========================== */
 code {
   background-color: #e8eef3;
   border-radius: 4px;
   color: #2b2b2b;
   font-family: Consolas, "Courier New", monospace;
   padding: 6px 12px;
-  font-size: var(--size-18);  /* Increased font size for code */
+  font-size: var(--size-18);
 }
 
 pre code {
@@ -114,10 +150,12 @@ pre code {
   padding: 0;
 }
 
-/* Markdown Body Styling */
+/* ===========================
+   Markdown Styling
+   =========================== */
 .markdown-body {
   max-width: 100%;
-  padding: 0 20px;
+  padding: 0 var(--space-20);
 }
 
 .markdown-body h2 a {
@@ -129,47 +167,46 @@ pre code {
   text-decoration: underline;
 }
 
-/* Selected List Item */
+/* Highlight selected list items */
 .markdown-body li.selected {
-  background-color: #eef6fc;
-  border-left: 4px solid #1663b3;
+  background-color: var(--color-hover-bg);
+  border-left-color: var(--color-primary-dark);
 }
 
 .markdown-body li.selected a {
-  color: #1663b3;
+  color: var(--color-primary-dark);
 }
 
-.markdown-body li.selected a:hover {
-  text-decoration: none;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  body {
-      padding: 10px;
+/* ===========================
+   Responsive Design
+   =========================== */
+@media (max-width: 992px) {
+  main {
+    padding: var(--space-20);
   }
 
   h1 {
-      font-size: var(--size-40);  /* Adjusted for mobile */
+    font-size: var(--size-40);
   }
 
-  h2 {
-      font-size: var(--size-28);  /* Adjusted for mobile */
+  h2,
+  p,
+  a,
+  li {
+    font-size: var(--size-20);
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: var(--space-10);
   }
 
-  p {
-      font-size: var(--size-20);  /* Adjusted for mobile */
+  h1 {
+    font-size: var(--size-28);
   }
 
   main {
-      padding: 15px;
-  }
-
-  a {
-      font-size: var(--size-20);  /* Adjusted for mobile */
-  }
-
-  li {
-      font-size: var(--size-20);  /* Adjusted for mobile */
+    border-radius: 6px;
   }
 }
