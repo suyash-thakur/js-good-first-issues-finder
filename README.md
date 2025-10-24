@@ -4,19 +4,282 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+
+- [Add testing framework chart comparison to specific test resources](https://github.com/Techtonica/curriculum/issues/2379)
+- [Add recurring debugging session to pair programming](https://github.com/Techtonica/curriculum/issues/2390)
+- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
+- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
+- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
+- [Create topic outline with interactive walkthrough and visuals for Self Balancing Adelson-Velsky and Landis (AVL) Tree](https://github.com/Techtonica/curriculum/issues/2262)
+- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
+- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
+- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
+- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
+- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
+- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
+- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
+- [Create topic outline with interactive walkthrough and visuals for Algorithmic Math Problems](https://github.com/Techtonica/curriculum/issues/2254)
+- [Create topic outline with interactive walkthrough and visuals for Backtracking](https://github.com/Techtonica/curriculum/issues/2252)
+- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
+- [Create topic outline with interactive walkthrough and visuals for Two Knapsack Problems](https://github.com/Techtonica/curriculum/issues/2248)
+- [Create topic outline with interactive walkthrough and visuals for Priority Queues and Heaps](https://github.com/Techtonica/curriculum/issues/2244)
+
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
 - [Linux desktop file refers to "Incognito" windows](https://github.com/brave/brave-browser/issues/37623)
 - [[Desktop] Allow users to add site exceptions for data that is cleared "on exit"](https://github.com/brave/brave-browser/issues/10493)
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
+- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
+- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
+- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
+- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
+- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
+- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
+- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- [custom playback speed feature not woriking](https://github.com/code-charity/youtube/issues/3275)
+- [🐞[BUG] Issue with (always visible) progress bar](https://github.com/code-charity/youtube/issues/2896)
+- [🐞Youtube - Channel Intro - autoplay deactivate not working](https://github.com/code-charity/youtube/issues/3297)
+- [💡skip youtuber's ads in video](https://github.com/code-charity/youtube/issues/3287)
+- [💡 Option for logarithmic volume control](https://github.com/code-charity/youtube/issues/3294)
+- [Enable Comments only for Specific Channels](https://github.com/code-charity/youtube/issues/1933)
+- [Suggestion: Sort By button (comments) - Force default to newest first ](https://github.com/code-charity/youtube/issues/1355)
+- [🐞end cards or whatever they're called are now showing up for me, even though endscreen is off](https://github.com/code-charity/youtube/issues/3286)
+- [🐞Videos are very large on 'Home' of people channels](https://github.com/code-charity/youtube/issues/3293)
+- [🐞Live Chat "Collapsed" mode prevents reopening during live videos](https://github.com/code-charity/youtube/issues/3291)
+- [🐞 Force auto-play off prevents me from playing the video](https://github.com/code-charity/youtube/issues/3288)
+- [💡Boost (Forced) Volume as a button or an override on actual volume slider.](https://github.com/code-charity/youtube/issues/3284)
+- [💡The new youtube update dont allow to save more than one time a video, is really awfull that new feature when I need to save music](https://github.com/code-charity/youtube/issues/3289)
+- [Pause other tabs when current one is playing](https://github.com/code-charity/youtube/issues/2010)
+- [More "Queue" and "Watch Later" buttons!](https://github.com/code-charity/youtube/issues/2009)
+- [🐞Music playlist doesn't revert to 1x normal speed anymore after new update](https://github.com/code-charity/youtube/issues/3260)
+- [🐞rotate issue](https://github.com/code-charity/youtube/issues/3216)
+- [💡Button on player to toggle auto-fullscreen](https://github.com/code-charity/youtube/issues/3278)
+- [upper option list or sorting list disappears](https://github.com/code-charity/youtube/issues/3154)
+- [🐞Hide animated thumbnails does not work](https://github.com/code-charity/youtube/issues/3181)
+- [💡Implement web_watch_theater_chat flag](https://github.com/code-charity/youtube/issues/3272)
+- [🐞YouTube video fails to load or respond with Improve YouTube! enabled](https://github.com/code-charity/youtube/issues/3270)
+- [🐞Extra buttons Loop, pip, replayed scene, and screenshot duplicated with every viewed video](https://github.com/code-charity/youtube/issues/3267)
+- [🐞 title, comments and reccomended swap](https://github.com/code-charity/youtube/issues/3266)
+- [🐞 Disabling the chat no longer fills the screen](https://github.com/code-charity/youtube/issues/3243)
+- [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
+- [🐞🐞🐞Incorrect header position](https://github.com/code-charity/youtube/issues/3264)
+- [🐞Pip](https://github.com/code-charity/youtube/issues/3261)
+- [💡Add keyboard shortcut for cinema mode](https://github.com/code-charity/youtube/issues/3252)
+- [💡Please add the ability to unbind hotkeys/shortcuts](https://github.com/code-charity/youtube/issues/3258)
+- [💡Mini-Player disabling PLEASE](https://github.com/code-charity/youtube/issues/3255)
+- [🐞 The cinema button doesn't always show up](https://github.com/code-charity/youtube/issues/3254)
+- [💡hot](https://github.com/code-charity/youtube/issues/3250)
+- [💡](https://github.com/code-charity/youtube/issues/3249)
+- [💡](https://github.com/code-charity/youtube/issues/3248)
+- [Add horizontal line based on new day](https://github.com/code-charity/youtube/issues/3244)
+- [💡Video Buffer](https://github.com/code-charity/youtube/issues/3240)
+- [🐞When I minimize Firefox video restarts](https://github.com/code-charity/youtube/issues/3232)
+- [🐞Translation](https://github.com/code-charity/youtube/issues/3242)
+- [🐞"Pause while I watch a 2nd video" not working](https://github.com/code-charity/youtube/issues/3204)
+- [🐞"save" button](https://github.com/code-charity/youtube/issues/3222)
+- [💡Option to disable "hold to play at 2x speed"](https://github.com/code-charity/youtube/issues/3066)
+- [🐞Turning on "Force Autoplay Off" prevents youtube videos from playing at all](https://github.com/code-charity/youtube/issues/3210)
+- [💡 Hide videos from your watch later list that appear on sidebar](https://github.com/code-charity/youtube/issues/3239)
+- [💡Separate quality setting for full screen](https://github.com/code-charity/youtube/issues/3237)
+- [🐞 Changing quality on thumbnail unloads thumbnails forever.](https://github.com/code-charity/youtube/issues/3235)
+- [Nightmode schedule fixed - What else to schedule?](https://github.com/code-charity/youtube/issues/3136)
+- [Skip 10 seconds buttons](https://github.com/code-charity/youtube/issues/2025)
+- [🐞Improve Youtube extension is hidding part of the channel names](https://github.com/code-charity/youtube/issues/3230)
+- [💡video title translation](https://github.com/code-charity/youtube/issues/3219)
+- [🐞The extension just stops working randomly. Only disabling it makes YouTube videos play again.](https://github.com/code-charity/youtube/issues/3228)
+- [Mini player, and expand button](https://github.com/code-charity/youtube/issues/3199)
+- [🐞wont play titles](https://github.com/code-charity/youtube/issues/3212)
+- [💡Scroll in fullscreen](https://github.com/code-charity/youtube/issues/3196)
+- [💡Auto Like option](https://github.com/code-charity/youtube/issues/3193)
+- [🐞No UI](https://github.com/code-charity/youtube/issues/3213)
+- [Allow old UI on player](https://github.com/code-charity/youtube/issues/3191)
+- [Playlist item menu keeps disappearing](https://github.com/code-charity/youtube/issues/2041)
+- [Swap the playlist and chat](https://github.com/code-charity/youtube/issues/2773)
+- [💡[Feature Request] Speed ​​buttons on the video bar](https://github.com/code-charity/youtube/issues/3133)
+- [💡{REQUEST/SUGGESTION} Auto Fit to Window On Open (I miss that feature!)](https://github.com/code-charity/youtube/issues/3152)
+- [Smarter Speed-up](https://github.com/code-charity/youtube/issues/1636)
+- [🐞color](https://github.com/code-charity/youtube/issues/2830)
+- [🐞Custom mini-player not working on Safari](https://github.com/code-charity/youtube/issues/3194)
+- [🐞Firefox Problem](https://github.com/code-charity/youtube/issues/3189)
+- [Classic expanded descriptions is broken ](https://github.com/code-charity/youtube/issues/1802)
+- ['Reverse Playlist' isn't 'saved'](https://github.com/code-charity/youtube/issues/1836)
+
+## [ResilientApp/ResCanvas](https://github.com/ResilientApp/ResCanvas)
+
+- [Layered Canvas with Object Selection, Move/Transform & Z-order](https://github.com/ResilientApp/ResCanvas/issues/16)
+- [AI-Enhanced Accessibility: Voice-to-Canvas and Gesture Recognition](https://github.com/ResilientApp/ResCanvas/issues/30)
+- [LLM-Powered Chatbot for In-Canvas Collaboration and Support](https://github.com/ResilientApp/ResCanvas/issues/29)
+- [Intelligent Canvas Search with Natural Language and Visual Queries](https://github.com/ResilientApp/ResCanvas/issues/28)
+- [AI-Powered Content Moderation and Safety Filters](https://github.com/ResilientApp/ResCanvas/issues/27)
+- [AI-Powered Performance Optimization and Resource Usage Prediction](https://github.com/ResilientApp/ResCanvas/issues/26)
+- [AI-Driven Collaborative Suggestions and Smart Auto-Complete](https://github.com/ResilientApp/ResCanvas/issues/25)
+- [AI-Powered Smart Drawing Assistant with Prompt-to-Canvas Generation](https://github.com/ResilientApp/ResCanvas/issues/24)
+- [Offline-first Mode with Local Persistence and Background Sync](https://github.com/ResilientApp/ResCanvas/issues/17)
+- [Advanced Brush System: Custom Brush Styles, Mixer Filters, and Rubber Stamps](https://github.com/ResilientApp/ResCanvas/issues/14)
+- [Live Presence, Mini-Map & Thumbnails (Collaboration UX)](https://github.com/ResilientApp/ResCanvas/issues/19)
+- [Export & Import: Multi-format (PNG, SVG, PDF, Project File)](https://github.com/ResilientApp/ResCanvas/issues/18)
+- [Canvas Time-Travel / Session Replay (Playback and Exportable Recording)](https://github.com/ResilientApp/ResCanvas/issues/15)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
+
+- [[Feature]: Create `BaseMenu` component to give all menus a consistent look and feel](https://github.com/cuttle-cards/cuttle/issues/514)
+- [[DevEx]: Clean up and centralize the "Waiting for Game to Start" overlays](https://github.com/cuttle-cards/cuttle/issues/806)
+
+## [Curso-dev-Students-Projects/SmartKitchen](https://github.com/Curso-dev-Students-Projects/SmartKitchen)
+
+- [Deletar Endpoint: `DELETE /api/v1/items/{id}` para Remover um Item](https://github.com/Curso-dev-Students-Projects/SmartKitchen/issues/6)
+- [Listar Endpoint: `GET /api/v1/categories` para Listar Todas as categorias](https://github.com/Curso-dev-Students-Projects/SmartKitchen/issues/12)
+- [Consultar Endpoint: `GET /api/v1/items/{id}` para Buscar um Item](https://github.com/Curso-dev-Students-Projects/SmartKitchen/issues/3)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Exa](https://github.com/PipedreamHQ/pipedream/issues/18854)
+- [Microsoft Dynamics – opportunity triggers: ownership change, won/lost, reopened, new contact, task/meeting/email logged](https://github.com/PipedreamHQ/pipedream/issues/18820)
+- [Microsoft Dynamics – opportunity triggers: new opportunity, stage change, close date change, probability change, revenue change](https://github.com/PipedreamHQ/pipedream/issues/18819)
+- [[ACTION] Help Center & Knowledge Base Actions for Zoho Desk](https://github.com/PipedreamHQ/pipedream/issues/18644)
+- [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
+- [Microsoft Dynamics – account triggers: new account, ownership changed, status changed, new contact added, inactive/reactivated](https://github.com/PipedreamHQ/pipedream/issues/18818)
+- [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
+- [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/18719)
+- [[ACTION] Microsoft Booking](https://github.com/PipedreamHQ/pipedream/issues/18231)
+- [[ACTION] - Affinity CRM MCP](https://github.com/PipedreamHQ/pipedream/issues/18318)
+- [[ACTION] MCP Tools for Larksuite](https://github.com/PipedreamHQ/pipedream/issues/18460)
+
+## [medic/cht-core](https://github.com/medic/cht-core)
+
+- [Record telemetry for External Android App calls](https://github.com/medic/cht-core/issues/10217)
+- [Reports list - mobile & desktop view](https://github.com/medic/cht-core/issues/9922)
+- [Add a @medic/constants shared library](https://github.com/medic/cht-core/issues/9621)
+- [Remove app management configure targets page](https://github.com/medic/cht-core/issues/10302)
+- [UI Navigation: Screenshot Generation for Reports Section](https://github.com/medic/cht-core/issues/9500)
+
+## [Limeload/SpendWise](https://github.com/Limeload/SpendWise)
+
+- [Set Up User Authentication (Frontend)](https://github.com/Limeload/SpendWise/issues/8)
+- [API Documentation with Endpoint Details](https://github.com/Limeload/SpendWise/issues/22)
+- [Create Dashboard UI for Budget Overview](https://github.com/Limeload/SpendWise/issues/6)
+- [User Guide and Onboarding Documentation](https://github.com/Limeload/SpendWise/issues/23)
+- [Design and Implement Database Schema](https://github.com/Limeload/SpendWise/issues/2)
+- [Testing Strategy and Coverage Documentation](https://github.com/Limeload/SpendWise/issues/25)
+
+## [nextcloud/text](https://github.com/nextcloud/text)
+
+- [Color markings for .log files, not for .txt files](https://github.com/nextcloud/text/issues/5253)
+
+## [nextcloud/collectives](https://github.com/nextcloud/collectives)
+
+- [Allow to rename Collective for admins](https://github.com/nextcloud/collectives/issues/1716)
+- [From Deck, all collectives' landing pages are named "Landing page"](https://github.com/nextcloud/collectives/issues/2024)
+- [Dashboard Widget that shows all collectives](https://github.com/nextcloud/collectives/issues/1965)
+
+## [ufosc/OSC_Workout_App](https://github.com/ufosc/OSC_Workout_App)
+
+- [Issue 5 - HomePage](https://github.com/ufosc/OSC_Workout_App/issues/11)
+- [Issue 4 - Having user create their own exercise](https://github.com/ufosc/OSC_Workout_App/issues/10)
+- [creating a feature for countdown timer](https://github.com/ufosc/OSC_Workout_App/issues/17)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Icon improvement: notFound](https://github.com/WordPress/gutenberg/issues/72537)
+- [Math block: update icon](https://github.com/WordPress/gutenberg/issues/72543)
+- [Math Block and Math format: Force LTR direction in RTL languages](https://github.com/WordPress/gutenberg/issues/72553)
+- [Math block: use a monospaced font for LaTeX input](https://github.com/WordPress/gutenberg/issues/72542)
+- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
+- [Use lowercase capitalization on Featured Image "Link to..." control](https://github.com/WordPress/gutenberg/issues/55057)
+- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
+
+## [kiigame/adventure_engine](https://github.com/kiigame/adventure_engine)
+
+- [Improve UX when dragging items over inventory arrows](https://github.com/kiigame/adventure_engine/issues/122)
+- [LZ: Use npc_monologue on exit doors (zombie growling)](https://github.com/kiigame/adventure_engine/issues/97)
+- [Improve character speech bubble tail placement](https://github.com/kiigame/adventure_engine/issues/238)
+- [LZ: Use glue on either poster or wall](https://github.com/kiigame/adventure_engine/issues/103)
+- [LZ: A waking-up animation for the player character](https://github.com/kiigame/adventure_engine/issues/88)
+- [Prettier inventory arrows](https://github.com/kiigame/adventure_engine/issues/90)
+
+## [btcgdl/Ambrosia-POS](https://github.com/btcgdl/Ambrosia-POS)
+
+- [Mobile Adaptation of the Application](https://github.com/btcgdl/Ambrosia-POS/issues/193)
+- [Create Installation Guide on Website](https://github.com/btcgdl/Ambrosia-POS/issues/146)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
+- [[CI] Add a workflow for website deployment preview](https://github.com/layer5labs/meshery-extensions-packages/issues/163)
+- [New section for Highlighting User Profiles of Layer5 Cloud](https://github.com/layer5labs/meshery-extensions-packages/issues/128)
+- [Badge flap different colour issue in the Layer5 recognition program](https://github.com/layer5labs/meshery-extensions-packages/issues/444)
+
+## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+
+- [[Feature] Reading Time and Word Count in Status Bar](https://github.com/lokus-ai/lokus/issues/130)
+- [[Feature] Page Preview on Hover - Basic Version](https://github.com/lokus-ai/lokus/issues/133)
+- [[Feature] Obsidian Migration Dialog UI](https://github.com/lokus-ai/lokus/issues/140)
+- [[Feature] Detect Obsidian Vault on Workspace Open](https://github.com/lokus-ai/lokus/issues/139)
+- [[Feature] Bookmarks System - Phase 1: Basic File Bookmarks](https://github.com/lokus-ai/lokus/issues/134)
+- [[Feature] Audio File Embedding (Video in Phase 2)](https://github.com/lokus-ai/lokus/issues/132)
+- [[Feature] Callouts/Admonitions - Phase 1: Basic Implementation](https://github.com/lokus-ai/lokus/issues/131)
+- [🎨 Feature: Better Empty State & Welcome Screen](https://github.com/lokus-ai/lokus/issues/57)
+- [📊 Feature: Word & Character Count in Status Bar](https://github.com/lokus-ai/lokus/issues/54)
+
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [Mobile UX: unclear how to view document before signing](https://github.com/LibreSign/libresign/issues/5274)
+- [Initial implementation of Jest](https://github.com/LibreSign/libresign/issues/5062)
+- [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
+- [Replace the screenshot at README.md by a screenshot of newest interface](https://github.com/LibreSign/libresign/issues/5104)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [Misleading scale/offset defaults in voxel shapes](https://github.com/CesiumGS/cesium/issues/12782)
+- [Error in quotation viewer.ellipsoid.](https://github.com/CesiumGS/cesium/issues/12878)
+
+## [Rohit-554/FirstLeaf](https://github.com/Rohit-554/FirstLeaf)
+
+- [Fix this screen layout](https://github.com/Rohit-554/FirstLeaf/issues/62)
+- [Fix the light mode feature of the current website.](https://github.com/Rohit-554/FirstLeaf/issues/67)
+- [Add alternative color themes/palettes](https://github.com/Rohit-554/FirstLeaf/issues/27)
+
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
+
+- [Make a better icon for the project.](https://github.com/physicshub/physicshub.github.io/issues/11)
+- [[Bug]: When “enable trail” is switched, background color changes unexpectedly.](https://github.com/physicshub/physicshub.github.io/issues/14)
+- [Finish every theory section in simulations. [more people can work for this issues]](https://github.com/physicshub/physicshub.github.io/issues/13)
+- [more subtitles](https://github.com/physicshub/physicshub.github.io/issues/6)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [[UI] White labeling page active tab text color fix](https://github.com/layer5io/docs/issues/818)
+
 ## [neomjs/neo](https://github.com/neomjs/neo)
 
+- [Create Test Plan for component.Label](https://github.com/neomjs/neo/issues/7488)
 - [Define the "Sighted" Development Workflow](https://github.com/neomjs/neo/issues/7388)
 - [Enhance StateProvider for Direct Record Property Binding](https://github.com/neomjs/neo/issues/6932)
 - [Bug: ChromaDB Fails on x64 Systems Without WSL](https://github.com/neomjs/neo/issues/7596)
 - [MCP Server: Implement Knowledge Server Scaffold](https://github.com/neomjs/neo/issues/7403)
 - [Create Test Plan for form.field.Password](https://github.com/neomjs/neo/issues/7476)
-- [Create Test Plan for component.Label](https://github.com/neomjs/neo/issues/7488)
 - [Create Test Plan for component.Video](https://github.com/neomjs/neo/issues/7489)
 - [functional.component.Base: enhance the `destroy()` signature](https://github.com/neomjs/neo/issues/7062)
 - [Create Component Test Plans (Hacktoberfest Cookbook)](https://github.com/neomjs/neo/issues/7475)
@@ -52,240 +315,4 @@ This list gets updated every day at midnight.
 - [Re-framing the VDOM - Neo.mjs's Lightweight Messaging Protocol](https://github.com/neomjs/neo/issues/7307)
 - [Exploration Quest: Make the AI Aware of `buildScripts`](https://github.com/neomjs/neo/issues/7306)
 - [A Beginner's Guide to View Controllers](https://github.com/neomjs/neo/issues/7298)
-
-## [kiigame/adventure_engine](https://github.com/kiigame/adventure_engine)
-
-- [Improve UX when dragging items over inventory arrows](https://github.com/kiigame/adventure_engine/issues/122)
-- [LZ: Use npc_monologue on exit doors (zombie growling)](https://github.com/kiigame/adventure_engine/issues/97)
-- [Improve character speech bubble tail placement](https://github.com/kiigame/adventure_engine/issues/238)
-- [LZ: Use glue on either poster or wall](https://github.com/kiigame/adventure_engine/issues/103)
-- [LZ: A waking-up animation for the player character](https://github.com/kiigame/adventure_engine/issues/88)
-- [Prettier inventory arrows](https://github.com/kiigame/adventure_engine/issues/90)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
-- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[Catalog] Publish Cloudnative Apps to Catalog](https://github.com/meshery/meshery/issues/12111)
-- [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
-- [[UI] Migrate Playwright models spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15372)
-- [[mesheryctl] Install: Support new Meshery Adapter for Nighthawk](https://github.com/meshery/meshery/issues/10371)
-- [[Template] Create a Gantt Chart template](https://github.com/meshery/meshery/issues/12461)
-- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
-- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
-- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
-- [Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter](https://github.com/HeyPuter/puter/issues/1516)
-- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/1514)
-- [Complete the Igbo translation of Puter](https://github.com/HeyPuter/puter/issues/1521)
-
-## [hackforla/website](https://github.com/hackforla/website/pull/8377)
-
-- [Completed issue #7382 - Added git-handle variable to Bonnie](https://github.com/hackforla/website/pull/8377)
-- [Add github-handle for Bonnie Wolfe in _projects/website.md](https://github.com/hackforla/website/issues/7382)
-- [Remove "Express" Label from Civic Tech Jobs Page](https://github.com/hackforla/website/pull/8371)
-- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8375)
-- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
-- [Update Project Profile: Civic Tech Jobs (Remove Tech: Express)](https://github.com/hackforla/website/issues/8278)
-- [Update Project Profile: Civic Tech Jobs Remove Terence Lo](https://github.com/hackforla/website/issues/8287)
-- [Update Project Profile: Hackforla.org Website Add Xavier Neal-Carson](https://github.com/hackforla/website/issues/8361)
-- [Update Project Profile: Hackforla.org Website Add Darshin Van Parijs](https://github.com/hackforla/website/issues/8360)
-- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8362)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8279)
-- [Update Project Profile: Civic Tech Jobs - Add Jason Shi](https://github.com/hackforla/website/issues/8111)
-- [Update Project Profile: Civic Tech Jobs Add Gowthami Cherukuri](https://github.com/hackforla/website/issues/8282)
-- [Update Project Profile: Hackforla.org Website Add Phalguni Kambhalur](https://github.com/hackforla/website/issues/8347)
-- [Update Project Profile: Hackforla.org Website Remove Samhitha Kamma](https://github.com/hackforla/website/issues/8346)
-- [ER: Rationalizing the sponsors and partners info in code base](https://github.com/hackforla/website/issues/6819)
-- [Update Project Profile: HackforLA Website Add Donovan Vernon](https://github.com/hackforla/website/issues/8329)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-
-## [stjude/proteinpaint](https://github.com/stjude/proteinpaint)
-
-- [rust bigtools](https://github.com/stjude/proteinpaint/issues/3759)
-
-## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
-
-- [Merge DraggableList implementations](https://github.com/openedx/frontend-app-authoring/issues/2490)
-
-## [CCU-Computing/490-project-clubcentric](https://github.com/CCU-Computing/490-project-clubcentric)
-
-- [Rewrite user stories to break them down into smaller user stories and basic elements.](https://github.com/CCU-Computing/490-project-clubcentric/issues/4)
-
-## [Talkup-TPLM-PT3/Backend](https://github.com/Talkup-TPLM-PT3/Backend)
-
-- [[Feature] Middleware – Validasi Input & Global Error Handling](https://github.com/Talkup-TPLM-PT3/Backend/issues/8)
-- [[Feature] Konseling – Pengajuan oleh Siswa](https://github.com/Talkup-TPLM-PT3/Backend/issues/7)
-- [[Feature] Forum Balasan – Create & Read](https://github.com/Talkup-TPLM-PT3/Backend/issues/6)
-- [[Feature] Forum Diskusi – Create & Read](https://github.com/Talkup-TPLM-PT3/Backend/issues/5)
-
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
-
-- [Highlight custom token rounding and its potential impact](https://github.com/XRPLF/xrpl-dev-portal/issues/1389)
-- [Include links to js.xrpl.org from Get Started Using JavaScript Library](https://github.com/XRPLF/xrpl-dev-portal/issues/1795)
-- [Community page: conversation topic text should be link](https://github.com/XRPLF/xrpl-dev-portal/issues/2333)
-- [Update `server_definitions` docs to include the `hash` field](https://github.com/XRPLF/xrpl-dev-portal/issues/3167)
-- [Document building and running rippled on Windows](https://github.com/XRPLF/xrpl-dev-portal/issues/908)
-- [Remove common fields from ledger entry reference tables](https://github.com/XRPLF/xrpl-dev-portal/issues/3238)
-
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-
-- [Clarify that duration filter is applied to individual spans and not traces](https://github.com/jaegertracing/jaeger-ui/issues/397)
-- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
-- [Help needed with upgrading dependencies](https://github.com/jaegertracing/jaeger-ui/issues/1199)
-- [[chore]: Fix eslint warnings](https://github.com/jaegertracing/jaeger-ui/issues/1608)
-- [[Feature]: Automate release process](https://github.com/jaegertracing/jaeger-ui/issues/3056)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [SyntaxError in `node:perf_hooks` documentation](https://github.com/nodejs/node/issues/60368)
-- [Improve the `ERR_AMBIGUOUS_MODULE_SYNTAX` error message](https://github.com/nodejs/node/issues/60322)
-- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
-- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
-- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
-- [ESM import of `http` is slower compared to CommonJS](https://github.com/nodejs/node/issues/59686)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [Inconsistent validation of custom signals](https://github.com/nodejs/node/issues/44749)
-
-## [toribio04/Hangman](https://github.com/toribio04/Hangman)
-
-- [Racha y mas palabras](https://github.com/toribio04/Hangman/issues/4)
-- [descripcion del juego](https://github.com/toribio04/Hangman/issues/2)
-- [referencias](https://github.com/toribio04/Hangman/issues/1)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [Large Image Sizes and PNG Format Causing Performance Issues.](https://github.com/layer5io/layer5/issues/5854)
-- [Content overflowing in different resolution](https://github.com/layer5io/layer5/issues/7051)
-- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
-- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
-- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
-- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
-- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
-
-## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
-
-- [[Feature]: Create `BaseMenu` component to give all menus a consistent look and feel](https://github.com/cuttle-cards/cuttle/issues/514)
-- [[DevEx]: Clean up and centralize the "Waiting for Game to Start" overlays](https://github.com/cuttle-cards/cuttle/issues/806)
-
-## [DevByte-Community/Community-API-Backend](https://github.com/DevByte-Community/Community-API-Backend)
-
-- [CRU Learning Hub](https://github.com/DevByte-Community/Community-API-Backend/issues/32)
-- [Implement Endpoint to Add New Skill (Admin Only)](https://github.com/DevByte-Community/Community-API-Backend/issues/20)
-- [Implement Endpoint to Delete Skill (Admin Only)](https://github.com/DevByte-Community/Community-API-Backend/issues/22)
-- [Implement Endpoint to Update Skills (Admin only)](https://github.com/DevByte-Community/Community-API-Backend/issues/21)
-- [Implement User Logout](https://github.com/DevByte-Community/Community-API-Backend/issues/14)
-
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
-
-- [Implement Condition Immunities](https://github.com/MetaMorphic-Digital/draw-steel/issues/704)
-- [Add Surprised as a condition](https://github.com/MetaMorphic-Digital/draw-steel/issues/203)
-- [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
-- [Automatically award Caelian (Common) to player characters](https://github.com/MetaMorphic-Digital/draw-steel/issues/855)
-- [Add descriptions to CONFIG entries](https://github.com/MetaMorphic-Digital/draw-steel/issues/11)
-
-## [processing/p5.js](https://github.com/processing/p5.js)
-
-- [[2.0] Deprecate `array()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8151)
-- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
-- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
-- [[2.0] Add array, vector overloads to `createVector()` for consistency](https://github.com/processing/p5.js/issues/8157)
-- [[p5.js 2.0 Bug Report]: p5 reference error for p5.MediaElement](https://github.com/processing/p5.js/issues/7968)
-- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
-- [new getCamera function for V1 & V2](https://github.com/processing/p5.js/issues/8097)
-
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
-- [enh: add TTS playback options](https://github.com/open-webui/open-webui/issues/3023)
-- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
-
-## [Exeter-Computer-Science-Society/hack-sw-2](https://github.com/Exeter-Computer-Science-Society/hack-sw-2)
-
-- [Top Bar Logo Too Big](https://github.com/Exeter-Computer-Science-Society/hack-sw-2/issues/27)
-- [Update Logos](https://github.com/Exeter-Computer-Science-Society/hack-sw-2/issues/12)
-
-## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
-
-- [more subtitles](https://github.com/physicshub/physicshub.github.io/issues/6)
-- [Make a better icon for the project.](https://github.com/physicshub/physicshub.github.io/issues/11)
-- [Finish every theory section in simulations. [more people can work for this issues]](https://github.com/physicshub/physicshub.github.io/issues/13)
-- [[Bug]: When “enable trail” is switched, background color changes unexpectedly.](https://github.com/physicshub/physicshub.github.io/issues/14)
-
-## [commitra/vanilla-verse](https://github.com/commitra/vanilla-verse)
-
-- [add precipitation paramater](https://github.com/commitra/vanilla-verse/issues/122)
-- [Feat: Make Rock Paper Scissors + 1](https://github.com/commitra/vanilla-verse/issues/120)
-- [Feat : Implement Tic-Tac-Toe with better ui](https://github.com/commitra/vanilla-verse/issues/57)
-- [Enhancement of form UI](https://github.com/commitra/vanilla-verse/issues/85)
-- [Add theme, sounds, buttons, and difficulty levels to memory match](https://github.com/commitra/vanilla-verse/issues/107)
-- [2048: Improve the UI](https://github.com/commitra/vanilla-verse/issues/103)
-- [Feat : Add Light & Dark Theme Support to Notes App](https://github.com/commitra/vanilla-verse/issues/100)
-- [Feat : Enhance Pomodoro Timer App with Task Management Feature](https://github.com/commitra/vanilla-verse/issues/99)
-- [Feat: Random Colours for Theme Switcher](https://github.com/commitra/vanilla-verse/issues/73)
-- [Added back to home page button & theme toggle button](https://github.com/commitra/vanilla-verse/issues/90)
-- [Feat : Improve the UI of the Encryption and Decryption page](https://github.com/commitra/vanilla-verse/issues/61)
-- [Feat: Add boundary mode](https://github.com/commitra/vanilla-verse/issues/66)
-- [Feat : Pomodoro Stats History](https://github.com/commitra/vanilla-verse/issues/54)
-- [Feat: Enhance Image Slider functionality](https://github.com/commitra/vanilla-verse/issues/12)
-- [Mode toggle button top of the Todo](https://github.com/commitra/vanilla-verse/issues/41)
-- [Feat: Enhance Quiz app features](https://github.com/commitra/vanilla-verse/issues/10)
-- [Feat : Implement Number Guessing Game Logic](https://github.com/commitra/vanilla-verse/issues/48)
-- [Feat: Keyboard shortcut for Search Bar](https://github.com/commitra/vanilla-verse/issues/36)
-- [Feat: Enhance the UI of landing Page](https://github.com/commitra/vanilla-verse/issues/16)
-- [Feat: Add Pomodoro settings](https://github.com/commitra/vanilla-verse/issues/11)
-
-## [Limeload/SpendWise](https://github.com/Limeload/SpendWise)
-
-- [API Documentation with Endpoint Details](https://github.com/Limeload/SpendWise/issues/22)
-- [Create Budget and Transaction Forms](https://github.com/Limeload/SpendWise/issues/9)
-- [Create Dashboard UI for Budget Overview](https://github.com/Limeload/SpendWise/issues/6)
-- [Set Up User Authentication (Frontend)](https://github.com/Limeload/SpendWise/issues/8)
-- [User Guide and Onboarding Documentation](https://github.com/Limeload/SpendWise/issues/23)
-- [Design and Implement Database Schema](https://github.com/Limeload/SpendWise/issues/2)
-- [Testing Strategy and Coverage Documentation](https://github.com/Limeload/SpendWise/issues/25)
-
-## [OSC/ondemand](https://github.com/OSC/ondemand)
-
-- [add rootCA to example share](https://github.com/OSC/ondemand/issues/1915)
-- [cluster config errors are ambiguous](https://github.com/OSC/ondemand/issues/1599)
-- [add alt text to welcome logo](https://github.com/OSC/ondemand/issues/2067)
-- [New title for files app ](https://github.com/OSC/ondemand/issues/2078)
-- [RPMs need to make /etc/ood/config/ondemand.d directory](https://github.com/OSC/ondemand/issues/2768)
-- [Provide access to the session (at least session.id) for running jobs view.html.erb ](https://github.com/OSC/ondemand/issues/3565)
-- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
-- [FileExplorer: Maybe bring back ctrl-c and ctrl-v keyboard shortcuts](https://github.com/OSC/ondemand/issues/280)
-- [Add tests for #1482](https://github.com/OSC/ondemand/issues/1483)
-- [changelog dates are inconsistent](https://github.com/OSC/ondemand/issues/1263)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Help Center & Knowledge Base Actions for Zoho Desk](https://github.com/PipedreamHQ/pipedream/issues/18644)
-- [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
-- [Microsoft Dynamics – opportunity triggers: new opportunity, stage change, close date change, probability change, revenue change](https://github.com/PipedreamHQ/pipedream/issues/18819)
-- [Microsoft Dynamics – opportunity triggers: ownership change, won/lost, reopened, new contact, task/meeting/email logged](https://github.com/PipedreamHQ/pipedream/issues/18820)
-- [Microsoft Dynamics – account triggers: new account, ownership changed, status changed, new contact added, inactive/reactivated](https://github.com/PipedreamHQ/pipedream/issues/18818)
-- [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
-- [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/18719)
-- [[ACTION] Microsoft Booking](https://github.com/PipedreamHQ/pipedream/issues/18231)
-- [[ACTION] - Affinity CRM MCP](https://github.com/PipedreamHQ/pipedream/issues/18318)
-- [[ACTION] MCP Tools for Larksuite](https://github.com/PipedreamHQ/pipedream/issues/18460)
 
