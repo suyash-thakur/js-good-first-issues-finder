@@ -1,43 +1,49 @@
+# top-level (keep yours)
 name: Refresh Good First Issues (daily)
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # run daily at midnight UTC
-  workflow_dispatch:            # allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
 
-permissions:
-  contents: write               # allows committing and pushing changes
+permissions: write-all  # ensure the job can push
 
 jobs:
-  update-list:
+  update-readme:
     runs-on: ubuntu-latest
-    env:
-      API_KEY: ${{ secrets.API_KEY }}
-      VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # we need full history to rebase
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm ci || npm install
+      - name: Install deps
+        run: npm ci || npm i
 
-      - name: Generate latest issues list
+      - name: Generate latest list
         run: node index.js
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
 
-      - name: Commit and push changes
+      # NEW: make sure local branch is rebased on latest remote
+      - name: Sync with remote
+        run: |
+          BRANCH="${{ github.ref_name }}"
+          git fetch origin "$BRANCH"
+          git checkout "$BRANCH"
+          git pull --rebase origin "$BRANCH" || true
+
+      - name: Commit and push updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
           git add -A
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: refresh issues list [skip ci]"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
 
-      - name: Trigger Vercel deploy (optional)
-        if: ${{ env.VERCEL_DEPLOY_HOOK_URL != '' }}
-        run: curl -X POST "$VERCEL_DEPLOY_HOOK_URL"
+      
