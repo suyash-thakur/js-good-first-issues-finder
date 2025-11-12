@@ -1,34 +1,43 @@
-name: Update Readme
+name: Refresh Good First Issues (daily)
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *"        # run daily at midnight UTC
+  workflow_dispatch:            # allow manual trigger
+
+permissions:
+  contents: write               # allows committing and pushing changes
 
 jobs:
-  update-readme:
+  update-list:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    env:
+      API_KEY: ${{ secrets.API_KEY }}
+      VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          node-version: '16.x'
+          node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci || npm install
 
-      - name: Run script
+      - name: Generate latest issues list
         run: node index.js
-        env:
-          API_KEY: ${{ secrets.API_KEY }}
-          
-      - name: Create commit
+
+      - name: Commit and push changes
         run: |
-              git config user.name "suyash-thakur"
-              git config user.email "suyashthakur910@gmail.com"
-              git add README.md index.html
-              git commit -m "Update README"
-              git push
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: refresh issues list [skip ci]"
+          git push
+
+      - name: Trigger Vercel deploy (optional)
+        if: ${{ env.VERCEL_DEPLOY_HOOK_URL != '' }}
+        run: curl -X POST "$VERCEL_DEPLOY_HOOK_URL"
