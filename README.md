@@ -4,25 +4,26 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [keyteki/keyteki](https://github.com/keyteki/keyteki)
+
+- [Whirlpool makes game forget Enlist Numeri](https://github.com/keyteki/keyteki/issues/3768)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [[Website] Enhance all model pages in catalog with link to how to import](https://github.com/meshery/meshery.io/issues/2388)
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Allow Players to `Roll Initiative` and Automate promp](https://github.com/MetaMorphic-Digital/draw-steel/issues/531)
+- [Automatically award Caelian (Common) to player characters](https://github.com/MetaMorphic-Digital/draw-steel/issues/855)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
 
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Add turbo mode toggle](https://github.com/micahlt/itchy-native/issues/95)
+- [Search by project ID](https://github.com/micahlt/itchy-native/issues/94)
+- [History implementation](https://github.com/micahlt/itchy-native/issues/53)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -38,53 +39,77 @@ This list gets updated every day at midnight.
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
 - [[Test] E2E playwright test for Meshery Dashboard](https://github.com/meshery/meshery/issues/14565)
 
-## [ucsb-cs156-f25/proj-courses-f25-04](https://github.com/ucsb-cs156-f25/proj-courses-f25-04)
+## [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)
 
-- [Fix incorrect hard coded backup link that is specific to F22.](https://github.com/ucsb-cs156-f25/proj-courses-f25-04/issues/32)
-- [Restore title "UCSB Courses" (not "Vite + React") and if possible, favicon.](https://github.com/ucsb-cs156-f25/proj-courses-f25-04/issues/8)
+- [✨Feature: Implement Dark Mode Toggle in Settings](https://github.com/QuoteVote/quotevote-monorepo/issues/107)
+- [Enhancement: Descriptive Open Graph Metadata for Specific Quote Link Shares](https://github.com/QuoteVote/quotevote-monorepo/issues/230)
+- [✉️ Feature: Add “Request Invite” Button to Mobile Header (Pre-Login)](https://github.com/QuoteVote/quotevote-monorepo/issues/251)
+- [🐛 Bug: Chat Sidebar Items Do Not Link to Profile or Post](https://github.com/QuoteVote/quotevote-monorepo/issues/118)
+- [✨Feature: Auto-Link URLs in Post Text and Comments Or Chats](https://github.com/QuoteVote/quotevote-monorepo/issues/122)
+- [🐛 Bug: Voting Popup Comment Input Hard to Focus on Mobile iOS](https://github.com/QuoteVote/quotevote-monorepo/issues/114)
 
-## [helm/helm-www](https://github.com/helm/helm-www)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[docs] address missing topics in docs](https://github.com/helm/helm-www/issues/266)
-- [Helm Template Comments formatting inconsistent/wrong](https://github.com/helm/helm-www/issues/1254)
-- [Add trick for accessing chart names inside Values with dashes to Best Practices documentation](https://github.com/helm/helm-www/issues/1272)
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [google/closure-compiler](https://github.com/google/closure-compiler)
+## [Pmahdian/Nodejs-cms](https://github.com/Pmahdian/Nodejs-cms)
 
-- [Bad type annotation when documenting an optional parameter value](https://github.com/google/closure-compiler/issues/3767)
+- [Feature: Social Interactions System](https://github.com/Pmahdian/Nodejs-cms/issues/24)
+- [🐳 Dockerize Application](https://github.com/Pmahdian/Nodejs-cms/issues/5)
 
-## [ucsb-cs156-f25/proj-happycows-f25-16](https://github.com/ucsb-cs156-f25/proj-happycows-f25-16)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156-f25/proj-happycows-f25-16/issues/7)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156-f25/proj-happycows-f25-16/issues/4)
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
 
-## [ucsb-cs156-f25/proj-happycows-f25-15](https://github.com/ucsb-cs156-f25/proj-happycows-f25-15)
+## [badges/shields](https://github.com/badges/shields)
 
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156-f25/proj-happycows-f25-15/issues/2)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156-f25/proj-happycows-f25-15/issues/7)
+- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
 
-## [ucsb-cs156-f25/proj-happycows-f25-14](https://github.com/ucsb-cs156-f25/proj-happycows-f25-14)
+## [jukasdrj/bookstrack-backend](https://github.com/jukasdrj/bookstrack-backend)
 
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156-f25/proj-happycows-f25-14/issues/2)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156-f25/proj-happycows-f25-14/issues/6)
+- [test: Add payload validation to WebSocket mock methods](https://github.com/jukasdrj/bookstrack-backend/issues/115)
+- [refactor: Extract hardcoded progress values to constants in AI scanner](https://github.com/jukasdrj/bookstrack-backend/issues/112)
+- [📝 LOW: Replace placeholder 'Issue #XXX' with actual issue #68 in 8 files](https://github.com/jukasdrj/bookstrack-backend/issues/104)
 
-## [ucsb-cs156-f25/proj-happycows-f25-13](https://github.com/ucsb-cs156-f25/proj-happycows-f25-13)
+## [ucsb-cs156-f25/proj-dining-f25-07](https://github.com/ucsb-cs156-f25/proj-dining-f25-07)
 
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156-f25/proj-happycows-f25-13/issues/17)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156-f25/proj-happycows-f25-13/issues/18)
+- [FEATURE: Replace "Example" Brand with "Dining".](https://github.com/ucsb-cs156-f25/proj-dining-f25-07/issues/8)
+- [FEATURE: Remove "Placeholder" from menu bar, and code base.](https://github.com/ucsb-cs156-f25/proj-dining-f25-07/issues/10)
+- [SMALL FEATURE: Add an Endpoint for an Individual Review](https://github.com/ucsb-cs156-f25/proj-dining-f25-07/issues/6)
 
-## [ucsb-cs156/proj-happycows](https://github.com/ucsb-cs156/proj-happycows)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156/proj-happycows/issues/186)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156/proj-happycows/issues/150)
+- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [Improve the `ERR_AMBIGUOUS_MODULE_SYNTAX` error message](https://github.com/nodejs/node/issues/60322)
+- [Error [ERR_INTERNAL_ASSERTION]: TypeError [ERR_INVALID_THIS]: Value of "this" must be of type EventTarget](https://github.com/nodejs/node/issues/46323)
+- [Inconsistent validation of custom signals](https://github.com/nodejs/node/issues/44749)
+- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [code3-dev/ProxyCloud-GUI](https://github.com/code3-dev/ProxyCloud-GUI)
 
-- [[TYPO] - Missing Action for Dwarf - Thick Skin](https://github.com/Foundryborne/daggerheart/issues/1209)
+- [osascript Access Problem [MacOS]](https://github.com/code3-dev/ProxyCloud-GUI/issues/5)
 
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+## [neomjs/neo](https://github.com/neomjs/neo)
 
-- [Bug: Warning emoji in boxen titles causes alignment issues](https://github.com/eyaltoledano/claude-task-master/issues/1394)
+- [Refactor - Store Composition with Collection](https://github.com/neomjs/neo/issues/6984)
+- [Define the "Sighted" Development Workflow](https://github.com/neomjs/neo/issues/7388)
+- [Enhance StateProvider for Direct Record Property Binding](https://github.com/neomjs/neo/issues/6932)
+
+## [neos/neos-ui](https://github.com/neos/neos-ui)
+
+- [Use postgres on e2e to speedup the UI tests](https://github.com/neos/neos-ui/issues/2865)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
 
 ## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
 
@@ -102,16 +127,97 @@ This list gets updated every day at midnight.
 - [[Feature] Audio File Embedding (Video in Phase 2)](https://github.com/lokus-ai/lokus/issues/132)
 - [[Feature] Callouts/Admonitions - Phase 1: Basic Implementation](https://github.com/lokus-ai/lokus/issues/131)
 
-## [Pmahdian/Nodejs-cms](https://github.com/Pmahdian/Nodejs-cms)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [Feature: Social Interactions System](https://github.com/Pmahdian/Nodejs-cms/issues/24)
-- [🐳 Dockerize Application](https://github.com/Pmahdian/Nodejs-cms/issues/5)
+- [How to write a compose.yaml for rootless setup?](https://github.com/louislam/uptime-kuma/issues/6299)
+- [Improved Notification Dropdown with Category Grouping](https://github.com/louislam/uptime-kuma/issues/5767)
+- [improve helptexts around formatting in the footer/header description boxes](https://github.com/louislam/uptime-kuma/issues/6180)
+
+## [ucsb-cs156-f25/proj-dining-f25-08](https://github.com/ucsb-cs156-f25/proj-dining-f25-08)
+
+- [FEATURE: Replace "Example" Brand with "Dining".](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/15)
+- [FEATURE: Remove "Placeholder" from menu bar, and code base.](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/13)
+- [SMALL FEATURE: Add an Endpoint for an Individual Review](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/7)
+- [REFACTOR: replace relative paths in imports with absolute paths.](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/9)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [enh: add TTS playback options](https://github.com/open-webui/open-webui/issues/3023)
+- [enhancement: more keyboard shortcuts](https://github.com/open-webui/open-webui/issues/1008)
+
+## [helm/helm-www](https://github.com/helm/helm-www)
+
+- [[docs] address missing topics in docs](https://github.com/helm/helm-www/issues/266)
+- [Helm Template Comments formatting inconsistent/wrong](https://github.com/helm/helm-www/issues/1254)
+- [Add trick for accessing chart names inside Values with dashes to Best Practices documentation](https://github.com/helm/helm-www/issues/1272)
+
+## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
+
+- [Add likes view](https://github.com/ClearskyApp06/ClearskyUI/issues/182)
+- [Implement new query param passing & pagination format (V2 of API)](https://github.com/ClearskyApp06/ClearskyUI/issues/383)
+- [Fix as of timestamp on homepage](https://github.com/ClearskyApp06/ClearskyUI/issues/273)
+
+## [ucsb-cs156-f25/proj-courses-f25-04](https://github.com/ucsb-cs156-f25/proj-courses-f25-04)
+
+- [Fix incorrect hard coded backup link that is specific to F22.](https://github.com/ucsb-cs156-f25/proj-courses-f25-04/issues/32)
+- [Restore title "UCSB Courses" (not "Vite + React") and if possible, favicon.](https://github.com/ucsb-cs156-f25/proj-courses-f25-04/issues/8)
+
+## [nextcloud/text](https://github.com/nextcloud/text)
+
+- [Support Latex Math commands ](https://github.com/nextcloud/text/issues/6935)
+- [Color markings for .log files, not for .txt files](https://github.com/nextcloud/text/issues/5253)
+
+## [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+
+- [Remove the dependencies on the UI of js backend files](https://github.com/kiwix/kiwix-js/issues/813)
+
+## [mui/material-ui](https://github.com/mui/material-ui)
+
+- [[textfield] Typings for `formHelperText` slot missing data attributes](https://github.com/mui/material-ui/issues/47230)
+- [Incorrect Theme type in sx prop when using css vars and custom color scheme](https://github.com/mui/material-ui/issues/47114)
+
+## [WebCoder49/code-input](https://github.com/WebCoder49/code-input)
+
+- [Prevent UI hangs in find and replace / go to line processing](https://github.com/WebCoder49/code-input/issues/202)
+
+## [bidyut26maji/FoodSaver](https://github.com/bidyut26maji/FoodSaver)
+
+- [Need a Logo for Our Website!!](https://github.com/bidyut26maji/FoodSaver/issues/43)
+- [UI Fix: Improve “Get Started” Button & Add New “DONATE” Button](https://github.com/bidyut26maji/FoodSaver/issues/15)
+
+## [hackforla/website](https://github.com/hackforla/website)
+
+- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8426)
+- [Update Github handle for Santiago Vidal: Website](https://github.com/hackforla/website/issues/8423)
+- [added github-handle variable to Seymour in Lucky Parking Project Team](https://github.com/hackforla/website/pull/8424)
+- [Add github-handle for Seymour Liao in lucky-parking.md](https://github.com/hackforla/website/issues/7802)
+- [Fixes #7334](https://github.com/hackforla/website/pull/8422)
+- [Add github-handle for Rabia Shaikh in youthjusticenav.md](https://github.com/hackforla/website/issues/7334)
+- [Update Project Profile: HackforLA Website Add Ryan Keller](https://github.com/hackforla/website/issues/8398)
+- [Added github-handle variable for Bonnie Wolf](https://github.com/hackforla/website/pull/8419)
+- [Added github handle under Anousha](https://github.com/hackforla/website/pull/8418)
+- [Add github-handle for Bonnie Wolfe in youthjusticenav.md](https://github.com/hackforla/website/issues/7332)
+- [Add github-handle for Anousha Shadrach in youthjusticenav.md](https://github.com/hackforla/website/issues/7337)
+- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8362)
+- [Replace `Github` with `GitHub` in _guide-pages/2FA.html](https://github.com/hackforla/website/issues/7418)
+- [Update Community of Practice: DevOps Update GitHub Link](https://github.com/hackforla/website/issues/8389)
+- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+- [Update Community of Practice: DevOps Update Name](https://github.com/hackforla/website/issues/8388)
+- [Update Community of Practice: UI/UX Remove Julia Gab](https://github.com/hackforla/website/issues/8387)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
+- [[ACTION] Hootsuite: List social profiles](https://github.com/PipedreamHQ/pipedream/issues/19083)
+- [[ACTION] Trengo - Send a ticket message](https://github.com/PipedreamHQ/pipedream/issues/19058)
 - [[ACTION] Github - Update a Pull Request](https://github.com/PipedreamHQ/pipedream/issues/19073)
 - [[ACTION] Sage CRM new actions](https://github.com/PipedreamHQ/pipedream/issues/19024)
-- [[ACTION] Trengo - Send a ticket message](https://github.com/PipedreamHQ/pipedream/issues/19058)
 - [[ACTION] gorgias - get ticket message](https://github.com/PipedreamHQ/pipedream/issues/19021)
 - [[ACTION] Booking Experts - availability + extended endpoints for bookings](https://github.com/PipedreamHQ/pipedream/issues/19046)
 - [[ACTION] Metabase /query/{export-format} API](https://github.com/PipedreamHQ/pipedream/issues/18970)
@@ -120,196 +226,121 @@ This list gets updated every day at midnight.
 - [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
 - [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
 - [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/18719)
 
-## [udlose/MermaidPad](https://github.com/udlose/MermaidPad)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [Add 'About' Dialog to top-menu](https://github.com/udlose/MermaidPad/issues/115)
-- [Add Confirmation Dialog when Clear button is pressed](https://github.com/udlose/MermaidPad/issues/162)
-- [Add theme support with pre-defined themes](https://github.com/udlose/MermaidPad/issues/187)
-- [Certain diagrams do not render correctly](https://github.com/udlose/MermaidPad/issues/181)
-- [Add Examples](https://github.com/udlose/MermaidPad/issues/182)
-- [Add Clipboard Integration](https://github.com/udlose/MermaidPad/issues/106)
-- [Add Zoom/Pan to render pane](https://github.com/udlose/MermaidPad/issues/32)
-- [Add right-click menu for TextEditor](https://github.com/udlose/MermaidPad/issues/170)
-- [Add right-click menu for WebView](https://github.com/udlose/MermaidPad/issues/179)
-- [Create Installer for distribution on Windows](https://github.com/udlose/MermaidPad/issues/144)
-- [Display Canvas Size for WebView to UI](https://github.com/udlose/MermaidPad/issues/168)
-- [Export button should be disabled when there is no diagram rendered in the WebView](https://github.com/udlose/MermaidPad/issues/163)
-- [Show graph object dependency flow (highlight connected connectors)](https://github.com/udlose/MermaidPad/issues/159)
-- [Diagram "jumping" with ELK Layout on Render](https://github.com/udlose/MermaidPad/issues/153)
+- [[TYPO] - Missing Action for Dwarf - Thick Skin](https://github.com/Foundryborne/daggerheart/issues/1209)
 
-## [DevByte-Community/Community-API-Backend](https://github.com/DevByte-Community/Community-API-Backend)
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
 
-- [CRU Learning Hub](https://github.com/DevByte-Community/Community-API-Backend/issues/32)
+- [[Feat]: Enhance about page](https://github.com/physicshub/physicshub.github.io/issues/110)
+- [[Feat]: Enhance simulations page.](https://github.com/physicshub/physicshub.github.io/issues/100)
+- [[Bug]: Ball in simulations lose power every render/bounce](https://github.com/physicshub/physicshub.github.io/issues/109)
+- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
+- [[Bug]: In VectorsOperation Simulation, Subtraction with Parallelogram method is bugged](https://github.com/physicshub/physicshub.github.io/issues/87)
+- [[Bug]: Vectors Operations out of scale](https://github.com/physicshub/physicshub.github.io/issues/63)
+- [Make a better icon for the project.](https://github.com/physicshub/physicshub.github.io/issues/11)
 
-## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+## [doc-detective/doc-detective.github.io](https://github.com/doc-detective/doc-detective.github.io)
 
-- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
-- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+- [screenshot action docs](https://github.com/doc-detective/doc-detective.github.io/issues/56)
 
-## [grommet/grommet](https://github.com/grommet/grommet)
+## [Circuit-Overtime/elixpo_chapter](https://github.com/Circuit-Overtime/elixpo_chapter)
 
-- [TextInput, when "readOnly" is true, the icon hides](https://github.com/grommet/grommet/issues/7668)
-- [[TS] Migrate tests to .tsx](https://github.com/grommet/grommet/issues/5599)
+- [[FING]: Redesign and Improve Authentication Pages (Login & Signup) for Better UI/UX ](https://github.com/Circuit-Overtime/elixpo_chapter/issues/266)
+- [[FING]: Make the Footer Section Sleeker and More Visually Appealing](https://github.com/Circuit-Overtime/elixpo_chapter/issues/268)
+- [[FING]: Add Multiple Authentication Providers (GitHub & Facebook) Alongside Google Auth](https://github.com/Circuit-Overtime/elixpo_chapter/issues/267)
 
-## [code-charity/youtube](https://github.com/code-charity/youtube)
+## [K0lin/loglynx](https://github.com/K0lin/loglynx)
 
-- [💡policy](https://github.com/code-charity/youtube/issues/3370)
-- [🐞Default channel tab not being applied to home page](https://github.com/code-charity/youtube/issues/3082)
-- [🐞"Show video remaining duration" breaks YouTube's live stream return-to-live button](https://github.com/code-charity/youtube/issues/3333)
-- [BLOCK ALL Channels + WHITELIST](https://github.com/code-charity/youtube/issues/3351)
-- [Update Appstore version of this app](https://github.com/code-charity/youtube/issues/3365)
-- [🐞hide player button "play on tv" did not hide airplay button](https://github.com/code-charity/youtube/issues/3364)
-- [💡wish: remove links from usernames in comment section](https://github.com/code-charity/youtube/issues/3142)
-- [🐞The theatre mode in Firefox does not work the same than in Microsoft Edge. It could be a BUG.](https://github.com/code-charity/youtube/issues/3363)
-- [🐞Option under Player, Pause while I watch a 2nd video does NOT work. It is a serious BUG.](https://github.com/code-charity/youtube/issues/3362)
-- [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
-- [🐞 AntennaPod does unwanted podcast starts](https://github.com/code-charity/youtube/issues/3355)
-- [🐞The three-dot icon isn’t showing up on the main page or in the comments.](https://github.com/code-charity/youtube/issues/3354)
-- [💡The new youtube update dont allow to save more than one time a video, is really awfull that new feature when I need to save music](https://github.com/code-charity/youtube/issues/3289)
-- [custom playback speed feature not woriking](https://github.com/code-charity/youtube/issues/3275)
-- [🐞Like Button get dark invisible in fullscreen](https://github.com/code-charity/youtube/issues/3298)
-- [🐞YouTube Preventing the Popup Player From Working](https://github.com/code-charity/youtube/issues/3337)
-- [💡 Prevent loading "super resolution" as the highest video quality](https://github.com/code-charity/youtube/issues/3344)
-- [💡4 new features that are needed. Thanks.](https://github.com/code-charity/youtube/issues/3321)
-- [💡Set default auto-translate language](https://github.com/code-charity/youtube/issues/3338)
-- [💡Add Video Zoom/Crop Function for Better Visibility on Small Screens](https://github.com/code-charity/youtube/issues/3339)
-- [🐞end cards or whatever they're called are now showing up for me, even though endscreen is off](https://github.com/code-charity/youtube/issues/3286)
-- [🐞The settings of the in-player buttons - rewind & forward - do not persist for more than 2-3 days or if some other other settings (e.g., fit to window) are changed.](https://github.com/code-charity/youtube/issues/3334)
-- [💡Add a button to set "Not Interested" and "Don't show this channel" with 1 click.](https://github.com/code-charity/youtube/issues/3313)
-- [Remove "includes paid promotion" links from thumbnails.](https://github.com/code-charity/youtube/issues/2423)
-- [💡Boost (Forced) Volume as a button or an override on actual volume slider.](https://github.com/code-charity/youtube/issues/3284)
-- [🐞Live Chat "Collapsed" mode prevents reopening during live videos](https://github.com/code-charity/youtube/issues/3291)
-- [💡option to stop shorts from repeating](https://github.com/code-charity/youtube/issues/3324)
-- [🐞Header Position = Static hides the header/search bar on the YouTube homepage](https://github.com/code-charity/youtube/issues/3322)
-- [🐞Player resizing is broken](https://github.com/code-charity/youtube/issues/3319)
-- [🐞Live Chat Became Invisible When On Fullscreen](https://github.com/code-charity/youtube/issues/3318)
-- [🐞 The cinema button doesn't always show up](https://github.com/code-charity/youtube/issues/3254)
-- [Remove "experiencing interruptions find out why" popup](https://github.com/code-charity/youtube/issues/2424)
-- [🐞Can't Load Edge Extension Unpacked (Master)](https://github.com/code-charity/youtube/issues/3312)
-- [🐞Popup Player Shows YT "This video is unavailable" Error](https://github.com/code-charity/youtube/issues/3019)
-- [💡Allow music "mix" videos to be filtered out](https://github.com/code-charity/youtube/issues/3309)
-- [💡Boost Volume Button](https://github.com/code-charity/youtube/issues/3306)
-- [💡Still Missing Automatic Fit to Window](https://github.com/code-charity/youtube/issues/3303)
-- [🐞Navigating Channel Page, Specifically Home to videos = page freeze/failing to load](https://github.com/code-charity/youtube/issues/3302)
-- [💡Prevent the "In this video" panel from showing automatically in fullscreen](https://github.com/code-charity/youtube/issues/3301)
-- [New YouTube video layout breaks chapters on the sidebar](https://github.com/code-charity/youtube/issues/2324)
-- [🐞"save" button](https://github.com/code-charity/youtube/issues/3222)
-- [🐞[BUG] Issue with (always visible) progress bar](https://github.com/code-charity/youtube/issues/2896)
-- [💡skip youtuber's ads in video](https://github.com/code-charity/youtube/issues/3287)
-- [💡 Option for logarithmic volume control](https://github.com/code-charity/youtube/issues/3294)
-- [Enable Comments only for Specific Channels](https://github.com/code-charity/youtube/issues/1933)
-- [Suggestion: Sort By button (comments) - Force default to newest first ](https://github.com/code-charity/youtube/issues/1355)
-- [🐞Videos are very large on 'Home' of people channels](https://github.com/code-charity/youtube/issues/3293)
-- [🐞 Force auto-play off prevents me from playing the video](https://github.com/code-charity/youtube/issues/3288)
-- [Pause other tabs when current one is playing](https://github.com/code-charity/youtube/issues/2010)
-- [More "Queue" and "Watch Later" buttons!](https://github.com/code-charity/youtube/issues/2009)
-- [🐞Music playlist doesn't revert to 1x normal speed anymore after new update](https://github.com/code-charity/youtube/issues/3260)
-- [🐞rotate issue](https://github.com/code-charity/youtube/issues/3216)
-- [💡Button on player to toggle auto-fullscreen](https://github.com/code-charity/youtube/issues/3278)
-- [upper option list or sorting list disappears](https://github.com/code-charity/youtube/issues/3154)
-- [🐞Hide animated thumbnails does not work](https://github.com/code-charity/youtube/issues/3181)
-- [💡Implement web_watch_theater_chat flag](https://github.com/code-charity/youtube/issues/3272)
-- [🐞YouTube video fails to load or respond with Improve YouTube! enabled](https://github.com/code-charity/youtube/issues/3270)
-- [🐞Extra buttons Loop, pip, replayed scene, and screenshot duplicated with every viewed video](https://github.com/code-charity/youtube/issues/3267)
-- [🐞 Disabling the chat no longer fills the screen](https://github.com/code-charity/youtube/issues/3243)
-- [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
-- [🐞🐞🐞Incorrect header position](https://github.com/code-charity/youtube/issues/3264)
-- [🐞Pip](https://github.com/code-charity/youtube/issues/3261)
-- [💡Please add the ability to unbind hotkeys/shortcuts](https://github.com/code-charity/youtube/issues/3258)
-- [💡Mini-Player disabling PLEASE](https://github.com/code-charity/youtube/issues/3255)
+- [Fix Country Flags Display in Geographic Analytics](https://github.com/K0lin/loglynx/issues/10)
+- [Add Timeframe Selector to Executive Overview](https://github.com/K0lin/loglynx/issues/11)
 
-## [ucsb-cs156-f25/proj-courses-f25-01](https://github.com/ucsb-cs156-f25/proj-courses-f25-01)
+## [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web)
 
-- [Fix incorrect hard coded backup link that is specific to F22.](https://github.com/ucsb-cs156-f25/proj-courses-f25-01/issues/23)
-- [Restore title "UCSB Courses" (not "Vite + React") and if possible, favicon.](https://github.com/ucsb-cs156-f25/proj-courses-f25-01/issues/9)
+- [Source: allow editing author and repository reference](https://github.com/gramps-project/gramps-web/issues/57)
 
-## [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+## [nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list)
 
-- [Exporting as PNG does not give the background/color for the annotation](https://github.com/HumanSignal/label-studio/issues/2482)
-- [Labeling Hebrew text causes words to mix](https://github.com/HumanSignal/label-studio/issues/1888)
+- [Add full PWA support & cache](https://github.com/nanawel/our-shopping-list/issues/47)
 
-## [conversejs/converse.js](https://github.com/conversejs/converse.js)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Add autocomplete of possible XMPP servers when registering a new account](https://github.com/conversejs/converse.js/issues/2740)
+- [[News] add new article - “CNCF honours cloud native pioneers at 2025 community awards”](https://github.com/layer5io/layer5/issues/7124)
+- [[News] “CNCF Honors Innovators and Defenders with 2025 Community Awards at KubeCon + CloudNativeCon North America”](https://github.com/layer5io/layer5/issues/7125)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
+- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
+- [[Screenshots] Flagger under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5331)
+- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
+- [[Screenshots] AWS Elastic Kubernetes Service under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5322)
+- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [BUDEGlobalEnterprise/bude-global-tech-presentations](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations)
 
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [Storybook: Add and Update Block Editor Components stories](https://github.com/WordPress/gutenberg/issues/67165)
-
-## [GB609/batocera-ES-onArch](https://github.com/GB609/batocera-ES-onArch)
-
-- [[btc-config:generateGlobalConfiguration] command line arguments as alternative to env variables](https://github.com/GB609/batocera-ES-onArch/issues/13)
-- [[UI] provide graphical implementation of `.interaction-helpers.lib`](https://github.com/GB609/batocera-ES-onArch/issues/38)
-- [Controller image creation can't handle `&`](https://github.com/GB609/batocera-ES-onArch/issues/51)
-- [research / test AMX behavior when multiple controllers are in use](https://github.com/GB609/batocera-ES-onArch/issues/53)
-
-## [BharatSeva/HealthCare-Interface](https://github.com/BharatSeva/HealthCare-Interface)
-
-- [Enhancement: Update and Beautify the Healthcare Login Page](https://github.com/BharatSeva/HealthCare-Interface/issues/11)
-
-## [ayush-dudhani/placement-portal-frontend](https://github.com/ayush-dudhani/placement-portal-frontend)
-
-- [Sign In Page Layout](https://github.com/ayush-dudhani/placement-portal-frontend/issues/1)
-- [Landing Page Layout](https://github.com/ayush-dudhani/placement-portal-frontend/issues/2)
-
-## [ClearskyApp06/ClearskyUI](https://github.com/ClearskyApp06/ClearskyUI)
-
-- [Fix as of timestamp on homepage](https://github.com/ClearskyApp06/ClearskyUI/issues/273)
-- [Implement new query param passing & pagination format (V2 of API)](https://github.com/ClearskyApp06/ClearskyUI/issues/383)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Docs] Outdataed images in "Cloning a Design"](https://github.com/layer5io/docs/issues/785)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/1514)
-- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
-- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
-- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
-
-## [silexlabs/Silex](https://github.com/silexlabs/Silex)
-
-- [The HTML "lang" attribute of the pages should be dynamic](https://github.com/silexlabs/Silex/issues/1648)
-- [Links in footer are broken on v3.silex.me](https://github.com/silexlabs/Silex/issues/1646)
-- [Bug: Publishing a new site sometimes fails with 'could not find the job' error on first attempt](https://github.com/silexlabs/Silex/issues/1645)
-- [Bug: Saving fails if `src/` folder does not exist on FTP](https://github.com/silexlabs/Silex/issues/1644)
-
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-
-- [Feature Request: Be able to choose what disks to monitor](https://github.com/bluewave-labs/Checkmate/issues/2840)
-- [Homepage Widget](https://github.com/bluewave-labs/Checkmate/issues/2792)
-- [Successive failed pings are counted as separate incidents](https://github.com/bluewave-labs/Checkmate/issues/2860)
-- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
-- [Telegram doesn't seem to be an available notification type?](https://github.com/bluewave-labs/Checkmate/issues/2753)
-- [Allow response time chart to be displayed on status page](https://github.com/bluewave-labs/Checkmate/issues/2924)
-- [More roles and permissions (Custom roles?)](https://github.com/bluewave-labs/Checkmate/issues/2861)
-- [Display timezone setting is missing UTC](https://github.com/bluewave-labs/Checkmate/issues/2837)
-- [Add ntfy support to Checkmate](https://github.com/bluewave-labs/Checkmate/issues/2817)
-- [Upgrade the helm chart with subcharts to make it more versatile](https://github.com/bluewave-labs/Checkmate/issues/2683)
-- [Change status to maintenance mode](https://github.com/bluewave-labs/Checkmate/issues/2679)
-- [Custom Monitor Intervals](https://github.com/bluewave-labs/Checkmate/issues/2633)
-- [FE - Font-sizes should adjust to user settings](https://github.com/bluewave-labs/Checkmate/issues/1024)
-- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
-- [Add bearer/basic auth option to webhooks](https://github.com/bluewave-labs/Checkmate/issues/2369)
-- [Bulk edit monitor notification settings](https://github.com/bluewave-labs/Checkmate/issues/2320)
-- [Suggestion/Feature Request: Export reports](https://github.com/bluewave-labs/Checkmate/issues/1588)
-- [Implement monitor tagging for better grouping](https://github.com/bluewave-labs/Checkmate/issues/1546)
-- [FE - Testing Framework ](https://github.com/bluewave-labs/Checkmate/issues/923)
-- [Status Page: Custom CSS/JS/HTML overrides](https://github.com/bluewave-labs/Checkmate/issues/2863)
-- [Status Page UI - Bars not centred properly](https://github.com/bluewave-labs/Checkmate/issues/2879)
-- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [Intro to Blockchain](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/84)
+- [Machine Learning with Python](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/76)
+- [Angular](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/66)
+- [DevOps – CI/CD](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/75)
+- [SQLite](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/19)
+- [Zero Trust Architecture](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/39)
+- [OWASP Top 10](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/38)
+- [JWT Deep Dive](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/37)
+- [OAuth2 & OIDC](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/36)
+- [OpenTofu](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/35)
+- [GitHub Actions CI/CD](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/34)
+- [Cloudflare](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/33)
+- [Nginx Deep Dive](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/32)
+- [HashiCorp Vault](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/31)
+- [Prometheus & Grafana](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/30)
+- [ArgoCD / GitOps](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/29)
+- [Helm](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/28)
+- [Ansible](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/27)
+- [Terraform](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/26)
+- [Elasticsearch](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/25)
+- [Prisma ORM](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/24)
+- [Firebase](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/23)
+- [Supabase](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/22)
+- [Pandas Data Analysis](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/45)
+- [OpenProject](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/58)
+- [Dolibarr](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/57)
+- [Odoo ERP](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/56)
+- [AI Coding Assistants](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/55)
+- [Raycast / Alfred](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/54)
+- [VS Code Deep Workflow](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/53)
+- [Zettelkasten](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/51)
+- [Computer Vision Basics](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/49)
+- [RPA Automation](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/48)
+- [Airflow](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/47)
+- [Apache Kafka](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/46)
+- [Apache Superset](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/59)
+- [Appsmith / ToolJet](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/61)
+- [Vue.js](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/65)
+- [Svelte](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/67)
+- [AWS Cloud](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/72)
+- [System Design](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/74)
+- [Notion for Docs](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/52)
+- [Go (Golang)](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/1)
+- [Spring Boot](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/14)
+- [Retool](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/62)
+- [Redash](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/60)
+- [Obsidian PKM](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/50)
+- [LLMs + Vector DBs](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/44)
+- [LangChain](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/43)
+- [Secret Management](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/42)
+- [Linux Hardening](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/41)
+- [API Security](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/40)
+- [Neo4j](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/21)
+- [Cassandra](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/20)
+- [Redis](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/18)
+- [Bun / Hono](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/17)
+- [Express.js Deep Dive](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/16)
+- [ASP.NET Core](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/15)
+- [Laravel](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/13)
+- [FastAPI](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/12)
+- [Flask](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/11)
+- [Django](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/10)
+- [Regex](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/9)
+- [Bash Scripting](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/8)
+- [Kotlin](https://github.com/BUDEGlobalEnterprise/bude-global-tech-presentations/issues/6)
 
