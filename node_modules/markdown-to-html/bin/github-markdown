@@ -1,0 +1,30 @@
+#!/usr/bin/env node
+// Converts a markdown file into an HTML file, writing it to stdout.
+// Uses the github API, so it outputs what you will see on github,
+// more or less. Some formatting I would have expected does not happen.
+// Unixy line endings now -- just lf, no crlf
+//
+// Usage:
+//   github-markdown <filename> [<options>]
+// or
+//   github-markdown --help
+//
+var GithubMarkdown = require('..').GithubMarkdown;
+var opts = require('../lib/getopts')();
+var fileName = opts._[0];
+var verbose = opts.verbose || opts.debug;
+if (verbose) console.error('>>>opts=', opts);
+
+var md = new GithubMarkdown();
+md.debug = opts.debug;
+md.bufmax = 2048;
+
+md.render(fileName, opts, function(err) {
+  if (err) {
+    console.error('>>>' + err);
+    process.exit();
+  }
+  if (verbose) console.error('>>>starting to pipe...');
+  md.pipe(process.stdout);
+});
+
