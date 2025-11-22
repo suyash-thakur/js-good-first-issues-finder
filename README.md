@@ -4,14 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [dead links ahoy](https://github.com/LispCookbook/cl-cookbook/issues/204)
-
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
-
-- [[ci] setup-swift is too flaky](https://github.com/CycloneDX/cdxgen/issues/965)
-- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[Website] Enhance all model pages in catalog with link to how to import](https://github.com/meshery/meshery.io/issues/2388)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -27,11 +24,20 @@ This list gets updated every day at midnight.
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[Website] Enhance all model pages in catalog with link to how to import](https://github.com/meshery/meshery.io/issues/2388)
-- [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
+- [feat: SSO custom logout URI](https://github.com/open-webui/open-webui/issues/19182)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Add shadow to bottom nav bar on Rewards panel](https://github.com/brave/brave-browser/issues/50496)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Purple background behind search and keyboard elements](https://github.com/brave/brave-browser/issues/48812)
+- [Separate Site and Shield Settings from History in Clear Private Data](https://github.com/brave/brave-browser/issues/50771)
+- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
+- [Closing a tab from the Tabs Bar will occasionally fail](https://github.com/brave/brave-browser/issues/48847)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [New tab button is not in the center in other languages in the new tab tray](https://github.com/brave/brave-browser/issues/50457)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -41,39 +47,95 @@ This list gets updated every day at midnight.
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [ucsb-cs156-f25/proj-dining-f25-08](https://github.com/ucsb-cs156-f25/proj-dining-f25-08)
+## [worknenjoy/gitpay](https://github.com/worknenjoy/gitpay)
 
-- [REFACTOR: replace relative paths in imports with absolute paths.](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/9)
-- [FEATURE: Remove "Placeholder" from menu bar, and code base.](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/13)
-- [SMALL FEATURE: Add an Endpoint for an Individual Review](https://github.com/ucsb-cs156-f25/proj-dining-f25-08/issues/7)
+- [[BE] Use native node.js promise](https://github.com/worknenjoy/gitpay/issues/1191)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [[News] KubeCon 2025: CNCF to Standardize AI Workloads](https://github.com/layer5io/layer5/issues/7143)
-- [[News] add new article - “CNCF honours cloud native pioneers at 2025 community awards”](https://github.com/layer5io/layer5/issues/7124)
-- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
-- [[Screenshots] Fabedge under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5330)
-- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
-- [[Screenshots] Flagger under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5331)
-- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
-- [[Screenshots] AWS Elastic Kubernetes Service under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5322)
-- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
+- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
 
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## [GB609/batocera-ES-onArch](https://github.com/GB609/batocera-ES-onArch)
 
-- [feat: SSO custom logout URI](https://github.com/open-webui/open-webui/issues/19182)
-- [Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode](https://github.com/open-webui/open-webui/issues/5975)
+- [[btc-config:generateGlobalConfiguration] command line arguments as alternative to env variables](https://github.com/GB609/batocera-ES-onArch/issues/13)
+- [research / test AMX behavior when multiple controllers are in use](https://github.com/GB609/batocera-ES-onArch/issues/53)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator)
 
-- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/1514)
-- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
-- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
+- [Document automated testing](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/issues/258)
 
-## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+## [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 
-- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
-- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+- [[gatsby-transformer-javascript-frontmatter] Frontmatter export breaks HMR](https://github.com/gatsbyjs/gatsby/issues/35756)
+- [gatsby-plugin-manifest omits asset prefix in manifest.webmanifest icon URLs](https://github.com/gatsbyjs/gatsby/issues/25207)
+- [Page 404 not rendering react when using pathPrefix and redirect](https://github.com/gatsbyjs/gatsby/issues/32142)
+- [New gatsby-cli installation on ubuntu (wsl2) shows errors when running the command `gatsby` in terminal](https://github.com/gatsbyjs/gatsby/issues/34088)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/8566)
+- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8563)
+- [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8559)
+- [[RFC]: add `symbol/split`](https://github.com/stdlib-js/stdlib/issues/8488)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8265)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6433)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8483)
+- [[RFC]: add `symbol/match`](https://github.com/stdlib-js/stdlib/issues/8478)
+- [[RFC]: add `symbol/search`](https://github.com/stdlib-js/stdlib/issues/8480)
+- [[RFC]: add `stats/incr/nanmmeanvar`](https://github.com/stdlib-js/stdlib/issues/5592)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8258)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8377)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8294)
+- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/triangular`](https://github.com/stdlib-js/stdlib/issues/4989)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/8424)
+
+- [added github-handle variable to Seymour in Lucky Parking Project Team](https://github.com/hackforla/website/pull/8424)
+- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8362)
+- [Update Project Profile: HackforLA Website Add Ryan Keller](https://github.com/hackforla/website/issues/8398)
+- [Update Community of Practice: UI/UX Remove Julia Gab](https://github.com/hackforla/website/issues/8387)
+- [Update Project Profile: Hackforla.org Website Add Xavier Neal-Carson](https://github.com/hackforla/website/issues/8361)
+- [Update Project Profile: Hackforla.org Website Add Darshin Van Parijs](https://github.com/hackforla/website/issues/8360)
+- [Update Project Profile: Hackforla.org Website Add Phalguni Kambhalur](https://github.com/hackforla/website/issues/8347)
+- [Update Project Profile: Hackforla.org Website Remove Samhitha Kamma](https://github.com/hackforla/website/issues/8346)
+- [Update Project Profile: Website Remove Mugdh Chauhan](https://github.com/hackforla/website/issues/8337)
+- [Update Project Profile: Civic Tech Jobs (Add Tech: MKDocs)](https://github.com/hackforla/website/issues/8334)
+- [Update Project Profile: Civic Tech Jobs (Add Tech: AWS)](https://github.com/hackforla/website/issues/8333)
+- [Update Project Profile: Civic Tech Jobs (Add Tech: Vite)](https://github.com/hackforla/website/issues/8332)
+- [Update Project Profile: HackforLA Website Add Donovan Vernon](https://github.com/hackforla/website/issues/8329)
+- [Update Project Profile: Civic Tech Jobs Remove Terence Lo](https://github.com/hackforla/website/issues/8287)
+- [Update Project Profile: Civic Tech Jobs - Add Jason Shi](https://github.com/hackforla/website/issues/8111)
+- [Replace `Github` with `GitHub` in _guide-pages/2FA.html](https://github.com/hackforla/website/issues/7418)
+- [Update Community of Practice: DevOps Update GitHub Link](https://github.com/hackforla/website/issues/8389)
+- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8427)
+- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8426)
+- [Update Github handle for Santiago Vidal: Website](https://github.com/hackforla/website/issues/8423)
+- [Add github-handle for Seymour Liao in lucky-parking.md](https://github.com/hackforla/website/issues/7802)
+- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+
+## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
+
+- [Language picker menu omits some supported languages](https://github.com/osm-americana/openstreetmap-americana/issues/836)
+- [Bannered shields cause neighboring shields to move too far down](https://github.com/osm-americana/openstreetmap-americana/issues/340)
+
+## [google/closure-compiler](https://github.com/google/closure-compiler)
+
+- [Bad type annotation when documenting an optional parameter value](https://github.com/google/closure-compiler/issues/3767)
+
+## [mnkiefer/repo-with-bugs](https://github.com/mnkiefer/repo-with-bugs)
+
+- [AI Task: Fix CSS Typo - border-botto to border-bottom](https://github.com/mnkiefer/repo-with-bugs/issues/30)
+- [AI Task: Fix CSS Typo - position: relatve to position: relative](https://github.com/mnkiefer/repo-with-bugs/issues/31)
+
+## [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+
+- [Exporting as PNG does not give the background/color for the annotation](https://github.com/HumanSignal/label-studio/issues/2482)
+- [Labeling Hebrew text causes words to mix](https://github.com/HumanSignal/label-studio/issues/1888)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -82,20 +144,21 @@ This list gets updated every day at midnight.
 - [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
 - [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
 
-## [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
 
-- [Exporting as PNG does not give the background/color for the annotation](https://github.com/HumanSignal/label-studio/issues/2482)
-- [Labeling Hebrew text causes words to mix](https://github.com/HumanSignal/label-studio/issues/1888)
+- [[ci] setup-swift is too flaky](https://github.com/CycloneDX/cdxgen/issues/965)
+- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
 
-## [medic/cht-core](https://github.com/medic/cht-core)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [UI Navigation: Screenshot Generation for Reports Section](https://github.com/medic/cht-core/issues/9500)
-- [UI Navigation: Screenshot Generation for Targets Section](https://github.com/medic/cht-core/issues/9503)
-- [Add a @medic/constants shared library](https://github.com/medic/cht-core/issues/9621)
-- [Record telemetry for External Android App calls](https://github.com/medic/cht-core/issues/10217)
+- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
+- [Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter](https://github.com/HeyPuter/puter/issues/1514)
+- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
+- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
+- [--experimental-strip-types default value should depend on --without-amaro configure flag](https://github.com/nodejs/node/issues/60640)
 - [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 - [`SuiteContext` missing `fullName` property that exists at runtime](https://github.com/nodejs/node/issues/60757)
 - [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
@@ -106,16 +169,13 @@ This list gets updated every day at midnight.
 - [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
 - [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
 
-## [badges/shields](https://github.com/badges/shields)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
+- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
 
-## [kiigame/adventure_engine](https://github.com/kiigame/adventure_engine)
+## [thatlonelybugbear/automated-conditions-5e](https://github.com/thatlonelybugbear/automated-conditions-5e)
 
-- [Move the jersey number input away from layers.json](https://github.com/kiigame/adventure_engine/issues/252)
-- [Loading indicator](https://github.com/kiigame/adventure_engine/issues/28)
-- [Improve UX when dragging items over inventory arrows](https://github.com/kiigame/adventure_engine/issues/122)
-- [Allow background to partially hide objects](https://github.com/kiigame/adventure_engine/issues/47)
+- [Compatibility tests for Simplecover5e module.](https://github.com/thatlonelybugbear/automated-conditions-5e/issues/648)
 
 ## [neomjs/neo](https://github.com/neomjs/neo)
 
@@ -123,13 +183,54 @@ This list gets updated every day at midnight.
 - [Define the "Sighted" Development Workflow](https://github.com/neomjs/neo/issues/7388)
 - [Enhance StateProvider for Direct Record Property Binding](https://github.com/neomjs/neo/issues/6932)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
+- [[ACTION] Add Sendoso Core API endpoints](https://github.com/PipedreamHQ/pipedream/issues/19150)
+- [[ACTION] Google Sheets - Provide polling options as an alternative to current webhook based ones](https://github.com/PipedreamHQ/pipedream/issues/19119)
+- [[ACTION] Pipedrive - Get All Leads](https://github.com/PipedreamHQ/pipedream/issues/19181)
+- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
+- [[ACTION] Front - Statuses](https://github.com/PipedreamHQ/pipedream/issues/19179)
+- [[ACTION] Helpscout - Articles](https://github.com/PipedreamHQ/pipedream/issues/19178)
+- [[ACTION] Helpscout](https://github.com/PipedreamHQ/pipedream/issues/19176)
+- [[ACTION] Hubspot - tickets](https://github.com/PipedreamHQ/pipedream/issues/19175)
+- [[ACTION] Freshchat - properties](https://github.com/PipedreamHQ/pipedream/issues/19174)
+- [[ACTION] trengo - macros](https://github.com/PipedreamHQ/pipedream/issues/19173)
+- [[ACTION] trengo - Helpcenter](https://github.com/PipedreamHQ/pipedream/issues/19172)
+- [[ACTION] Trengo - tickets](https://github.com/PipedreamHQ/pipedream/issues/19171)
+- [[ACTION] Gorgias - Macros](https://github.com/PipedreamHQ/pipedream/issues/19170)
+- [[ACTION] Gorgias - ticket tags](https://github.com/PipedreamHQ/pipedream/issues/19169)
+- [[ACTION] Gorgias - Conversations](https://github.com/PipedreamHQ/pipedream/issues/19168)
+- [[ACTION] Belco - Conversations](https://github.com/PipedreamHQ/pipedream/issues/19167)
+- [[ACTION] Freshdesk - Canned Responses](https://github.com/PipedreamHQ/pipedream/issues/19166)
+- [[ACTION] Zendesk - Macros](https://github.com/PipedreamHQ/pipedream/issues/19165)
+- [[ACTION] Zendesk - Helpcenter](https://github.com/PipedreamHQ/pipedream/issues/19164)
+- [[TRIGGER] Shopify Draft Order Updated trigger not firing when line items are added/removed](https://github.com/PipedreamHQ/pipedream/issues/19147)
+- [[ACTION] Sage CRM new actions](https://github.com/PipedreamHQ/pipedream/issues/19024)
+- [[ACTION] gorgias - get ticket message](https://github.com/PipedreamHQ/pipedream/issues/19021)
+- [chat completion action not found](https://github.com/PipedreamHQ/pipedream/issues/18858)
+- [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
 
-## [kabilapok/Atlyss_Visualizer](https://github.com/kabilapok/Atlyss_Visualizer)
+## [sd8917/Quizz-App-Frontend](https://github.com/sd8917/Quizz-App-Frontend)
 
-- [Image styling](https://github.com/kabilapok/Atlyss_Visualizer/issues/4)
+- [Update contact page](https://github.com/sd8917/Quizz-App-Frontend/issues/4)
+- [Create a chip for Last Active](https://github.com/sd8917/Quizz-App-Frontend/issues/2)
+
+## [Meboy1000/Tic-Tac-Task](https://github.com/Meboy1000/Tic-Tac-Task)
+
+- [Landing page graphic](https://github.com/Meboy1000/Tic-Tac-Task/issues/10)
+- [Make a frontend that can be opened](https://github.com/Meboy1000/Tic-Tac-Task/issues/4)
+
+## [meshery-extensions/shape-builder](https://github.com/meshery-extensions/shape-builder)
+
+- [The copy-to-clipboard button is not visible after long coordinates.](https://github.com/meshery-extensions/shape-builder/issues/89)
+- [Added the consistent box border on select to the output box](https://github.com/meshery-extensions/shape-builder/issues/77)
+- [Close shape button does not work as expected](https://github.com/meshery-extensions/shape-builder/issues/76)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
 
 ## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
@@ -140,51 +241,30 @@ This list gets updated every day at midnight.
 - [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
 - [Telegram doesn't seem to be an available notification type?](https://github.com/bluewave-labs/Checkmate/issues/2753)
 
-## [SimplyJuanjo/exploring_3D](https://github.com/SimplyJuanjo/exploring_3D)
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
 
-- [Import or remove unused style.css file](https://github.com/SimplyJuanjo/exploring_3D/issues/2)
-- [Remove unused boilerplate file javascript.svg](https://github.com/SimplyJuanjo/exploring_3D/issues/1)
+- [feat(mafia): Upgrades for Independent Roles](https://github.com/UltiMafia/Ultimafia/issues/1695)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
 
-- [[ACTION] Add Sendoso Core API endpoints](https://github.com/PipedreamHQ/pipedream/issues/19150)
-- [[TRIGGER] Shopify Draft Order Updated trigger not firing when line items are added/removed](https://github.com/PipedreamHQ/pipedream/issues/19147)
-- [[ACTION] booking experts - reservations](https://github.com/PipedreamHQ/pipedream/issues/19140)
-- [[ACTION] Metabase /query/{export-format} API](https://github.com/PipedreamHQ/pipedream/issues/18970)
-- [[ACTION] Google Sheets - Provide polling options as an alternative to current webhook based ones](https://github.com/PipedreamHQ/pipedream/issues/19119)
-- [HTTP / Webhook](https://github.com/PipedreamHQ/pipedream/issues/19130)
-- [[ACTION] Freshdesk - expand messaging](https://github.com/PipedreamHQ/pipedream/issues/19107)
-- [[ACTION] Sage CRM new actions](https://github.com/PipedreamHQ/pipedream/issues/19024)
-- [[ACTION] gorgias - get ticket message](https://github.com/PipedreamHQ/pipedream/issues/19021)
-- [chat completion action not found](https://github.com/PipedreamHQ/pipedream/issues/18858)
-- [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
-- [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
-- [[APP] Prestashop](https://github.com/PipedreamHQ/pipedream/issues/3279)
+- [Include links to js.xrpl.org from Get Started Using JavaScript Library](https://github.com/XRPLF/xrpl-dev-portal/issues/1795)
 
-## [xthxr/Link360](https://github.com/xthxr/Link360)
+## [iterative/dvc.org](https://github.com/iterative/dvc.org)
 
-- [[Bug Report] There is an API key in the profile section which is not working](https://github.com/xthxr/Link360/issues/5)
-- [Add a region wise analytics of the UTM links generated](https://github.com/xthxr/Link360/issues/1)
+- [Update references to `master` branch with `main` ](https://github.com/iterative/dvc.org/issues/3166)
 
-## [brave/brave-browser](https://github.com/brave/brave-browser)
+## [rrojas1819/Strands-Backend](https://github.com/rrojas1819/Strands-Backend)
 
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Add shadow to bottom nav bar on Rewards panel](https://github.com/brave/brave-browser/issues/50496)
-- [Purple background behind search and keyboard elements](https://github.com/brave/brave-browser/issues/48812)
-- [Separate Site and Shield Settings from History in Clear Private Data](https://github.com/brave/brave-browser/issues/50771)
-- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
-- [Closing a tab from the Tabs Bar will occasionally fail](https://github.com/brave/brave-browser/issues/48847)
-- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
-- [New tab button is not in the center in other languages in the new tab tray](https://github.com/brave/brave-browser/issues/50457)
+- [BS 1.0 - Duplicate endpoint for get/view employees.](https://github.com/rrojas1819/Strands-Backend/issues/24)
+- [BS 1.5 Get rid of role check that isn't needed.](https://github.com/rrojas1819/Strands-Backend/issues/20)
+- [UAR 1.8 needs to get rid of role check.](https://github.com/rrojas1819/Strands-Backend/issues/11)
 
-## [mnkiefer/repo-with-bugs](https://github.com/mnkiefer/repo-with-bugs)
+## [playcanvas/engine](https://github.com/playcanvas/engine)
 
-- [AI Task: Fix CSS Typo - border-botto to border-bottom](https://github.com/mnkiefer/repo-with-bugs/issues/30)
-- [AI Task: Fix CSS Typo - position: relatve to position: relative](https://github.com/mnkiefer/repo-with-bugs/issues/31)
+- [Rectangle - with position, orientation and size that can be intersected with Ray and other Shapes.](https://github.com/playcanvas/engine/issues/889)
 
 ## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
 
-- [Centrally align Create Help Request Page header](https://github.com/saayam-for-all/webapp/issues/1088)
 - [Missing translations and string keys for Preferences tab](https://github.com/saayam-for-all/webapp/issues/934)
 - [Notifications translations in supported languages](https://github.com/saayam-for-all/webapp/issues/915)
 - [Integrate Google AdSense](https://github.com/saayam-for-all/webapp/issues/900)
@@ -196,77 +276,35 @@ This list gets updated every day at midnight.
 - [End to End implementation of Elderly and Housing Use Case](https://github.com/saayam-for-all/webapp/issues/766)
 - [Organizing i18next JSON files using i18next Namespaces for Internationalization](https://github.com/saayam-for-all/webapp/issues/876)
 
-## [worknenjoy/gitpay](https://github.com/worknenjoy/gitpay)
+## [doc-detective/doc-detective.github.io](https://github.com/doc-detective/doc-detective.github.io)
 
-- [[BE] Use native node.js promise](https://github.com/worknenjoy/gitpay/issues/1191)
+- [screenshot action docs](https://github.com/doc-detective/doc-detective.github.io/issues/56)
 
-## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
 
-- [Remove Higher Order Components from Editors](https://github.com/openedx/frontend-app-authoring/issues/2089)
+- [Add an entry in the navbar to browse members](https://github.com/matrix-org/matrix.org/issues/3013)
+- [Add link checker CI](https://github.com/matrix-org/matrix.org/issues/2829)
+- [We want some place to put meeting infos of WGs](https://github.com/matrix-org/matrix.org/issues/2679)
+
+## [Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO)
+
+- [Criar tela de consultas](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/5)
+- [Criar telas de vacinas](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/13)
+- [Criar telas de perfil](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/11)
+- [Criar dashboard paciente](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/7)
+- [Criar dashboard médico](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/6)
+- [Criar tela de histórico médico](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/8)
+- [Criar tela de quadro de horário](https://github.com/Carlos-Eduardo-Suassuna-Santiago/PROMPTUARIO/issues/9)
 
 ## [apify/apify-docs](https://github.com/apify/apify-docs)
 
 - [Create overview pages for all Apify docs](https://github.com/apify/apify-docs/issues/1869)
 - [Incorrect information about the storage and data retention](https://github.com/apify/apify-docs/issues/1720)
 
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [[Bug]: Re-enable E2E tests in CI](https://github.com/lokus-ai/lokus/issues/211)
-- [[Feature]: Improve dev container setup](https://github.com/lokus-ai/lokus/issues/231)
-- [[Feature]: Create test data generators](https://github.com/lokus-ai/lokus/issues/217)
-- [[Technical Debt] Fix 162 TODOs/FIXMEs/HACKs in Codebase](https://github.com/lokus-ai/lokus/issues/166)
-- [[Technical Debt] Add Comprehensive Test Coverage (Target: 80%)](https://github.com/lokus-ai/lokus/issues/163)
-- [[Feature] Implement Daily Notes (Empty Directory Exists)](https://github.com/lokus-ai/lokus/issues/167)
-- [[Enhancement] Polish and refine toolbar UI design](https://github.com/lokus-ai/lokus/issues/150)
-- [[Feature] Reading Time and Word Count in Status Bar](https://github.com/lokus-ai/lokus/issues/130)
-- [[Feature] Obsidian Migration Dialog UI](https://github.com/lokus-ai/lokus/issues/140)
-- [[Feature] Detect Obsidian Vault on Workspace Open](https://github.com/lokus-ai/lokus/issues/139)
-- [[Feature] Bookmarks System - Phase 1: Basic File Bookmarks](https://github.com/lokus-ai/lokus/issues/134)
-- [[Feature] Audio File Embedding (Video in Phase 2)](https://github.com/lokus-ai/lokus/issues/132)
-- [[Feature] Callouts/Admonitions - Phase 1: Basic Implementation](https://github.com/lokus-ai/lokus/issues/131)
-
-## [kyma-project/busola](https://github.com/kyma-project/busola)
-
-- [Names of the resources are not consistent](https://github.com/kyma-project/busola/issues/4199)
-
-## [sanger/traction-ui](https://github.com/sanger/traction-ui)
-
-- [Y25-576 - [BUG] Unable to delete multiple PacBio libraries at once.](https://github.com/sanger/traction-ui/issues/2472)
-- [Y25-626 - [BUG] PacBio pool page gets distorted by large number of sources](https://github.com/sanger/traction-ui/issues/2511)
-
-## [openedx/frontend-app-learner-record](https://github.com/openedx/frontend-app-learner-record)
-
-- [Remove `redux` as it is not being used anywhere in the repo](https://github.com/openedx/frontend-app-learner-record/issues/609)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
-
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
-
-- [Include links to js.xrpl.org from Get Started Using JavaScript Library](https://github.com/XRPLF/xrpl-dev-portal/issues/1795)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [Status emoji alignment issues in boxen titles](https://github.com/eyaltoledano/claude-task-master/issues/1418)
-- [Bug: Warning emoji in boxen titles causes alignment issues](https://github.com/eyaltoledano/claude-task-master/issues/1394)
-
-## [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js)
-
-- [Add resizing for all text elements as for TextAnnotation](https://github.com/bpmn-io/bpmn-js/issues/1513)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-
-## [helm/helm-www](https://github.com/helm/helm-www)
-
-- [Quickstart Guide References Bitnami Charts, is this affected by "Upcoming changes to the Bitnami catalog (effective August 28th, 2025)"](https://github.com/helm/helm-www/issues/1752)
-- [[docs] address missing topics in docs](https://github.com/helm/helm-www/issues/266)
-- [Helm Template Comments formatting inconsistent/wrong](https://github.com/helm/helm-www/issues/1254)
-- [Add trick for accessing chart names inside Values with dashes to Best Practices documentation](https://github.com/helm/helm-www/issues/1272)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
 
 ## [Circuit-Overtime/elixpo_chapter](https://github.com/Circuit-Overtime/elixpo_chapter)
 
@@ -274,34 +312,22 @@ This list gets updated every day at midnight.
 - [[FING]: Make the Footer Section Sleeker and More Visually Appealing](https://github.com/Circuit-Overtime/elixpo_chapter/issues/268)
 - [[FING]: Add Multiple Authentication Providers (GitHub & Facebook) Alongside Google Auth](https://github.com/Circuit-Overtime/elixpo_chapter/issues/267)
 
-## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+## [sfwnisme/backend-real-estate](https://github.com/sfwnisme/backend-real-estate)
 
-- [i18n Sync: Update Settings and SubmitSaveAllSettings Keys Across Locale Files](https://github.com/processing/p5.js-web-editor/issues/3510)
-- [Some text on the p5.js Editor “About” page is not translated](https://github.com/processing/p5.js-web-editor/issues/3485)
+- [clean error messages](https://github.com/sfwnisme/backend-real-estate/issues/7)
+- [Refactoring and creating new logic (up to date)](https://github.com/sfwnisme/backend-real-estate/issues/4)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [BYTE-Club-CCNY/Silvercord](https://github.com/BYTE-Club-CCNY/Silvercord)
 
-- [[TYPO] - Missing Action for Dwarf - Thick Skin](https://github.com/Foundryborne/daggerheart/issues/1209)
+- [threads for the bot to retain chat history](https://github.com/BYTE-Club-CCNY/Silvercord/issues/6)
+- [/reportissue command](https://github.com/BYTE-Club-CCNY/Silvercord/issues/31)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [remoteoss/json-schema-form](https://github.com/remoteoss/json-schema-form)
 
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
+- [createHeadlessForm and mutation of initialValues](https://github.com/remoteoss/json-schema-form/issues/92)
 
-## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
-- [Add loading state for comment posting](https://github.com/micahlt/itchy-native/issues/108)
-- [Shouldn't have to go back through onboarding after log-out](https://github.com/micahlt/itchy-native/issues/111)
-- [Fix positioning of remix card](https://github.com/micahlt/itchy-native/issues/110)
-- [Allow importing SB3 files](https://github.com/micahlt/itchy-native/issues/105)
-- [Allow downloading projects to use offline](https://github.com/micahlt/itchy-native/issues/104)
-- [Add turbo mode toggle](https://github.com/micahlt/itchy-native/issues/95)
-- [Search by project ID](https://github.com/micahlt/itchy-native/issues/94)
-- [History implementation](https://github.com/micahlt/itchy-native/issues/53)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [Status emoji alignment issues in boxen titles](https://github.com/eyaltoledano/claude-task-master/issues/1418)
+- [Bug: Warning emoji in boxen titles causes alignment issues](https://github.com/eyaltoledano/claude-task-master/issues/1394)
 
