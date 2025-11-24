@@ -4,10 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
+
+## [brave/brave-browser](https://github.com/brave/brave-browser)
+
+- [Add shadow to bottom nav bar on Rewards panel](https://github.com/brave/brave-browser/issues/50496)
+- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
+- [Purple background behind search and keyboard elements](https://github.com/brave/brave-browser/issues/48812)
+- [Separate Site and Shield Settings from History in Clear Private Data](https://github.com/brave/brave-browser/issues/50771)
+- [Improve UX for setting NTP to a url](https://github.com/brave/brave-browser/issues/43302)
+- [Closing a tab from the Tabs Bar will occasionally fail](https://github.com/brave/brave-browser/issues/48847)
+- [brave://apps has an ugly gray color as the background](https://github.com/brave/brave-browser/issues/25736)
+- [New tab button is not in the center in other languages in the new tab tray](https://github.com/brave/brave-browser/issues/50457)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -23,27 +33,70 @@ This list gets updated every day at midnight.
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+- [feat: SSO custom logout URI](https://github.com/open-webui/open-webui/issues/19182)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
+
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
+- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
 - [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
 - [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
-- [Complete the Traditional Chinese (繁體中文) translation of Puter](https://github.com/HeyPuter/puter/issues/1501)
 
-## [olympus-btc/ambrosia](https://github.com/olympus-btc/ambrosia)
+## [STS15/CR-Web-Map](https://github.com/STS15/CR-Web-Map)
 
-- [Mobile Adaptation of the Application](https://github.com/olympus-btc/ambrosia/issues/193)
-- [Create Installation Guide on Website](https://github.com/olympus-btc/ambrosia/issues/146)
-- [Update API Documentation (Swagger/OpenAPI)](https://github.com/olympus-btc/ambrosia/issues/117)
-- [Característica: Crear un video demo de la aplicación (Web/README)](https://github.com/olympus-btc/ambrosia/issues/113)
+- [Figure out what we "legally" need in with this campus map](https://github.com/STS15/CR-Web-Map/issues/6)
+- [Come up with settings to allow users with accessibility issues to modify the look](https://github.com/STS15/CR-Web-Map/issues/7)
+- [Map entrances and buildings](https://github.com/STS15/CR-Web-Map/issues/3)
 
-## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
 
-- [Visible commentee names for project and studio threads](https://github.com/micahlt/itchy-native/issues/124)
-- [Allow importing SB3 files](https://github.com/micahlt/itchy-native/issues/105)
-- [Allow downloading projects to use offline](https://github.com/micahlt/itchy-native/issues/104)
-- [Add turbo mode toggle](https://github.com/micahlt/itchy-native/issues/95)
-- [Search by project ID](https://github.com/micahlt/itchy-native/issues/94)
-- [History implementation](https://github.com/micahlt/itchy-native/issues/53)
+- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+
+## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
+
+- [[ci] setup-swift is too flaky](https://github.com/CycloneDX/cdxgen/issues/965)
+
+## [YodasWs/Empires-4x](https://github.com/YodasWs/Empires-4x)
+
+- [Assign Laborers to a Faction](https://github.com/YodasWs/Empires-4x/issues/31)
+- [Title Screen Needed](https://github.com/YodasWs/Empires-4x/issues/3)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [Record and Generate Lilypond/ABC (Under Play)](https://github.com/sugarlabs/musicblocks/issues/2330)
+
+## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+
+- [[Bug]: Re-enable E2E tests in CI](https://github.com/lokus-ai/lokus/issues/211)
+- [[Feature]: Improve dev container setup](https://github.com/lokus-ai/lokus/issues/231)
+- [[Feature]: Create test data generators](https://github.com/lokus-ai/lokus/issues/217)
+- [[Technical Debt] Fix 162 TODOs/FIXMEs/HACKs in Codebase](https://github.com/lokus-ai/lokus/issues/166)
+- [[Technical Debt] Add Comprehensive Test Coverage (Target: 80%)](https://github.com/lokus-ai/lokus/issues/163)
+- [[Feature] Implement Daily Notes (Empty Directory Exists)](https://github.com/lokus-ai/lokus/issues/167)
+- [[Enhancement] Polish and refine toolbar UI design](https://github.com/lokus-ai/lokus/issues/150)
+- [[Feature] Reading Time and Word Count in Status Bar](https://github.com/lokus-ai/lokus/issues/130)
+
+## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+
+- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
+- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+
+- [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
+- [Multi-trace traceID search does not show 404s](https://github.com/jaegertracing/jaeger-ui/issues/51)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -72,69 +125,9 @@ This list gets updated every day at midnight.
 - [chat completion action not found](https://github.com/PipedreamHQ/pipedream/issues/18858)
 - [[ACTION] Workday API](https://github.com/PipedreamHQ/pipedream/issues/18802)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [FreeTube accessibility issues](https://github.com/FreeTubeApp/FreeTube/issues/693)
-- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
-
-## [Bingham-Research-Center/ubair-website](https://github.com/Bingham-Research-Center/ubair-website)
-
-- [Review Q&A/info pages - reserve for technical overviews (e.g., Clyfar explainer)](https://github.com/Bingham-Research-Center/ubair-website/issues/92)
-- ["Add to Dock" iOS currently ugly](https://github.com/Bingham-Research-Center/ubair-website/issues/12)
-- [Establish test-driven workflow guidelines](https://github.com/Bingham-Research-Center/ubair-website/issues/91)
-- [Add complementary trim/accent color for visual polish (USU brand)](https://github.com/Bingham-Research-Center/ubair-website/issues/96)
-- [Hide in-development pages under navbar dropdown](https://github.com/Bingham-Research-Center/ubair-website/issues/93)
-
-## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
-
-- [Language picker menu omits some supported languages](https://github.com/osm-americana/openstreetmap-americana/issues/836)
-- [Bannered shields cause neighboring shields to move too far down](https://github.com/osm-americana/openstreetmap-americana/issues/340)
-
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
-
-- [[ci] setup-swift is too flaky](https://github.com/CycloneDX/cdxgen/issues/965)
-- [Support for GitHub Copilot coding agent](https://github.com/CycloneDX/cdxgen/issues/2172)
-
-## [thevangelist/dembrandt](https://github.com/thevangelist/dembrandt)
-
-- [Improved workflow towards Figma](https://github.com/thevangelist/dembrandt/issues/4)
-- [Improved color codes output](https://github.com/thevangelist/dembrandt/issues/3)
-
-## [open-webui/open-webui](https://github.com/open-webui/open-webui)
-
-- [feat: SSO custom logout URI](https://github.com/open-webui/open-webui/issues/19182)
-
-## [SalamLang/Salam-Website](https://github.com/SalamLang/Salam-Website)
-
-- [`bun test` failure](https://github.com/SalamLang/Salam-Website/issues/403)
-
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
-
-- [feat(mafia): Upgrades for Independent Roles](https://github.com/UltiMafia/Ultimafia/issues/1695)
-
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
-
-- [[Bug]: Re-enable E2E tests in CI](https://github.com/lokus-ai/lokus/issues/211)
-- [[Feature]: Improve dev container setup](https://github.com/lokus-ai/lokus/issues/231)
-- [[Feature]: Create test data generators](https://github.com/lokus-ai/lokus/issues/217)
-- [[Technical Debt] Fix 162 TODOs/FIXMEs/HACKs in Codebase](https://github.com/lokus-ai/lokus/issues/166)
-- [[Technical Debt] Add Comprehensive Test Coverage (Target: 80%)](https://github.com/lokus-ai/lokus/issues/163)
-- [[Feature] Implement Daily Notes (Empty Directory Exists)](https://github.com/lokus-ai/lokus/issues/167)
-- [[Enhancement] Polish and refine toolbar UI design](https://github.com/lokus-ai/lokus/issues/150)
-- [[Feature] Reading Time and Word Count in Status Bar](https://github.com/lokus-ai/lokus/issues/130)
-- [[Feature] Obsidian Migration Dialog UI](https://github.com/lokus-ai/lokus/issues/140)
-- [[Feature] Detect Obsidian Vault on Workspace Open](https://github.com/lokus-ai/lokus/issues/139)
-- [[Feature] Bookmarks System - Phase 1: Basic File Bookmarks](https://github.com/lokus-ai/lokus/issues/134)
-- [[Feature] Audio File Embedding (Video in Phase 2)](https://github.com/lokus-ai/lokus/issues/132)
-- [[Feature] Callouts/Admonitions - Phase 1: Basic Implementation](https://github.com/lokus-ai/lokus/issues/131)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [Refactor - Store Composition with Collection](https://github.com/neomjs/neo/issues/6984)
-
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
+- [[otelcol docs] Copy edit the custom component pages](https://github.com/open-telemetry/opentelemetry.io/issues/8362)
 - [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
 - [[pt] Localize content/en/docs/languages/java/sdk.md](https://github.com/open-telemetry/opentelemetry.io/issues/5838)
 - [[pt] Localize content/en/docs/languages/java/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/5837)
@@ -150,103 +143,39 @@ This list gets updated every day at midnight.
 - [[otelcol docs] Copy edit the Building a custom Collector page](https://github.com/open-telemetry/opentelemetry.io/issues/8361)
 - [[es] Spanish folder localization ecosystem](https://github.com/open-telemetry/opentelemetry.io/issues/7488)
 - [[otelcol docs] Copy edit the Collector installation page](https://github.com/open-telemetry/opentelemetry.io/issues/8354)
-- [[otelcol docs] Copy edit the custom component pages](https://github.com/open-telemetry/opentelemetry.io/issues/8362)
 - [[otelcol docs] Copy edit the Collector deployment landing, no collector, and agent pages](https://github.com/open-telemetry/opentelemetry.io/issues/8356)
 - [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
 - [Clarify UI port after running Ruby OTLP exporter Docker command](https://github.com/open-telemetry/opentelemetry.io/issues/8036)
 
-## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+## [QuoteVote/quotevote-monorepo](https://github.com/QuoteVote/quotevote-monorepo)
 
-- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
-- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+- [✉️ Feature: Add “Request Invite” Button to Mobile Nav (Pre-Login)](https://github.com/QuoteVote/quotevote-monorepo/issues/251)
+- [Enhancement: Descriptive Open Graph Metadata for Specific Quote Link Shares](https://github.com/QuoteVote/quotevote-monorepo/issues/230)
+- [🐛 Bug: Chat Sidebar Items Do Not Link to Profile or Post](https://github.com/QuoteVote/quotevote-monorepo/issues/118)
+- [✨Feature: Auto-Link URLs in Post Text and Comments Or Chats](https://github.com/QuoteVote/quotevote-monorepo/issues/122)
 
-## [sd8917/Quizz-App-Frontend](https://github.com/sd8917/Quizz-App-Frontend)
+## [xthxr/Link360](https://github.com/xthxr/Link360)
 
-- [Create a chip for Last Active](https://github.com/sd8917/Quizz-App-Frontend/issues/2)
-- [Update contact page](https://github.com/sd8917/Quizz-App-Frontend/issues/4)
+- [[Bug Report] There is an API key in the profile section which is not working](https://github.com/xthxr/Link360/issues/5)
+- [Add a region wise analytics of the UTM links generated](https://github.com/xthxr/Link360/issues/1)
 
-## [egraphs-good/egglog-python](https://github.com/egraphs-good/egglog-python)
+## [andredarcie/tiny-rpg-maker](https://github.com/andredarcie/tiny-rpg-maker)
 
-- [Better error message when storing too large integer](https://github.com/egraphs-good/egglog-python/issues/327)
-- [Make PyObject serialization more flexible and performant](https://github.com/egraphs-good/egglog-python/issues/373)
-- [Method to extract entire e-graph](https://github.com/egraphs-good/egglog-python/issues/365)
+- [Dialogs should pause enemies](https://github.com/andredarcie/tiny-rpg-maker/issues/20)
+- [Enemies move in game and in editor](https://github.com/andredarcie/tiny-rpg-maker/issues/21)
 
-## [thatlonelybugbear/automated-conditions-5e](https://github.com/thatlonelybugbear/automated-conditions-5e)
+## [ucsb-cs156-f25/proj-dining-f25-06](https://github.com/ucsb-cs156-f25/proj-dining-f25-06)
 
-- [Compatibility tests for Simplecover5e module.](https://github.com/thatlonelybugbear/automated-conditions-5e/issues/648)
+- [FEATURE: Replace "Example" Brand with "Dining".](https://github.com/ucsb-cs156-f25/proj-dining-f25-06/issues/2)
+- [SMALL FEATURE: Add an Endpoint for an Individual Review](https://github.com/ucsb-cs156-f25/proj-dining-f25-06/issues/3)
 
-## [Finanza-Club-Rishihood-University/Finanza-Club-Website](https://github.com/Finanza-Club-Rishihood-University/Finanza-Club-Website)
+## [neomjs/neo](https://github.com/neomjs/neo)
 
-- [Improve CSS for Newsletter + Events Section (Increase Card Size)](https://github.com/Finanza-Club-Rishihood-University/Finanza-Club-Website/issues/4)
-- [Hero section with image slider — Home page](https://github.com/Finanza-Club-Rishihood-University/Finanza-Club-Website/issues/3)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [[CI] Only run the website preview workflow when site files are changed](https://github.com/layer5labs/meshery-extensions-packages/issues/599)
-- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
-
-## [StaffAnchor/StaffAnchor-ATS-V1](https://github.com/StaffAnchor/StaffAnchor-ATS-V1)
-
-- [Include the search symbol within the placeholder](https://github.com/StaffAnchor/StaffAnchor-ATS-V1/issues/11)
-- ["LPA" text addition in the "CTC" section of Jobs](https://github.com/StaffAnchor/StaffAnchor-ATS-V1/issues/9)
-
-## [hackforla/website](https://github.com/hackforla/website)
-
-- [Update Project Profile: Civic Tech Jobs - Add Jason Shi](https://github.com/hackforla/website/issues/8111)
-- [Update Community of Practice: DevOps Update GitHub Link](https://github.com/hackforla/website/issues/8389)
-- [Updated Links Variable for Github](https://github.com/hackforla/website/pull/8435)
-- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8362)
-- [Update Project Profile: HackforLA Website Add Ryan Keller](https://github.com/hackforla/website/issues/8398)
-- [Update Community of Practice: UI/UX Remove Julia Gab](https://github.com/hackforla/website/issues/8387)
-- [Update Project Profile: Hackforla.org Website Add Xavier Neal-Carson](https://github.com/hackforla/website/issues/8361)
-- [Update Project Profile: Hackforla.org Website Add Darshin Van Parijs](https://github.com/hackforla/website/issues/8360)
-- [Update Project Profile: Hackforla.org Website Add Phalguni Kambhalur](https://github.com/hackforla/website/issues/8347)
-- [Update Project Profile: Hackforla.org Website Remove Samhitha Kamma](https://github.com/hackforla/website/issues/8346)
-- [Update Project Profile: Website Remove Mugdh Chauhan](https://github.com/hackforla/website/issues/8337)
-- [Update Project Profile: Civic Tech Jobs (Add Tech: MKDocs)](https://github.com/hackforla/website/issues/8334)
-- [Update Project Profile: Civic Tech Jobs (Add Tech: AWS)](https://github.com/hackforla/website/issues/8333)
-- [Update Project Profile: Civic Tech Jobs (Add Tech: Vite)](https://github.com/hackforla/website/issues/8332)
-- [Update Project Profile: HackforLA Website Add Donovan Vernon](https://github.com/hackforla/website/issues/8329)
-- [Update Project Profile: Civic Tech Jobs Remove Terence Lo](https://github.com/hackforla/website/issues/8287)
-- [Replace `Github` with `GitHub` in _guide-pages/2FA.html](https://github.com/hackforla/website/issues/7418)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8427)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8426)
-- [Update Github handle for Santiago Vidal: Website](https://github.com/hackforla/website/issues/8423)
-- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
-
-## [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-
-- [Exporting as PNG does not give the background/color for the annotation](https://github.com/HumanSignal/label-studio/issues/2482)
-- [Labeling Hebrew text causes words to mix](https://github.com/HumanSignal/label-studio/issues/1888)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-
-## [meshery-extensions/shape-builder](https://github.com/meshery-extensions/shape-builder)
-
-- [The copy-to-clipboard button is not visible after long coordinates.](https://github.com/meshery-extensions/shape-builder/issues/89)
-- [Added the consistent box border on select to the output box](https://github.com/meshery-extensions/shape-builder/issues/77)
-- [Close shape button does not work as expected](https://github.com/meshery-extensions/shape-builder/issues/76)
-
-## [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-
-- [show access=* on amenity=shelter if tagged](https://github.com/openstreetmap/id-tagging-schema/issues/887)
-- [Add Preset for historic=millstone](https://github.com/openstreetmap/id-tagging-schema/issues/1067)
-- [Add highway=hitchhiking](https://github.com/openstreetmap/id-tagging-schema/issues/1675)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
+- [Refactor - Store Composition with Collection](https://github.com/neomjs/neo/issues/6984)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
+- [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
 - [--experimental-strip-types default value should depend on --without-amaro configure flag](https://github.com/nodejs/node/issues/60640)
 - [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 - [`SuiteContext` missing `fullName` property that exists at runtime](https://github.com/nodejs/node/issues/60757)
@@ -258,85 +187,144 @@ This list gets updated every day at midnight.
 - [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
 - [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
 
-## [Circuit-Overtime/elixpo_chapter](https://github.com/Circuit-Overtime/elixpo_chapter)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [[FING]: Redesign and Improve Authentication Pages (Login & Signup) for Better UI/UX ](https://github.com/Circuit-Overtime/elixpo_chapter/issues/266)
-- [[FING]: Make the Footer Section Sleeker and More Visually Appealing](https://github.com/Circuit-Overtime/elixpo_chapter/issues/268)
-- [[FING]: Add Multiple Authentication Providers (GitHub & Facebook) Alongside Google Auth](https://github.com/Circuit-Overtime/elixpo_chapter/issues/267)
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
 
-## [amfoss/amFOSS.in](https://github.com/amfoss/amFOSS.in)
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
 
-- [Make a README.md for this project](https://github.com/amfoss/amFOSS.in/issues/2)
-- [Add Issue and PR Template](https://github.com/amfoss/amFOSS.in/issues/27)
+- [[DevEx]: Refactor snack bars to centralize them](https://github.com/cuttle-cards/cuttle/issues/1299)
+- [[DevEx]: Prevent unscoped `<style>` blocks with eslint rule enforce-style-attribute](https://github.com/cuttle-cards/cuttle/issues/1293)
 
-## [topper3418/planner_v2](https://github.com/topper3418/planner_v2)
+## [sahithyaba/Make-Me-Productive---Youtube-Focus-Buddy](https://github.com/sahithyaba/Make-Me-Productive---Youtube-Focus-Buddy)
 
-- [create a run_delete function on core](https://github.com/topper3418/planner_v2/issues/35)
-- [Clean up imports](https://github.com/topper3418/planner_v2/issues/36)
-- [Add visual for "dev server"](https://github.com/topper3418/planner_v2/issues/30)
+- [Ui Fix - Hiding Playlists in Home](https://github.com/sahithyaba/Make-Me-Productive---Youtube-Focus-Buddy/issues/9)
+- [Feature - Suggestions/Feedback Collection Form](https://github.com/sahithyaba/Make-Me-Productive---Youtube-Focus-Buddy/issues/4)
 
-## [andredarcie/tiny-rpg-maker](https://github.com/andredarcie/tiny-rpg-maker)
+## [code-charity/youtube](https://github.com/code-charity/youtube)
 
-- [Enemies move in game and in editor](https://github.com/andredarcie/tiny-rpg-maker/issues/21)
-- [Dialogs should pause enemies](https://github.com/andredarcie/tiny-rpg-maker/issues/20)
+- [🐞 Members Only Videos can be seen](https://github.com/code-charity/youtube/issues/3386)
+- [💡 Set hotkeys for certain playback speeds, similar to quality hotkeys](https://github.com/code-charity/youtube/issues/3390)
+- [🐞 Youtube Ad Blocker Don´t work](https://github.com/code-charity/youtube/issues/3392)
+- [💡 option don't speed up the advertisements](https://github.com/code-charity/youtube/issues/3391)
+- [💡 changing the playback speed and volume with the mouse wheel](https://github.com/code-charity/youtube/issues/3388)
+- [🐞 Left Side Menu Sticky Navigation not working in Firefox](https://github.com/code-charity/youtube/issues/3389)
+- [💡Header positions for Shorts](https://github.com/code-charity/youtube/issues/3387)
+- [🐞YT SHorts fuillscreen button missing](https://github.com/code-charity/youtube/issues/3379)
+- [💡](https://github.com/code-charity/youtube/issues/3383)
+- [🐞YouTube video fails to load or respond with Improve YouTube! enabled](https://github.com/code-charity/youtube/issues/3270)
+- [🐞Like Button get dark invisible in fullscreen](https://github.com/code-charity/youtube/issues/3298)
+- [💡hexadecimal input instead of (or in addition to) color wheel.](https://github.com/code-charity/youtube/issues/3381)
+- [🐞"Pause while I watch a 2nd video" not working](https://github.com/code-charity/youtube/issues/3204)
+- [🐞YT Shorts no longer has a fullscreen button anywhere](https://github.com/code-charity/youtube/issues/3378)
+- [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
+- [💡Remove the new "most relevant" section on subscriptions page](https://github.com/code-charity/youtube/issues/3377)
+- [v4.1326 zh_CN messages.json file is completely butchered](https://github.com/code-charity/youtube/issues/3374)
+- [🐞end cards or whatever they're called are now showing up for me, even though endscreen is off](https://github.com/code-charity/youtube/issues/3286)
+- [🐞The three-dot icon isn’t showing up on the main page or in the comments.](https://github.com/code-charity/youtube/issues/3354)
+- [🐞hide player button "play on tv" did not hide airplay button](https://github.com/code-charity/youtube/issues/3364)
+- [🐞Default channel tab not being applied to home page](https://github.com/code-charity/youtube/issues/3082)
+- [🐞"Show video remaining duration" breaks YouTube's live stream return-to-live button](https://github.com/code-charity/youtube/issues/3333)
+- [BLOCK ALL Channels + WHITELIST](https://github.com/code-charity/youtube/issues/3351)
+- [Update Appstore version of this app](https://github.com/code-charity/youtube/issues/3365)
+- [💡wish: remove links from usernames in comment section](https://github.com/code-charity/youtube/issues/3142)
+- [🐞The theatre mode in Firefox does not work the same than in Microsoft Edge. It could be a BUG.](https://github.com/code-charity/youtube/issues/3363)
+- [🐞Option under Player, Pause while I watch a 2nd video does NOT work. It is a serious BUG.](https://github.com/code-charity/youtube/issues/3362)
+- [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
+- [🐞 AntennaPod does unwanted podcast starts](https://github.com/code-charity/youtube/issues/3355)
+- [💡The new youtube update dont allow to save more than one time a video, is really awfull that new feature when I need to save music](https://github.com/code-charity/youtube/issues/3289)
+- [custom playback speed feature not woriking](https://github.com/code-charity/youtube/issues/3275)
+- [🐞YouTube Preventing the Popup Player From Working](https://github.com/code-charity/youtube/issues/3337)
+- [💡4 new features that are needed. Thanks.](https://github.com/code-charity/youtube/issues/3321)
+- [💡Set default auto-translate language](https://github.com/code-charity/youtube/issues/3338)
+- [💡Add Video Zoom/Crop Function for Better Visibility on Small Screens](https://github.com/code-charity/youtube/issues/3339)
+- [🐞The settings of the in-player buttons - rewind & forward - do not persist for more than 2-3 days or if some other other settings (e.g., fit to window) are changed.](https://github.com/code-charity/youtube/issues/3334)
+- [💡Add a button to set "Not Interested" and "Don't show this channel" with 1 click.](https://github.com/code-charity/youtube/issues/3313)
+- [Remove "includes paid promotion" links from thumbnails.](https://github.com/code-charity/youtube/issues/2423)
+- [💡Boost (Forced) Volume as a button or an override on actual volume slider.](https://github.com/code-charity/youtube/issues/3284)
+- [🐞Live Chat "Collapsed" mode prevents reopening during live videos](https://github.com/code-charity/youtube/issues/3291)
+- [💡option to stop shorts from repeating](https://github.com/code-charity/youtube/issues/3324)
+- [🐞Header Position = Static hides the header/search bar on the YouTube homepage](https://github.com/code-charity/youtube/issues/3322)
+- [🐞Player resizing is broken](https://github.com/code-charity/youtube/issues/3319)
+- [🐞Live Chat Became Invisible When On Fullscreen](https://github.com/code-charity/youtube/issues/3318)
+- [🐞 The cinema button doesn't always show up](https://github.com/code-charity/youtube/issues/3254)
+- [Remove "experiencing interruptions find out why" popup](https://github.com/code-charity/youtube/issues/2424)
+- [🐞Can't Load Edge Extension Unpacked (Master)](https://github.com/code-charity/youtube/issues/3312)
+- [🐞Popup Player Shows YT "This video is unavailable" Error](https://github.com/code-charity/youtube/issues/3019)
+- [💡Allow music "mix" videos to be filtered out](https://github.com/code-charity/youtube/issues/3309)
+- [💡Boost Volume Button](https://github.com/code-charity/youtube/issues/3306)
+- [💡Still Missing Automatic Fit to Window](https://github.com/code-charity/youtube/issues/3303)
+- [🐞Navigating Channel Page, Specifically Home to videos = page freeze/failing to load](https://github.com/code-charity/youtube/issues/3302)
+- [💡Prevent the "In this video" panel from showing automatically in fullscreen](https://github.com/code-charity/youtube/issues/3301)
+- [New YouTube video layout breaks chapters on the sidebar](https://github.com/code-charity/youtube/issues/2324)
+- [🐞"save" button](https://github.com/code-charity/youtube/issues/3222)
+
+## [Ipshita29/LinkRead](https://github.com/Ipshita29/LinkRead)
+
+- [Implement Dark Mode functionality](https://github.com/Ipshita29/LinkRead/issues/13)
+- [Add footer component](https://github.com/Ipshita29/LinkRead/issues/10)
 
 ## [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 
 - [L.DomUtil.disableTextSelection should only disable text selection on the map container](https://github.com/Leaflet/Leaflet/issues/9259)
 
+## [shivamxverma/CodeSM](https://github.com/shivamxverma/CodeSM)
+
+- [Make a discussion section crud operation](https://github.com/shivamxverma/CodeSM/issues/11)
+- [voice to text in interview feature](https://github.com/shivamxverma/CodeSM/issues/7)
+- [work on interview feature](https://github.com/shivamxverma/CodeSM/issues/6)
+
+## [p2plabsxyz/peersky-browser](https://github.com/p2plabsxyz/peersky-browser)
+
+- [fix: Closing the last window prevents proper app shutdown and causes the last tab/window to reopen on next launch](https://github.com/p2plabsxyz/peersky-browser/issues/93)
+- [fix: open DevTools to the Right Instead of Detaching](https://github.com/p2plabsxyz/peersky-browser/issues/22)
+
+## [khemssharma/StudyNotion](https://github.com/khemssharma/StudyNotion)
+
+- [For v1.1.2](https://github.com/khemssharma/StudyNotion/issues/18)
+- [Display creator's name on course](https://github.com/khemssharma/StudyNotion/issues/2)
+
+## [worknenjoy/gitpay](https://github.com/worknenjoy/gitpay)
+
+- [[BE] Use native node.js promise](https://github.com/worknenjoy/gitpay/issues/1191)
+
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+
+- [feat(mafia): Upgrades for Independent Roles](https://github.com/UltiMafia/Ultimafia/issues/1695)
+
+## [NiranjanKumar001/Profocto](https://github.com/NiranjanKumar001/Profocto)
+
+- [Octopus Logo with Tentacle Animation for Loading Screen](https://github.com/NiranjanKumar001/Profocto/issues/2)
+- [Design a Sleek & Modern Logo for Our Website](https://github.com/NiranjanKumar001/Profocto/issues/1)
+
 ## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
 - [[TYPO] - Missing Action for Dwarf - Thick Skin](https://github.com/Foundryborne/daggerheart/issues/1209)
 
-## [palchhinparihar/WordWizard](https://github.com/palchhinparihar/WordWizard)
+## [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
 
-- [Advanced Case Conversion Features Hidden from Users](https://github.com/palchhinparihar/WordWizard/issues/111)
-- [[Bug]:](https://github.com/palchhinparihar/WordWizard/issues/195)
-- [Home and About navigate to Page not found in footer](https://github.com/palchhinparihar/WordWizard/issues/71)
+- [Exporting as PNG does not give the background/color for the annotation](https://github.com/HumanSignal/label-studio/issues/2482)
+- [Labeling Hebrew text causes words to mix](https://github.com/HumanSignal/label-studio/issues/1888)
 
-## [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [dead links ahoy](https://github.com/LispCookbook/cl-cookbook/issues/204)
-
-## [shirsakm/nightlio](https://github.com/shirsakm/nightlio)
-
-- [Feature Request: Import Daylio backups](https://github.com/shirsakm/nightlio/issues/48)
+- [Navigation Block + Page Link Block: Create draft option shows when adding an existing page](https://github.com/WordPress/gutenberg/issues/33962)
+- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
+- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
 
 ## [badges/shields](https://github.com/badges/shields)
 
 - [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [liav-hasson/quiz-app-frontend](https://github.com/liav-hasson/quiz-app-frontend)
 
-- [Request: Pomerium](https://github.com/simple-icons/simple-icons/issues/13977)
-- [Update: daisyUI](https://github.com/simple-icons/simple-icons/issues/14007)
-- [Request: Textual](https://github.com/simple-icons/simple-icons/issues/13974)
-- [Request: Coreboot](https://github.com/simple-icons/simple-icons/issues/13729)
-- [Request: RTVE](https://github.com/simple-icons/simple-icons/issues/12272)
-- [Request: Supercell](https://github.com/simple-icons/simple-icons/issues/13538)
-
-## [uclaacm/website](https://github.com/uclaacm/website)
-
-- [Updates to About Page](https://github.com/uclaacm/website/issues/492)
-
-## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
-
-- [ESCAPE character issue](https://github.com/AlaSQL/alasql/issues/1978)
-- [Promise.all error](https://github.com/AlaSQL/alasql/issues/1953)
-- [fix RECORDSET returning empty columns if there's no matched rows issu…](https://github.com/AlaSQL/alasql/pull/1733)
-- [localstorage: creating view succeeds but selecting from it fails](https://github.com/AlaSQL/alasql/issues/1470)
-- [alasql not checking schema on insertion](https://github.com/AlaSQL/alasql/issues/926)
-
-## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
-
-- [FAQ database: Add content: How can I search and filter my projects](https://github.com/hackforla/tdm-calculator/issues/2744)
-- [FAQ database: Q4 How do I export a project to PDF or .CSV file?](https://github.com/hackforla/tdm-calculator/issues/2743)
-- [Dev: Fix column heading alignment and Date format on Security page](https://github.com/hackforla/tdm-calculator/issues/2580)
-- [FAQ database: how to create duplicate projects](https://github.com/hackforla/tdm-calculator/issues/2750)
-- [FAQ database: Explain Glossary of terms that appear in this TDM application](https://github.com/hackforla/tdm-calculator/issues/2755)
-- [FAQ database: how to convert a project to a snapshot](https://github.com/hackforla/tdm-calculator/issues/2753)
-- [FAQ database: How to Submit a Snapshot](https://github.com/hackforla/tdm-calculator/issues/2754)
-- [FAQ database: How to delete projects, view deleted projects and then Restore Projects](https://github.com/hackforla/tdm-calculator/issues/2752)
-- [FAQ database: how to rename a snapshot](https://github.com/hackforla/tdm-calculator/issues/2751)
-- [FAQ database: How do I hide or unhide a project from my list](https://github.com/hackforla/tdm-calculator/issues/2749)
+- [Implement Logout and Token Refresh Logic](https://github.com/liav-hasson/quiz-app-frontend/issues/20)
+- [Secure Token Handling and Storage](https://github.com/liav-hasson/quiz-app-frontend/issues/19)
+- [Update & Polish Google SSO UI/UX](https://github.com/liav-hasson/quiz-app-frontend/issues/18)
+- [Define Backend Communication Protocol for OAuth](https://github.com/liav-hasson/quiz-app-frontend/issues/17)
+- [Review Current OAuth/SSO Implementation](https://github.com/liav-hasson/quiz-app-frontend/issues/16)
+- [Plan for Finalizing Google OAuth/SSO Integration (Frontend)](https://github.com/liav-hasson/quiz-app-frontend/issues/15)
 
