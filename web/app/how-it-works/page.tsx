@@ -229,7 +229,7 @@ export default function HowItWorksPage() {
                   title="GitHub Stars"
                   width="160"
                   height="30"
-                  style={{ border: 0 }}
+                  className="border-0"
                 />
               </div>
             </div>

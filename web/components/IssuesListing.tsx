@@ -239,7 +239,7 @@ function Header({ value, onChange, onOpenHistory }: { value: string; onChange: (
                 title="GitHub Stars"
                 width="160"
                 height="30"
-                style={{ border: 0 }}
+                className="border-0"
               />
             </div>
           </div>
@@ -598,6 +598,7 @@ function HistoryModal({ open, onOpenChange, commits, selectedSha, onChangeSha, o
               className="h-10 rounded-xl border border-border/50 bg-background/50 px-4 text-sm flex-1 min-w-0 max-w-full" 
               value={selectedSha} 
               onChange={(e) => onChangeSha(e.target.value)}
+              aria-label="Select a commit to view snapshot"
             >
               <option value="">Select a commit…</option>
               {commits.map((c) => (
