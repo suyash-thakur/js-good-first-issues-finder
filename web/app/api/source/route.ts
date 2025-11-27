@@ -5,6 +5,9 @@ import path from "node:path";
 
 export const runtime = "nodejs";
 
+/** max file size allowed to return (in bytes). Adjust as needed. */
+const MAX_FILE_BYTES = 1_200_000; // ~1.2 MB
+
 /** Return allowed paths mapping (kept in function for easy extraction later) */
 function getAllowedPaths(): Record<string, string> {
   const cwd = process.cwd();
@@ -31,17 +34,34 @@ async function validateKey(key: string | null, allowed: Record<string, string>) 
     throw { status: 400, message: "Missing 'file' query parameter" };
   }
 
-  if (!(key in allowed)) {
-    throw { status: 400, message: `Unsupported file key: ${key}` };
+  const normalizedKey = key.trim();
+  if (!normalizedKey) {
+    throw { status: 400, message: "Empty 'file' query parameter" };
   }
 
-  const filePath = allowed[key];
+  if (!(normalizedKey in allowed)) {
+    throw { status: 400, message: `Unsupported file key: ${normalizedKey}` };
+  }
 
-  // Extra safety: ensure file exists and is readable
+  const filePath = allowed[normalizedKey];
+
+  // Ensure file exists and is readable
   try {
     await fs.access(filePath, fsConstants.R_OK);
   } catch {
     throw { status: 404, message: `File not found or not readable: ${filePath}` };
+  }
+
+  // Optional: check file size to avoid returning huge files
+  try {
+    const stats = await fs.stat(filePath);
+    if (stats.size > MAX_FILE_BYTES) {
+      throw { status: 413, message: `File too large to return (${stats.size} bytes)` };
+    }
+  } catch (e: any) {
+    // if fs.stat failed for other reason, surface as 500
+    if (e && typeof e === "object" && "status" in e) throw e;
+    // else keep going (or throw generic)
   }
 
   return filePath;
@@ -57,9 +77,10 @@ export async function GET(request: NextRequest) {
   const allowed = getAllowedPaths();
 
   try {
-    // Use request.nextUrl when available (Next.js Request)
+    // Prefer request.nextUrl when available (Next.js runtime), fallback to URL()
     const searchParams = request.nextUrl?.searchParams ?? new URL(request.url).searchParams;
-    const key = searchParams.get("file");
+    const rawKey = searchParams.get("file");
+    const key = rawKey ? rawKey.trim() : null;
 
     const filePath = await validateKey(key, allowed);
     const content = await readFileContent(filePath);
