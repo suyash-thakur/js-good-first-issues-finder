@@ -5,10 +5,7 @@ import path from "node:path";
 
 export const runtime = "nodejs";
 
-/**
- * Return the allowed paths mapping.
- * Keep this function for easy future extraction to a config module.
- */
+/** Return allowed paths mapping (kept in function for easy extraction later) */
 function getAllowedPaths(): Record<string, string> {
   const cwd = process.cwd();
   return {
