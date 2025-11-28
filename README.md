@@ -4,17 +4,11 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [olympus-btc/ambrosia](https://github.com/olympus-btc/ambrosia)
-
-- [Mobile Adaptation of the Application](https://github.com/olympus-btc/ambrosia/issues/193)
-- [Create Installation Guide on Website](https://github.com/olympus-btc/ambrosia/issues/146)
-- [Update API Documentation (Swagger/OpenAPI)](https://github.com/olympus-btc/ambrosia/issues/117)
-- [Característica: Crear un video demo de la aplicación (Web/README)](https://github.com/olympus-btc/ambrosia/issues/113)
+- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
+- [Bruno UI should remember layout on restart](https://github.com/usebruno/bruno/issues/1988)
+- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -46,47 +40,92 @@ This list gets updated every day at midnight.
 - [[Template] Create an Information Architecture: Sitemap template](https://github.com/meshery/meshery/issues/12464)
 - [[mesheryctl] Create Unit and Integration Tests for `mesheryctl exp environment create` Command](https://github.com/meshery/meshery/issues/12138)
 
+## [helm/helm-www](https://github.com/helm/helm-www)
+
+- [Quickstart Guide References Bitnami Charts, is this affected by "Upcoming changes to the Bitnami catalog (effective August 28th, 2025)"](https://github.com/helm/helm-www/issues/1752)
+- [[docs] address missing topics in docs](https://github.com/helm/helm-www/issues/266)
+- [Helm Template Comments formatting inconsistent/wrong](https://github.com/helm/helm-www/issues/1254)
+- [Add trick for accessing chart names inside Values with dashes to Best Practices documentation](https://github.com/helm/helm-www/issues/1272)
+
+## [GB609/batocera-ES-onArch](https://github.com/GB609/batocera-ES-onArch)
+
+- [[btc-config:generateGlobalConfiguration] command line arguments as alternative to env variables](https://github.com/GB609/batocera-ES-onArch/issues/13)
+- [research / test AMX behavior when multiple controllers are in use](https://github.com/GB609/batocera-ES-onArch/issues/53)
+
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+
+- [feat: search/find in tasks - title, description, details, test-strategy, sub-tasks.](https://github.com/eyaltoledano/claude-task-master/issues/1453)
+- [Status emoji alignment issues in boxen titles](https://github.com/eyaltoledano/claude-task-master/issues/1418)
+- [Bug: Warning emoji in boxen titles causes alignment issues](https://github.com/eyaltoledano/claude-task-master/issues/1394)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Slow page reload running in development](https://github.com/vercel/next.js/issues/25108)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
 - [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
 - [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
 - [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
 
-## [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen)
-
-- [[ci] setup-swift is too flaky](https://github.com/CycloneDX/cdxgen/issues/965)
-
-## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
-
-- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
-- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
-
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
-
-- [[Technical Debt] Add Comprehensive Test Coverage (Target: 80%)](https://github.com/lokus-ai/lokus/issues/163)
-- [[Feature] Callouts/Admonitions - Phase 1: Basic Implementation](https://github.com/lokus-ai/lokus/issues/131)
-- [[Bug]: Re-enable E2E tests in CI](https://github.com/lokus-ai/lokus/issues/211)
-- [[Feature]: Improve dev container setup](https://github.com/lokus-ai/lokus/issues/231)
-- [[Feature]: Create test data generators](https://github.com/lokus-ai/lokus/issues/217)
-- [[Technical Debt] Fix 162 TODOs/FIXMEs/HACKs in Codebase](https://github.com/lokus-ai/lokus/issues/166)
-- [[Feature] Implement Daily Notes (Empty Directory Exists)](https://github.com/lokus-ai/lokus/issues/167)
-
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Global blockGap property is not overridable in style variations](https://github.com/WordPress/gutenberg/issues/72318)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
 - [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
 - [Navigation Block + Page Link Block: Create draft option shows when adding an existing page](https://github.com/WordPress/gutenberg/issues/33962)
 - [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
 - [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
 
 ## [YodasWs/Empires-4x](https://github.com/YodasWs/Empires-4x)
 
 - [Assign Laborers to a Faction](https://github.com/YodasWs/Empires-4x/issues/31)
 
-## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
+## [meteor/meteor](https://github.com/meteor/meteor)
 
-- [Replace yup with zod](https://github.com/openedx/frontend-app-authoring/issues/2698)
-- [Remove Higher Order Components from Editors](https://github.com/openedx/frontend-app-authoring/issues/2089)
+- [`forbidClientAccountCreation` is `true`, but UI still shows "Create account".](https://github.com/meteor/meteor/issues/13922)
+- [Missing docs](https://github.com/meteor/meteor/issues/13641)
+- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
+- [Homepage Widget](https://github.com/bluewave-labs/Checkmate/issues/2792)
+- [Telegram doesn't seem to be an available notification type?](https://github.com/bluewave-labs/Checkmate/issues/2753)
+- [Feature Request: Be able to choose what disks to monitor](https://github.com/bluewave-labs/Checkmate/issues/2840)
+- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
+- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
+
+## [apify/apify-docs](https://github.com/apify/apify-docs)
+
+- [Create overview pages for all Apify docs](https://github.com/apify/apify-docs/issues/1869)
+- [Incorrect information about the storage and data retention](https://github.com/apify/apify-docs/issues/1720)
+
+## [xthxr/Link360](https://github.com/xthxr/Link360)
+
+- [[Bug Report] There is an API key in the profile section which is not working](https://github.com/xthxr/Link360/issues/5)
+- [Add a region wise analytics of the UTM links generated](https://github.com/xthxr/Link360/issues/1)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
+- [--experimental-strip-types default value should depend on --without-amaro configure flag](https://github.com/nodejs/node/issues/60640)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [Improve the `ERR_AMBIGUOUS_MODULE_SYNTAX` error message](https://github.com/nodejs/node/issues/60322)
+- [Error [ERR_INTERNAL_ASSERTION]: TypeError [ERR_INVALID_THIS]: Value of "this" must be of type EventTarget](https://github.com/nodejs/node/issues/46323)
+- [Inconsistent validation of custom signals](https://github.com/nodejs/node/issues/44749)
+- [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+- [tools: lint TypeScript files](https://github.com/nodejs/node/issues/55702)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
 
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
@@ -109,144 +148,34 @@ This list gets updated every day at midnight.
 - [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
 - [Clarify UI port after running Ruby OTLP exporter Docker command](https://github.com/open-telemetry/opentelemetry.io/issues/8036)
 
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
+- [Dyndns based Steam game server monitoring](https://github.com/louislam/uptime-kuma/issues/5934)
+- [How to write a compose.yaml for rootless setup?](https://github.com/louislam/uptime-kuma/issues/6299)
 
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [feat: search/find in tasks - title, description, details, test-strategy, sub-tasks.](https://github.com/eyaltoledano/claude-task-master/issues/1453)
-- [Status emoji alignment issues in boxen titles](https://github.com/eyaltoledano/claude-task-master/issues/1418)
-- [Bug: Warning emoji in boxen titles causes alignment issues](https://github.com/eyaltoledano/claude-task-master/issues/1394)
-
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-
-- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
-- [Homepage Widget](https://github.com/bluewave-labs/Checkmate/issues/2792)
-- [Telegram doesn't seem to be an available notification type?](https://github.com/bluewave-labs/Checkmate/issues/2753)
-- [Feature Request: Be able to choose what disks to monitor](https://github.com/bluewave-labs/Checkmate/issues/2840)
-- [Better infrastructure notification and listing as incidents](https://github.com/bluewave-labs/Checkmate/issues/2589)
-- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [Refactor - Store Composition with Collection](https://github.com/neomjs/neo/issues/6984)
-
-## [ucsb-cs156/proj-happycows](https://github.com/ucsb-cs156/proj-happycows)
-
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156/proj-happycows/issues/186)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156/proj-happycows/issues/150)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-- [Play All button](https://github.com/FreeTubeApp/FreeTube/issues/629)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Remove `privacySandboxModule` feature flag](https://github.com/google/site-kit-wp/issues/11603)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
-
-## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
-
-- [Global UI for modals](https://github.com/micahlt/itchy-native/issues/133)
-- [In-app UI for TurboWarp embed controls](https://github.com/micahlt/itchy-native/issues/132)
-- [Speed up animations](https://github.com/micahlt/itchy-native/issues/131)
-- [Visible commentee names for project and studio threads](https://github.com/micahlt/itchy-native/issues/124)
-- [Allow importing SB3 files](https://github.com/micahlt/itchy-native/issues/105)
-- [Allow downloading projects to use offline](https://github.com/micahlt/itchy-native/issues/104)
-- [Add turbo mode toggle](https://github.com/micahlt/itchy-native/issues/95)
-- [Search by project ID](https://github.com/micahlt/itchy-native/issues/94)
-- [History implementation](https://github.com/micahlt/itchy-native/issues/53)
-
-## [crazylogic03/project-management-app](https://github.com/crazylogic03/project-management-app)
-
-- [Work on Different pages](https://github.com/crazylogic03/project-management-app/issues/4)
-- [Create Task Detail and route](https://github.com/crazylogic03/project-management-app/issues/8)
-- [Create Projects page and route](https://github.com/crazylogic03/project-management-app/issues/7)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
-
-## [radicise/territopple](https://github.com/radicise/territopple)
-
-- [Add name change page](https://github.com/radicise/territopple/issues/44)
-- [Make it more obvious whose turn it is](https://github.com/radicise/territopple/issues/46)
-- [Add Alternate Scoring Options](https://github.com/radicise/territopple/issues/34)
+- [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
 
 ## [LibreSign/libresign](https://github.com/LibreSign/libresign)
 
 - [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
 - [Initial implementation of Jest](https://github.com/LibreSign/libresign/issues/5062)
 
-## [komleff/u2](https://github.com/komleff/u2)
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
 
-- [Comic Book Art Style Guide](https://github.com/komleff/u2/issues/93)
-- [Mobile Touch Controls Polish](https://github.com/komleff/u2/issues/92)
-- [Player Onboarding Tutorial](https://github.com/komleff/u2/issues/94)
-- [Debug Overlay (F3)](https://github.com/komleff/u2/issues/104)
+- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [cds-snc/ai-answers](https://github.com/cds-snc/ai-answers)
 
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-
-## [medic/cht-core](https://github.com/medic/cht-core)
-
-- [UI Navigation: Screenshot Generation for Reports Section](https://github.com/medic/cht-core/issues/9500)
-- [UI Navigation: Screenshot Generation for Targets Section](https://github.com/medic/cht-core/issues/9503)
-- [Add a @medic/constants shared library](https://github.com/medic/cht-core/issues/9621)
-- [Record telemetry for External Android App calls](https://github.com/medic/cht-core/issues/10217)
-
-## [playcanvas/engine](https://github.com/playcanvas/engine)
-
-- [Rectangle - with position, orientation and size that can be intersected with Ray and other Shapes.](https://github.com/playcanvas/engine/issues/889)
-
-## [doc-detective/doc-detective.github.io](https://github.com/doc-detective/doc-detective.github.io)
-
-- [screenshot action docs](https://github.com/doc-detective/doc-detective.github.io/issues/56)
-
-## [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web)
-
-- [Add a functionality to automatically search with CompGen meta search](https://github.com/gramps-project/gramps-web/issues/558)
-- [Source: allow editing author and repository reference](https://github.com/gramps-project/gramps-web/issues/57)
-
-## [rrojas1819/Strands-Backend](https://github.com/rrojas1819/Strands-Backend)
-
-- [BS 1.0 - Duplicate endpoint for get/view employees.](https://github.com/rrojas1819/Strands-Backend/issues/24)
-- [BS 1.5 Get rid of role check that isn't needed.](https://github.com/rrojas1819/Strands-Backend/issues/20)
-- [UAR 1.8 needs to get rid of role check.](https://github.com/rrojas1819/Strands-Backend/issues/11)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [[Feature request] Switch tabs with keyboard shortcut](https://github.com/usebruno/bruno/issues/736)
-- [Bruno UI should remember layout on restart](https://github.com/usebruno/bruno/issues/1988)
-- [Feature request: support for importing Thunder Client collections](https://github.com/usebruno/bruno/issues/511)
-
-## [helm/helm-www](https://github.com/helm/helm-www)
-
-- [Quickstart Guide References Bitnami Charts, is this affected by "Upcoming changes to the Bitnami catalog (effective August 28th, 2025)"](https://github.com/helm/helm-www/issues/1752)
-- [[docs] address missing topics in docs](https://github.com/helm/helm-www/issues/266)
-- [Helm Template Comments formatting inconsistent/wrong](https://github.com/helm/helm-www/issues/1254)
-- [Add trick for accessing chart names inside Values with dashes to Best Practices documentation](https://github.com/helm/helm-www/issues/1272)
-
-## [google/closure-compiler](https://github.com/google/closure-compiler)
-
-- [Bad type annotation when documenting an optional parameter value](https://github.com/google/closure-compiler/issues/3767)
+- [FILTER PANEL: Add answer.answerType to filter](https://github.com/cds-snc/ai-answers/issues/525)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [[ACTION] Freshdesk - Canned Responses](https://github.com/PipedreamHQ/pipedream/issues/19166)
 - [[ACTION] Booking Experts - expand filters](https://github.com/PipedreamHQ/pipedream/issues/19270)
-- [[ACTION] Belco - Conversations](https://github.com/PipedreamHQ/pipedream/issues/19167)
+- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
 - [GET_LEDGER_SUMMARY_VIEW_DATA](https://github.com/PipedreamHQ/pipedream/issues/19202)
-- [[ACTION] Trengo - tickets](https://github.com/PipedreamHQ/pipedream/issues/19171)
+- [[ACTION] Freshdesk - Canned Responses](https://github.com/PipedreamHQ/pipedream/issues/19166)
 - [[ACTION] trengo - Helpcenter](https://github.com/PipedreamHQ/pipedream/issues/19172)
 - [[ACTION] Zendesk - Helpcenter](https://github.com/PipedreamHQ/pipedream/issues/19164)
 - [[ACTION] Zendesk - Macros](https://github.com/PipedreamHQ/pipedream/issues/19165)
@@ -256,23 +185,82 @@ This list gets updated every day at midnight.
 - [[ACTION] trengo - macros](https://github.com/PipedreamHQ/pipedream/issues/19173)
 - [[ACTION] Hubspot - tickets](https://github.com/PipedreamHQ/pipedream/issues/19175)
 - [[TRIGGER] Shopify Draft Order Updated trigger not firing when line items are added/removed](https://github.com/PipedreamHQ/pipedream/issues/19147)
-- [[ACTION] Helpscout](https://github.com/PipedreamHQ/pipedream/issues/19176)
 - [[ACTION] Helpscout - Articles](https://github.com/PipedreamHQ/pipedream/issues/19178)
 - [[ACTION] Front - Statuses](https://github.com/PipedreamHQ/pipedream/issues/19179)
-- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
 - [[ACTION] Sage CRM new actions](https://github.com/PipedreamHQ/pipedream/issues/19024)
-- [chat completion action not found](https://github.com/PipedreamHQ/pipedream/issues/18858)
 
-## [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2)
+## [olympus-btc/ambrosia](https://github.com/olympus-btc/ambrosia)
 
-- [Introducing broken map context state](https://github.com/geosolutions-it/MapStore2/issues/11140)
+- [Mobile Adaptation of the Application](https://github.com/olympus-btc/ambrosia/issues/193)
+- [Create Installation Guide on Website](https://github.com/olympus-btc/ambrosia/issues/146)
+- [Update API Documentation (Swagger/OpenAPI)](https://github.com/olympus-btc/ambrosia/issues/117)
+- [Característica: Crear un video demo de la aplicación (Web/README)](https://github.com/olympus-btc/ambrosia/issues/113)
 
-## [nextcloud/mail](https://github.com/nextcloud/mail)
+## [Bingham-Research-Center/ubair-website](https://github.com/Bingham-Research-Center/ubair-website)
 
-- [[NoMessageSelected.vue] Apostrophe in cloudName renders as HTML encoded string](https://github.com/nextcloud/mail/issues/9076)
-- [»Loading folder« should show the folder icon on top and the loading icon next to the text](https://github.com/nextcloud/mail/issues/315)
+- [Review Q&A/info pages - reserve for technical overviews (e.g., Clyfar explainer)](https://github.com/Bingham-Research-Center/ubair-website/issues/92)
+- ["Add to Dock" iOS currently ugly](https://github.com/Bingham-Research-Center/ubair-website/issues/12)
+- [Establish test-driven workflow guidelines](https://github.com/Bingham-Research-Center/ubair-website/issues/91)
+- [Add complementary trim/accent color for visual polish (USU brand)](https://github.com/Bingham-Research-Center/ubair-website/issues/96)
+- [Hide in-development pages under navbar dropdown](https://github.com/Bingham-Research-Center/ubair-website/issues/93)
 
-## [cds-snc/ai-answers](https://github.com/cds-snc/ai-answers)
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
 
-- [FILTER PANEL: Add answer.answerType to filter](https://github.com/cds-snc/ai-answers/issues/525)
+- [Task Group viewer task durations not updating when filtering by task status](https://github.com/taskcluster/taskcluster/issues/8104)
+- [Add an indication when the graphql websocket gets closed due to the lack of `web:read-pulse` scope](https://github.com/taskcluster/taskcluster/issues/8070)
+
+## [openedx/frontend-app-authoring](https://github.com/openedx/frontend-app-authoring)
+
+- [Replace yup with zod](https://github.com/openedx/frontend-app-authoring/issues/2698)
+- [Remove Higher Order Components from Editors](https://github.com/openedx/frontend-app-authoring/issues/2089)
+
+## [thatlonelybugbear/automated-conditions-5e](https://github.com/thatlonelybugbear/automated-conditions-5e)
+
+- [Compatibility tests for Simplecover5e module.](https://github.com/thatlonelybugbear/automated-conditions-5e/issues/648)
+
+## [microsoft/Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit)
+
+- [Issues configuring automated testing for CoPilot Studio agent with Generative Nodes, in CoPilot Studio Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/298)
+- [Conversation KPI is blank while data exists](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/345)
+- [Some scenarios is not picking up properly during execution:](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/474)
+- [Agent not showing up in Copilot Studio kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/451)
+- [Conversation KPI is unable to fetch data in both the Sandbox and Developer environments.](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/477)
+- [MSFT Authentication GCC Tenant](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/319)
+- [[Bug] Error when trying to retrieve data from the network](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/445)
+
+## [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+
+- [Addon Upgrade functionality](https://github.com/Stremio/stremio-web/issues/196)
+
+## [Circuit-Overtime/elixpo_chapter](https://github.com/Circuit-Overtime/elixpo_chapter)
+
+- [[FING]: Redesign and Improve Authentication Pages (Login & Signup) for Better UI/UX ](https://github.com/Circuit-Overtime/elixpo_chapter/issues/266)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
+
+## [putra4648/warehouse_system](https://github.com/putra4648/warehouse_system)
+
+- [Outbound Module](https://github.com/putra4648/warehouse_system/issues/79)
+- [Inbound Module](https://github.com/putra4648/warehouse_system/issues/78)
+
+## [scsc-init/homepage_init_frontend](https://github.com/scsc-init/homepage_init_frontend)
+
+- [discord 채널에 레포지토리 `webhook` 도입](https://github.com/scsc-init/homepage_init_frontend/issues/303)
+- [NextAuthjs Email misdelivery Vulnerability 문제 해결](https://github.com/scsc-init/homepage_init_frontend/issues/287)
+
+## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
+
+- [[Containers] Configure "secrets" via `*_FILE` environment variables with reading secret values from said files](https://github.com/miroslavpejic85/mirotalk/issues/290)
+- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
+
+## [SemanticMediaWiki/SemanticResultFormats](https://github.com/SemanticMediaWiki/SemanticResultFormats)
+
+- [Mode format returns mode count, not the actual mode](https://github.com/SemanticMediaWiki/SemanticResultFormats/issues/979)
+
+## [Open-Source-Kashmir/osk](https://github.com/Open-Source-Kashmir/osk)
+
+- [Bug: Program options not visible when on Programs page](https://github.com/Open-Source-Kashmir/osk/issues/110)
 
