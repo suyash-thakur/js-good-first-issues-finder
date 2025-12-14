@@ -4,10 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [playcanvas/engine](https://github.com/playcanvas/engine)
-
-- [Rectangle - with position, orientation and size that can be intersected with Ray and other Shapes.](https://github.com/playcanvas/engine/issues/889)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [Anchor tag not scrolling to community forum section](https://github.com/meshery/meshery.io/issues/2444)
@@ -15,15 +11,138 @@ This list gets updated every day at midnight.
 - [[Feature] Creating a dedicated Newcomer's Guide](https://github.com/meshery/meshery.io/issues/2178)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
+- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
+
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
 - [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
 - [[UI] Migrate Playwright extensions spec to use Playwright Page Object Model](https://github.com/meshery/meshery/issues/15373)
 - [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-- [[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template](https://github.com/meshery/meshery/issues/10295)
-- [[Models][UX]: Design Icon for ArgoCD Component - App Project ](https://github.com/meshery/meshery/issues/10291)
-- [[Template] Create a Mind Map template](https://github.com/meshery/meshery/issues/12455)
-- [[Template] Create a AWS architecture template](https://github.com/meshery/meshery/issues/12500)
+
+## [Ai-Solutions-Store/AiCollabForTheKids-Public](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public)
+
+- [Add BaseScan link to transaction display](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public/issues/6)
+- [Improve mobile responsiveness on campaign page](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public/issues/5)
+- [Add keyboard shortcuts for navigation](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public/issues/4)
+- [Add loading skeletons for dashboard cards](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public/issues/3)
+- [Add dark mode toggle to dashboard](https://github.com/Ai-Solutions-Store/AiCollabForTheKids-Public/issues/2)
+
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
+
+- [[ci] setup-swift is too flaky](https://github.com/cdxgen/cdxgen/issues/965)
+
+## [AbdulMoeez1278/moizy-open-source-issues](https://github.com/AbdulMoeez1278/moizy-open-source-issues)
+
+- [Improve Error Handling for API Requests in JavaScript](https://github.com/AbdulMoeez1278/moizy-open-source-issues/issues/6)
+- [Add Input Validation Utility for Form Fields (JavaScript)](https://github.com/AbdulMoeez1278/moizy-open-source-issues/issues/8)
+- [Create Responsive Navigation Bar Using HTML & CSS](https://github.com/AbdulMoeez1278/moizy-open-source-issues/issues/3)
+- [Bug: Form Validation Not Working Properly on Submit (JavaScript)](https://github.com/AbdulMoeez1278/moizy-open-source-issues/issues/5)
+- [Add JavaScript Email Validation Function](https://github.com/AbdulMoeez1278/moizy-open-source-issues/issues/2)
+
+## [YodasWs/RomanLogisticsTycoon](https://github.com/YodasWs/RomanLogisticsTycoon)
+
+- [Title Screen Needed](https://github.com/YodasWs/RomanLogisticsTycoon/issues/3)
+- [Start adding audio assets](https://github.com/YodasWs/RomanLogisticsTycoon/issues/56)
+- [Main Menu Needed](https://github.com/YodasWs/RomanLogisticsTycoon/issues/2)
+
+## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
+
+- [Comprison on NULL differes from SQL](https://github.com/AlaSQL/alasql/issues/1414)
+- [primary key not working. Adds duplicate values.](https://github.com/AlaSQL/alasql/issues/1292)
+- [ESCAPE character issue](https://github.com/AlaSQL/alasql/issues/1978)
+- [Promise.all error](https://github.com/AlaSQL/alasql/issues/1953)
+
+## [conversejs/converse.js](https://github.com/conversejs/converse.js)
+
+- [Add autocomplete of possible XMPP servers when registering a new account](https://github.com/conversejs/converse.js/issues/2740)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [Add ntfy support to Checkmate](https://github.com/bluewave-labs/Checkmate/issues/2817)
+- [Telegram doesn't seem to be an available notification type?](https://github.com/bluewave-labs/Checkmate/issues/2753)
+- [Homepage Widget](https://github.com/bluewave-labs/Checkmate/issues/2792)
+- [Status Page: Custom CSS/JS/HTML overrides](https://github.com/bluewave-labs/Checkmate/issues/2863)
+- [I WISH CHECKMATE HAD...](https://github.com/bluewave-labs/Checkmate/issues/2389)
+- [Feature Request: Be able to choose what disks to monitor](https://github.com/bluewave-labs/Checkmate/issues/2840)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9032)
+- [[RFC]: Improve doctests for complex number instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8641)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9015)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8980)
+- [Bug with skin tone emojis when using `prevGraphemeClusterBreak` package](https://github.com/stdlib-js/stdlib/issues/1092)
+- [Insufficient TypeScript declaration tests for `@stdlib/utils/circular-buffer`](https://github.com/stdlib-js/stdlib/issues/474)
+- [[RFC]: replace static memory allocation of large arrays in C benchmarks with dynamic memory allocation (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8643)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8483)
+- [[RFC]: use string interpolation in JavaScript benchmarks for the benchmark name (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8647)
+- [[RFC]: Improve doctests for complex number typed arrays in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/4833)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8563)
+- [[RFC]: add `symbol/split`](https://github.com/stdlib-js/stdlib/issues/8488)
+- [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
+- [[RFC]: add `symbol/search`](https://github.com/stdlib-js/stdlib/issues/8480)
+- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
+
+## [mickdarling/merview](https://github.com/mickdarling/merview)
+
+- [Use more robust waiting strategies in theme-related tests](https://github.com/mickdarling/merview/issues/279)
+- [Extract test helper for filtering available theme options](https://github.com/mickdarling/merview/issues/278)
+- [Test: Add mermaid fullscreen close and zoom control tests](https://github.com/mickdarling/merview/issues/133)
+- [Docs: Add guide for configuring CORS headers on various platforms](https://github.com/mickdarling/merview/issues/213)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [Add export options for processed images](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [Make GitHub Pages workflow trigger only on relevant changes and break it into clear stages](https://github.com/Ryan-Millard/Img2Num/issues/84)
+- [Add search functionality to the docs using Algolia](https://github.com/Ryan-Millard/Img2Num/issues/82)
+- [Better support for Windows](https://github.com/Ryan-Millard/Img2Num/issues/80)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
+- [Community template: Credit card test data generator](https://github.com/ToolJet/ToolJet/issues/11007)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+
+- [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
+- [Add Unified Search Provider for LibreSign](https://github.com/LibreSign/libresign/issues/6027)
+
+## [radicise/territopple](https://github.com/radicise/territopple)
+
+- [make it more obvious which players have been eliminated](https://github.com/radicise/territopple/issues/55)
+- [Add Alternate Scoring Options](https://github.com/radicise/territopple/issues/34)
+- [Make it more obvious whose turn it is](https://github.com/radicise/territopple/issues/46)
+
+## [sanger/traction-ui](https://github.com/sanger/traction-ui)
+
+- [Y25-626 - [BUG] PacBio pool page gets distorted by large number of sources](https://github.com/sanger/traction-ui/issues/2511)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
+
+- [feat: search/find in tasks - title, description, details, test-strategy, sub-tasks.](https://github.com/eyaltoledano/claude-task-master/issues/1453)
+
+## [topper3418/planner_v2](https://github.com/topper3418/planner_v2)
+
+- [upgrade from_row](https://github.com/topper3418/planner_v2/issues/103)
+- [create a run_delete function on core](https://github.com/topper3418/planner_v2/issues/35)
+- [Clean up imports](https://github.com/topper3418/planner_v2/issues/36)
 
 ## [olympus-btc/ambrosia](https://github.com/olympus-btc/ambrosia)
 
@@ -32,20 +151,85 @@ This list gets updated every day at midnight.
 - [Update API Documentation (Swagger/OpenAPI)](https://github.com/olympus-btc/ambrosia/issues/117)
 - [Característica: Crear un video demo de la aplicación (Web/README)](https://github.com/olympus-btc/ambrosia/issues/113)
 
-## [nguyenphongad/DAILYCOOK_FE_MOBILE](https://github.com/nguyenphongad/DAILYCOOK_FE_MOBILE)
+## [getify/monio](https://github.com/getify/monio)
 
-- [create redux mealPlan genAI chat box](https://github.com/nguyenphongad/DAILYCOOK_FE_MOBILE/issues/31)
+- [IOxHelpers: research and provide additional operators](https://github.com/getify/monio/issues/15)
+- [Feature: improve ergonomics of identity checks](https://github.com/getify/monio/issues/26)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io)
 
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Add help text to Archive.org borrowables](https://github.com/buddhist-uni/buddhist-uni.github.io/issues/613)
 
-## [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
 
-- [Badges and tags](https://github.com/dembrandt/dembrandt/issues/18)
-- [Gradient pattern analysis](https://github.com/dembrandt/dembrandt/issues/16)
+- [[Bug]: In Mobile view search bar in Blog page isn’t responsive](https://github.com/physicshub/physicshub.github.io/issues/133)
+- [[Bug]: When you reset simulation SimInfos go to 0](https://github.com/physicshub/physicshub.github.io/issues/129)
+- [[Bug]: When you change simulation speed it doesn't save](https://github.com/physicshub/physicshub.github.io/issues/130)
+
+## [nem-web/smart-attendance](https://github.com/nem-web/smart-attendance)
+
+- [_⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/59)
+- [_⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/58)
+- [[Enhance] - Dashboard enhancement](https://github.com/nem-web/smart-attendance/issues/19)
+- [_⚠️ Potential issue_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/48)
+- [_⚠️ Potential issue_ | _🟡 Minor_](https://github.com/nem-web/smart-attendance/issues/47)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/46)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/45)
+- [_⚠️ Potential issue_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/44)
+- [Correct this _⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/43)
+- [Don't use camelcase _⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/39)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/49)
+- [[Enhance] - Buttons in Analytics page](https://github.com/nem-web/smart-attendance/issues/22)
+- [[Enhance] - Enhance the buttons in Students page](https://github.com/nem-web/smart-attendance/issues/21)
+- [[Enhance] - Attendance Page](https://github.com/nem-web/smart-attendance/issues/20)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
+## [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)
+
+- [deposit: version field should have a character limit](https://github.com/inveniosoftware/invenio-app-rdm/issues/3261)
+
+## [helm/helm-www](https://github.com/helm/helm-www)
+
+- [Quickstart Guide References Bitnami Charts, is this affected by "Upcoming changes to the Bitnami catalog (effective August 28th, 2025)"](https://github.com/helm/helm-www/issues/1752)
+
+## [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop)
+
+- [Add support for user high-contrast themes and dyslexia font](https://github.com/nextcloud/talk-desktop/issues/56)
+- [Update notification is too easy to miss](https://github.com/nextcloud/talk-desktop/issues/155)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
+- [Change Meshery  logo to Round Meshery logo](https://github.com/layer5io/layer5/issues/7194)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
+
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+
+- [Add a banner to advertise the hackathon](https://github.com/matrix-org/matrix.org/issues/3060)
+- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
+- [Miitrix missing from the website](https://github.com/matrix-org/matrix.org/issues/1964)
+- [Add an entry in the navbar to browse members](https://github.com/matrix-org/matrix.org/issues/3013)
+- [Add link checker CI](https://github.com/matrix-org/matrix.org/issues/2829)
+
+## [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs)
+
+- [Left alignment of embedded circuit's link ](https://github.com/CircuitVerse/CircuitVerseDocs/issues/299)
+- [Add the respective content image](https://github.com/CircuitVerse/CircuitVerseDocs/issues/345)
+- [Priority Encoder Circuit  is incorrect](https://github.com/CircuitVerse/CircuitVerseDocs/issues/331)
+
+## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
+
+- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
 
 ## [hackforla/website](https://github.com/hackforla/website/pull/8446)
 
@@ -72,6 +256,12 @@ This list gets updated every day at midnight.
 - [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8427)
 - [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8426)
 
+## [shivamxverma/CodeSM](https://github.com/shivamxverma/CodeSM)
+
+- [Make a discussion section crud operation](https://github.com/shivamxverma/CodeSM/issues/11)
+- [voice to text in interview feature](https://github.com/shivamxverma/CodeSM/issues/7)
+- [work on interview feature](https://github.com/shivamxverma/CodeSM/issues/6)
+
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
 - [[otelcol docs] Copy edit the Building a custom Collector page](https://github.com/open-telemetry/opentelemetry.io/issues/8361)
@@ -89,89 +279,36 @@ This list gets updated every day at midnight.
 - [Link to sampler and propagation config in OTel operator docs](https://github.com/open-telemetry/opentelemetry.io/issues/2341)
 - [Explain `in_span` more for ruby docs](https://github.com/open-telemetry/opentelemetry.io/issues/2022)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [varshneydevansh/FilterTube](https://github.com/varshneydevansh/FilterTube)
 
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[FR:]: Add Direct Hide Toggels just like we have for Shorts and Comments](https://github.com/varshneydevansh/FilterTube/issues/29)
+- [bug: The home page collab video 3 dot UI broken](https://github.com/varshneydevansh/FilterTube/issues/28)
+- [[FR:] Add support to filter Members only videos](https://github.com/varshneydevansh/FilterTube/issues/21)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
 
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
-- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
-- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
+- [Enhancement: Improve layout consistency between Privacy Policy and Terms & Conditions pages](https://github.com/codervivek5/VigyBag/issues/2656)
+- [Main Product Image Does Not Update on Thumbnail Click](https://github.com/codervivek5/VigyBag/issues/2688)
+- [Fix/UI improvements](https://github.com/codervivek5/VigyBag/pull/2653)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [Bugsfounder/foodAndHunger](https://github.com/Bugsfounder/foodAndHunger)
 
-- [[Feature]: Automate release process](https://github.com/jaegertracing/jaeger-ui/issues/3056)
-- [[Feature]: Add dark theme support to Jaeger-UI](https://github.com/jaegertracing/jaeger-ui/issues/1911)
-- [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [feat: search/find in tasks - title, description, details, test-strategy, sub-tasks.](https://github.com/eyaltoledano/claude-task-master/issues/1453)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Docs] Convert Static Image to Meshery Design - 1](https://github.com/layer5io/docs/issues/759)
-- [Logo pops as bigger icon when we redirect back to home page](https://github.com/layer5io/docs/issues/222)
-
-## [guardon-dev/guardon](https://github.com/guardon-dev/guardon)
-
-- [Feature:  Add Validation Status Icons in Popup](https://github.com/guardon-dev/guardon/issues/16)
-- [Feature:  Add Search/Filter for Rules Table](https://github.com/guardon-dev/guardon/issues/15)
-- [Feature: Add Rule Counter in Options Page](https://github.com/guardon-dev/guardon/issues/13)
-- [Feature: Add More Default Security Rules](https://github.com/guardon-dev/guardon/issues/2)
-- [Feature: Add ESLint and Prettier Setup](https://github.com/guardon-dev/guardon/issues/1)
-
-## [ArtemKutsan/it-career-hub](https://github.com/ArtemKutsan/it-career-hub)
-
-- [idea: Добавить названия тем к урокам](https://github.com/ArtemKutsan/it-career-hub/issues/16)
-- [content: Добавить решения для 9, 10 и 11 задачи урока 61 Summary Session 11](https://github.com/ArtemKutsan/it-career-hub/issues/15)
-- [content: Добавить решения для 14, 15 и 16 задачи урока 56 Summary Session 10](https://github.com/ArtemKutsan/it-career-hub/issues/14)
-- [content: Добавить примеры в 58.2 Урок 37.2](https://github.com/ArtemKutsan/it-career-hub/issues/12)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8980)
-- [[RFC]: Improve doctests for complex number instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8641)
-- [Bug with skin tone emojis when using `prevGraphemeClusterBreak` package](https://github.com/stdlib-js/stdlib/issues/1092)
-- [Insufficient TypeScript declaration tests for `@stdlib/utils/circular-buffer`](https://github.com/stdlib-js/stdlib/issues/474)
-- [[RFC]: replace static memory allocation of large arrays in C benchmarks with dynamic memory allocation (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8643)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8483)
-- [[RFC]: use string interpolation in JavaScript benchmarks for the benchmark name (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8647)
-- [[RFC]: Improve doctests for complex number typed arrays in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/4833)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8563)
-- [[RFC]: add `symbol/split`](https://github.com/stdlib-js/stdlib/issues/8488)
-- [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
-- [[RFC]: add `symbol/search`](https://github.com/stdlib-js/stdlib/issues/8480)
-- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/studentized-range/quantile`](https://github.com/stdlib-js/stdlib/issues/3888)
-
-## [layer5labs/meshery-extensions-packages](https://github.com/layer5labs/meshery-extensions-packages)
-
-- [Create "Archived Badges" section](https://github.com/layer5labs/meshery-extensions-packages/issues/544)
-
-## [kittenluv1/clubhouse](https://github.com/kittenluv1/clubhouse)
-
-- [update assets to nancy's new updated hi fi](https://github.com/kittenluv1/clubhouse/issues/138)
-
-## [se7engoodfellas/zenmix](https://github.com/se7engoodfellas/zenmix)
-
-- [Add "Night Crickets" Sound](https://github.com/se7engoodfellas/zenmix/issues/8)
-- [Add "White Noise" sound](https://github.com/se7engoodfellas/zenmix/issues/6)
-- [Add "Coffee Shop Ambience" sound](https://github.com/se7engoodfellas/zenmix/issues/5)
-
-## [Augustossn/StudyPlanner](https://github.com/Augustossn/StudyPlanner)
-
-- [Dar nome aos erros](https://github.com/Augustossn/StudyPlanner/issues/21)
-- [Estados vazios ilustrados](https://github.com/Augustossn/StudyPlanner/issues/20)
-- [Confirmação de exclusão](https://github.com/Augustossn/StudyPlanner/issues/19)
-- [Skeleton Loading](https://github.com/Augustossn/StudyPlanner/issues/18)
-
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
-
-- [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
-- [Add Unified Search Provider for LibreSign](https://github.com/LibreSign/libresign/issues/6027)
+- [Volunteer Dashboard Disappears After Refresh / Registration Not Persisting](https://github.com/Bugsfounder/foodAndHunger/issues/22)
+- [Improve Registration, Dashboard, Volunteer Flow & UI Consistency Across the App](https://github.com/Bugsfounder/foodAndHunger/issues/30)
+- [Add Food Safety Guidelines Module](https://github.com/Bugsfounder/foodAndHunger/issues/9)
+- [Fraud / Misuse Prevention Module](https://github.com/Bugsfounder/foodAndHunger/issues/10)
+- [Rating & Feedback System](https://github.com/Bugsfounder/foodAndHunger/issues/11)
+- [Notification System Missing](https://github.com/Bugsfounder/foodAndHunger/issues/12)
+- [Gamification & Community Engagement Module](https://github.com/Bugsfounder/foodAndHunger/issues/13)
+- [Food Poisoning / Risk Reporting System](https://github.com/Bugsfounder/foodAndHunger/issues/15)
+- [Admin Analytics Dashboard](https://github.com/Bugsfounder/foodAndHunger/issues/14)
+- [Donor & NGO Verification System](https://github.com/Bugsfounder/foodAndHunger/issues/16)
+- [Audit Logs & Compliance Tracking](https://github.com/Bugsfounder/foodAndHunger/issues/17)
+- [Volunteer & Delivery Agent Module](https://github.com/Bugsfounder/foodAndHunger/issues/18)
+- [Hunger Zone Heatmap](https://github.com/Bugsfounder/foodAndHunger/issues/19)
+- [Auto-Scheduling for Donor Pickups - restaurants Can’t Schedule Recurring Donations](https://github.com/Bugsfounder/foodAndHunger/issues/20)
+- [Show Friendly Empty-State Message on Home Page](https://github.com/Bugsfounder/foodAndHunger/issues/29)
+- [AI-Based Food Demand Prediction (Future)](https://github.com/Bugsfounder/foodAndHunger/issues/21)
 
 ## [publicmap/amche-atlas](https://github.com/publicmap/amche-atlas)
 
@@ -179,139 +316,9 @@ This list gets updated every day at midnight.
 - [Show all Heads of Departments for the State](https://github.com/publicmap/amche-atlas/issues/14)
 - [Fresh proposals for amche.in logo](https://github.com/publicmap/amche-atlas/issues/189)
 
-## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
+## [Deven14125/Event_Manager](https://github.com/Deven14125/Event_Manager)
 
-- [[Bug]: When you reset simulation SimInfos go to 0](https://github.com/physicshub/physicshub.github.io/issues/129)
-- [[Bug]: When you change simulation speed it doesn't save](https://github.com/physicshub/physicshub.github.io/issues/130)
-- [[Feat]: Enhance simulations page.](https://github.com/physicshub/physicshub.github.io/issues/100)
-- [[Bug]: Ball in simulations lose power every render/bounce](https://github.com/physicshub/physicshub.github.io/issues/109)
-
-## [shivamxverma/CodeSM](https://github.com/shivamxverma/CodeSM)
-
-- [Make a discussion section crud operation](https://github.com/shivamxverma/CodeSM/issues/11)
-- [voice to text in interview feature](https://github.com/shivamxverma/CodeSM/issues/7)
-- [work on interview feature](https://github.com/shivamxverma/CodeSM/issues/6)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Flickr Embed: White space above video with 'Resize for smaller devices' on](https://github.com/WordPress/gutenberg/issues/49320)
-- [Show Heading level in the sidebar](https://github.com/WordPress/gutenberg/issues/42181)
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [Add support for aspect ratio on wide and full images](https://github.com/WordPress/gutenberg/issues/53652)
-- [Paragraph: Add CSS columns](https://github.com/WordPress/gutenberg/issues/27118)
-- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
-- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
-- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
-- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
-- [Global blockGap property is not overridable in style variations](https://github.com/WordPress/gutenberg/issues/72318)
-- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
-- [Navigation Block + Page Link Block: Create draft option shows when adding an existing page](https://github.com/WordPress/gutenberg/issues/33962)
-- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
-- [Add Random to Order by options in Query Loop Block](https://github.com/WordPress/gutenberg/issues/40481)
-
-## [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon)
-
-- [Typescript version / definition files](https://github.com/openseadragon/openseadragon/issues/1628)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Samsung Smart Things MCP Tooling](https://github.com/PipedreamHQ/pipedream/issues/19473)
-- [[TRIGGER] Chargebee new event trigger is bereft of useful functionality ](https://github.com/PipedreamHQ/pipedream/issues/19378)
-- [[ACTION] Gitlab sementic search(search the code)](https://github.com/PipedreamHQ/pipedream/issues/19467)
-- [[ACTION] How can I can have an action that can retrieve a list of workers based in a city in WOrkday](https://github.com/PipedreamHQ/pipedream/issues/19369)
-- [[ACTION] trengo - add ticket endpoint](https://github.com/PipedreamHQ/pipedream/issues/19394)
-- [[ACTION] Google Maps (Places API) - Filter out information from MCP result](https://github.com/PipedreamHQ/pipedream/issues/19408)
-- [[ACTION] Zoho Desk](https://github.com/PipedreamHQ/pipedream/issues/19403)
-- [Xero New or Updated Quote](https://github.com/PipedreamHQ/pipedream/issues/7152)
-- [[ACTION] Read records action - Bubble app](https://github.com/PipedreamHQ/pipedream/issues/19381)
-- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
-- [[ACTION] WICS update order & delete order line](https://github.com/PipedreamHQ/pipedream/issues/19359)
-- [[APP] paqato - shipping](https://github.com/PipedreamHQ/pipedream/issues/19338)
-- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
-- [[ACTION] Sage CRM new actions](https://github.com/PipedreamHQ/pipedream/issues/19024)
-
-## [brave/brave-browser](https://github.com/brave/brave-browser)
-
-- [option to always show punycode encoding of international domain names](https://github.com/brave/brave-browser/issues/17232)
-- [Opening a new tab redirects to an internal url first at "internal://local/about/home?uuidkey=..." before going to the actual web page](https://github.com/brave/brave-browser/issues/51052)
-- [Tab tray doesn't scroll back to selected tab after switching back from private mode](https://github.com/brave/brave-browser/issues/51363)
-- [Shred button remains visible in tab tray when switching to private mode](https://github.com/brave/brave-browser/issues/51362)
-- [Improve `Brave Shields UP`/`DOWN` translation in `Russian` language](https://github.com/brave/brave-browser/issues/51379)
-- [In settings, clicking Search icon does not activate the cursor in the search field](https://github.com/brave/brave-browser/issues/51316)
-- [Separate Site and Shield Settings from History in Clear Private Data](https://github.com/brave/brave-browser/issues/50771)
-- [New tab button is not in the center in other languages in the new tab tray](https://github.com/brave/brave-browser/issues/50457)
-- [Siri Shortcut - New Private Tab will bypass FaceID Lock](https://github.com/brave/brave-browser/issues/51069)
-- [Underline/indicate keyboard shortcuts in right-click menu](https://github.com/brave/brave-browser/issues/51218)
-- [Huge unnecessarily long scrollbar on `brave://settings/content/all`](https://github.com/brave/brave-browser/issues/44696)
-- [Add styling to brave://certificate-manager/](https://github.com/brave/brave-browser/issues/42705)
-- [Incorrect icon for Bookmarks in side panel](https://github.com/brave/brave-browser/issues/42163)
-- [Allow brave-browser.desktop to open URLs in Incognito mode](https://github.com/brave/brave-browser/issues/41667)
-- [Purple background behind search and keyboard elements](https://github.com/brave/brave-browser/issues/48812)
-
-## [wtasg/meetonline](https://github.com/wtasg/meetonline)
-
-- [bug/frontend: utils/string.js functions are not accurate](https://github.com/wtasg/meetonline/issues/287)
-- [maintenance/fe: use session only storage to store tokens](https://github.com/wtasg/meetonline/issues/314)
-- [maintenance/actions: update welcome action](https://github.com/wtasg/meetonline/issues/319)
-- [maintenance/fe: Update jsdoc information for functions](https://github.com/wtasg/meetonline/issues/313)
-- [maintenance/database: implement SQL linting](https://github.com/wtasg/meetonline/issues/299)
-- [maintenance/fe: remove redundant attribute from nav](https://github.com/wtasg/meetonline/issues/296)
-- [maintenance/fe: remove duplicated code](https://github.com/wtasg/meetonline/issues/297)
-- [maintenance: find a way to not flicker after login/logout](https://github.com/wtasg/meetonline/issues/295)
-- [security: set domain and path in cookies](https://github.com/wtasg/meetonline/issues/275)
-- [security/defensive: handle response consistently and securely](https://github.com/wtasg/meetonline/issues/290)
-- [security/defensive: add check for object existence before accessing property](https://github.com/wtasg/meetonline/issues/289)
-- [bug/documentation: update links](https://github.com/wtasg/meetonline/issues/288)
-- [testing: add unit tests for utils/string.js](https://github.com/wtasg/meetonline/issues/283)
-- [bug/frontend: make prelogin/presignup cookies secure too.](https://github.com/wtasg/meetonline/issues/285)
-- [bug/backend: update express server error callback](https://github.com/wtasg/meetonline/issues/286)
-
-## [HappyZombies/ffawards.app](https://github.com/HappyZombies/ffawards.app)
-
-- [Handle not found leagues in Sleeper Login better](https://github.com/HappyZombies/ffawards.app/issues/6)
-- [Do not store if position is not in leagues roster](https://github.com/HappyZombies/ffawards.app/issues/1)
-- [Add last updated at to award page](https://github.com/HappyZombies/ffawards.app/issues/5)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [Task Group viewer task durations not updating when filtering by task status](https://github.com/taskcluster/taskcluster/issues/8104)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [Add a banner to advertise the hackathon](https://github.com/matrix-org/matrix.org/issues/3060)
-- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
-- [Miitrix missing from the website](https://github.com/matrix-org/matrix.org/issues/1964)
-- [Add an entry in the navbar to browse members](https://github.com/matrix-org/matrix.org/issues/3013)
-- [Add link checker CI](https://github.com/matrix-org/matrix.org/issues/2829)
-
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
-
-- [Make GitHub Pages workflow trigger only on relevant changes and break it into clear stages](https://github.com/Ryan-Millard/Img2Num/issues/84)
-- [Add search functionality to the docs using Algolia](https://github.com/Ryan-Millard/Img2Num/issues/82)
-- [Better support for Windows](https://github.com/Ryan-Millard/Img2Num/issues/80)
-
-## [shihabhasan0161/react-spring-chatbot](https://github.com/shihabhasan0161/react-spring-chatbot)
-
-- [Design a logo for this chatbot project](https://github.com/shihabhasan0161/react-spring-chatbot/issues/12)
-- [Feat: Add option to save and manage AI-generated images](https://github.com/shihabhasan0161/react-spring-chatbot/issues/11)
-- [Feat: Implement Media Upload and Data Extraction in the Chatbot](https://github.com/shihabhasan0161/react-spring-chatbot/issues/13)
-- [Feature Request - let user select different AI Models to use beside OpenAI](https://github.com/shihabhasan0161/react-spring-chatbot/issues/3)
-- [Feat - Add Chatgpt like Thinking..](https://github.com/shihabhasan0161/react-spring-chatbot/issues/8)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-
-## [medic/cht-core](https://github.com/medic/cht-core)
-
-- [UI Navigation: Screenshot Generation for Reports Section](https://github.com/medic/cht-core/issues/9500)
-- [UI Navigation: Screenshot Generation for Targets Section](https://github.com/medic/cht-core/issues/9503)
+- [Add table of contents in readme](https://github.com/Deven14125/Event_Manager/issues/31)
+- [Landing page logo does not reload/scroll to top when clicked.](https://github.com/Deven14125/Event_Manager/issues/5)
+- [Enhance README Structure](https://github.com/Deven14125/Event_Manager/issues/2)
 
