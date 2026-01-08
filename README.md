@@ -4,22 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [neomjs/neo](https://github.com/neomjs/neo)
 
-- [Global blockGap property is not overridable in style variations](https://github.com/WordPress/gutenberg/issues/72318)
-- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
-- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
-- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
-- [Paragraph: Add CSS columns](https://github.com/WordPress/gutenberg/issues/27118)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Flickr Embed: White space above video with 'Resize for smaller devices' on](https://github.com/WordPress/gutenberg/issues/49320)
+- ['Sighted' Agent - Chrome DevTools Integration](https://github.com/neomjs/neo/issues/7385)
+- [Create a "Sighted" Development Demo](https://github.com/neomjs/neo/issues/7390)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
-- [Complete the German (Deutsch) translation of Puter](https://github.com/HeyPuter/puter/issues/1532)
+- [Update Tooltip Arrow Configuration in Ant Design Components](https://github.com/jaegertracing/jaeger-ui/issues/2221)
+- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
+- [[Bug]: Trace Statistics view in dark mode](https://github.com/jaegertracing/jaeger-ui/issues/3322)
+- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
 
 ## [brave/brave-browser](https://github.com/brave/brave-browser)
 
@@ -44,242 +39,10 @@ This list gets updated every day at midnight.
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 - [Anchor tag not scrolling to community forum section](https://github.com/meshery/meshery.io/issues/2444)
 
-## [timothywarner-org/copilot-tips](https://github.com/timothywarner-org/copilot-tips)
-
-- [Add endpoint to get tips count by topic](https://github.com/timothywarner-org/copilot-tips/issues/5)
-- [Add pagination support for GET /api/tips endpoint](https://github.com/timothywarner-org/copilot-tips/issues/1)
-
-## [meshery/meshery](https://github.com/meshery/meshery)
-
-- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
-- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
-- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
-- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
-- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
-- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
-- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
-- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Monitor Postgres query result](https://github.com/louislam/uptime-kuma/issues/2342)
-- [Dyndns based Steam game server monitoring](https://github.com/louislam/uptime-kuma/issues/5934)
-- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
-
-## [hack-duke/portal.hackduke.org](https://github.com/hack-duke/portal.hackduke.org)
-
-- [Make closing applications a db flag rather than commenting out the code](https://github.com/hack-duke/portal.hackduke.org/issues/135)
-
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
-
-- [feat(react: Editor Page UX): Add Mobile Support for Editor Viewport (Touch Events)](https://github.com/Ryan-Millard/Img2Num/issues/202)
-- [Add documentation and tests for `NavBar` component](https://github.com/Ryan-Millard/Img2Num/issues/166)
-- [feat(ci workflow): reuse build tests from `deploy.yml` inside `ci.y,ml`](https://github.com/Ryan-Millard/Img2Num/issues/193)
-- [refactor(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
-- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
-- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
-- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
-- [Feat: Add auto-hide timeout for `Tooltip` on mobile devices](https://github.com/Ryan-Millard/Img2Num/issues/168)
-- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
-- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
-- [fix(ci.yml): false positive triggers script validation failure on force push](https://github.com/Ryan-Millard/Img2Num/issues/153)
-- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
-- [Make GitHub Pages workflow trigger only on relevant changes and break it into clear stages](https://github.com/Ryan-Millard/Img2Num/issues/84)
-- [Implement GlassPanel](https://github.com/Ryan-Millard/Img2Num/issues/113)
-- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
-- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
-- [Bug Fix: memory leak and silent failure in loadImageToUint8Array](https://github.com/Ryan-Millard/Img2Num/issues/96)
-- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
-- [Add basic keyboard shortcuts for Editor page actions](https://github.com/Ryan-Millard/Img2Num/issues/105)
-- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
-- [Update GlassCard](https://github.com/Ryan-Millard/Img2Num/issues/112)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- ['Sighted' Agent - Chrome DevTools Integration](https://github.com/neomjs/neo/issues/7385)
-- [Create a "Sighted" Development Demo](https://github.com/neomjs/neo/issues/7390)
-
-## [jlab-sensing/ENTS-backend](https://github.com/jlab-sensing/ENTS-backend)
-
-- [Create endpoint that supports generic sensor data in json](https://github.com/jlab-sensing/ENTS-backend/issues/332)
-
-## [ynoproject/forest-orb](https://github.com/ynoproject/forest-orb)
-
-- [Add option to Hide Map Button and enable/disable shortcut key](https://github.com/ynoproject/forest-orb/issues/712)
-- [Prompt users to complete Cloudflare security check when logging in](https://github.com/ynoproject/forest-orb/issues/698)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Mobile Menu with weird paddings](https://github.com/nodejs/doc-kit/issues/533)
-- [Generating the Stability Overview](https://github.com/nodejs/doc-kit/issues/357)
-
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-
-- [[Bug]: Trace Statistics view in dark mode](https://github.com/jaegertracing/jaeger-ui/issues/3322)
-- [[Bug]: Flame graph doesn't look right in dark theme](https://github.com/jaegertracing/jaeger-ui/issues/3321)
-- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
-- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
-- [[Bug]: Clicking on Services dropdown's icon opens and closes it immediately](https://github.com/jaegertracing/jaeger-ui/issues/3227)
-- [[Feature]: Add dark theme support to Jaeger-UI](https://github.com/jaegertracing/jaeger-ui/issues/1911)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
-
-## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
-
-- [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
-- [[Issue]: Add Loading Spinner on Asynchronous Actions](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/16)
-- [[Issue]:After getting wrong login success false after coustomize2 page showing token not available](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/14)
-
-## [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
-
-- [ARIA in HTML allowances changes for br and wbr](https://github.com/dequelabs/axe-core/issues/3177)
-- [`aria-valid-attr-value` does not correctly handle multiple id tokens for `aria-errormessage` with `aria-describedby`](https://github.com/dequelabs/axe-core/issues/4957)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-- [Dark mode - tree select widget poor visibility](https://github.com/ToolJet/ToolJet/issues/11798)
-- [Community template: Credit card test data generator](https://github.com/ToolJet/ToolJet/issues/11007)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
-
-- [Orden Calendar](https://github.com/MetaMorphic-Digital/draw-steel/issues/49)
-- [Add button to repick item](https://github.com/MetaMorphic-Digital/draw-steel/issues/1513)
-- [Add "Share" button to Item Sheet header controls](https://github.com/MetaMorphic-Digital/draw-steel/issues/1505)
-
-## [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-
-- [Page 404 not rendering react when using pathPrefix and redirect](https://github.com/gatsbyjs/gatsby/issues/32142)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Add support for repeatable feature tours.](https://github.com/google/site-kit-wp/issues/11811)
-
-## [hitesh-kumar123/Smart-Rent-System](https://github.com/hitesh-kumar123/Smart-Rent-System)
-
-- [add .env.example to repo [Good First Issue]](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/70)
-- [[Refactor] :  Remove console logs (API URL & State) from production.](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/29)
-- [Style: Enhancement in Login page](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/67)
-- [Performance Improvement: Optimize Web Font Loading with font-display](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/56)
-- [Redesigning the hero section](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/20)
-- [[UI] Redesigning the hero section](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/21)
-- [Header layout and button alignment issues on small-screen devices (iPhone SE).](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/25)
-- [Feat: Implement Dynamic Routing and Content for "Discover Experiences" Section](https://github.com/hitesh-kumar123/Smart-Rent-System/issues/39)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[TRIGGER] Belco - multiple additional triggers + moving from polling to subscription based](https://github.com/PipedreamHQ/pipedream/issues/19615)
-- [[ACTION] - Zoho download ticket](https://github.com/PipedreamHQ/pipedream/issues/19623)
-- [[ACTION] Add Palatine Speech API Integration](https://github.com/PipedreamHQ/pipedream/issues/19611)
-- [[ACTION] Canvas](https://github.com/PipedreamHQ/pipedream/issues/18719)
-- [Clicksend send voice call](https://github.com/PipedreamHQ/pipedream/issues/19560)
-- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
-- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
-- [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
-- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19487)
-- [[ACTION] Samsung Smart Things MCP Tooling](https://github.com/PipedreamHQ/pipedream/issues/19473)
-- [[ACTION] How can I can have an action that can retrieve a list of workers based in a city in WOrkday](https://github.com/PipedreamHQ/pipedream/issues/19369)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [Allow having an array of repo links](https://github.com/matrix-org/matrix.org/issues/2125)
-- [Check that images have alt text](https://github.com/matrix-org/matrix.org/issues/3109)
-- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
-
-## [medic/cht-core](https://github.com/medic/cht-core)
-
-- [Record telemetry for External Android App calls](https://github.com/medic/cht-core/issues/10217)
-
-## [microsoft/Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit)
-
-- [Cannot see 'Power CAT Copilot Studio Kit security roles'](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/528)
-- [Compliance Hub |  Compliance cases do not notify the maker](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/542)
-- [Conversation KPI is unable to fetch data in both the Sandbox and Developer environments.](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/477)
-- [SSO for Teams together with the Copilot Studio Kit - problems with configuration](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/488)
-- [DLP Issue](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/532)
-- [Conversations KPI does not display any data in the report](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/512)
-- [Agent Inventory | Agents Data Load flow should check for disabled environments](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/535)
-- [Conversation KPI; Chat History in wrong order & CSAT Field not populating](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/533)
-- [Timeout Error with Agent Inventory | Usage Data Load](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/511)
-
-## [codeaashu/DevDisplay](https://github.com/codeaashu/DevDisplay)
-
-- [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167)
-- [Add Your Profile on DevDisplay.](https://github.com/codeaashu/DevDisplay/issues/1166)
-- [Project Idea Submission & Voting System 💌](https://github.com/codeaashu/DevDisplay/issues/1168)
-
-## [elycruz/atomic-ui-js](https://github.com/elycruz/atomic-ui-js)
-
-- [ci/cd - Update Eslint version](https://github.com/elycruz/atomic-ui-js/issues/52)
-
-## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-
-- [Notation for the need of login to upload (image) files](https://github.com/processing/p5.js-web-editor/issues/3079)
-- [Some text on the p5.js Editor “About” page is not translated](https://github.com/processing/p5.js-web-editor/issues/3485)
-- [Bug: Hindi translation does not apply on the homepage (works for Bangla and others)](https://github.com/processing/p5.js-web-editor/issues/3747)
-
-## [abhishekkumar177/College_Media](https://github.com/abhishekkumar177/College_Media)
-
-- [[Code] Extract Feed and Sidebar into reusable Components](https://github.com/abhishekkumar177/College_Media/issues/17)
-- [Footer Enhancement Issue](https://github.com/abhishekkumar177/College_Media/issues/142)
-- [feat: Instructor Dashboard & Course Creator Layout](https://github.com/abhishekkumar177/College_Media/issues/101)
-- [Add Close Button to Login Page](https://github.com/abhishekkumar177/College_Media/issues/144)
-- [Add "Back to Top" Button to Website](https://github.com/abhishekkumar177/College_Media/issues/143)
-- [feat: Premium Course "Dark Mode" Exclusive Layout](https://github.com/abhishekkumar177/College_Media/issues/107)
-- [feat: Community "Study Room" Real-time Chat Layout](https://github.com/abhishekkumar177/College_Media/issues/102)
-- [feat: High-Fidelity Course Certificate & Achievement Layout](https://github.com/abhishekkumar177/College_Media/issues/103)
-- [feat: Interactive "Study Buddy" Matcher Layout](https://github.com/abhishekkumar177/College_Media/issues/105)
-- [feat: Paid Course Checkout & Tier Selection Layout](https://github.com/abhishekkumar177/College_Media/issues/100)
-- [feat: Interactive Video Player Layout (LMS View)](https://github.com/abhishekkumar177/College_Media/issues/99)
-- [feat:  Premium Course Landing Page with GSAP Scroll Transitions {phase 2}](https://github.com/abhishekkumar177/College_Media/issues/97)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
-- [[otelcol docs] Copy edit the Building a custom Collector page](https://github.com/open-telemetry/opentelemetry.io/issues/8361)
-- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
-
-## [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)
-
-- [Feature: Javascript to Typescript conversion in the src folder](https://github.com/CircuitVerse/cv-frontend-vue/issues/661)
-- [Chore: Reduce usage of set timout and set interval](https://github.com/CircuitVerse/cv-frontend-vue/issues/469)
-- [Docs: Add Documentation for Desktop application Development](https://github.com/CircuitVerse/cv-frontend-vue/issues/509)
-
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Request: Namelix](https://github.com/simple-icons/simple-icons/issues/12259)
-
-## [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs)
-
-- [Left alignment of embedded circuit's link ](https://github.com/CircuitVerse/CircuitVerseDocs/issues/299)
-- [Add the respective content image](https://github.com/CircuitVerse/CircuitVerseDocs/issues/345)
-- [Priority Encoder Circuit  is incorrect](https://github.com/CircuitVerse/CircuitVerseDocs/issues/331)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
-
-## [openedx/docs.openedx.org](https://github.com/openedx/docs.openedx.org)
-
-- [Incorrect screenshot on Learners > Progress Indicators section](https://github.com/openedx/docs.openedx.org/issues/1286)
-
-## [fastify/fastify](https://github.com/fastify/fastify)
-
-- [Validation of optional, nullable number where property value is `0` will default to `null`](https://github.com/fastify/fastify/issues/6411)
-- [Check invalid links](https://github.com/fastify/fastify/issues/6385)
-
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9403)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9615)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/9614)
 - [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
 - [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
@@ -291,16 +54,258 @@ This list gets updated every day at midnight.
 - [[RFC]: add `stats/incr/nanmidrange`](https://github.com/stdlib-js/stdlib/issues/5578)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
 
+## [meshery/meshery](https://github.com/meshery/meshery)
+
+- [[CI] Globally and permanently disable ST1005 lint checks](https://github.com/meshery/meshery/issues/16867)
+- [[Catalog] Publish Configuring Redis using a ConfigMap](https://github.com/meshery/meshery/issues/9289)
+- [[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension](https://github.com/meshery/meshery/issues/10290)
+- [Alignment of Share Btn in Comparison Modal.](https://github.com/meshery/meshery/issues/15173)
+- [[Template] Create a User Flow template](https://github.com/meshery/meshery/issues/12456)
+- [[UI] Help Icon Hover Background Circle Fix in Sidebar.](https://github.com/meshery/meshery/issues/15202)
+- [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
+- [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
+- [[Template] Create a DFD Level 1 template](https://github.com/meshery/meshery/issues/12501)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [[Feature Request] Dinamic Wallpaper](https://github.com/HeyPuter/puter/issues/1666)
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Request: Namelix](https://github.com/simple-icons/simple-icons/issues/12259)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+
+## [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
+
+- [Move `pageChanged` event name into events.js](https://github.com/internetarchive/bookreader/issues/460)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [Job sites](https://github.com/PipedreamHQ/pipedream/issues/19637)
+- [[TRIGGER] Belco - multiple additional triggers + moving from polling to subscription based](https://github.com/PipedreamHQ/pipedream/issues/19615)
+- [[ACTION] Add Palatine Speech API Integration](https://github.com/PipedreamHQ/pipedream/issues/19611)
+- [Clicksend send voice call](https://github.com/PipedreamHQ/pipedream/issues/19560)
+- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
+- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+- [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
+- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19487)
+- [[ACTION] Samsung Smart Things MCP Tooling](https://github.com/PipedreamHQ/pipedream/issues/19473)
+- [[ACTION] How can I can have an action that can retrieve a list of workers based in a city in WOrkday](https://github.com/PipedreamHQ/pipedream/issues/19369)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [Create native example apps for C and C++](https://github.com/Ryan-Millard/Img2Num/issues/206)
+- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
+- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
+- [Implement GlassPanel](https://github.com/Ryan-Millard/Img2Num/issues/113)
+- [Update GlassCard](https://github.com/Ryan-Millard/Img2Num/issues/112)
+- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
+- [feat(react: Editor Page UX): Add Mobile Support for Editor Viewport (Touch Events)](https://github.com/Ryan-Millard/Img2Num/issues/202)
+- [Add documentation and tests for `NavBar` component](https://github.com/Ryan-Millard/Img2Num/issues/166)
+- [feat(ci workflow): reuse build tests from `deploy.yml` inside `ci.y,ml`](https://github.com/Ryan-Millard/Img2Num/issues/193)
+- [refactor(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
+- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
+- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
+- [Feat: Add auto-hide timeout for `Tooltip` on mobile devices](https://github.com/Ryan-Millard/Img2Num/issues/168)
+- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
+- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
+- [fix(ci.yml): false positive triggers script validation failure on force push](https://github.com/Ryan-Millard/Img2Num/issues/153)
+- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
+- [Make GitHub Pages workflow trigger only on relevant changes and break it into clear stages](https://github.com/Ryan-Millard/Img2Num/issues/84)
+- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
+- [Bug Fix: memory leak and silent failure in loadImageToUint8Array](https://github.com/Ryan-Millard/Img2Num/issues/96)
+- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [Add basic keyboard shortcuts for Editor page actions](https://github.com/Ryan-Millard/Img2Num/issues/105)
+
 ## [nodejs/node](https://github.com/nodejs/node)
 
+- [Some tests are not fully CWD-agnostic](https://github.com/nodejs/node/issues/61303)
 - [test-runner: write out timestamp as first line in watch mode](https://github.com/nodejs/node/issues/57206)
 - [Some CLI options documented in the CLI docs are missing in node manpage](https://github.com/nodejs/node/issues/58895)
 - [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
 - [process.cwd() fails in a not usefully descriptive way](https://github.com/nodejs/node/issues/57045)
+
+## [aws-samples/amazon-dynamodb-labs](https://github.com/aws-samples/amazon-dynamodb-labs)
+
+- [LGAM: Picture Updates](https://github.com/aws-samples/amazon-dynamodb-labs/issues/153)
+
+## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
+
+- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
+- [LoadingDots: Investigate using icons as loaders](https://github.com/torrinworx/destamatic-ui/issues/51)
+- [Remove other icon libraries, only officially support iconify driver](https://github.com/torrinworx/destamatic-ui/issues/48)
+- [Investigate or fix slight initial performance lag with icon transitions](https://github.com/torrinworx/destamatic-ui/issues/50)
+- [Stage.jsx .route() feature](https://github.com/torrinworx/destamatic-ui/issues/37)
+
+## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
+
+- [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
+- [[Issue]: Add Loading Spinner on Asynchronous Actions](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/16)
+- [[Issue]:After getting wrong login success false after coustomize2 page showing token not available](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/14)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
+- [Close multiple collections at once](https://github.com/usebruno/bruno/issues/5460)
+- [Add menu item to ignore folder](https://github.com/usebruno/bruno/issues/1890)
+- [Make URLs clickable in console](https://github.com/usebruno/bruno/issues/6275)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/646)
+
+## [SanderGi/ConcussionAssessment](https://github.com/SanderGi/ConcussionAssessment)
+
+- [Load remote data when a new device is connected](https://github.com/SanderGi/ConcussionAssessment/issues/6)
+- [Migrate Domain](https://github.com/SanderGi/ConcussionAssessment/issues/3)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+- [Global blockGap property is not overridable in style variations](https://github.com/WordPress/gutenberg/issues/72318)
+- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
+- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
+- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
+- [Paragraph: Add CSS columns](https://github.com/WordPress/gutenberg/issues/27118)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Flickr Embed: White space above video with 'Resize for smaller devices' on](https://github.com/WordPress/gutenberg/issues/49320)
+
+## [SalamLang/Salam-Website](https://github.com/SalamLang/Salam-Website)
+
+- [Split up all jobs into separate workflow files: bun, pre-commit, test-git-clone](https://github.com/SalamLang/Salam-Website/issues/370)
+
+## [OSC/ondemand](https://github.com/OSC/ondemand)
+
+- [Provide access to the session (at least session.id) for running jobs view.html.erb ](https://github.com/OSC/ondemand/issues/3565)
+- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
+- [New title for files app ](https://github.com/OSC/ondemand/issues/2078)
+
+## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+
+- [[Bug]: Empty catch blocks silently swallow errors](https://github.com/lokus-ai/lokus/issues/289)
+- [[Bug]: Replace native alert() calls with toast notifications](https://github.com/lokus-ai/lokus/issues/288)
+- [[Feature]: Implement Account Settings navigation](https://github.com/lokus-ai/lokus/issues/292)
+- [[Feature]: Add sorting options for files and folders in Explorer](https://github.com/lokus-ai/lokus/issues/299)
+- [[Feature]: Improve error messages for failed operations](https://github.com/lokus-ai/lokus/issues/298)
+- [[Bug]: Replace window.confirm() with custom confirmation dialog](https://github.com/lokus-ai/lokus/issues/297)
+- [[Feature]: Add loading states for async operations](https://github.com/lokus-ai/lokus/issues/293)
+- [[Feature]: Implement star/favorite toggle for emails](https://github.com/lokus-ai/lokus/issues/291)
+- [[Feature]: Add tooltips to icon-only buttons](https://github.com/lokus-ai/lokus/issues/290)
+- [[Bug]: Icon-only buttons missing accessibility labels](https://github.com/lokus-ai/lokus/issues/287)
 
 ## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
 - [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
 - [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
 - [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+
+## [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)
+
+- [Badges and tags](https://github.com/dembrandt/dembrandt/issues/18)
+- [Gradient pattern analysis](https://github.com/dembrandt/dembrandt/issues/16)
+
+## [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+
+- [Remove references to `L` global from all documentation](https://github.com/Leaflet/Leaflet/issues/10036)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Add support for repeatable feature tours.](https://github.com/google/site-kit-wp/issues/11811)
+
+## [ucsb-cs156/proj-dining](https://github.com/ucsb-cs156/proj-dining)
+
+- [SMALL FEATURE: Add an Endpoint for an Individual Review](https://github.com/ucsb-cs156/proj-dining/issues/44)
+- [FEATURE: Remove "Placeholder" from menu bar, and code base.](https://github.com/ucsb-cs156/proj-dining/issues/70)
+- [FEATURE: Replace "Example" Brand with "Dining".](https://github.com/ucsb-cs156/proj-dining/issues/69)
+- [REFACTOR: replace relative paths in imports with absolute paths.](https://github.com/ucsb-cs156/proj-dining/issues/67)
+
+## [yiisoft/docs](https://github.com/yiisoft/docs)
+
+- [Microsoft typo](https://github.com/yiisoft/docs/issues/294)
+- [Fix meta description for VitePress](https://github.com/yiisoft/docs/issues/278)
+- [Remove package and PHP version fields from "Bug Report" form](https://github.com/yiisoft/docs/issues/279)
+
+## [orion-ai-community/BizzAI](https://github.com/orion-ai-community/BizzAI)
+
+- [Bug: Payment Receipt page is not styled correctly for dark theme](https://github.com/orion-ai-community/BizzAI/issues/151)
+- [Bug: Pending Due field is not clearly visible in light mode on Return page](https://github.com/orion-ai-community/BizzAI/issues/152)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- [No button to add channels to blocklist](https://github.com/code-charity/youtube/issues/1971)
+- [💡 Disable Youtube Auto-Translated Titles](https://github.com/code-charity/youtube/issues/3526)
+- [🐞 Black font on black theme](https://github.com/code-charity/youtube/issues/3439)
+- [Center video information (and everything else) when the sidebar is hidden.](https://github.com/code-charity/youtube/issues/3524)
+- [💡An additional optional button for a direct access to quality dropdown](https://github.com/code-charity/youtube/issues/3521)
+- [🐞Cinema Mode causes whole browser to go black, Firefox/Chrome/Opera GX](https://github.com/code-charity/youtube/issues/3520)
+- [🐞'Show video remaining duration' broken](https://github.com/code-charity/youtube/issues/3487)
+- [🐞Playlist Autoplay off blocks Youtube from playing video](https://github.com/code-charity/youtube/issues/3486)
+- [💡I suggest retrieving the old history (oldest-newest) to make it faster for users](https://github.com/code-charity/youtube/issues/3516)
+- [🐞time is missing](https://github.com/code-charity/youtube/issues/3467)
+- [🐞Video player partly covered by the sidebar comments after leaving fullscreen](https://github.com/code-charity/youtube/issues/3502)
+- [🐞 The "blocklist" feature is completely disfunctional](https://github.com/code-charity/youtube/issues/3507)
+- [🐞After watching a youtube video, the page disappears and a new page appears instead of staying on the same page!](https://github.com/code-charity/youtube/issues/3490)
+- [🐞 the custom mini player covered by page content](https://github.com/code-charity/youtube/issues/3494)
+- [💡Feature Request: SponsorBlock Integration](https://github.com/code-charity/youtube/issues/3466)
+- [🐞Fullscreen failure](https://github.com/code-charity/youtube/issues/3498)
+- [🐞rotate bug](https://github.com/code-charity/youtube/issues/3472)
+- [💡](https://github.com/code-charity/youtube/issues/3496)
+- [🐞Playback Speed indicator shows too many digits ("1.1500000000000001x")](https://github.com/code-charity/youtube/issues/3460)
+- [Hover-to-Switch YouTube Accounts for Faster Account Access](https://github.com/code-charity/youtube/issues/3478)
+- [🐞channel options not working](https://github.com/code-charity/youtube/issues/3476)
+- [Limit the number of thumbnail rows in youtube home.](https://github.com/code-charity/youtube/issues/2991)
+- ["Hide Pause Overlay" options](https://github.com/code-charity/youtube/issues/3427)
+- [🐞The custom mini player appears below the recommended videos when you scroll down. FF 146.0 (64-bit)](https://github.com/code-charity/youtube/issues/3448)
+- [Feature request: 1. Show YouTube comments while watching 2. Kament.io - Enable Youtube Comments](https://github.com/code-charity/youtube/issues/3464)
+- [Feature Request: Channel Video Popularity & Date‑Range Sorting (YouTube Eye Reference)](https://github.com/code-charity/youtube/issues/3465)
+- [The latest update broke the custom mini player](https://github.com/code-charity/youtube/issues/3463)
+- [🐞Player / don't show time video and how much remaining](https://github.com/code-charity/youtube/issues/3457)
+- [🐞Blank screen when launched in new tab (similar to issue #3449)](https://github.com/code-charity/youtube/issues/3456)
+- [🐞Player controls not visible in embedded player](https://github.com/code-charity/youtube/issues/3451)
+- [🐞 Player button icons are not loading](https://github.com/code-charity/youtube/issues/3450)
+- [🐞Thumbnails on progress bar not loading](https://github.com/code-charity/youtube/issues/3438)
+- [<video> Player buttons to be added</video>](https://github.com/code-charity/youtube/issues/1445)
+- [the time is gone](https://github.com/code-charity/youtube/issues/3446)
+- [🐞Save button hidden even after hiding all other buttons](https://github.com/code-charity/youtube/issues/3437)
+- [Scroll up in Fullscreen for Description/Comments/Transcript instead of Related Videos](https://github.com/code-charity/youtube/issues/3445)
+- [🐞](https://github.com/code-charity/youtube/issues/3444)
+- [hide the Group Category section (Example: Gaming. BROWSE ALL GAMING)](https://github.com/code-charity/youtube/issues/2470)
+- [after opening a video thats playing on hover it starts from beginning](https://github.com/code-charity/youtube/issues/3440)
+- [💡Prevent the "In this video" panel from showing automatically in fullscreen](https://github.com/code-charity/youtube/issues/3301)
+- [Adding an A-B Loop feature](https://github.com/code-charity/youtube/issues/3160)
+- [🐞quailty without focus dont work](https://github.com/code-charity/youtube/issues/3436)
+- [🐞Time remaining left on video, no longer showing after new youtube changes](https://github.com/code-charity/youtube/issues/3403)
+
+## [nem-web/smart-attendance](https://github.com/nem-web/smart-attendance)
+
+- [_⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/59)
+- [_⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/58)
+- [_⚠️ Potential issue_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/48)
+- [_⚠️ Potential issue_ | _🟡 Minor_](https://github.com/nem-web/smart-attendance/issues/47)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/46)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/45)
+- [_⚠️ Potential issue_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/44)
+- [Correct this _⚠️ Potential issue_ | _🔴 Critical_](https://github.com/nem-web/smart-attendance/issues/43)
+- [_🛠️ Refactor suggestion_ | _🟠 Major_](https://github.com/nem-web/smart-attendance/issues/49)
+
+## [BYU-ODH/yvideo-py](https://github.com/BYU-ODH/yvideo-py)
+
+- [Unify start/end time format](https://github.com/BYU-ODH/yvideo-py/issues/79)
+- [Add link to university policies](https://github.com/BYU-ODH/yvideo-py/issues/87)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
 
