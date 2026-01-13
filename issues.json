@@ -1,246 +1,388 @@
 {
-  "generated_at": "2025-09-11T19:31:38.203Z",
+  "generated_at": "2026-01-13T14:50:54.152Z",
   "items": [
     {
-      "id": 3406641409,
-      "title": "Games page game bug",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/641",
-      "updated_at": "2025-09-11T19:23:16Z",
+      "id": 3809132246,
+      "title": "Write to the log when an animal's adoptable status changes",
+      "html_url": "https://github.com/sheltermanager/asm3/issues/1984",
+      "updated_at": "2026-01-13T14:32:42Z",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "repo": "sheltermanager/asm3",
+      "org": "sheltermanager",
+      "repo_name": "asm3",
+      "repo_stars": 127,
+      "repo_forks": 76,
+      "repo_pushed_at": "2026-01-13T14:48:38Z"
+    },
+    {
+      "id": 3753013515,
+      "title": "Conditions: Wordkeys",
+      "html_url": "https://github.com/sheltermanager/asm3/issues/1974",
+      "updated_at": "2026-01-09T11:06:56Z",
+      "labels": [
+        "good first issue",
+        "feature"
+      ],
+      "repo": "sheltermanager/asm3",
+      "org": "sheltermanager",
+      "repo_name": "asm3",
+      "repo_stars": 127,
+      "repo_forks": 76,
+      "repo_pushed_at": "2026-01-13T14:48:38Z"
+    },
+    {
+      "id": 2617985108,
+      "title": "Medical treatment times",
+      "html_url": "https://github.com/sheltermanager/asm3/issues/1558",
+      "updated_at": "2025-12-16T14:13:25Z",
+      "labels": [
+        "enhancement",
+        "question",
+        "popular",
+        "good first issue"
+      ],
+      "repo": "sheltermanager/asm3",
+      "org": "sheltermanager",
+      "repo_name": "asm3",
+      "repo_stars": 127,
+      "repo_forks": 76,
+      "repo_pushed_at": "2026-01-13T14:48:38Z"
+    },
+    {
+      "id": 3791823371,
+      "title": "Update currencies input-amount-dropdown since Bulgaria is now using the Euro",
+      "html_url": "https://github.com/ing-bank/lion/issues/2654",
+      "updated_at": "2026-01-08T10:44:50Z",
       "labels": [
         "bug",
-        "good first issue",
-        "high-priority",
-        "frontend"
+        "good first issue"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "ing-bank/lion",
+      "org": "ing-bank",
+      "repo_name": "lion",
+      "repo_stars": 1923,
+      "repo_forks": 341,
+      "repo_pushed_at": "2026-01-13T14:46:44Z"
     },
     {
-      "id": 3400359753,
-      "title": "Skip Vite to generate `.js` files for assets (images)",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/596",
-      "updated_at": "2025-09-11T19:07:04Z",
+      "id": 2136845794,
+      "title": "`@wordpress/api-fetch` works weirdly with ES modules",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/59087",
+      "updated_at": "2026-01-13T14:33:48Z",
+      "labels": [
+        "[Type] Bug",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Package] API fetch"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 3621543002,
+      "title": "DataForm: Focus loss when collapsing in Card view",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/73242",
+      "updated_at": "2026-01-12T21:03:00Z",
+      "labels": [
+        "[Type] Bug",
+        "[Focus] Accessibility (a11y)",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Feature] DataViews"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 1850467681,
+      "title": "Add support for aspect ratio on wide and full images",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/53652",
+      "updated_at": "2026-01-11T09:56:41Z",
+      "labels": [
+        "[Type] Enhancement",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Block] Image"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 606902550,
+      "title": "apiFetch should be able to handle a 200 response code with an empty body",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/21899",
+      "updated_at": "2026-01-09T08:15:02Z",
+      "labels": [
+        "[Type] Enhancement",
+        "Good First Issue",
+        "Needs Dev",
+        "REST API Interaction",
+        "[Package] API fetch"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 1400472303,
+      "title": "Navigation Submenu's block is not marked as Invalid when page is deleted",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/44760",
+      "updated_at": "2026-01-08T16:12:35Z",
+      "labels": [
+        "[Type] Bug",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Block] Navigation",
+        "[Block] Submenu"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 704458048,
+      "title": "Multi-column Post Excerpt",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/25459",
+      "updated_at": "2026-01-04T21:26:37Z",
+      "labels": [
+        "Good First Issue",
+        "Needs Design Feedback",
+        "[Block] Paragraph",
+        "[Block] Group",
+        "[Type] Feature",
+        "[Block] Post Excerpt",
+        "[Feature] Design Tools",
+        "[Block] Post Content"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 372300848,
+      "title": "Insert image using url for cover",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/10853",
+      "updated_at": "2025-12-31T19:49:12Z",
+      "labels": [
+        "[Type] Enhancement",
+        "[Feature] Blocks",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Block] Cover"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 1801937285,
+      "title": "Cover Block: Allow Video backgrounds to be 'Fixed'",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/52585",
+      "updated_at": "2025-12-31T11:51:29Z",
+      "labels": [
+        "[Type] Enhancement",
+        "Good First Issue",
+        "[Status] In Progress",
+        "[Block] Cover"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 746807684,
+      "title": "Paragraph: Add CSS columns",
+      "html_url": "https://github.com/WordPress/gutenberg/issues/27118",
+      "updated_at": "2025-12-22T01:33:22Z",
+      "labels": [
+        "Good First Issue",
+        "[Block] Paragraph",
+        "[Type] Feature",
+        "[Feature] Design Tools",
+        "[Feature] Typography"
+      ],
+      "repo": "WordPress/gutenberg",
+      "org": "WordPress",
+      "repo_name": "gutenberg",
+      "repo_stars": 11517,
+      "repo_forks": 4675,
+      "repo_pushed_at": "2026-01-13T14:44:12Z"
+    },
+    {
+      "id": 1896010824,
+      "title": "Support Environment import and export",
+      "html_url": "https://github.com/usebruno/bruno/issues/193",
+      "updated_at": "2026-01-13T09:41:23Z",
+      "labels": [
+        "good first issue",
+        "help wanted"
+      ],
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
+    },
+    {
+      "id": 3367745471,
+      "title": "Show Final Request Variables",
+      "html_url": "https://github.com/usebruno/bruno/issues/5456",
+      "updated_at": "2026-01-09T11:28:46Z",
       "labels": [
         "enhancement",
         "good first issue",
         "help wanted",
-        "hacktoberfest",
-        "frontend"
+        "has-pr"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
     },
     {
-      "id": 3391623135,
-      "title": "Super-Linter CSS errors",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/571",
-      "updated_at": "2025-09-11T16:28:29Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "help wanted",
-        "tests",
-        "high-priority",
-        "frontend",
-        "GitHub Sponsors $5"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3382054812,
-      "title": "Increase and standardize the font size on the \"rules\" and \"terms\" pages",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/551",
-      "updated_at": "2025-09-11T16:24:24Z",
-      "labels": [
-        "good first issue",
-        "high-priority",
-        "frontend"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3403809988,
-      "title": "Remove all alert() in script.js and create a custom and nice user-friendly alert by css/js",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/631",
-      "updated_at": "2025-09-11T04:52:22Z",
+      "id": 2048959692,
+      "title": "[Feature] More configurable request timeouts",
+      "html_url": "https://github.com/usebruno/bruno/issues/1249",
+      "updated_at": "2026-01-05T15:02:44Z",
       "labels": [
         "enhancement",
         "good first issue",
         "help wanted",
-        "hacktoberfest",
-        "javascript",
-        "frontend"
+        "P2"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
     },
     {
-      "id": 3403718110,
-      "title": "Add info to install Python packages from the `requirements.txt` file in `CONTRIBUTING` guide and clean up the `pre-commit` instructions",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/628",
-      "updated_at": "2025-09-10T19:42:46Z",
-      "labels": [
-        "documentation",
-        "good first issue",
-        "high-priority"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3214333621,
-      "title": "Need some server rules for Discord",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/170",
-      "updated_at": "2025-09-10T12:18:24Z",
-      "labels": [
-        "documentation",
-        "good first issue",
-        "help wanted",
-        "high-priority"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3400042303,
-      "title": "We need to double check to make sure we fully ignore _site and _deploy dir from eslint, prettier, pre-commit, and other linters/checkers",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/594",
-      "updated_at": "2025-09-10T11:42:55Z",
+      "id": 3368099108,
+      "title": "Close multiple collections at once",
+      "html_url": "https://github.com/usebruno/bruno/issues/5460",
+      "updated_at": "2026-01-05T06:40:40Z",
       "labels": [
         "enhancement",
         "good first issue",
-        "help wanted",
-        "hacktoberfest"
+        "help wanted"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
     },
     {
-      "id": 3400193927,
-      "title": "Deeply check TailwindCSS output css file",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/595",
-      "updated_at": "2025-09-10T11:30:03Z",
+      "id": 2200271357,
+      "title": "Add menu item to ignore folder",
+      "html_url": "https://github.com/usebruno/bruno/issues/1890",
+      "updated_at": "2025-12-29T11:17:55Z",
       "labels": [
         "enhancement",
         "good first issue",
+        "mid-term-goal",
+        "module-qol"
+      ],
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
+    },
+    {
+      "id": 3686608750,
+      "title": "Make URLs clickable in console",
+      "html_url": "https://github.com/usebruno/bruno/issues/6275",
+      "updated_at": "2025-12-15T07:12:42Z",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "module-qol",
+        "P3"
+      ],
+      "repo": "usebruno/bruno",
+      "org": "usebruno",
+      "repo_name": "bruno",
+      "repo_stars": 39902,
+      "repo_forks": 2053,
+      "repo_pushed_at": "2026-01-13T14:33:15Z"
+    },
+    {
+      "id": 2393632907,
+      "title": "The text and layout need to be adjusted for better readability and usability across different screen sizes.",
+      "html_url": "https://github.com/layer5io/layer5/issues/5640",
+      "updated_at": "2026-01-11T22:36:48Z",
+      "labels": [
+        "kind/bug",
         "help wanted",
-        "hacktoberfest",
-        "frontend"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3399006627,
-      "title": "We should inline the bandit skips for more coverage",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/585",
-      "updated_at": "2025-09-09T17:07:00Z",
-      "labels": [
         "good first issue",
-        "tests",
-        "low-priority",
-        "python"
+        "language/css"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "layer5io/layer5",
+      "org": "layer5io",
+      "repo_name": "layer5",
+      "repo_stars": 991,
+      "repo_forks": 1443,
+      "repo_pushed_at": "2026-01-13T14:38:07Z"
     },
     {
-      "id": 3380216951,
-      "title": "Need small Google map embed for each meetup location on the meetup pages",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/545",
-      "updated_at": "2025-09-09T14:29:21Z",
+      "id": 3056694369,
+      "title": "add kanvas pop up",
+      "html_url": "https://github.com/layer5io/layer5/issues/6444",
+      "updated_at": "2026-01-09T17:45:41Z",
       "labels": [
+        "help wanted",
         "good first issue",
-        "high-priority"
+        "kind/chore"
       ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
+      "repo": "layer5io/layer5",
+      "org": "layer5io",
+      "repo_name": "layer5",
+      "repo_stars": 991,
+      "repo_forks": 1443,
+      "repo_pushed_at": "2026-01-13T14:38:07Z"
     },
     {
-      "id": 3296751923,
-      "title": "We need to have all CSS responsive images",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373",
-      "updated_at": "2025-09-05T21:03:20Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "frontend"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3365919610,
-      "title": "Add \"Jasper\" to the Discord moderators section on the About page",
-      "html_url": "https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/524",
-      "updated_at": "2025-08-29T08:13:09Z",
-      "labels": [
-        "good first issue",
-        "high-priority",
-        "frontend"
-      ],
-      "repo": "brisbanesocialchess/brisbanesocialchess.github.io",
-      "org": "brisbanesocialchess",
-      "repo_name": "brisbanesocialchess.github.io",
-      "repo_stars": 16,
-      "repo_forks": 44,
-      "repo_pushed_at": "2025-09-11T19:29:16Z"
-    },
-    {
-      "id": 3402047798,
-      "title": "Add Missing Emeritus Meshmate",
-      "html_url": "https://github.com/layer5io/layer5/issues/6815",
-      "updated_at": "2025-09-10T14:45:03Z",
+      "id": 3786387786,
+      "title": "Remove `install `  tag from  prepare scripts",
+      "html_url": "https://github.com/layer5io/layer5/issues/7325",
+      "updated_at": "2026-01-07T00:04:16Z",
       "labels": [
         "kind/bug",
         "help wanted",
@@ -250,753 +392,69 @@
       "repo": "layer5io/layer5",
       "org": "layer5io",
       "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
+      "repo_stars": 991,
+      "repo_forks": 1443,
+      "repo_pushed_at": "2026-01-13T14:38:07Z"
     },
     {
-      "id": 2096717835,
-      "title": "[Screenshots] AWS Elastic Kubernetes Service under 'How it Works See It in Action' section",
-      "html_url": "https://github.com/layer5io/layer5/issues/5322",
-      "updated_at": "2025-09-09T15:17:44Z",
+      "id": 3708235991,
+      "title": "Relocate partner logos to appropriate directory in static folder.",
+      "html_url": "https://github.com/layer5io/layer5/issues/7256",
+      "updated_at": "2026-01-02T16:57:17Z",
       "labels": [
-        "kind/enhancement",
         "help wanted",
-        "good first issue"
+        "good first issue",
+        "language/html",
+        "framework/gatsby"
       ],
       "repo": "layer5io/layer5",
       "org": "layer5io",
       "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
+      "repo_stars": 991,
+      "repo_forks": 1443,
+      "repo_pushed_at": "2026-01-13T14:38:07Z"
     },
     {
-      "id": 2992210714,
-      "title": "Update resources and hands-on labs with latest content",
-      "html_url": "https://github.com/layer5io/layer5/issues/6387",
-      "updated_at": "2025-09-09T12:46:12Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "kind/chore",
-        "issue/willfix"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 2616362277,
-      "title": "Replace MeshMap icons to new Kanvas logo",
-      "html_url": "https://github.com/layer5io/layer5/issues/6032",
-      "updated_at": "2025-09-03T11:27:29Z",
-      "labels": [
-        "kind/enhancement",
-        "good first issue",
-        "hacktoberfest",
-        "issue/willfix"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 3056694369,
-      "title": "add kanvas pop up",
-      "html_url": "https://github.com/layer5io/layer5/issues/6444",
-      "updated_at": "2025-09-03T10:43:28Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "kind/chore"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 1795469019,
-      "title": "[UI] Community Handbook Faq page need to be enhanced",
-      "html_url": "https://github.com/layer5io/layer5/issues/4518",
-      "updated_at": "2025-08-31T09:54:01Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "framework/gatsby",
-        "issue/willfix",
-        "framework/graphql",
-        "area/handbook"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 3026498199,
-      "title": "add max-width to images on learnign-paths",
-      "html_url": "https://github.com/layer5io/layer5/issues/6411",
-      "updated_at": "2025-08-28T08:14:28Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "kind/chore"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 3066783036,
-      "title": "[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2",
-      "html_url": "https://github.com/layer5io/layer5/issues/6449",
-      "updated_at": "2025-08-28T08:09:57Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "kind/chore",
-        "language/javascript",
-        "framework/gatsby",
-        "type/performance",
-        "type/seo",
-        "javascript"
-      ],
-      "repo": "layer5io/layer5",
-      "org": "layer5io",
-      "repo_name": "layer5",
-      "repo_stars": 948,
-      "repo_forks": 1376,
-      "repo_pushed_at": "2025-09-11T19:22:23Z"
-    },
-    {
-      "id": 3407770800,
-      "title": "Page for adding a new Experience",
-      "html_url": "https://github.com/MLH-Fellowship/orientation-project-js-25.FAL.A/issues/11",
-      "updated_at": "2025-09-11T19:17:51Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "MLH-Fellowship/orientation-project-js-25.FAL.A",
-      "org": "MLH-Fellowship",
-      "repo_name": "orientation-project-js-25.FAL.A",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T19:16:08Z"
-    },
-    {
-      "id": 3407770412,
-      "title": "Page for adding a new Education",
-      "html_url": "https://github.com/MLH-Fellowship/orientation-project-js-25.FAL.A/issues/10",
-      "updated_at": "2025-09-11T19:17:41Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "MLH-Fellowship/orientation-project-js-25.FAL.A",
-      "org": "MLH-Fellowship",
-      "repo_name": "orientation-project-js-25.FAL.A",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T19:16:08Z"
-    },
-    {
-      "id": 3407770024,
-      "title": "Page for adding a new Skill",
-      "html_url": "https://github.com/MLH-Fellowship/orientation-project-js-25.FAL.A/issues/9",
-      "updated_at": "2025-09-11T19:17:30Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "MLH-Fellowship/orientation-project-js-25.FAL.A",
-      "org": "MLH-Fellowship",
-      "repo_name": "orientation-project-js-25.FAL.A",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T19:16:08Z"
-    },
-    {
-      "id": 3407766522,
-      "title": "Ability to add users information to the top of the resume",
-      "html_url": "https://github.com/MLH-Fellowship/orientation-project-js-25.FAL.A/issues/1",
-      "updated_at": "2025-09-11T19:16:07Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "MLH-Fellowship/orientation-project-js-25.FAL.A",
-      "org": "MLH-Fellowship",
-      "repo_name": "orientation-project-js-25.FAL.A",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T19:16:08Z"
-    },
-    {
-      "id": 3400809502,
-      "title": "Complete the German (Deutsch) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1532",
-      "updated_at": "2025-09-10T16:34:01Z",
+      "id": 2575018472,
+      "title": "Community template: Gym Membership Management System",
+      "html_url": "https://github.com/ToolJet/ToolJet/issues/10912",
+      "updated_at": "2026-01-11T17:22:34Z",
       "labels": [
         "good first issue",
-        "help wanted",
-        "translation"
+        "up-for-grabs",
+        "marketplace",
+        "community contribution",
+        "templates"
       ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
+      "repo": "ToolJet/ToolJet",
+      "org": "ToolJet",
+      "repo_name": "ToolJet",
+      "repo_stars": 37210,
+      "repo_forks": 4931,
+      "repo_pushed_at": "2026-01-13T14:44:46Z"
     },
     {
-      "id": 3400809181,
-      "title": "Complete Emoji(🌍) translation based on English file",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1531",
-      "updated_at": "2025-09-10T04:54:55Z",
+      "id": 1787911120,
+      "title": "[Dark mode]: Inconsistent UI in local data source pop up",
+      "html_url": "https://github.com/ToolJet/ToolJet/issues/6909",
+      "updated_at": "2026-01-02T13:55:05Z",
       "labels": [
+        "bug",
         "good first issue",
-        "help wanted",
-        "translation"
+        "up-for-grabs"
       ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400809659,
-      "title": "Complete the Danish (Dansk) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1533",
-      "updated_at": "2025-09-10T03:48:56Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400808744,
-      "title": "Complete the Farsi (فارسی) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1529",
-      "updated_at": "2025-09-10T03:48:14Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400808493,
-      "title": "Complete the Finnish (Suomi) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1528",
-      "updated_at": "2025-09-10T03:48:06Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400808251,
-      "title": "Complete the French (Français) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1527",
-      "updated_at": "2025-09-10T03:47:57Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400808057,
-      "title": "Complete the Hebrew (עברית) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1526",
-      "updated_at": "2025-09-10T03:47:50Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400807682,
-      "title": "Complete the Hungarian (Magyar) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1524",
-      "updated_at": "2025-09-10T03:47:35Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400807474,
-      "title": "Complete Armenian (Հայերեն) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1523",
-      "updated_at": "2025-09-10T03:47:27Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400807238,
-      "title": "Complete the Indonesian (Bahasa Indonesia) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1522",
-      "updated_at": "2025-09-10T03:47:18Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400807013,
-      "title": "Complete the Igbo translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1521",
-      "updated_at": "2025-09-10T03:47:09Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400806799,
-      "title": "Complete the Italian (Italiano) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1520",
-      "updated_at": "2025-09-10T03:47:00Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400806617,
-      "title": "Complete the Japanese (日本語) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1519",
-      "updated_at": "2025-09-10T03:46:52Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400806450,
-      "title": "Complete the Korean (한국어) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1518",
-      "updated_at": "2025-09-10T03:46:45Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400806277,
-      "title": "Complete the Kurdish (کوردی) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1517",
-      "updated_at": "2025-09-10T03:46:37Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400806033,
-      "title": "Complete the Norwegian Bokmål (Norsk Bokmål) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1516",
-      "updated_at": "2025-09-10T03:46:28Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400805769,
-      "title": "Complete the Dutch (Nederlands) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1515",
-      "updated_at": "2025-09-10T03:46:19Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400805295,
-      "title": "Complete the Norwegian Nynorsk (Norsk Nynorsk) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1514",
-      "updated_at": "2025-09-10T03:46:05Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400804984,
-      "title": "Complete the Polish (Polski) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1513",
-      "updated_at": "2025-09-10T03:45:52Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400803838,
-      "title": "Complete the Portuguese (Português) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1512",
-      "updated_at": "2025-09-10T03:45:12Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400803166,
-      "title": "Complete the Romanian (Română) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1511",
-      "updated_at": "2025-09-10T03:44:46Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400798959,
-      "title": "Complete the Russian (Русский) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1510",
-      "updated_at": "2025-09-10T03:42:46Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400796748,
-      "title": "Complete the Swedish (Svenska) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1509",
-      "updated_at": "2025-09-10T03:41:43Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400796034,
-      "title": "Complete the Tamil (ஆங்கிலம்) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1508",
-      "updated_at": "2025-09-10T03:41:13Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400795403,
-      "title": "Complete the Thai (ไทย) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1507",
-      "updated_at": "2025-09-10T03:40:47Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400794574,
-      "title": "Complete the Turkish (Türkçe) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1506",
-      "updated_at": "2025-09-10T03:40:18Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400793581,
-      "title": "Complete the Ukrainian (Українська) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1505",
-      "updated_at": "2025-09-10T03:39:39Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400792845,
-      "title": "Complete the Urdu (اردو) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1504",
-      "updated_at": "2025-09-10T03:39:09Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400792260,
-      "title": "Complete the Vietnamese (Tiếng Việt) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1503",
-      "updated_at": "2025-09-10T03:38:44Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400791523,
-      "title": "Complete the Chinese (中文) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1502",
-      "updated_at": "2025-09-10T03:38:16Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400783325,
-      "title": "Complete the Traditional Chinese (繁體中文) translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1501",
-      "updated_at": "2025-09-10T03:34:37Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
-    },
-    {
-      "id": 3400776638,
-      "title": "Complete the Brazilian translation of Puter",
-      "html_url": "https://github.com/HeyPuter/puter/issues/1500",
-      "updated_at": "2025-09-10T03:32:05Z",
-      "labels": [
-        "good first issue",
-        "help wanted",
-        "translation"
-      ],
-      "repo": "HeyPuter/puter",
-      "org": "HeyPuter",
-      "repo_name": "puter",
-      "repo_stars": 36129,
-      "repo_forks": 2806,
-      "repo_pushed_at": "2025-09-11T19:12:42Z"
+      "repo": "ToolJet/ToolJet",
+      "org": "ToolJet",
+      "repo_name": "ToolJet",
+      "repo_stars": 37210,
+      "repo_forks": 4931,
+      "repo_pushed_at": "2026-01-13T14:44:46Z"
     },
     {
       "id": 1832711514,
       "title": "`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`",
       "html_url": "https://github.com/vercel/next.js/issues/53473",
-      "updated_at": "2025-09-07T23:42:02Z",
+      "updated_at": "2026-01-09T13:54:54Z",
       "labels": [
         "good first issue",
         "Linting"
@@ -1004,84 +462,857 @@
       "repo": "vercel/next.js",
       "org": "vercel",
       "repo_name": "next.js",
-      "repo_stars": 134344,
-      "repo_forks": 29291,
-      "repo_pushed_at": "2025-09-11T19:04:43Z"
+      "repo_stars": 137116,
+      "repo_forks": 30267,
+      "repo_pushed_at": "2026-01-13T14:31:35Z"
     },
     {
-      "id": 1313063414,
-      "title": "POST request succeeds for pages with next dev",
-      "html_url": "https://github.com/vercel/next.js/issues/38863",
-      "updated_at": "2025-09-01T19:50:52Z",
+      "id": 1446714814,
+      "title": "Parameter on `AppType` is used incorrectly",
+      "html_url": "https://github.com/vercel/next.js/issues/42846",
+      "updated_at": "2025-12-27T20:58:03Z",
       "labels": [
         "good first issue",
-        "bug",
-        "linear: next"
+        "TypeScript"
       ],
       "repo": "vercel/next.js",
       "org": "vercel",
       "repo_name": "next.js",
-      "repo_stars": 134344,
-      "repo_forks": 29291,
-      "repo_pushed_at": "2025-09-11T19:04:43Z"
+      "repo_stars": 137116,
+      "repo_forks": 30267,
+      "repo_pushed_at": "2026-01-13T14:31:35Z"
     },
     {
-      "id": 3400673048,
-      "title": "Enable Default Master Design Hyperlink in meshery-design-embed",
-      "html_url": "https://github.com/layer5labs/meshery-extensions-packages/issues/526",
-      "updated_at": "2025-09-10T03:40:11Z",
+      "id": 3786978931,
+      "title": "Some tests are not fully CWD-agnostic",
+      "html_url": "https://github.com/nodejs/node/issues/61303",
+      "updated_at": "2026-01-12T11:24:42Z",
       "labels": [
-        "kind/enhancement",
+        "test",
+        "good first issue"
+      ],
+      "repo": "nodejs/node",
+      "org": "nodejs",
+      "repo_name": "node",
+      "repo_stars": 115171,
+      "repo_forks": 34354,
+      "repo_pushed_at": "2026-01-13T13:48:18Z"
+    },
+    {
+      "id": 2878705433,
+      "title": "test-runner: write out timestamp as first line in watch mode",
+      "html_url": "https://github.com/nodejs/node/issues/57206",
+      "updated_at": "2025-12-22T21:54:28Z",
+      "labels": [
         "good first issue",
+        "feature request",
+        "test_runner"
+      ],
+      "repo": "nodejs/node",
+      "org": "nodejs",
+      "repo_name": "node",
+      "repo_stars": 115171,
+      "repo_forks": 34354,
+      "repo_pushed_at": "2026-01-13T13:48:18Z"
+    },
+    {
+      "id": 3186618351,
+      "title": "Some CLI options documented in the CLI docs are missing in node manpage",
+      "html_url": "https://github.com/nodejs/node/issues/58895",
+      "updated_at": "2025-12-19T20:19:59Z",
+      "labels": [
+        "doc",
+        "good first issue"
+      ],
+      "repo": "nodejs/node",
+      "org": "nodejs",
+      "repo_name": "node",
+      "repo_stars": 115171,
+      "repo_forks": 34354,
+      "repo_pushed_at": "2026-01-13T13:48:18Z"
+    },
+    {
+      "id": 994273867,
+      "title": "TextDecoder does not error incorrectly for legacy byte sequences",
+      "html_url": "https://github.com/nodejs/node/issues/40091",
+      "updated_at": "2025-12-16T12:26:21Z",
+      "labels": [
+        "good first issue",
+        "encoding"
+      ],
+      "repo": "nodejs/node",
+      "org": "nodejs",
+      "repo_name": "node",
+      "repo_stars": 115171,
+      "repo_forks": 34354,
+      "repo_pushed_at": "2026-01-13T13:48:18Z"
+    },
+    {
+      "id": 3277075343,
+      "title": "Missing validation of variable name",
+      "html_url": "https://github.com/camunda/camunda-modeler/issues/5188",
+      "updated_at": "2026-01-13T13:03:18Z",
+      "labels": [
+        "bug",
+        "in progress",
+        "good first issue",
+        "spring cleaning",
+        "linting"
+      ],
+      "repo": "camunda/camunda-modeler",
+      "org": "camunda",
+      "repo_name": "camunda-modeler",
+      "repo_stars": 1642,
+      "repo_forks": 519,
+      "repo_pushed_at": "2026-01-13T13:45:39Z"
+    },
+    {
+      "id": 2144211677,
+      "title": "Allow to duplicate elements",
+      "html_url": "https://github.com/camunda/camunda-modeler/issues/4142",
+      "updated_at": "2025-12-30T22:19:09Z",
+      "labels": [
+        "enhancement",
+        "ux",
+        "good first issue",
+        "refactoring support",
+        "fixed upstream",
+        "spring cleaning"
+      ],
+      "repo": "camunda/camunda-modeler",
+      "org": "camunda",
+      "repo_name": "camunda-modeler",
+      "repo_stars": 1642,
+      "repo_forks": 519,
+      "repo_pushed_at": "2026-01-13T13:45:39Z"
+    },
+    {
+      "id": 1473030255,
+      "title": "Cannot model inputs as static values",
+      "html_url": "https://github.com/camunda/camunda-modeler/issues/3333",
+      "updated_at": "2025-12-19T20:02:14Z",
+      "labels": [
+        "bug",
+        "modeling",
+        "good first issue",
+        "fixed upstream",
+        "spring cleaning",
+        "properties panel",
+        "linting"
+      ],
+      "repo": "camunda/camunda-modeler",
+      "org": "camunda",
+      "repo_name": "camunda-modeler",
+      "repo_stars": 1642,
+      "repo_forks": 519,
+      "repo_pushed_at": "2026-01-13T13:45:39Z"
+    },
+    {
+      "id": 3679185211,
+      "title": "Fresh proposals for amche.in logo",
+      "html_url": "https://github.com/publicmap/amche-atlas/issues/189",
+      "updated_at": "2026-01-09T04:56:41Z",
+      "labels": [
+        "good first issue"
+      ],
+      "repo": "publicmap/amche-atlas",
+      "org": "publicmap",
+      "repo_name": "amche-atlas",
+      "repo_stars": 15,
+      "repo_forks": 4,
+      "repo_pushed_at": "2026-01-13T13:33:04Z"
+    },
+    {
+      "id": 3706448946,
+      "title": "Amche Atlas Training Course",
+      "html_url": "https://github.com/publicmap/amche-atlas/issues/196",
+      "updated_at": "2025-12-15T19:10:21Z",
+      "labels": [
+        "documentation",
+        "good first issue"
+      ],
+      "repo": "publicmap/amche-atlas",
+      "org": "publicmap",
+      "repo_name": "amche-atlas",
+      "repo_stars": 15,
+      "repo_forks": 4,
+      "repo_pushed_at": "2026-01-13T13:33:04Z"
+    },
+    {
+      "id": 3749889777,
+      "title": "Add option to Hide Map Button and enable/disable shortcut key",
+      "html_url": "https://github.com/ynoproject/forest-orb/issues/712",
+      "updated_at": "2025-12-20T19:25:43Z",
+      "labels": [
+        "good first issue"
+      ],
+      "repo": "ynoproject/forest-orb",
+      "org": "ynoproject",
+      "repo_name": "forest-orb",
+      "repo_stars": 16,
+      "repo_forks": 98,
+      "repo_pushed_at": "2026-01-13T13:28:03Z"
+    },
+    {
+      "id": 3781502589,
+      "title": "Style: Enhancement in Login page",
+      "html_url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/67",
+      "updated_at": "2026-01-13T12:45:21Z",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SWoC26",
+        "ui/ux",
+        "Easy"
+      ],
+      "repo": "hitesh-kumar123/Smart-Rent-System",
+      "org": "hitesh-kumar123",
+      "repo_name": "Smart-Rent-System",
+      "repo_stars": 25,
+      "repo_forks": 46,
+      "repo_pushed_at": "2026-01-13T13:19:37Z"
+    },
+    {
+      "id": 3800018004,
+      "title": "Enhance README.md with Badges, GIFs, and API Endpoints",
+      "html_url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/99",
+      "updated_at": "2026-01-11T13:09:46Z",
+      "labels": [
+        "good first issue",
+        "SWoC26",
+        "Easy"
+      ],
+      "repo": "hitesh-kumar123/Smart-Rent-System",
+      "org": "hitesh-kumar123",
+      "repo_name": "Smart-Rent-System",
+      "repo_stars": 25,
+      "repo_forks": 46,
+      "repo_pushed_at": "2026-01-13T13:19:37Z"
+    },
+    {
+      "id": 3799255639,
+      "title": "Style: Add Trips / Bookings Shortcut to Navbar",
+      "html_url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/97",
+      "updated_at": "2026-01-11T05:35:37Z",
+      "labels": [
+        "good first issue",
+        "SWoC26",
+        "Easy"
+      ],
+      "repo": "hitesh-kumar123/Smart-Rent-System",
+      "org": "hitesh-kumar123",
+      "repo_name": "Smart-Rent-System",
+      "repo_stars": 25,
+      "repo_forks": 46,
+      "repo_pushed_at": "2026-01-13T13:19:37Z"
+    },
+    {
+      "id": 3799259354,
+      "title": "Feat: Add Messages / Inbox Icon to Navbar",
+      "html_url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/98",
+      "updated_at": "2026-01-11T05:34:40Z",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SWoC26",
+        "Easy"
+      ],
+      "repo": "hitesh-kumar123/Smart-Rent-System",
+      "org": "hitesh-kumar123",
+      "repo_name": "Smart-Rent-System",
+      "repo_stars": 25,
+      "repo_forks": 46,
+      "repo_pushed_at": "2026-01-13T13:19:37Z"
+    },
+    {
+      "id": 3799230200,
+      "title": "Style: Make the search bar globally accessible across key pages",
+      "html_url": "https://github.com/hitesh-kumar123/Smart-Rent-System/issues/94",
+      "updated_at": "2026-01-11T05:29:07Z",
+      "labels": [
+        "good first issue",
+        "SWoC26",
+        "Easy"
+      ],
+      "repo": "hitesh-kumar123/Smart-Rent-System",
+      "org": "hitesh-kumar123",
+      "repo_name": "Smart-Rent-System",
+      "repo_stars": 25,
+      "repo_forks": 46,
+      "repo_pushed_at": "2026-01-13T13:19:37Z"
+    },
+    {
+      "id": 3767747974,
+      "title": "Create admin button for clearing feedback target cache",
+      "html_url": "https://github.com/UniversityOfHelsinkiCS/palaute/issues/1585",
+      "updated_at": "2026-01-09T09:58:02Z",
+      "labels": [
+        "good first issue",
+        "new feature",
+        "DX"
+      ],
+      "repo": "UniversityOfHelsinkiCS/palaute",
+      "org": "UniversityOfHelsinkiCS",
+      "repo_name": "palaute",
+      "repo_stars": 15,
+      "repo_forks": 10,
+      "repo_pushed_at": "2026-01-13T13:15:37Z"
+    },
+    {
+      "id": 3760756779,
+      "title": "[Issue]: Missing 404 Page for Frontend Routes",
+      "html_url": "https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17",
+      "updated_at": "2026-01-08T18:14:23Z",
+      "labels": [
+        "good first issue",
+        "ui",
+        "frontend"
+      ],
+      "repo": "shreyashpatel5506/virtual-assistant-core",
+      "org": "shreyashpatel5506",
+      "repo_name": "virtual-assistant-core",
+      "repo_stars": 3,
+      "repo_forks": 2,
+      "repo_pushed_at": "2026-01-13T12:53:56Z"
+    },
+    {
+      "id": 3760753616,
+      "title": "[Issue]: Add Loading Spinner on Asynchronous Actions",
+      "html_url": "https://github.com/shreyashpatel5506/virtual-assistant-core/issues/16",
+      "updated_at": "2025-12-24T17:31:11Z",
+      "labels": [
+        "good first issue",
+        "javascript",
+        "ui",
+        "frontend"
+      ],
+      "repo": "shreyashpatel5506/virtual-assistant-core",
+      "org": "shreyashpatel5506",
+      "repo_name": "virtual-assistant-core",
+      "repo_stars": 3,
+      "repo_forks": 2,
+      "repo_pushed_at": "2026-01-13T12:53:56Z"
+    },
+    {
+      "id": 2472004350,
+      "title": "Print warning on changing log level when using multistream",
+      "html_url": "https://github.com/pinojs/pino/issues/2030",
+      "updated_at": "2025-12-16T13:40:15Z",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "repo": "pinojs/pino",
+      "org": "pinojs",
+      "repo_name": "pino",
+      "repo_stars": 17140,
+      "repo_forks": 938,
+      "repo_pushed_at": "2026-01-13T12:50:45Z"
+    },
+    {
+      "id": 3768491326,
+      "title": "Trim Reblogs: Update/clarify warning about trimming reblogs",
+      "html_url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2048",
+      "updated_at": "2026-01-12T17:24:38Z",
+      "labels": [
+        "enhancement",
         "help wanted",
-        "issue/design required"
+        "good first issue"
       ],
-      "repo": "layer5labs/meshery-extensions-packages",
-      "org": "layer5labs",
-      "repo_name": "meshery-extensions-packages",
-      "repo_stars": 49,
-      "repo_forks": 69,
-      "repo_pushed_at": "2025-09-11T18:54:40Z"
+      "repo": "AprilSylph/XKit-Rewritten",
+      "org": "AprilSylph",
+      "repo_name": "XKit-Rewritten",
+      "repo_stars": 350,
+      "repo_forks": 50,
+      "repo_pushed_at": "2026-01-13T12:38:06Z"
     },
     {
-      "id": 3391513960,
-      "title": "Links to Mapping files are not wroking",
-      "html_url": "https://github.com/NMRLipids/BilayerGUI_laravel/issues/19",
-      "updated_at": "2025-09-10T07:06:02Z",
+      "id": 3720230351,
+      "title": "Add tooltips to tag suggestion/tag bundle elements with full tag",
+      "html_url": "https://github.com/AprilSylph/XKit-Rewritten/issues/2031",
+      "updated_at": "2026-01-12T17:23:17Z",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "repo": "AprilSylph/XKit-Rewritten",
+      "org": "AprilSylph",
+      "repo_name": "XKit-Rewritten",
+      "repo_stars": 350,
+      "repo_forks": 50,
+      "repo_pushed_at": "2026-01-13T12:38:06Z"
+    },
+    {
+      "id": 3220760580,
+      "title": "Quick Reblog: Improve already-reblogged icon colors on vampire/pumpkin/snow bright palettes",
+      "html_url": "https://github.com/AprilSylph/XKit-Rewritten/issues/1832",
+      "updated_at": "2026-01-12T17:22:26Z",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "repo": "AprilSylph/XKit-Rewritten",
+      "org": "AprilSylph",
+      "repo_name": "XKit-Rewritten",
+      "repo_stars": 350,
+      "repo_forks": 50,
+      "repo_pushed_at": "2026-01-13T12:38:06Z"
+    },
+    {
+      "id": 3064463902,
+      "title": "Vanilla Audio/Vanilla Video default setting options",
+      "html_url": "https://github.com/AprilSylph/XKit-Rewritten/issues/1797",
+      "updated_at": "2026-01-12T17:22:06Z",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "repo": "AprilSylph/XKit-Rewritten",
+      "org": "AprilSylph",
+      "repo_name": "XKit-Rewritten",
+      "repo_stars": 350,
+      "repo_forks": 50,
+      "repo_pushed_at": "2026-01-13T12:38:06Z"
+    },
+    {
+      "id": 2761976989,
+      "title": "Improve error message clarity",
+      "html_url": "https://github.com/AprilSylph/XKit-Rewritten/issues/1674",
+      "updated_at": "2026-01-12T17:21:58Z",
+      "labels": [
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "repo": "AprilSylph/XKit-Rewritten",
+      "org": "AprilSylph",
+      "repo_name": "XKit-Rewritten",
+      "repo_stars": 350,
+      "repo_forks": 50,
+      "repo_pushed_at": "2026-01-13T12:38:06Z"
+    },
+    {
+      "id": 3027383339,
+      "title": "Switching a non-interrupting start event to an interrupting one within a subprocess is not supported.",
+      "html_url": "https://github.com/bpmn-io/bpmn-js/issues/2313",
+      "updated_at": "2026-01-13T14:48:12Z",
       "labels": [
         "bug",
         "good first issue",
-        "core dev task"
+        "backlog",
+        "spring cleaning"
       ],
-      "repo": "NMRLipids/BilayerGUI_laravel",
-      "org": "NMRLipids",
-      "repo_name": "BilayerGUI_laravel",
-      "repo_stars": 1,
-      "repo_forks": 3,
-      "repo_pushed_at": "2025-09-11T19:17:16Z"
+      "repo": "bpmn-io/bpmn-js",
+      "org": "bpmn-io",
+      "repo_name": "bpmn-js",
+      "repo_stars": 9384,
+      "repo_forks": 1432,
+      "repo_pushed_at": "2026-01-13T12:38:24Z"
     },
     {
-      "id": 3391502119,
-      "title": "Membrane count on frontpage shows -1 for empty database",
-      "html_url": "https://github.com/NMRLipids/BilayerGUI_laravel/issues/18",
-      "updated_at": "2025-09-07T10:59:33Z",
+      "id": 1034511918,
+      "title": "Add resizing for all text elements as for TextAnnotation",
+      "html_url": "https://github.com/bpmn-io/bpmn-js/issues/1513",
+      "updated_at": "2026-01-13T14:20:40Z",
+      "labels": [
+        "modeling",
+        "needs review",
+        "enhancement",
+        "good first issue",
+        "pr welcome"
+      ],
+      "repo": "bpmn-io/bpmn-js",
+      "org": "bpmn-io",
+      "repo_name": "bpmn-js",
+      "repo_stars": 9384,
+      "repo_forks": 1432,
+      "repo_pushed_at": "2026-01-13T12:38:24Z"
+    },
+    {
+      "id": 3753417457,
+      "title": "Alignment tools for labels don't work inside of participant/lane",
+      "html_url": "https://github.com/bpmn-io/bpmn-js/issues/2371",
+      "updated_at": "2026-01-13T14:03:43Z",
+      "labels": [
+        "bug",
+        "modeling",
+        "needs review",
+        "good first issue",
+        "spring cleaning"
+      ],
+      "repo": "bpmn-io/bpmn-js",
+      "org": "bpmn-io",
+      "repo_name": "bpmn-js",
+      "repo_stars": 9384,
+      "repo_forks": 1432,
+      "repo_pushed_at": "2026-01-13T12:38:24Z"
+    },
+    {
+      "id": 3746428283,
+      "title": "Append boundary event (click) should attach to eligable element",
+      "html_url": "https://github.com/bpmn-io/bpmn-js/issues/2369",
+      "updated_at": "2026-01-13T12:39:36Z",
+      "labels": [
+        "modeling",
+        "enhancement",
+        "good first issue",
+        "backlog",
+        "spring cleaning"
+      ],
+      "repo": "bpmn-io/bpmn-js",
+      "org": "bpmn-io",
+      "repo_name": "bpmn-js",
+      "repo_stars": 9384,
+      "repo_forks": 1432,
+      "repo_pushed_at": "2026-01-13T12:38:24Z"
+    },
+    {
+      "id": 2709190430,
+      "title": "Request: Namelix",
+      "html_url": "https://github.com/simple-icons/simple-icons/issues/12259",
+      "updated_at": "2025-12-24T08:10:27Z",
+      "labels": [
+        "new icon",
+        "good first issue"
+      ],
+      "repo": "simple-icons/simple-icons",
+      "org": "simple-icons",
+      "repo_name": "simple-icons",
+      "repo_stars": 24153,
+      "repo_forks": 3019,
+      "repo_pushed_at": "2026-01-13T12:31:31Z"
+    },
+    {
+      "id": 3734260165,
+      "title": "Enable IPv6 tests with HTTPS proxy",
+      "html_url": "https://github.com/apify/proxy-chain/issues/632",
+      "updated_at": "2026-01-12T14:58:46Z",
+      "labels": [
+        "good first issue",
+        "low priority",
+        "tech roadmap",
+        "t-unblocking"
+      ],
+      "repo": "apify/proxy-chain",
+      "org": "apify",
+      "repo_name": "proxy-chain",
+      "repo_stars": 966,
+      "repo_forks": 162,
+      "repo_pushed_at": "2026-01-13T13:37:54Z"
+    },
+    {
+      "id": 3245954751,
+      "title": "Feature Request: Emit `requestFinished` Event for Per-Request Bandwidth Tracking",
+      "html_url": "https://github.com/apify/proxy-chain/issues/589",
+      "updated_at": "2026-01-07T09:19:34Z",
+      "labels": [
+        "good first issue",
+        "medium priority",
+        "product enhancement",
+        "t-unblocking"
+      ],
+      "repo": "apify/proxy-chain",
+      "org": "apify",
+      "repo_name": "proxy-chain",
+      "repo_stars": 966,
+      "repo_forks": 162,
+      "repo_pushed_at": "2026-01-13T13:37:54Z"
+    },
+    {
+      "id": 3803650963,
+      "title": "Don't domain expiry warn on `.local` and similar domains",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/6682",
+      "updated_at": "2026-01-12T12:17:11Z",
+      "labels": [
+        "feature-request",
+        "help wanted",
+        "good first issue",
+        "A:deployment"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 3787356809,
+      "title": "Domain expiry monitor logs messages twice on every check",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/6633",
+      "updated_at": "2026-01-11T12:16:03Z",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 1022275099,
+      "title": "Adding templating to more notification providers",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/646",
+      "updated_at": "2026-01-11T10:03:58Z",
+      "labels": [
+        "feature-request",
+        "good first issue",
+        "A:notifications",
+        "type:enhance-existing"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 2783838117,
+      "title": "Quality of life: pre-fill some information for \"Schedule maintenance\" form",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/5525",
+      "updated_at": "2026-01-11T04:28:28Z",
+      "labels": [
+        "feature-request",
+        "help wanted",
+        "good first issue",
+        "A:ui/ux"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 2888041207,
+      "title": "Password Reset via CLI does not work on Embedded MariaDB",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/5670",
+      "updated_at": "2026-01-11T01:00:29Z",
       "labels": [
         "bug",
         "good first issue",
-        "core dev task"
+        "A:deployment"
       ],
-      "repo": "NMRLipids/BilayerGUI_laravel",
-      "org": "NMRLipids",
-      "repo_name": "BilayerGUI_laravel",
-      "repo_stars": 1,
-      "repo_forks": 3,
-      "repo_pushed_at": "2025-09-11T19:17:16Z"
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 1461293526,
+      "title": "Monitor Postgres query result",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/2342",
+      "updated_at": "2026-01-06T17:07:02Z",
+      "labels": [
+        "feature-request",
+        "good first issue",
+        "A:monitor"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 3157354330,
+      "title": "Dyndns based Steam game server monitoring",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/5934",
+      "updated_at": "2026-01-05T16:58:51Z",
+      "labels": [
+        "feature-request",
+        "good first issue",
+        "A:monitor"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 2539084200,
+      "title": "RATE-LIMIT log message every 10 seconds, even with all monitors paused.",
+      "html_url": "https://github.com/louislam/uptime-kuma/issues/5122",
+      "updated_at": "2025-12-17T10:20:02Z",
+      "labels": [
+        "feature-request",
+        "good first issue",
+        "A:core"
+      ],
+      "repo": "louislam/uptime-kuma",
+      "org": "louislam",
+      "repo_name": "uptime-kuma",
+      "repo_stars": 81281,
+      "repo_forks": 7251,
+      "repo_pushed_at": "2026-01-13T12:20:00Z"
+    },
+    {
+      "id": 3777285650,
+      "title": "Night Mode: Instagram feeds and reels become janky and sporadically reloads entire page",
+      "html_url": "https://github.com/brave/brave-browser/issues/51740",
+      "updated_at": "2026-01-12T13:43:19Z",
+      "labels": [
+        "good first issue",
+        "QA/Yes",
+        "OS/iOS"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 3777294504,
+      "title": "Typo In Night Mode setting detail",
+      "html_url": "https://github.com/brave/brave-browser/issues/51741",
+      "updated_at": "2026-01-02T21:57:14Z",
+      "labels": [
+        "good first issue",
+        "QA/Yes",
+        "OS/iOS"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 2789140791,
+      "title": "Improve UX for setting NTP to a url",
+      "html_url": "https://github.com/brave/brave-browser/issues/43302",
+      "updated_at": "2025-12-28T16:36:59Z",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature/new-tab",
+        "design/needs-mock-up",
+        "priority/P5",
+        "QA/Yes",
+        "release-notes/include",
+        "OS/Desktop"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 3692341541,
+      "title": "Underline/indicate keyboard shortcuts in right-click menu",
+      "html_url": "https://github.com/brave/brave-browser/issues/51218",
+      "updated_at": "2025-12-23T20:53:55Z",
+      "labels": [
+        "good first issue",
+        "polish",
+        "priority/P5",
+        "feature-request",
+        "OS/Desktop"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 3708085348,
+      "title": "In settings, clicking Search icon does not activate the cursor in the search field",
+      "html_url": "https://github.com/brave/brave-browser/issues/51316",
+      "updated_at": "2025-12-23T12:36:10Z",
+      "labels": [
+        "good first issue",
+        "priority/P5",
+        "feature/settings",
+        "OS/Desktop"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 2378924000,
+      "title": "[Android] Update button on filters page should update all lists including custom lists",
+      "html_url": "https://github.com/brave/brave-browser/issues/39431",
+      "updated_at": "2025-12-20T19:08:47Z",
+      "labels": [
+        "good first issue",
+        "priority/P4",
+        "feature/settings",
+        "feature/components",
+        "OS/Android"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 2923180489,
+      "title": "Huge unnecessarily long scrollbar on `brave://settings/content/all`",
+      "html_url": "https://github.com/brave/brave-browser/issues/44696",
+      "updated_at": "2025-12-15T20:25:59Z",
+      "labels": [
+        "good first issue",
+        "priority/P5",
+        "feature/settings",
+        "OS/Desktop"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
+    },
+    {
+      "id": 2591545167,
+      "title": "Allow brave-browser.desktop to open URLs in Incognito mode",
+      "html_url": "https://github.com/brave/brave-browser/issues/41667",
+      "updated_at": "2025-12-15T06:52:43Z",
+      "labels": [
+        "good first issue",
+        "OS/Linux",
+        "priority/P5",
+        "feature-request",
+        "OS/Desktop"
+      ],
+      "repo": "brave/brave-browser",
+      "org": "brave",
+      "repo_name": "brave-browser",
+      "repo_stars": 21100,
+      "repo_forks": 2931,
+      "repo_pushed_at": "2026-01-13T12:13:36Z"
     },
     {
       "id": 1465599359,
       "title": "Give user alert to confirm browser refresh",
       "html_url": "https://github.com/WordPress/wordpress-playground/issues/81",
-      "updated_at": "2025-08-27T08:09:13Z",
+      "updated_at": "2026-01-06T06:53:29Z",
       "labels": [
         "[Type] Enhancement",
         "Good First Issue",
@@ -1090,1008 +1321,51 @@
       "repo": "WordPress/wordpress-playground",
       "org": "WordPress",
       "repo_name": "wordpress-playground",
-      "repo_stars": 1792,
-      "repo_forks": 335,
-      "repo_pushed_at": "2025-09-11T18:44:53Z"
+      "repo_stars": 1855,
+      "repo_forks": 387,
+      "repo_pushed_at": "2026-01-13T11:57:36Z"
     },
     {
-      "id": 3373897620,
-      "title": "New SPARKLE for Tracks button",
-      "html_url": "https://github.com/Hylozoic/hylo/issues/868",
-      "updated_at": "2025-09-01T22:54:15Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "Hylozoic/hylo",
-      "org": "Hylozoic",
-      "repo_name": "hylo",
-      "repo_stars": 13,
-      "repo_forks": 3,
-      "repo_pushed_at": "2025-09-11T18:39:14Z"
-    },
-    {
-      "id": 2570499826,
-      "title": "Inconsistent Conversation Bubble Sizes with YAML Code Blocks in Widescreen Mode",
-      "html_url": "https://github.com/open-webui/open-webui/issues/5975",
-      "updated_at": "2025-08-23T16:58:37Z",
+      "id": 2028170651,
+      "title": "Add Preset for historic=millstone",
+      "html_url": "https://github.com/openstreetmap/id-tagging-schema/issues/1067",
+      "updated_at": "2026-01-07T00:42:23Z",
       "labels": [
         "good first issue",
-        "help wanted"
+        "new-preset"
       ],
-      "repo": "open-webui/open-webui",
-      "org": "open-webui",
-      "repo_name": "open-webui",
-      "repo_stars": 109581,
-      "repo_forks": 14993,
-      "repo_pushed_at": "2025-09-11T18:29:03Z"
+      "repo": "openstreetmap/id-tagging-schema",
+      "org": "openstreetmap",
+      "repo_name": "id-tagging-schema",
+      "repo_stars": 197,
+      "repo_forks": 220,
+      "repo_pushed_at": "2026-01-13T11:33:00Z"
     },
     {
-      "id": 3378424896,
-      "title": "Add Scroll-to-Bottom Button to Improve Navigation\n",
-      "html_url": "https://github.com/eccentriccoder01/Venturalink/issues/27",
-      "updated_at": "2025-09-10T14:42:49Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "level 1"
-      ],
-      "repo": "eccentriccoder01/Venturalink",
-      "org": "eccentriccoder01",
-      "repo_name": "Venturalink",
-      "repo_stars": 7,
-      "repo_forks": 15,
-      "repo_pushed_at": "2025-09-11T18:26:36Z"
-    },
-    {
-      "id": 3309886833,
-      "title": "Remove or Adjust down scroll to explore text & line",
-      "html_url": "https://github.com/eccentriccoder01/Venturalink/issues/7",
-      "updated_at": "2025-08-12T12:49:30Z",
-      "labels": [
-        "good first issue",
-        "gssoc25",
-        "level 1"
-      ],
-      "repo": "eccentriccoder01/Venturalink",
-      "org": "eccentriccoder01",
-      "repo_name": "Venturalink",
-      "repo_stars": 7,
-      "repo_forks": 15,
-      "repo_pushed_at": "2025-09-11T18:26:36Z"
-    },
-    {
-      "id": 3287917521,
-      "title": "[TRIGGER] Coinbase / x402",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/17934",
-      "updated_at": "2025-09-11T18:22:57Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "trigger / source",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3389650972,
-      "title": "[ACTION] Hubspot Page - Widgets missing from the update page action",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18300",
-      "updated_at": "2025-09-11T18:21:38Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3398025543,
-      "title": "[ACTION] - Affinity CRM MCP",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18318",
-      "updated_at": "2025-09-11T17:21:56Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3395757519,
-      "title": "[TRIGGER] Migrate from Google Drive File Subscriptions API to Changes API to Avoid Rate Limits",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18315",
-      "updated_at": "2025-09-11T14:41:15Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "trigger / source",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3337836143,
-      "title": "[ACTION] Salesforce Marketing Cloud Engagement API",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18124",
-      "updated_at": "2025-09-11T01:20:27Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3389983586,
-      "title": "SEVDESK - TimeTracker2Excel or Sheets",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18301",
-      "updated_at": "2025-09-11T00:27:18Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "trigger / source",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3337883695,
-      "title": "[ACTION] Databricks API extension",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18126",
-      "updated_at": "2025-09-05T19:07:11Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3380481802,
-      "title": "Add FullStory API Integration to MCP Server - Session Data and Events Access",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18263",
-      "updated_at": "2025-09-05T07:52:34Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3377945541,
-      "title": "[ACTION] Braze MCP",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18257",
-      "updated_at": "2025-09-04T22:09:13Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3372916578,
-      "title": "[ACTION] Microsoft Booking",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18231",
-      "updated_at": "2025-09-02T14:05:29Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3349726434,
-      "title": "Everhour Events",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18163",
-      "updated_at": "2025-08-26T02:08:45Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "trigger / source",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3336658194,
-      "title": "[ACTION] Add https://zapr.link/ integration - it has also MCP",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18123",
-      "updated_at": "2025-08-21T19:34:53Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3290462497,
-      "title": "[ACTION] Slack \"list_replies\" tool MCP needs to be improved",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/17939",
-      "updated_at": "2025-08-21T07:07:28Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 1536080200,
-      "title": "Groupon API",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/5200",
-      "updated_at": "2025-08-19T00:56:18Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "app",
-        "triaged",
-        "added to app backlog",
-        "Outreach"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3312939608,
-      "title": "Netatmo",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/18017",
-      "updated_at": "2025-08-18T05:57:42Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3113255550,
-      "title": "[ACTION] Picqer.com MCP server",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/16939",
-      "updated_at": "2025-08-15T16:53:42Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "action",
-        "app",
-        "triaged",
-        "Outreach"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3301445827,
-      "title": "[ACTION] Polar.sh",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/17977",
-      "updated_at": "2025-08-13T15:36:30Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "action"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3300045035,
-      "title": "[TRIGGER]",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/17972",
-      "updated_at": "2025-08-12T03:49:07Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "question",
-        "trigger / source"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3247673129,
-      "title": "[TRIGGERS] Facebook Pages",
-      "html_url": "https://github.com/PipedreamHQ/pipedream/issues/17713",
-      "updated_at": "2025-08-12T02:36:23Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "action",
-        "triaged"
-      ],
-      "repo": "PipedreamHQ/pipedream",
-      "org": "PipedreamHQ",
-      "repo_name": "pipedream",
-      "repo_stars": 10556,
-      "repo_forks": 5490,
-      "repo_pushed_at": "2025-09-11T19:22:05Z"
-    },
-    {
-      "id": 3069397054,
-      "title": "feat: Add codex integration",
-      "html_url": "https://github.com/eyaltoledano/claude-task-master/issues/524",
-      "updated_at": "2025-09-01T15:14:22Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "eyaltoledano/claude-task-master",
-      "org": "eyaltoledano",
-      "repo_name": "claude-task-master",
-      "repo_stars": 21871,
-      "repo_forks": 2128,
-      "repo_pushed_at": "2025-09-11T18:11:47Z"
-    },
-    {
-      "id": 3164250466,
-      "title": "Automated README Progress Badges & Table",
-      "html_url": "https://github.com/eyaltoledano/claude-task-master/issues/838",
-      "updated_at": "2025-08-28T14:22:37Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "eyaltoledano/claude-task-master",
-      "org": "eyaltoledano",
-      "repo_name": "claude-task-master",
-      "repo_stars": 21871,
-      "repo_forks": 2128,
-      "repo_pushed_at": "2025-09-11T18:11:47Z"
-    },
-    {
-      "id": 3292783726,
-      "title": "[pt] Localize /community pages",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7475",
-      "updated_at": "2025-09-11T14:50:22Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "lang:pt"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3305136718,
-      "title": "[es] Spanish folder localization community",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7516",
-      "updated_at": "2025-09-09T15:51:06Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "docs",
-        "lang:es"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3307831913,
-      "title": "[es] Fix Spanish localization drifted pages",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7521",
-      "updated_at": "2025-09-06T20:41:24Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "docs",
-        "cleanup/refactoring",
-        "lang:es"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 2539942335,
-      "title": "[es] Spanish folder localization docs/languages",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/5229",
-      "updated_at": "2025-08-21T18:32:25Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "docs",
-        "lang:es"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3315442167,
-      "title": "[es] Spanish folder localization blogs",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7535",
-      "updated_at": "2025-08-21T18:12:19Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "docs",
-        "lang:es"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3318068238,
-      "title": "[pt] Localize content/en/docs/platforms pages",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7545",
-      "updated_at": "2025-08-13T22:05:28Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "lang:pt"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3318048099,
-      "title": "[pt] Localize content/en/docs/demo pages",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7544",
-      "updated_at": "2025-08-13T11:23:16Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "lang:pt"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3297534682,
-      "title": "[es] Spanish folder localization ecosystem",
-      "html_url": "https://github.com/open-telemetry/opentelemetry.io/issues/7488",
-      "updated_at": "2025-08-12T19:39:22Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "docs",
-        "lang:es"
-      ],
-      "repo": "open-telemetry/opentelemetry.io",
-      "org": "open-telemetry",
-      "repo_name": "opentelemetry.io",
-      "repo_stars": 762,
-      "repo_forks": 1516,
-      "repo_pushed_at": "2025-09-11T19:26:56Z"
-    },
-    {
-      "id": 3347163336,
-      "title": "Cannot call `unmount` method with using Attachment and $state",
-      "html_url": "https://github.com/sveltejs/svelte/issues/16656",
-      "updated_at": "2025-09-07T23:38:01Z",
-      "labels": [
-        "good first issue"
-      ],
-      "repo": "sveltejs/svelte",
-      "org": "sveltejs",
-      "repo_name": "svelte",
-      "repo_stars": 84066,
-      "repo_forks": 4613,
-      "repo_pushed_at": "2025-09-11T17:38:13Z"
-    },
-    {
-      "id": 2853739122,
-      "title": "Docs: Add a link from [svelte-transition](https://svelte.dev/docs/svelte-transition) to [svelte/transition](https://svelte.dev/docs/svelte/transition) page",
-      "html_url": "https://github.com/sveltejs/svelte/issues/15296",
-      "updated_at": "2025-08-17T18:50:08Z",
-      "labels": [
-        "good first issue",
-        "documentation"
-      ],
-      "repo": "sveltejs/svelte",
-      "org": "sveltejs",
-      "repo_name": "svelte",
-      "repo_stars": 84066,
-      "repo_forks": 4613,
-      "repo_pushed_at": "2025-09-11T17:38:13Z"
-    },
-    {
-      "id": 3407702732,
-      "title": "[UI] Enhance meshery operator connectivity check button behavior based on the real operator status value.",
-      "html_url": "https://github.com/meshery/meshery/issues/15814",
-      "updated_at": "2025-09-11T18:55:10Z",
-      "labels": [
-        "kind/bug",
-        "good first issue",
-        "language/javascript",
-        "component/ui",
-        "framework/react"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2133712489,
-      "title": "[Models][UX]: Design Icon for ArgoCD Component - Event Bus",
-      "html_url": "https://github.com/meshery/meshery/issues/10297",
-      "updated_at": "2025-09-07T03:41:11Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "hacktoberfest",
-        "component/ui",
-        "issue/willfix",
-        "framework/figma",
-        "area/models",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2133708348,
-      "title": "[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export",
-      "html_url": "https://github.com/meshery/meshery/issues/10294",
-      "updated_at": "2025-09-06T15:39:44Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "hacktoberfest",
-        "component/ui",
-        "issue/willfix",
-        "framework/figma",
-        "area/models",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2133701189,
-      "title": "[Models][UX}: Design Icon for ArgoCD Component - ArgoCD Extension",
-      "html_url": "https://github.com/meshery/meshery/issues/10290",
-      "updated_at": "2025-09-05T04:34:45Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "hacktoberfest",
-        "component/ui",
-        "issue/willfix",
-        "framework/figma",
-        "area/models",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2923071898,
-      "title": "[mesheryctl] increase unit/integration test coverage on model subcommands",
-      "html_url": "https://github.com/meshery/meshery/issues/14042",
-      "updated_at": "2025-09-05T04:15:43Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "component/mesheryctl",
-        "language/go",
-        "kind/epic",
-        "area/tests"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2618631573,
-      "title": "[Template] Create a Design Critique template",
-      "html_url": "https://github.com/meshery/meshery/issues/12502",
-      "updated_at": "2025-09-04T12:45:38Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "issue/willfix",
-        "component/extensions",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2618571559,
-      "title": "[Template] Create a Service blueprint template ",
-      "html_url": "https://github.com/meshery/meshery/issues/12497",
-      "updated_at": "2025-09-04T12:42:02Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "issue/willfix",
-        "component/extensions",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 1921685352,
-      "title": "Design Error Code Reference Page in Figma to Enhance the UI ",
-      "html_url": "https://github.com/meshery/meshery/issues/8995",
-      "updated_at": "2025-08-26T00:50:56Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "hacktoberfest",
-        "component/ui",
-        "issue/willfix",
-        "framework/figma",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2133710129,
-      "title": "[Models][UX]: Design Icon for ArgoCD Component - Cluster Workflow Template",
-      "html_url": "https://github.com/meshery/meshery/issues/10295",
-      "updated_at": "2025-08-26T00:47:59Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "hacktoberfest",
-        "component/ui",
-        "issue/willfix",
-        "framework/figma",
-        "area/models",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 2618607645,
-      "title": "[Template] Create a AWS architecture template",
-      "html_url": "https://github.com/meshery/meshery/issues/12500",
-      "updated_at": "2025-08-23T17:55:04Z",
-      "labels": [
-        "kind/enhancement",
-        "help wanted",
-        "good first issue",
-        "issue/willfix",
-        "component/extensions",
-        "type/visual-design"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 3232062425,
-      "title": "[UI] Migrate Playwright extensions spec to use Playwright Page Object Model",
-      "html_url": "https://github.com/meshery/meshery/issues/15373",
-      "updated_at": "2025-08-23T10:56:16Z",
-      "labels": [
-        "kind/enhancement",
-        "good first issue",
-        "language/javascript",
-        "component/ui",
-        "framework/react"
-      ],
-      "repo": "meshery/meshery",
-      "org": "meshery",
-      "repo_name": "meshery",
-      "repo_stars": 7791,
-      "repo_forks": 2567,
-      "repo_pushed_at": "2025-09-11T17:37:42Z"
-    },
-    {
-      "id": 3402929099,
-      "title": "\"Position unavailable: \" when location off",
-      "html_url": "https://github.com/falling-fruit/falling-fruit-web/issues/866",
-      "updated_at": "2025-09-11T12:23:30Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "mobile"
-      ],
-      "repo": "falling-fruit/falling-fruit-web",
-      "org": "falling-fruit",
-      "repo_name": "falling-fruit-web",
-      "repo_stars": 61,
-      "repo_forks": 37,
-      "repo_pushed_at": "2025-09-11T17:25:37Z"
-    },
-    {
-      "id": 3391693137,
-      "title": "Make \"check confirmation email\" a separate page",
-      "html_url": "https://github.com/falling-fruit/falling-fruit-web/issues/865",
-      "updated_at": "2025-09-11T11:25:41Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "falling-fruit/falling-fruit-web",
-      "org": "falling-fruit",
-      "repo_name": "falling-fruit-web",
-      "repo_stars": 61,
-      "repo_forks": 37,
-      "repo_pushed_at": "2025-09-11T17:25:37Z"
-    },
-    {
-      "id": 2526861227,
-      "title": "fix max height of opened filter pane to just over the bottom menu icons",
-      "html_url": "https://github.com/falling-fruit/falling-fruit-web/issues/448",
-      "updated_at": "2025-08-29T06:59:37Z",
-      "labels": [
-        "good first issue",
-        "mobile"
-      ],
-      "repo": "falling-fruit/falling-fruit-web",
-      "org": "falling-fruit",
-      "repo_name": "falling-fruit-web",
-      "repo_stars": 61,
-      "repo_forks": 37,
-      "repo_pushed_at": "2025-09-11T17:25:37Z"
-    },
-    {
-      "id": 3346482561,
-      "title": "Improve experience around geolocation position uncertainty",
-      "html_url": "https://github.com/falling-fruit/falling-fruit-web/issues/860",
-      "updated_at": "2025-08-27T10:12:37Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "falling-fruit/falling-fruit-web",
-      "org": "falling-fruit",
-      "repo_name": "falling-fruit-web",
-      "repo_stars": 61,
-      "repo_forks": 37,
-      "repo_pushed_at": "2025-09-11T17:25:37Z"
-    },
-    {
-      "id": 2900305370,
-      "title": "Migrate OCC to InvitationList",
-      "html_url": "https://github.com/nextcloud/spreed/issues/14571",
-      "updated_at": "2025-09-04T13:45:04Z",
+      "id": 3776259893,
+      "title": "Remove \"Your default {} has been saved\" toasts",
+      "html_url": "https://github.com/nextcloud/spreed/issues/16659",
+      "updated_at": "2026-01-12T11:15:49Z",
       "labels": [
         "1. to develop",
-        "enhancement",
+        "design",
+        "papercut",
         "good first issue",
-        "feature: api 🛠️",
-        "feature: conversations 👥"
-      ],
-      "repo": "nextcloud/spreed",
-      "org": "nextcloud",
-      "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
-    },
-    {
-      "id": 2900305288,
-      "title": "Migrate addParticipantToRoom to InvitationList",
-      "html_url": "https://github.com/nextcloud/spreed/issues/14570",
-      "updated_at": "2025-09-04T13:45:04Z",
-      "labels": [
-        "1. to develop",
-        "enhancement",
-        "good first issue",
-        "feature: api 🛠️",
-        "feature: conversations 👥"
-      ],
-      "repo": "nextcloud/spreed",
-      "org": "nextcloud",
-      "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
-    },
-    {
-      "id": 2890996797,
-      "title": "Imprint and privacy links in public talk conversations",
-      "html_url": "https://github.com/nextcloud/spreed/issues/14547",
-      "updated_at": "2025-09-04T13:45:03Z",
-      "labels": [
-        "1. to develop",
-        "enhancement",
-        "good first issue",
+        "feature: settings ⚙️",
         "feature: frontend 🖌️"
       ],
       "repo": "nextcloud/spreed",
       "org": "nextcloud",
       "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
     },
     {
       "id": 1378041736,
       "title": "Chat should permanently indicate whether message expiration is set up",
       "html_url": "https://github.com/nextcloud/spreed/issues/7953",
-      "updated_at": "2025-09-04T13:37:27Z",
+      "updated_at": "2026-01-09T12:48:58Z",
       "labels": [
         "1. to develop",
         "bug",
@@ -2103,15 +1377,15 @@
       "repo": "nextcloud/spreed",
       "org": "nextcloud",
       "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
     },
     {
       "id": 617220708,
       "title": "Go back to autopilot mode if re-clicking selected participant",
       "html_url": "https://github.com/nextcloud/spreed/issues/3518",
-      "updated_at": "2025-09-04T13:35:45Z",
+      "updated_at": "2026-01-09T12:48:52Z",
       "labels": [
         "1. to develop",
         "enhancement",
@@ -2123,2216 +1397,648 @@
       "repo": "nextcloud/spreed",
       "org": "nextcloud",
       "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
     },
     {
-      "id": 3107553794,
-      "title": "Instant meeting outside of dashboard?",
-      "html_url": "https://github.com/nextcloud/spreed/issues/15276",
-      "updated_at": "2025-08-28T14:56:31Z",
+      "id": 2900305370,
+      "title": "Migrate OCC to InvitationList",
+      "html_url": "https://github.com/nextcloud/spreed/issues/14571",
+      "updated_at": "2026-01-09T12:47:37Z",
       "labels": [
         "1. to develop",
         "enhancement",
         "good first issue",
-        "feature: frontend 🖌️",
-        "feature: meetings 📅"
+        "feature: api 🛠️",
+        "feature: conversations 👥"
       ],
       "repo": "nextcloud/spreed",
       "org": "nextcloud",
       "repo_name": "spreed",
-      "repo_stars": 1991,
-      "repo_forks": 483,
-      "repo_pushed_at": "2025-09-11T17:25:30Z"
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
     },
     {
-      "id": 2197329507,
-      "title": "Document differences between Node.js fetch() implementations and the standard",
-      "html_url": "https://github.com/nodejs/node/issues/52163",
-      "updated_at": "2025-09-03T16:15:46Z",
+      "id": 2900305288,
+      "title": "Migrate addParticipantToRoom to InvitationList",
+      "html_url": "https://github.com/nextcloud/spreed/issues/14570",
+      "updated_at": "2026-01-09T12:47:37Z",
       "labels": [
-        "doc",
-        "good first issue"
-      ],
-      "repo": "nodejs/node",
-      "org": "nodejs",
-      "repo_name": "node",
-      "repo_stars": 113179,
-      "repo_forks": 33040,
-      "repo_pushed_at": "2025-09-11T17:21:57Z"
-    },
-    {
-      "id": 3368849237,
-      "title": "ESM import of `http` is slower compared to CommonJS",
-      "html_url": "https://github.com/nodejs/node/issues/59686",
-      "updated_at": "2025-09-01T14:58:54Z",
-      "labels": [
-        "doc",
-        "good first issue"
-      ],
-      "repo": "nodejs/node",
-      "org": "nodejs",
-      "repo_name": "node",
-      "repo_stars": 113179,
-      "repo_forks": 33040,
-      "repo_pushed_at": "2025-09-11T17:21:57Z"
-    },
-    {
-      "id": 3400299635,
-      "title": "Get coverage testing to 100%",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/74",
-      "updated_at": "2025-09-10T16:06:00Z",
-      "labels": [
+        "1. to develop",
         "enhancement",
-        "help wanted",
         "good first issue",
-        "testing"
+        "feature: api 🛠️",
+        "feature: conversations 👥"
       ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
+      "repo": "nextcloud/spreed",
+      "org": "nextcloud",
+      "repo_name": "spreed",
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
     },
     {
-      "id": 3390987111,
-      "title": "Add image metadata for image previews",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/65",
-      "updated_at": "2025-09-08T03:03:27Z",
+      "id": 2890996797,
+      "title": "Imprint and privacy links in public talk conversations",
+      "html_url": "https://github.com/nextcloud/spreed/issues/14547",
+      "updated_at": "2026-01-09T12:47:36Z",
       "labels": [
+        "1. to develop",
         "enhancement",
+        "good first issue",
+        "feature: frontend 🖌️"
+      ],
+      "repo": "nextcloud/spreed",
+      "org": "nextcloud",
+      "repo_name": "spreed",
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
+    },
+    {
+      "id": 3689225009,
+      "title": "Remove redundant unread mention button when filtering for unread mentions",
+      "html_url": "https://github.com/nextcloud/spreed/issues/16473",
+      "updated_at": "2025-12-17T18:35:46Z",
+      "labels": [
+        "1. to develop",
+        "bug",
+        "papercut",
+        "good first issue"
+      ],
+      "repo": "nextcloud/spreed",
+      "org": "nextcloud",
+      "repo_name": "spreed",
+      "repo_stars": 2046,
+      "repo_forks": 509,
+      "repo_pushed_at": "2026-01-13T14:29:56Z"
+    },
+    {
+      "id": 3755458859,
+      "title": "Update Project Profile: Website- Remove Ren Demeis-Ortiz",
+      "html_url": "https://github.com/hackforla/website/issues/8450",
+      "updated_at": "2026-01-11T20:10:20Z",
+      "labels": [
+        "good first issue",
+        "role: front end",
+        "role: back end/devOps",
+        "P-Feature: Project Info and Page",
+        "time sensitive",
+        "size: 0.25pt"
+      ],
+      "repo": "hackforla/website",
+      "org": "hackforla",
+      "repo_name": "website",
+      "repo_stars": 361,
+      "repo_forks": 844,
+      "repo_pushed_at": "2026-01-13T11:08:15Z"
+    },
+    {
+      "id": 3382008965,
+      "title": "Update Project Profile: Expunge Assist Add Farnaz S",
+      "html_url": "https://github.com/hackforla/website/issues/8318",
+      "updated_at": "2026-01-11T19:38:13Z",
+      "labels": [
+        "good first issue",
+        "role: front end",
+        "role: back end/devOps",
+        "P-Feature: Project Info and Page",
+        "time sensitive",
+        "size: 0.25pt"
+      ],
+      "repo": "hackforla/website",
+      "org": "hackforla",
+      "repo_name": "website",
+      "repo_stars": 361,
+      "repo_forks": 844,
+      "repo_pushed_at": "2026-01-13T11:08:15Z"
+    },
+    {
+      "id": 3415413284,
+      "title": "Update Project Profile: HackforLA Website Add Donovan Vernon",
+      "html_url": "https://github.com/hackforla/website/issues/8329",
+      "updated_at": "2026-01-11T19:37:12Z",
+      "labels": [
+        "good first issue",
+        "role: front end",
+        "role: back end/devOps",
+        "P-Feature: Project Info and Page",
+        "time sensitive",
+        "size: 0.25pt"
+      ],
+      "repo": "hackforla/website",
+      "org": "hackforla",
+      "repo_name": "website",
+      "repo_stars": 361,
+      "repo_forks": 844,
+      "repo_pushed_at": "2026-01-13T11:08:15Z"
+    },
+    {
+      "id": 3682245390,
+      "title": "Update Project Profile: Hackforla.org Website Add Kerstin Carson",
+      "html_url": "https://github.com/hackforla/website/issues/8440",
+      "updated_at": "2026-01-11T19:34:10Z",
+      "labels": [
+        "good first issue",
+        "role: front end",
+        "role: back end/devOps",
+        "P-Feature: Project Info and Page",
+        "time sensitive",
+        "size: 0.25pt"
+      ],
+      "repo": "hackforla/website",
+      "org": "hackforla",
+      "repo_name": "website",
+      "repo_stars": 361,
+      "repo_forks": 844,
+      "repo_pushed_at": "2026-01-13T11:08:15Z"
+    },
+    {
+      "id": 3778923092,
+      "title": "Microsoft typo",
+      "html_url": "https://github.com/yiisoft/docs/issues/294",
+      "updated_at": "2026-01-05T10:26:46Z",
+      "labels": [
+        "type:bug",
         "help wanted",
         "good first issue"
       ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3364176385,
-      "title": "improve the editor button bar",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/17",
-      "updated_at": "2025-09-07T19:51:19Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "editor page"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3380460581,
-      "title": "Create and document a \"preview location\" script",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/51",
-      "updated_at": "2025-09-05T05:17:54Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "previews"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3367610517,
-      "title": "Make codemirror \"syntax highlight\" imports normal, local `/vendor` assets",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/38",
-      "updated_at": "2025-08-29T21:00:04Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3365021221,
-      "title": "add starter project for 11y",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/29",
-      "updated_at": "2025-08-29T16:45:13Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "starter projects"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3365022615,
-      "title": "add a flask server starter",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/31",
-      "updated_at": "2025-08-29T00:12:44Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "starter projects"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 3365021830,
-      "title": "add starter project for vite",
-      "html_url": "https://github.com/Pomax/make-webbly-things/issues/30",
-      "updated_at": "2025-08-29T00:12:40Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "starter projects"
-      ],
-      "repo": "Pomax/make-webbly-things",
-      "org": "Pomax",
-      "repo_name": "make-webbly-things",
-      "repo_stars": 8,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T18:18:40Z"
-    },
-    {
-      "id": 1013665954,
-      "title": "ARIA in HTML allowances changes for br and wbr",
-      "html_url": "https://github.com/dequelabs/axe-core/issues/3177",
-      "updated_at": "2025-09-11T19:30:44Z",
-      "labels": [
-        "good first issue",
-        "standards"
-      ],
-      "repo": "dequelabs/axe-core",
-      "org": "dequelabs",
-      "repo_name": "axe-core",
-      "repo_stars": 6592,
-      "repo_forks": 839,
-      "repo_pushed_at": "2025-09-11T17:04:42Z"
-    },
-    {
-      "id": 3222419032,
-      "title": "Ensure all user facing instances of \"consent mode\" to be lowercase / sentence case.",
-      "html_url": "https://github.com/google/site-kit-wp/issues/11076",
-      "updated_at": "2025-09-04T13:11:28Z",
-      "labels": [
-        "Type: Support",
-        "P2",
-        "Type: Enhancement",
-        "Good First Issue"
-      ],
-      "repo": "google/site-kit-wp",
-      "org": "google",
-      "repo_name": "site-kit-wp",
-      "repo_stars": 1323,
-      "repo_forks": 318,
-      "repo_pushed_at": "2025-09-11T17:57:24Z"
-    },
-    {
-      "id": 3243434228,
-      "title": "Simplify inline module data handling.",
-      "html_url": "https://github.com/google/site-kit-wp/issues/11120",
-      "updated_at": "2025-08-20T15:10:29Z",
-      "labels": [
-        "P2",
-        "Type: Enhancement",
-        "Good First Issue",
-        "PHP"
-      ],
-      "repo": "google/site-kit-wp",
-      "org": "google",
-      "repo_name": "site-kit-wp",
-      "repo_stars": 1323,
-      "repo_forks": 318,
-      "repo_pushed_at": "2025-09-11T17:57:24Z"
-    },
-    {
-      "id": 3381388705,
-      "title": "Language selector should sort language output",
-      "html_url": "https://github.com/openedx/frontend-app-account/issues/1338",
-      "updated_at": "2025-09-03T21:40:45Z",
-      "labels": [
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "openedx/frontend-app-account",
-      "org": "openedx",
-      "repo_name": "frontend-app-account",
-      "repo_stars": 22,
-      "repo_forks": 162,
-      "repo_pushed_at": "2025-09-11T17:00:54Z"
-    },
-    {
-      "id": 3381332304,
-      "title": "Language selector drop down should not list languages for which we don't have a translation file",
-      "html_url": "https://github.com/openedx/frontend-app-account/issues/1337",
-      "updated_at": "2025-09-03T21:18:11Z",
-      "labels": [
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "openedx/frontend-app-account",
-      "org": "openedx",
-      "repo_name": "frontend-app-account",
-      "repo_stars": 22,
-      "repo_forks": 162,
-      "repo_pushed_at": "2025-09-11T17:00:54Z"
-    },
-    {
-      "id": 3326105310,
-      "title": "Remove common fields from ledger entry reference tables",
-      "html_url": "https://github.com/XRPLF/xrpl-dev-portal/issues/3238",
-      "updated_at": "2025-08-18T18:15:09Z",
-      "labels": [
-        "good first issue",
-        "organization"
-      ],
-      "repo": "XRPLF/xrpl-dev-portal",
-      "org": "XRPLF",
-      "repo_name": "xrpl-dev-portal",
-      "repo_stars": 1460,
-      "repo_forks": 1100,
-      "repo_pushed_at": "2025-09-11T16:55:07Z"
-    },
-    {
-      "id": 3340683813,
-      "title": "[Docs] Convert Static Image to Meshery Design - 3",
-      "html_url": "https://github.com/layer5io/docs/issues/793",
-      "updated_at": "2025-09-04T14:25:19Z",
-      "labels": [
-        "area/docs",
-        "good first issue",
-        "help wanted",
-        "language/markdown",
-        "framework/hugo"
-      ],
-      "repo": "layer5io/docs",
-      "org": "layer5io",
+      "repo": "yiisoft/docs",
+      "org": "yiisoft",
       "repo_name": "docs",
-      "repo_stars": 74,
-      "repo_forks": 133,
-      "repo_pushed_at": "2025-09-11T16:36:02Z"
+      "repo_stars": 243,
+      "repo_forks": 86,
+      "repo_pushed_at": "2026-01-13T11:07:21Z"
     },
     {
-      "id": 3340691618,
-      "title": "[Docs] Convert Static Image to Meshery Design - 4",
-      "html_url": "https://github.com/layer5io/docs/issues/794",
-      "updated_at": "2025-09-04T10:01:41Z",
+      "id": 3761757409,
+      "title": "Fix meta description for VitePress",
+      "html_url": "https://github.com/yiisoft/docs/issues/278",
+      "updated_at": "2025-12-25T10:16:00Z",
       "labels": [
-        "area/docs",
-        "good first issue",
-        "help wanted",
-        "language/markdown",
-        "framework/hugo"
+        "good first issue"
       ],
-      "repo": "layer5io/docs",
-      "org": "layer5io",
+      "repo": "yiisoft/docs",
+      "org": "yiisoft",
       "repo_name": "docs",
-      "repo_stars": 74,
-      "repo_forks": 133,
-      "repo_pushed_at": "2025-09-11T16:36:02Z"
+      "repo_stars": 243,
+      "repo_forks": 86,
+      "repo_pushed_at": "2026-01-13T11:07:21Z"
     },
     {
-      "id": 3302872128,
-      "title": "[Docs] Convert Static Image to Meshery Design - 1",
-      "html_url": "https://github.com/layer5io/docs/issues/759",
-      "updated_at": "2025-08-28T21:43:29Z",
+      "id": 3761758725,
+      "title": "Remove package and PHP version fields from \"Bug Report\" form",
+      "html_url": "https://github.com/yiisoft/docs/issues/279",
+      "updated_at": "2025-12-25T10:15:52Z",
       "labels": [
-        "area/docs",
-        "good first issue",
-        "help wanted",
-        "language/markdown",
-        "framework/hugo"
+        "good first issue"
       ],
-      "repo": "layer5io/docs",
-      "org": "layer5io",
+      "repo": "yiisoft/docs",
+      "org": "yiisoft",
       "repo_name": "docs",
-      "repo_stars": 74,
-      "repo_forks": 133,
-      "repo_pushed_at": "2025-09-11T16:36:02Z"
-    },
-    {
-      "id": 3332431302,
-      "title": "[Docs] Outdataed images in \"Cloning a Design\"",
-      "html_url": "https://github.com/layer5io/docs/issues/785",
-      "updated_at": "2025-08-22T12:32:42Z",
-      "labels": [
-        "area/docs",
-        "good first issue",
-        "help wanted",
-        "language/markdown",
-        "framework/hugo"
-      ],
-      "repo": "layer5io/docs",
-      "org": "layer5io",
-      "repo_name": "docs",
-      "repo_stars": 74,
-      "repo_forks": 133,
-      "repo_pushed_at": "2025-09-11T16:36:02Z"
-    },
-    {
-      "id": 3332246425,
-      "title": "[Docs] Academy: Example use of REST APIs",
-      "html_url": "https://github.com/layer5io/docs/issues/784",
-      "updated_at": "2025-08-19T17:07:43Z",
-      "labels": [
-        "area/docs",
-        "good first issue",
-        "help wanted",
-        "language/go",
-        "language/javascript",
-        "language/markdown",
-        "framework/hugo"
-      ],
-      "repo": "layer5io/docs",
-      "org": "layer5io",
-      "repo_name": "docs",
-      "repo_stars": 74,
-      "repo_forks": 133,
-      "repo_pushed_at": "2025-09-11T16:36:02Z"
-    },
-    {
-      "id": 3314472074,
-      "title": "Addition of rag Chatbot",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/226",
-      "updated_at": "2025-09-07T05:59:23Z",
-      "labels": [
-        "documentation",
-        "enhancement",
-        "good first issue",
-        "Component",
-        "Level 3",
-        "gssoc25",
-        "frontend",
-        "UI",
-        "feature",
-        "backend",
-        "authentication",
-        "AI",
-        "data-visualization",
-        "Navigation"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3389151538,
-      "title": "[Bug] Server error during student registration",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/465",
-      "updated_at": "2025-09-06T10:50:50Z",
-      "labels": [
-        "good first issue",
-        "Level 2",
-        "gssoc25"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3356810173,
-      "title": "Mouse bubble effect causes lag and disrupts UX",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/378",
-      "updated_at": "2025-08-27T06:16:45Z",
-      "labels": [
-        "good first issue",
-        "Level 1",
-        "gssoc25"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3287203054,
-      "title": "Css issue in mobile view",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/188",
-      "updated_at": "2025-08-22T09:21:49Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "Component",
-        "Level 1",
-        "gssoc25",
-        "frontend",
-        "feature",
-        "Navigation"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3320880680,
-      "title": "404 Error on Page Refresh for SPA Routes in Production",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/238",
-      "updated_at": "2025-08-17T16:40:54Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "Level 2",
-        "gssoc25",
-        "backend",
-        "authentication",
-        "Navigation"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3283481792,
-      "title": "Feature: Add Pagination & Filtering to Dashboard Listings",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/164",
-      "updated_at": "2025-08-17T02:19:20Z",
-      "labels": [
-        "documentation",
-        "enhancement",
-        "good first issue",
-        "Component",
-        "Level 2",
-        "gssoc25",
-        "frontend",
-        "UI",
-        "feature",
-        "animation",
-        "routing"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3317445095,
-      "title": "fix(ui): ensure scroll-to-top button doesn’t overlap chatbot icon",
-      "html_url": "https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/234",
-      "updated_at": "2025-08-14T18:20:14Z",
-      "labels": [
-        "bug",
-        "enhancement",
-        "good first issue",
-        "Component",
-        "Level 1",
-        "gssoc25",
-        "frontend",
-        "UI",
-        "feature",
-        "animation"
-      ],
-      "repo": "MonishRaman/Placify-Smarter_Placements-Sharper_Talent",
-      "org": "MonishRaman",
-      "repo_name": "Placify-Smarter_Placements-Sharper_Talent",
-      "repo_stars": 27,
-      "repo_forks": 67,
-      "repo_pushed_at": "2025-09-11T16:31:03Z"
-    },
-    {
-      "id": 3355681279,
-      "title": "Add \"Wishlist\" Feature to Allow Users to Save Books",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/79",
-      "updated_at": "2025-08-28T12:19:04Z",
-      "labels": [
-        "good first issue",
-        "LEVEL 1"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3327626144,
-      "title": "Resource Rating System",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/52",
-      "updated_at": "2025-08-26T03:43:29Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "GSSoC'25",
-        "LEVEL 3"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3330596324,
-      "title": "Enhancing the UI, adding of the Feedback from, login and Signup pages",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/61",
-      "updated_at": "2025-08-22T15:34:35Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "GSSoC'25",
-        "LEVEL 3"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3324968985,
-      "title": "Adding Footer and functionality  to the \"More\" & \"Join\" option in home page",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/40",
-      "updated_at": "2025-08-17T13:59:08Z",
-      "labels": [
-        "good first issue",
-        "GSSoC'25",
-        "LEVEL 1"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3312695626,
-      "title": "Feature: Global Resource Search & Quick Access",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/19",
-      "updated_at": "2025-08-15T16:44:21Z",
-      "labels": [
-        "good first issue",
-        "GSSoC'25",
-        "LEVEL 2"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3317650280,
-      "title": "✉️ Add Contact Form with EmailJS Integration",
-      "html_url": "https://github.com/arjavjain5203/Pustak_Ghar/issues/26",
-      "updated_at": "2025-08-15T09:12:42Z",
-      "labels": [
-        "good first issue",
-        "GSSoC'25",
-        "beginner",
-        "LEVEL 1"
-      ],
-      "repo": "arjavjain5203/Pustak_Ghar",
-      "org": "arjavjain5203",
-      "repo_name": "Pustak_Ghar",
-      "repo_stars": 6,
-      "repo_forks": 41,
-      "repo_pushed_at": "2025-09-11T16:30:22Z"
-    },
-    {
-      "id": 3382737909,
-      "title": "[Bug] Poor Visibility & UI Problems on Product Description Page",
-      "html_url": "https://github.com/agamjotsingh18/trendhora/issues/221",
-      "updated_at": "2025-09-07T12:30:35Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "gssoc25",
-        "Level2"
-      ],
-      "repo": "agamjotsingh18/trendhora",
-      "org": "agamjotsingh18",
-      "repo_name": "trendhora",
-      "repo_stars": 11,
-      "repo_forks": 68,
-      "repo_pushed_at": "2025-09-11T16:27:43Z"
-    },
-    {
-      "id": 3260608182,
-      "title": "Search Functionality",
-      "html_url": "https://github.com/agamjotsingh18/trendhora/issues/16",
-      "updated_at": "2025-09-01T19:19:36Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "Level2"
-      ],
-      "repo": "agamjotsingh18/trendhora",
-      "org": "agamjotsingh18",
-      "repo_name": "trendhora",
-      "repo_stars": 11,
-      "repo_forks": 68,
-      "repo_pushed_at": "2025-09-11T16:27:43Z"
-    },
-    {
-      "id": 3339174900,
-      "title": "[Feature]  Design Custom 404 Error Page with Navigation to Home",
-      "html_url": "https://github.com/agamjotsingh18/trendhora/issues/180",
-      "updated_at": "2025-08-20T21:03:46Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "Level2"
-      ],
-      "repo": "agamjotsingh18/trendhora",
-      "org": "agamjotsingh18",
-      "repo_name": "trendhora",
-      "repo_stars": 11,
-      "repo_forks": 68,
-      "repo_pushed_at": "2025-09-11T16:27:43Z"
-    },
-    {
-      "id": 3325261660,
-      "title": "[Bug] Warning: Each child in a list should have a unique “key” prop in ShopCategory component",
-      "html_url": "https://github.com/agamjotsingh18/trendhora/issues/154",
-      "updated_at": "2025-08-16T06:07:37Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "gssoc25",
-        "Level2"
-      ],
-      "repo": "agamjotsingh18/trendhora",
-      "org": "agamjotsingh18",
-      "repo_name": "trendhora",
-      "repo_stars": 11,
-      "repo_forks": 68,
-      "repo_pushed_at": "2025-09-11T16:27:43Z"
-    },
-    {
-      "id": 3267307328,
-      "title": "Feature Request: Add Mega Menu for Gender-Based Navigation",
-      "html_url": "https://github.com/agamjotsingh18/trendhora/issues/37",
-      "updated_at": "2025-08-12T20:08:37Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "Level2",
-        "Frontend"
-      ],
-      "repo": "agamjotsingh18/trendhora",
-      "org": "agamjotsingh18",
-      "repo_name": "trendhora",
-      "repo_stars": 11,
-      "repo_forks": 68,
-      "repo_pushed_at": "2025-09-11T16:27:43Z"
-    },
-    {
-      "id": 3405232164,
-      "title": "Create a new file SECURITY.md for the github repo.",
-      "html_url": "https://github.com/Roshansuthar1105/Codify/issues/353",
-      "updated_at": "2025-09-11T13:18:50Z",
-      "labels": [
-        "documentation",
-        "good first issue",
-        "gssoc25",
-        "Level 2",
-        "Not assigned yet"
-      ],
-      "repo": "Roshansuthar1105/Codify",
-      "org": "Roshansuthar1105",
-      "repo_name": "Codify",
-      "repo_stars": 34,
-      "repo_forks": 76,
-      "repo_pushed_at": "2025-09-11T16:22:54Z"
-    },
-    {
-      "id": 3361686712,
-      "title": "Issue: Request to Add Notes for a New Subject",
-      "html_url": "https://github.com/Roshansuthar1105/Codify/issues/139",
-      "updated_at": "2025-08-31T06:13:34Z",
-      "labels": [
-        "documentation",
-        "enhancement",
-        "help wanted",
-        "good first issue",
-        "gssoc25",
-        "Not assigned yet"
-      ],
-      "repo": "Roshansuthar1105/Codify",
-      "org": "Roshansuthar1105",
-      "repo_name": "Codify",
-      "repo_stars": 34,
-      "repo_forks": 76,
-      "repo_pushed_at": "2025-09-11T16:22:54Z"
-    },
-    {
-      "id": 3362799572,
-      "title": "Links for address and mail",
-      "html_url": "https://github.com/Roshansuthar1105/Codify/issues/147",
-      "updated_at": "2025-08-31T06:00:46Z",
-      "labels": [
-        "documentation",
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "Level 1"
-      ],
-      "repo": "Roshansuthar1105/Codify",
-      "org": "Roshansuthar1105",
-      "repo_name": "Codify",
-      "repo_stars": 34,
-      "repo_forks": 76,
-      "repo_pushed_at": "2025-09-11T16:22:54Z"
-    },
-    {
-      "id": 3347469560,
-      "title": "Incorrect Video Thumbnail Displayed in Java Section",
-      "html_url": "https://github.com/Roshansuthar1105/Codify/issues/60",
-      "updated_at": "2025-08-26T02:35:32Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "gssoc25",
-        "Level 2"
-      ],
-      "repo": "Roshansuthar1105/Codify",
-      "org": "Roshansuthar1105",
-      "repo_name": "Codify",
-      "repo_stars": 34,
-      "repo_forks": 76,
-      "repo_pushed_at": "2025-09-11T16:22:54Z"
-    },
-    {
-      "id": 2738804511,
-      "title": "[Feature] Add default provider in config file",
-      "html_url": "https://github.com/eduardconstantin/storybook-genie/issues/39",
-      "updated_at": "2025-08-18T15:39:51Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "eduardconstantin/storybook-genie",
-      "org": "eduardconstantin",
-      "repo_name": "storybook-genie",
-      "repo_stars": 107,
-      "repo_forks": 12,
-      "repo_pushed_at": "2025-09-11T16:15:48Z"
-    },
-    {
-      "id": 3277966626,
-      "title": "SYSHUB001v2-SG01 | Improved voting buttons",
-      "html_url": "https://github.com/syscoin/syshub/issues/102",
-      "updated_at": "2025-09-11T02:05:13Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "In Progress"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277968064,
-      "title": "SYSHUB001v2-SG03 | Update label from \"IP Address\" to \"IP Address (without port)\"",
-      "html_url": "https://github.com/syscoin/syshub/issues/104",
-      "updated_at": "2025-09-11T02:02:56Z",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "In Progress"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3305242364,
-      "title": "SYSHUB001v3-ER05 | Collateral Hash governance redirects to chainz.cryptoid.info",
-      "html_url": "https://github.com/syscoin/syshub/issues/118",
-      "updated_at": "2025-09-05T13:56:46Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "Dev Tested"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277917801,
-      "title": "SYSHUB001v1-SG01 | Outdated SentryNode requirements on \"About\" page",
-      "html_url": "https://github.com/syscoin/syshub/issues/80",
-      "updated_at": "2025-09-02T17:56:58Z",
-      "labels": [
-        "good first issue"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277934247,
-      "title": "SYSHUB001v1-ER13 | Links to the outdated article",
-      "html_url": "https://github.com/syscoin/syshub/issues/92",
-      "updated_at": "2025-09-02T17:46:38Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277935703,
-      "title": "SYSHUB001v1-ER15 | The \"About\" section should link to \"/stats\"",
-      "html_url": "https://github.com/syscoin/syshub/issues/94",
-      "updated_at": "2025-09-02T17:45:54Z",
-      "labels": [
-        "bug",
-        "good first issue"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277936270,
-      "title": "SYSHUB001v1-ER16 | Links to the outdated article",
-      "html_url": "https://github.com/syscoin/syshub/issues/95",
-      "updated_at": "2025-09-02T17:43:40Z",
-      "labels": [
-        "bug",
-        "good first issue"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3277937236,
-      "title": "SYSHUB001v1-ER17 | Links to the outdated article",
-      "html_url": "https://github.com/syscoin/syshub/issues/96",
-      "updated_at": "2025-09-02T17:43:12Z",
-      "labels": [
-        "good first issue"
-      ],
-      "repo": "syscoin/syshub",
-      "org": "syscoin",
-      "repo_name": "syshub",
-      "repo_stars": 5,
-      "repo_forks": 4,
-      "repo_pushed_at": "2025-09-11T16:14:35Z"
-    },
-    {
-      "id": 3406643607,
-      "title": "Add New Properties to `City` class",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/13",
-      "updated_at": "2025-09-11T19:11:59Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3395359532,
-      "title": "Store Food on each Tile",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/4",
-      "updated_at": "2025-09-11T16:42:03Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3400041491,
-      "title": "Home Page Needed",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/12",
-      "updated_at": "2025-09-11T14:18:23Z",
-      "labels": [
-        "documentation",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3399541267,
-      "title": "Switch to use Phaser.js Tilemap Layers",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/9",
-      "updated_at": "2025-09-11T13:27:11Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "refactor"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3399002132,
-      "title": "Add fog-of-war",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/5",
-      "updated_at": "2025-09-09T18:57:04Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3399355601,
-      "title": "Add Blog Section to Website",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/8",
-      "updated_at": "2025-09-09T17:36:18Z",
-      "labels": [
-        "documentation",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3399037540,
-      "title": "Split `Player` class into `Nation` and `Faction` classes",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/7",
-      "updated_at": "2025-09-09T15:55:34Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "refactor"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3395072835,
-      "title": "Main Menu Needed",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/2",
-      "updated_at": "2025-09-08T18:19:59Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3395091712,
-      "title": "Title Screen Needed",
-      "html_url": "https://github.com/YodasWs/Empires-4x/issues/3",
-      "updated_at": "2025-09-08T17:46:16Z",
-      "labels": [
-        "enhancement",
-        "help wanted",
-        "good first issue"
-      ],
-      "repo": "YodasWs/Empires-4x",
-      "org": "YodasWs",
-      "repo_name": "Empires-4x",
-      "repo_stars": 0,
-      "repo_forks": 2,
-      "repo_pushed_at": "2025-09-11T16:10:16Z"
-    },
-    {
-      "id": 3091157360,
-      "title": "PDFs with a \"blob:\" URL cannot be saved on desktop or iOS",
-      "html_url": "https://github.com/brave/brave-browser/issues/46348",
-      "updated_at": "2025-09-08T14:17:42Z",
-      "labels": [
-        "good first issue",
-        "priority/P4",
-        "OS/Desktop",
-        "OS/iOS"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 2923180489,
-      "title": "Huge unnecessarily long scrollbar on `brave://settings/content/all`",
-      "html_url": "https://github.com/brave/brave-browser/issues/44696",
-      "updated_at": "2025-09-05T15:42:08Z",
-      "labels": [
-        "good first issue",
-        "priority/P5",
-        "feature/settings",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3365079033,
-      "title": "Purple background behind search and keyboard elements",
-      "html_url": "https://github.com/brave/brave-browser/issues/48812",
-      "updated_at": "2025-09-04T15:37:08Z",
-      "labels": [
-        "good first issue",
-        "OS/iOS"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3368298198,
-      "title": "Closing a tab from the Tabs Bar will occasionally fail",
-      "html_url": "https://github.com/brave/brave-browser/issues/48847",
-      "updated_at": "2025-09-04T15:33:54Z",
-      "labels": [
-        "good first issue",
-        "OS/iOS"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3248053329,
-      "title": "Save button doesn't have bottom padding when Developer mode is enabled in Shields settings",
-      "html_url": "https://github.com/brave/brave-browser/issues/47782",
-      "updated_at": "2025-09-02T15:55:35Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "feature/user-interface",
-        "priority/P4",
-        "QA/Yes",
-        "release-notes/include",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 495946541,
-      "title": "Remove `Dashboard Settings` tool tip for each stats",
-      "html_url": "https://github.com/brave/brave-browser/issues/6084",
-      "updated_at": "2025-08-31T17:13:46Z",
-      "labels": [
-        "bug",
-        "good first issue",
-        "feature/user-interface",
-        "priority/P4",
-        "QA/Yes",
-        "QA/Test-Plan-Specified"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 2641581918,
-      "title": "Incorrect icon for Bookmarks in side panel",
-      "html_url": "https://github.com/brave/brave-browser/issues/42163",
-      "updated_at": "2025-08-27T16:20:40Z",
-      "labels": [
-        "good first issue",
-        "polish",
-        "priority/P5",
-        "misc/icons",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 2588973387,
-      "title": "Brave wordmark should be bold",
-      "html_url": "https://github.com/brave/brave-browser/issues/41637",
-      "updated_at": "2025-08-26T16:48:53Z",
-      "labels": [
-        "good first issue",
-        "polish",
-        "priority/P5",
-        "QA/No",
-        "release-notes/exclude",
-        "branding",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3036203956,
-      "title": "outline of drop downs on print modal isn't visible enough in dark theme - follow up to 45532",
-      "html_url": "https://github.com/brave/brave-browser/issues/45815",
-      "updated_at": "2025-08-24T11:25:12Z",
-      "labels": [
-        "help wanted",
-        "good first issue",
-        "polish",
-        "priority/P5",
-        "QA/Yes",
-        "feature/settings",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3226652124,
-      "title": "Reader Mode Custom Fonts",
-      "html_url": "https://github.com/brave/brave-browser/issues/47598",
-      "updated_at": "2025-08-22T13:51:34Z",
-      "labels": [
-        "good first issue",
-        "priority/P5",
-        "feature-request",
-        "feature/speedreader",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 1309192288,
-      "title": "Clicking on `Filter lists` opens up the filter page in a new tab even though the filter page already opened in another tab",
-      "html_url": "https://github.com/brave/brave-browser/issues/24120",
-      "updated_at": "2025-08-20T00:44:27Z",
-      "labels": [
-        "good first issue",
-        "suggestion",
-        "priority/P4",
-        "QA/Yes",
-        "QA/Test-Plan-Specified",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3212273698,
-      "title": "Split view - Fixes to gap menu button",
-      "html_url": "https://github.com/brave/brave-browser/issues/47451",
-      "updated_at": "2025-08-18T11:23:05Z",
-      "labels": [
-        "good first issue",
-        "polish",
-        "priority/P4",
-        "OS/Desktop",
-        "split view"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3274237009,
-      "title": "`See the brave difference` CTA sometimes is still displayed when quickly tapping on the `omnibox`",
-      "html_url": "https://github.com/brave/brave-browser/issues/48002",
-      "updated_at": "2025-08-17T19:49:51Z",
-      "labels": [
-        "good first issue",
-        "QA/Yes",
-        "release-notes/include",
-        "onboarding",
-        "OS/iOS"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 2721215763,
-      "title": "Add styling to brave://certificate-manager/",
-      "html_url": "https://github.com/brave/brave-browser/issues/42705",
-      "updated_at": "2025-08-15T19:56:54Z",
-      "labels": [
-        "good first issue",
-        "design",
-        "priority/P4",
-        "QA/Yes",
-        "release-notes/include",
-        "OS/Desktop"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 2788554977,
-      "title": "[AI Chat]: Reorder functions in `ai_chat_service.cc` to match order in header file",
-      "html_url": "https://github.com/brave/brave-browser/issues/43294",
-      "updated_at": "2025-08-15T09:53:48Z",
-      "labels": [
-        "good first issue",
-        "priority/P3",
-        "QA/No",
-        "dev-concern",
-        "release-notes/exclude",
-        "browser-ai"
-      ],
-      "repo": "brave/brave-browser",
-      "org": "brave",
-      "repo_name": "brave-browser",
-      "repo_stars": 20149,
-      "repo_forks": 2731,
-      "repo_pushed_at": "2025-09-11T16:05:25Z"
-    },
-    {
-      "id": 3407202297,
-      "title": "Setup redux",
-      "html_url": "https://github.com/plushexe351/codepain/issues/12",
-      "updated_at": "2025-09-11T17:53:17Z",
-      "labels": [
-        "enhancement",
-        "good first issue"
-      ],
-      "repo": "plushexe351/codepain",
-      "org": "plushexe351",
-      "repo_name": "codepain",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T16:02:04Z"
-    },
-    {
-      "id": 3407303380,
-      "title": "Setup MUI (Material UI)",
-      "html_url": "https://github.com/plushexe351/codepain/issues/13",
-      "updated_at": "2025-09-11T16:37:23Z",
-      "labels": [
-        "good first issue",
-        "UI"
-      ],
-      "repo": "plushexe351/codepain",
-      "org": "plushexe351",
-      "repo_name": "codepain",
-      "repo_stars": 0,
-      "repo_forks": 0,
-      "repo_pushed_at": "2025-09-11T16:02:04Z"
-    },
-    {
-      "id": 3176151524,
-      "title": "Add optional tiles border on exported PDF",
-      "html_url": "https://github.com/cboard-org/cboard/issues/1954",
-      "updated_at": "2025-08-18T18:16:57Z",
-      "labels": [
-        "good first issue",
-        "enhancement"
-      ],
-      "repo": "cboard-org/cboard",
-      "org": "cboard-org",
-      "repo_name": "cboard",
-      "repo_stars": 708,
-      "repo_forks": 231,
-      "repo_pushed_at": "2025-09-11T16:01:29Z"
-    },
-    {
-      "id": 2249705008,
-      "title": "createInterpolateElement: Add error handling in case unmatched tags are included",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/60843",
-      "updated_at": "2025-09-09T13:27:57Z",
-      "labels": [
-        "[Type] Bug",
-        "Good First Issue",
-        "[Status] In Progress",
-        "[Package] Element"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 2676118469,
-      "title": "Storybook: Add and Update Block Editor Components stories",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/67165",
-      "updated_at": "2025-08-31T12:43:08Z",
-      "labels": [
-        "[Type] Developer Documentation",
-        "Good First Issue",
-        "[Type] Tracking Issue",
-        "Storybook"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 2130186747,
-      "title": "Command Palette: Prevent third-party plugins from crashing the editor.",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/58939",
-      "updated_at": "2025-08-28T22:26:20Z",
-      "labels": [
-        "[Type] Enhancement",
-        "Good First Issue",
-        "[Package] Commands"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 858017016,
-      "title": "Scripts: Try using cosmiconf for locating tool configs ",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/30842",
-      "updated_at": "2025-08-27T13:28:22Z",
-      "labels": [
-        "[Type] Enhancement",
-        "Good First Issue",
-        "Needs Dev",
-        "[Tool] WP Scripts"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 1778090811,
-      "title": "Dropdown active option indicator misaligned",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/52001",
-      "updated_at": "2025-08-23T12:43:56Z",
-      "labels": [
-        "Good First Issue",
-        "[Priority] Low",
-        "[Type] Regression",
-        "Mobile App - i.e. Android or iOS"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 1926749606,
-      "title": "Use lowercase capitalization on Featured Image \"Link to...\" control",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/55057",
-      "updated_at": "2025-08-20T21:03:19Z",
-      "labels": [
-        "Good First Issue",
-        "[Status] In Progress",
-        "Internationalization (i18n)",
-        "[Type] Copy",
-        "[Block] Post Featured Image",
-        "[Status] In discussion"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 2977459565,
-      "title": "Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/69847",
-      "updated_at": "2025-08-19T17:19:52Z",
-      "labels": [
-        "[Type] Bug",
-        "Good First Issue",
-        "[Status] In Progress",
-        "Global Styles"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 924136307,
-      "title": "Gradient backgrounds should be set with `background-image` instead of `background`",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/32787",
-      "updated_at": "2025-08-18T07:56:09Z",
-      "labels": [
-        "[Type] Enhancement",
-        "Good First Issue",
-        "[Status] In Progress",
-        "CSS Styling"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
-    },
-    {
-      "id": 2271485296,
-      "title": "Add ESLint rule to prevent usage of the order CSS property",
-      "html_url": "https://github.com/WordPress/gutenberg/issues/61247",
-      "updated_at": "2025-08-12T01:38:09Z",
-      "labels": [
-        "[Focus] Accessibility (a11y)",
-        "Good First Issue",
-        "[Status] In Progress",
-        "[Type] Code Quality"
-      ],
-      "repo": "WordPress/gutenberg",
-      "org": "WordPress",
-      "repo_name": "gutenberg",
-      "repo_stars": 11387,
-      "repo_forks": 4552,
-      "repo_pushed_at": "2025-09-11T16:28:56Z"
+      "repo_stars": 243,
+      "repo_forks": 86,
+      "repo_pushed_at": "2026-01-13T11:07:21Z"
     }
   ],
   "org_summaries": {
-    "brisbanesocialchess": {
+    "sheltermanager": {
       "total_repos": 1,
-      "total_stars": 16,
-      "total_forks": 44,
-      "recent_issues_count": 13,
-      "activity_frequency": 13,
-      "popularity_score": 104
+      "total_stars": 127,
+      "total_forks": 76,
+      "recent_issues_count": 3,
+      "activity_frequency": 3,
+      "popularity_score": 279
+    },
+    "ing-bank": {
+      "total_repos": 1,
+      "total_stars": 1923,
+      "total_forks": 341,
+      "recent_issues_count": 1,
+      "activity_frequency": 1,
+      "popularity_score": 2605
+    },
+    "WordPress": {
+      "total_repos": 2,
+      "total_stars": 13372,
+      "total_forks": 5062,
+      "recent_issues_count": 10,
+      "activity_frequency": 5,
+      "popularity_score": 23496
+    },
+    "usebruno": {
+      "total_repos": 1,
+      "total_stars": 39902,
+      "total_forks": 2053,
+      "recent_issues_count": 6,
+      "activity_frequency": 6,
+      "popularity_score": 44008
     },
     "layer5io": {
-      "total_repos": 2,
-      "total_stars": 1022,
-      "total_forks": 1509,
-      "recent_issues_count": 13,
-      "activity_frequency": 6.5,
-      "popularity_score": 4040
-    },
-    "MLH-Fellowship": {
       "total_repos": 1,
-      "total_stars": 0,
-      "total_forks": 0,
+      "total_stars": 991,
+      "total_forks": 1443,
       "recent_issues_count": 4,
       "activity_frequency": 4,
-      "popularity_score": 0
+      "popularity_score": 3877
     },
-    "HeyPuter": {
+    "ToolJet": {
       "total_repos": 1,
-      "total_stars": 36129,
-      "total_forks": 2806,
-      "recent_issues_count": 32,
-      "activity_frequency": 32,
-      "popularity_score": 41741
+      "total_stars": 37210,
+      "total_forks": 4931,
+      "recent_issues_count": 2,
+      "activity_frequency": 2,
+      "popularity_score": 47072
     },
     "vercel": {
       "total_repos": 1,
-      "total_stars": 134344,
-      "total_forks": 29291,
+      "total_stars": 137116,
+      "total_forks": 30267,
       "recent_issues_count": 2,
       "activity_frequency": 2,
-      "popularity_score": 192926
+      "popularity_score": 197650
     },
-    "layer5labs": {
+    "nodejs": {
       "total_repos": 1,
-      "total_stars": 49,
-      "total_forks": 69,
+      "total_stars": 115171,
+      "total_forks": 34354,
+      "recent_issues_count": 4,
+      "activity_frequency": 4,
+      "popularity_score": 183879
+    },
+    "camunda": {
+      "total_repos": 1,
+      "total_stars": 1642,
+      "total_forks": 519,
+      "recent_issues_count": 3,
+      "activity_frequency": 3,
+      "popularity_score": 2680
+    },
+    "publicmap": {
+      "total_repos": 1,
+      "total_stars": 15,
+      "total_forks": 4,
+      "recent_issues_count": 2,
+      "activity_frequency": 2,
+      "popularity_score": 23
+    },
+    "ynoproject": {
+      "total_repos": 1,
+      "total_stars": 16,
+      "total_forks": 98,
       "recent_issues_count": 1,
       "activity_frequency": 1,
-      "popularity_score": 187
+      "popularity_score": 212
     },
-    "NMRLipids": {
+    "hitesh-kumar123": {
       "total_repos": 1,
-      "total_stars": 1,
-      "total_forks": 3,
+      "total_stars": 25,
+      "total_forks": 46,
+      "recent_issues_count": 5,
+      "activity_frequency": 5,
+      "popularity_score": 117
+    },
+    "UniversityOfHelsinkiCS": {
+      "total_repos": 1,
+      "total_stars": 15,
+      "total_forks": 10,
+      "recent_issues_count": 1,
+      "activity_frequency": 1,
+      "popularity_score": 35
+    },
+    "shreyashpatel5506": {
+      "total_repos": 1,
+      "total_stars": 3,
+      "total_forks": 2,
       "recent_issues_count": 2,
       "activity_frequency": 2,
       "popularity_score": 7
     },
-    "WordPress": {
-      "total_repos": 2,
-      "total_stars": 13179,
-      "total_forks": 4887,
-      "recent_issues_count": 10,
+    "pinojs": {
+      "total_repos": 1,
+      "total_stars": 17140,
+      "total_forks": 938,
+      "recent_issues_count": 1,
+      "activity_frequency": 1,
+      "popularity_score": 19016
+    },
+    "AprilSylph": {
+      "total_repos": 1,
+      "total_stars": 350,
+      "total_forks": 50,
+      "recent_issues_count": 5,
       "activity_frequency": 5,
-      "popularity_score": 22953
+      "popularity_score": 450
     },
-    "Hylozoic": {
+    "bpmn-io": {
       "total_repos": 1,
-      "total_stars": 13,
-      "total_forks": 3,
-      "recent_issues_count": 1,
-      "activity_frequency": 1,
-      "popularity_score": 19
-    },
-    "open-webui": {
-      "total_repos": 1,
-      "total_stars": 109581,
-      "total_forks": 14993,
-      "recent_issues_count": 1,
-      "activity_frequency": 1,
-      "popularity_score": 139567
-    },
-    "eccentriccoder01": {
-      "total_repos": 1,
-      "total_stars": 7,
-      "total_forks": 15,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 37
-    },
-    "PipedreamHQ": {
-      "total_repos": 1,
-      "total_stars": 10556,
-      "total_forks": 5490,
-      "recent_issues_count": 19,
-      "activity_frequency": 19,
-      "popularity_score": 21536
-    },
-    "eyaltoledano": {
-      "total_repos": 1,
-      "total_stars": 21871,
-      "total_forks": 2128,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 26127
-    },
-    "open-telemetry": {
-      "total_repos": 1,
-      "total_stars": 762,
-      "total_forks": 1516,
-      "recent_issues_count": 8,
-      "activity_frequency": 8,
-      "popularity_score": 3794
-    },
-    "sveltejs": {
-      "total_repos": 1,
-      "total_stars": 84066,
-      "total_forks": 4613,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 93292
-    },
-    "meshery": {
-      "total_repos": 1,
-      "total_stars": 7791,
-      "total_forks": 2567,
-      "recent_issues_count": 11,
-      "activity_frequency": 11,
-      "popularity_score": 12925
-    },
-    "falling-fruit": {
-      "total_repos": 1,
-      "total_stars": 61,
-      "total_forks": 37,
+      "total_stars": 9384,
+      "total_forks": 1432,
       "recent_issues_count": 4,
       "activity_frequency": 4,
-      "popularity_score": 135
+      "popularity_score": 12248
     },
-    "nextcloud": {
+    "simple-icons": {
       "total_repos": 1,
-      "total_stars": 1991,
-      "total_forks": 483,
-      "recent_issues_count": 6,
-      "activity_frequency": 6,
-      "popularity_score": 2957
-    },
-    "nodejs": {
-      "total_repos": 1,
-      "total_stars": 113179,
-      "total_forks": 33040,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 179259
-    },
-    "Pomax": {
-      "total_repos": 1,
-      "total_stars": 8,
-      "total_forks": 2,
-      "recent_issues_count": 8,
-      "activity_frequency": 8,
-      "popularity_score": 12
-    },
-    "dequelabs": {
-      "total_repos": 1,
-      "total_stars": 6592,
-      "total_forks": 839,
+      "total_stars": 24153,
+      "total_forks": 3019,
       "recent_issues_count": 1,
       "activity_frequency": 1,
-      "popularity_score": 8270
+      "popularity_score": 30191
     },
-    "google": {
+    "apify": {
       "total_repos": 1,
-      "total_stars": 1323,
-      "total_forks": 318,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 1959
-    },
-    "openedx": {
-      "total_repos": 1,
-      "total_stars": 22,
+      "total_stars": 966,
       "total_forks": 162,
       "recent_issues_count": 2,
       "activity_frequency": 2,
-      "popularity_score": 346
+      "popularity_score": 1290
     },
-    "XRPLF": {
+    "louislam": {
       "total_repos": 1,
-      "total_stars": 1460,
-      "total_forks": 1100,
-      "recent_issues_count": 1,
-      "activity_frequency": 1,
-      "popularity_score": 3660
-    },
-    "MonishRaman": {
-      "total_repos": 1,
-      "total_stars": 27,
-      "total_forks": 67,
-      "recent_issues_count": 7,
-      "activity_frequency": 7,
-      "popularity_score": 161
-    },
-    "arjavjain5203": {
-      "total_repos": 1,
-      "total_stars": 6,
-      "total_forks": 41,
-      "recent_issues_count": 6,
-      "activity_frequency": 6,
-      "popularity_score": 88
-    },
-    "agamjotsingh18": {
-      "total_repos": 1,
-      "total_stars": 11,
-      "total_forks": 68,
-      "recent_issues_count": 5,
-      "activity_frequency": 5,
-      "popularity_score": 147
-    },
-    "Roshansuthar1105": {
-      "total_repos": 1,
-      "total_stars": 34,
-      "total_forks": 76,
-      "recent_issues_count": 4,
-      "activity_frequency": 4,
-      "popularity_score": 186
-    },
-    "eduardconstantin": {
-      "total_repos": 1,
-      "total_stars": 107,
-      "total_forks": 12,
-      "recent_issues_count": 1,
-      "activity_frequency": 1,
-      "popularity_score": 131
-    },
-    "syscoin": {
-      "total_repos": 1,
-      "total_stars": 5,
-      "total_forks": 4,
+      "total_stars": 81281,
+      "total_forks": 7251,
       "recent_issues_count": 8,
       "activity_frequency": 8,
-      "popularity_score": 13
-    },
-    "YodasWs": {
-      "total_repos": 1,
-      "total_stars": 0,
-      "total_forks": 2,
-      "recent_issues_count": 9,
-      "activity_frequency": 9,
-      "popularity_score": 4
+      "popularity_score": 95783
     },
     "brave": {
       "total_repos": 1,
-      "total_stars": 20149,
-      "total_forks": 2731,
-      "recent_issues_count": 15,
-      "activity_frequency": 15,
-      "popularity_score": 25611
+      "total_stars": 21100,
+      "total_forks": 2931,
+      "recent_issues_count": 8,
+      "activity_frequency": 8,
+      "popularity_score": 26962
     },
-    "plushexe351": {
+    "openstreetmap": {
       "total_repos": 1,
-      "total_stars": 0,
-      "total_forks": 0,
-      "recent_issues_count": 2,
-      "activity_frequency": 2,
-      "popularity_score": 0
-    },
-    "cboard-org": {
-      "total_repos": 1,
-      "total_stars": 708,
-      "total_forks": 231,
+      "total_stars": 197,
+      "total_forks": 220,
       "recent_issues_count": 1,
       "activity_frequency": 1,
-      "popularity_score": 1170
+      "popularity_score": 637
+    },
+    "nextcloud": {
+      "total_repos": 1,
+      "total_stars": 2046,
+      "total_forks": 509,
+      "recent_issues_count": 7,
+      "activity_frequency": 7,
+      "popularity_score": 3064
+    },
+    "hackforla": {
+      "total_repos": 1,
+      "total_stars": 361,
+      "total_forks": 844,
+      "recent_issues_count": 4,
+      "activity_frequency": 4,
+      "popularity_score": 2049
+    },
+    "yiisoft": {
+      "total_repos": 1,
+      "total_stars": 243,
+      "total_forks": 86,
+      "recent_issues_count": 3,
+      "activity_frequency": 3,
+      "popularity_score": 415
     }
   },
   "repo_summaries": {
-    "brisbanesocialchess/brisbanesocialchess.github.io": {
-      "stars": 16,
-      "forks": 44,
-      "open_issues": 54,
-      "pushed_at": "2025-09-11T19:29:16Z",
-      "updated_at": "2025-09-11T19:28:51Z",
-      "language": "JavaScript",
-      "recent_issues_count": 13
-    },
-    "layer5io/layer5": {
-      "stars": 948,
-      "forks": 1376,
-      "open_issues": 135,
-      "pushed_at": "2025-09-11T19:22:23Z",
-      "updated_at": "2025-09-11T19:22:28Z",
-      "language": "JavaScript",
-      "recent_issues_count": 8
-    },
-    "MLH-Fellowship/orientation-project-js-25.FAL.A": {
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 12,
-      "pushed_at": "2025-09-11T19:16:08Z",
-      "updated_at": "2025-09-11T19:26:08Z",
-      "language": "JavaScript",
-      "recent_issues_count": 4
-    },
-    "HeyPuter/puter": {
-      "stars": 36129,
-      "forks": 2806,
-      "open_issues": 216,
-      "pushed_at": "2025-09-11T19:12:42Z",
-      "updated_at": "2025-09-11T19:12:50Z",
-      "language": "JavaScript",
-      "recent_issues_count": 32
-    },
-    "vercel/next.js": {
-      "stars": 134344,
-      "forks": 29291,
-      "open_issues": 3330,
-      "pushed_at": "2025-09-11T19:04:43Z",
-      "updated_at": "2025-09-11T19:24:36Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "layer5labs/meshery-extensions-packages": {
-      "stars": 49,
-      "forks": 69,
-      "open_issues": 23,
-      "pushed_at": "2025-09-11T18:54:40Z",
-      "updated_at": "2025-09-11T18:54:44Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "NMRLipids/BilayerGUI_laravel": {
-      "stars": 1,
-      "forks": 3,
-      "open_issues": 12,
-      "pushed_at": "2025-09-11T19:17:16Z",
-      "updated_at": "2025-09-11T18:54:43Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "WordPress/wordpress-playground": {
-      "stars": 1792,
-      "forks": 335,
-      "open_issues": 455,
-      "pushed_at": "2025-09-11T18:44:53Z",
-      "updated_at": "2025-09-11T18:44:34Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "Hylozoic/hylo": {
-      "stars": 13,
-      "forks": 3,
-      "open_issues": 331,
-      "pushed_at": "2025-09-11T18:39:14Z",
-      "updated_at": "2025-09-11T18:38:06Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "open-webui/open-webui": {
-      "stars": 109581,
-      "forks": 14993,
-      "open_issues": 279,
-      "pushed_at": "2025-09-11T18:29:03Z",
-      "updated_at": "2025-09-11T19:23:48Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "eccentriccoder01/Venturalink": {
-      "stars": 7,
-      "forks": 15,
-      "open_issues": 16,
-      "pushed_at": "2025-09-11T18:26:36Z",
-      "updated_at": "2025-09-11T18:26:40Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "PipedreamHQ/pipedream": {
-      "stars": 10556,
-      "forks": 5490,
-      "open_issues": 4237,
-      "pushed_at": "2025-09-11T19:22:05Z",
-      "updated_at": "2025-09-11T18:35:12Z",
-      "language": "JavaScript",
-      "recent_issues_count": 19
-    },
-    "eyaltoledano/claude-task-master": {
-      "stars": 21871,
-      "forks": 2128,
-      "open_issues": 156,
-      "pushed_at": "2025-09-11T18:11:47Z",
-      "updated_at": "2025-09-11T19:26:56Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "open-telemetry/opentelemetry.io": {
-      "stars": 762,
-      "forks": 1516,
-      "open_issues": 450,
-      "pushed_at": "2025-09-11T19:26:56Z",
-      "updated_at": "2025-09-11T17:52:29Z",
-      "language": "JavaScript",
-      "recent_issues_count": 8
-    },
-    "sveltejs/svelte": {
-      "stars": 84066,
-      "forks": 4613,
-      "open_issues": 875,
-      "pushed_at": "2025-09-11T17:38:13Z",
-      "updated_at": "2025-09-11T18:37:16Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "meshery/meshery": {
-      "stars": 7791,
-      "forks": 2567,
-      "open_issues": 785,
-      "pushed_at": "2025-09-11T17:37:42Z",
-      "updated_at": "2025-09-11T19:02:21Z",
-      "language": "JavaScript",
-      "recent_issues_count": 11
-    },
-    "falling-fruit/falling-fruit-web": {
-      "stars": 61,
-      "forks": 37,
-      "open_issues": 80,
-      "pushed_at": "2025-09-11T17:25:37Z",
-      "updated_at": "2025-09-11T17:25:42Z",
-      "language": "JavaScript",
-      "recent_issues_count": 4
-    },
-    "nextcloud/spreed": {
-      "stars": 1991,
-      "forks": 483,
-      "open_issues": 746,
-      "pushed_at": "2025-09-11T17:25:30Z",
-      "updated_at": "2025-09-11T17:22:14Z",
-      "language": "JavaScript",
-      "recent_issues_count": 6
-    },
-    "nodejs/node": {
-      "stars": 113179,
-      "forks": 33040,
-      "open_issues": 2362,
-      "pushed_at": "2025-09-11T17:21:57Z",
-      "updated_at": "2025-09-11T19:26:08Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "Pomax/make-webbly-things": {
-      "stars": 8,
-      "forks": 2,
-      "open_issues": 42,
-      "pushed_at": "2025-09-11T18:18:40Z",
-      "updated_at": "2025-09-11T17:13:42Z",
-      "language": "JavaScript",
-      "recent_issues_count": 8
-    },
-    "dequelabs/axe-core": {
-      "stars": 6592,
-      "forks": 839,
-      "open_issues": 415,
-      "pushed_at": "2025-09-11T17:04:42Z",
-      "updated_at": "2025-09-11T17:04:44Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "google/site-kit-wp": {
-      "stars": 1323,
-      "forks": 318,
-      "open_issues": 574,
-      "pushed_at": "2025-09-11T17:57:24Z",
-      "updated_at": "2025-09-11T17:03:00Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "openedx/frontend-app-account": {
-      "stars": 22,
-      "forks": 162,
-      "open_issues": 36,
-      "pushed_at": "2025-09-11T17:00:54Z",
-      "updated_at": "2025-09-11T17:00:57Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "XRPLF/xrpl-dev-portal": {
-      "stars": 1460,
-      "forks": 1100,
-      "open_issues": 262,
-      "pushed_at": "2025-09-11T16:55:07Z",
-      "updated_at": "2025-09-11T16:55:09Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "layer5io/docs": {
-      "stars": 74,
-      "forks": 133,
-      "open_issues": 72,
-      "pushed_at": "2025-09-11T16:36:02Z",
-      "updated_at": "2025-09-11T16:36:06Z",
-      "language": "JavaScript",
-      "recent_issues_count": 5
-    },
-    "MonishRaman/Placify-Smarter_Placements-Sharper_Talent": {
-      "stars": 27,
-      "forks": 67,
-      "open_issues": 38,
-      "pushed_at": "2025-09-11T16:31:03Z",
-      "updated_at": "2025-09-11T16:31:07Z",
-      "language": "JavaScript",
-      "recent_issues_count": 7
-    },
-    "arjavjain5203/Pustak_Ghar": {
-      "stars": 6,
-      "forks": 41,
-      "open_issues": 35,
-      "pushed_at": "2025-09-11T16:30:22Z",
-      "updated_at": "2025-09-11T16:30:26Z",
-      "language": "JavaScript",
-      "recent_issues_count": 6
-    },
-    "agamjotsingh18/trendhora": {
-      "stars": 11,
-      "forks": 68,
-      "open_issues": 87,
-      "pushed_at": "2025-09-11T16:27:43Z",
-      "updated_at": "2025-09-11T16:27:48Z",
-      "language": "JavaScript",
-      "recent_issues_count": 5
-    },
-    "Roshansuthar1105/Codify": {
-      "stars": 34,
+    "sheltermanager/asm3": {
+      "stars": 127,
       "forks": 76,
-      "open_issues": 62,
-      "pushed_at": "2025-09-11T16:22:54Z",
-      "updated_at": "2025-09-11T16:22:58Z",
+      "open_issues": 100,
+      "pushed_at": "2026-01-13T14:48:38Z",
+      "updated_at": "2026-01-13T14:48:42Z",
       "language": "JavaScript",
-      "recent_issues_count": 4
+      "recent_issues_count": 3
     },
-    "eduardconstantin/storybook-genie": {
-      "stars": 107,
-      "forks": 12,
-      "open_issues": 2,
-      "pushed_at": "2025-09-11T16:15:48Z",
-      "updated_at": "2025-09-11T16:15:52Z",
-      "language": "JavaScript",
-      "recent_issues_count": 1
-    },
-    "syscoin/syshub": {
-      "stars": 5,
-      "forks": 4,
-      "open_issues": 48,
-      "pushed_at": "2025-09-11T16:14:35Z",
-      "updated_at": "2025-09-11T16:14:20Z",
-      "language": "JavaScript",
-      "recent_issues_count": 8
-    },
-    "YodasWs/Empires-4x": {
-      "stars": 0,
-      "forks": 2,
-      "open_issues": 13,
-      "pushed_at": "2025-09-11T16:10:16Z",
-      "updated_at": "2025-09-11T16:10:20Z",
-      "language": "JavaScript",
-      "recent_issues_count": 9
-    },
-    "brave/brave-browser": {
-      "stars": 20149,
-      "forks": 2731,
-      "open_issues": 9433,
-      "pushed_at": "2025-09-11T16:05:25Z",
-      "updated_at": "2025-09-11T17:50:46Z",
-      "language": "JavaScript",
-      "recent_issues_count": 15
-    },
-    "plushexe351/codepain": {
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 7,
-      "pushed_at": "2025-09-11T16:02:04Z",
-      "updated_at": "2025-09-11T18:03:17Z",
-      "language": "JavaScript",
-      "recent_issues_count": 2
-    },
-    "cboard-org/cboard": {
-      "stars": 708,
-      "forks": 231,
-      "open_issues": 183,
-      "pushed_at": "2025-09-11T16:01:29Z",
-      "updated_at": "2025-09-11T16:01:29Z",
+    "ing-bank/lion": {
+      "stars": 1923,
+      "forks": 341,
+      "open_issues": 156,
+      "pushed_at": "2026-01-13T14:46:44Z",
+      "updated_at": "2026-01-13T14:45:37Z",
       "language": "JavaScript",
       "recent_issues_count": 1
     },
     "WordPress/gutenberg": {
-      "stars": 11387,
-      "forks": 4552,
-      "open_issues": 7601,
-      "pushed_at": "2025-09-11T16:28:56Z",
-      "updated_at": "2025-09-11T15:56:13Z",
+      "stars": 11517,
+      "forks": 4675,
+      "open_issues": 7447,
+      "pushed_at": "2026-01-13T14:44:12Z",
+      "updated_at": "2026-01-13T14:45:42Z",
       "language": "JavaScript",
       "recent_issues_count": 9
+    },
+    "usebruno/bruno": {
+      "stars": 39902,
+      "forks": 2053,
+      "open_issues": 1647,
+      "pushed_at": "2026-01-13T14:33:15Z",
+      "updated_at": "2026-01-13T14:33:20Z",
+      "language": "JavaScript",
+      "recent_issues_count": 6
+    },
+    "layer5io/layer5": {
+      "stars": 991,
+      "forks": 1443,
+      "open_issues": 114,
+      "pushed_at": "2026-01-13T14:38:07Z",
+      "updated_at": "2026-01-13T14:34:48Z",
+      "language": "JavaScript",
+      "recent_issues_count": 4
+    },
+    "ToolJet/ToolJet": {
+      "stars": 37210,
+      "forks": 4931,
+      "open_issues": 939,
+      "pushed_at": "2026-01-13T14:44:46Z",
+      "updated_at": "2026-01-13T14:37:28Z",
+      "language": "JavaScript",
+      "recent_issues_count": 2
+    },
+    "vercel/next.js": {
+      "stars": 137116,
+      "forks": 30267,
+      "open_issues": 3210,
+      "pushed_at": "2026-01-13T14:31:35Z",
+      "updated_at": "2026-01-13T14:11:10Z",
+      "language": "JavaScript",
+      "recent_issues_count": 2
+    },
+    "nodejs/node": {
+      "stars": 115171,
+      "forks": 34354,
+      "open_issues": 2442,
+      "pushed_at": "2026-01-13T13:48:18Z",
+      "updated_at": "2026-01-13T14:07:56Z",
+      "language": "JavaScript",
+      "recent_issues_count": 4
+    },
+    "camunda/camunda-modeler": {
+      "stars": 1642,
+      "forks": 519,
+      "open_issues": 608,
+      "pushed_at": "2026-01-13T13:45:39Z",
+      "updated_at": "2026-01-13T13:44:19Z",
+      "language": "JavaScript",
+      "recent_issues_count": 3
+    },
+    "publicmap/amche-atlas": {
+      "stars": 15,
+      "forks": 4,
+      "open_issues": 74,
+      "pushed_at": "2026-01-13T13:33:04Z",
+      "updated_at": "2026-01-13T13:33:08Z",
+      "language": "JavaScript",
+      "recent_issues_count": 2
+    },
+    "ynoproject/forest-orb": {
+      "stars": 16,
+      "forks": 98,
+      "open_issues": 37,
+      "pushed_at": "2026-01-13T13:28:03Z",
+      "updated_at": "2026-01-13T13:28:08Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "hitesh-kumar123/Smart-Rent-System": {
+      "stars": 25,
+      "forks": 46,
+      "open_issues": 16,
+      "pushed_at": "2026-01-13T13:19:37Z",
+      "updated_at": "2026-01-13T13:21:19Z",
+      "language": "JavaScript",
+      "recent_issues_count": 5
+    },
+    "UniversityOfHelsinkiCS/palaute": {
+      "stars": 15,
+      "forks": 10,
+      "open_issues": 82,
+      "pushed_at": "2026-01-13T13:15:37Z",
+      "updated_at": "2026-01-13T13:12:58Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "shreyashpatel5506/virtual-assistant-core": {
+      "stars": 3,
+      "forks": 2,
+      "open_issues": 3,
+      "pushed_at": "2026-01-13T12:53:56Z",
+      "updated_at": "2026-01-13T12:53:59Z",
+      "language": "JavaScript",
+      "recent_issues_count": 2
+    },
+    "pinojs/pino": {
+      "stars": 17140,
+      "forks": 938,
+      "open_issues": 144,
+      "pushed_at": "2026-01-13T12:50:45Z",
+      "updated_at": "2026-01-13T13:46:32Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "AprilSylph/XKit-Rewritten": {
+      "stars": 350,
+      "forks": 50,
+      "open_issues": 132,
+      "pushed_at": "2026-01-13T12:38:06Z",
+      "updated_at": "2026-01-13T12:38:10Z",
+      "language": "JavaScript",
+      "recent_issues_count": 5
+    },
+    "bpmn-io/bpmn-js": {
+      "stars": 9384,
+      "forks": 1432,
+      "open_issues": 145,
+      "pushed_at": "2026-01-13T12:38:24Z",
+      "updated_at": "2026-01-13T12:36:28Z",
+      "language": "JavaScript",
+      "recent_issues_count": 4
+    },
+    "simple-icons/simple-icons": {
+      "stars": 24153,
+      "forks": 3019,
+      "open_issues": 703,
+      "pushed_at": "2026-01-13T12:31:31Z",
+      "updated_at": "2026-01-13T13:14:23Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "apify/proxy-chain": {
+      "stars": 966,
+      "forks": 162,
+      "open_issues": 37,
+      "pushed_at": "2026-01-13T13:37:54Z",
+      "updated_at": "2026-01-13T12:29:20Z",
+      "language": "JavaScript",
+      "recent_issues_count": 2
+    },
+    "louislam/uptime-kuma": {
+      "stars": 81281,
+      "forks": 7251,
+      "open_issues": 714,
+      "pushed_at": "2026-01-13T12:20:00Z",
+      "updated_at": "2026-01-13T14:44:03Z",
+      "language": "JavaScript",
+      "recent_issues_count": 8
+    },
+    "brave/brave-browser": {
+      "stars": 21100,
+      "forks": 2931,
+      "open_issues": 10219,
+      "pushed_at": "2026-01-13T12:13:36Z",
+      "updated_at": "2026-01-13T14:29:33Z",
+      "language": "JavaScript",
+      "recent_issues_count": 8
+    },
+    "WordPress/wordpress-playground": {
+      "stars": 1855,
+      "forks": 387,
+      "open_issues": 476,
+      "pushed_at": "2026-01-13T11:57:36Z",
+      "updated_at": "2026-01-13T11:45:32Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "openstreetmap/id-tagging-schema": {
+      "stars": 197,
+      "forks": 220,
+      "open_issues": 361,
+      "pushed_at": "2026-01-13T11:33:00Z",
+      "updated_at": "2026-01-13T11:32:14Z",
+      "language": "JavaScript",
+      "recent_issues_count": 1
+    },
+    "nextcloud/spreed": {
+      "stars": 2046,
+      "forks": 509,
+      "open_issues": 802,
+      "pushed_at": "2026-01-13T14:29:56Z",
+      "updated_at": "2026-01-13T11:25:47Z",
+      "language": "JavaScript",
+      "recent_issues_count": 7
+    },
+    "hackforla/website": {
+      "stars": 361,
+      "forks": 844,
+      "open_issues": 476,
+      "pushed_at": "2026-01-13T11:08:15Z",
+      "updated_at": "2026-01-13T11:08:20Z",
+      "language": "JavaScript",
+      "recent_issues_count": 4
+    },
+    "yiisoft/docs": {
+      "stars": 243,
+      "forks": 86,
+      "open_issues": 46,
+      "pushed_at": "2026-01-13T11:07:21Z",
+      "updated_at": "2026-01-13T11:07:24Z",
+      "language": "JavaScript",
+      "recent_issues_count": 3
     }
   }
 }
