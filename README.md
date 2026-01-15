@@ -19,9 +19,21 @@ This list gets updated every day at midnight.
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 - [Anchor tag not scrolling to community forum section](https://github.com/meshery/meshery.io/issues/2444)
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+- [Paragraph: Add CSS columns](https://github.com/WordPress/gutenberg/issues/27118)
+- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+- [Add support for aspect ratio on wide and full images](https://github.com/WordPress/gutenberg/issues/53652)
+- [Navigation Submenu's block is not marked as Invalid when page is deleted](https://github.com/WordPress/gutenberg/issues/44760)
+- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
+- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
+- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/646)
 
 ## [meshery/meshery](https://github.com/meshery/meshery)
 
@@ -39,261 +51,220 @@ This list gets updated every day at midnight.
 - [[Models][UX]: Design Icon for ArgoCD Component - ArgoCD Export](https://github.com/meshery/meshery/issues/10294)
 - [[Docs] Include Meshery, Playground, and Extensions in Awesome Lists](https://github.com/meshery/meshery/issues/13426)
 
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [The text and layout need to be adjusted for better readability and usability across different screen sizes.](https://github.com/layer5io/layer5/issues/5640)
+- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
+- [Remove `install `  tag from  prepare scripts](https://github.com/layer5io/layer5/issues/7325)
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+
+## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+
+- [[Feature]: Add loading states for async operations](https://github.com/lokus-ai/lokus/issues/293)
+- [[Mobile]: Make a design for iOS and Android version of the app](https://github.com/lokus-ai/lokus/issues/359)
+- [[Feature]: Add tooltips to icon-only buttons](https://github.com/lokus-ai/lokus/issues/290)
+- [[Mobile]: Wrap global shortcut registration in isDesktop() check](https://github.com/lokus-ai/lokus/issues/317)
+- [[Mobile]: Hide terminal panel option/button on mobile](https://github.com/lokus-ai/lokus/issues/318)
+- [[Bug]: Icon-only buttons missing accessibility labels](https://github.com/lokus-ai/lokus/issues/287)
+- [[Mobile]: Add hasCapability() utility for checking platform features](https://github.com/lokus-ai/lokus/issues/322)
+- [[Mobile]: Add haptic feedback utility for touch interactions](https://github.com/lokus-ai/lokus/issues/333)
+- [[Mobile]: Disable MCP/Plugin server features on mobile](https://github.com/lokus-ai/lokus/issues/338)
+- [[Mobile]: Gracefully handle file dialog unavailability on mobile](https://github.com/lokus-ai/lokus/issues/336)
+- [[Mobile]: Create useLongPress hook for context menu alternative](https://github.com/lokus-ai/lokus/issues/325)
+- [[Mobile]: Add touch event handlers to SplitEditor pane resizer](https://github.com/lokus-ai/lokus/issues/324)
+- [[Mobile]: Make plugin panel width responsive (currently fixed 280px)](https://github.com/lokus-ai/lokus/issues/320)
+- [[Mobile]: Hide keyboard shortcut hints (⌘S, Ctrl+Z) on mobile](https://github.com/lokus-ai/lokus/issues/319)
+- [[Mobile]: Replace hover states with active states for touch feedback](https://github.com/lokus-ai/lokus/issues/316)
+- [[Mobile]: Increase touch target size for StatusBar items (44px minimum)](https://github.com/lokus-ai/lokus/issues/314)
+- [[Mobile]: Make tab close button always visible on touch devices](https://github.com/lokus-ai/lokus/issues/313)
+- [[Mobile]: Add safe-area-inset-bottom to StatusBar for iOS home indicator](https://github.com/lokus-ai/lokus/issues/312)
+- [[Feature]: Improve error messages for failed operations](https://github.com/lokus-ai/lokus/issues/298)
+- [[Bug]: Replace native alert() calls with toast notifications](https://github.com/lokus-ai/lokus/issues/288)
+- [[Feature]: Add sorting options for files and folders in Explorer](https://github.com/lokus-ai/lokus/issues/299)
+- [[Bug]: Replace window.confirm() with custom confirmation dialog](https://github.com/lokus-ai/lokus/issues/297)
+- [[Feature]: Implement star/favorite toggle for emails](https://github.com/lokus-ai/lokus/issues/291)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [Add documentation and tests for `NavBar` component](https://github.com/Ryan-Millard/Img2Num/issues/166)
+- [Feat: Add auto-hide timeout for `Tooltip` on mobile devices](https://github.com/Ryan-Millard/Img2Num/issues/168)
+- [feat(react: Editor Page UX): Add Mobile Support for Editor Viewport (Touch Events)](https://github.com/Ryan-Millard/Img2Num/issues/202)
+- [refactor: Streamline Documentation for Easier Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/214)
+- [Create native example apps for C and C++](https://github.com/Ryan-Millard/Img2Num/issues/206)
+- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
+- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
+- [Implement GlassPanel](https://github.com/Ryan-Millard/Img2Num/issues/113)
+- [Update GlassCard](https://github.com/Ryan-Millard/Img2Num/issues/112)
+- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
+- [feat(ci workflow): reuse build tests from `deploy.yml` inside `ci.y,ml`](https://github.com/Ryan-Millard/Img2Num/issues/193)
+- [refactor(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
+- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
+- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
+- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
+- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
+- [fix(ci.yml): false positive triggers script validation failure on force push](https://github.com/Ryan-Millard/Img2Num/issues/153)
+- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
+- [Make GitHub Pages workflow trigger only on relevant changes and break it into clear stages](https://github.com/Ryan-Millard/Img2Num/issues/84)
+- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
+- [Bug Fix: memory leak and silent failure in loadImageToUint8Array](https://github.com/Ryan-Millard/Img2Num/issues/96)
+- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [Add basic keyboard shortcuts for Editor page actions](https://github.com/Ryan-Millard/Img2Num/issues/105)
+
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
+
+- [Add model config example to contracts page](https://github.com/dbt-labs/docs.getdbt.com/issues/7021)
+- [Clarify how Google BigQuery OAuth consent should be configured](https://github.com/dbt-labs/docs.getdbt.com/issues/4581)
+- [Verify whether old video has important information to include](https://github.com/dbt-labs/docs.getdbt.com/issues/6918)
+- [Make Microsoft Teams Notifications Setup Clearer](https://github.com/dbt-labs/docs.getdbt.com/issues/7300)
+
+## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+
+- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [Dyndns based Steam game server monitoring](https://github.com/louislam/uptime-kuma/issues/5934)
+- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
 
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
 - [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
 - [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
 
-## [ayushraistudio/github-contribution-showcase](https://github.com/ayushraistudio/github-contribution-showcase)
+## [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
 
-- [Small README improvements (grammar, clarity, formatting)](https://github.com/ayushraistudio/github-contribution-showcase/issues/8)
-- [Add compact / minimal widget mode for small GitHub READMEs](https://github.com/ayushraistudio/github-contribution-showcase/issues/5)
+- [Enhancing Chat UI Inspired by MiroTalk SFU](https://github.com/miroslavpejic85/mirotalk/issues/240)
 
-## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
 
-- [Markdown content overflows article layout](https://github.com/openpracticelibrary/openpracticelibrary/issues/2496)
-- [Practices are not displayed correctly on phones for a easy reading](https://github.com/openpracticelibrary/openpracticelibrary/issues/2493)
+- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
 
-## [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 
-- [Pagerduty Integration broken and alerting improvement.](https://github.com/bluewave-labs/Checkmate/issues/2899)
+- [Bug: Hindi translation does not apply on the homepage (works for Bangla and others)](https://github.com/processing/p5.js-web-editor/issues/3747)
+- [Notation for the need of login to upload (image) files](https://github.com/processing/p5.js-web-editor/issues/3079)
+- [Some text on the p5.js Editor “About” page is not translated](https://github.com/processing/p5.js-web-editor/issues/3485)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
-- [[ACTION] Jira Data Center -  Expand functionality to manage sprints, epics, boards, and worklogs.](https://github.com/PipedreamHQ/pipedream/issues/19670)
-- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
-- [Clicksend send voice call](https://github.com/PipedreamHQ/pipedream/issues/19560)
-- [[ACTION] Add Palatine Speech API Integration](https://github.com/PipedreamHQ/pipedream/issues/19611)
-- [[ACTION] Microsoft Teams - Search and Retrieve Messages](https://github.com/PipedreamHQ/pipedream/issues/19669)
-- [[ACTION] Add get_date-time() in Google Calendar](https://github.com/PipedreamHQ/pipedream/issues/19687)
-- [[ACTION] Connectwise more actions](https://github.com/PipedreamHQ/pipedream/issues/19650)
-- [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
-- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
-- [[ACTION] Booking Experts - Expanding guest flows](https://github.com/PipedreamHQ/pipedream/issues/19680)
-- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
-- [[ACTION] Google Calendar - Update/Delete Recurring Events](https://github.com/PipedreamHQ/pipedream/issues/19658)
-- [Job sites](https://github.com/PipedreamHQ/pipedream/issues/19637)
-- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
+- [bug: Documentation - wrong paper linked for RPG method](https://github.com/eyaltoledano/claude-task-master/issues/1570)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [aws-samples/amazon-dynamodb-labs](https://github.com/aws-samples/amazon-dynamodb-labs)
 
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
-- [MockAgent delayed response with AbortSignal](https://github.com/nodejs/undici/issues/4693)
+- [LGAM: Picture Updates](https://github.com/aws-samples/amazon-dynamodb-labs/issues/153)
 
-## [OSC/ondemand](https://github.com/OSC/ondemand)
+## [jlab-sensing/ENTS-backend](https://github.com/jlab-sensing/ENTS-backend)
 
-- [Internationalize "Home Directory" across dashboard](https://github.com/OSC/ondemand/issues/4538)
-- [Provide access to the session (at least session.id) for running jobs view.html.erb ](https://github.com/OSC/ondemand/issues/3565)
-- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
-- [New title for files app ](https://github.com/OSC/ondemand/issues/2078)
+- [Create endpoint that supports generic sensor data in json](https://github.com/jlab-sensing/ENTS-backend/issues/332)
 
-## [processing/p5.js](https://github.com/processing/p5.js)
+## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
 
-- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
-- [[2.0] Document workarounds for inter-addon dependencies](https://github.com/processing/p5.js/issues/7798)
-- [Proposal: API audit](https://github.com/processing/p5.js/issues/7460)
-- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
-- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
-- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
-- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
-- [noSmooth() breaks positioned WEBGL canvas](https://github.com/processing/p5.js/issues/7548)
-- [[2.0] Add array, vector overloads to `createVector()` for consistency](https://github.com/processing/p5.js/issues/8157)
+- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
+- [LoadingDots: Investigate using icons as loaders](https://github.com/torrinworx/destamatic-ui/issues/51)
+- [Remove other icon libraries, only officially support iconify driver](https://github.com/torrinworx/destamatic-ui/issues/48)
+- [Investigate or fix slight initial performance lag with icon transitions](https://github.com/torrinworx/destamatic-ui/issues/50)
+- [Stage.jsx .route() feature](https://github.com/torrinworx/destamatic-ui/issues/37)
 
 ## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
 
 - [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
 - [[Issue]: Add Loading Spinner on Asynchronous Actions](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/16)
 
-## [internetarchive/bookreader](https://github.com/internetarchive/bookreader)
+## [awslabs/ml-container-creator](https://github.com/awslabs/ml-container-creator)
 
-- [Move `pageChanged` event name into events.js](https://github.com/internetarchive/bookreader/issues/460)
+- [Improved useability features](https://github.com/awslabs/ml-container-creator/issues/11)
+- [Wiki](https://github.com/awslabs/ml-container-creator/issues/14)
+
+## [Pritom2357/Paw-Protector](https://github.com/Pritom2357/Paw-Protector)
+
+- [Add accessibility features](https://github.com/Pritom2357/Paw-Protector/issues/68)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Descript - Create Import URL](https://github.com/PipedreamHQ/pipedream/issues/19695)
+- [[ACTION] Jira Data Center -  Expand functionality to manage sprints, epics, boards, and worklogs.](https://github.com/PipedreamHQ/pipedream/issues/19670)
+- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+- [Clicksend send voice call](https://github.com/PipedreamHQ/pipedream/issues/19560)
+- [[ACTION] Add Palatine Speech API Integration](https://github.com/PipedreamHQ/pipedream/issues/19611)
+- [[ACTION] Microsoft Teams - Search and Retrieve Messages](https://github.com/PipedreamHQ/pipedream/issues/19669)
+- [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
+- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
+- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
+- [Job sites](https://github.com/PipedreamHQ/pipedream/issues/19637)
+- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
+
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
+
+- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
+- [[Bug]: On Github Action, contributors page doesn't update because of max requests reached](https://github.com/physicshub/physicshub.github.io/issues/151)
+- [[Bug]: Version label on the footer shows only 0.0.0](https://github.com/physicshub/physicshub.github.io/issues/150)
+
+## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
+
+- [Feature Request: Line Charts](https://github.com/genome-spy/genome-spy/issues/50)
+- [Arrow mark](https://github.com/genome-spy/genome-spy/issues/139)
+- [Allow viewport clipping to be defined separately for `x` and `y` directions](https://github.com/genome-spy/genome-spy/issues/237)
+
+## [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary)
+
+- [Markdown content overflows article layout](https://github.com/openpracticelibrary/openpracticelibrary/issues/2496)
+- [Practices are not displayed correctly on phones for a easy reading](https://github.com/openpracticelibrary/openpracticelibrary/issues/2493)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Update the `TourTooltip` component to reflect the new design.](https://github.com/google/site-kit-wp/issues/11812)
+- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
+- [Show the Welcome modal on the dashboard.](https://github.com/google/site-kit-wp/issues/11809)
+- [Opening the user menu should close the tooltip pointing to it.](https://github.com/google/site-kit-wp/issues/11956)
+- [Add `rrmPolicyViolations` feature flag](https://github.com/google/site-kit-wp/issues/11999)
+- [Make info tooltips tabbable so they can be focused and shown via keyboard navigation](https://github.com/google/site-kit-wp/issues/11681)
+- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
+
+## [fastify/website](https://github.com/fastify/website)
+
+- [bug: social images](https://github.com/fastify/website/issues/377)
 
 ## [pinojs/pino](https://github.com/pinojs/pino)
 
 - [Print warning on changing log level when using multistream](https://github.com/pinojs/pino/issues/2030)
 
-## [publicmap/amche-atlas](https://github.com/publicmap/amche-atlas)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Fresh proposals for amche.in logo](https://github.com/publicmap/amche-atlas/issues/189)
-- [Amche Atlas Training Course](https://github.com/publicmap/amche-atlas/issues/196)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [Logo pops as bigger icon when we redirect back to home page](https://github.com/layer5io/docs/issues/222)
-- [Convert Images into Meshery Design.](https://github.com/layer5io/docs/issues/646)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [bug: Documentation - wrong paper linked for RPG method](https://github.com/eyaltoledano/claude-task-master/issues/1570)
-
-## [ucsb-cs156/proj-happycows](https://github.com/ucsb-cs156/proj-happycows)
-
-- [Restore title HappyCows (not Vite + React) and if possible, favicon](https://github.com/ucsb-cs156/proj-happycows/issues/186)
-- [Add launcher for `/api/jobs/launch/recordcommonstats` to Admin Jobs page](https://github.com/ucsb-cs156/proj-happycows/issues/150)
-
-## [codeaashu/DevDisplay](https://github.com/codeaashu/DevDisplay)
-
-- [AI Tools Hub 💌 Enhance this features ⚡](https://github.com/codeaashu/DevDisplay/issues/1167)
-- [Project Idea Submission & Voting System 💌](https://github.com/codeaashu/DevDisplay/issues/1168)
-
-## [Arpit-597/REACT-DOGSTUDIO-CLONE](https://github.com/Arpit-597/REACT-DOGSTUDIO-CLONE)
-
-- [No footer yet](https://github.com/Arpit-597/REACT-DOGSTUDIO-CLONE/issues/1)
-- [Animations missing](https://github.com/Arpit-597/REACT-DOGSTUDIO-CLONE/issues/2)
-
-## [fastify/fastify](https://github.com/fastify/fastify)
-
-- [Validation of optional, nullable number where property value is `0` will default to `null`](https://github.com/fastify/fastify/issues/6411)
-- [Check invalid links](https://github.com/fastify/fastify/issues/6385)
-
-## [romangarms/OP-1Z-Sample-Manager](https://github.com/romangarms/OP-1Z-Sample-Manager)
-
-- [Connecting then disconnecting a device shows "mount path does not exist" error](https://github.com/romangarms/OP-1Z-Sample-Manager/issues/105)
-- [Remove Magic Numbers and Strings](https://github.com/romangarms/OP-1Z-Sample-Manager/issues/88)
-- [Create a devices.py or similar to easially manage device names and constants.](https://github.com/romangarms/OP-1Z-Sample-Manager/issues/87)
-
-## [shreyashpatel5506/githubanalyzer](https://github.com/shreyashpatel5506/githubanalyzer)
-
-- [[Issue]: Some Element Visible](https://github.com/shreyashpatel5506/githubanalyzer/issues/41)
-- [[Issue]: Add SEO, Open Graph](https://github.com/shreyashpatel5506/githubanalyzer/issues/36)
-- [[Issue]: Add error boundary for dynamic pages](https://github.com/shreyashpatel5506/githubanalyzer/issues/7)
-- [[Feature]: support image in share link](https://github.com/shreyashpatel5506/githubanalyzer/issues/32)
-- [[Feature]:Add Additional Technical Platform Sharing Options](https://github.com/shreyashpatel5506/githubanalyzer/issues/31)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [Add support for aspect ratio on wide and full images](https://github.com/WordPress/gutenberg/issues/53652)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-- [Navigation Submenu's block is not marked as Invalid when page is deleted](https://github.com/WordPress/gutenberg/issues/44760)
-- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
-- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
-- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
-- [Paragraph: Add CSS columns](https://github.com/WordPress/gutenberg/issues/27118)
-
-## [BUDEGlobalEnterprise/bude-global-neuro-chain-react](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react)
-
-- [Docs: Translate README to Chinese](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/127)
-- [Docs: Translate README to Spanish](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/124)
-- [Test: Write test: Footer contains correct year](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/140)
-- [Test: Write test: Export button shows menu](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/139)
-- [Test: Write test: Reset button resets camera](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/138)
-- [Test: Write test: Audio toggle changes state](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/137)
-- [Test: Write test: Zoom buttons work](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/136)
-- [Test: Write test: Tooltip appears on hover](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/135)
-- [Test: Write test: DataEditor loads correct JSON](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/134)
-- [Test: Write test: Legend items are clickable](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/133)
-- [Test: Write test: Search bar accepts input](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/132)
-- [Test: Write test: Component renders without crashing](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/131)
-- [Docs: Add a Code of Conduct](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/130)
-- [Docs: Create a CHANGELOG.md](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/129)
-- [Docs: Add License Badge to README](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/128)
-- [Docs: Translate README to German](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/126)
-- [Docs: Translate README to French](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/125)
-- [Docs: Add 'Project Structure' diagram](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/123)
-- [Docs: Add 'How to Contribute' section](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/122)
-- [Docs: Fix typos in README](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/121)
-- [UI: Add subtle noise texture to background](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/120)
-- [UI: Dim background when searching](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/117)
-- [UI: Make 'Reset View' button pulse on idle](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/116)
-- [UI: Add 'Copied' tooltip to share button](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/115)
-- [UI: Increase line height in descriptions](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/114)
-- [UI: Add border radius to legend items](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/113)
-- [UI: Change selection color to gold](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/112)
-- [UI: Make scrollbar thinner](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/111)
-- [UI: Add buffer padding to bottom of page](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/110)
-- [UI: Add fade-in animation to nodes](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/108)
-- [UI: Reduce sidebar width on mobile](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/107)
-- [UI: Change link color to light blue](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/106)
-- [UI: Make control buttons circular](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/104)
-- [UI: Add hover glow to title](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/103)
-- [UI: Darken background color by 5%](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/102)
-- [UI: Increase tooltip font size](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/101)
-- [Data: Add node for 'Mars Rover'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/100)
-- [Data: Add node for 'Space Station'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/99)
-- [Data: Add node for 'Satellite'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/98)
-- [Data: Add node for 'Space Travel'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/97)
-- [Data: Add node for 'Nanotechnology'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/96)
-- [Data: Add node for '3D Printing'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/95)
-- [Data: Add node for 'CT Scan'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/94)
-- [Data: Add node for 'MRI'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/93)
-- [Data: Add node for 'X-Ray'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/92)
-- [Data: Add node for 'Anesthesia'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/91)
-- [Data: Add node for 'Vaccine'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/90)
-- [Data: Add node for 'Penicillin'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/89)
-- [Data: Add node for 'DNA Sequencing'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/88)
-- [Data: Add node for 'CRISPR'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/87)
-- [Data: Add node for 'Cyborg'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/86)
-- [Data: Add node for 'Robot'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/85)
-- [Data: Add node for 'Drone'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/84)
-- [Data: Add node for 'Autonomous Vehicle'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/83)
-- [Data: Add node for 'Electric Vehicle'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/82)
-- [Data: Add node for 'Wind Power'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/81)
-- [Data: Add node for 'Solar Power'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/80)
-- [Data: Add node for 'Nuclear Fusion'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/79)
-- [Data: Add node for 'Quantum Computing'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/78)
-- [Data: Add node for '6G'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/77)
-- [Data: Add node for '5G'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/76)
-- [Data: Add node for 'IoT'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/75)
-- [Data: Add node for 'Big Data'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/74)
-- [Data: Add node for 'Cloud Computing'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/73)
-- [Data: Add node for 'Metaverse'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/72)
-- [Data: Add node for 'NFTs'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/71)
-- [Data: Add node for 'DeFi'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/70)
-- [Data: Add node for 'Smart Contracts'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/69)
-- [Data: Add node for 'Ethereum'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/68)
-- [Data: Add node for 'Bitcoin'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/67)
-- [Data: Add node for 'Blockchain'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/66)
-- [Data: Add node for 'Neural Networks'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/65)
-- [Data: Add node for 'Deep Learning'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/64)
-- [Data: Add node for 'Machine Learning'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/63)
-- [Data: Add node for 'Artificial Intelligence'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/62)
-- [Data: Add node for 'Augmented Reality'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/61)
-- [Data: Add node for 'Virtual Reality'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/60)
-- [Data: Add node for 'Video Games'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/59)
-- [Data: Add node for 'Cinema'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/58)
-- [Data: Add node for 'Photography'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/57)
-- [Data: Add node for 'Camera'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/56)
-- [Data: Add node for 'GPS'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/55)
-- [Data: Add node for 'Smartphone'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/54)
-- [Data: Add node for 'Social Media'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/53)
-- [Data: Add node for 'Search Engine'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/52)
-- [Data: Add node for 'World Wide Web'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/51)
-- [Data: Add node for 'Email'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/50)
-- [Data: Add node for 'Internet'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/49)
-- [Data: Add node for 'Microprocessor'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/48)
-- [Data: Add node for 'Integrated Circuit'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/47)
-- [Data: Add node for 'Transistor'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/46)
-- [Data: Add node for 'Television'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/45)
-- [Data: Add node for 'Radio'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/44)
-- [Data: Add node for 'Telephone'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/43)
-- [Data: Add node for 'Telegraph'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/42)
-- [Data: Add node for 'Lightbulb'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/41)
-- [Data: Add node for 'Steam Engine'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/40)
-- [Data: Add node for 'Printing Press'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/39)
-- [Data: Add node for 'Compass'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/38)
-- [Data: Add node for 'Paper'](https://github.com/BUDEGlobalEnterprise/bude-global-neuro-chain-react/issues/37)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
 
 ## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
+- [Deprecate IE related functions from FeatureDetection.js](https://github.com/CesiumGS/cesium/issues/12615)
 - [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Chat should permanently indicate whether message expiration is set up](https://github.com/nextcloud/spreed/issues/7953)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
 
 ## [ampproject/amphtml](https://github.com/ampproject/amphtml)
 
 - [Change window.context API to avoid problematic terms](https://github.com/ampproject/amphtml/issues/30789)
 
-## [ynoproject/forest-orb](https://github.com/ynoproject/forest-orb)
+## [AOSSIE-Org/Resonate-Website](https://github.com/AOSSIE-Org/Resonate-Website)
 
-- [Add option to Hide Map Button and enable/disable shortcut key](https://github.com/ynoproject/forest-orb/issues/712)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+- [Bug: Images instead of actual components of Download now in DownloadApp component](https://github.com/AOSSIE-Org/Resonate-Website/issues/33)
+- [Add CODE_OF_CONDUCT and CONTRIBUTING guidelines](https://github.com/AOSSIE-Org/Resonate-Website/issues/29)
 
