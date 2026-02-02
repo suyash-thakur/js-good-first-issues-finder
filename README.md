@@ -4,93 +4,14 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Anchor tag not scrolling to community forum section](https://github.com/meshery/meshery.io/issues/2444)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
-
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [hackforla/311-data](https://github.com/hackforla/311-data)
-
-- [UXD - Service Request Details Modal: QA Existing Component](https://github.com/hackforla/311-data/issues/1979)
-
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
-
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-- [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
-
-## [sfbrigade/care-connect](https://github.com/sfbrigade/care-connect)
-
-- [User will see missing text prompts and have input constraints on CAD Number/Supervising Sergeant's Star Number fields in Incident Form](https://github.com/sfbrigade/care-connect/issues/177)
-- [User will see edit Incident icon button change color after Incident is valid/completed](https://github.com/sfbrigade/care-connect/issues/175)
-- [User should be able to trigger another Arrest location detection in the Incident form](https://github.com/sfbrigade/care-connect/issues/159)
-- [User will see missing text and cancel button on Cancel Hold modal](https://github.com/sfbrigade/care-connect/issues/176)
-
-## [yoshixmk/everything-cursor](https://github.com/yoshixmk/everything-cursor)
-
-- [Simplifying the alignment between documentation and implementation](https://github.com/yoshixmk/everything-cursor/issues/5)
-- [Enrich developer tools](https://github.com/yoshixmk/everything-cursor/issues/4)
-- [Create workflow on updating everything-claude-code](https://github.com/yoshixmk/everything-cursor/issues/3)
-
-## [hackforla/website](https://github.com/hackforla/website)
-
-- [Remove unused file current-projects-check.html](https://github.com/hackforla/website/issues/7780)
-- [Update Project Profile: Hackforla.org Website Add Xavier Neal-Carson](https://github.com/hackforla/website/issues/8361)
-- [Update Project Profile: Hackforla.org Website Add Kerstin Carson](https://github.com/hackforla/website/issues/8440)
-- [Update Project Profile: Website- Remove Ren Demeis-Ortiz](https://github.com/hackforla/website/issues/8450)
-- [Update Project Profile: Expunge Assist Add Farnaz S](https://github.com/hackforla/website/issues/8318)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [friedrich-eibl/git-atlas](https://github.com/friedrich-eibl/git-atlas)
-
-- [ADD export to PNG](https://github.com/friedrich-eibl/git-atlas/issues/6)
-- [REF common css into one stylesheet](https://github.com/friedrich-eibl/git-atlas/issues/2)
-
 ## [neomjs/neo](https://github.com/neomjs/neo)
 
 - [Define the "Sighted" Development Workflow](https://github.com/neomjs/neo/issues/7388)
 
-## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Improve Exchange Compliance Status](https://github.com/pmxt-dev/pmxt/issues/27)
-- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
-- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
-- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
-- [[Python] Implement resolution_date parsing in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/15)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10017)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10000)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/9964)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9867)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
-- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
-- [[RFC]: use string interpolation in JavaScript benchmarks for the benchmark name (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8647)
-- [[RFC]: Refactor random number generation in JS benchmarks for `stats/base/dists/signrank`](https://github.com/stdlib-js/stdlib/issues/4986)
-- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
-- [[RFC]: add `stats/incr/nanmsumabs2`](https://github.com/stdlib-js/stdlib/issues/5612)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [Schema-less HTTP_PROXY and HTTPS_PROXY env vars should maybe assume `http`](https://github.com/nodejs/undici/issues/4736)
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 
 ## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
@@ -98,44 +19,122 @@ This list gets updated every day at midnight.
 - [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
 - [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
 
-## [gbowne1/codestream](https://github.com/gbowne1/codestream)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [[TODO][Devops] add GitHub workflow for CI](https://github.com/gbowne1/codestream/issues/15)
-- [Add Responsive Breakpoints for Multiple Device Sizes](https://github.com/gbowne1/codestream/pull/66)
-- [Fix live indicator accessibility and viewer count updates](https://github.com/gbowne1/codestream/pull/40)
-- [[Feature] Add a chat and use websockets](https://github.com/gbowne1/codestream/issues/52)
-- [[TODO] needs CSS media breakpoints](https://github.com/gbowne1/codestream/issues/3)
-- [[TODO] add Vitest and create unit tests](https://github.com/gbowne1/codestream/issues/18)
-- [[Feature] Add a go live feature](https://github.com/gbowne1/codestream/issues/54)
-- [[Enhance] Improve login to include both 400 and 401](https://github.com/gbowne1/codestream/issues/51)
-- [[Feature][Enhance] add logging](https://github.com/gbowne1/codestream/issues/53)
-- [[TODO] use async/await for mongo connection](https://github.com/gbowne1/codestream/issues/47)
-- [[Feature] Live Indicator & Viewer count](https://github.com/gbowne1/codestream/issues/28)
-- [Fix: Service Worker Fails to Fetch Uncached Resources](https://github.com/gbowne1/codestream/issues/2)
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
 
-## [tradewithmeai/3d-cube-game](https://github.com/tradewithmeai/3d-cube-game)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Feature: Add keyboard shortcut help overlay](https://github.com/tradewithmeai/3d-cube-game/issues/7)
-- [Feature: Add timer that starts on first move](https://github.com/tradewithmeai/3d-cube-game/issues/4)
-- [Feature: Add move counter display](https://github.com/tradewithmeai/3d-cube-game/issues/3)
+- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
+- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
 
-## [dust-books/dust-server](https://github.com/dust-books/dust-server)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [[Feature]: Customizeable User Agent](https://github.com/dust-books/dust-server/issues/25)
-- [[Feature]: Admin Endpoint for Refreshing Author Metadata from OpenLibrary](https://github.com/dust-books/dust-server/issues/24)
-- [[Bug]: Client takes you to previous server when authenticating to a new server.](https://github.com/dust-books/dust-server/issues/23)
+- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
 
-## [cordum-io/cap](https://github.com/cordum-io/cap)
+## [TheInsomnolent/helldrafters](https://github.com/TheInsomnolent/helldrafters)
 
-- [Document conformance fixture generator in tools README](https://github.com/cordum-io/cap/issues/9)
-- [Add JobProgress and JobCancel JSON examples](https://github.com/cordum-io/cap/issues/8)
-- [Python worker: explicit missing-signature check](https://github.com/cordum-io/cap/issues/7)
-- [Add Python SDK heartbeat helper](https://github.com/cordum-io/cap/issues/6)
-- [Add Node SDK heartbeat helper](https://github.com/cordum-io/cap/issues/5)
-- [Add subject constants for sys.alert / sys.job.progress / sys.job.cancel across SDKs](https://github.com/cordum-io/cap/issues/4)
+- [[Feature]: Remove GenAI Art Assets](https://github.com/TheInsomnolent/helldrafters/issues/129)
+- [Selected count in item selection screen is wrong](https://github.com/TheInsomnolent/helldrafters/issues/109)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [Schema-less HTTP_PROXY and HTTPS_PROXY env vars should maybe assume `http`](https://github.com/nodejs/undici/issues/4736)
+- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
+- [Some tests are not fully CWD-agnostic](https://github.com/nodejs/node/issues/61303)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+- [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
+
+## [jcubic/lips](https://github.com/jcubic/lips)
+
+- [Add links to source code next to SFRI](https://github.com/jcubic/lips/issues/488)
+
+## [TimChinye/Inspector](https://github.com/TimChinye/Inspector)
+
+- [Bug: Some themes don't work](https://github.com/TimChinye/Inspector/issues/11)
+- [FR/Bug: "Uploaded File" isn't a useful prompt group title](https://github.com/TimChinye/Inspector/issues/17)
+- [FR: Allow us to drag & drop a link (text) and have it run (currently you have to copy & paste).](https://github.com/TimChinye/Inspector/issues/5)
+- [FR: Add ability to edit the name on Drive Linked or JSON Pasted conversations](https://github.com/TimChinye/Inspector/issues/3)
+- [FR: A "Copy ID" button](https://github.com/TimChinye/Inspector/issues/12)
+- [FR: Option to... not go to the last opened page](https://github.com/TimChinye/Inspector/issues/15)
+- [FR: Add option to remove one specific file from history](https://github.com/TimChinye/Inspector/issues/14)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [https://jenn4242.signin.aws.amazon.com/console](https://github.com/PipedreamHQ/pipedream/issues/19915)
+- [https://jenn4242.signin.aws.amazon.com/console](https://github.com/PipedreamHQ/pipedream/issues/19914)
+- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
+- [[ACTION] Slack - Get Conversation History (conversations.history)](https://github.com/PipedreamHQ/pipedream/issues/19913)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/19909)
+- [[ACTION] please consider adding MeisterTask actions already existing in code](https://github.com/PipedreamHQ/pipedream/issues/19897)
+- [[ACTION] Assign a ticket in Trengo](https://github.com/PipedreamHQ/pipedream/issues/19896)
+- [[ACTION] Supabase - count rows](https://github.com/PipedreamHQ/pipedream/issues/19874)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/19823)
+- [Rosterelf MCP](https://github.com/PipedreamHQ/pipedream/issues/19705)
+- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
+- [[ACTION] Front - Articles](https://github.com/PipedreamHQ/pipedream/issues/19180)
+- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
+- [Webhook-WhatsApp-OSER-IA](https://github.com/PipedreamHQ/pipedream/issues/19762)
+- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
+- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+- [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
+- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
+- [Job sites](https://github.com/PipedreamHQ/pipedream/issues/19637)
+
+## [angel33la/pp3-spotify](https://github.com/angel33la/pp3-spotify)
+
+- [Setup Spotify developer acct & open auth application](https://github.com/angel33la/pp3-spotify/issues/5)
+- [Setup informative README.md markdown file in the root directory of this repo that clearly explains how to use and setup this project.](https://github.com/angel33la/pp3-spotify/issues/4)
+- [Setup frontend application using ReactJS, Express, etc.](https://github.com/angel33la/pp3-spotify/issues/3)
+- [Setup a database to handle CRUD](https://github.com/angel33la/pp3-spotify/issues/2)
+
+## [processing/p5.js](https://github.com/processing/p5.js)
+
+- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
+- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
+- [[2.0] Document workarounds for inter-addon dependencies](https://github.com/processing/p5.js/issues/7798)
+- [Proposal: API audit](https://github.com/processing/p5.js/issues/7460)
+- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
+- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
 
 ## [code-charity/youtube](https://github.com/code-charity/youtube)
 
+- [🐞 CPU spikes to 100% if changing themes too fast](https://github.com/code-charity/youtube/issues/3588)
+- [🐞rotate](https://github.com/code-charity/youtube/issues/3587)
+- [More "Queue" and "Watch Later" buttons!](https://github.com/code-charity/youtube/issues/2009)
+- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
 - [🐞Extension not working as of yesterday](https://github.com/code-charity/youtube/issues/3535)
 - [💡Not interested / don't recommend channel, auto add video / Channel to block list. ](https://github.com/code-charity/youtube/issues/3579)
 - [🐞The miniplayer should remain fully opaque (not transparent)](https://github.com/code-charity/youtube/issues/3576)
@@ -156,7 +155,6 @@ This list gets updated every day at midnight.
 - [pause overlay🐞](https://github.com/code-charity/youtube/issues/3550)
 - [hi i found  bug in appearance](https://github.com/code-charity/youtube/issues/3540)
 - [🐞time is missing](https://github.com/code-charity/youtube/issues/3467)
-- [🐞fail after track #400](https://github.com/code-charity/youtube/issues/3541)
 - ["Hide Pause Overlay" options](https://github.com/code-charity/youtube/issues/3427)
 - [🐞Player controls not visible in embedded player](https://github.com/code-charity/youtube/issues/3451)
 - [Feature request: 1. Show YouTube comments while watching 2. Kament.io - Enable Youtube Comments](https://github.com/code-charity/youtube/issues/3464)
@@ -184,114 +182,161 @@ This list gets updated every day at midnight.
 - [🐞'Show video remaining duration' broken](https://github.com/code-charity/youtube/issues/3487)
 - [🐞Playlist Autoplay off blocks Youtube from playing video](https://github.com/code-charity/youtube/issues/3486)
 - [💡I suggest retrieving the old history (oldest-newest) to make it faster for users](https://github.com/code-charity/youtube/issues/3516)
-- [🐞Video player partly covered by the sidebar comments after leaving fullscreen](https://github.com/code-charity/youtube/issues/3502)
-- [🐞 The "blocklist" feature is completely disfunctional](https://github.com/code-charity/youtube/issues/3507)
 
-## [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Add a CONTRIBUTE.md file for contribution guidelines](https://github.com/denshaw-09/AlgoFi/issues/19)
-- [Add a Custom 404 / Not Found Page](https://github.com/denshaw-09/AlgoFi/issues/49)
-- [[ENHANCEMENT] Missing Loading & Empty States](https://github.com/denshaw-09/AlgoFi/issues/67)
-- [Footer Enhancement for Algofi NFT Marketplace](https://github.com/denshaw-09/AlgoFi/issues/51)
-- [[BACKEND] Missing Environment variable documentation and backend setup instructions](https://github.com/denshaw-09/AlgoFi/issues/27)
-- [Smart Contract Updation](https://github.com/denshaw-09/AlgoFi/issues/41)
-- [[ENHANCEMENT] Process Flow: Change "How It Works" from a vertical list to a horizontal timeline with connecting lines.](https://github.com/denshaw-09/AlgoFi/issues/48)
+- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
+- [The text and layout need to be adjusted for better readability and usability across different screen sizes.](https://github.com/layer5io/layer5/issues/5640)
+- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
+- [Remove `install `  tag from  prepare scripts](https://github.com/layer5io/layer5/issues/7325)
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
 
-## [morpheus-awakens/moltgames](https://github.com/morpheus-awakens/moltgames)
+## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
 
-- [Add New Game: Tic-Tac-Toe](https://github.com/morpheus-awakens/moltgames/issues/4)
-- [Add Agent Trash Talk (LLM-to-LLM Commentary)](https://github.com/morpheus-awakens/moltgames/issues/2)
-- [Add Persistent Leaderboard UI](https://github.com/morpheus-awakens/moltgames/issues/1)
+- [Improve Exchange Compliance Status](https://github.com/pmxt-dev/pmxt/issues/27)
+- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
+- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
+- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
+- [[Python] Implement resolution_date parsing in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/15)
+
+## [udlose/MermaidPad](https://github.com/udlose/MermaidPad)
+
+- [Add 'About' Dialog to top-menu](https://github.com/udlose/MermaidPad/issues/115)
+- [Add 'Copy Markdown' button to the toolbar](https://github.com/udlose/MermaidPad/issues/217)
+- [Add 'Copy Image' button to toolbar](https://github.com/udlose/MermaidPad/issues/216)
+- [Add keyboard bindings/accelerators](https://github.com/udlose/MermaidPad/issues/191)
+- [Move 'Live Preview' setting from Toolbar to 'View' menu](https://github.com/udlose/MermaidPad/issues/218)
+- [Add support for different Mermaid Layout Algorithms: tidy-tree and cose-bilkent](https://github.com/udlose/MermaidPad/issues/338)
+- [Add Menu Icons](https://github.com/udlose/MermaidPad/issues/286)
+- [Create Installer for distribution on Windows](https://github.com/udlose/MermaidPad/issues/144)
+- [Add Zoom/Pan to render pane](https://github.com/udlose/MermaidPad/issues/32)
+- [Add 'Theme Mode' menu item and associated settings to 'View' menu item](https://github.com/udlose/MermaidPad/issues/318)
+- [Add GitHub Contributors List in About Dialog](https://github.com/udlose/MermaidPad/issues/319)
+- [SPIKE: Look into serialization of editor state for `Avalonia.AvaloniaEdit` text editor control](https://github.com/udlose/MermaidPad/issues/312)
+
+## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io/pull/282)
+
+- [fix: keep system log closed by default](https://github.com/NextCommunity/NextCommunity.github.io/pull/282)
+- [404 not found for `favicon.ico`](https://github.com/NextCommunity/NextCommunity.github.io/issues/134)
+- [System override: add secret pulse button](https://github.com/NextCommunity/NextCommunity.github.io/issues/289)
+- [All user names in the "users" directory should be the same as the GitHub handle](https://github.com/NextCommunity/NextCommunity.github.io/issues/217)
+- [System log: can we make it resizable by dragging the borders of the console log ?](https://github.com/NextCommunity/NextCommunity.github.io/issues/287)
+- [Update the Open Graph info / Twitter Cards ](https://github.com/NextCommunity/NextCommunity.github.io/issues/101)
+- [Change meta tags and description](https://github.com/NextCommunity/NextCommunity.github.io/issues/112)
+- [Add the pull request labeler](https://github.com/NextCommunity/NextCommunity.github.io/issues/158)
+
+## [Elias-Gill/malla_interactiva](https://github.com/Elias-Gill/malla_interactiva)
+
+- [Agregar malla curricular de Ingeniería en Marketing (IMK)](https://github.com/Elias-Gill/malla_interactiva/issues/14)
+- [Agregar malla curricular de Ingeniería en Sistemas de Producción (ISP)](https://github.com/Elias-Gill/malla_interactiva/issues/13)
+- [Agregar malla curricular de Ingeniería en Electrónica (IEK)](https://github.com/Elias-Gill/malla_interactiva/issues/12)
+- [Agregar malla curricular de Ingeniería en Energía (IEN)](https://github.com/Elias-Gill/malla_interactiva/issues/11)
+- [Agregar malla curricular de Ingeniería en Electricidad (IEL)](https://github.com/Elias-Gill/malla_interactiva/issues/10)
+- [Agregar malla curricular de Licenciatura en Ciencias Atmosféricas (LCA)](https://github.com/Elias-Gill/malla_interactiva/issues/9)
+- [Agregar malla curricular de Licenciatura en Ciencias de la Información (LCI)](https://github.com/Elias-Gill/malla_interactiva/issues/8)
+- [Agregar malla curricular de Licenciatura en Electricidad (LEL)](https://github.com/Elias-Gill/malla_interactiva/issues/7)
+- [Agregar malla curricular de Técnico Superior en Electrónica (en proceso de cierre) (TSE)](https://github.com/Elias-Gill/malla_interactiva/issues/6)
+- [Agregar malla curricular de Ingeniería en Informática (IIN)](https://github.com/Elias-Gill/malla_interactiva/issues/5)
+- [Agregar malla curricular de Licenciatura en Gestión de la Hospitalidad (LGH)](https://github.com/Elias-Gill/malla_interactiva/issues/4)
+- [Agregar malla curricular de Ingeniería en Ciencias de los Materiales (ICM)](https://github.com/Elias-Gill/malla_interactiva/issues/3)
+- [Agregar malla curricular de Licenciatura en Ciencias Informáticas (LCIk)](https://github.com/Elias-Gill/malla_interactiva/issues/2)
+- [Agregar malla curricular de Ingeniería Aeronáutica (IAE)](https://github.com/Elias-Gill/malla_interactiva/issues/1)
+
+## [direct-framework/direct-webapp](https://github.com/direct-framework/direct-webapp)
+
+- [Add tests for untested views](https://github.com/direct-framework/direct-webapp/issues/543)
+- [Split views module into multiple files](https://github.com/direct-framework/direct-webapp/issues/544)
+
+## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
+
+- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
 
 ## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
 
 - [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
 - [Prevent lookups designated as the default from being deleted](https://github.com/sheltermanager/asm3/issues/1989)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [Sahilll94/Travel-Book](https://github.com/Sahilll94/Travel-Book)
 
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
+- [Unrealistic / Distracting Image Hover Effect](https://github.com/Sahilll94/Travel-Book/issues/93)
+- [Locked navbar with animation in links](https://github.com/Sahilll94/Travel-Book/issues/71)
+- [Refactor API Calls into a Centralized `src/services` Directory](https://github.com/Sahilll94/Travel-Book/issues/90)
+- [[DOCS] Adding Environment variables summary](https://github.com/Sahilll94/Travel-Book/issues/92)
+- [Create `src/utils` Directory for Common Helper Functions](https://github.com/Sahilll94/Travel-Book/issues/91)
 
-## [l0o0/translators_CN](https://github.com/l0o0/translators_CN)
+## [dubstar-04/Design](https://github.com/dubstar-04/Design)
 
-- [[New]: 采芯网](https://github.com/l0o0/translators_CN/issues/822)
+- [Shortcut descriptions](https://github.com/dubstar-04/Design/issues/328)
+- [Make mouse features inactive on touch](https://github.com/dubstar-04/Design/issues/137)
+- [Add full screen mode](https://github.com/dubstar-04/Design/issues/71)
 
-## [remo-imparato/SimilarArtistsMM5](https://github.com/remo-imparato/SimilarArtistsMM5)
+## [abduznik/Obsidian-Game-Giveaways](https://github.com/abduznik/Obsidian-Game-Giveaways)
 
-- [Shopping List](https://github.com/remo-imparato/SimilarArtistsMM5/issues/13)
-- [Add a feature for High Target playlists (Party Lists)](https://github.com/remo-imparato/SimilarArtistsMM5/issues/6)
+- [Feature: Add Platform Filter Settings](https://github.com/abduznik/Obsidian-Game-Giveaways/issues/6)
+- [Chore: Initialize .gitignore file](https://github.com/abduznik/Obsidian-Game-Giveaways/issues/1)
+- [Refactor: Extract interfaces to separate types file](https://github.com/abduznik/Obsidian-Game-Giveaways/issues/2)
+- [Feature: Implement Status Bar notification](https://github.com/abduznik/Obsidian-Game-Giveaways/issues/4)
 
-## [publicmap/amche-atlas](https://github.com/publicmap/amche-atlas)
+## [dust-books/dust-server](https://github.com/dust-books/dust-server)
 
-- [Fresh proposals for amche.in logo](https://github.com/publicmap/amche-atlas/issues/189)
+- [[Feature]: Admin Endpoint for Refreshing Author Metadata from OpenLibrary](https://github.com/dust-books/dust-server/issues/24)
+- [[Bug]: Client takes you to previous server when authenticating to a new server.](https://github.com/dust-books/dust-server/issues/23)
 
-## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
+## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
 
-- [Does "Help Me Grow SLO County" have a clothing closet?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/35)
-- [Add info on how to enroll as a Cuesta College student](https://github.com/davgross/homeless-in-slo-resource-guide/issues/34)
-- [Verify "St. Patrick’s Shamrock Thrift" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/28)
-- [Verify "North County Care Minor Emergency Services" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/27)
-- [Verify correct locations of "Catholic Charities"](https://github.com/davgross/homeless-in-slo-resource-guide/issues/24)
-- [Need more info about Kritter Care](https://github.com/davgross/homeless-in-slo-resource-guide/issues/82)
-- [verify that county Veterans Services offices do substance dependency treatment referrals](https://github.com/davgross/homeless-in-slo-resource-guide/issues/78)
-- [verify claim about walk-in suboxone treatment at local hospitals](https://github.com/davgross/homeless-in-slo-resource-guide/issues/77)
-- [Can you sign up for Enhanced Care Management via CAPSLO's Outreach and Engagement Services center?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/69)
-- [Get better info about Salvation Army resources](https://github.com/davgross/homeless-in-slo-resource-guide/issues/60)
-- [Audit lists of little free pantries by visiting them in person](https://github.com/davgross/homeless-in-slo-resource-guide/issues/46)
-- [Get details on 40 Prado locker situation](https://github.com/davgross/homeless-in-slo-resource-guide/issues/40)
-- [Investigate "St. Williams Church" in Atascadero](https://github.com/davgross/homeless-in-slo-resource-guide/issues/220)
-- [Add something about Therapy Era (a.k.a. thERApy)?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/153)
-- [Add "Resilient Ones"?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/151)
-- [Add "The Central Coast Organization"?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/131)
+- [Proposal: remove bid adapter access to navigator](https://github.com/prebid/Prebid.js/issues/11001)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [PrekshaJain1909/Our_Space](https://github.com/PrekshaJain1909/Our_Space)
 
-- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
-- [[Dark mode]: Inconsistent UI in local data source pop up](https://github.com/ToolJet/ToolJet/issues/6909)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [Check that images have alt text](https://github.com/matrix-org/matrix.org/issues/3109)
-- [Create a "Branding & Assets" page](https://github.com/matrix-org/matrix.org/issues/3156)
-- [Improve the display of WG infos](https://github.com/matrix-org/matrix.org/issues/3161)
-- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
-- [add mactrix client](https://github.com/matrix-org/matrix.org/issues/3152)
-- [Enhancement: Add Tensor client](https://github.com/matrix-org/matrix.org/issues/3147)
-- [Enhancement: Add Neo client](https://github.com/matrix-org/matrix.org/issues/3140)
-- [Enhancement: Add Nio client](https://github.com/matrix-org/matrix.org/issues/3146)
-
-## [MatheusKindrazki/clauderc](https://github.com/MatheusKindrazki/clauderc)
-
-- [Add GIF demo to README](https://github.com/MatheusKindrazki/clauderc/issues/4)
-- [Add --verbose flag for detailed output](https://github.com/MatheusKindrazki/clauderc/issues/3)
-- [Add support for Scala stack detection](https://github.com/MatheusKindrazki/clauderc/issues/2)
-
-## [narainkarthikv/fit-track](https://github.com/narainkarthikv/fit-track)
-
-- [[Feature]: Update Changelog & OSS Files for Better Engagement + DevOps Best Practices](https://github.com/narainkarthikv/fit-track/issues/58)
-
-## [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)
-
-- [Removal of JQuery to Vue's reactives](https://github.com/CircuitVerse/cv-frontend-vue/issues/433)
-- [Feature: Javascript to Typescript conversion in the src folder](https://github.com/CircuitVerse/cv-frontend-vue/issues/661)
-
-## [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs)
-
-- [Add the respective content image](https://github.com/CircuitVerse/CircuitVerseDocs/issues/345)
-
-## [code-well0/trip-planner](https://github.com/code-well0/trip-planner)
-
-- [Fix Toast Notification After Login / Signup](https://github.com/code-well0/trip-planner/issues/391)
-- [UI Issue](https://github.com/code-well0/trip-planner/issues/393)
-
-## [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io)
-
-- [Adding optional input parameter "Country code" from electricitymaps](https://github.com/sitespeedio/sitespeed.io/issues/3935)
+- [Two Main Sections](https://github.com/PrekshaJain1909/Our_Space/issues/102)
+- [Memories List (Component 3)](https://github.com/PrekshaJain1909/Our_Space/issues/95)
+- [Filters (Component 2)](https://github.com/PrekshaJain1909/Our_Space/issues/94)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/100)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/89)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/99)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/98)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/88)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/87)
+- [Filters (Component 3)](https://github.com/PrekshaJain1909/Our_Space/issues/81)
+- [Add Timeline Event (Component 1)](https://github.com/PrekshaJain1909/Our_Space/issues/79)
+- [Page Layout (Top to Bottom Order)](https://github.com/PrekshaJain1909/Our_Space/issues/78)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/76)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/68)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/75)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/74)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/67)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/66)
+- [Completed Items Section](https://github.com/PrekshaJain1909/Our_Space/issues/64)
+- [Active Bucket List Items](https://github.com/PrekshaJain1909/Our_Space/issues/63)
+- [Add Bucket List Task](https://github.com/PrekshaJain1909/Our_Space/issues/62)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/60)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/59)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/58)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/50)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/49)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/48)
+- [Overall Stats](https://github.com/PrekshaJain1909/Our_Space/issues/44)
+- [Kindness Leaderboard](https://github.com/PrekshaJain1909/Our_Space/issues/39)
+- [Forgiveness List](https://github.com/PrekshaJain1909/Our_Space/issues/38)
+- [Input  Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/37)
+- [Promise List](https://github.com/PrekshaJain1909/Our_Space/issues/35)
+- [Input  Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/34)
+- [Completed Punishments](https://github.com/PrekshaJain1909/Our_Space/issues/31)
+- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/26)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/25)
+- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/24)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/20)
+- [Name Selection Dropdown](https://github.com/PrekshaJain1909/Our_Space/issues/19)
+- [Spacing Between Components](https://github.com/PrekshaJain1909/Our_Space/issues/18)
+- [Responsive Layout (Navbar & Content)](https://github.com/PrekshaJain1909/Our_Space/issues/17)
+- [Security & Edge Cases](https://github.com/PrekshaJain1909/Our_Space/issues/15)
+- [Navigation Items Alignment](https://github.com/PrekshaJain1909/Our_Space/issues/12)
+- [Back Icon for Dashboard View](https://github.com/PrekshaJain1909/Our_Space/issues/9)
+- [Post-Registration Alert](https://github.com/PrekshaJain1909/Our_Space/issues/8)
+- [Delete Individual Photo](https://github.com/PrekshaJain1909/Our_Space/issues/7)
+- [Navigation Item Alignment](https://github.com/PrekshaJain1909/Our_Space/issues/6)
+- [To-Do Punishment List](https://github.com/PrekshaJain1909/Our_Space/issues/30)
+- [Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/29)
+- [Register Page](https://github.com/PrekshaJain1909/Our_Space/issues/4)
+- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/109)
 
