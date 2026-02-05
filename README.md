@@ -4,9 +4,74 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [iagocavalcante/qtube](https://github.com/iagocavalcante/qtube)
+
+- [Refactor: Extract sendToRenderer helper to reduce null checks](https://github.com/iagocavalcante/qtube/issues/254)
+- [Chore: Remove unused video.js dependency](https://github.com/iagocavalcante/qtube/issues/251)
+- [Refactor: Extract title sanitization to utility function](https://github.com/iagocavalcante/qtube/issues/250)
+- [Refactor: Extract shared download method in index.vue](https://github.com/iagocavalcante/qtube/issues/249)
+- [Refactor: Extract shared component from videos.vue and musics.vue](https://github.com/iagocavalcante/qtube/issues/236)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [cat2151/tonejs-mml-to-json](https://github.com/cat2151/tonejs-mml-to-json)
+
+- [qはq4がduration50%、q8が初期値かつ省略値かつ最大値でduration100%、vはv0が音量ゼロ、v8が-6dB、v15が初期値かつ省略値かつ最大値で0dB、となるようにする。これはmmlabc方言を参考に検証用の仮仕様として決めたものである](https://github.com/cat2151/tonejs-mml-to-json/issues/134)
+- [qコマンドにより、tonejs-json-sequencerのstreaming loopに影響が出るので、曲のloop end時刻を明示するためのJSON event新規追加を検討する](https://github.com/cat2151/tonejs-mml-to-json/issues/135)
+- [demo に Flanger を追加する](https://github.com/cat2151/tonejs-mml-to-json/issues/129)
+- [例えばFMSynthでシングルクォートの和音コマンドを使うと、PolySynthになったあとFMSynth部分が忘れられてしまう](https://github.com/cat2151/tonejs-mml-to-json/issues/128)
+
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+
+- [[UI Refactor] Migrate VirtualizedTraceView to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3372)
+- [[UI Refactor] Migrate ViewingLayer to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3371)
+- [[Bug]: Uppercase trace IDs not normalizing to lowercase](https://github.com/jaegertracing/jaeger-ui/issues/3477)
+- [[UI Refactor] Migrate TraceStatisticsHeader to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3370)
+- [[UI Refactor] Migrate DeepDependencies to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3379)
+- [[Deps] Upgrade react-router-dom to 7.x](https://github.com/jaegertracing/jaeger-ui/issues/2532)
+- [Support timezone conversion in Jaeger UI](https://github.com/jaegertracing/jaeger-ui/issues/777)
+- [[UI Refactor] Migrate TraceSpanView to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3383)
+- [[UI Refactor] Migrate DependencyGraph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3380)
+- [[Feature]: Add Horizontal Scrollbar for Viewing Long Traces in Jaeger UI](https://github.com/jaegertracing/jaeger-ui/issues/2419)
+- [[UI Refactor] Migrate DdgNodeContent to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3377)
+- [[UI Refactor] Migrate AccordionLinks to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3364)
+- [[UI Refactor] [plexus] Migrate SvgLayersGroup to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3400)
+- [[UI Refactor] [plexus] Migrate SvgLayer to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3399)
+- [[UI Refactor] [plexus] Migrate SvgEdges to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3397)
+- [[UI Refactor] [plexus] Migrate SvgEdge to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3396)
+- [[UI Refactor] [plexus] Migrate SvgDefEntry to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3395)
+- [[UI Refactor] [plexus] Migrate NodesLayer to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3394)
+- [[UI Refactor] [plexus] Migrate Nodes to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3393)
+- [[UI Refactor] [plexus] Migrate Node to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3392)
+- [[UI Refactor] [plexus] Migrate MeasurableNodes to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3390)
+- [[UI Refactor] [plexus] Migrate MeasurableNode to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3389)
+- [[UI Refactor] [plexus] Migrate Digraph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3386)
+- [[UI Refactor] Migrate ListView to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3385)
+- [[UI Refactor] Migrate TraceStatistics to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3384)
+- [[UI Refactor] Migrate SpanGraph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3382)
+- [[UI Refactor] Migrate TracePage to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3381)
+- [[UI Refactor] Migrate Graph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3378)
+- [[UI Refactor] Migrate TraceGraph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3369)
+- [[UI Refactor] Migrate TimelineViewingLayer to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3368)
+- [[Bug]: Trace Statistics view in dark mode](https://github.com/jaegertracing/jaeger-ui/issues/3322)
+- [[chore]: Fix eslint warnings](https://github.com/jaegertracing/jaeger-ui/issues/1608)
+- [Update Tooltip Arrow Configuration in Ant Design Components](https://github.com/jaegertracing/jaeger-ui/issues/2221)
+- [[Deps] Upgrade history package to 5.x](https://github.com/jaegertracing/jaeger-ui/issues/2531)
+
+## [sfbrigade/care-connect](https://github.com/sfbrigade/care-connect)
+
+- [User will see missing text and cancel button on Cancel Hold modal](https://github.com/sfbrigade/care-connect/issues/176)
+- [User should be able to trigger another Arrest location detection in the Incident form](https://github.com/sfbrigade/care-connect/issues/159)
+
+## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+
+- [Issues with Volunteer wizard](https://github.com/saayam-for-all/webapp/issues/1203)
+- [Labels like  'Category' and 'General' category  are not translated in Create Help Request](https://github.com/saayam-for-all/webapp/issues/1169)
+- [Test and integrate backend API for Organization Details tab](https://github.com/saayam-for-all/webapp/issues/757)
+- [Check if inspect element exposes any vulnerabilities for website](https://github.com/saayam-for-all/webapp/issues/918)
+- [Organizing i18next JSON files using i18next Namespaces for Internationalization](https://github.com/saayam-for-all/webapp/issues/876)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -14,33 +79,17 @@ This list gets updated every day at midnight.
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
 
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
-
-## [AidenH-dev/ReBabel](https://github.com/AidenH-dev/ReBabel)
-
-- [Incorrect Flascard Progess Bar](https://github.com/AidenH-dev/ReBabel/issues/66)
-- [Inconsistent Keyboard Shortcut Layouts](https://github.com/AidenH-dev/ReBabel/issues/65)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Bundle docs dependencies](https://github.com/HeyPuter/puter/issues/2361)
-- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
-
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-
-## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
-
-- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
+- [Improve Limitless exchange limit handling and implement pagination](https://github.com/pmxt-dev/pmxt/issues/34)
+- [Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency](https://github.com/pmxt-dev/pmxt/issues/29)
+- [Suggestion: allow fetching markets that are closed](https://github.com/pmxt-dev/pmxt/issues/33)
+- [Python SDK: resolution_date is not parsed in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/30)
+- [Improve Exchange Compliance Status](https://github.com/pmxt-dev/pmxt/issues/27)
+- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
+- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
+- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
+- [[Python] Implement resolution_date parsing in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/15)
 
 ## [google/site-kit-wp](https://github.com/google/site-kit-wp)
 
@@ -48,13 +97,64 @@ This list gets updated every day at midnight.
 - [Make info tooltips tabbable so they can be focused and shown via keyboard navigation](https://github.com/google/site-kit-wp/issues/11681)
 - [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
 
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
+- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+
+## [RyanS4/EscapeTheFireProject](https://github.com/RyanS4/EscapeTheFireProject)
+
+- [create login page login.tsx](https://github.com/RyanS4/EscapeTheFireProject/issues/3)
+- [research react native basics](https://github.com/RyanS4/EscapeTheFireProject/issues/2)
+
+## [dust-books/dust-server](https://github.com/dust-books/dust-server)
+
+- [[Feature]: Admin Endpoint for Refreshing Author Metadata from OpenLibrary](https://github.com/dust-books/dust-server/issues/24)
+- [[Bug]: Client takes you to previous server when authenticating to a new server.](https://github.com/dust-books/dust-server/issues/23)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
+- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
+
+- [Add model config example to contracts page](https://github.com/dbt-labs/docs.getdbt.com/issues/7021)
+- [Verify whether old video has important information to include](https://github.com/dbt-labs/docs.getdbt.com/issues/6918)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Bundle docs dependencies](https://github.com/HeyPuter/puter/issues/2361)
+- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+
+## [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)
+
+- [search-ui: misaligned nested facet items](https://github.com/inveniosoftware/invenio-app-rdm/issues/3178)
+- [UI: Long file names break layout on landing page UI](https://github.com/inveniosoftware/invenio-app-rdm/issues/3195)
+- [Homepage search results don't render MathJax](https://github.com/inveniosoftware/invenio-app-rdm/issues/3292)
+- [Malformed web link entry in HTTP response header field link breaks FAIR Signposting (RFC 8288 violation)](https://github.com/inveniosoftware/invenio-app-rdm/issues/3308)
+- ["Manage record" button goes to wrong url for non-latest versions](https://github.com/inveniosoftware/invenio-app-rdm/issues/3235)
+
+## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
+
+- [Proposal: remove bid adapter access to navigator](https://github.com/prebid/Prebid.js/issues/11001)
+
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
 - [[ACTION] Read records action - Bubble app](https://github.com/PipedreamHQ/pipedream/issues/19381)
-- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
 - [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
 - [To Capture Gorgias Custom Ticket Fields](https://github.com/PipedreamHQ/pipedream/issues/19935)
-- [[ACTION] Cal.com - Get All Bookings (v2)](https://github.com/PipedreamHQ/pipedream/issues/19930)
 - [[ACTION] Slack - Get Conversation History (conversations.history)](https://github.com/PipedreamHQ/pipedream/issues/19913)
 - [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
 - [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
@@ -69,14 +169,77 @@ This list gets updated every day at midnight.
 - [[ACTION] Cal.com - Create a booking](https://github.com/PipedreamHQ/pipedream/issues/19496)
 - [Job sites](https://github.com/PipedreamHQ/pipedream/issues/19637)
 
-## [200ok-ch/organice](https://github.com/200ok-ch/organice/pull/906)
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
 
-- [Draft: feat: Dependencies via Guix](https://github.com/200ok-ch/organice/pull/906)
+- [Contacts should show URLs for IOS & other applications.](https://github.com/nextcloud/contacts/issues/4591)
 
-## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
-- [Prevent lookups designated as the default from being deleted](https://github.com/sheltermanager/asm3/issues/1989)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [fix(ci.yml): false positive triggers script validation failure on force push](https://github.com/Ryan-Millard/Img2Num/issues/153)
+- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
+- [Integrate `check-spelling` into CI to catch documentation typos automatically](https://github.com/Ryan-Millard/Img2Num/issues/227)
+- [refactor: Streamline Documentation for Easier Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/214)
+- [Create native example apps for C and C++](https://github.com/Ryan-Millard/Img2Num/issues/206)
+- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
+- [Implement GlassPanel](https://github.com/Ryan-Millard/Img2Num/issues/113)
+- [Update GlassCard](https://github.com/Ryan-Millard/Img2Num/issues/112)
+- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
+
+## [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+
+- [Add Preset for historic=millstone](https://github.com/openstreetmap/id-tagging-schema/issues/1067)
+
+## [databricks-industry-solutions/pixels](https://github.com/databricks-industry-solutions/pixels)
+
+- [Add s3a:// support](https://github.com/databricks-industry-solutions/pixels/issues/158)
+
+## [NishantRana07/HrRoadways](https://github.com/NishantRana07/HrRoadways)
+
+- [Redesign Footer for Professional Look](https://github.com/NishantRana07/HrRoadways/issues/592)
+
+## [radicise/territopple](https://github.com/radicise/territopple)
+
+- [make it more obvious which players have been eliminated](https://github.com/radicise/territopple/issues/55)
+
+## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
+
+- [Adjust theme color based on file type to match the Collabora branding bar](https://github.com/nextcloud/richdocuments/issues/5269)
+
+## [udlose/MermaidPad](https://github.com/udlose/MermaidPad)
+
+- [Add GitHub Contributors List in About Dialog](https://github.com/udlose/MermaidPad/issues/319)
+- [Add build scripts for command-line compilation and publishing](https://github.com/udlose/MermaidPad/issues/347)
+- [Add 'Copy Markdown' button to the toolbar](https://github.com/udlose/MermaidPad/issues/217)
+- [Add 'Copy Image' button to toolbar](https://github.com/udlose/MermaidPad/issues/216)
+- [Add keyboard bindings/accelerators](https://github.com/udlose/MermaidPad/issues/191)
+- [Move 'Live Preview' setting from Toolbar to 'View' menu](https://github.com/udlose/MermaidPad/issues/218)
+- [Add support for different Mermaid Layout Algorithms: tidy-tree and cose-bilkent](https://github.com/udlose/MermaidPad/issues/338)
+- [Add Menu Icons](https://github.com/udlose/MermaidPad/issues/286)
+- [Create Installer for distribution on Windows](https://github.com/udlose/MermaidPad/issues/144)
+- [Add Zoom/Pan to render pane](https://github.com/udlose/MermaidPad/issues/32)
+- [Add 'Theme Mode' menu item and associated settings to 'View' menu item](https://github.com/udlose/MermaidPad/issues/318)
+- [SPIKE: Look into serialization of editor state for `Avalonia.AvaloniaEdit` text editor control](https://github.com/udlose/MermaidPad/issues/312)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
+- [Some tests are not fully CWD-agnostic](https://github.com/nodejs/node/issues/61303)
+
+## [TurboDocx/html-to-docx](https://github.com/TurboDocx/html-to-docx)
+
+- [Malformed DOCX for styled HTML elements](https://github.com/TurboDocx/html-to-docx/issues/168)
+
+## [kyma-project/busola](https://github.com/kyma-project/busola)
+
+- [Table layout is broken on High-Contrast White theme](https://github.com/kyma-project/busola/issues/4225)
 
 ## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
 
@@ -84,124 +247,20 @@ This list gets updated every day at midnight.
 - [Extended key input types](https://github.com/micahlt/itchy-native/issues/141)
 - [Global UI for alerts](https://github.com/micahlt/itchy-native/issues/133)
 
-## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
-
-- [Python SDK: resolution_date is not parsed in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/30)
-- [Improve Exchange Compliance Status](https://github.com/pmxt-dev/pmxt/issues/27)
-- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
-- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
-- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
-- [[Python] Implement resolution_date parsing in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/15)
-
-## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
-
-- [Support `xOffset` and `yOffset` as encoding channels](https://github.com/genome-spy/genome-spy/issues/230)
-- [Feature Request: Line Charts](https://github.com/genome-spy/genome-spy/issues/50)
-- [Arrow mark](https://github.com/genome-spy/genome-spy/issues/139)
-- [Allow viewport clipping to be defined separately for `x` and `y` directions](https://github.com/genome-spy/genome-spy/issues/237)
-
-## [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi)
-
-- [Add a CONTRIBUTE.md file for contribution guidelines](https://github.com/denshaw-09/AlgoFi/issues/19)
-- [Add a Custom 404 / Not Found Page](https://github.com/denshaw-09/AlgoFi/issues/49)
-- [[ENHANCEMENT] Missing Loading & Empty States](https://github.com/denshaw-09/AlgoFi/issues/67)
-- [Footer Enhancement for Algofi NFT Marketplace](https://github.com/denshaw-09/AlgoFi/issues/51)
-- [[BACKEND] Missing Environment variable documentation and backend setup instructions](https://github.com/denshaw-09/AlgoFi/issues/27)
-- [Smart Contract Updation](https://github.com/denshaw-09/AlgoFi/issues/41)
-- [[ENHANCEMENT] Process Flow: Change "How It Works" from a vertical list to a horizontal timeline with connecting lines.](https://github.com/denshaw-09/AlgoFi/issues/48)
-
-## [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)
-
-- [UI: Long file names break layout on landing page UI](https://github.com/inveniosoftware/invenio-app-rdm/issues/3195)
-- [Homepage search results don't render MathJax](https://github.com/inveniosoftware/invenio-app-rdm/issues/3292)
-- [Malformed web link entry in HTTP response header field link breaks FAIR Signposting (RFC 8288 violation)](https://github.com/inveniosoftware/invenio-app-rdm/issues/3308)
-- ["Manage record" button goes to wrong url for non-latest versions](https://github.com/inveniosoftware/invenio-app-rdm/issues/3235)
-
-## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-
-- [Add model config example to contracts page](https://github.com/dbt-labs/docs.getdbt.com/issues/7021)
-- [Verify whether old video has important information to include](https://github.com/dbt-labs/docs.getdbt.com/issues/6918)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [Deprecate IE related functions from FeatureDetection.js](https://github.com/CesiumGS/cesium/issues/12615)
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-
-## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io/pull/282)
-
-- [fix: keep system log closed by default](https://github.com/NextCommunity/NextCommunity.github.io/pull/282)
-- [404 not found for `favicon.ico`](https://github.com/NextCommunity/NextCommunity.github.io/issues/134)
-- [System override: add secret pulse button](https://github.com/NextCommunity/NextCommunity.github.io/issues/289)
-- [All user names in the "users" directory should be the same as the GitHub handle](https://github.com/NextCommunity/NextCommunity.github.io/issues/217)
-- [System log: can we make it resizable by dragging the borders of the console log ?](https://github.com/NextCommunity/NextCommunity.github.io/issues/287)
-- [Update the Open Graph info / Twitter Cards ](https://github.com/NextCommunity/NextCommunity.github.io/issues/101)
-- [Change meta tags and description](https://github.com/NextCommunity/NextCommunity.github.io/issues/112)
-- [Add the pull request labeler](https://github.com/NextCommunity/NextCommunity.github.io/issues/158)
-
-## [oss-slu/DigitalBonesBox](https://github.com/oss-slu/DigitalBonesBox)
-
-- [Popups do not scale well, and not all buttons may be visible](https://github.com/oss-slu/DigitalBonesBox/issues/232)
-- [Label toggle](https://github.com/oss-slu/DigitalBonesBox/issues/233)
-- [Compile a project overview from Google Drive docs](https://github.com/oss-slu/DigitalBonesBox/issues/1)
-- [Create a Summary of PowerPoint Content Flow](https://github.com/oss-slu/DigitalBonesBox/issues/2)
-- [Create Initial User Persona Document](https://github.com/oss-slu/DigitalBonesBox/issues/3)
-- [Create a Project Glossary](https://github.com/oss-slu/DigitalBonesBox/issues/4)
-- [Add a Footer component to application](https://github.com/oss-slu/DigitalBonesBox/issues/76)
-- [Feature: Add a "Back to Top" Button](https://github.com/oss-slu/DigitalBonesBox/issues/144)
-- [Separate linting and test running tasks in Actions workflow](https://github.com/oss-slu/DigitalBonesBox/issues/216)
-- [Update "NEXT" and "PREVIOUS" Navigation button](https://github.com/oss-slu/DigitalBonesBox/issues/197)
-- [Populate Sidebar](https://github.com/oss-slu/DigitalBonesBox/issues/111)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
-- [Did `Meteor.connection._processOneDataMessage` get eliminated?](https://github.com/meteor/meteor/issues/13655)
-- [Deprecation warnings when installing from a meteor {V3.3.2) bundle](https://github.com/meteor/meteor/issues/14083)
-- [Upgrade deprecated packages](https://github.com/meteor/meteor/issues/13812)
-- [`passwordValidator` ignores `passwordMaxLength` due to operator precedence bug](https://github.com/meteor/meteor/issues/14072)
-- [Calling Roles.getUsersInRoleAsync with queryOptions fields throws error](https://github.com/meteor/meteor/issues/13873)
-- [ReDoS Vulnerability Analysis and Fixes](https://github.com/meteor/meteor/issues/13933)
-- [Misleading api doc for Meteor.user](https://github.com/meteor/meteor/issues/11820)
-- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
-
 ## [nodejs/undici](https://github.com/nodejs/undici)
 
 - [Schema-less HTTP_PROXY and HTTPS_PROXY env vars should maybe assume `http`](https://github.com/nodejs/undici/issues/4736)
 - [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
 
-## [processing/p5.js](https://github.com/processing/p5.js)
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
 
-- [[2.0] Deprecate `array()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8151)
-- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
-- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
-- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
-- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
-- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
-- [[2.0] Document workarounds for inter-addon dependencies](https://github.com/processing/p5.js/issues/7798)
-- [Proposal: API audit](https://github.com/processing/p5.js/issues/7460)
-- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
-- [Multi-column Post Excerpt](https://github.com/WordPress/gutenberg/issues/25459)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
-- [Some tests are not fully CWD-agnostic](https://github.com/nodejs/node/issues/61303)
+- [Check that images have alt text](https://github.com/matrix-org/matrix.org/issues/3109)
+- [Create a "Branding & Assets" page](https://github.com/matrix-org/matrix.org/issues/3156)
+- [Improve the display of WG infos](https://github.com/matrix-org/matrix.org/issues/3161)
+- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
+- [Enhancement: Add Tensor client](https://github.com/matrix-org/matrix.org/issues/3147)
+- [Enhancement: Add Neo client](https://github.com/matrix-org/matrix.org/issues/3140)
+- [Enhancement: Add Nio client](https://github.com/matrix-org/matrix.org/issues/3146)
 
 ## [AprilSylph/XKit-Rewritten](https://github.com/AprilSylph/XKit-Rewritten)
 
@@ -211,90 +270,48 @@ This list gets updated every day at midnight.
 - [Vanilla Audio/Vanilla Video default setting options](https://github.com/AprilSylph/XKit-Rewritten/issues/1797)
 - [Improve error message clarity](https://github.com/AprilSylph/XKit-Rewritten/issues/1674)
 
-## [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
+## [camunda/camunda-modeler](https://github.com/camunda/camunda-modeler)
 
-- [ARIA in HTML allowances changes for br and wbr](https://github.com/dequelabs/axe-core/issues/3177)
+- [Display connection intersections with arc](https://github.com/camunda/camunda-modeler/issues/1966)
+- [Camunda 7 diagram tab marked as being part of process application](https://github.com/camunda/camunda-modeler/issues/5559)
+- [Missing validation of variable name](https://github.com/camunda/camunda-modeler/issues/5188)
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)
 
-- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
-- [Give user alert to confirm browser refresh](https://github.com/WordPress/wordpress-playground/issues/81)
+- [Badges and tags](https://github.com/dembrandt/dembrandt/issues/18)
+- [Forms 2.0](https://github.com/dembrandt/dembrandt/issues/17)
 
-## [PrekshaJain1909/Our_Space](https://github.com/PrekshaJain1909/Our_Space)
+## [UniversityOfHelsinkiCS/palaute](https://github.com/UniversityOfHelsinkiCS/palaute)
 
-- [Navigation Items Alignment](https://github.com/PrekshaJain1909/Our_Space/issues/12)
-- [Two Main Sections](https://github.com/PrekshaJain1909/Our_Space/issues/102)
-- [Memories List (Component 3)](https://github.com/PrekshaJain1909/Our_Space/issues/95)
-- [Filters (Component 2)](https://github.com/PrekshaJain1909/Our_Space/issues/94)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/100)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/89)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/99)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/88)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/87)
-- [Filters (Component 3)](https://github.com/PrekshaJain1909/Our_Space/issues/81)
-- [Add Timeline Event (Component 1)](https://github.com/PrekshaJain1909/Our_Space/issues/79)
-- [Page Layout (Top to Bottom Order)](https://github.com/PrekshaJain1909/Our_Space/issues/78)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/76)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/68)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/75)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/74)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/67)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/66)
-- [Completed Items Section](https://github.com/PrekshaJain1909/Our_Space/issues/64)
-- [Active Bucket List Items](https://github.com/PrekshaJain1909/Our_Space/issues/63)
-- [Add Bucket List Task](https://github.com/PrekshaJain1909/Our_Space/issues/62)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/60)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/59)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/58)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/50)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/49)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/48)
-- [Overall Stats](https://github.com/PrekshaJain1909/Our_Space/issues/44)
-- [Kindness Leaderboard](https://github.com/PrekshaJain1909/Our_Space/issues/39)
-- [Forgiveness List](https://github.com/PrekshaJain1909/Our_Space/issues/38)
-- [Input  Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/37)
-- [Promise List](https://github.com/PrekshaJain1909/Our_Space/issues/35)
-- [Input  Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/34)
-- [Completed Punishments](https://github.com/PrekshaJain1909/Our_Space/issues/31)
-- [Name-Based Personalization](https://github.com/PrekshaJain1909/Our_Space/issues/26)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/25)
-- [Responsive Design](https://github.com/PrekshaJain1909/Our_Space/issues/24)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/20)
-- [Name Selection Dropdown](https://github.com/PrekshaJain1909/Our_Space/issues/19)
-- [Spacing Between Components](https://github.com/PrekshaJain1909/Our_Space/issues/18)
-- [Responsive Layout (Navbar & Content)](https://github.com/PrekshaJain1909/Our_Space/issues/17)
-- [Security & Edge Cases](https://github.com/PrekshaJain1909/Our_Space/issues/15)
-- [Back Icon for Dashboard View](https://github.com/PrekshaJain1909/Our_Space/issues/9)
-- [Post-Registration Alert](https://github.com/PrekshaJain1909/Our_Space/issues/8)
-- [Delete Individual Photo](https://github.com/PrekshaJain1909/Our_Space/issues/7)
-- [Navigation Item Alignment](https://github.com/PrekshaJain1909/Our_Space/issues/6)
-- [To-Do Punishment List](https://github.com/PrekshaJain1909/Our_Space/issues/30)
-- [Only one dropdown:](https://github.com/PrekshaJain1909/Our_Space/issues/29)
-- [Register Page](https://github.com/PrekshaJain1909/Our_Space/issues/4)
-- [Theme Support](https://github.com/PrekshaJain1909/Our_Space/issues/109)
+- [Add cur name as an option to search feedback targets](https://github.com/UniversityOfHelsinkiCS/palaute/issues/1605)
+- [Create admin button for clearing feedback target cache](https://github.com/UniversityOfHelsinkiCS/palaute/issues/1585)
 
-## [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
+## [nextcloud/text](https://github.com/nextcloud/text)
 
-- [Suggestion: add a property called shouldRender to renderMathInElement options](https://github.com/KaTeX/KaTeX/issues/691)
+- [Make inserting mermaid diagrams more obvious](https://github.com/nextcloud/text/issues/8232)
 
-## [modernxmpp/easy-xmpp-invitation](https://github.com/modernxmpp/easy-xmpp-invitation)
+## [AOSSIE-Org/Resonate-Website](https://github.com/AOSSIE-Org/Resonate-Website)
 
-- [When prefilling an account name to a registration link it uses the name and not the server](https://github.com/modernxmpp/easy-xmpp-invitation/issues/76)
+- [Image Optimization: No Visible Lazy Loading Implementation for Images](https://github.com/AOSSIE-Org/Resonate-Website/issues/165)
+- [Fix/image lazy loading](https://github.com/AOSSIE-Org/Resonate-Website/pull/166)
+- [Accessibility & SEO Improvements (Alt Text + ARIA Labels)](https://github.com/AOSSIE-Org/Resonate-Website/pull/99)
+- [feat: updated Readme and Links](https://github.com/AOSSIE-Org/Resonate-Website/pull/63)
+- [Duplicate Issue Detector and labelling as "Duplicate"](https://github.com/AOSSIE-Org/Resonate-Website/issues/216)
+- [Bug Report: Missing SEO Keywords Meta Tag](https://github.com/AOSSIE-Org/Resonate-Website/issues/116)
+- [Adding CODEOWNERS file to the ```new-design``` branch](https://github.com/AOSSIE-Org/Resonate-Website/issues/203)
+- [Remove unused image assets replaced by icon-based buttons](https://github.com/AOSSIE-Org/Resonate-Website/issues/206)
+- [added-dependent-bot-for-dependency-update](https://github.com/AOSSIE-Org/Resonate-Website/pull/189)
+- [update-dependencies](https://github.com/AOSSIE-Org/Resonate-Website/pull/170)
+- [Improve Website SEO and Content Structure for Better Discoverability](https://github.com/AOSSIE-Org/Resonate-Website/issues/180)
+- [DOC: updating README file to work on dev branch and updating CONTRIBUTING.md file URL in README file](https://github.com/AOSSIE-Org/Resonate-Website/issues/125)
+- [QR-Code integration for seamless desktop-to-mobile app download.](https://github.com/AOSSIE-Org/Resonate-Website/issues/114)
+- [Security Vulnerability & Accessibility: External links missing rel="noopener" and aria-labels](https://github.com/AOSSIE-Org/Resonate-Website/issues/124)
+- [CI/CD: Add Dependent Bot for dependency update](https://github.com/AOSSIE-Org/Resonate-Website/issues/188)
+- [Accessibility & SEO Improvements (Alt Text + ARIA Labels)](https://github.com/AOSSIE-Org/Resonate-Website/issues/83)
+- [Update manifest.json for Resonate Branding and PWA Optimization](https://github.com/AOSSIE-Org/Resonate-Website/issues/71)
+- [UI/UX Update: Add Dark Mode Support](https://github.com/AOSSIE-Org/Resonate-Website/issues/55)
 
-## [narainkarthikv/fit-track](https://github.com/narainkarthikv/fit-track)
+## [nextcloud/collectives](https://github.com/nextcloud/collectives)
 
-- [[Feature]: Update Changelog & OSS Files for Better Engagement + DevOps Best Practices](https://github.com/narainkarthikv/fit-track/issues/58)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
-- [The text and layout need to be adjusted for better readability and usability across different screen sizes.](https://github.com/layer5io/layer5/issues/5640)
-- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
-- [Remove `install `  tag from  prepare scripts](https://github.com/layer5io/layer5/issues/7325)
-
-## [ianfhunter/Enigma](https://github.com/ianfhunter/Enigma)
-
-- [[FEATURE] Countdown Letters should have a "Choose for me" button](https://github.com/ianfhunter/Enigma/issues/170)
-- [[FEATURE] Improved Language Translations](https://github.com/ianfhunter/Enigma/issues/114)
-- [[FEATURE] New Games](https://github.com/ianfhunter/Enigma/issues/68)
+- [Allow to rename Collective for admins](https://github.com/nextcloud/collectives/issues/1716)
 
