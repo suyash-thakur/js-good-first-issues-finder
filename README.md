@@ -1,8 +1,10 @@
 # Good First Issues
 
-This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!
+This is a list of JavaScript repositories with good first issues for newcomers to open source.
 
-This list gets updated every day at midnight.
+Contributions are always welcome!
+
+This list gets updated every day at midnight (UTC).
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
