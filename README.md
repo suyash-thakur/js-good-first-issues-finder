@@ -4,21 +4,20 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [remo-imparato/SimilarArtistsMM5](https://github.com/remo-imparato/SimilarArtistsMM5)
+
+- [Limit search to specific collection ](https://github.com/remo-imparato/SimilarArtistsMM5/issues/15)
+- [Playlist Name include album/track/artist](https://github.com/remo-imparato/SimilarArtistsMM5/issues/16)
+- [Shopping List](https://github.com/remo-imparato/SimilarArtistsMM5/issues/13)
+- [Add a feature for High Target playlists (Party Lists)](https://github.com/remo-imparato/SimilarArtistsMM5/issues/6)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -28,15 +27,26 @@ This list gets updated every day at midnight.
 - [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
 - [Some tests are not fully CWD-agnostic](https://github.com/nodejs/node/issues/61303)
 
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [Bundle docs dependencies](https://github.com/HeyPuter/puter/issues/2361)
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
-- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [bfirsh/jsnes](https://github.com/bfirsh/jsnes)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Run test ROMs in test suite](https://github.com/bfirsh/jsnes/issues/150)
+- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
+- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Contacts should show URLs for IOS & other applications.](https://github.com/nextcloud/contacts/issues/4591)
 
 ## [processing/p5.js](https://github.com/processing/p5.js)
 
@@ -49,10 +59,6 @@ This list gets updated every day at midnight.
 - [[2.0] Document workarounds for inter-addon dependencies](https://github.com/processing/p5.js/issues/7798)
 - [Proposal: API audit](https://github.com/processing/p5.js/issues/7460)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-
 ## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
 
 - [Support `xOffset` and `yOffset` as encoding channels](https://github.com/genome-spy/genome-spy/issues/230)
@@ -60,230 +66,91 @@ This list gets updated every day at midnight.
 - [Arrow mark](https://github.com/genome-spy/genome-spy/issues/139)
 - [Allow viewport clipping to be defined separately for `x` and `y` directions](https://github.com/genome-spy/genome-spy/issues/237)
 
-## [akctba/weather-react-app](https://github.com/akctba/weather-react-app)
+## [nextcloud/collectives](https://github.com/nextcloud/collectives)
 
-- [🧹 Remove console.log Statements from Production Code](https://github.com/akctba/weather-react-app/issues/30)
-- [🧹 Remove Duplicate API Configuration](https://github.com/akctba/weather-react-app/issues/35)
-- [📝 Add .env.example File](https://github.com/akctba/weather-react-app/issues/33)
-- [🔧 Fix Component Naming Convention in LanguageCombo](https://github.com/akctba/weather-react-app/issues/31)
-- [🧹 Remove Commented Out Code](https://github.com/akctba/weather-react-app/issues/25)
-- [♿ ACCESSIBILITY: Missing Label for Search Input](https://github.com/akctba/weather-react-app/issues/22)
+- [Allow to rename Collective for admins](https://github.com/nextcloud/collectives/issues/1716)
 
-## [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Support Julian and other non-Gregorian calendars in date inputs](https://github.com/gramps-project/gramps-web/issues/273)
-
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
-
-- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
-- [Flatpak Mainfest / Builder Schema](https://github.com/SchemaStore/schemastore/issues/5094)
-
-## [Northeastern-Science-Magazine/nusci-backend](https://github.com/Northeastern-Science-Magazine/nusci-backend)
-
-- [Move password hashing to new auth file](https://github.com/Northeastern-Science-Magazine/nusci-backend/issues/307)
-- [Move Login Token Signing to new Auth file](https://github.com/Northeastern-Science-Magazine/nusci-backend/issues/306)
-
-## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
-
-- [Suggestion: allow fetching markets that are closed](https://github.com/pmxt-dev/pmxt/issues/33)
-- [Improve Limitless exchange limit handling and implement pagination](https://github.com/pmxt-dev/pmxt/issues/34)
-- [Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency](https://github.com/pmxt-dev/pmxt/issues/29)
-- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
-- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
-- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
-- [[Python] Implement resolution_date parsing in UnifiedMarket](https://github.com/pmxt-dev/pmxt/issues/15)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
-- [[UI] Community Handbook Faq page need to be enhanced](https://github.com/layer5io/layer5/issues/4518)
-- [The text and layout need to be adjusted for better readability and usability across different screen sizes.](https://github.com/layer5io/layer5/issues/5640)
-- [add kanvas pop up](https://github.com/layer5io/layer5/issues/6444)
-
-## [olaoluthomas/timezone-app](https://github.com/olaoluthomas/timezone-app)
-
-- [feat: add .env.example file for developer onboarding](https://github.com/olaoluthomas/timezone-app/issues/40)
-- [refactor: remove unnecessary Promise.resolve() wrapper in health.js](https://github.com/olaoluthomas/timezone-app/issues/37)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
-
-## [sarojit049/Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines)
-
-- [Issue 1: Add README section for local & production setup](https://github.com/sarojit049/Fleetiva-Roadlines/issues/1)
-- [🐛 Issue: Welcome Contributors – Pick Tasks & Start Contributing](https://github.com/sarojit049/Fleetiva-Roadlines/issues/7)
-
-## [dosmetin10/MTN-ENERJ-M-HEND-SL-K-MUHASEBE-](https://github.com/dosmetin10/MTN-ENERJ-M-HEND-SL-K-MUHASEBE-)
-
-- [ASD](https://github.com/dosmetin10/MTN-ENERJ-M-HEND-SL-K-MUHASEBE-/issues/33)
-- [MTN](https://github.com/dosmetin10/MTN-ENERJ-M-HEND-SL-K-MUHASEBE-/issues/32)
-
-## [Gooichand/blockchain-evidence](https://github.com/Gooichand/blockchain-evidence)
-
-- [Update README Folder Structure Documentation](https://github.com/Gooichand/blockchain-evidence/issues/169)
-- [Missing Password Visibility Toggle in Login & Register Forms](https://github.com/Gooichand/blockchain-evidence/issues/178)
+- [Bundle docs dependencies](https://github.com/HeyPuter/puter/issues/2361)
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
 
 ## [humanchaos/factcheck](https://github.com/humanchaos/factcheck)
 
 - [Logic – Implement Domain Whitelisting](https://github.com/humanchaos/factcheck/issues/3)
 - [UI Polishing – Add a "Loading" State](https://github.com/humanchaos/factcheck/issues/2)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10112)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/skewness`](https://github.com/stdlib-js/stdlib/issues/3497)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3491)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10073)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10042)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10017)
-- [Fix broken Markdown link: https://doi.org/10.1145/3221664.3221674](https://github.com/stdlib-js/stdlib/issues/10018)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10000)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9867)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
-- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
-- [[RFC]: use string interpolation in JavaScript benchmarks for the benchmark name (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8647)
+- [Suggested feature: Export mouse animation and music together](https://github.com/sugarlabs/musicblocks/issues/1673)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
 
-## [remo-imparato/SimilarArtistsMM5](https://github.com/remo-imparato/SimilarArtistsMM5)
+## [sarojit049/Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines)
 
-- [Limit search to specific collection ](https://github.com/remo-imparato/SimilarArtistsMM5/issues/15)
-- [Playlist Name include album/track/artist](https://github.com/remo-imparato/SimilarArtistsMM5/issues/16)
-- [Shopping List](https://github.com/remo-imparato/SimilarArtistsMM5/issues/13)
-- [Add a feature for High Target playlists (Party Lists)](https://github.com/remo-imparato/SimilarArtistsMM5/issues/6)
+- [Issue 1: Add README section for local & production setup](https://github.com/sarojit049/Fleetiva-Roadlines/issues/1)
+- [🐛 Issue: Welcome Contributors – Pick Tasks & Start Contributing](https://github.com/sarojit049/Fleetiva-Roadlines/issues/7)
 
-## [orion-ai-community/BizzAI](https://github.com/orion-ai-community/BizzAI)
+## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
 
-- [Bug: Pending Due field is not clearly visible in light mode on Return page](https://github.com/orion-ai-community/BizzAI/issues/152)
-- [Bug: Sales Report Columns Dropdown Overflows Page Layout](https://github.com/orion-ai-community/BizzAI/issues/235)
-- [Bug: Delivery Challan / Invoice preview does not switch to Dark Mode colors](https://github.com/orion-ai-community/BizzAI/issues/189)
-- [Bug: GST Breakdown Missing in Invoice Total](https://github.com/orion-ai-community/BizzAI/issues/180)
+- [🐛 Fix: React Testing Library Act Warnings in Component Tests](https://github.com/lokus-ai/lokus/issues/15)
+- [[Mobile]: Gracefully handle file dialog unavailability on mobile](https://github.com/lokus-ai/lokus/issues/336)
+- [[Bug]: Replace window.confirm() with custom confirmation dialog](https://github.com/lokus-ai/lokus/issues/297)
+- [[Feature] Implement Daily Notes (Empty Directory Exists)](https://github.com/lokus-ai/lokus/issues/167)
+- [[Feature]: Implement star/favorite toggle for emails](https://github.com/lokus-ai/lokus/issues/291)
+- [File explorer: Auto-select filename (without extension) on rename](https://github.com/lokus-ai/lokus/issues/365)
+- [⭐ Feature: Starred/Bookmarked Files](https://github.com/lokus-ai/lokus/issues/56)
+- [🚀 Feature: Add Command Palette Search History](https://github.com/lokus-ai/lokus/issues/14)
+- [[Feature]: Add loading states for async operations](https://github.com/lokus-ai/lokus/issues/293)
+- [[Mobile]: Make a design for iOS and Android version of the app](https://github.com/lokus-ai/lokus/issues/359)
+- [[Mobile]: Wrap global shortcut registration in isDesktop() check](https://github.com/lokus-ai/lokus/issues/317)
+- [[Bug]: Icon-only buttons missing accessibility labels](https://github.com/lokus-ai/lokus/issues/287)
+- [[Mobile]: Add hasCapability() utility for checking platform features](https://github.com/lokus-ai/lokus/issues/322)
+- [[Mobile]: Add haptic feedback utility for touch interactions](https://github.com/lokus-ai/lokus/issues/333)
+- [[Mobile]: Disable MCP/Plugin server features on mobile](https://github.com/lokus-ai/lokus/issues/338)
+- [[Mobile]: Create useLongPress hook for context menu alternative](https://github.com/lokus-ai/lokus/issues/325)
+- [[Mobile]: Add touch event handlers to SplitEditor pane resizer](https://github.com/lokus-ai/lokus/issues/324)
+- [[Mobile]: Replace hover states with active states for touch feedback](https://github.com/lokus-ai/lokus/issues/316)
+- [[Mobile]: Increase touch target size for StatusBar items (44px minimum)](https://github.com/lokus-ai/lokus/issues/314)
+- [[Mobile]: Make tab close button always visible on touch devices](https://github.com/lokus-ai/lokus/issues/313)
+- [[Mobile]: Add safe-area-inset-bottom to StatusBar for iOS home indicator](https://github.com/lokus-ai/lokus/issues/312)
 
-## [fastify/fastify](https://github.com/fastify/fastify)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Check invalid links](https://github.com/fastify/fastify/issues/6385)
-- [invalid: improve server.md TOC](https://github.com/fastify/fastify/pull/6161)
-- [docs: Codemods for Upgrading to fastify v5](https://github.com/fastify/fastify/pull/5717)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
 
-## [nextcloud/text](https://github.com/nextcloud/text)
+## [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)
 
-- [Make inserting mermaid diagrams more obvious](https://github.com/nextcloud/text/issues/8232)
+- [Add a typing animation to the heading “Welcome to VigyBag”](https://github.com/codervivek5/VigyBag/issues/2591)
+- [UI enhancement of the homepage](https://github.com/codervivek5/VigyBag/issues/2623)
+- [Adjusting the length of sidebar till navbar](https://github.com/codervivek5/VigyBag/issues/2405)
+- [Main Product Image Does Not Update on Thumbnail Click](https://github.com/codervivek5/VigyBag/issues/2688)
+- [Resize 'home page' and make it responsive](https://github.com/codervivek5/VigyBag/issues/849)
+- [Enhance the navbar](https://github.com/codervivek5/VigyBag/issues/2570)
+- [Make Active Links More Interactive in Navbar](https://github.com/codervivek5/VigyBag/issues/2590)
+- [BUG: The Chatbot is Overlapping to Scrollbar Button](https://github.com/codervivek5/VigyBag/issues/1877)
+- [UI Enhancement in Contact Us](https://github.com/codervivek5/VigyBag/issues/2393)
 
-## [TimChinye/Inspector](https://github.com/TimChinye/Inspector)
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-- [Bug: Some themes don't work](https://github.com/TimChinye/Inspector/issues/11)
-- [FR: Allow us to drag & drop a link (text) and have it run (currently you have to copy & paste).](https://github.com/TimChinye/Inspector/issues/5)
-- [FR: Add option to remove one specific file from history](https://github.com/TimChinye/Inspector/issues/14)
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
 
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
 
-- [Use i18n for common strings](https://github.com/nodejs/doc-kit/issues/280)
-- [Tests for `metadata` generator](https://github.com/nodejs/doc-kit/issues/491)
-- [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
-- [Generating the Stability Overview](https://github.com/nodejs/doc-kit/issues/357)
+- [[Heads up] @nevuamarkets/poly-websockets license updated to MIT](https://github.com/pmxt-dev/pmxt/issues/35)
+- [Suggestion: allow fetching markets that are closed](https://github.com/pmxt-dev/pmxt/issues/33)
+- [Improve Limitless exchange limit handling and implement pagination](https://github.com/pmxt-dev/pmxt/issues/34)
+- [Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency](https://github.com/pmxt-dev/pmxt/issues/29)
+- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
+- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
+- [[Feature] Support Exact Ticker/ID matches in searchMarkets](https://github.com/pmxt-dev/pmxt/issues/23)
 
 ## [stylelint/stylelint](https://github.com/stylelint/stylelint)
 
 - [Fix `no-duplicate-selectors` false negatives for matching escaped selectors](https://github.com/stylelint/stylelint/issues/3972)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [Schema-less HTTP_PROXY and HTTPS_PROXY env vars should maybe assume `http`](https://github.com/nodejs/undici/issues/4736)
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
-
-## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-
-- [Missing translation for "Member since" for arabic language on User dashboard](https://github.com/CircuitVerse/CircuitVerse/issues/6002)
-- [The Welcome Email has broken UI elements](https://github.com/CircuitVerse/CircuitVerse/issues/5984)
-- [Text is not completely highlighted on hover](https://github.com/CircuitVerse/CircuitVerse/issues/2919)
-- [Notifications not properly visible on clicking notfication bell icon on Home page for arabic language](https://github.com/CircuitVerse/CircuitVerse/issues/6003)
-- [align `view` button with project title in projects list](https://github.com/CircuitVerse/CircuitVerse/issues/4107)
-- [🐞 Bug  Spacing issue between the CAPTCHA and the login button.](https://github.com/CircuitVerse/CircuitVerse/issues/5442)
-- [Docker node source deprecation ](https://github.com/CircuitVerse/CircuitVerse/issues/4048)
-- [feat: clear all button for notifications](https://github.com/CircuitVerse/CircuitVerse/issues/3328)
-- [UI Improvements for Group Page Layout & Styling](https://github.com/CircuitVerse/CircuitVerse/issues/5369)
-- [Create "Humans of CircuitVerse" markdown page](https://github.com/CircuitVerse/CircuitVerse/issues/2005)
-- [UI Improvement of Edit Details Page](https://github.com/CircuitVerse/CircuitVerse/issues/4470)
-- [🐞 Bug Ui Alignment under the Assignment section](https://github.com/CircuitVerse/CircuitVerse/issues/5541)
-- [A view option in menu bar.](https://github.com/CircuitVerse/CircuitVerse/issues/1966)
-- [Making cards for all the contributors in about page ](https://github.com/CircuitVerse/CircuitVerse/issues/2194)
-- [Integrate sentry for Simulator](https://github.com/CircuitVerse/CircuitVerse/issues/4962)
-- [Improved Design For Footer](https://github.com/CircuitVerse/CircuitVerse/issues/4563)
-- [Fix notifications when the projects or users are deleted](https://github.com/CircuitVerse/CircuitVerse/issues/4904)
-
-## [ProjectEvergreen/wcc](https://github.com/ProjectEvergreen/wcc)
-
-- [narrow popover related attribute types to just `<button>` and `<input>` elements](https://github.com/ProjectEvergreen/wcc/issues/236)
-- [optimize how initial HTML is set on initial render for JSX usage (Shadow DOM detection)](https://github.com/ProjectEvergreen/wcc/issues/138)
-
-## [AOSSIE-Org/Resonate-Website](https://github.com/AOSSIE-Org/Resonate-Website/pull/170)
-
-- [update-dependencies](https://github.com/AOSSIE-Org/Resonate-Website/pull/170)
-- [Fix/image lazy loading](https://github.com/AOSSIE-Org/Resonate-Website/pull/166)
-- [cleanup : Clean the unsued logo of default react project](https://github.com/AOSSIE-Org/Resonate-Website/pull/231)
-- [Cleanup: There are unused images and svg of the default app](https://github.com/AOSSIE-Org/Resonate-Website/issues/230)
-- [fix: update Next.js to 16.1.6 to resolve security vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/pull/259)
-- [Doc/update url of CONTRIBUTING.md file in README file and readme guide to work on dev ](https://github.com/AOSSIE-Org/Resonate-Website/pull/140)
-- [Add Alt-text for improve Accessibility and SEO](https://github.com/AOSSIE-Org/Resonate-Website/pull/253)
-- [Security: Update Next.js to 16.1.6 to Fix High Severity DoS Vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/issues/258)
-- [Improve Website SEO and Content Structure for Better Discoverability](https://github.com/AOSSIE-Org/Resonate-Website/issues/180)
-- [feat: updated Readme and Links](https://github.com/AOSSIE-Org/Resonate-Website/pull/63)
-- [Image Optimization: No Visible Lazy Loading Implementation for Images](https://github.com/AOSSIE-Org/Resonate-Website/issues/165)
-- [UI/UX: Prevent Dragging & Selection of  Images](https://github.com/AOSSIE-Org/Resonate-Website/issues/70)
-- [Duplicate Issue Detector and labelling as "Duplicate"](https://github.com/AOSSIE-Org/Resonate-Website/issues/216)
-- [Adding CODEOWNERS file to the ```new-design``` branch](https://github.com/AOSSIE-Org/Resonate-Website/issues/203)
-- [Remove unused image assets replaced by icon-based buttons](https://github.com/AOSSIE-Org/Resonate-Website/issues/206)
-- [DOC: updating README file to work on dev branch and updating CONTRIBUTING.md file URL in README file](https://github.com/AOSSIE-Org/Resonate-Website/issues/125)
-- [Security Vulnerability & Accessibility: External links missing rel="noopener" and aria-labels](https://github.com/AOSSIE-Org/Resonate-Website/issues/124)
-- [Accessibility & SEO Improvements (Alt Text + ARIA Labels)](https://github.com/AOSSIE-Org/Resonate-Website/issues/83)
-- [UI/UX Update: Add Dark Mode Support](https://github.com/AOSSIE-Org/Resonate-Website/issues/55)
-
-## [aradhyacp/LifeGrid](https://github.com/aradhyacp/LifeGrid)
-
-- [BUG: Production Wallpapers Show Wrong Font for % Completed Compared to Preview](https://github.com/aradhyacp/LifeGrid/issues/24)
-- [Expanding LifeGrid to macOS - Need Layout Designs for Core Wallpapers](https://github.com/aradhyacp/LifeGrid/issues/23)
-- [Improve overall SEO for static frontend (semantic HTML, structure, crawlability)](https://github.com/aradhyacp/LifeGrid/issues/4)
-- [Add theme switcher (Light / Dark mode)](https://github.com/aradhyacp/LifeGrid/issues/17)
-- [Add new layout designs for Year Progress, Life Calendar, and Goal Countdown](https://github.com/aradhyacp/LifeGrid/issues/7)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
-
-## [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
-
-- [Enhance help sync test to verify subcommand documentation](https://github.com/eyaltoledano/claude-task-master/issues/1596)
-- [Add lint/test to ensure help documentation stays in sync with commands](https://github.com/eyaltoledano/claude-task-master/issues/1594)
-
-## [Dipanita45/HEALCONNECT](https://github.com/Dipanita45/HEALCONNECT)
-
-- [Enhance Contact Page UI/UX for Accessibility and Layout Efficiency](https://github.com/Dipanita45/HEALCONNECT/issues/286)
-- [Refactor Signup and Login pages to utilize installed 'react-hook-form' library](https://github.com/Dipanita45/HEALCONNECT/issues/280)
-- [Bug UI: The Dr. Emily Rodriguez image card does not show their face.](https://github.com/Dipanita45/HEALCONNECT/issues/269)
-- [bug report:  Live Demo Link Not Working](https://github.com/Dipanita45/HEALCONNECT/issues/273)
-- [[BUG] Accessibility and animation performance issues on `faq.js`](https://github.com/Dipanita45/HEALCONNECT/issues/266)
-- [Bug: Light/Dark theme toggle not working on login page](https://github.com/Dipanita45/HEALCONNECT/issues/262)
-- [Enhancement: Contrast issue of Toggle Icon in Dark Mode](https://github.com/Dipanita45/HEALCONNECT/issues/243)
-
-## [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
-
-- [Suggestion: add a property called shouldRender to renderMathInElement options](https://github.com/KaTeX/KaTeX/issues/691)
-
-## [publicmap/amche-atlas](https://github.com/publicmap/amche-atlas)
-
-- [Fresh proposals for amche.in logo](https://github.com/publicmap/amche-atlas/issues/189)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Docs: Interactivity API - Rename "API Reference" to "Directives and Store API Reference"](https://github.com/WordPress/gutenberg/issues/61207)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Duplicate colors in palette causes issues](https://github.com/WordPress/gutenberg/issues/9357)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
 
 ## [hackforla/website](https://github.com/hackforla/website)
 
@@ -294,4 +161,153 @@ This list gets updated every day at midnight.
 - [Update Project Profile: Hackforla.org Website Add Kerstin Carson](https://github.com/hackforla/website/issues/8440)
 - [Update Project Profile: Website- Remove Ren Demeis-Ortiz](https://github.com/hackforla/website/issues/8450)
 - [Update Project Profile: Expunge Assist Add Farnaz S](https://github.com/hackforla/website/issues/8318)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
+- [Configurable timeout for DNS monitor](https://github.com/louislam/uptime-kuma/issues/6825)
+- [PagerDuty Alerts have [undefined] title section](https://github.com/louislam/uptime-kuma/issues/2315)
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
+
+## [Dipanita45/HEALCONNECT](https://github.com/Dipanita45/HEALCONNECT)
+
+- [Refactor Signup and Login pages to utilize installed 'react-hook-form' library](https://github.com/Dipanita45/HEALCONNECT/issues/280)
+- [Bug UI: The Dr. Emily Rodriguez image card does not show their face.](https://github.com/Dipanita45/HEALCONNECT/issues/269)
+- [[BUG] Accessibility and animation performance issues on `faq.js`](https://github.com/Dipanita45/HEALCONNECT/issues/266)
+- [Bug: Light/Dark theme toggle not working on login page](https://github.com/Dipanita45/HEALCONNECT/issues/262)
+
+## [falling-fruit/falling-fruit-web](https://github.com/falling-fruit/falling-fruit-web)
+
+- [Use HTML dropdowns (`<select>`) for native UI on mobile](https://github.com/falling-fruit/falling-fruit-web/issues/807)
+- [Improve label styling](https://github.com/falling-fruit/falling-fruit-web/issues/961)
+- [Use expires_in property of access tokens](https://github.com/falling-fruit/falling-fruit-web/issues/620)
+- [Add `knip` to the build to catch unused code](https://github.com/falling-fruit/falling-fruit-web/issues/784)
+- [Improve mobile photo viewer: let modal fill entire screen and allow zooming into photos](https://github.com/falling-fruit/falling-fruit-web/issues/733)
+- [Follow botanical convention when displaying names of cultivars](https://github.com/falling-fruit/falling-fruit-web/issues/762)
+
+## [Antarik06/Procastify--AI-Powered-Learning-App](https://github.com/Antarik06/Procastify--AI-Powered-Learning-App)
+
+- [Add Folder Support to Organize Notes](https://github.com/Antarik06/Procastify--AI-Powered-Learning-App/issues/32)
+- [Enhance Landing Page with Product Showcase Sections (Inspired by Appwrite / Supabase)](https://github.com/Antarik06/Procastify--AI-Powered-Learning-App/issues/30)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [fix(ci.yml): false positive triggers script validation failure on force push](https://github.com/Ryan-Millard/Img2Num/issues/153)
+- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
+- [Integrate `check-spelling` into CI to catch documentation typos automatically](https://github.com/Ryan-Millard/Img2Num/issues/227)
+
+## [Tadreeb-LMS/tadreeblms](https://github.com/Tadreeb-LMS/tadreeblms)
+
+- [Enhancement: Add Date Column in User Feedback Answers](https://github.com/Tadreeb-LMS/tadreeblms/issues/165)
+- [Issue: Poor UX on Login Page – CAPTCHA & Login Button Hidden](https://github.com/Tadreeb-LMS/tadreeblms/issues/155)
+- [Enhancement: Add Edit Feedback Question (Separate Page)](https://github.com/Tadreeb-LMS/tadreeblms/issues/161)
+- [Enhancement: Add Filters to User Feedback Answers Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/162)
+- [Enhancement: Make Dashboard Summary Cards Fully Clickable](https://github.com/Tadreeb-LMS/tadreeblms/issues/156)
+- [Simplify Course Assignment Page – Remove Unnecessary Fields](https://github.com/Tadreeb-LMS/tadreeblms/issues/105)
+- [Enhancement : Show course start date and expiry date in courses list table](https://github.com/Tadreeb-LMS/tadreeblms/issues/109)
+- [page crash : Position CRUD page returns 401 Unauthorized when accessed from side menu](https://github.com/Tadreeb-LMS/tadreeblms/issues/85)
+- [UI/UX Design Uplift for Create Role & Permission Management Screen](https://github.com/Tadreeb-LMS/tadreeblms/issues/125)
+- [Enhancement: Expired Courses Shown as Draft Instead of "Expired"](https://github.com/Tadreeb-LMS/tadreeblms/issues/146)
+- [Bug: Delete Button Not Working for Course Feedback Questions](https://github.com/Tadreeb-LMS/tadreeblms/issues/145)
+- [Bug: Course Questions Page Crashes When Opened from Side Menu](https://github.com/Tadreeb-LMS/tadreeblms/issues/143)
+- [Enhancement: Reuse Email After User Deletion (Soft Delete Support)](https://github.com/Tadreeb-LMS/tadreeblms/issues/147)
+- [Feature : Add refresh option for captcha on login page](https://github.com/Tadreeb-LMS/tadreeblms/issues/67)
+- [“Add New Lesson” Redirects to 404 Instead of Lesson Creation Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/97)
+- [Hide Lesson Start Date Field When Course Type Is E-Learning](https://github.com/Tadreeb-LMS/tadreeblms/issues/94)
+- [Page Crash : Re-login as Administrator crashes page after logging in as Teacher](https://github.com/Tadreeb-LMS/tadreeblms/issues/81)
+- [BUG : Department page returns 401 Unauthorized when accessed from side menu](https://github.com/Tadreeb-LMS/tadreeblms/issues/86)
+- [Bug : Student completed course page returns 404 error](https://github.com/Tadreeb-LMS/tadreeblms/issues/115)
+- [Enhancement : Automatically unpublish courses after expiry date](https://github.com/Tadreeb-LMS/tadreeblms/issues/110)
+- [BUG UI : Action buttons in Trainers Trash view do not match TadreebLMS theme](https://github.com/Tadreeb-LMS/tadreeblms/issues/54)
+- [UI/UX : Mandatory fields are not indicated on Internal Trainee create page](https://github.com/Tadreeb-LMS/tadreeblms/issues/73)
+- [Inconsistent Fields Displayed in “Add More Lessons” Form](https://github.com/Tadreeb-LMS/tadreeblms/issues/96)
+- [Integrate with SSO: LDAP/Exchange/Microsoft Office365 with RBAC support](https://github.com/Tadreeb-LMS/tadreeblms/issues/2)
+- [UI / UX : Hide External Trainee section from admin panel (do not remove)](https://github.com/Tadreeb-LMS/tadreeblms/issues/79)
+- [BUG : UI/UX Duplicate password visibility button is rendered on Internal Trainee create page](https://github.com/Tadreeb-LMS/tadreeblms/issues/72)
+
+## [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)
+
+- [Removal of JQuery to Vue's reactives](https://github.com/CircuitVerse/cv-frontend-vue/issues/433)
+- [Feature: Javascript to Typescript conversion in the src folder](https://github.com/CircuitVerse/cv-frontend-vue/issues/661)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
+
+## [siegaarjay-hue/codex-web-app](https://github.com/siegaarjay-hue/codex-web-app)
+
+- [Improve first-time contributor experience in CONTRIBUTING.md](https://github.com/siegaarjay-hue/codex-web-app/issues/4)
+- [Add npm script for real capture and media sanity check](https://github.com/siegaarjay-hue/codex-web-app/issues/3)
+- [Document real media capture workflow for README assets](https://github.com/siegaarjay-hue/codex-web-app/issues/2)
+- [Add visual regression test for mobile sidebar behavior](https://github.com/siegaarjay-hue/codex-web-app/issues/1)
+
+## [UniversityOfHelsinkiCS/palaute](https://github.com/UniversityOfHelsinkiCS/palaute)
+
+- [Add cur name as an option to search feedback targets](https://github.com/UniversityOfHelsinkiCS/palaute/issues/1605)
+- [Create admin button for clearing feedback target cache](https://github.com/UniversityOfHelsinkiCS/palaute/issues/1585)
+
+## [orion-ai-community/BizzAI](https://github.com/orion-ai-community/BizzAI)
+
+- [Bug: Pending Due field is not clearly visible in light mode on Return page](https://github.com/orion-ai-community/BizzAI/issues/152)
+- [Bug: Sales Report Columns Dropdown Overflows Page Layout](https://github.com/orion-ai-community/BizzAI/issues/235)
+- [Bug: Delivery Challan / Invoice preview does not switch to Dark Mode colors](https://github.com/orion-ai-community/BizzAI/issues/189)
+- [Bug: GST Breakdown Missing in Invoice Total](https://github.com/orion-ai-community/BizzAI/issues/180)
+
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
+
+- [[Bug]: 8 Pages have problems of Cumulative Layout Shift (CLS)](https://github.com/physicshub/physicshub.github.io/issues/185)
+- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
+- [[Bug]: On Github Action, contributors page doesn't update because of max requests reached](https://github.com/physicshub/physicshub.github.io/issues/151)
+
+## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+- [Request: SMA Solar Technology AG](https://github.com/simple-icons/simple-icons/issues/11547)
+- [Request: Helium10](https://github.com/simple-icons/simple-icons/issues/12255)
+- [Request: Update Corsair Source URL](https://github.com/simple-icons/simple-icons/issues/14252)
+- [Update various broken source/guidelines links](https://github.com/simple-icons/simple-icons/issues/11901)
+
+## [nextcloud/deck](https://github.com/nextcloud/deck)
+
+- [Small dark mode issue](https://github.com/nextcloud/deck/issues/7539)
+
+## [fastify/fastify](https://github.com/fastify/fastify)
+
+- [Check invalid links](https://github.com/fastify/fastify/issues/6385)
+- [invalid: improve server.md TOC](https://github.com/fastify/fastify/pull/6161)
+- [docs: Codemods for Upgrading to fastify v5](https://github.com/fastify/fastify/pull/5717)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Unknown error at connectivity check with TURN Server when user is not in "Limit to Groups" list and  `turns: only` is selected](https://github.com/nextcloud/spreed/issues/11550)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+- [Guest: Ability to change name in personal controls 3-dot-menu as well as in participant list](https://github.com/nextcloud/spreed/issues/5028)
+- [Remove room description field in video verification room](https://github.com/nextcloud/spreed/issues/5327)
+- [Default value for message expiration](https://github.com/nextcloud/spreed/issues/9732)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Show emoji name on mouseover](https://github.com/nextcloud/spreed/issues/14446)
+- [ Enter and Shift+Enter for the send key in Chat function.](https://github.com/nextcloud/spreed/issues/3268)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
+- [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
+
+## [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+
+- [【紧急修复】Notion近期修改了數據格式，NotionNext需要升級到4.9.3](https://github.com/tangly1024/NotionNext/issues/3749)
+
+## [Dutta2005/ai-docs-or-blog-summarizer](https://github.com/Dutta2005/ai-docs-or-blog-summarizer)
+
+- [Fix markdown summary output rendering (currently displayed as raw text)](https://github.com/Dutta2005/ai-docs-or-blog-summarizer/issues/4)
+- [Add user-friendly error messages for API failures](https://github.com/Dutta2005/ai-docs-or-blog-summarizer/issues/1)
 
