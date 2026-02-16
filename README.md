@@ -3,6 +3,29 @@
 This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!
 
 This list gets updated every day at midnight.
+# Good First Issues
+
+This repository lists JavaScript projects with "good first issues" for newcomers to open source.
+Contributions are welcome! The list is updated daily at midnight.
+
+## How to Use This Repository
+
+1. Browse the repositories and issues listed below.
+2. Click on the issue link to view it on GitHub.
+3. Pick an issue labeled "good first issue" to start contributing.
+4. Fork the repo and create a PR once you have made changes.
+
+## Example Contribution Workflow
+
+```bash
+# Fork this repository
+git clone https://github.com/<your-username>/js-good-first-issues-finder.git
+
+# Make your changes
+# Commit your updates
+git push origin <your-branch>
+
+# Create a pull request on GitHub
 
 ## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
