@@ -4,9 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [ringo380/guides](https://github.com/ringo380/guides)
 
-- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
+- [Move logo-philosophy.md out of assets](https://github.com/ringo380/guides/issues/52)
+- [Create Dev Zero/Perl index README.md](https://github.com/ringo380/guides/issues/51)
+- [Create Git section index README.md](https://github.com/ringo380/guides/issues/49)
+- [Add navigation footers to Perl guides](https://github.com/ringo380/guides/issues/33)
+- [Fix broken Vimbook link in Perl Roadmap](https://github.com/ringo380/guides/issues/25)
+- [Fix truncated bibliography in Perl Developer Roadmap](https://github.com/ringo380/guides/issues/22)
+- [Add navigation footer to Databases guide](https://github.com/ringo380/guides/issues/18)
+- [Add repo_url, site_author, and copyright to mkdocs.yml](https://github.com/ringo380/guides/issues/17)
+- [Create Databases section index README.md](https://github.com/ringo380/guides/issues/15)
+- [Fix typo 'diferent' in Databases guide](https://github.com/ringo380/guides/issues/13)
+- [Add pip dependency caching to CI pipeline](https://github.com/ringo380/guides/issues/10)
+- [Add navigation footer to Git guide](https://github.com/ringo380/guides/issues/7)
+- [Update Git guide master terminology to include main](https://github.com/ringo380/guides/issues/6)
+- [Fix hardcoded Mermaid theme: dark in Git guide](https://github.com/ringo380/guides/issues/4)
+- [Fix typos in Git guide introduction](https://github.com/ringo380/guides/issues/3)
+
+## [DayZAnder/llm-os](https://github.com/DayZAnder/llm-os)
+
+- [Architecture Documentation & Diagrams](https://github.com/DayZAnder/llm-os/issues/10)
+- [Desktop Shell — Tauri v2 wrapper](https://github.com/DayZAnder/llm-os/issues/9)
+- [@llm-os/sdk — The API surface for generated apps](https://github.com/DayZAnder/llm-os/issues/7)
+
+## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+
+- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -16,29 +44,34 @@ This list gets updated every day at midnight.
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [DataForm: Focus loss when collapsing in Card view](https://github.com/WordPress/gutenberg/issues/73242)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
 - [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
 - [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
 - [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+## [WoodenKhrystyn-FS/my-portfolio](https://github.com/WoodenKhrystyn-FS/my-portfolio)
 
-- [Replace deprecated IConfig methods with IAppConfig and IUserConfig](https://github.com/LibreSign/libresign/issues/6855)
-- [Replace the screenshot at README.md by a screenshot of newest interface](https://github.com/LibreSign/libresign/issues/5104)
-- [Create ISetupCheck support implementation](https://github.com/LibreSign/libresign/issues/6590)
-- [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
-- [Add Unified Search Provider for LibreSign](https://github.com/LibreSign/libresign/issues/6027)
+- [Frontend](https://github.com/WoodenKhrystyn-FS/my-portfolio/issues/3)
+- [Tech Stack](https://github.com/WoodenKhrystyn-FS/my-portfolio/issues/2)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
 
-## [rahulnshah/web-highlighter](https://github.com/rahulnshah/web-highlighter)
+## [Serenamidori/tv-time-tenna-bot](https://github.com/Serenamidori/tv-time-tenna-bot)
 
-- [migrate project to typescript](https://github.com/rahulnshah/web-highlighter/issues/22)
+- [Add dialogue for users wanting to watch TV](https://github.com/Serenamidori/tv-time-tenna-bot/issues/57)
+- [Add Tenna to character mentions](https://github.com/Serenamidori/tv-time-tenna-bot/issues/56)
 
-## [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+## [ianfhunter/Enigma](https://github.com/ianfhunter/Enigma)
 
-- [[gatsby-transformer-javascript-frontmatter] Frontmatter export breaks HMR](https://github.com/gatsbyjs/gatsby/issues/35756)
+- [[BUG] Black Box doesn't describe the game rules well on the game page](https://github.com/ianfhunter/Enigma/issues/188)
+- [[FEATURE] Countdown Letters should have a "Choose for me" button](https://github.com/ianfhunter/Enigma/issues/170)
+- [[FEATURE] Improved Language Translations](https://github.com/ianfhunter/Enigma/issues/114)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
@@ -46,47 +79,25 @@ This list gets updated every day at midnight.
 - [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
 - [Configurable timeout for DNS monitor](https://github.com/louislam/uptime-kuma/issues/6825)
 
-## [darfaz/clawmoat](https://github.com/darfaz/clawmoat)
+## [nextcloud/tables](https://github.com/nextcloud/tables)
 
-- [Docker support](https://github.com/darfaz/clawmoat/issues/3)
-- [Add CrewAI middleware](https://github.com/darfaz/clawmoat/issues/2)
-- [Add LangChain integration](https://github.com/darfaz/clawmoat/issues/1)
+- [Change all occurrences of "circle" to "team"](https://github.com/nextcloud/tables/issues/2249)
 
-## [processing/p5.js](https://github.com/processing/p5.js)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
-- [[p5.js 2.0 Bug Report]: build*Shader methods don't work yet in instance mode](https://github.com/processing/p5.js/issues/8520)
-- [[2.0] Deprecate `array()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8151)
-- [[2.0] Add array, vector overloads to `createVector()` for consistency](https://github.com/processing/p5.js/issues/8157)
-- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
-- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
-- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
-- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
-- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
+- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
 
-## [gbowne1/codestream](https://github.com/gbowne1/codestream)
+## [badges/shields](https://github.com/badges/shields)
 
-- [[Feature] Live Indicator & Viewer count](https://github.com/gbowne1/codestream/issues/28)
-- [[TODO] needs CSS media breakpoints](https://github.com/gbowne1/codestream/issues/3)
-- [[TODO] separate frontend code from backend code](https://github.com/gbowne1/codestream/issues/77)
-- [[Feature] Add a chat and use websockets](https://github.com/gbowne1/codestream/issues/52)
-- [Validate roomId in WebRTC signaling handlers](https://github.com/gbowne1/codestream/issues/106)
-- [Restrict start-stream event to authenticated users](https://github.com/gbowne1/codestream/issues/105)
-- [[TODO][Enhance] Separate main.js](https://github.com/gbowne1/codestream/issues/78)
-- [[Enhancement] add /health endpoint](https://github.com/gbowne1/codestream/issues/76)
-- [Fix: Service Worker Fails to Fetch Uncached Resources](https://github.com/gbowne1/codestream/issues/2)
-
-## [pmoney817/scorekeeper](https://github.com/pmoney817/scorekeeper)
-
-- [Add .gitignore file](https://github.com/pmoney817/scorekeeper/issues/4)
-- [Add missing pages/_app.js for global CSS](https://github.com/pmoney817/scorekeeper/issues/2)
-- [Add package-lock.json for reproducible builds](https://github.com/pmoney817/scorekeeper/issues/8)
-- [Fix empty postcss.config.js breaking Tailwind CSS](https://github.com/pmoney817/scorekeeper/issues/3)
+- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
+- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [[ACTION] Trengo get email message content](https://github.com/PipedreamHQ/pipedream/issues/20040)
+- [[Bug]  google_calendar-update-following-instances duplicates the first instance when rescheduling a recurring event](https://github.com/PipedreamHQ/pipedream/issues/20056)
 - [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
+- [[ACTION] Github- Get Issue details](https://github.com/PipedreamHQ/pipedream/issues/20052)
+- [[ACTION] Trengo get email message content](https://github.com/PipedreamHQ/pipedream/issues/20040)
 - [[TRIGGER] Task Created](https://github.com/PipedreamHQ/pipedream/issues/20005)
 - [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
 - [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
@@ -104,45 +115,14 @@ This list gets updated every day at midnight.
 - [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
 - [Webhook-WhatsApp-OSER-IA](https://github.com/PipedreamHQ/pipedream/issues/19762)
 
-## [nextcloud/tables](https://github.com/nextcloud/tables)
+## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
 
-- [Change all occurrences of "circle" to "team"](https://github.com/nextcloud/tables/issues/2249)
+- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
+- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
 
-- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
-- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-
-## [cylc/cylc-ui](https://github.com/cylc/cylc-ui)
-
-- [implement modifiers on family icons](https://github.com/cylc/cylc-ui/issues/2421)
-
-## [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
-
-- [fetch_markets() - how to ensure we are not drifting/reordering between calls?](https://github.com/pmxt-dev/pmxt/issues/41)
-- [Windows: spawn pmxt-ensure-server ENOENT when pmxt-core is local dependency](https://github.com/pmxt-dev/pmxt/issues/29)
-- [[Core] Configurable Kalshi Base URL (Demo Support)](https://github.com/pmxt-dev/pmxt/issues/16)
-- [[Python] Unit Tests for Client Wrapper (Mocks)](https://github.com/pmxt-dev/pmxt/issues/20)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
-- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
-
-## [cordum-io/cap](https://github.com/cordum-io/cap)
-
-- [Document conformance fixture generator in tools README](https://github.com/cordum-io/cap/issues/9)
-- [Add JobProgress and JobCancel JSON examples](https://github.com/cordum-io/cap/issues/8)
-- [Python worker: explicit missing-signature check](https://github.com/cordum-io/cap/issues/7)
-- [Add Python SDK heartbeat helper](https://github.com/cordum-io/cap/issues/6)
-- [Add Node SDK heartbeat helper](https://github.com/cordum-io/cap/issues/5)
-- [Add subject constants for sys.alert / sys.job.progress / sys.job.cancel across SDKs](https://github.com/cordum-io/cap/issues/4)
-
-## [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)
-
-- [Removal of JQuery to Vue's reactives](https://github.com/CircuitVerse/cv-frontend-vue/issues/433)
+- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -157,110 +137,158 @@ This list gets updated every day at midnight.
 - [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
 - [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [cylc/cylc-ui](https://github.com/cylc/cylc-ui)
 
-- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
+- [implement modifiers on family icons](https://github.com/cylc/cylc-ui/issues/2421)
 
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [Support pronouns for contacts](https://github.com/nextcloud/contacts/issues/5108)
-- [Contacts should show URLs for IOS & other applications.](https://github.com/nextcloud/contacts/issues/4591)
+- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
 
-## [Obsidian-Owl/specwright](https://github.com/Obsidian-Owl/specwright)
+## [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 
-- [docs: document gate configuration options](https://github.com/Obsidian-Owl/specwright/issues/33)
-- [docs: add troubleshooting section to README](https://github.com/Obsidian-Owl/specwright/issues/32)
-- [docs: add skill usage examples to README](https://github.com/Obsidian-Owl/specwright/issues/31)
+- [[gatsby-transformer-javascript-frontmatter] Frontmatter export breaks HMR](https://github.com/gatsbyjs/gatsby/issues/35756)
 
-## [GrottoCenter/grottocenter-api](https://github.com/GrottoCenter/grottocenter-api)
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
 
-- [[RELEVANCE] Handle relevance in API](https://github.com/GrottoCenter/grottocenter-api/issues/574)
+- [[Bug]: Unknown bug preventing Spring from dragging in SpringConnection](https://github.com/physicshub/physicshub.github.io/issues/196)
+- [[Bug]: In BallAcceleration ball is laggy and it goes in spurts](https://github.com/physicshub/physicshub.github.io/issues/195)
+- [[Bug]: Vectors Operations out of scale](https://github.com/physicshub/physicshub.github.io/issues/63)
+- [[Bug]: 8 Pages have problems of Cumulative Layout Shift (CLS)](https://github.com/physicshub/physicshub.github.io/issues/185)
+- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
+- [[Bug]: On Github Action, contributors page doesn't update because of max requests reached](https://github.com/physicshub/physicshub.github.io/issues/151)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10327)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10285)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10112)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/skewness`](https://github.com/stdlib-js/stdlib/issues/3497)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3491)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10073)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10042)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10017)
-- [Fix broken Markdown link: https://doi.org/10.1145/3221664.3221674](https://github.com/stdlib-js/stdlib/issues/10018)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10000)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9867)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6355)
-- [[RFC]: add `stats/incr/nanmminabs`](https://github.com/stdlib-js/stdlib/issues/5595)
+- [streak achievement appearing twice](https://github.com/HabitRPG/habitica/issues/13325)
 
-## [sanger/traction-ui](https://github.com/sanger/traction-ui)
+## [serverless/serverless](https://github.com/serverless/serverless)
 
-- [Y25-619 - As a developer (Ben) I would like flexible pooling to include a Tube Rack layout as an alternative to Plate layout.](https://github.com/sanger/traction-ui/issues/2509)
-- [Y25-571 - Clean up / fix unit test output](https://github.com/sanger/traction-ui/issues/2468)
-- [Y25-606 - As a developer (Steve) I would like to add some coding standards to ensure that developers adhere to a common set of rules to ensure maintainability and reduce technical debt](https://github.com/sanger/traction-ui/issues/2501)
+- [creating a project from private git repo copies the .git folder](https://github.com/serverless/serverless/issues/11978)
 
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+## [cordum-io/cap](https://github.com/cordum-io/cap)
 
-- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
-- [Flatpak Mainfest / Builder Schema](https://github.com/SchemaStore/schemastore/issues/5094)
+- [Document conformance fixture generator in tools README](https://github.com/cordum-io/cap/issues/9)
+- [Add JobProgress and JobCancel JSON examples](https://github.com/cordum-io/cap/issues/8)
+- [Python worker: explicit missing-signature check](https://github.com/cordum-io/cap/issues/7)
+- [Add Python SDK heartbeat helper](https://github.com/cordum-io/cap/issues/6)
+- [Add Node SDK heartbeat helper](https://github.com/cordum-io/cap/issues/5)
+- [Add subject constants for sys.alert / sys.job.progress / sys.job.cancel across SDKs](https://github.com/cordum-io/cap/issues/4)
 
-## [OSC/ondemand](https://github.com/OSC/ondemand)
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
-- [Pinned apps don't show keyboard focus](https://github.com/OSC/ondemand/issues/4514)
-- [changelog dates are inconsistent](https://github.com/OSC/ondemand/issues/1263)
-- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
-- [Provide access to the session (at least session.id) for running jobs view.html.erb ](https://github.com/OSC/ondemand/issues/3565)
-- [invalid announcements should show error widgets](https://github.com/OSC/ondemand/issues/2658)
-- [project localization tech debt](https://github.com/OSC/ondemand/issues/2617)
+- [Feature Request: Add keyboard shortcuts guide in the UI](https://github.com/HeyPuter/puter/issues/2037)
+- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
 
-## [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+## [hadealahmad/WirdReminder](https://github.com/hadealahmad/WirdReminder)
 
-- [[Bug]: Switching between 2 video pages displays incorrect videos in up next section and video description](https://github.com/FreeTubeApp/FreeTube/issues/2261)
+- [[Easy] Move the tabs to be stuck on the bottom with expressive icons](https://github.com/hadealahmad/WirdReminder/issues/2)
+- [[Medium] Implement Dark Mode](https://github.com/hadealahmad/WirdReminder/issues/1)
 
-## [UniversityOfHelsinkiCS/palaute](https://github.com/UniversityOfHelsinkiCS/palaute)
+## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
 
-- [Add cur name as an option to search feedback targets](https://github.com/UniversityOfHelsinkiCS/palaute/issues/1605)
+- [Support `xOffset` and `yOffset` as encoding channels](https://github.com/genome-spy/genome-spy/issues/230)
 
-## [FOSSCLUB-LBSITW/Memory-block-game](https://github.com/FOSSCLUB-LBSITW/Memory-block-game/pull/32)
+## [falling-fruit/falling-fruit-web](https://github.com/falling-fruit/falling-fruit-web)
 
-- [Updated css for the buttons.](https://github.com/FOSSCLUB-LBSITW/Memory-block-game/pull/32)
+- [Unwanted extra border on the Sign in button on desktop](https://github.com/falling-fruit/falling-fruit-web/issues/968)
+- [Use expires_in property of access tokens](https://github.com/falling-fruit/falling-fruit-web/issues/620)
+- [Add `knip` to the build to catch unused code](https://github.com/falling-fruit/falling-fruit-web/issues/784)
+- [Improve mobile photo viewer: let modal fill entire screen and allow zooming into photos](https://github.com/falling-fruit/falling-fruit-web/issues/733)
+- [Follow botanical convention when displaying names of cultivars](https://github.com/falling-fruit/falling-fruit-web/issues/762)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [medic/cht-core](https://github.com/medic/cht-core)
 
-- [Activity Page does not support Filtering and Pagination together correctly](https://github.com/jellyfin/jellyfin-web/issues/6221)
+- [Record telemetry for External Android App calls](https://github.com/medic/cht-core/issues/10217)
+- [Remove app management configure targets page](https://github.com/medic/cht-core/issues/10302)
 
-## [tfrayner/beerfestdb](https://github.com/tfrayner/beerfestdb)
+## [processing/p5.js](https://github.com/processing/p5.js)
 
-- [Beer colour](https://github.com/tfrayner/beerfestdb/issues/39)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+- [[p5.js 2.0 Bug Report]: build*Shader methods don't work yet in instance mode](https://github.com/processing/p5.js/issues/8520)
+- [[2.0] Deprecate `array()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8151)
+- [[2.0] Add array, vector overloads to `createVector()` for consistency](https://github.com/processing/p5.js/issues/8157)
+- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
+- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
+- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
+- [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
+- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
 
-## [sarojit049/Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines)
+## [camunda/camunda-modeler](https://github.com/camunda/camunda-modeler)
 
-- [Add Templates for issues and PR](https://github.com/sarojit049/Fleetiva-Roadlines/issues/99)
-- [[OSCG26] Add rule-based issue auto-triage and assignment workflow](https://github.com/sarojit049/Fleetiva-Roadlines/issues/68)
-- [Implement AI Maintainer Automation for Issues, PR Review, and Activity Tracking](https://github.com/sarojit049/Fleetiva-Roadlines/issues/67)
-- [Real-Time Shipment Tracking:](https://github.com/sarojit049/Fleetiva-Roadlines/issues/65)
-- [[GOOD FIRST ISSUE] Improve UI Responsiveness and Fix Minor Bugs in Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines/issues/62)
-- [🐛 Issue: Welcome Contributors – Pick Tasks & Start Contributing](https://github.com/sarojit049/Fleetiva-Roadlines/issues/7)
+- [Display connection intersections with arc](https://github.com/camunda/camunda-modeler/issues/1966)
+- [Camunda 7 diagram tab marked as being part of process application](https://github.com/camunda/camunda-modeler/issues/5559)
 
-## [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki)
+## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
 
-- [Feature request - Limit policy heatmap to top moves / threshold](https://github.com/SabakiHQ/Sabaki/issues/975)
+- [Verify info about Society of St. Vincent de Paul](https://github.com/davgross/homeless-in-slo-resource-guide/issues/241)
+- [Does "Help Me Grow SLO County" have a clothing closet?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/35)
+- [Add info on how to enroll as a Cuesta College student](https://github.com/davgross/homeless-in-slo-resource-guide/issues/34)
+- [Verify "St. Patrick’s Shamrock Thrift" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/28)
+- [Verify "North County Care Minor Emergency Services" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/27)
+- [Verify correct locations of "Catholic Charities"](https://github.com/davgross/homeless-in-slo-resource-guide/issues/24)
+- [Need more info about Kritter Care](https://github.com/davgross/homeless-in-slo-resource-guide/issues/82)
+- [verify that county Veterans Services offices do substance dependency treatment referrals](https://github.com/davgross/homeless-in-slo-resource-guide/issues/78)
+- [verify claim about walk-in suboxone treatment at local hospitals](https://github.com/davgross/homeless-in-slo-resource-guide/issues/77)
+- [Can you sign up for Enhanced Care Management via CAPSLO's Outreach and Engagement Services center?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/69)
+- [Get better info about Salvation Army resources](https://github.com/davgross/homeless-in-slo-resource-guide/issues/60)
+- [Audit lists of little free pantries by visiting them in person](https://github.com/davgross/homeless-in-slo-resource-guide/issues/46)
+- [Get details on 40 Prado locker situation](https://github.com/davgross/homeless-in-slo-resource-guide/issues/40)
+- [Investigate "St. Williams Church" in Atascadero](https://github.com/davgross/homeless-in-slo-resource-guide/issues/220)
+- [Add something about Therapy Era (a.k.a. thERApy)?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/153)
+- [Add "Resilient Ones"?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/151)
+- [Add "The Central Coast Organization"?](https://github.com/davgross/homeless-in-slo-resource-guide/issues/131)
 
-## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
+## [hadealahmad/MonthlyQuran](https://github.com/hadealahmad/MonthlyQuran)
 
-- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
+- [[Easy] Implement Modern View Transitions for Seamless Navigation](https://github.com/hadealahmad/MonthlyQuran/issues/10)
+- [[Easy] add audio playback for Quran in reader modal](https://github.com/hadealahmad/MonthlyQuran/issues/7)
 
-## [OpenFn/adaptors](https://github.com/OpenFn/adaptors)
+## [Northeastern-Science-Magazine/nusci-backend](https://github.com/Northeastern-Science-Magazine/nusci-backend)
 
-- [Only when we need more powerful PDF adaptor :)) Browserless adaptor (for pdf conversion)](https://github.com/OpenFn/adaptors/issues/1319)
+- [Move password hashing to new auth file](https://github.com/Northeastern-Science-Magazine/nusci-backend/issues/307)
 
-## [direct-framework/direct-webapp](https://github.com/direct-framework/direct-webapp)
+## [webpack/webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer)
 
-- [Create an Events model to replace the events CSV](https://github.com/direct-framework/direct-webapp/issues/582)
-- [[BUG] Installation instructions are incomplete](https://github.com/direct-framework/direct-webapp/issues/574)
-- [Add tests for untested views](https://github.com/direct-framework/direct-webapp/issues/543)
-- [Split views module into multiple files](https://github.com/direct-framework/direct-webapp/issues/544)
+- [Incorrect bundle paths when bundles are in multiple directories. ](https://github.com/webpack/webpack-bundle-analyzer/issues/506)
+
+## [google/closure-compiler](https://github.com/google/closure-compiler)
+
+- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
+
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+
+- [Add Tooltip for Remove from Collection List Button](https://github.com/processing/p5.js-web-editor/issues/3882)
+- [i18n Sync: Update Settings and SubmitSaveAllSettings Keys Across Locale Files](https://github.com/processing/p5.js-web-editor/issues/3510)
+- [Increasing color contrast of the Storage Bar on the Assets Page of the Profile Section](https://github.com/processing/p5.js-web-editor/issues/3856)
+- [Keyword Syntax highlighting still outdated](https://github.com/processing/p5.js-web-editor/issues/3163)
+- [Notation for the need of login to upload (image) files](https://github.com/processing/p5.js-web-editor/issues/3079)
+
+## [openseadragon/site-build](https://github.com/openseadragon/site-build)
+
+- [More "in the wild"](https://github.com/openseadragon/site-build/issues/200)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
+- [Unknown error at connectivity check with TURN Server when user is not in "Limit to Groups" list and  `turns: only` is selected](https://github.com/nextcloud/spreed/issues/11550)
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+- [Guest: Ability to change name in personal controls 3-dot-menu as well as in participant list](https://github.com/nextcloud/spreed/issues/5028)
+- [Remove room description field in video verification room](https://github.com/nextcloud/spreed/issues/5327)
+- [Default value for message expiration](https://github.com/nextcloud/spreed/issues/9732)
+- [Show emoji name on mouseover](https://github.com/nextcloud/spreed/issues/14446)
+- [ Enter and Shift+Enter for the send key in Chat function.](https://github.com/nextcloud/spreed/issues/3268)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
+- [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
 
