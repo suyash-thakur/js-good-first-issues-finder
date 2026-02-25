@@ -4,48 +4,19 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10447)
-- [Address commit comments (commit `8b01d81`)](https://github.com/stdlib-js/stdlib/issues/10423)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10400)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10378)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/10377)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10112)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/skewness`](https://github.com/stdlib-js/stdlib/issues/3497)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3491)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10073)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10042)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10017)
-- [Fix broken Markdown link: https://doi.org/10.1145/3221664.3221674](https://github.com/stdlib-js/stdlib/issues/10018)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/6704)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/8586)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/9867)
+- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
+- [[Website] Update Features page](https://github.com/meshery/meshery.io/issues/2605)
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [Expose an `id` for concurrent test runners (like `JEST_WORKER_ID`)](https://github.com/nodejs/node/issues/55842)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -53,27 +24,65 @@ This list gets updated every day at midnight.
 - [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
+## [InferShield/infershield](https://github.com/InferShield/infershield)
 
-- [Proposal: remove bid adapter access to navigator](https://github.com/prebid/Prebid.js/issues/11001)
-
-## [WoodenKhrystyn-FS/my-portfolio](https://github.com/WoodenKhrystyn-FS/my-portfolio)
-
-- [Frontend](https://github.com/WoodenKhrystyn-FS/my-portfolio/issues/3)
-- [Tech Stack](https://github.com/WoodenKhrystyn-FS/my-portfolio/issues/2)
+- [Add structured logging for detection results](https://github.com/InferShield/infershield/issues/62)
+- [Add unit test coverage for cross-step detection logic](https://github.com/InferShield/infershield/issues/60)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
 - [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
 - [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
 
-## [facebook/stylex](https://github.com/facebook/stylex)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
+- [Apply updates from slack to slack_v2](https://github.com/PipedreamHQ/pipedream/issues/20103)
+- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
+- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
+- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
+- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
+- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
+- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
+- [[ACTION] Trengo get email message content](https://github.com/PipedreamHQ/pipedream/issues/20040)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
+- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
+- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
+- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/19823)
+- [Rosterelf MCP](https://github.com/PipedreamHQ/pipedream/issues/19705)
 
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+
+## [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+
+- [[gatsby-transformer-javascript-frontmatter] Frontmatter export breaks HMR](https://github.com/gatsbyjs/gatsby/issues/35756)
+
+## [g0v/cf-moedict-webkit-neo](https://github.com/g0v/cf-moedict-webkit-neo)
+
+- [搬移logo,favicon與og:image等](https://github.com/g0v/cf-moedict-webkit-neo/issues/15)
+- [手機搜尋框壓板](https://github.com/g0v/cf-moedict-webkit-neo/issues/22)
+- [逐一完善navbar上的每個連結](https://github.com/g0v/cf-moedict-webkit-neo/issues/19)
+- [首頁處理-連到上次瀏覽語言的頁面](https://github.com/g0v/cf-moedict-webkit-neo/issues/10)
+- [注意原專案的一些異常，復刻時盡量修正](https://github.com/g0v/cf-moedict-webkit-neo/issues/12)
+
+## [camunda/camunda-modeler](https://github.com/camunda/camunda-modeler)
+
+- [Indicate selected Camunda version is different from connected cluster](https://github.com/camunda/camunda-modeler/issues/5652)
+- [Camunda 7 diagram tab marked as being part of process application](https://github.com/camunda/camunda-modeler/issues/5559)
+- [Allow user to generate graphical information (`bpmndi`) if diagram does not contain one](https://github.com/camunda/camunda-modeler/issues/5564)
+- [Display connection intersections with arc](https://github.com/camunda/camunda-modeler/issues/1966)
 
 ## [mrdushidush/agent-battle-command-center](https://github.com/mrdushidush/agent-battle-command-center)
 
@@ -88,111 +97,113 @@ This list gets updated every day at midnight.
 - [Add export task results as CSV/JSON](https://github.com/mrdushidush/agent-battle-command-center/issues/57)
 - [Support custom Ollama model selection via UI](https://github.com/mrdushidush/agent-battle-command-center/issues/41)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 
-- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
-- [To Capture Gorgias Custom Ticket Fields](https://github.com/PipedreamHQ/pipedream/issues/19935)
-- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
-- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
-- [[ACTION] Trengo get email message content](https://github.com/PipedreamHQ/pipedream/issues/20040)
-- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION] Slack "Get Channel"](https://github.com/PipedreamHQ/pipedream/issues/20060)
-- [[ACTION] bol.com](https://github.com/PipedreamHQ/pipedream/issues/19339)
-- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
-- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
-- [[ACTION] Nuvemshop(TiendaNube)](https://github.com/PipedreamHQ/pipedream/issues/19495)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/19823)
-- [Rosterelf MCP](https://github.com/PipedreamHQ/pipedream/issues/19705)
+- [feat: TFTP server](https://github.com/carverauto/serviceradar/issues/192)
+- [feat: integrate rezmoss cloud-provider IP address database](https://github.com/carverauto/serviceradar/issues/2799)
+- [feat: Mikrotik support (API)](https://github.com/carverauto/serviceradar/issues/2793)
+- [feat(web-ng): enhance sightings in device details](https://github.com/carverauto/serviceradar/issues/2770)
+- [feat(netflow): shodan integration](https://github.com/carverauto/serviceradar/issues/2765)
+- [feat: add support for vector](https://github.com/carverauto/serviceradar/issues/2764)
+- [feat(checker): NTP](https://github.com/carverauto/serviceradar/issues/591)
+- [feat: basic health-checker](https://github.com/carverauto/serviceradar/issues/605)
+- [feat: db checker](https://github.com/carverauto/serviceradar/issues/606)
+- [feat: cert-checker](https://github.com/carverauto/serviceradar/issues/607)
+- [feat: uptime checker](https://github.com/carverauto/serviceradar/issues/608)
+- [feat(checker): RDP monitor](https://github.com/carverauto/serviceradar/issues/709)
+- [feat: add support for proxmox](https://github.com/carverauto/serviceradar/issues/1536)
+- [MTR Network Diagnostic Tool Impelmentation](https://github.com/carverauto/serviceradar/issues/1896)
+- [feat: OUI lookup tool](https://github.com/carverauto/serviceradar/issues/1897)
+- [feat: add support for ELK home automation](https://github.com/carverauto/serviceradar/issues/2176)
+- [deployment packages for self-hosted services](https://github.com/carverauto/serviceradar/issues/590)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [processing/p5.js](https://github.com/processing/p5.js)
 
-- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
-- [PHP Instrumentation - incorrect example for Metrics](https://github.com/open-telemetry/opentelemetry.io/issues/9184)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+- [[2.0] Deprecate `array()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8151)
+- [[2.0] Add array, vector overloads to `createVector()` for consistency](https://github.com/processing/p5.js/issues/8157)
+- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
+- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
+- [[2.x] Fix dimensional quirk in the `heading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8214)
 
-## [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
+## [Obsidian-Owl/specwright](https://github.com/Obsidian-Owl/specwright)
 
-- [streak achievement appearing twice](https://github.com/HabitRPG/habitica/issues/13325)
+- [docs: add skill usage examples to README](https://github.com/Obsidian-Owl/specwright/issues/31)
+- [docs: document gate configuration options](https://github.com/Obsidian-Owl/specwright/issues/33)
+- [docs: add troubleshooting section to README](https://github.com/Obsidian-Owl/specwright/issues/32)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+
+## [mkoskim/mawejs](https://github.com/mkoskim/mawejs)
+
+- [Recent files: Make it look nicer](https://github.com/mkoskim/mawejs/issues/426)
+
+## [canada-ca/tracker](https://github.com/canada-ca/tracker)
+
+- [Switch debian images for alpine](https://github.com/canada-ca/tracker/issues/5015)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
+
+## [torrinworx/destamatic-ui](https://github.com/torrinworx/destamatic-ui)
+
+- [Cross stage scroll issue](https://github.com/torrinworx/destamatic-ui/issues/47)
+
+## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
+
+- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
+- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
+
+## [Serenamidori/tv-time-tenna-bot](https://github.com/Serenamidori/tv-time-tenna-bot)
+
+- [Add dialogue for users wanting to watch TV](https://github.com/Serenamidori/tv-time-tenna-bot/issues/57)
+- [Add Tenna to character mentions](https://github.com/Serenamidori/tv-time-tenna-bot/issues/56)
+
+## [google/closure-compiler](https://github.com/google/closure-compiler)
+
+- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
+
+## [meteor/meteor](https://github.com/meteor/meteor)
+
+- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
+- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
+- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
+- [Did `Meteor.connection._processOneDataMessage` get eliminated?](https://github.com/meteor/meteor/issues/13655)
+- [Deprecation warnings when installing from a meteor {V3.3.2) bundle](https://github.com/meteor/meteor/issues/14083)
+- [`passwordValidator` ignores `passwordMaxLength` due to operator precedence bug](https://github.com/meteor/meteor/issues/14072)
+
+## [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+
+- [Add: Blog post to social media repurposing agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/3)
+- [Add: Slack standup bot agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/2)
+- [Add: GitHub PR reviewer agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/1)
+
+## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+
+- [Issues with Volunteer wizard](https://github.com/saayam-for-all/webapp/issues/1203)
+- [Issues with Request Details page](https://github.com/saayam-for-all/webapp/issues/1224)
+- [Labels like  'Category' and 'General' category  are not translated in Create Help Request](https://github.com/saayam-for-all/webapp/issues/1169)
+- [Add header to Request Details page](https://github.com/saayam-for-all/webapp/issues/1217)
+- [Check if inspect element exposes any vulnerabilities for website](https://github.com/saayam-for-all/webapp/issues/918)
+- [Organizing i18next JSON files using i18next Namespaces for Internationalization](https://github.com/saayam-for-all/webapp/issues/876)
+- [Test and integrate backend API for Organization Details tab](https://github.com/saayam-for-all/webapp/issues/757)
+
+## [nhcarrigan-spring-2026-cohort/azure-lotus](https://github.com/nhcarrigan-spring-2026-cohort/azure-lotus)
+
+- [Improve Family registration form](https://github.com/nhcarrigan-spring-2026-cohort/azure-lotus/issues/90)
+- [Build How it works page](https://github.com/nhcarrigan-spring-2026-cohort/azure-lotus/issues/88)
 
 ## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
 
 - [[Mobile]: Make tab close button always visible on touch devices](https://github.com/lokus-ai/lokus/issues/313)
 - [[Feature]: Implement star/favorite toggle for emails](https://github.com/lokus-ai/lokus/issues/291)
 
-## [fastify/fastify](https://github.com/fastify/fastify/pull/6161)
+## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
 
-- [invalid: improve server.md TOC](https://github.com/fastify/fastify/pull/6161)
-- [Validation of optional, nullable number where property value is `0` will default to `null`](https://github.com/fastify/fastify/issues/6411)
-- [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
-- [docs: Codemods for Upgrading to fastify v5](https://github.com/fastify/fastify/pull/5717)
-
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
-
-- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
-- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
-- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
-- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
-- [Add basic keyboard shortcuts for Editor page actions](https://github.com/Ryan-Millard/Img2Num/issues/105)
-- [chore(README): replace old demo images with more modern examples of updated library](https://github.com/Ryan-Millard/Img2Num/issues/260)
-
-## [g0v/cf-moedict-webkit-neo](https://github.com/g0v/cf-moedict-webkit-neo)
-
-- [搬移logo,favicon與og:image等](https://github.com/g0v/cf-moedict-webkit-neo/issues/15)
-- [首頁處理-連到上次瀏覽語言的頁面](https://github.com/g0v/cf-moedict-webkit-neo/issues/10)
-- [注意原專案的一些異常，復刻時盡量修正](https://github.com/g0v/cf-moedict-webkit-neo/issues/12)
-
-## [micahlt/itchy-native](https://github.com/micahlt/itchy-native)
-
-- [Hyperlink project tags](https://github.com/micahlt/itchy-native/issues/150)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
-
-## [google/closure-compiler](https://github.com/google/closure-compiler)
-
-- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
-
-## [iagocavalcante/qtube](https://github.com/iagocavalcante/qtube)
-
-- [Chore: Remove unused video.js dependency](https://github.com/iagocavalcante/qtube/issues/251)
-- [Refactor: Extract title sanitization to utility function](https://github.com/iagocavalcante/qtube/issues/250)
-- [Refactor: Extract shared download method in index.vue](https://github.com/iagocavalcante/qtube/issues/249)
-
-## [conversejs/converse.js](https://github.com/conversejs/converse.js)
-
-- [👷‍♂️  Good first issues, Bounties 💰  & Help wanted 👷‍♀️ ](https://github.com/conversejs/converse.js/issues/2481)
-- [Send current location](https://github.com/conversejs/converse.js/issues/1559)
-
-## [openedx/paragon](https://github.com/openedx/paragon)
-
-- [Tracking issue: Convert components to TypeScript](https://github.com/openedx/paragon/issues/3739)
-- [Tracking issue: remove `propTypes` and `defaultProps` from TypeScript components](https://github.com/openedx/paragon/issues/3744)
-- [<Badge> inside <Button> is inconsistent between themes.](https://github.com/openedx/paragon/issues/3021)
-- [Sheet component fixed width](https://github.com/openedx/paragon/issues/3023)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
-
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
-
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
-
-## [Manuel1234477/Stellar-Micro-Donation-API](https://github.com/Manuel1234477/Stellar-Micro-Donation-API)
-
-- [Validate Incoming Request Payload Sizes](https://github.com/Manuel1234477/Stellar-Micro-Donation-API/issues/118)
-- [Add Unit Tests for Validation Utilities](https://github.com/Manuel1234477/Stellar-Micro-Donation-API/issues/113)
-- [Add Example .env Values for Local Testing](https://github.com/Manuel1234477/Stellar-Micro-Donation-API/issues/106)
-- [Add Comments to Middleware Responsibilities](https://github.com/Manuel1234477/Stellar-Micro-Donation-API/issues/105)
-- [Normalize API Success Responses](https://github.com/Manuel1234477/Stellar-Micro-Donation-API/issues/104)
+- [Use upstream types of ember-focus-trap](https://github.com/ember-bootstrap/ember-bootstrap/issues/2260)
 
 ## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
 
@@ -241,40 +252,31 @@ This list gets updated every day at midnight.
 - [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
 - [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
 
-## [LibreSign/libresign](https://github.com/LibreSign/libresign)
+## [conversejs/converse.js](https://github.com/conversejs/converse.js)
 
-- [Replace deprecated IConfig methods with IAppConfig and IUserConfig](https://github.com/LibreSign/libresign/issues/6855)
-- [Replace the screenshot at README.md by a screenshot of newest interface](https://github.com/LibreSign/libresign/issues/5104)
-- [Create ISetupCheck support implementation](https://github.com/LibreSign/libresign/issues/6590)
-- [Refactor pull request template for better structure and UI guidance](https://github.com/LibreSign/libresign/issues/5534)
+- [👷‍♂️  Good first issues, Bounties 💰  & Help wanted 👷‍♀️ ](https://github.com/conversejs/converse.js/issues/2481)
 
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 
-- [Split SchildiChat ecosystem entry to mirror Element classic](https://github.com/matrix-org/matrix.org/issues/3221)
-- [Create a "Branding & Assets" page](https://github.com/matrix-org/matrix.org/issues/3156)
-- [Check that images have alt text](https://github.com/matrix-org/matrix.org/issues/3109)
-- [Improve the display of WG infos](https://github.com/matrix-org/matrix.org/issues/3161)
-- [Add additonal markdown linter rules](https://github.com/matrix-org/matrix.org/issues/3058)
+- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
 
-## [canada-ca/tracker](https://github.com/canada-ca/tracker)
+## [darfaz/clawmoat](https://github.com/darfaz/clawmoat)
 
-- [Switch debian images for alpine](https://github.com/canada-ca/tracker/issues/5015)
+- [Docker support](https://github.com/darfaz/clawmoat/issues/3)
+- [Add LangChain integration](https://github.com/darfaz/clawmoat/issues/1)
+- [Add CrewAI middleware](https://github.com/darfaz/clawmoat/issues/2)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [nextcloud/tables](https://github.com/nextcloud/tables)
 
-- [Canonical URL audit mistakes invalid URLs for relative ones](https://github.com/GoogleChrome/lighthouse/issues/12008)
+- [Change all occurrences of "circle" to "team"](https://github.com/nextcloud/tables/issues/2249)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [FOSSCLUB-LBSITW/flappy-bird](https://github.com/FOSSCLUB-LBSITW/flappy-bird)
 
-- [Schema-less HTTP_PROXY and HTTPS_PROXY env vars should maybe assume `http`](https://github.com/nodejs/undici/issues/4736)
+- [Enhancement: Add Favicon to Improve Browser Tab Identification](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/20)
+- [bugs](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/14)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Video-Games](https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Video-Games)
 
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
-- [[Visual Design] New Recognition Badge: Feature Trailblazer Badge](https://github.com/layer5io/layer5/issues/4808)
-- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
+- [Remove all blog functionality and files](https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Video-Games/issues/103)
+- [Remove all-things-video-games subfolder from repository](https://github.com/NSCC-ITC-Winter2026-WEBD3030-700-MCa/All-things-Video-Games/issues/100)
 
