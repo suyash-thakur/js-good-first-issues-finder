@@ -4,15 +4,12 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
-- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
-- [feat: TFTP server](https://github.com/carverauto/serviceradar/issues/192)
-- [feat: Mikrotik support (API)](https://github.com/carverauto/serviceradar/issues/2793)
-- [feat(web-ng): enhance sightings in device details](https://github.com/carverauto/serviceradar/issues/2770)
-- [feat(netflow): shodan integration](https://github.com/carverauto/serviceradar/issues/2765)
-- [feat: add support for vector](https://github.com/carverauto/serviceradar/issues/2764)
+- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
+- [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
+- [[docs] Getting started tabs is broken](https://github.com/cdxgen/cdxgen/issues/3622)
+- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
@@ -25,77 +22,50 @@ This list gets updated every day at midnight.
 
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
-- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
-- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
-- [using my GoBack mouse button switches workspaces](https://github.com/zen-browser/desktop/issues/12491)
-- [duplicate tab shortcut missing](https://github.com/zen-browser/desktop/issues/11411)
-- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
-- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
-
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
-
-- [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
-- [[docs] Getting started tabs is broken](https://github.com/cdxgen/cdxgen/issues/3622)
-- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
-- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [code-charity/youtube](https://github.com/code-charity/youtube)
 
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-
-## [foundryvtt-starfinder/foundryvtt-starfinder](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder)
-
-- [Integrate disease progression tracks into character sheets](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/286)
-- [Implement computers and their associated modules](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/259)
-- [Add full attack option to the attack dialog](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/667)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
-
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
-
-- [[Mobile]: Make tab close button always visible on touch devices](https://github.com/lokus-ai/lokus/issues/313)
-- [[Feature]: Implement star/favorite toggle for emails](https://github.com/lokus-ai/lokus/issues/291)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
-- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-
-## [Bingham-Research-Center/ubair-website](https://github.com/Bingham-Research-Center/ubair-website)
-
-- ["Add to Dock" iOS currently ugly](https://github.com/Bingham-Research-Center/ubair-website/issues/12)
-
-## [nedcodes-ok/cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor)
-
-- [Add --quiet flag to suppress non-error output](https://github.com/nedcodes-ok/cursor-doctor/issues/10)
-- [Add JSON output format for lint results](https://github.com/nedcodes-ok/cursor-doctor/issues/12)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
-- [ReDoS Vulnerability Analysis and Fixes](https://github.com/meteor/meteor/issues/13933)
-- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
-- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
-- [Did `Meteor.connection._processOneDataMessage` get eliminated?](https://github.com/meteor/meteor/issues/13655)
+- [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
+- [🐞Shortcuts not working when the player is not on focus.](https://github.com/code-charity/youtube/issues/3659)
+- [💡 Desperately seeking filters to unclog my Subscriptions page.](https://github.com/code-charity/youtube/issues/3656)
+- [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
+- [Ways to add Shorts to the queue list, user saved playlists & watch later list!](https://github.com/code-charity/youtube/issues/2460)
+- [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
+- [🐞Chats on streams are almost entirely covered by a black square](https://github.com/code-charity/youtube/issues/3617)
+- [🐞Setting quality is not working for some videos](https://github.com/code-charity/youtube/issues/3647)
+- [🐞Header hover on video page not working as expected](https://github.com/code-charity/youtube/issues/3645)
+- [🐞"Quality" preference setting broken](https://github.com/code-charity/youtube/issues/3644)
+- [Comments sorted by newest](https://github.com/code-charity/youtube/issues/3642)
+- [Classic expanded descriptions is broken ](https://github.com/code-charity/youtube/issues/1802)
+- [🐞Disable video playback when hovering on thumbnails not working as expected](https://github.com/code-charity/youtube/issues/3639)
+- [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
+- [🐞Time display does not appear](https://github.com/code-charity/youtube/issues/3611)
+- [🐞Bug using the setting to hide the control bar when paused; after using the bar, the mouse takes a while to disappear](https://github.com/code-charity/youtube/issues/3634)
+- [🐞Filtering suggested videos (blocklist) does not work, among other things (Linux + Brave)](https://github.com/code-charity/youtube/issues/3630)
+- [🐞 Playlist "Up next autoplay" off does not work](https://github.com/code-charity/youtube/issues/3627)
+- [🐞](https://github.com/code-charity/youtube/issues/3621)
+- [💡Automatically accept content warning](https://github.com/code-charity/youtube/issues/3591)
+- [themes  update / improve](https://github.com/code-charity/youtube/issues/3616)
+- [🐞Shorts aren't removed](https://github.com/code-charity/youtube/issues/3614)
+- [🐞Extension not working as of yesterday](https://github.com/code-charity/youtube/issues/3535)
+- [🐞](https://github.com/code-charity/youtube/issues/3610)
+- [Feature request: 1. Show YouTube comments while watching 2. Kament.io - Enable Youtube Comments](https://github.com/code-charity/youtube/issues/3464)
+- [🐞](https://github.com/code-charity/youtube/issues/3615)
+- [💡Manual “Mark as Watched” + Auto-Hide for YouTube Feeds](https://github.com/code-charity/youtube/issues/3613)
+- [🐞 Views, like and dislike count disappearing on videos uploaded <24 hours ago.](https://github.com/code-charity/youtube/issues/3563)
+- [🐞Video fails to play due to <Preventing AI-upscaled "Super Resolution>](https://github.com/code-charity/youtube/issues/3612)
+- [Embedded YouTube videos in old Reddit don't have UI elements](https://github.com/code-charity/youtube/issues/3601)
+- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
+- [🐞Blank space between comments section when watching Shorts.](https://github.com/code-charity/youtube/issues/2940)
+- [Cinema mode in Edge](https://github.com/code-charity/youtube/issues/2763)
+- [🐞 Active features randomly working/not working](https://github.com/code-charity/youtube/issues/3572)
+- [💡Not interested / don't recommend channel, auto add video / Channel to block list. ](https://github.com/code-charity/youtube/issues/3579)
+- [Sort search results by upload date](https://github.com/code-charity/youtube/issues/3564)
 
 ## [oss-slu/DigitalBonesBox](https://github.com/oss-slu/DigitalBonesBox)
 
@@ -112,12 +82,49 @@ This list gets updated every day at midnight.
 - [Populate Sidebar](https://github.com/oss-slu/DigitalBonesBox/issues/111)
 - [Label toggle](https://github.com/oss-slu/DigitalBonesBox/issues/233)
 
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+
+## [ubc-biztech/biztech-documentation](https://github.com/ubc-biztech/biztech-documentation)
+
+- [Unhide Users API section and reconcile with Members API](https://github.com/ubc-biztech/biztech-documentation/issues/11)
+- [Write architecture overview page](https://github.com/ubc-biztech/biztech-documentation/issues/10)
+
+## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+
+- [Create topic outline with interactive walkthrough and visuals for Priority Queues and Heaps](https://github.com/Techtonica/curriculum/issues/2244)
+
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+
+- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
 - [メッセージの読み取りを可能にしてください！](https://github.com/PipedreamHQ/pipedream/issues/20145)
 - [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
 - [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION] Trengo get email message content](https://github.com/PipedreamHQ/pipedream/issues/20040)
 - [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
 - [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
 - [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
@@ -128,10 +135,52 @@ This list gets updated every day at midnight.
 - [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
 - [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
 
-- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
-- [PHP Instrumentation - incorrect example for Metrics](https://github.com/open-telemetry/opentelemetry.io/issues/9184)
+- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
+- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
+
+## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+
+- [Check if inspect element exposes any vulnerabilities for website](https://github.com/saayam-for-all/webapp/issues/918)
+- [Issues with Request Details page](https://github.com/saayam-for-all/webapp/issues/1224)
+- [Organizing i18next JSON files using i18next Namespaces for Internationalization](https://github.com/saayam-for-all/webapp/issues/876)
+- [Issues with Volunteer wizard](https://github.com/saayam-for-all/webapp/issues/1203)
+- [Test and integrate backend API for Organization Details tab](https://github.com/saayam-for-all/webapp/issues/757)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
+- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
+- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
+- [using my GoBack mouse button switches workspaces](https://github.com/zen-browser/desktop/issues/12491)
+- [duplicate tab shortcut missing](https://github.com/zen-browser/desktop/issues/11411)
+- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
+- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
+- [[Visual Design] New Recognition Badge: Feature Trailblazer Badge](https://github.com/layer5io/layer5/issues/4808)
+- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
+
+## [nedcodes-ok/rule-gen](https://github.com/nedcodes-ok/rule-gen)
+
+- [Add Python project detection](https://github.com/nedcodes-ok/rule-gen/issues/6)
+- [Add --output-dir flag](https://github.com/nedcodes-ok/rule-gen/issues/5)
+
+## [badges/shields](https://github.com/badges/shields)
+
+- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
+- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
 
 ## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
 
@@ -139,61 +188,30 @@ This list gets updated every day at midnight.
 - [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
 - [Generating the Stability Overview](https://github.com/nodejs/doc-kit/issues/357)
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [Dfunder/web-fox](https://github.com/Dfunder/web-fox)
 
-- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
+- [Implement Login UI](https://github.com/Dfunder/web-fox/issues/26)
+- [Setup Layout System (Navbar + Footer)](https://github.com/Dfunder/web-fox/issues/20)
 
-## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
+## [meteor/meteor](https://github.com/meteor/meteor)
 
-- [Add "show my location" button](https://github.com/osm-americana/openstreetmap-americana/issues/903)
-- [Missing shield for Kettle Moraine Scenic Drive](https://github.com/osm-americana/openstreetmap-americana/issues/865)
-- [Update shield library README to reflect current OpenMapTiles route_N attributes](https://github.com/osm-americana/openstreetmap-americana/issues/1065)
-- [Add shields for unorganized territory roads in Minnesota](https://github.com/osm-americana/openstreetmap-americana/issues/1140)
-- [Scale bar in the demo](https://github.com/osm-americana/openstreetmap-americana/issues/898)
+- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
+- [ReDoS Vulnerability Analysis and Fixes](https://github.com/meteor/meteor/issues/13933)
+- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
+- [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
 
-## [mieweb/opensource-server](https://github.com/mieweb/opensource-server)
+## [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
 
-- [support https backends in Services model](https://github.com/mieweb/opensource-server/issues/89)
-- [Add a favicon for create-a-container](https://github.com/mieweb/opensource-server/issues/153)
+- [Pegaprox does not get any data when 2FA is enabled](https://github.com/PegaProx/project-pegaprox/issues/110)
+- [LDAPS login error](https://github.com/PegaProx/project-pegaprox/issues/108)
 
-## [ubc-biztech/biztech-documentation](https://github.com/ubc-biztech/biztech-documentation)
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
 
-- [Unhide Users API section and reconcile with Members API](https://github.com/ubc-biztech/biztech-documentation/issues/11)
-- [Write architecture overview page](https://github.com/ubc-biztech/biztech-documentation/issues/10)
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
 
-## [serverless/serverless](https://github.com/serverless/serverless)
+## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
 
-- [creating a project from private git repo copies the .git folder](https://github.com/serverless/serverless/issues/11978)
-
-## [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
-
-- [streak achievement appearing twice](https://github.com/HabitRPG/habitica/issues/13325)
-
-## [sanger/traction-ui](https://github.com/sanger/traction-ui)
-
-- [Y25-619 - As a developer (Ben) I would like flexible pooling to include a Tube Rack layout as an alternative to Plate layout.](https://github.com/sanger/traction-ui/issues/2509)
-- [Y26-047 - As a developer (Ben) I would like to remove lodash-es as a dependency](https://github.com/sanger/traction-ui/issues/2637)
-- [Y25-571 - Clean up / fix unit test output](https://github.com/sanger/traction-ui/issues/2468)
-
-## [darfaz/clawmoat](https://github.com/darfaz/clawmoat)
-
-- [Add `clawmoat init` command to generate a starter config file](https://github.com/darfaz/clawmoat/issues/17)
-- [Add configurable alert templates for custom webhook payloads](https://github.com/darfaz/clawmoat/issues/16)
-- [Add Windows path support for forbidden zones](https://github.com/darfaz/clawmoat/issues/15)
-- [Add JSON report output for `clawmoat report --format json`](https://github.com/darfaz/clawmoat/issues/14)
-- [Add SARIF output format for CI/CD integration](https://github.com/darfaz/clawmoat/issues/13)
-- [Docker support](https://github.com/darfaz/clawmoat/issues/3)
-- [Add LangChain integration](https://github.com/darfaz/clawmoat/issues/1)
-- [Add CrewAI middleware](https://github.com/darfaz/clawmoat/issues/2)
-
-## [django-cms/djangocms-text](https://github.com/django-cms/djangocms-text)
-
-- [Using HTMLField(configuration=...) leads to AttributeError: 'TEXT_EDITOR_SETTINGS'](https://github.com/django-cms/djangocms-text/issues/136)
-- [Follow RFC 2606 for dummy domains](https://github.com/django-cms/djangocms-text/issues/144)
-
-## [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap)
-
-- [Use upstream types of ember-focus-trap](https://github.com/ember-bootstrap/ember-bootstrap/issues/2260)
+- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
 
 ## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
 
@@ -242,21 +260,42 @@ This list gets updated every day at midnight.
 - [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
 - [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
 
-## [OSC/ondemand](https://github.com/OSC/ondemand)
+## [swiftlang/swift-docc-render](https://github.com/swiftlang/swift-docc-render)
 
-- [Developing guide. how to run/develop the tests](https://github.com/OSC/ondemand/issues/4741)
-- [Pinned apps don't show keyboard focus](https://github.com/OSC/ondemand/issues/4514)
-- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
-- [Provide access to the session (at least session.id) for running jobs view.html.erb ](https://github.com/OSC/ondemand/issues/3565)
-- [invalid announcements should show error widgets](https://github.com/OSC/ondemand/issues/2658)
-- [project localization tech debt](https://github.com/OSC/ondemand/issues/2617)
+- [Change Background of inline code statements (backticks)](https://github.com/swiftlang/swift-docc-render/issues/892)
 
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
 
-- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
+- [Add "show my location" button](https://github.com/osm-americana/openstreetmap-americana/issues/903)
+- [Missing shield for Kettle Moraine Scenic Drive](https://github.com/osm-americana/openstreetmap-americana/issues/865)
+- [Update shield library README to reflect current OpenMapTiles route_N attributes](https://github.com/osm-americana/openstreetmap-americana/issues/1065)
+- [Add shields for unorganized territory roads in Minnesota](https://github.com/osm-americana/openstreetmap-americana/issues/1140)
+- [Scale bar in the demo](https://github.com/osm-americana/openstreetmap-americana/issues/898)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
-- [Canonical URL audit mistakes invalid URLs for relative ones](https://github.com/GoogleChrome/lighthouse/issues/12008)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10693)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/10692)
+- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10621)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10501)
+- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
+- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
+- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/skewness`](https://github.com/stdlib-js/stdlib/issues/3497)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3491)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10073)
+
+## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
+
+- [Public share link does not change the window title](https://github.com/nextcloud/richdocuments/issues/2619)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
 
