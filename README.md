@@ -4,23 +4,41 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
-
-- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
-- [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
-- [[docs] Getting started tabs is broken](https://github.com/cdxgen/cdxgen/issues/3622)
-- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
-- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-- [RATE-LIMIT log message every 10 seconds, even with all monitors paused.](https://github.com/louislam/uptime-kuma/issues/5122)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Remove redundant unread mention button when filtering for unread mentions](https://github.com/nextcloud/spreed/issues/16473)
+- [Unknown error at connectivity check with TURN Server when user is not in "Limit to Groups" list and  `turns: only` is selected](https://github.com/nextcloud/spreed/issues/11550)
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+- [Guest: Ability to change name in personal controls 3-dot-menu as well as in participant list](https://github.com/nextcloud/spreed/issues/5028)
+- [Remove room description field in video verification room](https://github.com/nextcloud/spreed/issues/5327)
+- [Default value for message expiration](https://github.com/nextcloud/spreed/issues/9732)
+- [Show emoji name on mouseover](https://github.com/nextcloud/spreed/issues/14446)
+- [ Enter and Shift+Enter for the send key in Chat function.](https://github.com/nextcloud/spreed/issues/3268)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
+- [Add configurable list view of contacts](https://github.com/nextcloud/spreed/issues/15331)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
+
+## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
+
+- [Add "show my location" button](https://github.com/osm-americana/openstreetmap-americana/issues/903)
+- [Missing shield for Kettle Moraine Scenic Drive](https://github.com/osm-americana/openstreetmap-americana/issues/865)
+- [Update shield library README to reflect current OpenMapTiles route_N attributes](https://github.com/osm-americana/openstreetmap-americana/issues/1065)
+- [Add shields for unorganized territory roads in Minnesota](https://github.com/osm-americana/openstreetmap-americana/issues/1140)
+- [Scale bar in the demo](https://github.com/osm-americana/openstreetmap-americana/issues/898)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -28,19 +46,137 @@ This list gets updated every day at midnight.
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+
+## [silexlabs/Silex](https://github.com/silexlabs/Silex)
+
+- [Background color controls are difficult to discover for first-time users](https://github.com/silexlabs/Silex/issues/1653)
+- [ZIP download put a slash linking to assets and css](https://github.com/silexlabs/Silex/issues/1651)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Support pronouns for contacts](https://github.com/nextcloud/contacts/issues/5108)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
+- [[Visual Design] New Recognition Badge: Feature Trailblazer Badge](https://github.com/layer5io/layer5/issues/4808)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Polar.sh](https://github.com/PipedreamHQ/pipedream/issues/17977)
+- [メッセージの読み取りを可能にしてください！](https://github.com/PipedreamHQ/pipedream/issues/20145)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
+- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
+- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
+- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
+- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
+- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
+- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
+- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
+- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
+
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+
+- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
+- [Canonical URL audit mistakes invalid URLs for relative ones](https://github.com/GoogleChrome/lighthouse/issues/12008)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10708)
+- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
+- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
+- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
+- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
+
+## [foundryvtt-starfinder/foundryvtt-starfinder](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder)
+
+- [Integrate disease progression tracks into character sheets](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/286)
+- [Implement computers and their associated modules](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/259)
+- [Add full attack option to the attack dialog](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/issues/667)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [socketPath option is not passed to the connect function](https://github.com/nodejs/undici/issues/3486)
+- [UND_ERR_***_TIMEOUT explanation](https://github.com/nodejs/undici/issues/1865)
+
+## [cardano-foundation/cardano-org](https://github.com/cardano-foundation/cardano-org)
+
+- [Help translate cardano.org into your language](https://github.com/cardano-foundation/cardano-org/issues/442)
+
+## [TANISHX1/seat-allocation-sys](https://github.com/TANISHX1/seat-allocation-sys)
+
+- [students view](https://github.com/TANISHX1/seat-allocation-sys/issues/64)
+
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+
+- [Use i18n for common strings](https://github.com/nodejs/doc-kit/issues/280)
+- [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
+- [Generating the Stability Overview](https://github.com/nodejs/doc-kit/issues/357)
+
+## [WSU-Software-Development-Club/movie-review](https://github.com/WSU-Software-Development-Club/movie-review)
+
+- [Backend: Implement getMovieById](https://github.com/WSU-Software-Development-Club/movie-review/issues/3)
+- [Frontend: Implement searchMovies in API Client](https://github.com/WSU-Software-Development-Club/movie-review/issues/6)
+
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+
+- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
+
+## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
+
+- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
+- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
+
+## [usebruno/bruno](https://github.com/usebruno/bruno)
+
+- [Make URLs clickable in console](https://github.com/usebruno/bruno/issues/6275)
+- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
+- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
+- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
+
+## [serverless/serverless](https://github.com/serverless/serverless)
+
+- [creating a project from private git repo copies the .git folder](https://github.com/serverless/serverless/issues/11978)
+
+## [badges/shields](https://github.com/badges/shields)
+
+- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
+- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
+
 ## [code-charity/youtube](https://github.com/code-charity/youtube)
 
+- [🐞"Quality" preference setting broken](https://github.com/code-charity/youtube/issues/3644)
+- [💡Remove the new "most relevant" section on subscriptions page](https://github.com/code-charity/youtube/issues/3377)
+- [🐞Theatre mode is offset as if the sidebar is still there, even though sidebar is blank](https://github.com/code-charity/youtube/issues/3664)
+- [BUG: scroll shortcuts in firefox & FEATURE REQUEST: 1. Shortcut requirement hover player optional (or other elements) 2. predefined scroll for volume option 3. multiple shortcuts for one action](https://github.com/code-charity/youtube/issues/862)
+- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
 - [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
 - [🐞Shortcuts not working when the player is not on focus.](https://github.com/code-charity/youtube/issues/3659)
 - [💡 Desperately seeking filters to unclog my Subscriptions page.](https://github.com/code-charity/youtube/issues/3656)
 - [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
 - [Ways to add Shorts to the queue list, user saved playlists & watch later list!](https://github.com/code-charity/youtube/issues/2460)
 - [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
-- [🐞Chats on streams are almost entirely covered by a black square](https://github.com/code-charity/youtube/issues/3617)
 - [🐞Setting quality is not working for some videos](https://github.com/code-charity/youtube/issues/3647)
 - [🐞Header hover on video page not working as expected](https://github.com/code-charity/youtube/issues/3645)
-- [🐞"Quality" preference setting broken](https://github.com/code-charity/youtube/issues/3644)
-- [Comments sorted by newest](https://github.com/code-charity/youtube/issues/3642)
 - [Classic expanded descriptions is broken ](https://github.com/code-charity/youtube/issues/1802)
 - [🐞Disable video playback when hovering on thumbnails not working as expected](https://github.com/code-charity/youtube/issues/3639)
 - [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
@@ -67,131 +203,14 @@ This list gets updated every day at midnight.
 - [💡Not interested / don't recommend channel, auto add video / Channel to block list. ](https://github.com/code-charity/youtube/issues/3579)
 - [Sort search results by upload date](https://github.com/code-charity/youtube/issues/3564)
 
-## [oss-slu/DigitalBonesBox](https://github.com/oss-slu/DigitalBonesBox)
+## [gchq/CyberChef](https://github.com/gchq/CyberChef)
 
-- [Modals do not scale well, and not all buttons may be visible](https://github.com/oss-slu/DigitalBonesBox/issues/232)
-- [Test `/colored-regions` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/269)
-- [Set up server unit tests](https://github.com/oss-slu/DigitalBonesBox/issues/263)
-- [Add IDs to annotations](https://github.com/oss-slu/DigitalBonesBox/issues/246)
-- [Remove unneeded data from database](https://github.com/oss-slu/DigitalBonesBox/issues/237)
-- [Test `/api/search` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/268)
-- [Test `/api/annotations/:boneId` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/267)
-- [Test `/api/bone-data` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/266)
-- [Test `/api/description` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/265)
-- [Test `/combined-data` endpoint](https://github.com/oss-slu/DigitalBonesBox/issues/264)
-- [Populate Sidebar](https://github.com/oss-slu/DigitalBonesBox/issues/111)
-- [Label toggle](https://github.com/oss-slu/DigitalBonesBox/issues/233)
+- [Bug report: fromDecimal(...) function does not correctly handle delim parameter passed as default ("Auto")](https://github.com/gchq/CyberChef/issues/2217)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [hollowish/real-estate-buddy](https://github.com/hollowish/real-estate-buddy)
 
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
-
-## [ubc-biztech/biztech-documentation](https://github.com/ubc-biztech/biztech-documentation)
-
-- [Unhide Users API section and reconcile with Members API](https://github.com/ubc-biztech/biztech-documentation/issues/11)
-- [Write architecture overview page](https://github.com/ubc-biztech/biztech-documentation/issues/10)
-
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
-
-- [Create topic outline with interactive walkthrough and visuals for Priority Queues and Heaps](https://github.com/Techtonica/curriculum/issues/2244)
-
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
-
-- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
-
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
-
-- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
-- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
-- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [メッセージの読み取りを可能にしてください！](https://github.com/PipedreamHQ/pipedream/issues/20145)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
-- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
-- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
-- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
-- [[ACTION] iCal Calendar Management (Create, Update, Delete Events)](https://github.com/PipedreamHQ/pipedream/issues/19521)
-
-## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
-
-- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
-- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
-
-## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
-
-- [Check if inspect element exposes any vulnerabilities for website](https://github.com/saayam-for-all/webapp/issues/918)
-- [Issues with Request Details page](https://github.com/saayam-for-all/webapp/issues/1224)
-- [Organizing i18next JSON files using i18next Namespaces for Internationalization](https://github.com/saayam-for-all/webapp/issues/876)
-- [Issues with Volunteer wizard](https://github.com/saayam-for-all/webapp/issues/1203)
-- [Test and integrate backend API for Organization Details tab](https://github.com/saayam-for-all/webapp/issues/757)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
-- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
-- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
-- [using my GoBack mouse button switches workspaces](https://github.com/zen-browser/desktop/issues/12491)
-- [duplicate tab shortcut missing](https://github.com/zen-browser/desktop/issues/11411)
-- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
-- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
-- [[Visual Design] New Recognition Badge: Feature Trailblazer Badge](https://github.com/layer5io/layer5/issues/4808)
-- [[Screenshots] AWS App Mesh under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4845)
-
-## [facebook/stylex](https://github.com/facebook/stylex)
-
-- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
-
-## [nedcodes-ok/rule-gen](https://github.com/nedcodes-ok/rule-gen)
-
-- [Add Python project detection](https://github.com/nedcodes-ok/rule-gen/issues/6)
-- [Add --output-dir flag](https://github.com/nedcodes-ok/rule-gen/issues/5)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
-- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Use i18n for common strings](https://github.com/nodejs/doc-kit/issues/280)
-- [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
-- [Generating the Stability Overview](https://github.com/nodejs/doc-kit/issues/357)
-
-## [Dfunder/web-fox](https://github.com/Dfunder/web-fox)
-
-- [Implement Login UI](https://github.com/Dfunder/web-fox/issues/26)
-- [Setup Layout System (Navbar + Footer)](https://github.com/Dfunder/web-fox/issues/20)
+- [fix edit button formatting on /listings page listing](https://github.com/hollowish/real-estate-buddy/issues/26)
+- [show user name in nav bar](https://github.com/hollowish/real-estate-buddy/issues/21)
 
 ## [meteor/meteor](https://github.com/meteor/meteor)
 
@@ -200,102 +219,56 @@ This list gets updated every day at midnight.
 - [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
 - [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
 
-## [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
+## [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
 
-- [Pegaprox does not get any data when 2FA is enabled](https://github.com/PegaProx/project-pegaprox/issues/110)
-- [LDAPS login error](https://github.com/PegaProx/project-pegaprox/issues/108)
+- [streak achievement appearing twice](https://github.com/HabitRPG/habitica/issues/13325)
 
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+## [akctba/weather-react-app](https://github.com/akctba/weather-react-app)
 
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+- [♿ ACCESSIBILITY: Missing Label for Search Input](https://github.com/akctba/weather-react-app/issues/22)
+- [🧹 Remove console.log Statements from Production Code](https://github.com/akctba/weather-react-app/issues/30)
 
-## [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+## [hiero-ledger/hiero-sdk-js](https://github.com/hiero-ledger/hiero-sdk-js)
 
-- [Mermaid Graphing Schema](https://github.com/SchemaStore/schemastore/issues/5095)
+- [[Good First Issue]: Replace wildcard type * use in src/schedule/ScheduleId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3821)
+- [[Good First Issue]: Replace wildcard type * use in src/topic/TopicId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3823)
+- [[Good First Issue]: Replace wildcard type * use in src/EntityIdHelper.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3798)
+- [[Good First Issue]: Replace wildcard type * use in src/account/AccountId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3818)
+- [[Good First Issue]: Replace wildcard type * use in src/contract/ContractId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3819)
+- [[Good First Issue]: Replace wildcard type * use in src/token/TokenId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3822)
+- [[Good First Issue]: Replace wildcard type * use in src/file/FileId.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3820)
+- [[Good First Issue]: Replace wildcard * use in src/schedule/ScheduleInfoQuery.js](https://github.com/hiero-ledger/hiero-sdk-js/issues/3799)
+- [[Good First Issue]: fix typo and grammar in CONTRIBUTING.md](https://github.com/hiero-ledger/hiero-sdk-js/issues/3705)
+- [[Good First Issue]: TransactionResponse: Replace Wildcard Client Typedef with Generic Client<Channel, MirrorChannel>](https://github.com/hiero-ledger/hiero-sdk-js/issues/3761)
 
-## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [story:TBP-P2-005 design low-connectivity mobile workflow and sync policy](https://github.com/jdsalasca/timebank-protocol/issues/55)
-- [story:TBP-P2-004 build policy simulation sandbox for threshold/reputation](https://github.com/jdsalasca/timebank-protocol/issues/54)
-- [story:TBP-P1-007 add pilot health snapshot exports](https://github.com/jdsalasca/timebank-protocol/issues/53)
-- [story:TBP-P1-006 add trust explainability timeline endpoint](https://github.com/jdsalasca/timebank-protocol/issues/52)
-- [story:TBP-P1-005 add member recovery guidance engine](https://github.com/jdsalasca/timebank-protocol/issues/51)
-- [story:TBP-P2-002 prototype proof-of-care attestations](https://github.com/jdsalasca/timebank-protocol/issues/50)
-- [story:TBP-P2-001 design federation-ready community contracts](https://github.com/jdsalasca/timebank-protocol/issues/49)
-- [story:TBP-P1-004 add dispute triage and intervention workflow](https://github.com/jdsalasca/timebank-protocol/issues/48)
-- [story:TBP-P1-003 version policy metadata and expose through API](https://github.com/jdsalasca/timebank-protocol/issues/47)
-- [story:TBP-P1-002 build weekly operations digest automation](https://github.com/jdsalasca/timebank-protocol/issues/46)
-- [story:TBP-P1-001 add reputation scoring and explainability](https://github.com/jdsalasca/timebank-protocol/issues/45)
-- [story:TBP-P0-008 add reproducibility gate for ledger outputs](https://github.com/jdsalasca/timebank-protocol/issues/44)
-- [story:TBP-P0-007 deliver coordinator fairness dashboard v1](https://github.com/jdsalasca/timebank-protocol/issues/43)
-- [story:TBP-P0-006 ship anti-abuse anomaly alerts for debt velocity](https://github.com/jdsalasca/timebank-protocol/issues/42)
-- [story:TBP-P0-005 make disputes and confirmations first-class events](https://github.com/jdsalasca/timebank-protocol/issues/41)
-- [story:TBP-P0-004 add negative threshold policy enforcement](https://github.com/jdsalasca/timebank-protocol/issues/40)
-- [story:TBP-P0-003 introduce immutable ledger event identifiers](https://github.com/jdsalasca/timebank-protocol/issues/39)
-- [story:TBP-P0-002 implement deterministic balance recomputation](https://github.com/jdsalasca/timebank-protocol/issues/38)
-- [story:TBP-P0-001 harden ledger schema and replay protections](https://github.com/jdsalasca/timebank-protocol/issues/37)
-- [policy: community voting module for protocol parameters](https://github.com/jdsalasca/timebank-protocol/issues/36)
-- [mobile: offline-first field transaction signing](https://github.com/jdsalasca/timebank-protocol/issues/35)
-- [proof: verifiable proof-of-care attestations](https://github.com/jdsalasca/timebank-protocol/issues/34)
-- [identity: portable time wallet and trust passport starter](https://github.com/jdsalasca/timebank-protocol/issues/33)
-- [federation: cross-community interoperability contract](https://github.com/jdsalasca/timebank-protocol/issues/32)
-- [alerts: urgent-needs broadcast mode](https://github.com/jdsalasca/timebank-protocol/issues/31)
-- [scripts: monthly protocol health report generation](https://github.com/jdsalasca/timebank-protocol/issues/30)
-- [governance: transparent policy-change log](https://github.com/jdsalasca/timebank-protocol/issues/29)
-- [contracts: version policy metadata and threshold assumptions](https://github.com/jdsalasca/timebank-protocol/issues/28)
-- [fairness: contribution distribution and debt concentration heatmap](https://github.com/jdsalasca/timebank-protocol/issues/27)
-- [operations: unresolved disputes triage workflow](https://github.com/jdsalasca/timebank-protocol/issues/26)
-- [operations: coordinator weekly digest generation](https://github.com/jdsalasca/timebank-protocol/issues/25)
-- [dashboard: network health and transaction velocity metrics](https://github.com/jdsalasca/timebank-protocol/issues/24)
-- [reputation: on-time completion and reliability scoring](https://github.com/jdsalasca/timebank-protocol/issues/23)
-- [messaging: request accepted and completion reminder workflows](https://github.com/jdsalasca/timebank-protocol/issues/22)
-- [ci: add ledger reproducibility quality gate](https://github.com/jdsalasca/timebank-protocol/issues/21)
-- [dashboard: add coordinator fairness and risk panel](https://github.com/jdsalasca/timebank-protocol/issues/20)
-- [matching: add skill + availability matching v1](https://github.com/jdsalasca/timebank-protocol/issues/19)
-- [anti-abuse: implement suspicious debt accumulation alerts](https://github.com/jdsalasca/timebank-protocol/issues/18)
-- [anti-abuse: detect velocity anomalies for new members](https://github.com/jdsalasca/timebank-protocol/issues/17)
-- [protocol: add dispute and confirmation events as first-class records](https://github.com/jdsalasca/timebank-protocol/issues/16)
-- [protocol: add configurable negative-balance threshold policy](https://github.com/jdsalasca/timebank-protocol/issues/15)
-- [ledger: add immutable transaction and event IDs](https://github.com/jdsalasca/timebank-protocol/issues/14)
-- [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
-- [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
+- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
+- [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
+- [[docs] Getting started tabs is broken](https://github.com/cdxgen/cdxgen/issues/3622)
+- [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
 
-## [swiftlang/swift-docc-render](https://github.com/swiftlang/swift-docc-render)
+## [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
-- [Change Background of inline code statements (backticks)](https://github.com/swiftlang/swift-docc-render/issues/892)
-
-## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
-
-- [Add "show my location" button](https://github.com/osm-americana/openstreetmap-americana/issues/903)
-- [Missing shield for Kettle Moraine Scenic Drive](https://github.com/osm-americana/openstreetmap-americana/issues/865)
-- [Update shield library README to reflect current OpenMapTiles route_N attributes](https://github.com/osm-americana/openstreetmap-americana/issues/1065)
-- [Add shields for unorganized territory roads in Minnesota](https://github.com/osm-americana/openstreetmap-americana/issues/1140)
-- [Scale bar in the demo](https://github.com/osm-americana/openstreetmap-americana/issues/898)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10693)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/10692)
-- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10621)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10501)
-- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
-- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
-- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10084)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/skewness`](https://github.com/stdlib-js/stdlib/issues/3497)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chi/kurtosis`](https://github.com/stdlib-js/stdlib/issues/3491)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10073)
-
-## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
-
-- [Public share link does not change the window title](https://github.com/nextcloud/richdocuments/issues/2619)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
+- [Add Filters and Effects: Use classes for blur, brightness, grayscale, contrast, and other visual effects.](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/839)
+- [Create Tuesday meetup page](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/1017)
+- [Finish blog](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/1015)
+- [Add Tuesday meetup details to homepage grid](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/1016)
+- [Animate Elements: Create smooth transitions and animations with transition, duration, and ease utilities.](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/826)
+- [Can we configure `pyproject.toml` to have an entry for `codespell` ?](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/954)
+- [The Docker image now builds but the following tests now fail](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/971)
+- [Remove all alert() in script.js and create a custom and nice user-friendly alert by css/js](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/631)
+- [Add Open Graph protocol tags](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/453)
+- [Create Responsive Designs: Use responsive prefixes like sm:, md:, and lg: to create layouts that adapt to different screen sizes.](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/840)
+- [Create nice image display for when clicking on images for the whole site](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/819)
+- [To improve maintainability and reduce repetition we should use component classes by using `@apply` in your CSS file](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/799)
+- [Fix Super Linter CSS error](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/772)
+- [Tailwind CSS grid for about page moderators ](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/739)
+- [FRONT: Change theme toggle icon to sun / mon / and special one (for random) after clicking on each one](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/689)
+- [Deeply check TailwindCSS output css file](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/595)
+- [We need to double check to make sure we fully ignore _site and _deploy dir from eslint, prettier, pre-commit, and other linters/checkers](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/594)
+- [We need to have all CSS responsive images](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/373)
+- [Minutes from BSC meeting 24/06/2025 version 2.0](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/243)
+- [Need some server rules for Discord](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/170)
+- [Add GitHub issue templates](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues/46)
 
