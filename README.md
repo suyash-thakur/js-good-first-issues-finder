@@ -4,9 +4,30 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [riki-pedia/ft-to-inv](https://github.com/riki-pedia/ft-to-inv)
+
+- [Make a bigger test database](https://github.com/riki-pedia/ft-to-inv/issues/60)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
+
+## [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+
+- [Add: Blog post to social media repurposing agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/3)
+- [Add: Slack standup bot agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/2)
+- [Add: GitHub PR reviewer agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/1)
+
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
+
+- ["Open With Pulsar" context option doesn't go away after uninstalling](https://github.com/pulsar-edit/pulsar/issues/274)
+- [Finish Bundling Core Packages](https://github.com/pulsar-edit/pulsar/issues/512)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -14,18 +35,14 @@ This list gets updated every day at midnight.
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 
-- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
-- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
-- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
-- [Integrate `check-spelling` into CI to catch documentation typos automatically](https://github.com/Ryan-Millard/Img2Num/issues/227)
-- [style(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
-- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
-- [Add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
-- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
-- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
-- [chore(README): replace old demo images with more modern examples of updated library](https://github.com/Ryan-Millard/Img2Num/issues/260)
+- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
+- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
+- [feat: TFTP server](https://github.com/carverauto/serviceradar/issues/192)
+- [feat(web-ng): enhance sightings in device details](https://github.com/carverauto/serviceradar/issues/2770)
+- [feat(netflow): shodan integration](https://github.com/carverauto/serviceradar/issues/2765)
+- [feat: add support for vector](https://github.com/carverauto/serviceradar/issues/2764)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -38,30 +55,10 @@ This list gets updated every day at midnight.
 - [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 - [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [[ACTION] Expand Returnless List Return Order action](https://github.com/PipedreamHQ/pipedream/issues/20191)
-- [[ACTION] Polar.sh](https://github.com/PipedreamHQ/pipedream/issues/17977)
-- [メッセージの読み取りを可能にしてください！](https://github.com/PipedreamHQ/pipedream/issues/20145)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
-- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
-- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
-- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-- [[ACTION] BigQuery - Add Google Drive OAuth Scope for External Table Support](https://github.com/PipedreamHQ/pipedream/issues/19729)
-
-## [mieweb/opensource-server](https://github.com/mieweb/opensource-server)
-
-- [Enforce password complexity](https://github.com/mieweb/opensource-server/issues/228)
-- [[Bug]: Non-default external domain being listed first for HTTP services](https://github.com/mieweb/opensource-server/issues/208)
-- [Update container MOTD to include port forwards and services via API](https://github.com/mieweb/opensource-server/issues/114)
-- [create-a-container: add CSRF protection](https://github.com/mieweb/opensource-server/issues/73)
-- [support https backends in Services model](https://github.com/mieweb/opensource-server/issues/89)
-- [Add a favicon for create-a-container](https://github.com/mieweb/opensource-server/issues/153)
+- [[UI Refactor] [plexus] Migrate SvgEdges to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3397)
+- [[Bug]: On initial load of Monitor page the charts are half-width](https://github.com/jaegertracing/jaeger-ui/issues/3539)
 
 ## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
@@ -69,103 +66,17 @@ This list gets updated every day at midnight.
 - [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
 - [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
 
+## [badges/shields](https://github.com/badges/shields)
+
+- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
+- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
+
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
 - [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
 - [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
 - [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
 - [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-
-## [ianfhunter/Enigma](https://github.com/ianfhunter/Enigma)
-
-- [[BUG] Pyramid popup pushes game](https://github.com/ianfhunter/Enigma/issues/247)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
-- [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
-- [ReDoS Vulnerability Analysis and Fixes](https://github.com/meteor/meteor/issues/13933)
-- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
-
-## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
-
-- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
-- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Add Networking examples in docs index page](https://github.com/HeyPuter/puter/issues/2611)
-- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
-
-## [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)
-
-- [Vertical bar character | is not escaped in cURL (CMD) request snipped body](https://github.com/swagger-api/swagger-ui/issues/10540)
-
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-
-- [[UI Refactor] [plexus] Migrate SvgEdges to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3397)
-- [[Bug]: On initial load of Monitor page the charts are half-width](https://github.com/jaegertracing/jaeger-ui/issues/3539)
-- [[UI Refactor] Migrate VirtualizedTraceView to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3372)
-
-## [jlab-sensing/ENTS-backend](https://github.com/jlab-sensing/ENTS-backend)
-
-- [Cannot download sensor data with csv](https://github.com/jlab-sensing/ENTS-backend/issues/468)
-- [Setup permannt demo cell](https://github.com/jlab-sensing/ENTS-backend/issues/431)
-
-## [Aryan3522/Todo-App](https://github.com/Aryan3522/Todo-App)
-
-- [Add Form Validation for Add Task](https://github.com/Aryan3522/Todo-App/issues/18)
-- [Add Loading Spinner for API Requests](https://github.com/Aryan3522/Todo-App/issues/16)
-- [Add Empty State UI for Task Lists](https://github.com/Aryan3522/Todo-App/issues/15)
-
-## [Aryan3522/Todo-List](https://github.com/Aryan3522/Todo-List)
-
-- [Create API Documentation Using Swagger](https://github.com/Aryan3522/Todo-List/issues/22)
-- [Improve Task UI and User Experience](https://github.com/Aryan3522/Todo-List/issues/12)
-- [Implement Create Task API Endpoint](https://github.com/Aryan3522/Todo-List/issues/8)
-- [Add Database Integration for Tasks](https://github.com/Aryan3522/Todo-List/issues/7)
-- [Create Backend API Server Structure](https://github.com/Aryan3522/Todo-List/issues/6)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Use i18n for common strings](https://github.com/nodejs/doc-kit/issues/280)
-- [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
-
-## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
-
-- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
-- [[Bug]: Vectors Operations out of scale](https://github.com/physicshub/physicshub.github.io/issues/63)
-- [[Bug]: 8 Pages have problems of Cumulative Layout Shift (CLS)](https://github.com/physicshub/physicshub.github.io/issues/185)
-- [[Bug]: In VectorsOperation Simulation, Subtraction with Parallelogram method is bugged](https://github.com/physicshub/physicshub.github.io/issues/87)
-
-## [kartikey2004-git/GFGxELIXIR](https://github.com/kartikey2004-git/GFGxELIXIR)
-
-- [font almost invisible](https://github.com/kartikey2004-git/GFGxELIXIR/issues/47)
-- [the mission timeline dots are not aligned properly with the line](https://github.com/kartikey2004-git/GFGxELIXIR/issues/49)
-- [the blinking animation in the tracks is not properly aligned](https://github.com/kartikey2004-git/GFGxELIXIR/issues/50)
-- [e is cut, the heading looks weird](https://github.com/kartikey2004-git/GFGxELIXIR/issues/48)
-
-## [FOSSCLUB-LBSITW/flappy-bird](https://github.com/FOSSCLUB-LBSITW/flappy-bird)
-
-- [Enhancement: Add Favicon to Improve Browser Tab Identification](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/20)
-- [bugs](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/14)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Make URLs clickable in console](https://github.com/usebruno/bruno/issues/6275)
-- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
-- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [Simplify the TWIM Guide](https://github.com/matrix-org/matrix.org/issues/3248)
-- [add Kazarma](https://github.com/matrix-org/matrix.org/issues/3241)
-- [Split SchildiChat ecosystem entry to mirror Element classic](https://github.com/matrix-org/matrix.org/issues/3221)
 
 ## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
 
@@ -214,54 +125,176 @@ This list gets updated every day at midnight.
 - [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
 - [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
 
-## [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Mobile Phone validations - For The First Time Contributors](https://github.com/validatorjs/validator.js/issues/1761)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
 
-## [cardano-foundation/cardano-org](https://github.com/cardano-foundation/cardano-org)
+## [fastify/fastify](https://github.com/fastify/fastify/pull/5717)
 
-- [Help translate cardano.org into your language](https://github.com/cardano-foundation/cardano-org/issues/442)
-
-## [sarojit049/Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines)
-
-- [[GOOD FIRST ISSUE] Improve UI Responsiveness and Fix Minor Bugs in Fleetiva-Roadlines](https://github.com/sarojit049/Fleetiva-Roadlines/issues/62)
-- [Real-Time Shipment Tracking:](https://github.com/sarojit049/Fleetiva-Roadlines/issues/65)
-- [Implement AI Maintainer Automation for Issues, PR Review, and Activity Tracking](https://github.com/sarojit049/Fleetiva-Roadlines/issues/67)
-- [[OSCG26] Add rule-based issue auto-triage and assignment workflow](https://github.com/sarojit049/Fleetiva-Roadlines/issues/68)
-
-## [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
-
-- [streak achievement appearing twice](https://github.com/HabitRPG/habitica/issues/13325)
-
-## [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
-
-- [rubico/x/sleep](https://github.com/a-synchronous/rubico/issues/45)
+- [docs: Codemods for Upgrading to fastify v5](https://github.com/fastify/fastify/pull/5717)
+- [invalid: improve server.md TOC](https://github.com/fastify/fastify/pull/6161)
+- [Causes of degradation](https://github.com/fastify/fastify/issues/4832)
+- [ApplicationHooks have inconsistent reference to instance](https://github.com/fastify/fastify/issues/4967)
+- [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
 
 ## [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
 
 - [Better error handling - action step does not fail despite error](https://github.com/release-drafter/release-drafter/issues/1469)
 - [Add dry-run option to v6](https://github.com/release-drafter/release-drafter/issues/1401)
 
-## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
-
-- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
-- [Bulk create medical/vacc/test keep list after creation](https://github.com/sheltermanager/asm3/issues/1326)
-
-## [skupperproject/vms](https://github.com/skupperproject/vms)
-
-- [Convert var to let/const](https://github.com/skupperproject/vms/issues/11)
-- [Remove the unneeded 'backbone activation' feature](https://github.com/skupperproject/vms/issues/22)
-
 ## [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
 
 - [Memory leak in ACT test runner: `process` `exit` listeners accumulate across test suites](https://github.com/dequelabs/axe-core/issues/5018)
 
-## [thunder-engine/thunderengine.org](https://github.com/thunder-engine/thunderengine.org)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Construct the Downloads page](https://github.com/thunder-engine/thunderengine.org/issues/4)
-- [Construct Features page](https://github.com/thunder-engine/thunderengine.org/issues/5)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10801)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10708)
+- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
+- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
+- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
+- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
 
-## [hovancik/stretchly](https://github.com/hovancik/stretchly)
+## [WallGodds/WallGodds-Web](https://github.com/WallGodds/WallGodds-Web)
 
-- [Feature request: Disable break sub-options if the break is disabled](https://github.com/hovancik/stretchly/issues/773)
+- [🔲 DESKTOP GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/284)
+- [🔲 UPLOAD PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/281)
+- [📱 NAVBAR HAMBERGER MENU - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/248)
+- [🔲 MOBILE GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/283)
+- [🔲 TABLET GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/282)
+- [📱 SIGN IN PAGE - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/258)
+- [🖼️ Design Wallpapers and Add Them to the Project](https://github.com/WallGodds/WallGodds-Web/issues/160)
+
+## [KaranUnique/CryptoHub](https://github.com/KaranUnique/CryptoHub)
+
+- [404 Error When Opening Portfolio Section](https://github.com/KaranUnique/CryptoHub/issues/284)
+- [Need a professional logo for the project](https://github.com/KaranUnique/CryptoHub/issues/211)
+
+## [RaphaelRegnier/vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)
+
+- [Support Dia Browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/29)
+- [Extension doesn't work with Arc browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/25)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
+- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
+- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
+- [using my GoBack mouse button switches workspaces](https://github.com/zen-browser/desktop/issues/12491)
+- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
+- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
+
+## [FOSSCLUB-LBSITW/calculator_hts](https://github.com/FOSSCLUB-LBSITW/calculator_hts/pull/82)
+
+- [Scientific mode added](https://github.com/FOSSCLUB-LBSITW/calculator_hts/pull/82)
+- [Improve README by adding Contributing Section for new contributors](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/84)
+- [Scientific Calculator Mode Toggle](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/68)
+- [Calculator button layout is misaligned](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/17)
+
+## [FOSSCLUB-LBSITW/flappy-bird](https://github.com/FOSSCLUB-LBSITW/flappy-bird)
+
+- [Enhancement: Add Favicon to Improve Browser Tab Identification](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/20)
+- [bugs](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/14)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- [💡Increase Timeout of Title fade when in full screen](https://github.com/code-charity/youtube/issues/3682)
+- [🐞 Playlist "Up next autoplay" off does not work](https://github.com/code-charity/youtube/issues/3627)
+- [💡New option for hiding ytd-feed-filter-chip-bar-renderer#chips-wrapper](https://github.com/code-charity/youtube/issues/3675)
+- [🐞Video titles and details get hidden behind video when comment section is opened in Shorts](https://github.com/code-charity/youtube/issues/3670)
+- [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
+- [💡Mute for thumbnail previews](https://github.com/code-charity/youtube/issues/3666)
+- [🐞Theatre mode is offset as if the sidebar is still there, even though sidebar is blank](https://github.com/code-charity/youtube/issues/3664)
+- [🐞"Quality" preference setting broken](https://github.com/code-charity/youtube/issues/3644)
+- [BUG: scroll shortcuts in firefox & FEATURE REQUEST: 1. Shortcut requirement hover player optional (or other elements) 2. predefined scroll for volume option 3. multiple shortcuts for one action](https://github.com/code-charity/youtube/issues/862)
+- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
+- [💡 Desperately seeking filters to unclog my Subscriptions page.](https://github.com/code-charity/youtube/issues/3656)
+- [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
+- [Ways to add Shorts to the queue list, user saved playlists & watch later list!](https://github.com/code-charity/youtube/issues/2460)
+- [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
+- [🐞Setting quality is not working for some videos](https://github.com/code-charity/youtube/issues/3647)
+- [🐞Header hover on video page not working as expected](https://github.com/code-charity/youtube/issues/3645)
+- [Classic expanded descriptions is broken ](https://github.com/code-charity/youtube/issues/1802)
+- [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
+- [🐞Bug using the setting to hide the control bar when paused; after using the bar, the mouse takes a while to disappear](https://github.com/code-charity/youtube/issues/3634)
+- [🐞Filtering suggested videos (blocklist) does not work, among other things (Linux + Brave)](https://github.com/code-charity/youtube/issues/3630)
+- [💡Automatically accept content warning](https://github.com/code-charity/youtube/issues/3591)
+- [themes  update / improve](https://github.com/code-charity/youtube/issues/3616)
+- [🐞Shorts aren't removed](https://github.com/code-charity/youtube/issues/3614)
+- [🐞Extension not working as of yesterday](https://github.com/code-charity/youtube/issues/3535)
+- [🐞](https://github.com/code-charity/youtube/issues/3610)
+- [Feature request: 1. Show YouTube comments while watching 2. Kament.io - Enable Youtube Comments](https://github.com/code-charity/youtube/issues/3464)
+- [🐞](https://github.com/code-charity/youtube/issues/3615)
+- [💡Manual “Mark as Watched” + Auto-Hide for YouTube Feeds](https://github.com/code-charity/youtube/issues/3613)
+- [🐞 Views, like and dislike count disappearing on videos uploaded <24 hours ago.](https://github.com/code-charity/youtube/issues/3563)
+- [🐞Video fails to play due to <Preventing AI-upscaled "Super Resolution>](https://github.com/code-charity/youtube/issues/3612)
+- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
+- [🐞Blank space between comments section when watching Shorts.](https://github.com/code-charity/youtube/issues/2940)
+- [Cinema mode in Edge](https://github.com/code-charity/youtube/issues/2763)
+
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+
+- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
+- [feat(example-app): add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
+- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
+- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
+- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
+- [Integrate `check-spelling` into CI to catch documentation typos automatically](https://github.com/Ryan-Millard/Img2Num/issues/227)
+- [style(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
+- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
+- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
+- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
+- [chore(README): replace old demo images with more modern examples of updated library](https://github.com/Ryan-Millard/Img2Num/issues/260)
+
+## [gchq/CyberChef](https://github.com/gchq/CyberChef)
+
+- [Bug report: fromDecimal(...) function does not correctly handle delim parameter passed as default ("Auto")](https://github.com/gchq/CyberChef/issues/2217)
+
+## [PrekshaJain1909/Our_Space](https://github.com/PrekshaJain1909/Our_Space)
+
+- [Register Page](https://github.com/PrekshaJain1909/Our_Space/issues/4)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/8549)
+
+- [Removed Mugdh Chauhan from website team](https://github.com/hackforla/website/pull/8549)
+- [Update Project Profile: Website Remove Mugdh Chauhan](https://github.com/hackforla/website/issues/8337)
+- [Update `Github` to `GitHub` in Footer of Sitemap Image](https://github.com/hackforla/website/issues/8488)
+- [Change to config file for "Add Update Label Weekly"](https://github.com/hackforla/website/issues/8547)
+- [Update Project Profile: Hackforla.org Website Add Xavier Neal-Carson](https://github.com/hackforla/website/issues/8361)
+- [Update Project Profile: Civic Tech Jobs (Add Tech: AWS)](https://github.com/hackforla/website/issues/8333)
+- [Update the Date for the Site Map](https://github.com/hackforla/website/issues/8489)
+- [Correct Oxford Comma in Projects Page](https://github.com/hackforla/website/issues/8510)
+- [Correct Oxford Comma in Communities of Practice Page](https://github.com/hackforla/website/issues/8511)
+- [Correct Oxford Comma in Join Us Page](https://github.com/hackforla/website/issues/8512)
+- [Correct Oxford Comma in Join Us Page](https://github.com/hackforla/website/issues/8513)
+- [Correct Comma in Site Map Page](https://github.com/hackforla/website/issues/8514)
+- [Correct Comma in Project Meetings Page](https://github.com/hackforla/website/issues/8539)
+- [Update Project Profile: Civic Tech Jobs (Add Tech: Vite)](https://github.com/hackforla/website/issues/8332)
+- [Update Community of Practice: UI/UX Remove Leo Peng](https://github.com/hackforla/website/issues/8540)
+- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+- [Update Donate page in Figma to reflect changes on site ](https://github.com/hackforla/website/issues/4051)
+- [Remove unused file current-projects-check.html](https://github.com/hackforla/website/issues/7780)
+- [ER: Sometimes we use quotes around text in .md files and sometimes we don't](https://github.com/hackforla/website/issues/7540)
+
+## [AOSSIE-Org/Resonate-Website](https://github.com/AOSSIE-Org/Resonate-Website/pull/253)
+
+- [Add Alt-text for improve Accessibility and SEO](https://github.com/AOSSIE-Org/Resonate-Website/pull/253)
+- [fix: update Next.js to 16.1.6 to resolve security vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/pull/259)
+- [UI/UX: Addition of a "Contact" Button in Navbar to scroll to Footer in new-design](https://github.com/AOSSIE-Org/Resonate-Website/issues/295)
+- [UI/UX: Addition of Standardised Typography in the New Design System](https://github.com/AOSSIE-Org/Resonate-Website/issues/290)
+- [UI/UX: Background Holder Tile Component with Scroll-Based Fluid Animation](https://github.com/AOSSIE-Org/Resonate-Website/issues/291)
+- [Adding CODEOWNERS file to the ```new-design``` branch](https://github.com/AOSSIE-Org/Resonate-Website/issues/203)
+- [Security: Update Next.js to 16.1.6 to Fix High Severity DoS Vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/issues/258)
+- [Security Vulnerability & Accessibility: External links missing rel="noopener" and aria-labels](https://github.com/AOSSIE-Org/Resonate-Website/issues/124)
+
+## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
+
+- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
+- [Bulk create medical/vacc/test keep list after creation](https://github.com/sheltermanager/asm3/issues/1326)
 
