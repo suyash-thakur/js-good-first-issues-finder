@@ -4,79 +4,133 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [riki-pedia/ft-to-inv](https://github.com/riki-pedia/ft-to-inv)
-
-- [Make a bigger test database](https://github.com/riki-pedia/ft-to-inv/issues/60)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
-- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
-
-## [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-
-- [Add: Blog post to social media repurposing agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/3)
-- [Add: Slack standup bot agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/2)
-- [Add: GitHub PR reviewer agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/1)
-
-## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
-
-- ["Open With Pulsar" context option doesn't go away after uninstalling](https://github.com/pulsar-edit/pulsar/issues/274)
-- [Finish Bundling Core Packages](https://github.com/pulsar-edit/pulsar/issues/512)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-- [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
-
-## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
-
-- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
-- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
-- [feat: TFTP server](https://github.com/carverauto/serviceradar/issues/192)
-- [feat(web-ng): enhance sightings in device details](https://github.com/carverauto/serviceradar/issues/2770)
-- [feat(netflow): shodan integration](https://github.com/carverauto/serviceradar/issues/2765)
-- [feat: add support for vector](https://github.com/carverauto/serviceradar/issues/2764)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-
 ## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
 - [[UI Refactor] [plexus] Migrate SvgEdges to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3397)
 - [[Bug]: On initial load of Monitor page the charts are half-width](https://github.com/jaegertracing/jaeger-ui/issues/3539)
 
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
+
+## [antropos17/Aegis](https://github.com/antropos17/Aegis)
+
+- [Add keyboard shortcut hints to tab navigation](https://github.com/antropos17/Aegis/issues/77)
+- [Add OpenClaw Gateway detection test](https://github.com/antropos17/Aegis/issues/75)
+- [Replace console.warn in rule-loader with structured logger](https://github.com/antropos17/Aegis/issues/74)
+- [Add unit tests for rule-loader.js YAML parsing](https://github.com/antropos17/Aegis/issues/73)
+- [docs(i18n): community translation guide and language template](https://github.com/antropos17/Aegis/issues/57)
+
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
+
+- [[Bug]: pendulum in SimplePendulum simulation is rotating inverted](https://github.com/physicshub/physicshub.github.io/issues/224)
+- [[Bug]: 8 Pages have problems of Cumulative Layout Shift (CLS)](https://github.com/physicshub/physicshub.github.io/issues/185)
+- [[Bug]: Google Search Console can't index sitemap.xml](https://github.com/physicshub/physicshub.github.io/issues/107)
+- [[Bug]: Vectors Operations out of scale](https://github.com/physicshub/physicshub.github.io/issues/63)
+- [[Bug]: In VectorsOperation Simulation, Subtraction with Parallelogram method is bugged](https://github.com/physicshub/physicshub.github.io/issues/87)
+
 ## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
 - [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
-- [Error: Invalid purl: "name" is a required field when running cdxgen -t c -o bom.json](https://github.com/cdxgen/cdxgen/issues/3465)
 - [[lua] luarocks support](https://github.com/cdxgen/cdxgen/issues/3485)
+
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Add Networking examples in docs index page](https://github.com/HeyPuter/puter/issues/2611)
+- [[Feature Request]: User Friendly System Information Overview](https://github.com/HeyPuter/puter/issues/2125)
+
+## [serverless/serverless](https://github.com/serverless/serverless)
+
+- [Changing Order of API Keys between Deployments Fails](https://github.com/serverless/serverless/issues/5339)
 
 ## [badges/shields](https://github.com/badges/shields)
 
 - [Count Number of Open Branches](https://github.com/badges/shields/issues/11283)
 - [WinGet Service:  add ReleaseDate](https://github.com/badges/shields/issues/11285)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10708)
+- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
+- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
+- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
+- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [(types) undici.Response cannot be assigned to Response](https://github.com/nodejs/undici/issues/3639)
+- [socketPath option is not passed to the connect function](https://github.com/nodejs/undici/issues/3486)
+- [UND_ERR_***_TIMEOUT explanation](https://github.com/nodejs/undici/issues/1865)
+
+## [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar)
+
+- ["Open With Pulsar" context option doesn't go away after uninstalling](https://github.com/pulsar-edit/pulsar/issues/274)
+- [Finish Bundling Core Packages](https://github.com/pulsar-edit/pulsar/issues/512)
+
+## [less/less.js](https://github.com/less/less.js)
+
+- [Container style queries unexpected space](https://github.com/less/less.js/issues/4235)
+
+## [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
+
+- [Memory Leak: Event Listeners Not Cleaned Up on Component Destroy](https://github.com/AOSSIE-Org/SocialShareButton/issues/3)
+- [tutorial: submit an tutorial integrating our SocialShareButton with different tech stack repo from our org](https://github.com/AOSSIE-Org/SocialShareButton/issues/19)
+- [Enhancement: adding opensource best pratices from our template](https://github.com/AOSSIE-Org/SocialShareButton/issues/18)
+
+## [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+
+- [Better error handling - action step does not fail despite error](https://github.com/release-drafter/release-drafter/issues/1469)
+- [Add dry-run option to v6](https://github.com/release-drafter/release-drafter/issues/1401)
+
+## [sanger/traction-ui](https://github.com/sanger/traction-ui)
+
+- [Y25-619 - As a developer (Ben) I would like flexible pooling to include a Tube Rack layout as an alternative to Plate layout.](https://github.com/sanger/traction-ui/issues/2509)
+- [Y26-047 - As a developer (Ben) I would like to remove lodash-es as a dependency](https://github.com/sanger/traction-ui/issues/2637)
+
+## [gchq/CyberChef](https://github.com/gchq/CyberChef)
+
+- [Bug report: fromDecimal(...) function does not correctly handle delim parameter passed as default ("Auto")](https://github.com/gchq/CyberChef/issues/2217)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [docs(test-runner): missing example and explain about how to mock error](https://github.com/nodejs/node/issues/52357)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
+
+## [riki-pedia/ft-to-inv](https://github.com/riki-pedia/ft-to-inv)
+
+- [Make a bigger test database](https://github.com/riki-pedia/ft-to-inv/issues/60)
+
+## [S3DFX-CYBER/GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-)
+
+- [Accessibility: Add ARIA labels and keyboard navigation support to filter controls](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/43)
+- [feat: Add Codebase Complexity Rating to org cards and filters](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/50)
+- [Feature: Add Google Analytics 4 (GA4) snippet to index.html for permanent analytics](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/36)
+- [Feature: Show loading skeleton cards while organisation data is being fetched](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/42)
+- [Chore: Add GitHub feature request issue template (.github/ISSUE_TEMPLATE/feature_request.md)](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/39)
+- [CI: Add PR checks GitHub Actions workflow (title validation, description check, size label)](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/38)
+- [CI: Add ESLint, Stylelint, HTMLHint and code-quality GitHub Actions workflow](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/37)
+- [SEO: Add robots.txt to allow search engine crawling](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/31)
+- [SEO: Add sitemap.xml to help search engines discover and index the site](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/32)
+- [SEO: Add canonical <link> tag to index.html to prevent duplicate content](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/33)
+- [Create bug report issue template](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/15)
+- [Add CODE_OF_CONDUCT.md file](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/issues/14)
 
 ## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
 
@@ -125,11 +179,47 @@ This list gets updated every day at midnight.
 - [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
 - [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [Rohan-Shridhar/Attendance-Tracker](https://github.com/Rohan-Shridhar/Attendance-Tracker)
 
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [[Docs]: Error in instructions on how to build a custom collector](https://github.com/open-telemetry/opentelemetry.io/issues/8941)
+- [Readme](https://github.com/Rohan-Shridhar/Attendance-Tracker/issues/29)
+
+## [ZeckCode/CESI-3.1](https://github.com/ZeckCode/CESI-3.1)
+
+- [Backend: Teacher](https://github.com/ZeckCode/CESI-3.1/issues/17)
+- [Backend: Student](https://github.com/ZeckCode/CESI-3.1/issues/16)
+
+## [WilliamDeLong/trivealities](https://github.com/WilliamDeLong/trivealities)
+
+- [Create Websocket DB](https://github.com/WilliamDeLong/trivealities/issues/6)
+- [User Profile Data Storage](https://github.com/WilliamDeLong/trivealities/issues/7)
+
+## [CPAtoCybersecurity/csf_profile](https://github.com/CPAtoCybersecurity/csf_profile/pull/107)
+
+- [chore: Remove boilerplate CSS and organize index.css](https://github.com/CPAtoCybersecurity/csf_profile/pull/107)
+- [Evidence Completeness Tracker](https://github.com/CPAtoCybersecurity/csf_profile/issues/101)
+- [Gap Prioritization Matrix](https://github.com/CPAtoCybersecurity/csf_profile/issues/100)
+- [Quarterly Trend Visualization](https://github.com/CPAtoCybersecurity/csf_profile/issues/99)
+- [Create Consistent Status Badge System](https://github.com/CPAtoCybersecurity/csf_profile/issues/94)
+- [Clean Up Boilerplate and Dead CSS](https://github.com/CPAtoCybersecurity/csf_profile/issues/92)
+- [Install Design System Foundation (Inter Font + Design Tokens)](https://github.com/CPAtoCybersecurity/csf_profile/issues/91)
+- [GV.SC - Supply Chain Risk Management: Contribute case study test steps and artifacts](https://github.com/CPAtoCybersecurity/csf_profile/issues/33)
+- [ID.AM - Asset Management: Contribute case study test steps and artifacts](https://github.com/CPAtoCybersecurity/csf_profile/issues/34)
+- [Docker Security Hardening Guide](https://github.com/CPAtoCybersecurity/csf_profile/issues/8)
+- [PR.DS - Data Security: Contribute case study test steps and artifacts](https://github.com/CPAtoCybersecurity/csf_profile/issues/39)
+- [UI - Confluence Links in Controls View](https://github.com/CPAtoCybersecurity/csf_profile/issues/19)
+- [PR.IP - Implementation and Processes: Contribute case study test steps and artifacts](https://github.com/CPAtoCybersecurity/csf_profile/issues/40)
+
+## [gitcommitshow/resilient-llm](https://github.com/gitcommitshow/resilient-llm)
+
+- [should we support user analytics](https://github.com/gitcommitshow/resilient-llm/issues/73)
+- [CLI for quick demo](https://github.com/gitcommitshow/resilient-llm/issues/62)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
 
 ## [fastify/fastify](https://github.com/fastify/fastify/pull/5717)
 
@@ -139,50 +229,10 @@ This list gets updated every day at midnight.
 - [ApplicationHooks have inconsistent reference to instance](https://github.com/fastify/fastify/issues/4967)
 - [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
 
-## [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
-
-- [Better error handling - action step does not fail despite error](https://github.com/release-drafter/release-drafter/issues/1469)
-- [Add dry-run option to v6](https://github.com/release-drafter/release-drafter/issues/1401)
-
-## [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
-
-- [Memory leak in ACT test runner: `process` `exit` listeners accumulate across test suites](https://github.com/dequelabs/axe-core/issues/5018)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10801)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10708)
-- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
-- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
-- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
-- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/hypergeometric/cdf`](https://github.com/stdlib-js/stdlib/issues/3659)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10184)
-
-## [WallGodds/WallGodds-Web](https://github.com/WallGodds/WallGodds-Web)
-
-- [🔲 DESKTOP GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/284)
-- [🔲 UPLOAD PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/281)
-- [📱 NAVBAR HAMBERGER MENU - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/248)
-- [🔲 MOBILE GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/283)
-- [🔲 TABLET GALLERY PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/282)
-- [📱 SIGN IN PAGE - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/258)
-- [🖼️ Design Wallpapers and Add Them to the Project](https://github.com/WallGodds/WallGodds-Web/issues/160)
-
-## [KaranUnique/CryptoHub](https://github.com/KaranUnique/CryptoHub)
-
-- [404 Error When Opening Portfolio Section](https://github.com/KaranUnique/CryptoHub/issues/284)
-- [Need a professional logo for the project](https://github.com/KaranUnique/CryptoHub/issues/211)
-
-## [RaphaelRegnier/vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)
-
-- [Support Dia Browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/29)
-- [Extension doesn't work with Arc browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/25)
-
 ## [zen-browser/desktop](https://github.com/zen-browser/desktop)
 
+- [Top toolbar is shown when hovering the top side of the screen in "single toolbar" layout with "compact mode"](https://github.com/zen-browser/desktop/issues/7094)
+- [Truncated folder name in the search inside folders feature](https://github.com/zen-browser/desktop/issues/10189)
 - [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
 - [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
 - ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
@@ -190,24 +240,26 @@ This list gets updated every day at midnight.
 - [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
 - [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
 
-## [FOSSCLUB-LBSITW/calculator_hts](https://github.com/FOSSCLUB-LBSITW/calculator_hts/pull/82)
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
 
-- [Scientific mode added](https://github.com/FOSSCLUB-LBSITW/calculator_hts/pull/82)
-- [Improve README by adding Contributing Section for new contributors](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/84)
-- [Scientific Calculator Mode Toggle](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/68)
-- [Calculator button layout is misaligned](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/17)
+- [Preserve Directory Structure](https://github.com/nodejs/doc-kit/issues/662)
+- [Show full function in ToC](https://github.com/nodejs/doc-kit/issues/653)
+- [Add a prominent active status to the title on the right.](https://github.com/nodejs/doc-kit/issues/529)
 
-## [FOSSCLUB-LBSITW/flappy-bird](https://github.com/FOSSCLUB-LBSITW/flappy-bird)
+## [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue)
 
-- [Enhancement: Add Favicon to Improve Browser Tab Identification](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/20)
-- [bugs](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/14)
+- [Docs: Add Documentation for Desktop application Development](https://github.com/CircuitVerse/cv-frontend-vue/issues/509)
+- [Feature: Javascript to Typescript conversion in the src folder](https://github.com/CircuitVerse/cv-frontend-vue/issues/661)
+- [Typescript Integration in `/simulator/src` files](https://github.com/CircuitVerse/cv-frontend-vue/issues/414)
+- [Bug (UI): When ElementsPanel is moved to overlap the Navbar, it becomes locked there and loses the ability to be dragged.](https://github.com/CircuitVerse/cv-frontend-vue/issues/260)
 
 ## [code-charity/youtube](https://github.com/code-charity/youtube)
 
+- [More "Queue" and "Watch Later" buttons!](https://github.com/code-charity/youtube/issues/2009)
+- [🐞Video titles and details get hidden behind video when comment section is opened in Shorts](https://github.com/code-charity/youtube/issues/3670)
 - [💡Increase Timeout of Title fade when in full screen](https://github.com/code-charity/youtube/issues/3682)
 - [🐞 Playlist "Up next autoplay" off does not work](https://github.com/code-charity/youtube/issues/3627)
 - [💡New option for hiding ytd-feed-filter-chip-bar-renderer#chips-wrapper](https://github.com/code-charity/youtube/issues/3675)
-- [🐞Video titles and details get hidden behind video when comment section is opened in Shorts](https://github.com/code-charity/youtube/issues/3670)
 - [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
 - [💡Mute for thumbnail previews](https://github.com/code-charity/youtube/issues/3666)
 - [🐞Theatre mode is offset as if the sidebar is still there, even though sidebar is blank](https://github.com/code-charity/youtube/issues/3664)
@@ -234,31 +286,6 @@ This list gets updated every day at midnight.
 - [💡Manual “Mark as Watched” + Auto-Hide for YouTube Feeds](https://github.com/code-charity/youtube/issues/3613)
 - [🐞 Views, like and dislike count disappearing on videos uploaded <24 hours ago.](https://github.com/code-charity/youtube/issues/3563)
 - [🐞Video fails to play due to <Preventing AI-upscaled "Super Resolution>](https://github.com/code-charity/youtube/issues/3612)
-- ["Pause, while I'm typing" Search || comment || chat.   "Pause while scrolled down"[same moment as custom miniplayer]](https://github.com/code-charity/youtube/issues/2111)
-- [🐞Blank space between comments section when watching Shorts.](https://github.com/code-charity/youtube/issues/2940)
-- [Cinema mode in Edge](https://github.com/code-charity/youtube/issues/2763)
-
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
-
-- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
-- [feat(example-app): add export options for processed images (print, SVG, PDF)](https://github.com/Ryan-Millard/Img2Num/issues/85)
-- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
-- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
-- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
-- [Integrate `check-spelling` into CI to catch documentation typos automatically](https://github.com/Ryan-Millard/Img2Num/issues/227)
-- [style(C++ conventions): ensure `src/wasm` C++ code uses `snake_case` only](https://github.com/Ryan-Millard/Img2Num/issues/188)
-- [Standardize and create reusable glassmorphic React components](https://github.com/Ryan-Millard/Img2Num/issues/111)
-- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
-- [Refactor: src/components folder structure - better maintainability](https://github.com/Ryan-Millard/Img2Num/issues/167)
-- [chore(README): replace old demo images with more modern examples of updated library](https://github.com/Ryan-Millard/Img2Num/issues/260)
-
-## [gchq/CyberChef](https://github.com/gchq/CyberChef)
-
-- [Bug report: fromDecimal(...) function does not correctly handle delim parameter passed as default ("Auto")](https://github.com/gchq/CyberChef/issues/2217)
-
-## [PrekshaJain1909/Our_Space](https://github.com/PrekshaJain1909/Our_Space)
-
-- [Register Page](https://github.com/PrekshaJain1909/Our_Space/issues/4)
 
 ## [hackforla/website](https://github.com/hackforla/website/pull/8549)
 
@@ -281,20 +308,4 @@ This list gets updated every day at midnight.
 - [Update Donate page in Figma to reflect changes on site ](https://github.com/hackforla/website/issues/4051)
 - [Remove unused file current-projects-check.html](https://github.com/hackforla/website/issues/7780)
 - [ER: Sometimes we use quotes around text in .md files and sometimes we don't](https://github.com/hackforla/website/issues/7540)
-
-## [AOSSIE-Org/Resonate-Website](https://github.com/AOSSIE-Org/Resonate-Website/pull/253)
-
-- [Add Alt-text for improve Accessibility and SEO](https://github.com/AOSSIE-Org/Resonate-Website/pull/253)
-- [fix: update Next.js to 16.1.6 to resolve security vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/pull/259)
-- [UI/UX: Addition of a "Contact" Button in Navbar to scroll to Footer in new-design](https://github.com/AOSSIE-Org/Resonate-Website/issues/295)
-- [UI/UX: Addition of Standardised Typography in the New Design System](https://github.com/AOSSIE-Org/Resonate-Website/issues/290)
-- [UI/UX: Background Holder Tile Component with Scroll-Based Fluid Animation](https://github.com/AOSSIE-Org/Resonate-Website/issues/291)
-- [Adding CODEOWNERS file to the ```new-design``` branch](https://github.com/AOSSIE-Org/Resonate-Website/issues/203)
-- [Security: Update Next.js to 16.1.6 to Fix High Severity DoS Vulnerabilities](https://github.com/AOSSIE-Org/Resonate-Website/issues/258)
-- [Security Vulnerability & Accessibility: External links missing rel="noopener" and aria-labels](https://github.com/AOSSIE-Org/Resonate-Website/issues/124)
-
-## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
-
-- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
-- [Bulk create medical/vacc/test keep list after creation](https://github.com/sheltermanager/asm3/issues/1326)
 
