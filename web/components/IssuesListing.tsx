@@ -782,7 +782,9 @@ export default function IssuesListing() {
   async function fetchIssues(append = false) {
     setLoading(true);
     try {
-      const res = await fetch(`/api/issues?${query}`);
+      const res = await fetch(`/api/issues?${query}`, {
+  cache: "no-store"
+});
       const json = await res.json();
       const next = (json.items || []) as ApiIssue[];
       setItems((prev) => (append ? [...prev, ...next] : next));
@@ -795,10 +797,7 @@ export default function IssuesListing() {
     }
   }
 
-  useEffect(() => {
-    fetchIssues(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+
 
   useEffect(() => {
     setPage(1);
@@ -806,8 +805,8 @@ export default function IssuesListing() {
 
   useEffect(() => {
     fetchIssues(page > 1);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [page, query]);
+    
+  }, [query]);
 
   async function loadCommits() {
     try {
