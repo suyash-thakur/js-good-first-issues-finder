@@ -4,24 +4,23 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [ryusoh/fund](https://github.com/ryusoh/fund)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [feat: decouple github action bot and the user in actions](https://github.com/ryusoh/fund/issues/62)
-- [idea: graphs support](https://github.com/ryusoh/fund/issues/61)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+
+## [soghayarmahmoud/procode-edu-pulse-lms](https://github.com/soghayarmahmoud/procode-edu-pulse-lms)
+
+- [Set up GitHub Pages for live deployment](https://github.com/soghayarmahmoud/procode-edu-pulse-lms/issues/18)
+- [Add JSDoc comments to all JavaScript modules](https://github.com/soghayarmahmoud/procode-edu-pulse-lms/issues/16)
+- [Implement a Bookmark Lesson feature](https://github.com/soghayarmahmoud/procode-edu-pulse-lms/issues/12)
+- [Add code snippets and examples to cheat sheets](https://github.com/soghayarmahmoud/procode-edu-pulse-lms/issues/10)
+- [Add complete CSS Essentials course content](https://github.com/soghayarmahmoud/procode-edu-pulse-lms/issues/6)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
-
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
-
-- [[Mobile]: Create useLongPress hook for context menu alternative](https://github.com/lokus-ai/lokus/issues/325)
-- [[Mobile]: Make tab close button always visible on touch devices](https://github.com/lokus-ai/lokus/issues/313)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Picking an emoji from the top-5 list doesn't update the usage counter](https://github.com/nextcloud/spreed/issues/17307)
-- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -31,34 +30,60 @@ This list gets updated every day at midnight.
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+## [facebook/stylex](https://github.com/facebook/stylex)
 
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
 
-## [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1)
+## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
-- [Improve extension READMEs with .env.example files](https://github.com/NateBJones-Projects/OB1/issues/17)
-- [Schema: Reading list with ratings and review metadata](https://github.com/NateBJones-Projects/OB1/issues/16)
-- [Dashboard: Personal knowledge dashboard on Vercel](https://github.com/NateBJones-Projects/OB1/issues/15)
-- [Recipe: Daily digest email from recent thoughts](https://github.com/NateBJones-Projects/OB1/issues/14)
-- [Recipe: Import Obsidian vault into Open Brain](https://github.com/NateBJones-Projects/OB1/issues/13)
+- [[Chore] Music Blocks test suite project](https://github.com/sugarlabs/musicblocks/issues/5607)
+- [Late expansion and contraction of setInstrument and start sidebar when note value blocks are expanded or contracted](https://github.com/sugarlabs/musicblocks/issues/3499)
+- [Temperment Widget playing weird notes ](https://github.com/sugarlabs/musicblocks/issues/4033)
+- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+- [Picking an emoji from the top-5 list doesn't update the usage counter](https://github.com/nextcloud/spreed/issues/17307)
+- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
 
-## [less/less.js](https://github.com/less/less.js)
+## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io)
 
-- [Container style queries unexpected space](https://github.com/less/less.js/issues/4235)
+- [Branding Discussion: Should we rename and rebrand this community ?](https://github.com/NextCommunity/NextCommunity.github.io/issues/342)
+- [System log: can we make it resizable by dragging the borders of the console log ?](https://github.com/NextCommunity/NextCommunity.github.io/issues/287)
+
+## [ryusoh/fund](https://github.com/ryusoh/fund)
+
+- [feat: decouple github action bot and the user in actions](https://github.com/ryusoh/fund/issues/62)
+- [idea: graphs support](https://github.com/ryusoh/fund/issues/61)
+
+## [guardon-dev/guardon](https://github.com/guardon-dev/guardon)
+
+- [Feature: Add ESLint and Prettier Setup](https://github.com/guardon-dev/guardon/issues/1)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [Tabs and essentials easy to accidentally drag off](https://github.com/zen-browser/desktop/issues/11278)
+- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
+- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
+- [Holding ⌥ on Mac to select the text inside a link is broken](https://github.com/zen-browser/desktop/issues/8391)
+- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
+- [Loaded tabs are faded out in new windows](https://github.com/zen-browser/desktop/issues/12142)
+- [Top toolbar is shown when hovering the top side of the screen in "single toolbar" layout with "compact mode"](https://github.com/zen-browser/desktop/issues/7094)
+- [Truncated folder name in the search inside folders feature](https://github.com/zen-browser/desktop/issues/10189)
+- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
+- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
+- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
+
+## [airqo-platform/AirQo-api](https://github.com/airqo-platform/AirQo-api)
+
+- [Add unit tests for cohort validator — updateCohort and updateCohortName](https://github.com/airqo-platform/AirQo-api/issues/6209)
+- [perf/refactor: pre-compute device_categories at write time to eliminate runtime aggregation overhead](https://github.com/airqo-platform/AirQo-api/issues/6185)
 
 ## [layer5io/layer5](https://github.com/layer5io/layer5)
 
@@ -70,124 +95,27 @@ This list gets updated every day at midnight.
 - [The slide transitions on the Meshery pages are not working.](https://github.com/layer5io/layer5/issues/7461)
 - [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
 
-## [antropos17/Aegis](https://github.com/antropos17/Aegis)
+## [processing/p5.js](https://github.com/processing/p5.js)
 
-- [Add keyboard shortcut hints to tab navigation](https://github.com/antropos17/Aegis/issues/77)
-- [Add OpenClaw Gateway detection test](https://github.com/antropos17/Aegis/issues/75)
-- [Replace console.warn in rule-loader with structured logger](https://github.com/antropos17/Aegis/issues/74)
-- [Add unit tests for rule-loader.js YAML parsing](https://github.com/antropos17/Aegis/issues/73)
-- [docs(i18n): community translation guide and language template](https://github.com/antropos17/Aegis/issues/57)
+- [[2.0 docs] buildGeometry reference should not link to begin/endGeometry](https://github.com/processing/p5.js/issues/8631)
+- [[p5.js 2.0 Bug Report]: if use min() and max() with Infinity or -Infinity, it throws friendly error](https://github.com/processing/p5.js/issues/8104)
+- [[p5.js 2.0 Beta Bug Report]: Document difference between textWidth and fontWidth with respect to whitespace](https://github.com/processing/p5.js/issues/7745)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
 
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+## [nodejs/undici](https://github.com/nodejs/undici)
 
-- [Empty Space in Search Modal](https://github.com/nodejs/doc-kit/issues/670)
-- [Testing our RegExps](https://github.com/nodejs/doc-kit/issues/636)
-- [Add a prominent active status to the title on the right.](https://github.com/nodejs/doc-kit/issues/529)
+- [(types) undici.Response cannot be assigned to Response](https://github.com/nodejs/undici/issues/3639)
+- [UND_ERR_***_TIMEOUT explanation](https://github.com/nodejs/undici/issues/1865)
 
-## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+## [ProjectEvergreen/wcc](https://github.com/ProjectEvergreen/wcc)
 
-- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [Lead Update - Custom Field - Field type "Single Option" not available](https://github.com/PipedreamHQ/pipedream/issues/20261)
-- [[ACTION] WorkFlowy new actions](https://github.com/PipedreamHQ/pipedream/issues/20230)
-- [Request: Full ServiceM8 MCP Tool Coverage](https://github.com/PipedreamHQ/pipedream/issues/20245)
-- [[ACTION] Freshdesk - Add Forward Ticket, Create Thread Message (with subject), and Reply to Forward actions](https://github.com/PipedreamHQ/pipedream/issues/20246)
-- [[ACTION] Polar.sh](https://github.com/PipedreamHQ/pipedream/issues/17977)
-- [メッセージの読み取りを可能にしてください！](https://github.com/PipedreamHQ/pipedream/issues/20145)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
-- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
-- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
-- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-
-## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
-
-- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
-- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
-
-## [code-charity/youtube](https://github.com/code-charity/youtube)
-
-- [💡](https://github.com/code-charity/youtube/issues/3702)
-- [🐞 Playlist "Up next autoplay" off does not work](https://github.com/code-charity/youtube/issues/3627)
-- [Playlist item menu keeps disappearing](https://github.com/code-charity/youtube/issues/2041)
-- [🐞"Thumbnails Quality" setting breaks thumbnails in Waterfox](https://github.com/code-charity/youtube/issues/3700)
-- [Easy way to delete videos from watch later](https://github.com/code-charity/youtube/issues/231)
-- [Thumbnails per row , setting does not persist after first use](https://github.com/code-charity/youtube/issues/3695)
-- [💡Increase Timeout of Title fade when in full screen](https://github.com/code-charity/youtube/issues/3682)
-- [🐞Theatre mode is offset as if the sidebar is still there, even though sidebar is blank](https://github.com/code-charity/youtube/issues/3664)
-- [🐞Progress Slider behind shortswhen custom ini-player is enabled](https://github.com/code-charity/youtube/issues/3697)
-- [💡hide recommendations in the full screen mode when clicking on "v" or scrolling down](https://github.com/code-charity/youtube/issues/3693)
-- [Android quality🐞](https://github.com/code-charity/youtube/issues/3533)
-- [More "Queue" and "Watch Later" buttons!](https://github.com/code-charity/youtube/issues/2009)
-- [🐞Video titles and details get hidden behind video when comment section is opened in Shorts](https://github.com/code-charity/youtube/issues/3670)
-- [💡New option for hiding ytd-feed-filter-chip-bar-renderer#chips-wrapper](https://github.com/code-charity/youtube/issues/3675)
-- [review our shortcut logic. (bug: screenshot by shortcut might takes several screenshots unintentionally;  etc: ...  #1565)](https://github.com/code-charity/youtube/issues/1770)
-- [💡Mute for thumbnail previews](https://github.com/code-charity/youtube/issues/3666)
-- [🐞"Quality" preference setting broken](https://github.com/code-charity/youtube/issues/3644)
-- [BUG: scroll shortcuts in firefox & FEATURE REQUEST: 1. Shortcut requirement hover player optional (or other elements) 2. predefined scroll for volume option 3. multiple shortcuts for one action](https://github.com/code-charity/youtube/issues/862)
-- [Plans for our Shortcuts.js  (deserves adoptive developers)  (could be used globally eventually)](https://github.com/code-charity/youtube/issues/1565)
-- [💡 Desperately seeking filters to unclog my Subscriptions page.](https://github.com/code-charity/youtube/issues/3656)
-- [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
-- [Ways to add Shorts to the queue list, user saved playlists & watch later list!](https://github.com/code-charity/youtube/issues/2460)
-- [🐞reverse not available](https://github.com/code-charity/youtube/issues/3158)
-- [🐞Setting quality is not working for some videos](https://github.com/code-charity/youtube/issues/3647)
-- [🐞Header hover on video page not working as expected](https://github.com/code-charity/youtube/issues/3645)
-- [Classic expanded descriptions is broken ](https://github.com/code-charity/youtube/issues/1802)
-- [💡Skip by seconds with media buttons while window is unfocused](https://github.com/code-charity/youtube/issues/3356)
-- [🐞Bug using the setting to hide the control bar when paused; after using the bar, the mouse takes a while to disappear](https://github.com/code-charity/youtube/issues/3634)
-- [🐞Filtering suggested videos (blocklist) does not work, among other things (Linux + Brave)](https://github.com/code-charity/youtube/issues/3630)
-- [💡Automatically accept content warning](https://github.com/code-charity/youtube/issues/3591)
-- [themes  update / improve](https://github.com/code-charity/youtube/issues/3616)
-- [🐞Shorts aren't removed](https://github.com/code-charity/youtube/issues/3614)
-- [🐞Extension not working as of yesterday](https://github.com/code-charity/youtube/issues/3535)
-- [🐞](https://github.com/code-charity/youtube/issues/3610)
-- [Feature request: 1. Show YouTube comments while watching 2. Kament.io - Enable Youtube Comments](https://github.com/code-charity/youtube/issues/3464)
-- [🐞](https://github.com/code-charity/youtube/issues/3615)
-
-## [usebruno/bruno](https://github.com/usebruno/bruno)
-
-- [Make URLs clickable in console](https://github.com/usebruno/bruno/issues/6275)
-- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
-- [[Feature Request] Support LF line breaks as well as CRLF line breaks](https://github.com/usebruno/bruno/issues/326)
-- [[Feature request] Add save-all command](https://github.com/usebruno/bruno/issues/737)
-
-## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
-
-- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
-- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
-
-## [NMRLipids/BilayerUI_laravel](https://github.com/NMRLipids/BilayerUI_laravel)
-
-- [Add a column with lipid composition to experiment page](https://github.com/NMRLipids/BilayerUI_laravel/issues/81)
-- [Properly configure, refactor and display links to external sites](https://github.com/NMRLipids/BilayerUI_laravel/issues/49)
-- [Move all CSS, JS and other resources out of /public and mange with vite](https://github.com/NMRLipids/BilayerUI_laravel/issues/54)
-
-## [GEO-BON/bon-in-a-box-pipeline-engine](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine)
-
-- [Be able to make outputs optional without it looking like an error](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine/issues/304)
-- [Search or filter through the history](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine/issues/301)
-- [[Script runner] Cannot view examples from the /script folder](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine/issues/93)
-
-## [jlab-sensing/ENTS-backend](https://github.com/jlab-sensing/ENTS-backend)
-
-- [Setup permannt demo cell](https://github.com/jlab-sensing/ENTS-backend/issues/431)
-- [Cannot download sensor data with csv](https://github.com/jlab-sensing/ENTS-backend/issues/468)
-
-## [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser)
-
-- [Months are wrong](https://github.com/AgregoreWeb/agregore-browser/issues/326)
+- [HTML entities (or literal HTML tags in attributes) are not being respected and treated as literal HTML tags](https://github.com/ProjectEvergreen/wcc/issues/249)
 
 ## [jdsalasca/timebank-protocol](https://github.com/jdsalasca/timebank-protocol)
 
@@ -236,54 +164,6 @@ This list gets updated every day at midnight.
 - [ledger: implement canonical balance recomputation from raw events](https://github.com/jdsalasca/timebank-protocol/issues/13)
 - [ledger: enforce strict transaction schema and replay protection](https://github.com/jdsalasca/timebank-protocol/issues/12)
 
-## [usemeridian/meridian](https://github.com/usemeridian/meridian)
-
-- [Add --json output to more CLI commands](https://github.com/usemeridian/meridian/issues/9)
-- [Improve doctor.sh diagnostics for common setup issues](https://github.com/usemeridian/meridian/issues/8)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Remove `privacySandboxModule` feature flag](https://github.com/google/site-kit-wp/issues/11603)
-- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
-
-## [FOSSCLUB-LBSITW/flappy-bird](https://github.com/FOSSCLUB-LBSITW/flappy-bird)
-
-- [Enhancement: Add Favicon to Improve Browser Tab Identification](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/20)
-- [bugs](https://github.com/FOSSCLUB-LBSITW/flappy-bird/issues/14)
-
-## [gsmithun4/expressjs-field-validator](https://github.com/gsmithun4/expressjs-field-validator)
-
-- [Add any one is required validation](https://github.com/gsmithun4/expressjs-field-validator/issues/43)
-- [Add custom function validation support](https://github.com/gsmithun4/expressjs-field-validator/issues/42)
-
-## [facebook/stylex](https://github.com/facebook/stylex)
-
-- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
-
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
-
-- [Simplify the TWIM Guide](https://github.com/matrix-org/matrix.org/issues/3248)
-- [add Kazarma](https://github.com/matrix-org/matrix.org/issues/3241)
-- [Split SchildiChat ecosystem entry to mirror Element classic](https://github.com/matrix-org/matrix.org/issues/3221)
-
-## [FOSSCLUB-LBSITW/to-do-list](https://github.com/FOSSCLUB-LBSITW/to-do-list)
-
-- [Add "Clear All Tasks" button](https://github.com/FOSSCLUB-LBSITW/to-do-list/issues/32)
-- [Add Task Counter (Active, Completed & Total Tasks)](https://github.com/FOSSCLUB-LBSITW/to-do-list/issues/28)
-- [Feature Request: Add Undo Option for Deleted Tasks in To-Do List](https://github.com/FOSSCLUB-LBSITW/to-do-list/issues/18)
-- [Three-line task menu icon is not working](https://github.com/FOSSCLUB-LBSITW/to-do-list/issues/9)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [ScreenSpaceEventHandler support for multiple KeyboardEventModifier keys at once](https://github.com/CesiumGS/cesium/issues/13300)
-- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
-
-## [FOSSCLUB-LBSITW/calculator_hts](https://github.com/FOSSCLUB-LBSITW/calculator_hts)
-
-- [Improve README by adding Contributing Section for new contributors](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/84)
-- [Scientific Calculator Mode Toggle](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/68)
-- [Calculator button layout is misaligned](https://github.com/FOSSCLUB-LBSITW/calculator_hts/issues/17)
-
 ## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
 - [[chore]: Remove unsafe use of _get()](https://github.com/jaegertracing/jaeger-ui/issues/3604)
@@ -291,38 +171,146 @@ This list gets updated every day at midnight.
 - [[UI Refactor] Migrate DeepDependencies to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3379)
 - [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
 
-## [WilliamDeLong/trivealities](https://github.com/WilliamDeLong/trivealities)
+## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 
-- [Game Mode Select Page](https://github.com/WilliamDeLong/trivealities/issues/18)
-- [Create BE routes to get questions from OpenTrivia API.](https://github.com/WilliamDeLong/trivealities/issues/14)
-- [Create Websocket DB](https://github.com/WilliamDeLong/trivealities/issues/6)
+- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
+- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
 
-## [TANISHX1/seat-allocation-sys](https://github.com/TANISHX1/seat-allocation-sys)
+## [yash-pouranik/urBackend](https://github.com/yash-pouranik/urBackend)
 
-- [students view](https://github.com/TANISHX1/seat-allocation-sys/issues/64)
+- [test: add smoke test for base API endpoint](https://github.com/yash-pouranik/urBackend/issues/16)
+- [Standardize API Error Responses Across All Controllers](https://github.com/yash-pouranik/urBackend/issues/40)
+- [Add Skeleton Loaders](https://github.com/yash-pouranik/urBackend/issues/39)
+- [Create a DEPLOYMENT.md Guide (Render/Railway + Vercel)](https://github.com/yash-pouranik/urBackend/issues/42)
+- [Add a /api/health Endpoint for System Monitoring](https://github.com/yash-pouranik/urBackend/issues/41)
 
-## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
+## [RaphaelRegnier/vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)
 
-- [Legends](https://github.com/genome-spy/genome-spy/issues/51)
-- [Implement view config, i.e., themes and more structured defaults](https://github.com/genome-spy/genome-spy/issues/104)
+- [Support Dia Browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/29)
+- [Extension doesn't work with Arc browser](https://github.com/RaphaelRegnier/vibe-annotations/issues/25)
 
-## [OSC/ondemand](https://github.com/OSC/ondemand)
+## [chahe-dridi/dev-setup](https://github.com/chahe-dridi/dev-setup)
 
-- [Ganglia graphs need alt-text](https://github.com/OSC/ondemand/issues/1362)
-- [Developing guide. how to run/develop the tests](https://github.com/OSC/ondemand/issues/4741)
+- [[Testing] Add snapshot tests for CLI output formatting](https://github.com/chahe-dridi/dev-setup/issues/46)
+- [[Testing] Add tests for the --dry-run flag](https://github.com/chahe-dridi/dev-setup/issues/44)
+- [[Enhancement] Add --verbose flag to show raw install output](https://github.com/chahe-dridi/dev-setup/issues/39)
+- [[Enhancement] Add installation summary table at the end](https://github.com/chahe-dridi/dev-setup/issues/36)
+- [[Enhancement] Show installed version after each tool installs](https://github.com/chahe-dridi/dev-setup/issues/35)
+- [[Enhancement] Skip install if tool is already installed](https://github.com/chahe-dridi/dev-setup/issues/33)
+- [[New Tool] Add Prisma CLI — next-generation Node.js ORM](https://github.com/chahe-dridi/dev-setup/issues/24)
+- [[New Tool] Add SQLite — lightweight embedded database](https://github.com/chahe-dridi/dev-setup/issues/22)
+- [[New Tool] Add zoxide — smarter cd command](https://github.com/chahe-dridi/dev-setup/issues/19)
+- [[New Tool] Add eza — modern replacement for ls](https://github.com/chahe-dridi/dev-setup/issues/18)
+- [[New Tool] Add fzf — command-line fuzzy finder](https://github.com/chahe-dridi/dev-setup/issues/17)
+- [[New Tool] Add bat — cat command with syntax highlighting](https://github.com/chahe-dridi/dev-setup/issues/16)
+- [[New Tool] Add fd — modern replacement for the find command](https://github.com/chahe-dridi/dev-setup/issues/15)
+- [[New Tool] Add ripgrep (rg) — blazing fast code search](https://github.com/chahe-dridi/dev-setup/issues/14)
+- [[New Tool] Add Nginx — web server and reverse proxy](https://github.com/chahe-dridi/dev-setup/issues/13)
+- [[New Tool] Add k9s — terminal UI dashboard for Kubernetes](https://github.com/chahe-dridi/dev-setup/issues/12)
+- [[New Tool] Add Rust — memory-safe systems language`](https://github.com/chahe-dridi/dev-setup/issues/9)
+- [[New Tool] Add Go (Golang) — Google's systems language](https://github.com/chahe-dridi/dev-setup/issues/8)
+- [[New Tool] Add Kotlin — modern JVM language](https://github.com/chahe-dridi/dev-setup/issues/7)
+- [[New Tool] Add pnpm — fast, disk-efficient Node.js package manager](https://github.com/chahe-dridi/dev-setup/issues/3)
+- [[New Tool] Add Bun — fast JavaScript runtime and package manager](https://github.com/chahe-dridi/dev-setup/issues/2)
 
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+## [WallGodds/WallGodds-Web](https://github.com/WallGodds/WallGodds-Web)
 
-- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
-- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
-- [Tabs and essentials easy to accidentally drag off](https://github.com/zen-browser/desktop/issues/11278)
-- [Holding ⌥ on Mac to select the text inside a link is broken](https://github.com/zen-browser/desktop/issues/8391)
-- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
-- [Loaded tabs are faded out in new windows](https://github.com/zen-browser/desktop/issues/12142)
-- [Top toolbar is shown when hovering the top side of the screen in "single toolbar" layout with "compact mode"](https://github.com/zen-browser/desktop/issues/7094)
-- [Truncated folder name in the search inside folders feature](https://github.com/zen-browser/desktop/issues/10189)
-- [When in fullscreen(F11) bookmarks bar disappear](https://github.com/zen-browser/desktop/issues/8163)
-- ["Close Pinned Tab Shortcut Behavior" ignored for "Places" tab](https://github.com/zen-browser/desktop/issues/12353)
-- [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
-- [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
+- [🚀 UPLOAD PAGE AFTER BROWSE - DARK](https://github.com/WallGodds/WallGodds-Web/issues/292)
+- [📱 PROFILE PAGE AFTER SIGNUP - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/294)
+- [🔲 UPLOAD PAGE - TABLET VIEW](https://github.com/WallGodds/WallGodds-Web/issues/281)
+- [📱 NAVBAR HAMBERGER MENU - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/248)
+- [📱 SIGN IN PAGE - MOBILE VIEW](https://github.com/WallGodds/WallGodds-Web/issues/258)
+- [🖼️ Design Wallpapers and Add Them to the Project](https://github.com/WallGodds/WallGodds-Web/issues/160)
+
+## [fastify/fastify](https://github.com/fastify/fastify)
+
+- [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
+- [ApplicationHooks have inconsistent reference to instance](https://github.com/fastify/fastify/issues/4967)
+- [docs: Codemods for Upgrading to fastify v5](https://github.com/fastify/fastify/pull/5717)
+
+## [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+
+- [[FEATURE] GitHub Action for Scorecard](https://github.com/Bashamega/WebDevTools/issues/321)
+- [Paste bin for Web dev tools](https://github.com/Bashamega/WebDevTools/issues/159)
+- [Implement Jest Tests for Code editor](https://github.com/Bashamega/WebDevTools/issues/384)
+- [Social media Seo Preview](https://github.com/Bashamega/WebDevTools/issues/230)
+- [Implement Jest Tests for Resume Builder](https://github.com/Bashamega/WebDevTools/issues/402)
+- [Implement Jest Tests for Coding Snippets](https://github.com/Bashamega/WebDevTools/issues/401)
+- [Implement Jest Tests for Badge Maker for Readme](https://github.com/Bashamega/WebDevTools/issues/400)
+- [Implement Jest Tests for Image To SVG](https://github.com/Bashamega/WebDevTools/issues/399)
+- [Implement Jest Tests for scss to css](https://github.com/Bashamega/WebDevTools/issues/398)
+- [Implement Jest Tests for JSON to YAML](https://github.com/Bashamega/WebDevTools/issues/397)
+- [Implement Jest Tests for HTML to jsx](https://github.com/Bashamega/WebDevTools/issues/396)
+- [Implement Jest Tests for Dummy JSON API](https://github.com/Bashamega/WebDevTools/issues/395)
+- [Implement Jest Tests for AsciiDoc Editor](https://github.com/Bashamega/WebDevTools/issues/394)
+- [Implement Jest Tests for Readme generator](https://github.com/Bashamega/WebDevTools/issues/393)
+- [Implement Jest Tests for Image color picker](https://github.com/Bashamega/WebDevTools/issues/392)
+- [Implement Jest Tests for Box shadow generator](https://github.com/Bashamega/WebDevTools/issues/391)
+- [Implement Jest Tests for Mark down Editor](https://github.com/Bashamega/WebDevTools/issues/390)
+- [Implement Jest Tests for Cupcake Ipsum Generator](https://github.com/Bashamega/WebDevTools/issues/388)
+- [Implement Jest Tests for Lorem Ipsum Generator](https://github.com/Bashamega/WebDevTools/issues/386)
+- [Implement Jest Tests for Button customizer](https://github.com/Bashamega/WebDevTools/issues/385)
+
+## [usemeridian/meridian](https://github.com/usemeridian/meridian)
+
+- [Add --json output to more CLI commands](https://github.com/usemeridian/meridian/issues/9)
+- [Improve doctor.sh diagnostics for common setup issues](https://github.com/usemeridian/meridian/issues/8)
+
+## [chahe-dridi/vscode-setup](https://github.com/chahe-dridi/vscode-setup)
+
+- [[FEATURE] Show extension count per category in the category picker](https://github.com/chahe-dridi/vscode-setup/issues/22)
+- [[TESTS] Add tests for display.js](https://github.com/chahe-dridi/vscode-setup/issues/24)
+- [[DOCS] Add a SECURITY.md file](https://github.com/chahe-dridi/vscode-setup/issues/32)
+- [[DOCS] Add a terminal demo GIF to the README](https://github.com/chahe-dridi/vscode-setup/issues/31)
+- [[REFACTOR] Add JSDoc to all exported functions](https://github.com/chahe-dridi/vscode-setup/issues/29)
+- [[TESTS] Add edge case tests for validateCategory()](https://github.com/chahe-dridi/vscode-setup/issues/27)
+- [[BUG] "code" CLI error message needs verification on Windows 10/11](https://github.com/chahe-dridi/vscode-setup/issues/16)
+- [[EXTENSION] Add Git-related extensions to Essential category](https://github.com/chahe-dridi/vscode-setup/issues/15)
+- [[EXTENSION] Add more themes to the Themes & Appearance category](https://github.com/chahe-dridi/vscode-setup/issues/14)
+- [[EXTENSION] Add more Essential extensions that every dev should have](https://github.com/chahe-dridi/vscode-setup/issues/13)
+- [[EXTENSION] Add more AI & Productivity extensions](https://github.com/chahe-dridi/vscode-setup/issues/12)
+- [[EXTENSION] Add more Fun & Personality extensions](https://github.com/chahe-dridi/vscode-setup/issues/11)
+- [[CATEGORY] Add Writing & Documentation category](https://github.com/chahe-dridi/vscode-setup/issues/10)
+- [[CATEGORY] Add PHP Development category](https://github.com/chahe-dridi/vscode-setup/issues/8)
+- [[CATEGORY] Add Go Development category](https://github.com/chahe-dridi/vscode-setup/issues/2)
+- [[CATEGORY] Add Rust & Systems category](https://github.com/chahe-dridi/vscode-setup/issues/1)
+
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
+
+- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
+
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+
+- [Empty Space in Search Modal](https://github.com/nodejs/doc-kit/issues/670)
+- [Testing our RegExps](https://github.com/nodejs/doc-kit/issues/636)
+- [Add a prominent active status to the title on the right.](https://github.com/nodejs/doc-kit/issues/529)
+
+## [meteor/meteor](https://github.com/meteor/meteor)
+
+- [`passwordValidator` ignores `passwordMaxLength` due to operator precedence bug](https://github.com/meteor/meteor/issues/14072)
+- [3.4 meteor/mongo types are broken](https://github.com/meteor/meteor/issues/14107)
+- [ReDoS Vulnerability Analysis and Fixes](https://github.com/meteor/meteor/issues/13933)
+- [Type tests for Meteor packages](https://github.com/meteor/meteor/issues/13676)
+
+## [core-stack-org/landscape-explorer](https://github.com/core-stack-org/landscape-explorer)
+
+- [Fix: Scroll and animation glitching on landing page (LE_homepage)](https://github.com/core-stack-org/landscape-explorer/issues/312)
+- [MWS Polygon boundary not clearly visible when data layer is visualized](https://github.com/core-stack-org/landscape-explorer/issues/284)
+- [Legend resize animation glitch on expand in map view](https://github.com/core-stack-org/landscape-explorer/issues/288)
+
+## [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+
+- [Add: Blog post to social media repurposing agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/3)
+- [Add: Slack standup bot agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/2)
+- [Add: GitHub PR reviewer agent template](https://github.com/mergisi/awesome-openclaw-agents/issues/1)
+
+## [oopsio/jen.js](https://github.com/oopsio/jen.js)
+
+- [[GOOD FIRST ISSUE] Update README Link](https://github.com/oopsio/jen.js/issues/7)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Monitors Graph Intermittent](https://github.com/louislam/uptime-kuma/issues/7143)
+- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
 
