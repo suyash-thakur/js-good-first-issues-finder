@@ -4,87 +4,52 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11045)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/11044)
-- [Address commit comments (commit `bfbe62b`)](https://github.com/stdlib-js/stdlib/issues/10978)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10980)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/10943)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11014)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10944)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/negative-binomial/quantile`](https://github.com/stdlib-js/stdlib/issues/3767)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10884)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10870)
-- [Address commit comments (commit `29ff047`)](https://github.com/stdlib-js/stdlib/issues/10850)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10708)
-- [[RFC]: Add C implementations to negative binomial distribution functions (tracking issue)](https://github.com/stdlib-js/stdlib/issues/3695)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/erlang/pdf`](https://github.com/stdlib-js/stdlib/issues/3575)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/10528)
-- [[RFC]: add `stats/incr/nanmpcorrdist`](https://github.com/stdlib-js/stdlib/issues/5602)
-- [[RFC]: add `stats/incr/nanmprod`](https://github.com/stdlib-js/stdlib/issues/5604)
-- [[RFC]: add `stats/incr/nanmrange`](https://github.com/stdlib-js/stdlib/issues/5605)
-
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
 - [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
 
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
 ## [ryusoh/fund](https://github.com/ryusoh/fund)
 
 - [feat: decouple github action bot and the user in actions](https://github.com/ryusoh/fund/issues/62)
 - [idea: graphs support](https://github.com/ryusoh/fund/issues/61)
 
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
-- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [[Enhancement] Hide call-related settings and dashboard buttons when calls are disabled (Follow-up to #17215)](https://github.com/nextcloud/spreed/issues/17390)
-- [Configurable message expiration](https://github.com/nextcloud/spreed/issues/8547)
-
-## [less/less.js](https://github.com/less/less.js)
-
-- [Container style queries unexpected space](https://github.com/less/less.js/issues/4235)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
 - [Swipe back on mobile browser with getInitialProps flickers the previous page](https://github.com/vercel/next.js/issues/10465)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [facebook/stylex](https://github.com/facebook/stylex)
 
-- [Document classes implementing the `GeometryFactory` interface](https://github.com/CesiumGS/cesium/issues/12827)
-- [ScreenSpaceEventHandler support for multiple KeyboardEventModifier keys at once](https://github.com/CesiumGS/cesium/issues/13300)
-- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
+- [[cli] Fix issues with StyleX usage within external packages](https://github.com/facebook/stylex/issues/731)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
 
-- [(types) undici.Response cannot be assigned to Response](https://github.com/nodejs/undici/issues/3639)
-- [UND_ERR_***_TIMEOUT explanation](https://github.com/nodejs/undici/issues/1865)
+- [Legends](https://github.com/genome-spy/genome-spy/issues/51)
 
-## [GrottoCenter/grottocenter-front](https://github.com/GrottoCenter/grottocenter-front)
+## [sgl-project/sgl-cookbook](https://github.com/sgl-project/sgl-cookbook)
 
-- [Document Advanced Search 500 — Field Name Mismatch](https://github.com/GrottoCenter/grottocenter-front/issues/1235)
+- [SGLang Diffusion Model Cookbook Template](https://github.com/sgl-project/sgl-cookbook/issues/32)
+- [SGLang Cookbook Community Contribution Roadmap](https://github.com/sgl-project/sgl-cookbook/issues/16)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [Add comment about use of AI to our localization docs](https://github.com/open-telemetry/opentelemetry.io/issues/8010)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+
+## [AprilSylph/XKit-Rewritten](https://github.com/AprilSylph/XKit-Rewritten)
+
+- [Trim Reblogs: Update/clarify warning about trimming reblogs](https://github.com/AprilSylph/XKit-Rewritten/issues/2048)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -102,67 +67,37 @@ This list gets updated every day at midnight.
 - [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
 - [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
 - [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-
-## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
-
-- [Add "show my location" button](https://github.com/osm-americana/openstreetmap-americana/issues/903)
-- [Missing shield for Kettle Moraine Scenic Drive](https://github.com/osm-americana/openstreetmap-americana/issues/865)
-- [Update shield library README to reflect current OpenMapTiles route_N attributes](https://github.com/osm-americana/openstreetmap-americana/issues/1065)
-- [Add shields for unorganized territory roads in Minnesota](https://github.com/osm-americana/openstreetmap-americana/issues/1140)
-- [Scale bar in the demo](https://github.com/osm-americana/openstreetmap-americana/issues/898)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Add a prominent active status to the title on the right.](https://github.com/nodejs/doc-kit/issues/529)
 
 ## [denislirette/baseballscorecard](https://github.com/denislirette/baseballscorecard)
 
 - [Improve SVG accessibility, aria labels and keyboard navigation](https://github.com/denislirette/baseballscorecard/issues/5)
 - [Add more test fixture games for edge cases](https://github.com/denislirette/baseballscorecard/issues/6)
 
-## [KittyGiraudel/accessible-footnotes](https://github.com/KittyGiraudel/accessible-footnotes)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [Move react-a11y-footnotes to TypeScript](https://github.com/KittyGiraudel/accessible-footnotes/issues/8)
-- [Move eleventy-plugin-footnotes to TypeScript](https://github.com/KittyGiraudel/accessible-footnotes/issues/7)
-- [Add a normalize demo to each package](https://github.com/KittyGiraudel/accessible-footnotes/issues/9)
+- [Support for vscode-extension](https://github.com/cdxgen/cdxgen/issues/3573)
 
-## [jjm3x3/AmazingRaceFantasy](https://github.com/jjm3x3/AmazingRaceFantasy)
+## [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 
-- [Create League Config Data page](https://github.com/jjm3x3/AmazingRaceFantasy/issues/438)
-- [Allow for ':' in the Wikipedia Page Name](https://github.com/jjm3x3/AmazingRaceFantasy/issues/464)
-- [Add League Contestant Ranking page](https://github.com/jjm3x3/AmazingRaceFantasy/issues/407)
+- [feat(topo): screenshot button](https://github.com/carverauto/serviceradar/issues/2917)
+- [feat(web-ng): sankey split on cloud providers](https://github.com/carverauto/serviceradar/issues/2943)
 
-## [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
+## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 
-- [Memory leak in ACT test runner: `process` `exit` listeners accumulate across test suites](https://github.com/dequelabs/axe-core/issues/5018)
+- [[chore]: Remove unsafe use of _get()](https://github.com/jaegertracing/jaeger-ui/issues/3604)
+- [[UI Refactor] [plexus] Migrate Digraph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3386)
+- [[UI Refactor] Migrate DeepDependencies to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3379)
+- [[Bug]: UI Shows Infinite Loading for Non-Existent Trace ID](https://github.com/jaegertracing/jaeger-ui/issues/3079)
 
-## [nextcloud/mail](https://github.com/nextcloud/mail)
+## [wrobeltomasz/open-sparrow](https://github.com/wrobeltomasz/open-sparrow)
 
-- [[NoMessageSelected.vue] Apostrophe in cloudName renders as HTML encoded string](https://github.com/nextcloud/mail/issues/9076)
+- [Preparing a complete README file.](https://github.com/wrobeltomasz/open-sparrow/issues/2)
+- [Add Docker Compose setup with PostgreSQL](https://github.com/wrobeltomasz/open-sparrow/issues/4)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [AOSSIE-Org/SocialShareButton](https://github.com/AOSSIE-Org/SocialShareButton)
 
-- [Community template: Credit card test data generator](https://github.com/ToolJet/ToolJet/issues/11007)
-
-## [TANISHX1/seat-allocation-sys](https://github.com/TANISHX1/seat-allocation-sys)
-
-- [students view](https://github.com/TANISHX1/seat-allocation-sys/issues/64)
-
-## [OSC/ondemand](https://github.com/OSC/ondemand)
-
-- [Ganglia graphs need alt-text](https://github.com/OSC/ondemand/issues/1362)
-- [Developing guide. how to run/develop the tests](https://github.com/OSC/ondemand/issues/4741)
-
-## [sanger/traction-ui](https://github.com/sanger/traction-ui)
-
-- [Y26-080 - [UX] As a developer (Ben) I would like to use ticks and crosses in addition to colours for flexible pooling and pacbio run wells.](https://github.com/sanger/traction-ui/issues/2661)
-- [Y26-047 - As a developer (Ben) I would like to remove lodash-es as a dependency](https://github.com/sanger/traction-ui/issues/2637)
-
-## [SolidOS/solidos](https://github.com/SolidOS/solidos)
-
-- [Unclear error message when adding non-group as group in sharing pane](https://github.com/SolidOS/solidos/issues/121)
+- [tutorial: submit an tutorial integrating our SocialShareButton with different tech stack repo from our org](https://github.com/AOSSIE-Org/SocialShareButton/issues/19)
+- [[GOOD FIRST ISSUE]: Record a Tutorial Video for SocialShareButton Analytics Integration](https://github.com/AOSSIE-Org/SocialShareButton/issues/94)
 
 ## [zen-browser/desktop](https://github.com/zen-browser/desktop)
 
@@ -178,41 +113,51 @@ This list gets updated every day at midnight.
 - [Bookmark menu shows up in wrong place, and its entries' context menu has weird layout problem](https://github.com/zen-browser/desktop/issues/10542)
 - [Tab preview text illegible in front of light background](https://github.com/zen-browser/desktop/issues/12410)
 
-## [falling-fruit/falling-fruit-web](https://github.com/falling-fruit/falling-fruit-web)
+## [alaa-alghazouli/brainkit](https://github.com/alaa-alghazouli/brainkit)
 
-- [Pressing back in the browser moves the map back only half the time](https://github.com/falling-fruit/falling-fruit-web/issues/991)
+- [Add skill template and starter guide](https://github.com/alaa-alghazouli/brainkit/issues/6)
+- [Add CLI version command](https://github.com/alaa-alghazouli/brainkit/issues/5)
+- [Add --quiet flag to CLI install command](https://github.com/alaa-alghazouli/brainkit/issues/4)
+- [Add --json output flag to CLI list command](https://github.com/alaa-alghazouli/brainkit/issues/3)
 
-## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
+## [OSC/ondemand](https://github.com/OSC/ondemand)
 
-- [Legends](https://github.com/genome-spy/genome-spy/issues/51)
+- [Ganglia graphs need alt-text](https://github.com/OSC/ondemand/issues/1362)
 
-## [lexasub/PrivateBoard](https://github.com/lexasub/PrivateBoard)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [Add loading spinner component](https://github.com/lexasub/PrivateBoard/issues/4)
-- [Add dark mode toggle for the editor](https://github.com/lexasub/PrivateBoard/issues/8)
-- [Add favicon](https://github.com/lexasub/PrivateBoard/issues/7)
-- [Add ESLint for server](https://github.com/lexasub/PrivateBoard/issues/2)
-- [Add ESLint + Prettier for client](https://github.com/lexasub/PrivateBoard/issues/1)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [Document classes implementing the `GeometryFactory` interface](https://github.com/CesiumGS/cesium/issues/12827)
+- [ScreenSpaceEventHandler support for multiple KeyboardEventModifier keys at once](https://github.com/CesiumGS/cesium/issues/13300)
+- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
 
-## [sheltermanager/asm3](https://github.com/sheltermanager/asm3)
+## [parthnarkar/FitMart](https://github.com/parthnarkar/FitMart)
 
-- [Funded Payments: recording how payments have been spent](https://github.com/sheltermanager/asm3/issues/1988)
-- [Separate the options to disable city/state fields](https://github.com/sheltermanager/asm3/issues/1268)
-- [Bulk create medical/vacc/test keep list after creation](https://github.com/sheltermanager/asm3/issues/1326)
+- [refactor: Enhance Admin Reports Page UI and add Home navigation](https://github.com/parthnarkar/FitMart/issues/28)
+- [refactor: Enhance Admin Inventory Page UI and add Home navigation](https://github.com/parthnarkar/FitMart/issues/16)
+- [docs: add JSDoc comments to all Express route handlers](https://github.com/parthnarkar/FitMart/issues/9)
 
-## [cardano-foundation/cardano-org](https://github.com/cardano-foundation/cardano-org)
+## [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 
-- [Help translate cardano.org into your language](https://github.com/cardano-foundation/cardano-org/issues/442)
+- [Add Tooltip for Remove from Collection List Button](https://github.com/processing/p5.js-web-editor/issues/3882)
+- [Increasing color contrast of the Storage Bar on the Assets Page of the Profile Section](https://github.com/processing/p5.js-web-editor/issues/3856)
 
-## [mieweb/opensource-server](https://github.com/mieweb/opensource-server)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Enforce password complexity](https://github.com/mieweb/opensource-server/issues/228)
-- [[Bug]: Non-default external domain being listed first for HTTP services](https://github.com/mieweb/opensource-server/issues/208)
-- [Update container MOTD to include port forwards and services via API](https://github.com/mieweb/opensource-server/issues/114)
-- [create-a-container: add CSRF protection](https://github.com/mieweb/opensource-server/issues/73)
+- [The slide transitions on the Meshery pages are not working.](https://github.com/layer5io/layer5/issues/7461)
+- [Mobile navigation menu contains invalid nesting](https://github.com/layer5io/layer5/issues/7484)
+- [Reduce empty space after all integration section](https://github.com/layer5io/layer5/issues/7511)
+- [Button should not use the `alt` attribute](https://github.com/layer5io/layer5/issues/7485)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [Relocate partner logos to appropriate directory in static folder.](https://github.com/layer5io/layer5/issues/7256)
+
+## [octokit/request-action](https://github.com/octokit/request-action)
+
+- [[MAINT]: Update runtime to Node24](https://github.com/octokit/request-action/issues/345)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Duotone Filter Not Updating on Style Variation Change in Site Editor for Template Part](https://github.com/WordPress/gutenberg/issues/69847)
 - [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
 - [Include workflow run URL when commenting on PRs](https://github.com/WordPress/gutenberg/issues/76575)
 - [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
@@ -220,46 +165,50 @@ This list gets updated every day at midnight.
 - [Media Queries applied to blocks custom css are not working in gutenberg >=16.8.0](https://github.com/WordPress/gutenberg/issues/55318)
 - [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [sanger/traction-ui](https://github.com/sanger/traction-ui)
 
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [Add comment about use of AI to our localization docs](https://github.com/open-telemetry/opentelemetry.io/issues/8010)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+- [Y26-080 - [UX] As a developer (Ben) I would like to use ticks and crosses in addition to colours for flexible pooling and pacbio run wells.](https://github.com/sanger/traction-ui/issues/2661)
+- [Y26-047 - As a developer (Ben) I would like to remove lodash-es as a dependency](https://github.com/sanger/traction-ui/issues/2637)
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Material UI Checkboxes lack `aria-checked` attributes.](https://github.com/google/site-kit-wp/issues/12062)
+- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
+- [Canonical URL audit mistakes invalid URLs for relative ones](https://github.com/GoogleChrome/lighthouse/issues/12008)
 
-## [hanzili/hanzi-in-chrome](https://github.com/hanzili/hanzi-in-chrome)
+## [yash-pouranik/urBackend](https://github.com/yash-pouranik/urBackend)
 
-- [Setup wizard: detect more editors (VS Code, Zed, Neovim)](https://github.com/hanzili/hanzi-in-chrome/issues/8)
-- [New Skill: Job Application Helper](https://github.com/hanzili/hanzi-in-chrome/issues/2)
-- [Add unit tests for setup wizard](https://github.com/hanzili/hanzi-in-chrome/issues/6)
-- [Windows support for setup wizard](https://github.com/hanzili/hanzi-in-chrome/issues/4)
-- [New Skill: Web Data Extractor](https://github.com/hanzili/hanzi-in-chrome/issues/3)
+- [🔑 Add Unique Field Constraints in Schema Builder](https://github.com/yash-pouranik/urBackend/issues/49)
+- [Standardize API Error Responses Across All Controllers](https://github.com/yash-pouranik/urBackend/issues/40)
+- [Add Skeleton Loaders](https://github.com/yash-pouranik/urBackend/issues/39)
+- [Add a /api/health Endpoint for System Monitoring](https://github.com/yash-pouranik/urBackend/issues/41)
 
-## [medic/cht-core](https://github.com/medic/cht-core)
+## [TANISHX1/seat-allocation-sys](https://github.com/TANISHX1/seat-allocation-sys)
 
-- [warnings output on command line with docker helper](https://github.com/medic/cht-core/issues/9310)
-- [Remove app management configure targets page](https://github.com/medic/cht-core/issues/10302)
+- [students view](https://github.com/TANISHX1/seat-allocation-sys/issues/64)
 
-## [Tadreeb-LMS/tadreeblms](https://github.com/Tadreeb-LMS/tadreeblms)
+## [nextcloud/deck](https://github.com/nextcloud/deck)
 
-- [Bug – Admin Can Enroll Trainees into Expired Courses](https://github.com/Tadreeb-LMS/tadreeblms/issues/287)
-- [Enhancement – Limit Question Marks to Maximum 3 Digits](https://github.com/Tadreeb-LMS/tadreeblms/issues/320)
-- [Enhancement – Move "User Group" Menu Under "User Management" in Sidebar](https://github.com/Tadreeb-LMS/tadreeblms/issues/322)
-- [Bug – Single Choice Question Allows Only One Option](https://github.com/Tadreeb-LMS/tadreeblms/issues/319)
-- [Bug – Landing Page Returns 404 and Redirects to Dashboard Even When Enabled](https://github.com/Tadreeb-LMS/tadreeblms/issues/286)
-- [Add Marketplace link message on External Applications page for administrators](https://github.com/Tadreeb-LMS/tadreeblms/issues/294)
-- [Bug – Course Creation UI Mismatch Between Admin and Course Creator + Missing  Selections](https://github.com/Tadreeb-LMS/tadreeblms/issues/224)
-- [Add Dynamic Color Options to Certificate Template Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/234)
-- [Enhancement : Add Progress Status Filter to Attendance Report (Using Existing Status Field)](https://github.com/Tadreeb-LMS/tadreeblms/issues/247)
-- [Enhancement: Add Filters to User Feedback Answers Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/162)
-- [Enhancement: Reuse Email After User Deletion (Soft Delete Support)](https://github.com/Tadreeb-LMS/tadreeblms/issues/147)
-- [Enhancement : Automatically unpublish courses after expiry date](https://github.com/Tadreeb-LMS/tadreeblms/issues/110)
-- [BUG : Verified Trainee Not Appearing in User List After Signup](https://github.com/Tadreeb-LMS/tadreeblms/issues/249)
-- [Modify Lessons & Questions Page to Show All Records by Default with Course Filter](https://github.com/Tadreeb-LMS/tadreeblms/issues/215)
-- [Add Post-Creation Confirmation Popup with Course Assignment Redirect](https://github.com/Tadreeb-LMS/tadreeblms/issues/212)
+- [Owner should have "owner" next to their name when when viewing as owner](https://github.com/nextcloud/deck/issues/7688)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
+- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+
+## [NMRLipids/BilayerUI_laravel](https://github.com/NMRLipids/BilayerUI_laravel)
+
+- [Add a column with lipid composition to experiment page](https://github.com/NMRLipids/BilayerUI_laravel/issues/81)
+
+## [gchq/CyberChef](https://github.com/gchq/CyberChef)
+
+- [Bug report: fromDecimal(...) function does not correctly handle delim parameter passed as default ("Auto")](https://github.com/gchq/CyberChef/issues/2217)
+
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+
+- [Simplify the TWIM Guide](https://github.com/matrix-org/matrix.org/issues/3248)
+- [add Kazarma](https://github.com/matrix-org/matrix.org/issues/3241)
 
