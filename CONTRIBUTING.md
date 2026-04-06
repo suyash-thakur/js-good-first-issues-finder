@@ -2,7 +2,7 @@ Contributing Guidelines:
 
 Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels.
 
-Before you start contributing, please take a moment to review these guidelines:
+Follow the steps below to contribute to this project:
 
 - Familiarize yourself with the project by reviewing the README.md file and the codebase.
 
