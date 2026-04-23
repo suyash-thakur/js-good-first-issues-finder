@@ -4,6 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [Explain `in_span` more for ruby docs](https://github.com/open-telemetry/opentelemetry.io/issues/2022)
+- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[Page feedback]: Sample code needs updating](https://github.com/open-telemetry/opentelemetry.io/issues/6525)
+- [[Docs]: Browser doc page links to SIG notes](https://github.com/open-telemetry/opentelemetry.io/issues/9537)
+- [Link to sampler and propagation config in OTel operator docs](https://github.com/open-telemetry/opentelemetry.io/issues/2341)
+
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
 - ['Skip device preview before joining a call' should join calls with camera disabled](https://github.com/nextcloud/spreed/issues/17574)
@@ -16,90 +25,35 @@ This list gets updated every day at midnight.
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 - [[Enhancement] Hide call-related settings and dashboard buttons when calls are disabled (Follow-up to #17215)](https://github.com/nextcloud/spreed/issues/17390)
 
-## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
-
-- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
-- [docs(README): update README example image for better representation](https://github.com/Ryan-Millard/Img2Num/issues/296)
-- [Feat: Search functionality for info site](https://github.com/Ryan-Millard/Img2Num/issues/82)
-- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
-- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
-- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
-- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
-- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
-- [refactor: Streamline Documentation for Easier Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/214)
-- [bug(example-app/react): Pinch zoom drifts when .inner uses transform-origin: center center](https://github.com/Ryan-Millard/Img2Num/issues/294)
-- [docs: js package walkthrough](https://github.com/Ryan-Millard/Img2Num/issues/269)
-- [feat: Set Up GitHub Codespaces with Dev Container for Easy Contributor Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/293)
-- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
-- [Bug Fix: memory leak and silent failure in loadImageToUint8Array](https://github.com/Ryan-Millard/Img2Num/issues/96)
-- [refactor(js-bindings): switch to C-only code to simplify WASM <-> JS interop](https://github.com/Ryan-Millard/Img2Num/issues/282)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
-- [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304)
-- [[Ping] fails if you choose a ping paket size below 16 bytes](https://github.com/louislam/uptime-kuma/issues/3574)
-- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[Website] Buttons should be of different colors on Models pages](https://github.com/meshery/meshery.io/issues/2389)
 - [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
 
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+## [AIDD-Projects/harness](https://github.com/AIDD-Projects/harness)
 
-- [Request: Wiz](https://github.com/simple-icons/simple-icons/issues/10612)
-- [Request: Helium10](https://github.com/simple-icons/simple-icons/issues/12255)
+- [Design and upload Social Preview image (1280×640)](https://github.com/AIDD-Projects/harness/issues/2)
+- [Add demo GIF/terminal recording to README](https://github.com/AIDD-Projects/harness/issues/1)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [Labreo/ytm-miniplayer](https://github.com/Labreo/ytm-miniplayer)
 
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=897634](https://github.com/stdlib-js/stdlib/issues/11249)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11235)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11209)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11147)
+- [Enhcanement:Create a pull request template.](https://github.com/Labreo/ytm-miniplayer/issues/7)
+- [Make the extension useable for microsoft edge](https://github.com/Labreo/ytm-miniplayer/issues/12)
+- [Create a new verision for opera](https://github.com/Labreo/ytm-miniplayer/issues/11)
+- [Bug:Fix media key buttons not working.](https://github.com/Labreo/ytm-miniplayer/issues/3)
+- [Documentation:Add proper documentation throughtout the whole process.](https://github.com/Labreo/ytm-miniplayer/issues/4)
+- [UI/UX:Add better more appaling visuals to the miniplayer design.](https://github.com/Labreo/ytm-miniplayer/issues/2)
 
-## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
+## [404-Page-Found/New-Tab](https://github.com/404-Page-Found/New-Tab)
 
-- [Nextcloud Office "Save as" browse option](https://github.com/nextcloud/richdocuments/issues/5545)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Experiment: Taxonomy modal lacks space above buttons](https://github.com/WordPress/gutenberg/issues/77518)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [Since 6.3, the display ratio of images is broken when the size of the Image Block is specified.](https://github.com/WordPress/gutenberg/issues/53555)
-- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
-
-## [MateoGonzalezLourido/Ravage](https://github.com/MateoGonzalezLourido/Ravage)
-
-- [MIGRAR FRONTEND A REACT](https://github.com/MateoGonzalezLourido/Ravage/issues/109)
-- [los Set de las caches deben formatear los tipos a tipos validos y eficientes](https://github.com/MateoGonzalezLourido/Ravage/issues/44)
-- [pasar secretkeys de .env a baul seguro](https://github.com/MateoGonzalezLourido/Ravage/issues/48)
-- [optimizar funciones mongo](https://github.com/MateoGonzalezLourido/Ravage/issues/39)
-- [añadir compresion de datos cache en disco](https://github.com/MateoGonzalezLourido/Ravage/issues/24)
-- [cambiar icono app + cambiar iconos](https://github.com/MateoGonzalezLourido/Ravage/issues/33)
-- [terminar obtencion datos cache+db al abrir un chat](https://github.com/MateoGonzalezLourido/Ravage/issues/29)
-- [crear los ajustes del chat](https://github.com/MateoGonzalezLourido/Ravage/issues/20)
-- [documentar internamente la app usando markdown](https://github.com/MateoGonzalezLourido/Ravage/issues/18)
-
-## [identification-resources/catalog](https://github.com/identification-resources/catalog)
-
-- [The Families of the Salientia or Tailless Batrachia](https://github.com/identification-resources/catalog/issues/127)
+- [Inline todo date picker leaks global listeners when changing months](https://github.com/404-Page-Found/New-Tab/issues/68)
+- [Add App preview can keep a stale favicon for invalid input](https://github.com/404-Page-Found/New-Tab/issues/67)
+- [App grid re-renders ignore the open-in-new-tab preference](https://github.com/404-Page-Found/New-Tab/issues/66)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
@@ -111,7 +65,6 @@ This list gets updated every day at midnight.
 - [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
 - [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
 - [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 
 ## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
 
@@ -122,42 +75,18 @@ This list gets updated every day at midnight.
 - [Add new Animations.](https://github.com/younisdev/dyvix-ui/issues/15)
 - [Add `textarea` modal element support.](https://github.com/younisdev/dyvix-ui/issues/16)
 
-## [google/closure-compiler](https://github.com/google/closure-compiler)
+## [NicholaiMadias/gamifiedlearning.github.io](https://github.com/NicholaiMadias/gamifiedlearning.github.io)
 
-- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
-
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-
-## [plotly/plotly.js](https://github.com/plotly/plotly.js)
-
-- [Explicit node coordinates (x/y positions) not fully respected in Sankey diagram](https://github.com/plotly/plotly.js/issues/7758)
-
-## [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator)
-
-- [Document automated testing](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/issues/258)
-
-## [medic/cht-core](https://github.com/medic/cht-core)
-
-- [Replace `any` types with proper interfaces in small service files](https://github.com/medic/cht-core/issues/10883)
-- [Migrate small Angular templates from structural directives to built-in control flow](https://github.com/medic/cht-core/issues/10882)
-- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
-- [Add constant for 'district_hospital' document type](https://github.com/medic/cht-core/issues/10546)
-- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
-- [Add constant for 'clinic' document type](https://github.com/medic/cht-core/issues/10544)
-- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
-- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [Permission popup doesn't show up in collapsed mode](https://github.com/zen-browser/desktop/issues/13293)
-- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
-- ["Pin Tab" missing in keyboard shortcut settings](https://github.com/zen-browser/desktop/issues/4504)
-- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
-- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
-- [`about:debugging` wrong connected browser warning](https://github.com/zen-browser/desktop/issues/10158)
-- [Missing translations](https://github.com/zen-browser/desktop/issues/10749)
+- [Deploy GitHub Pages with Dedicated Folder Structure and Workflow](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/78)
+- [Fix Match Maker blank screen: align DOM IDs, JS imports, Pages workflow, add Mystery of the Seven Stars progress map, and resolve merge conflicts](https://github.com/NicholaiMadias/gamifiedlearning.github.io/pull/76)
+- [Refactor match-maker-ui.js for improved structure](https://github.com/NicholaiMadias/gamifiedlearning.github.io/pull/75)
+- [Fix broken deployment pipeline, domain misconfiguration, and non-rendering game](https://github.com/NicholaiMadias/gamifiedlearning.github.io/pull/72)
+- [There’s a syntax error here: the JSDoc block before `logEvent()` is missing its opening `/**`, so the file won’t parse and none of the exports will load. Add the missing comment opener (or remove the stray lines) so this becomes a valid comment again.](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/26)
+- [If `github.repository` doesn’t match any `case` arm, `EXPECTED` remains empty and this fails with a misleading “expected ''” message. Add an explicit guard when `EXPECTED` is unset (either fail early with a clear error like “no expected CNAME configured for this repo” or skip validation).](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/29)
+- [Improve gameplay](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/50)
+- [resolveRavenMatches schedules itself via setTimeout but initRavensMessage/restart doesn’t cancel any pending timeout. If the user clicks “↺ New Board” during a chain reaction, an older timeout will continue mutating the newly-initialized board/score/moves. Track the timeout id (or a runId/generation token) and cancel/ignore stale callbacks when re-initializing or restarting.](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/42)
+- [Saving tool assignments performs one awaited write per checkbox, sequentially. With many users this becomes slow and can hit backend rate limits. Prefer batching writes (e.g., a single multi-path `update`/batch request) or at least `Promise.all` with a concurrency limit.](https://github.com/NicholaiMadias/gamifiedlearning.github.io/issues/22)
+- [Add GitHub Action to validate CNAME file](https://github.com/NicholaiMadias/gamifiedlearning.github.io/pull/13)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -186,13 +115,22 @@ This list gets updated every day at midnight.
 - [[TRIGGER] with Return HTTP Response action](https://github.com/PipedreamHQ/pipedream/issues/20489)
 - [[ACTION] Remove Specific Label Function in Pipedrive](https://github.com/PipedreamHQ/pipedream/issues/20431)
 - [Vulnerability in pipedream project](https://github.com/PipedreamHQ/pipedream/issues/20404)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20140)
 
-## [issueflow-buidl/issueflow-cli](https://github.com/issueflow-buidl/issueflow-cli)
+## [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator)
 
-- [[CLI] Implement list command](https://github.com/issueflow-buidl/issueflow-cli/issues/6)
-- [[CLI] Implement label command](https://github.com/issueflow-buidl/issueflow-cli/issues/4)
-- [[CLI] Implement create command](https://github.com/issueflow-buidl/issueflow-cli/issues/1)
+- [Document automated testing](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/issues/258)
+
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
+
+## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
+
+- [Nextcloud Office "Save as" browse option](https://github.com/nextcloud/richdocuments/issues/5545)
+
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
+
+- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
 
 ## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
@@ -200,22 +138,52 @@ This list gets updated every day at midnight.
 - [Clustering no longer works when assigning a label to datasource entities](https://github.com/CesiumGS/cesium/issues/13361)
 - [Primitive with heightReference have a wrong positioning in 2D mode](https://github.com/CesiumGS/cesium/issues/12531)
 
-## [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+## [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
 
-- [[Feature]: When timeline is hidden minimap should be hidden too](https://github.com/jaegertracing/jaeger-ui/issues/3762)
-- [[Bug]: On initial load of Monitor page the charts are half-width](https://github.com/jaegertracing/jaeger-ui/issues/3539)
-- [[Bug]: Error converting traces to OTLP (\uFFFD)](https://github.com/jaegertracing/jaeger-ui/issues/2589)
-- [[UI Refactor] Migrate Graph to Functional Component](https://github.com/jaegertracing/jaeger-ui/issues/3378)
-- [Multi-trace traceID search does not show 404s](https://github.com/jaegertracing/jaeger-ui/issues/51)
-- [[chore]: Remove unsafe use of _get()](https://github.com/jaegertracing/jaeger-ui/issues/3604)
+- [Feat: FAQ page for info site](https://github.com/Ryan-Millard/Img2Num/issues/161)
+- [docs(README): update README example image for better representation](https://github.com/Ryan-Millard/Img2Num/issues/296)
+- [Feat: Search functionality for info site](https://github.com/Ryan-Millard/Img2Num/issues/82)
+- [Add pre-prepared example images to the home screen (& possibly new screen)](https://github.com/Ryan-Millard/Img2Num/issues/91)
+- [Docs: Expand Tutorials & How-Tos - beginner-friendly, code walkthroughs](https://github.com/Ryan-Millard/Img2Num/issues/140)
+- [Refactor: Docs Styling - Match Main Site (Glassmorphic Theme & Branding)](https://github.com/Ryan-Millard/Img2Num/issues/150)
+- [feat(UI/UX): Improve & Revamp Home Page](https://github.com/Ryan-Millard/Img2Num/issues/172)
+- [fix(sitemap): properly generate sitemap for all React app routes](https://github.com/Ryan-Millard/Img2Num/issues/183)
+- [refactor: Streamline Documentation for Easier Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/214)
+- [bug(example-app/react): Pinch zoom drifts when .inner uses transform-origin: center center](https://github.com/Ryan-Millard/Img2Num/issues/294)
+- [docs: js package walkthrough](https://github.com/Ryan-Millard/Img2Num/issues/269)
+- [feat: Set Up GitHub Codespaces with Dev Container for Easy Contributor Onboarding](https://github.com/Ryan-Millard/Img2Num/issues/293)
+- [Add “Reset Image” button](https://github.com/Ryan-Millard/Img2Num/issues/104)
+- [Bug Fix: memory leak and silent failure in loadImageToUint8Array](https://github.com/Ryan-Millard/Img2Num/issues/96)
+- [refactor(js-bindings): switch to C-only code to simplify WASM <-> JS interop](https://github.com/Ryan-Millard/Img2Num/issues/282)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Quick Start docker run fails on Windows with `An attempt was made to access a socket in a way forbidden by its access permissions`](https://github.com/open-telemetry/opentelemetry.io/issues/5231)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Page feedback]: Sample code needs updating](https://github.com/open-telemetry/opentelemetry.io/issues/6525)
-- [[Docs]: Browser doc page links to SIG notes](https://github.com/open-telemetry/opentelemetry.io/issues/9537)
-- [Link to sampler and propagation config in OTel operator docs](https://github.com/open-telemetry/opentelemetry.io/issues/2341)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [Permission popup doesn't show up in collapsed mode](https://github.com/zen-browser/desktop/issues/13293)
+- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
+- ["Pin Tab" missing in keyboard shortcut settings](https://github.com/zen-browser/desktop/issues/4504)
+- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
+- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
+- [`about:debugging` wrong connected browser warning](https://github.com/zen-browser/desktop/issues/10158)
+- [Missing translations](https://github.com/zen-browser/desktop/issues/10749)
+
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+
+- [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474)
+- [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747)
+
+## [google/closure-compiler](https://github.com/google/closure-compiler)
+
+- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
+
+## [Helohi/FindTM_ext](https://github.com/Helohi/FindTM_ext)
+
+- [Need help with Farsi](https://github.com/Helohi/FindTM_ext/issues/1)
+- [Need help with Turkmen](https://github.com/Helohi/FindTM_ext/issues/2)
 
 ## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
 
@@ -223,48 +191,82 @@ This list gets updated every day at midnight.
 - [fail fast docs only mentions `run` but works for `build` and `test` too](https://github.com/dbt-labs/docs.getdbt.com/issues/8584)
 - [[Core] Configurability of the timestamps in logs](https://github.com/dbt-labs/docs.getdbt.com/issues/5651)
 
-## [fastify/fastify](https://github.com/fastify/fastify)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [How to separate api endpoints in google cloud.](https://github.com/fastify/fastify/issues/4670)
-- [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Since 6.3, the display ratio of images is broken when the size of the Image Block is specified.](https://github.com/WordPress/gutenberg/issues/53555)
+- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
 
-## [layer5io/docs](https://github.com/layer5io/docs)
+## [medic/cht-core](https://github.com/medic/cht-core)
 
-- [[Docs] Add missing actions to comment history panel](https://github.com/layer5io/docs/issues/549)
-- [[Docs] Designer: How to pin a model to the dock](https://github.com/layer5io/docs/issues/562)
+- [Replace `any` types with proper interfaces in small service files](https://github.com/medic/cht-core/issues/10883)
+- [Migrate small Angular templates from structural directives to built-in control flow](https://github.com/medic/cht-core/issues/10882)
+- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
+- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
+- [Add constant for 'clinic' document type](https://github.com/medic/cht-core/issues/10544)
+- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
+- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
 
-## [parthnarkar/FitMart](https://github.com/parthnarkar/FitMart)
+## [HarperFast/harper](https://github.com/HarperFast/harper)
 
-- [fix: validate productId and quantity inputs in cart API endpoints](https://github.com/parthnarkar/FitMart/issues/60)
-- [feat: add keyboard and ARIA improvements to Navbar](https://github.com/parthnarkar/FitMart/issues/61)
-- [feat: add prop-types validation to Navbar and CartDrawer](https://github.com/parthnarkar/FitMart/issues/57)
-- [refactor: add normalizeProduct helper to centralize product ID handling](https://github.com/parthnarkar/FitMart/issues/62)
-- [fix: reduce sensitive body logging and add timestamps in logger middleware](https://github.com/parthnarkar/FitMart/issues/58)
+- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
+- [Convert harper logger module to TypeScript](https://github.com/HarperFast/harper/issues/145)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
 
-## [JhaSourav07/QuickPDF](https://github.com/JhaSourav07/QuickPDF)
+## [Stellar-Trust-Escrow/stellar-trust-escrow](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow)
 
-- [UI Enhancement: Add Theme Toggle with Light Mode Support for Better Visualization](https://github.com/JhaSourav07/QuickPDF/issues/29)
-- [Implement Pagination for Tools Section (6 Cards per Page)](https://github.com/JhaSourav07/QuickPDF/issues/7)
-- [Add preview before download across PDF tools](https://github.com/JhaSourav07/QuickPDF/issues/9)
-- [Better Compression Logic](https://github.com/JhaSourav07/QuickPDF/issues/1)
-- [Text Button In Edit PDF Tool is not working.](https://github.com/JhaSourav07/QuickPDF/issues/3)
-
-## [xlebovoz/GitGraphs](https://github.com/xlebovoz/GitGraphs)
-
-- [transfer README.md into Spanish](https://github.com/xlebovoz/GitGraphs/issues/4)
-- [Add a translation to your language](https://github.com/xlebovoz/GitGraphs/issues/2)
-
-## [meteor/meteor](https://github.com/meteor/meteor)
-
-- [Deprecation warnings when installing from a meteor {V3.3.2) bundle](https://github.com/meteor/meteor/issues/14083)
-- [Meteor Developer OAuth: account-settings page and auth endpoint no longer functional](https://github.com/meteor/meteor/issues/14242)
-- [Generated .d.ts files use 'module' keyword instead of 'namespace' — breaks TypeScript 6](https://github.com/meteor/meteor/issues/14253)
-
-## [UWIT-CTS-Software/bronson_online](https://github.com/UWIT-CTS-Software/bronson_online)
-
-- [Highlight file on directory redirect](https://github.com/UWIT-CTS-Software/bronson_online/issues/149)
-- [Mobile view tooltab scrolling](https://github.com/UWIT-CTS-Software/bronson_online/issues/144)
-- [Fill Out Wiki Files](https://github.com/UWIT-CTS-Software/bronson_online/issues/37)
+- [Emit `admin_changed` Event During `initialize` and Any Future Admin Transfer in `EscrowContract`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/631)
+- [Reject All-Zero `brief_hash` (`BytesN<32>`) in `create_escrow_internal`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/624)
+- [Add `MAX_BUYER_SIGNERS` Constant and Validation to Limit `buyer_signers` Vec Length](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/623)
+- [Add `get_recurring_schedule_status(escrow_id)` Returning a Structured Status Summary](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/629)
+- [Add `MAX_STRING_LEN` Constant and Validate `soroban_sdk::String` Length in Milestone and Cancellation Functions](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/625)
+- [Write Contributor Onboarding Guide for Soroban/Rust Development on `stellar-trust-escrow`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/609)
+- [Document `RecurringPaymentConfig` Fields, `RecurringInterval` Variants, and Schedule Semantics](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/607)
+- [Add User-Facing Descriptions for All 54 `EscrowError` Codes in `errors.rs`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/610)
+- [Write Multisig Escrow Setup Guide Covering `buyer_signers`, `MultisigConfig`, and Threshold Approval](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/608)
+- [Add `get_admin() -> Address` Public View Function to `EscrowContract`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/612)
+- [Add `MAX_ESCROW_AMOUNT` Constant and Validation in `create_escrow_internal` to Bound `total_amount`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/622)
+- [Validate That `arbiter != client` and `arbiter != freelancer` in `create_escrow_internal`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/621)
+- [Add Input Validation to Reject Self-Escrows Where `freelancer == client` in `create_escrow_internal`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/620)
+- [Add `get_milestone_approvals(escrow_id: u64, milestone_id: u32) -> Vec<ApprovalRecord>` View Function](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/615)
+- [Add `get_contract_balance(token: Address) -> i128` View Function to Expose On-Chain Token Balance](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/616)
+- [Add `get_lock_time_remaining(escrow_id: u64) -> Option<u64>` Public View Function](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/614)
+- [Add `get_escrow_meta(escrow_id: u64) -> EscrowMeta` View Function Without Loading Milestones](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/613)
+- [Deduplicate `bump_instance_ttl` and `bump_persistent_ttl` Helper Functions Across Contract Crates](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/718)
+- [Refactor `ContractStorage::load_escrow` Milestone Assembly from Index Loop to Iterator Pattern](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/716)
+- [Renumber `EscrowError` Enum to Close Missing Discriminant Gaps at 7, 11, 22, and 24](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/715)
+- [Consolidate Duplicated TTL Constants from All Contract Crates into a Shared `config.rs` Module](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/711)
+- [Refactor All `symbol_short!` Event Topic Names in `events.rs` to Constants in a Dedicated `event_names.rs` Module](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/710)
+- [Refactor `create_escrow_internal` Input Validation into a Standalone `validate_escrow_inputs` Helper Function](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/709)
+- [Add GitHub Issue Templates for Bug Reports, Feature Requests, and Security Vulnerability Disclosures](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/695)
+- [Create `CHANGELOG.md` Following Keep a Changelog Format Starting from v1.0.0](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/694)
+- [Add `.devcontainer/devcontainer.json` for Codespaces-Compatible Rust and Soroban CLI Development Environment](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/693)
+- [Add `cargo-audit` to GitHub Actions CI for Automated Dependency Vulnerability Detection](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/691)
+- [Add `rustfmt.toml` at Project Root with Consistent Formatting Rules for All Contract Crates](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/690)
+- [Add GitHub Actions CI Workflow Enforcing `cargo clippy -- -D warnings` on All Contract Crates](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/689)
+- [Add GitHub Actions CI Workflow for `cargo test --workspace` on Push and Pull Request](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/688)
+- [Add `.env.example` File Documenting All Required Soroban CLI Environment Variables](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/687)
+- [Add Project-Wide `Makefile` with Standard Targets for Building, Testing, and Deploying Contracts](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/686)
+- [Add Documentation and Warning Comments Explaining `mock_all_auths()` Trust Model to Prevent Misuse in Tests](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/685)
+- [Add Non-Zero Price Validation in `get_price_usd` and `convert_amount` to Prevent Division by Zero](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/680)
+- [Add `validate_escrow_token` Call in `create_escrow_internal` to Reject Unapproved Wrapped Tokens](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/675)
+- [Add `MAX_ESCROW_AMOUNT` Constant and Validation in `create_escrow_internal` to Cap `total_amount`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/670)
+- [Add `MIN_ESCROW_AMOUNT` Constant and Validation in `create_escrow_internal` to Reject Dust Escrows](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/669)
+- [Test That `get_escrow_meta` Reflects Correct `EscrowMeta` Field Values After Each State-Changing Operation](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/667)
+- [Test That `emergency_withdraw_fees` Moves Entire `FeeBalance` to the Specified Recipient Address](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/666)
+- [Test That Admin Unpause Restores Normal Contract Operation After a Pause Cycle](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/661)
+- [Expand Pause Tests to Verify `ContractPaused` Error on All Paused State-Mutating Functions](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/660)
+- [Test That a Proposer Can Cancel Their Own `Active` Proposal via `cancel_proposal`](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/659)
+- [Test That `ReputationRecord` Is Correctly Initialized on First Escrow Completion for Both Parties](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/647)
+- [Test That `lock_time` Prevents `release_funds` Before Expiry and Permits It After](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/644)
+- [Test `batch_add_milestones` Boundary Behavior at `MAX_MILESTONES` and Rejection Past the Cap](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/642)
+- [Add Unit Tests for `create_recurring_escrow` Happy Path Covering `Daily`, `Weekly`, and `Monthly` Intervals](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/639)
+- [Add `update_milestone_title(escrow_id, milestone_id, new_title)` Function Restricted to `MS_PENDING` Milestones](https://github.com/Stellar-Trust-Escrow/stellar-trust-escrow/issues/638)
 
 ## [google/site-kit-wp](https://github.com/google/site-kit-wp)
 
@@ -282,38 +284,15 @@ This list gets updated every day at midnight.
 - [Font weight disable modal](https://github.com/google/site-kit-wp/issues/12430)
 - [Contact name and role overlapping "Send invite"](https://github.com/google/site-kit-wp/issues/12411)
 
-## [Eshajha19/agri](https://github.com/Eshajha19/agri)
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
 
-- [Refactor: Improve Project Structure](https://github.com/Eshajha19/agri/issues/3)
-- [Navbar is not fixed on scroll](https://github.com/Eshajha19/agri/issues/26)
+- [Support for static assets copying in web generator for SSG support](https://github.com/nodejs/doc-kit/issues/748)
+- [[v25] Anchors without `--` prefix](https://github.com/nodejs/doc-kit/issues/757)
+- [Add `cli-progress` (Progress Bar) for CLI](https://github.com/nodejs/doc-kit/issues/58)
 
-## [balaji119/flowiq](https://github.com/balaji119/flowiq)
+## [NicoLBH/Mdall](https://github.com/NicoLBH/Mdall)
 
-- [Make the dashboard table columns sortable.](https://github.com/balaji119/flowiq/issues/5)
-- [Improve close button UX for create user/tenant window](https://github.com/balaji119/flowiq/issues/4)
-- [Add option to delete a compaign.](https://github.com/balaji119/flowiq/issues/1)
-
-## [GEO-BON/bon-in-a-box-pipeline-engine](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine)
-
-- [Add paper citation](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine/issues/355)
-- [Page title in tab should be descriptive](https://github.com/GEO-BON/bon-in-a-box-pipeline-engine/issues/359)
-
-## [Mohit-368/ReadmeForge](https://github.com/Mohit-368/ReadmeForge)
-
-- [Add zoom in and zoom out for preview panel](https://github.com/Mohit-368/ReadmeForge/issues/19)
-- [Add print preview button](https://github.com/Mohit-368/ReadmeForge/issues/24)
-- [Add back to top button in live preview panel](https://github.com/Mohit-368/ReadmeForge/issues/22)
-- [Add support or donation section to README output](https://github.com/Mohit-368/ReadmeForge/issues/23)
-- [Add section collapse and expand toggle in editor](https://github.com/Mohit-368/ReadmeForge/issues/20)
-- [Add word counter for description fields](https://github.com/Mohit-368/ReadmeForge/issues/17)
-- [Fix copy button not working in Firefox](https://github.com/Mohit-368/ReadmeForge/issues/14)
-- [Create a wiki page explaining each README section](https://github.com/Mohit-368/ReadmeForge/issues/12)
-- [Improve error messages when fields are left empty](https://github.com/Mohit-368/ReadmeForge/issues/11)
-- [Add smooth scroll to preview on section toggle](https://github.com/Mohit-368/ReadmeForge/issues/6)
-- [Add dark mode toggle](https://github.com/Mohit-368/ReadmeForge/issues/1)
-- [Add contact section to README output](https://github.com/Mohit-368/ReadmeForge/issues/25)
-- [Add FAQ section to README output](https://github.com/Mohit-368/ReadmeForge/issues/26)
-- [Add export as .md file download button](https://github.com/Mohit-368/ReadmeForge/issues/2)
-- [Add reset all fields button](https://github.com/Mohit-368/ReadmeForge/issues/3)
-- [Add keyboard shortcut for Copy Raw button](https://github.com/Mohit-368/ReadmeForge/issues/5)
+- [Incohérences de cadrage réglementaire](https://github.com/NicoLBH/Mdall/issues/16)
+- [Situation 1](https://github.com/NicoLBH/Mdall/issues/15)
+- [situation 1](https://github.com/NicoLBH/Mdall/issues/13)
 
