@@ -16,7 +16,7 @@ const WAIT_TIME = 1000;
  * Returns a Map keyed by full_name to unique repo objects with metrics.
  */
 const getCandidateRepos = async () => {
-  const languages = ['JavaScript'];
+  const languages = ['JavaScript', 'TypeScript'];
   const sorts = ['updated', 'stars'];
   const per_page = 50; // be gentle with rate limits
   const unique = new Map();
@@ -171,7 +171,7 @@ const getGoodFirstIssues = async () => {
 
 
     // Rebuild README content
-    let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
+    let markdown = `# Good First Issues\n\nThis is a list of JavaScript and TypeScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
     markdown += `This list gets updated every day at midnight.\n\n`;
 
     for (const issue of goodFirstIssues) {
@@ -194,7 +194,7 @@ const convertToHtml = async () => {
     const md = new Markdown();
 
     md.render('README.md', {
-      title: 'Good Javascript First Issues',
+      title: 'Good JS & TS First Issues',
       highlight: true,
       highlightTheme: 'github',
       stylesheet: 'styles.css',
