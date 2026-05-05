@@ -174,6 +174,8 @@ const getGoodFirstIssues = async () => {
     let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
     markdown += `This list gets updated every day at midnight.\n\n`;
 
+    markdown += `**Last updated:** ${new Date().toUTCString()}\n\n`;
+
     for (const issue of goodFirstIssues) {
       markdown += `## [${issue.repo}](${issue.issues[0].html_url.split('/issues')[0]})\n\n`;
       for (const item of issue.issues) {
