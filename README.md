@@ -4,6 +4,42 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
+- [Convert harper logger module to TypeScript](https://github.com/HarperFast/harper/issues/145)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
+
+- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
+
+## [grommet/grommet](https://github.com/grommet/grommet)
+
+- [DataTable: sortable columns missing aria-sort="none" and unsorted icon should be aria-hidden](https://github.com/grommet/grommet/issues/7924)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Sidebar fields are not completely visible despite scrollbar](https://github.com/layer5io/docs/issues/1009)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [GSoC Program 2026: Add hyperlink to Meshery org](https://github.com/meshery/meshery.io/issues/2661)
+
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Navbar in mobile view has broken navbar position when on the list tab](https://github.com/louislam/uptime-kuma/issues/5977)
@@ -12,86 +48,19 @@ This list gets updated every day at midnight.
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
 
-- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11867)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [[Feature] Add `Warning` and `info` toast types.](https://github.com/younisdev/dyvix-ui/issues/100)
+- [[Chore] Move toast position styles into there own positions.css](https://github.com/younisdev/dyvix-ui/issues/96)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [Leonardo-Garzon-1995/mygit](https://github.com/Leonardo-Garzon-1995/mygit)
 
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
-
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
-
-- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-
-## [monapdx/easy-ebook-giveaways](https://github.com/monapdx/easy-ebook-giveaways)
-
-- [🧪 Test User Registration & Login Flow](https://github.com/monapdx/easy-ebook-giveaways/issues/22)
-- [Login with test account and test the app](https://github.com/monapdx/easy-ebook-giveaways/issues/21)
-- [Test the full ebook giveaway pipeline](https://github.com/monapdx/easy-ebook-giveaways/issues/12)
-- [Publish / Unpublish toggle](https://github.com/monapdx/easy-ebook-giveaways/issues/8)
-- [Editable campaign content (headline, bio, etc.)](https://github.com/monapdx/easy-ebook-giveaways/issues/11)
-
-## [Diplomado-Consumo-Sostenible/Frontend-Consumo-Sostenible](https://github.com/Diplomado-Consumo-Sostenible/Frontend-Consumo-Sostenible)
-
-- [Servicio de Subida y Manejo de Imágenes](https://github.com/Diplomado-Consumo-Sostenible/Frontend-Consumo-Sostenible/issues/35)
-- [Implementar Uploader de Archivos](https://github.com/Diplomado-Consumo-Sostenible/Frontend-Consumo-Sostenible/issues/32)
-
-## [oss-slu/DigitalBoneBox](https://github.com/oss-slu/DigitalBoneBox)
-
-- [Remove unused functions](https://github.com/oss-slu/DigitalBoneBox/issues/274)
-- [Label toggle](https://github.com/oss-slu/DigitalBoneBox/issues/233)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [webstreams: narrow `ReadableStreamBYOBRequest.view` to `Uint8Array`](https://github.com/nodejs/node/issues/62952)
-- [crypto,quic: missing NULL checks for OpenSSL allocation functions](https://github.com/nodejs/node/issues/62774)
-- [Runtime-deprecate calling digest() on HMAC more than once](https://github.com/nodejs/node/issues/62838)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
-- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
-- [Missing documentation in `fs.StatFs`](https://github.com/nodejs/node/issues/50749)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [Moving Essential Tab to New Window removes it from Essentials](https://github.com/zen-browser/desktop/issues/8309)
-- [Dialog UI layout overflow](https://github.com/zen-browser/desktop/issues/13485)
-- [There's two shortcuts for New Blank window in settings](https://github.com/zen-browser/desktop/issues/13437)
-- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
-- [Permission popup doesn't show up in collapsed mode](https://github.com/zen-browser/desktop/issues/13293)
-- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
-- ["Pin Tab" missing in keyboard shortcut settings](https://github.com/zen-browser/desktop/issues/4504)
-- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
-- [`about:debugging` wrong connected browser warning](https://github.com/zen-browser/desktop/issues/10158)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [[generic-worker] Change ownership of caches to current task](https://github.com/taskcluster/taskcluster/issues/6561)
-- [Display artifact sizes in UI](https://github.com/taskcluster/taskcluster/issues/8537)
-
-## [ScottyVenable/tritium](https://github.com/ScottyVenable/tritium)
-
-- [[ENHANCEMENT] `new-agent` scaffold adds adapter stubs automatically](https://github.com/ScottyVenable/tritium/issues/3)
-- [[DOCS] Add GIF or screenshot to README hero](https://github.com/ScottyVenable/tritium/issues/2)
-
-## [FarmData2/FarmData2](https://github.com/FarmData2/FarmData2)
-
-- [Check for VSCode extensions before installing them](https://github.com/FarmData2/FarmData2/issues/606)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-
-## [airqo-platform/AirQo-api](https://github.com/airqo-platform/AirQo-api)
-
-- [test: unit tests for gridUtil.list caching behaviour](https://github.com/airqo-platform/AirQo-api/issues/6455)
+- [Add test for stash command](https://github.com/Leonardo-Garzon-1995/mygit/issues/22)
+- [Add test for diff command](https://github.com/Leonardo-Garzon-1995/mygit/issues/19)
+- [Add a short basic-workflow video as a visual tutorial on how to install and use mygit](https://github.com/Leonardo-Garzon-1995/mygit/issues/18)
+- [Document internal API with JSDoc comments for the main function of each command file](https://github.com/Leonardo-Garzon-1995/mygit/issues/17)
+- [Add Symlink support](https://github.com/Leonardo-Garzon-1995/mygit/issues/15)
+- [Implementation of the rm command](https://github.com/Leonardo-Garzon-1995/mygit/issues/10)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -101,183 +70,127 @@ This list gets updated every day at midnight.
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [TwistedArtistsGuild/tag-web](https://github.com/TwistedArtistsGuild/tag-web)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [M4- Art Listing Calculator UI](https://github.com/TwistedArtistsGuild/tag-web/issues/35)
-- [M3- Contests](https://github.com/TwistedArtistsGuild/tag-web/issues/37)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
+- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
+- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11867)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
 
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
 
-- [Create SDLC Topic Outline](https://github.com/Techtonica/curriculum/issues/2592)
-- [Create CI/CD Topic Outline](https://github.com/Techtonica/curriculum/issues/2593)
-- [Create topic outline with interactive walkthrough and visuals for Backtracking](https://github.com/Techtonica/curriculum/issues/2252)
-- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
-- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
-- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
-- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
-- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
-- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
-- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
-- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
-- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
-- [Create topic outline with interactive walkthrough and visuals for Algorithmic Math Problems](https://github.com/Techtonica/curriculum/issues/2254)
-- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
+- [`--resource-type` is used by more than just `ls`](https://github.com/dbt-labs/docs.getdbt.com/issues/8908)
+- [fail fast docs only mentions `run` but works for `build` and `test` too](https://github.com/dbt-labs/docs.getdbt.com/issues/8584)
+- [[Core] Configurability of the timestamps in logs](https://github.com/dbt-labs/docs.getdbt.com/issues/5651)
 
-## [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Automation: Trivy misreporting in housekeeping](https://github.com/OWASP/threat-dragon/issues/1549)
-- [Configurable OAuth Frontend URL Override / NODE_ENV Documentation](https://github.com/OWASP/threat-dragon/issues/1539)
-- [Feature: provide quick-start guide for new users](https://github.com/OWASP/threat-dragon/issues/1530)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
 
-## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
 
-- [FAQ database: Add content: What happens to my submitted, but not-yet-approved, TDM Plan if the TDM Program Guidelines change?](https://github.com/hackforla/tdm-calculator/issues/3018)
-- [FAQ database: Add content: I have an approved TDM Plan and my project is still in design or construction. How do I revise it?](https://github.com/hackforla/tdm-calculator/issues/3021)
-- [DEV: External links should open consistently across all pages.](https://github.com/hackforla/tdm-calculator/issues/3029)
-- [FAQ database: Add content: I have an approved TDM Plan and my building has a Certificate of Occupancy. How do I modify my TDM Plan?](https://github.com/hackforla/tdm-calculator/issues/3022)
-- [Bug: field focus on Page 1 is incorrect](https://github.com/hackforla/tdm-calculator/issues/3109)
-- [FAQ database: How to Submit a Snapshot](https://github.com/hackforla/tdm-calculator/issues/2754)
-- [FAQ database: Add content: How do I revise my proposed TDM Plan while keeping the same version of the Program Guidelines as my original submission?](https://github.com/hackforla/tdm-calculator/issues/3024)
-- [FAQ database: Add content: How do I make revisions to my submitted TDM Plan that were requested by LADOT?](https://github.com/hackforla/tdm-calculator/issues/3023)
-- [Dev: Update text when there are no results on Submissions page](https://github.com/hackforla/tdm-calculator/issues/3078)
-- [FAQ database: Add content: How can I search and filter my projects](https://github.com/hackforla/tdm-calculator/issues/2744)
-- [Dev: Fix column heading alignment and Date format on Security page](https://github.com/hackforla/tdm-calculator/issues/2580)
+- [[fix] : localization in recent circuits section ](https://github.com/CircuitVerse/CircuitVerse/issues/3552)
+- [UI Improvements for Group Page Layout & Styling](https://github.com/CircuitVerse/CircuitVerse/issues/5369)
 
-## [varshneydevansh/FilterTube](https://github.com/varshneydevansh/FilterTube)
+## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
 
-- [Filtertube Dashboard cuts off left menu on small desktop](https://github.com/varshneydevansh/FilterTube/issues/54)
+- [Document the "the Conference" variant spelling](https://github.com/matrix-org/matrix.org/issues/3393)
+- [Update "Get it on F-Droid" button](https://github.com/matrix-org/matrix.org/issues/3386)
+- [Split SchildiChat ecosystem entry to mirror Element classic](https://github.com/matrix-org/matrix.org/issues/3221)
+- [Add a "Share Bar" at the bottom of posts to make it easy to share them on socials](https://github.com/matrix-org/matrix.org/issues/3321)
 
-## [layer5io/docs](https://github.com/layer5io/docs)
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
 
-- [Sidebar fields are not completely visible despite scrollbar](https://github.com/layer5io/docs/issues/1009)
+- [Moving Essential Tab to New Window removes it from Essentials](https://github.com/zen-browser/desktop/issues/8309)
+- [Dialog UI layout overflow](https://github.com/zen-browser/desktop/issues/13485)
+- [There's two shortcuts for New Blank window in settings](https://github.com/zen-browser/desktop/issues/13437)
+- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
+- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
+- ["Pin Tab" missing in keyboard shortcut settings](https://github.com/zen-browser/desktop/issues/4504)
+- [UI Scaling/Layout Glitch when switching between Windows 11 Workspaces with Split View active](https://github.com/zen-browser/desktop/issues/12714)
+- [`about:debugging` wrong connected browser warning](https://github.com/zen-browser/desktop/issues/10158)
 
-## [SemanticMediaWiki/SemanticResultFormats](https://github.com/SemanticMediaWiki/SemanticResultFormats)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [[mode] Mode format returns mode count, not the actual mode](https://github.com/SemanticMediaWiki/SemanticResultFormats/issues/979)
+- [Runtime-deprecate calling digest() on HMAC more than once](https://github.com/nodejs/node/issues/62838)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [webstreams: narrow `ReadableStreamBYOBRequest.view` to `Uint8Array`](https://github.com/nodejs/node/issues/62952)
+- [crypto,quic: missing NULL checks for OpenSSL allocation functions](https://github.com/nodejs/node/issues/62774)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
 
-## [BhupinderSehjal/OpenLife](https://github.com/BhupinderSehjal/OpenLife)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Add update and delete task endpoints to ASP.NET Core backend](https://github.com/BhupinderSehjal/OpenLife/issues/103)
-- [Return clean login error when user email does not exist](https://github.com/BhupinderSehjal/OpenLife/issues/96)
-- [Return 404 when updating a missing task](https://github.com/BhupinderSehjal/OpenLife/issues/98)
-- [Fix task query validation defaults and order values](https://github.com/BhupinderSehjal/OpenLife/issues/97)
-- [Return 404 when deleting a missing task](https://github.com/BhupinderSehjal/OpenLife/issues/99)
-- [Add backend smoke test plan for maintainers](https://github.com/BhupinderSehjal/OpenLife/issues/94)
-- [Add frontend smoke test plan for maintainers](https://github.com/BhupinderSehjal/OpenLife/issues/93)
-- [Add API error response examples to docs](https://github.com/BhupinderSehjal/OpenLife/issues/91)
-- [Add production health check endpoint](https://github.com/BhupinderSehjal/OpenLife/issues/87)
-- [Remove backend startup debug logs](https://github.com/BhupinderSehjal/OpenLife/issues/89)
-- [Document production environment variables](https://github.com/BhupinderSehjal/OpenLife/issues/88)
-- [Add simple hover/focus states to interactive buttons](https://github.com/BhupinderSehjal/OpenLife/issues/86)
-- [Add setup troubleshooting section to README](https://github.com/BhupinderSehjal/OpenLife/issues/83)
-- [Add API examples for auth routes](https://github.com/BhupinderSehjal/OpenLife/issues/84)
-- [Add alt text to important images](https://github.com/BhupinderSehjal/OpenLife/issues/81)
-- [Improve issue labels documentation for maintainers](https://github.com/BhupinderSehjal/OpenLife/issues/85)
-- [Add simple 404 page for unknown routes](https://github.com/BhupinderSehjal/OpenLife/issues/82)
-- [Add helpful empty state for task list](https://github.com/BhupinderSehjal/OpenLife/issues/80)
-- [Improve footer links and contributor call-to-action](https://github.com/BhupinderSehjal/OpenLife/issues/79)
-- [Add empty and loading states for dashboard and tracker sections](https://github.com/BhupinderSehjal/OpenLife/issues/76)
-- [Add interactive About OpenLife project page](https://github.com/BhupinderSehjal/OpenLife/issues/73)
-- [Add Help Bot](https://github.com/BhupinderSehjal/OpenLife/issues/8)
+- [[ACTION] Remove Specific Label Function in Pipedrive](https://github.com/PipedreamHQ/pipedream/issues/20431)
+- [[ACTION] Zoho Desk - List Ticket Fields, List Departments](https://github.com/PipedreamHQ/pipedream/issues/20778)
+- [[ACTION] openai-analyze-image-content: support configurable model (gpt-4.1, gpt-5, etc.)](https://github.com/PipedreamHQ/pipedream/issues/20777)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20773)
+- [[ACTION] Alaiko / Zenfulfilment](https://github.com/PipedreamHQ/pipedream/issues/20754)
+- [[ACTION] Huntress new actions](https://github.com/PipedreamHQ/pipedream/issues/20703)
+- [[ACTION] [App] Ringba — request for additional pre-built components](https://github.com/PipedreamHQ/pipedream/issues/20743)
+- [[ACTIONS] Trolley - Add core actions for recipient and payout workflows](https://github.com/PipedreamHQ/pipedream/issues/20750)
+- [[ACTION] Databricks - Feature parity with the api key version](https://github.com/PipedreamHQ/pipedream/issues/20719)
+- [[ACTION] MEWS get bills and fetch rates](https://github.com/PipedreamHQ/pipedream/issues/20762)
+- [[ACTION] Statuspage - Fetch Active Incidents, Fetch Components, and Create/update maintenances](https://github.com/PipedreamHQ/pipedream/issues/20688)
+- [Tools for nexudus mcp](https://github.com/PipedreamHQ/pipedream/issues/20623)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20659)
+- [[ACTION] Shopify - get tracking](https://github.com/PipedreamHQ/pipedream/issues/20684)
+- [[ACTION] teamleader update ticket](https://github.com/PipedreamHQ/pipedream/issues/20357)
+- [[ACTION] New Moodle actions](https://github.com/PipedreamHQ/pipedream/issues/20554)
+- [[components] Hedy](https://github.com/PipedreamHQ/pipedream/issues/20510)
+- [[ACTION] Microsoft teams upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20536)
+- [[ACTION] Hiver new actions](https://github.com/PipedreamHQ/pipedream/issues/20534)
+- [[ACTION] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537)
+- [[ACTION] New Lever Actions](https://github.com/PipedreamHQ/pipedream/issues/20599)
+- [[TRIGGER] Discord new messages in thread](https://github.com/PipedreamHQ/pipedream/issues/14309)
+- [[shopify files upload] [Shopify Files section under Content Menu]](https://github.com/PipedreamHQ/pipedream/issues/15367)
+- [[FEATURE] Update Runware integration](https://github.com/PipedreamHQ/pipedream/issues/15378)
+- [[TRIGGER] watch a row](https://github.com/PipedreamHQ/pipedream/issues/16656)
+- [New Apollo recording available](https://github.com/PipedreamHQ/pipedream/issues/16725)
+- [[ACTIONS] Procore - Direct Costs API](https://github.com/PipedreamHQ/pipedream/issues/15515)
+- [[ACTION] notion - update page](https://github.com/PipedreamHQ/pipedream/issues/16697)
+- [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
+- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
 
-## [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement)
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
 
-- [Create 'Law of the Week' content series for X/Twitter](https://github.com/naimkatiman/continuous-improvement/issues/21)
-- [Add real terminal output examples to README](https://github.com/naimkatiman/continuous-improvement/issues/13)
-- [Write blog post: 'Why your AI agent keeps lying about being done'](https://github.com/naimkatiman/continuous-improvement/issues/11)
-- [Record a 2-min before/after demo video](https://github.com/naimkatiman/continuous-improvement/issues/10)
-- [Add full Gemini CLI integration (hooks + installer)](https://github.com/naimkatiman/continuous-improvement/issues/9)
-- [Submit to awesome-agent-skills listing](https://github.com/naimkatiman/continuous-improvement/issues/8)
-- [Fix version badge mismatch in README](https://github.com/naimkatiman/continuous-improvement/issues/7)
-- [Improve observe.sh hook with configurable triggers](https://github.com/naimkatiman/continuous-improvement/issues/5)
-- [Create CONTRIBUTING.md guide](https://github.com/naimkatiman/continuous-improvement/issues/3)
-- [Add unit tests for install.mjs](https://github.com/naimkatiman/continuous-improvement/issues/2)
+- [Display artifact sizes in UI](https://github.com/taskcluster/taskcluster/issues/8537)
+- [[generic-worker] Change ownership of caches to current task](https://github.com/taskcluster/taskcluster/issues/6561)
 
-## [Mohit-368/ReadmeForge](https://github.com/Mohit-368/ReadmeForge)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Add export as .md file download button](https://github.com/Mohit-368/ReadmeForge/issues/2)
-- [Add keyboard shortcut for Copy Raw button](https://github.com/Mohit-368/ReadmeForge/issues/5)
-- [Add reset all fields button](https://github.com/Mohit-368/ReadmeForge/issues/3)
-- [Add section collapse and expand toggle in editor](https://github.com/Mohit-368/ReadmeForge/issues/20)
-- [Fix copy button not working in Firefox](https://github.com/Mohit-368/ReadmeForge/issues/14)
-- [Add zoom in and zoom out for preview panel](https://github.com/Mohit-368/ReadmeForge/issues/19)
-- [Add back to top button in live preview panel](https://github.com/Mohit-368/ReadmeForge/issues/22)
-- [Add support or donation section to README output](https://github.com/Mohit-368/ReadmeForge/issues/23)
-- [Add word counter for description fields](https://github.com/Mohit-368/ReadmeForge/issues/17)
-- [Create a wiki page explaining each README section](https://github.com/Mohit-368/ReadmeForge/issues/12)
-- [Improve error messages when fields are left empty](https://github.com/Mohit-368/ReadmeForge/issues/11)
-- [Add smooth scroll to preview on section toggle](https://github.com/Mohit-368/ReadmeForge/issues/6)
-- [Add contact section to README output](https://github.com/Mohit-368/ReadmeForge/issues/25)
-- [Add FAQ section to README output](https://github.com/Mohit-368/ReadmeForge/issues/26)
+- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
 
-## [its-dhaya/pic-li](https://github.com/its-dhaya/pic-li)
+## [nextcloud/tables](https://github.com/nextcloud/tables)
 
-- [Issue 2](https://github.com/its-dhaya/pic-li/issues/2)
-- [Issue 1](https://github.com/its-dhaya/pic-li/issues/1)
+- [descriptions of the views missing upon import](https://github.com/nextcloud/tables/issues/2478)
 
-## [khemssharma/StudyNotion](https://github.com/khemssharma/StudyNotion)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [Contact us page isn't entertaining queries.](https://github.com/khemssharma/StudyNotion/issues/18)
-- [Confirm before Deleting account](https://github.com/khemssharma/StudyNotion/issues/11)
+- [[Animation] Animate Meshery Architecture](https://github.com/layer5io/layer5/issues/7661)
+- [Add Meshery Relationships Tutorial to Newcomers page](https://github.com/layer5io/layer5/issues/7696)
+- [Update the structure of pages based on the latest sitemap revision available in Figma](https://github.com/layer5io/layer5/issues/5359)
+- [[Sistent] Add Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7607)
+- [[Sistent] Add Data Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7681)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
+- [[Performance] Improve Home Page Performance (layer5.io)](https://github.com/layer5io/layer5/issues/6924)
+- [Update resources and hands-on labs with latest content](https://github.com/layer5io/layer5/issues/6387)
+- [[CI] Create or add to existing workflow: a broken link checker](https://github.com/layer5io/layer5/issues/6407)
+- [[Sistent] Add ClickAwayListener component to the sistent components page](https://github.com/layer5io/layer5/issues/7668)
+- [add animated card](https://github.com/layer5io/layer5/issues/6521)
+- [[Sistent] Add Menu component to the sistent components page](https://github.com/layer5io/layer5/issues/7662)
+- [[Visual Design] New Recognition Badge: Event Evangelist Badge](https://github.com/layer5io/layer5/issues/4809)
+- [Improve styling of categories of models](https://github.com/layer5io/layer5/issues/7593)
 
-## [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+## [plotly/plotly.js](https://github.com/plotly/plotly.js)
 
-- [【新主题】Fuwari主题](https://github.com/tangly1024/NotionNext/issues/3920)
-- [[构建模式优化] 构建阶段发生严重超时问题](https://github.com/tangly1024/NotionNext/issues/3901)
-- [【API超频】使用官方最新代码（4.9.3.2）在 Vercel 部署时，构建阶段大量触发 Notion API 429 Too Many Requests](https://github.com/tangly1024/NotionNext/issues/3890)
-
-## [NicoLBH/Mdall](https://github.com/NicoLBH/Mdall)
-
-- [Situation 1](https://github.com/NicoLBH/Mdall/issues/15)
-- [situation 1](https://github.com/NicoLBH/Mdall/issues/13)
-
-## [Join-hu/skills-expand-your-team-with-copilot](https://github.com/Join-hu/skills-expand-your-team-with-copilot)
-
-- [ills-expand-your-team-with-copilot](https://github.com/Join-hu/skills-expand-your-team-with-copilot/issues/11)
-- [Exercise: Expand your team with Copilot cloud agent](https://github.com/Join-hu/skills-expand-your-team-with-copilot/issues/1)
-
-## [cadeyrn/enterprise-policy-generator](https://github.com/cadeyrn/enterprise-policy-generator)
-
-- [LocalNetworkAccess policy](https://github.com/cadeyrn/enterprise-policy-generator/issues/340)
-
-## [Shaurya01836/online-clipboard](https://github.com/Shaurya01836/online-clipboard)
-
-- [Remove debug logs and development-only comments](https://github.com/Shaurya01836/online-clipboard/issues/4)
-- [Add accessible labels to icon-only controls](https://github.com/Shaurya01836/online-clipboard/issues/3)
-- [Improve README Documentation](https://github.com/Shaurya01836/online-clipboard/issues/2)
-
-## [parthnarkar/FitMart](https://github.com/parthnarkar/FitMart)
-
-- [feat: add prop-types validation to Navbar and CartDrawer](https://github.com/parthnarkar/FitMart/issues/57)
-- [fix: reduce sensitive body logging and add timestamps in logger middleware](https://github.com/parthnarkar/FitMart/issues/58)
-
-## [Eshajha19/agri](https://github.com/Eshajha19/agri)
-
-- [Refactor: Improve Project Structure](https://github.com/Eshajha19/agri/issues/3)
-- [Navbar is not fixed on scroll](https://github.com/Eshajha19/agri/issues/26)
-
-## [wrobeltomasz/open-sparrow](https://github.com/wrobeltomasz/open-sparrow)
-
-- [Help us create promo videos for OpenSparrow](https://github.com/wrobeltomasz/open-sparrow/issues/69)
-- [UI: Make Admin cards responsive](https://github.com/wrobeltomasz/open-sparrow/issues/15)
-- [CI: Setup automated Selenium E2E tests](https://github.com/wrobeltomasz/open-sparrow/issues/9)
-- [Docs: Add PHPDoc blocks to core backend functions](https://github.com/wrobeltomasz/open-sparrow/issues/12)
-- [UI: Add descriptive tooltips to action icons](https://github.com/wrobeltomasz/open-sparrow/issues/13)
-
-## [scsc-init/homepage_init_frontend](https://github.com/scsc-init/homepage_init_frontend)
-
-- [Key Value 성능 개선](https://github.com/scsc-init/homepage_init_frontend/issues/524)
-- [Board 메뉴 좌우 비대칭](https://github.com/scsc-init/homepage_init_frontend/issues/546)
-- [About Us 좌측 Navbar 개선](https://github.com/scsc-init/homepage_init_frontend/issues/541)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Support for static assets copying in web generator for SSG support](https://github.com/nodejs/doc-kit/issues/748)
-- [[v25] Anchors without `--` prefix](https://github.com/nodejs/doc-kit/issues/757)
-
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
-
-- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
+- [[BUG]: floating-point artefacts in tick labels](https://github.com/plotly/plotly.js/issues/7765)
+- [Explicit node coordinates (x/y positions) not fully respected in Sankey diagram](https://github.com/plotly/plotly.js/issues/7758)
 
 ## [meteor/meteor](https://github.com/meteor/meteor)
 
@@ -285,6 +198,37 @@ This list gets updated every day at midnight.
 - [Meteor Developer OAuth: account-settings page and auth endpoint no longer functional](https://github.com/meteor/meteor/issues/14242)
 - [react-fast-refresh is always added to the client](https://github.com/meteor/meteor/issues/12086)
 - [Calling Roles.getUsersInRoleAsync with queryOptions fields throws error](https://github.com/meteor/meteor/issues/13873)
+
+## [medic/cht-core](https://github.com/medic/cht-core)
+
+- [Replace `any` types with proper interfaces in small service files](https://github.com/medic/cht-core/issues/10883)
+- [Migrate small Angular templates from structural directives to built-in control flow](https://github.com/medic/cht-core/issues/10882)
+- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
+- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
+- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
+- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
+
+## [monapdx/easy-ebook-giveaways](https://github.com/monapdx/easy-ebook-giveaways)
+
+- [🧪 Test User Registration & Login Flow](https://github.com/monapdx/easy-ebook-giveaways/issues/22)
+- [Login with test account and test the app](https://github.com/monapdx/easy-ebook-giveaways/issues/21)
+- [Test the full ebook giveaway pipeline](https://github.com/monapdx/easy-ebook-giveaways/issues/12)
+- [Publish / Unpublish toggle](https://github.com/monapdx/easy-ebook-giveaways/issues/8)
+
+## [google/closure-compiler](https://github.com/google/closure-compiler)
+
+- [Array constructor with length is not eliminated](https://github.com/google/closure-compiler/issues/4046)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Since 6.3, the display ratio of images is broken when the size of the Image Block is specified.](https://github.com/WordPress/gutenberg/issues/53555)
+- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
 
 ## [beihaili/Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3)
 
@@ -295,13 +239,49 @@ This list gets updated every day at midnight.
 - [Add interactive MerkleTreeBuilder for the Bitcoin Cryptography lesson](https://github.com/beihaili/Get-Started-with-Web3/issues/84)
 - [Proofread English translation: Modules 5-6 - Web3 Thoughts & Ecosystem](https://github.com/beihaili/Get-Started-with-Web3/issues/16)
 
-## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
+## [cert-manager/website](https://github.com/cert-manager/website)
 
-- [[Feature] Add `Warning` and `info` toast types.](https://github.com/younisdev/dyvix-ui/issues/100)
-- [[Chore] Move toast position styles into there own positions.css](https://github.com/younisdev/dyvix-ui/issues/96)
+- [Document the docker images and how to find them](https://github.com/cert-manager/website/issues/1174)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [Tadreeb-LMS/tadreeblms](https://github.com/Tadreeb-LMS/tadreeblms)
 
-- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
-- [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474)
+- [Bug: Footer Logo UI Issue on Forgot Password Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/544)
+- [Bug: Global navigation failure on 404 page: Logo and "Back to Homepage" button both redirect to 404](https://github.com/Tadreeb-LMS/tadreeblms/issues/562)
+- [Bug: Save button remains disabled after initial click on empty fields.](https://github.com/Tadreeb-LMS/tadreeblms/issues/561)
+- [Bug: Sidebar collapse toggle causes logo truncation and footer overlap](https://github.com/Tadreeb-LMS/tadreeblms/issues/558)
+- [Bug: Raw translation key displayed in header dropdown after selecting "Internal"](https://github.com/Tadreeb-LMS/tadreeblms/issues/560)
+- [Bug: Home icon on Dashboard redirects to 404 Error page](https://github.com/Tadreeb-LMS/tadreeblms/issues/551)
+- [Bug: 404 Error Displayed on Logout from Profile Section](https://github.com/Tadreeb-LMS/tadreeblms/issues/549)
+- [Bug: Login Page Title "Login To Account" is overlapping with banner background](https://github.com/Tadreeb-LMS/tadreeblms/issues/548)
+- [Bug:Reset Button Not Clearing Filter Fields on Dashboard](https://github.com/Tadreeb-LMS/tadreeblms/issues/546)
+- [Implement Robust Offline Captcha with Refresh Functionality](https://github.com/Tadreeb-LMS/tadreeblms/issues/531)
+- [Redesign Course Filter Panel for Better UI/UX (Improve Current Eye Icon Filter View)](https://github.com/Tadreeb-LMS/tadreeblms/issues/520)
+- [Open “Add Trainer” and “Add Category” in Modal Popup on Create Course Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/521)
+- [Redesign Create Question Page with Modern UI/UX (Design First Approach)](https://github.com/Tadreeb-LMS/tadreeblms/issues/523)
+- [Bug – Single Choice Question Allows Only One Option](https://github.com/Tadreeb-LMS/tadreeblms/issues/319)
+- [BUG : Login UX Issue: Page Reload on Invalid Captcha Clears User Input](https://github.com/Tadreeb-LMS/tadreeblms/issues/356)
+- [BUG : Enrolled Students Unable to View Course Details ( Development Environment)](https://github.com/Tadreeb-LMS/tadreeblms/issues/493)
+- [Add Marketplace Section in Navigation & Reorganize External Apps and Integrations](https://github.com/Tadreeb-LMS/tadreeblms/issues/362)
+- [Enhancement : Create Database Table for Languages if currently not available](https://github.com/Tadreeb-LMS/tadreeblms/issues/448)
+- [Upload Language File with Validation and Fallback to Default Language](https://github.com/Tadreeb-LMS/tadreeblms/issues/454)
+- [Show Enabled Languages in Header with Default Language Fallback](https://github.com/Tadreeb-LMS/tadreeblms/issues/452)
+- [Enable or Disable Languages with Default Language Protection](https://github.com/Tadreeb-LMS/tadreeblms/issues/451)
+- [Enhancement : Migrate Existing Default Language Configuration to Database-Driven System](https://github.com/Tadreeb-LMS/tadreeblms/issues/450)
+- [Enhancement : Create Language Settings page under settings tab and connect it with existing default language option](https://github.com/Tadreeb-LMS/tadreeblms/issues/449)
+- [Display Assigned Courses in Trainee Info Page](https://github.com/Tadreeb-LMS/tadreeblms/issues/363)
+
+## [endojs/endo](https://github.com/endojs/endo)
+
+- [import.meta.resolve](https://github.com/endojs/endo/issues/2721)
+- [bare Error instance does not log correctly](https://github.com/endojs/endo/issues/944)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+
+## [NicoLBH/Mdall](https://github.com/NicoLBH/Mdall)
+
+- [Situation 1](https://github.com/NicoLBH/Mdall/issues/15)
+- [situation 1](https://github.com/NicoLBH/Mdall/issues/13)
 
