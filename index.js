@@ -1,7 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
 const env = require('dotenv');
-const Markdown = require('markdown-to-html').Markdown;
 
 env.config();
 
@@ -183,37 +182,109 @@ const getGoodFirstIssues = async () => {
     }
 
     fs.writeFileSync('README.md', markdown);
+    return goodFirstIssues;
   } catch (error) {
     console.error(`An error occurred: ${error.message}`);
     process.exit();
   }
 };
 
-const convertToHtml = async () => {
-  try {
-    const md = new Markdown();
+const convertToHtml = (goodFirstIssues) => {
+  const STALE_DAYS = 7;
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - STALE_DAYS);
 
-    md.render('README.md', {
-      title: 'Good Javascript First Issues',
-      highlight: true,
-      highlightTheme: 'github',
-      stylesheet: 'styles.css',
-      context: 'https://github.com',
-    }, function (err) {
-      if (err) {
-        throw err;
-      }
-      md.pipe(fs.createWriteStream('index.html'));
-    });
-  } catch (e) {
-    console.error('>>>' + e);
-    process.exit();
+  let repoSections = '';
+  for (let s = 0; s < goodFirstIssues.length; s++) {
+    const entry = goodFirstIssues[s];
+    const repoUrl = entry.issues[0].html_url.split('/issues')[0];
+    // most recent issue date for this repo (used for section-level sorting)
+    const newestDate = entry.issues.reduce((max, issue) => {
+      const d = issue.updated_at ? new Date(issue.updated_at).getTime() : 0;
+      return d > max ? d : max;
+    }, 0);
+    let items = '';
+    for (let i = 0; i < entry.issues.length; i++) {
+      const issue = entry.issues[i];
+      const date = issue.updated_at ? new Date(issue.updated_at).toISOString() : '';
+      const stale = date && new Date(date) < cutoff ? 'stale' : '';
+      items += `<li class="issue ${stale}" data-updated="${date}" data-index="${i}"><a href="${issue.html_url}" target="_blank" rel="noreferrer">${issue.title}</a></li>\n`;
+    }
+    repoSections += `<section class="repo" data-index="${s}" data-newest="${newestDate}"><h2><a href="${repoUrl}" target="_blank" rel="noreferrer">${entry.repo}</a></h2><ul>${items}</ul></section>\n`;
   }
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Good First Issues</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .controls { display: flex; gap: 12px; padding: 16px 0; }
+    .controls button { padding: 8px 16px; border-radius: 6px; border: 1px solid #ccc; cursor: pointer; font-size: 14px; background: #f5f5f5; }
+    .controls button.active { background: #0969da; color: #fff; border-color: #0969da; }
+    .issue.hidden { display: none; }
+    .repo.hidden { display: none; }
+  </style>
+</head>
+<body>
+  <h1>Good First Issues</h1>
+  <p>JavaScript repositories with good first issues. Updated daily.</p>
+  <div class="controls">
+    <button id="btn-hide-old">Hide issues inactive for ${STALE_DAYS}+ days</button>
+    <button id="btn-sort-recent">Sort by most recent</button>
+  </div>
+  <div id="issues-container">
+  ${repoSections}
+  </div>
+  <script>
+    let hideOld = false;
+    let sortRecent = false;
+    const container = document.getElementById('issues-container');
+
+    document.getElementById('btn-hide-old').addEventListener('click', function () {
+      hideOld = !hideOld;
+      this.classList.toggle('active', hideOld);
+      document.querySelectorAll('.issue.stale').forEach(el => el.classList.toggle('hidden', hideOld));
+      document.querySelectorAll('.repo').forEach(section => {
+        const hasVisible = section.querySelectorAll('.issue:not(.hidden)').length > 0;
+        section.classList.toggle('hidden', hideOld && !hasVisible);
+      });
+    });
+
+    document.getElementById('btn-sort-recent').addEventListener('click', function () {
+      sortRecent = !sortRecent;
+      this.classList.toggle('active', sortRecent);
+      const sections = Array.from(container.querySelectorAll('section.repo'));
+      if (sortRecent) {
+        sections.sort((a, b) => Number(b.dataset.newest) - Number(a.dataset.newest));
+      } else {
+        sections.sort((a, b) => Number(a.dataset.index) - Number(b.dataset.index));
+      }
+      sections.forEach(s => {
+        container.appendChild(s);
+        const items = Array.from(s.querySelectorAll('li'));
+        if (sortRecent) {
+          items.sort((a, b) => new Date(b.dataset.updated) - new Date(a.dataset.updated));
+        } else {
+          items.sort((a, b) => Number(a.dataset.index) - Number(b.dataset.index));
+        }
+        const ul = s.querySelector('ul');
+        ul.innerHTML = '';
+        ul.append(...items);
+      });
+    });
+  </script>
+</body>
+</html>`;
+
+  fs.writeFileSync('index.html', html);
 };
 
 const main = async () => {
-  await getGoodFirstIssues();
-  await convertToHtml();
+  const data = await getGoodFirstIssues();
+  convertToHtml(data);
 };
 
 main();
