@@ -4,6 +4,103 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement)
+
+- [Create 'Law of the Week' content series for X/Twitter](https://github.com/naimkatiman/continuous-improvement/issues/21)
+- [Write blog post: 'Why your AI agent keeps lying about being done'](https://github.com/naimkatiman/continuous-improvement/issues/11)
+- [Record a 2-min before/after demo video](https://github.com/naimkatiman/continuous-improvement/issues/10)
+- [Add full Gemini CLI integration (hooks + installer)](https://github.com/naimkatiman/continuous-improvement/issues/9)
+- [Submit to awesome-agent-skills listing](https://github.com/naimkatiman/continuous-improvement/issues/8)
+- [Fix version badge mismatch in README](https://github.com/naimkatiman/continuous-improvement/issues/7)
+- [Improve observe.sh hook with configurable triggers](https://github.com/naimkatiman/continuous-improvement/issues/5)
+- [Create CONTRIBUTING.md guide](https://github.com/naimkatiman/continuous-improvement/issues/3)
+- [Add unit tests for install.mjs](https://github.com/naimkatiman/continuous-improvement/issues/2)
+
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
+
+- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Since 6.3, the display ratio of images is broken when the size of the Image Block is specified.](https://github.com/WordPress/gutenberg/issues/53555)
+- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [Runtime-deprecate calling digest() on HMAC more than once](https://github.com/nodejs/node/issues/62838)
+- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
+- [webstreams: narrow `ReadableStreamBYOBRequest.view` to `Uint8Array`](https://github.com/nodejs/node/issues/62952)
+- [crypto,quic: missing NULL checks for OpenSSL allocation functions](https://github.com/nodejs/node/issues/62774)
+- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
+- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
+- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
+- [Convert harper logger module to TypeScript](https://github.com/HarperFast/harper/issues/145)
+
+## [nextcloud/tables](https://github.com/nextcloud/tables)
+
+- [descriptions of the views missing upon import](https://github.com/nextcloud/tables/issues/2478)
+
+## [medic/cht-core](https://github.com/medic/cht-core)
+
+- [Replace `any` types with proper interfaces in small service files](https://github.com/medic/cht-core/issues/10883)
+- [Migrate small Angular templates from structural directives to built-in control flow](https://github.com/medic/cht-core/issues/10882)
+- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
+- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
+- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
+- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [GSoC Program 2026: Add hyperlink to Meshery org](https://github.com/meshery/meshery.io/issues/2661)
+
+## [LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN)
+
+- [Revisión de la documentación](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN/issues/3)
+- [Sprints por hacer.](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN/issues/2)
+
+## [HeyPuter/puter](https://github.com/HeyPuter/puter)
+
+- [Add support for `defaultValue` option for `puter.ui.setColorPicker` in puter app environment](https://github.com/HeyPuter/puter/issues/2895)
+- [Add support for `defaultValue` option for `puter.ui.prompt` in puter app environment](https://github.com/HeyPuter/puter/issues/2894)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [[Community] Member Profile: Lenox Wiltshire](https://github.com/layer5io/layer5/issues/7700)
+- [[Animation] Animate Meshery Architecture](https://github.com/layer5io/layer5/issues/7661)
+- [Add Meshery Relationships Tutorial to Newcomers page](https://github.com/layer5io/layer5/issues/7696)
+- [Update the structure of pages based on the latest sitemap revision available in Figma](https://github.com/layer5io/layer5/issues/5359)
+- [[Sistent] Add Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7607)
+- [[Sistent] Add Data Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7681)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
+- [[Performance] Improve Home Page Performance (layer5.io)](https://github.com/layer5io/layer5/issues/6924)
+- [Update resources and hands-on labs with latest content](https://github.com/layer5io/layer5/issues/6387)
+- [[CI] Create or add to existing workflow: a broken link checker](https://github.com/layer5io/layer5/issues/6407)
+- [[Sistent] Add ClickAwayListener component to the sistent components page](https://github.com/layer5io/layer5/issues/7668)
+- [add animated card](https://github.com/layer5io/layer5/issues/6521)
+- [[Sistent] Add Menu component to the sistent components page](https://github.com/layer5io/layer5/issues/7662)
+- [[Visual Design] New Recognition Badge: Event Evangelist Badge](https://github.com/layer5io/layer5/issues/4809)
+- [Improve styling of categories of models](https://github.com/layer5io/layer5/issues/7593)
+
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
 - [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
@@ -18,16 +115,6 @@ This list gets updated every day at midnight.
 - [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
-## [LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN)
-
-- [Revisión de la documentación](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN/issues/3)
-- [Sprints por hacer.](https://github.com/LovelyStoOk/PLATAFORMA-DE-GESTI-N-DE-PROYECTOS-ESTILO-KANBAN/issues/2)
-
-## [HeyPuter/puter](https://github.com/HeyPuter/puter)
-
-- [Add support for `defaultValue` option for `puter.ui.setColorPicker` in puter app environment](https://github.com/HeyPuter/puter/issues/2895)
-- [Add support for `defaultValue` option for `puter.ui.prompt` in puter app environment](https://github.com/HeyPuter/puter/issues/2894)
-
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Navbar in mobile view has broken navbar position when on the list tab](https://github.com/louislam/uptime-kuma/issues/5977)
@@ -36,81 +123,9 @@ This list gets updated every day at midnight.
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [nodejs/undici](https://github.com/nodejs/undici)
 
-- [GSoC Program 2026: Add hyperlink to Meshery org](https://github.com/meshery/meshery.io/issues/2661)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [HarperFast/harper](https://github.com/HarperFast/harper)
-
-- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
-- [Convert harper logger module to TypeScript](https://github.com/HarperFast/harper/issues/145)
-
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
-
-- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
-
-## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
-
-- [Update channel_authorize to reflect that it's restricted like other signing methods](https://github.com/XRPLF/xrpl-dev-portal/issues/3197)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
-- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11867)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-
-## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
-
-- [FAQ database: Add content: I have an approved TDM Plan and my building has a Certificate of Occupancy. How do I modify my TDM Plan?](https://github.com/hackforla/tdm-calculator/issues/3022)
-- [FAQ database: Add content: What happens to my submitted, but not-yet-approved, TDM Plan if the TDM Program Guidelines change?](https://github.com/hackforla/tdm-calculator/issues/3018)
-- [Dev: Update the spelling linter exclusion list with new terms](https://github.com/hackforla/tdm-calculator/issues/3167)
-- [DEV: External links should open consistently across all pages.](https://github.com/hackforla/tdm-calculator/issues/3029)
-- [Bug: field focus on Page 1 is incorrect](https://github.com/hackforla/tdm-calculator/issues/3109)
-- [FAQ database: How to Submit a Snapshot](https://github.com/hackforla/tdm-calculator/issues/2754)
-- [FAQ database: Add content: How do I revise my proposed TDM Plan while keeping the same version of the Program Guidelines as my original submission?](https://github.com/hackforla/tdm-calculator/issues/3024)
-- [FAQ database: Add content: How do I make revisions to my submitted TDM Plan that were requested by LADOT?](https://github.com/hackforla/tdm-calculator/issues/3023)
-- [Dev: Update text when there are no results on Submissions page](https://github.com/hackforla/tdm-calculator/issues/3078)
-- [FAQ database: Add content: How can I search and filter my projects](https://github.com/hackforla/tdm-calculator/issues/2744)
-- [Dev: Fix column heading alignment and Date format on Security page](https://github.com/hackforla/tdm-calculator/issues/2580)
-
-## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
-
-- [feat(game): role marker should allow exact-searches](https://github.com/UltiMafia/Ultimafia/issues/2774)
-
-## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
-
-- [[Feature] Add `Warning` and `info` toast types.](https://github.com/younisdev/dyvix-ui/issues/100)
-- [[Chore] Move toast position styles into there own positions.css](https://github.com/younisdev/dyvix-ui/issues/96)
-
-## [q5js/q5.js](https://github.com/q5js/q5.js)
-
-- [Create more MSDF fonts to put in q5's fonts folder](https://github.com/q5js/q5.js/issues/123)
-
-## [carnworkstudios/TAFNE](https://github.com/carnworkstudios/TAFNE)
-
-- [Table style presets (theme picker)](https://github.com/carnworkstudios/TAFNE/issues/7)
-- [Handle Global Undo/Redo across Mode Switches](https://github.com/carnworkstudios/TAFNE/issues/4)
-- [Export Node Graph as SVG/PNG](https://github.com/carnworkstudios/TAFNE/issues/3)
-
-## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
-
-- [Add onboarding welcome screen for new users](https://github.com/OREL-group/Project-Management/issues/216)
-- [make a Start Here guide for plugin setup](https://github.com/OREL-group/Project-Management/issues/123)
-- [reaching out to investors](https://github.com/OREL-group/Project-Management/issues/95)
-- [create a organized database for the prototype](https://github.com/OREL-group/Project-Management/issues/90)
-- [Finalize Design Sprint Objectives](https://github.com/OREL-group/Project-Management/issues/50)
-- [Discover who we need to hire for the project](https://github.com/OREL-group/Project-Management/issues/39)
+- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -148,39 +163,66 @@ This list gets updated every day at midnight.
 - [[ACTION] Add CoinAPI MCP Server integration](https://github.com/PipedreamHQ/pipedream/issues/18821)
 - [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [XRPLF/xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal)
 
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [Since 6.3, the display ratio of images is broken when the size of the Image Block is specified.](https://github.com/WordPress/gutenberg/issues/53555)
-- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
+- [Update channel_authorize to reflect that it's restricted like other signing methods](https://github.com/XRPLF/xrpl-dev-portal/issues/3197)
 
-## [nodejs/node](https://github.com/nodejs/node)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [Runtime-deprecate calling digest() on HMAC more than once](https://github.com/nodejs/node/issues/62838)
-- [test_runner: node:coverage ignore comments exclude DA but leave BRDA in lcov output](https://github.com/nodejs/node/issues/61586)
-- [webstreams: narrow `ReadableStreamBYOBRequest.view` to `Uint8Array`](https://github.com/nodejs/node/issues/62952)
-- [crypto,quic: missing NULL checks for OpenSSL allocation functions](https://github.com/nodejs/node/issues/62774)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Transpile TypeScript code inside `node_modules`.](https://github.com/nodejs/node/issues/58429)
-- [Recommend `node`/`default` conditions instead of `require`/`import` as a solution to the dual package hazard](https://github.com/nodejs/node/issues/52174)
+- [DeveloperError: Must define either _workerName or _workerPath for asynchronous geometry.](https://github.com/CesiumGS/cesium/issues/12826)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
 
-## [medic/cht-core](https://github.com/medic/cht-core)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Replace `any` types with proper interfaces in small service files](https://github.com/medic/cht-core/issues/10883)
-- [Migrate small Angular templates from structural directives to built-in control flow](https://github.com/medic/cht-core/issues/10882)
-- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
-- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
-- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
-- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11958)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
+- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
+- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11867)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
 
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
+- [FAQ database: Add content: What happens to my submitted, but not-yet-approved, TDM Plan if the TDM Program Guidelines change?](https://github.com/hackforla/tdm-calculator/issues/3018)
+- [FAQ database: How to Submit a Snapshot](https://github.com/hackforla/tdm-calculator/issues/2754)
+- [FAQ database: Add content: How do I make revisions to my submitted TDM Plan that were requested by LADOT?](https://github.com/hackforla/tdm-calculator/issues/3023)
+- [FAQ database: Add content: I have an approved TDM Plan and my building has a Certificate of Occupancy. How do I modify my TDM Plan?](https://github.com/hackforla/tdm-calculator/issues/3022)
+- [Dev: Update the spelling linter exclusion list with new terms](https://github.com/hackforla/tdm-calculator/issues/3167)
+- [DEV: External links should open consistently across all pages.](https://github.com/hackforla/tdm-calculator/issues/3029)
+- [Bug: field focus on Page 1 is incorrect](https://github.com/hackforla/tdm-calculator/issues/3109)
+- [FAQ database: Add content: How do I revise my proposed TDM Plan while keeping the same version of the Program Guidelines as my original submission?](https://github.com/hackforla/tdm-calculator/issues/3024)
+- [Dev: Update text when there are no results on Submissions page](https://github.com/hackforla/tdm-calculator/issues/3078)
+- [FAQ database: Add content: How can I search and filter my projects](https://github.com/hackforla/tdm-calculator/issues/2744)
+- [Dev: Fix column heading alignment and Date format on Security page](https://github.com/hackforla/tdm-calculator/issues/2580)
+
+## [UltiMafia/Ultimafia](https://github.com/UltiMafia/Ultimafia)
+
+- [feat(game): role marker should allow exact-searches](https://github.com/UltiMafia/Ultimafia/issues/2774)
+
+## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
+
+- [[Feature] Add `Warning` and `info` toast types.](https://github.com/younisdev/dyvix-ui/issues/100)
+- [[Chore] Move toast position styles into there own positions.css](https://github.com/younisdev/dyvix-ui/issues/96)
+
+## [q5js/q5.js](https://github.com/q5js/q5.js)
+
+- [Create more MSDF fonts to put in q5's fonts folder](https://github.com/q5js/q5.js/issues/123)
+
+## [carnworkstudios/TAFNE](https://github.com/carnworkstudios/TAFNE)
+
+- [Table style presets (theme picker)](https://github.com/carnworkstudios/TAFNE/issues/7)
+- [Handle Global Undo/Redo across Mode Switches](https://github.com/carnworkstudios/TAFNE/issues/4)
+- [Export Node Graph as SVG/PNG](https://github.com/carnworkstudios/TAFNE/issues/3)
+
+## [OREL-group/Project-Management](https://github.com/OREL-group/Project-Management)
+
+- [Add onboarding welcome screen for new users](https://github.com/OREL-group/Project-Management/issues/216)
+- [make a Start Here guide for plugin setup](https://github.com/OREL-group/Project-Management/issues/123)
+- [reaching out to investors](https://github.com/OREL-group/Project-Management/issues/95)
+- [create a organized database for the prototype](https://github.com/OREL-group/Project-Management/issues/90)
+- [Finalize Design Sprint Objectives](https://github.com/OREL-group/Project-Management/issues/50)
+- [Discover who we need to hire for the project](https://github.com/OREL-group/Project-Management/issues/39)
 
 ## [LOLinDark/StreamerOps](https://github.com/LOLinDark/StreamerOps)
 
@@ -195,25 +237,6 @@ This list gets updated every day at midnight.
 ## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
 
 - [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[Community] Member Profile: Lenox Wiltshire](https://github.com/layer5io/layer5/issues/7700)
-- [[Animation] Animate Meshery Architecture](https://github.com/layer5io/layer5/issues/7661)
-- [Add Meshery Relationships Tutorial to Newcomers page](https://github.com/layer5io/layer5/issues/7696)
-- [Update the structure of pages based on the latest sitemap revision available in Figma](https://github.com/layer5io/layer5/issues/5359)
-- [[Sistent] Add Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7607)
-- [[Sistent] Add Data Table component to the Sistent components page](https://github.com/layer5io/layer5/issues/7681)
-- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
-- [[Screenshots] Old Screenshots of Meshery Playground needs to be updated](https://github.com/layer5io/layer5/issues/5342)
-- [[Performance] Improve Home Page Performance (layer5.io)](https://github.com/layer5io/layer5/issues/6924)
-- [Update resources and hands-on labs with latest content](https://github.com/layer5io/layer5/issues/6387)
-- [[CI] Create or add to existing workflow: a broken link checker](https://github.com/layer5io/layer5/issues/6407)
-- [[Sistent] Add ClickAwayListener component to the sistent components page](https://github.com/layer5io/layer5/issues/7668)
-- [add animated card](https://github.com/layer5io/layer5/issues/6521)
-- [[Sistent] Add Menu component to the sistent components page](https://github.com/layer5io/layer5/issues/7662)
-- [[Visual Design] New Recognition Badge: Event Evangelist Badge](https://github.com/layer5io/layer5/issues/4809)
-- [Improve styling of categories of models](https://github.com/layer5io/layer5/issues/7593)
 
 ## [OSC/ondemand](https://github.com/OSC/ondemand)
 
