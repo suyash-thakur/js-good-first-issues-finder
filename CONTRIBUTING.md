@@ -14,6 +14,8 @@ Before you start contributing, please take a moment to review these guidelines:
 
 - Make sure that your code is well-formatted, commented, and documented. Please adhere to the project's coding style, and include tests for any new functionality.
 
+- To exclude repositories that are meant only for learning Git or open-source practice, add their `owner/repo` name to `excluded-repositories.json`. The fetch script skips matching repositories when rebuilding the generated issue list.
+
 - Submit a pull request and provide a clear and concise description of the changes you have made. Please also include a reference to the issue you are addressing, if applicable.
 
 - Once your pull request is submitted, the project maintainers will review your changes and provide feedback. Please be patient, as it may take some time for your pull request to be reviewed.
