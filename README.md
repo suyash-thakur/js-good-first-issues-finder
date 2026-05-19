@@ -4,31 +4,17 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
-- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
-- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
-
-## [vukrosic/autoresearch-ai](https://github.com/vukrosic/autoresearch-ai)
-
-- [[agent] diff — side-by-side run comparison](https://github.com/vukrosic/autoresearch-ai/issues/66)
-- [[agent] resume — reconstruct mid-loop session context](https://github.com/vukrosic/autoresearch-ai/issues/65)
-- [[goal] G26 — autoresearch baseline-status subcommand](https://github.com/vukrosic/autoresearch-ai/issues/3)
-- [[goal] G54 — Deep run diff](https://github.com/vukrosic/autoresearch-ai/issues/49)
-- [[goal] G53 — Pre-flight config validation](https://github.com/vukrosic/autoresearch-ai/issues/48)
-- [[goal] G48 — Model card generation](https://github.com/vukrosic/autoresearch-ai/issues/44)
-- [[goal] G47 — Persistent leaderboard](https://github.com/vukrosic/autoresearch-ai/issues/43)
-- [[goal] G46 — Multi-seed experiment tracking](https://github.com/vukrosic/autoresearch-ai/issues/42)
-- [[goal] G43 — Run tagging and annotation](https://github.com/vukrosic/autoresearch-ai/issues/20)
-- [[goal] G41 — Artifact pruning for old runs](https://github.com/vukrosic/autoresearch-ai/issues/19)
-- [[goal] G40 — Experiment templates (starter packs)](https://github.com/vukrosic/autoresearch-ai/issues/18)
-- [[goal] G37 — Data fingerprinting per run](https://github.com/vukrosic/autoresearch-ai/issues/17)
-- [[goal] G33 — Statistical significance testing](https://github.com/vukrosic/autoresearch-ai/issues/16)
-- [[goal] G24 — Slack / webhook notifications](https://github.com/vukrosic/autoresearch-ai/issues/13)
-- [[goal] G23 — Cost and wall-clock accounting](https://github.com/vukrosic/autoresearch-ai/issues/12)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
+- [Remove custon `job_status` ouput in favor of the native `needs.<job_id>.result`](https://github.com/WordPress/gutenberg/issues/78203)
+- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
+- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
+- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -45,19 +31,73 @@ This list gets updated every day at midnight.
 - [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [Add in-page navigation (jump to term headings + back to top) on LFX program pages](https://github.com/meshery/meshery.io/issues/2666)
-- [GSoC Program 2026: Add hyperlink to Meshery org](https://github.com/meshery/meshery.io/issues/2661)
+- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
+- [Navbar in mobile view has broken navbar position when on the list tab](https://github.com/louislam/uptime-kuma/issues/5977)
+- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
+- [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304)
 
-## [AprilSylph/XKit-Rewritten](https://github.com/AprilSylph/XKit-Rewritten)
+## [ramukallepalli/vibe-vuln-scanner](https://github.com/ramukallepalli/vibe-vuln-scanner)
 
-- [No recommended feature stopped working entirely](https://github.com/AprilSylph/XKit-Rewritten/issues/2252)
-- [Trim Reblogs: Update/clarify warning about trimming asks](https://github.com/AprilSylph/XKit-Rewritten/issues/2048)
+- [Detect GitHub Personal Access Tokens in secret scanning](https://github.com/ramukallepalli/vibe-vuln-scanner/issues/9)
+- [Add support for Moment.js library detection](https://github.com/ramukallepalli/vibe-vuln-scanner/issues/1)
+- [Add dark mode support to popup interface](https://github.com/ramukallepalli/vibe-vuln-scanner/issues/2)
+- [Improve secret detection: Add Stripe API key patterns](https://github.com/ramukallepalli/vibe-vuln-scanner/issues/3)
+- [Write unit tests for version comparison and vulnerability checking](https://github.com/ramukallepalli/vibe-vuln-scanner/issues/4)
 
-## [usebruno/bruno](https://github.com/usebruno/bruno)
+## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
-- [[Feature] More configurable request timeouts](https://github.com/usebruno/bruno/issues/1249)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
+- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
+
+## [SandeepVashishtha/Eventra](https://github.com/SandeepVashishtha/Eventra)
+
+- [Standardize button styles across the platform](https://github.com/SandeepVashishtha/Eventra/issues/842)
+- [Enhance UI of “Create your first event” section](https://github.com/SandeepVashishtha/Eventra/issues/410)
+- [emoji not aligned](https://github.com/SandeepVashishtha/Eventra/issues/542)
+- [[Feature Request] Event Analytics Dashboard for Organizers](https://github.com/SandeepVashishtha/Eventra/issues/834)
+- [Duplicate App Component Declaration Causing Build Failure](https://github.com/SandeepVashishtha/Eventra/issues/1132)
+- [Refactor Navbar conditional rendering using configuration-driven patterns](https://github.com/SandeepVashishtha/Eventra/issues/847)
+- [Add smooth page transition animations](https://github.com/SandeepVashishtha/Eventra/issues/867)
+- [UI Bug: Inconsistent Text Color on Dark Background (Readability Issue)](https://github.com/SandeepVashishtha/Eventra/issues/954)
+- [Custom mouse cursor overlaps UI elements when zoomed](https://github.com/SandeepVashishtha/Eventra/issues/849)
+- [[Performance] Implement Route-Level Code Splitting (React.lazy & Suspense)](https://github.com/SandeepVashishtha/Eventra/issues/942)
+- [Theme toggle button updates UI visually but ThemeContext still returns "light" value](https://github.com/SandeepVashishtha/Eventra/issues/856)
+
+## [mohamedhamdy9966/roshetta](https://github.com/mohamedhamdy9966/roshetta)
+
+- [a similar section for labs specialty like doctor specialty in home page](https://github.com/mohamedhamdy9966/roshetta/issues/231)
+- [Create The Lab Details Page For each Lab](https://github.com/mohamedhamdy9966/roshetta/issues/229)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12195)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/12184)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12163)
+- [[RFC]: replace inline NaN generation with stdlib NaN constants in C source files (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11743)
+- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
+- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
+
+## [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot)
+
+- [[Frontend] Fix text overflow in Community cards](https://github.com/anurag3407/career-pilot/issues/10)
+- [[Frontend] Add action tooltips](https://github.com/anurag3407/career-pilot/issues/12)
+- [[Frontend] Dynamic footer year](https://github.com/anurag3407/career-pilot/issues/7)
+- [[UI/UX] Skeleton loaders for Resume Enhancement](https://github.com/anurag3407/career-pilot/issues/14)
+- [[Frontend] Client-side file size validation](https://github.com/anurag3407/career-pilot/issues/15)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[Infra] Automate opamp-spec submodule updates (parity with spec/semconv)](https://github.com/open-telemetry/opentelemetry.io/issues/9870)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+- [Explain `in_span` more for ruby docs](https://github.com/open-telemetry/opentelemetry.io/issues/2022)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -67,6 +107,46 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
+## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
+
+- [`--resource-type` is used by more than just `ls`](https://github.com/dbt-labs/docs.getdbt.com/issues/8908)
+
+## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+
+- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
+- [Create topic outline with interactive walkthrough and visuals for Algorithmic Math Problems](https://github.com/Techtonica/curriculum/issues/2254)
+- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
+
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+
+- [Update `Email_Report_SenderTest` tests to use mock mailer](https://github.com/google/site-kit-wp/issues/12467)
+- [Improve handing of SMTP plugins that re-implement `wp_mail`](https://github.com/google/site-kit-wp/issues/12632)
+- [Extend the core widget registry to support PDF widgets](https://github.com/google/site-kit-wp/issues/12537)
+- [Duplicate 'X' on 'Data gathering complete' modal](https://github.com/google/site-kit-wp/issues/12618)
+- [From address headers not updated on all emails sent by Email Reporting](https://github.com/google/site-kit-wp/issues/12390)
+
+## [lacymorrow/crossover](https://github.com/lacymorrow/crossover)
+
+- [Convert Kenney.nl Crosshairs to SVG](https://github.com/lacymorrow/crossover/issues/179)
+- [Doesn't save position on the second screen](https://github.com/lacymorrow/crossover/issues/212)
+
+## [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+
+- [Evergreen language in the documentation](https://github.com/Leaflet/Leaflet/issues/8477)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Remember last selection of Summary/Responses tab on refresh](https://github.com/nextcloud/forms/issues/483)
+- [Allow changing answer types](https://github.com/nextcloud/forms/issues/352)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+
+## [facebook/stylex](https://github.com/facebook/stylex)
+
+- [[babel-plugin] TypeScript types are wrong](https://github.com/facebook/stylex/issues/889)
+
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [Runtime-deprecate calling digest() on HMAC more than once](https://github.com/nodejs/node/issues/62838)
@@ -74,52 +154,48 @@ This list gets updated every day at midnight.
 - [crypto,quic: missing NULL checks for OpenSSL allocation functions](https://github.com/nodejs/node/issues/62774)
 - [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
 
-## [lacymorrow/crossover](https://github.com/lacymorrow/crossover)
+## [layer5io/docs](https://github.com/layer5io/docs)
 
-- [Convert Kenney.nl Crosshairs to SVG](https://github.com/lacymorrow/crossover/issues/179)
-- [Doesn't save position on the second screen](https://github.com/lacymorrow/crossover/issues/212)
-- [Auto-Submit new builds to Windows Defender](https://github.com/lacymorrow/crossover/issues/263)
+- [[Docs] Improve Related Docs Links in Pinning Models to Dock Page](https://github.com/layer5io/docs/issues/1028)
 
-## [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)
+## [HarperFast/harper](https://github.com/HarperFast/harper)
 
-- [Custom Pitch block's pie menu is reversed, no rotation, and no pitch preview](https://github.com/sugarlabs/musicblocks/issues/2255)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [Full screen mode not working in YouTube while using Glance mode](https://github.com/zen-browser/desktop/issues/11766)
-- [There's two shortcuts for New Blank window in settings](https://github.com/zen-browser/desktop/issues/13437)
-- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
-- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
-- [Moving Essential Tab to New Window removes it from Essentials](https://github.com/zen-browser/desktop/issues/8309)
-- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
 
 ## [anubhavxdev/Event-management-system-main](https://github.com/anubhavxdev/Event-management-system-main)
 
-- [Feature: Add event check-in via manual attendee search (fallback for QR issues)](https://github.com/anubhavxdev/Event-management-system-main/issues/92)
-- [Feature: Add dark mode / light mode toggle with localStorage persistence](https://github.com/anubhavxdev/Event-management-system-main/issues/31)
+- [Signup page shows generic "Something went wrong" error without meaningful feedback](https://github.com/anubhavxdev/Event-management-system-main/issues/45)
 - [Fix: Unknown routes redirect to Home instead of a 404 page](https://github.com/anubhavxdev/Event-management-system-main/issues/6)
 - [Feature: Add phone number field to Signup form (field exists in backend but missing in UI)](https://github.com/anubhavxdev/Event-management-system-main/issues/29)
-- [Feature: Add global toast notification system (replace browser alerts)](https://github.com/anubhavxdev/Event-management-system-main/issues/96)
+- [Feature: Add event check-in via manual attendee search (fallback for QR issues)](https://github.com/anubhavxdev/Event-management-system-main/issues/92)
 - [Feature: Add event bookmarking / wishlist for customers](https://github.com/anubhavxdev/Event-management-system-main/issues/85)
 - [[FEAT] Set Up GitHub Actions CI Pipeline for Automated Testing & Linting](https://github.com/anubhavxdev/Event-management-system-main/issues/47)
-- [Signup page shows generic "Something went wrong" error without meaningful feedback](https://github.com/anubhavxdev/Event-management-system-main/issues/45)
 - [Docs: Add a proper SETUP.md guide for local development](https://github.com/anubhavxdev/Event-management-system-main/issues/8)
 
-## [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org)
+## [physicshub/physicshub.github.io](https://github.com/physicshub/physicshub.github.io)
 
-- [Document the "the Conference" variant spelling](https://github.com/matrix-org/matrix.org/issues/3393)
-- [Split SchildiChat ecosystem entry to mirror Element classic](https://github.com/matrix-org/matrix.org/issues/3221)
-- [Add a "Share Bar" at the bottom of posts to make it easy to share them on socials](https://github.com/matrix-org/matrix.org/issues/3321)
+- [[Feat]: Add "Step-by-Step" frame scrubbing buttons to simulation controls](https://github.com/physicshub/physicshub.github.io/issues/319)
+- [[Bug]: Contributor image on the README is broken](https://github.com/physicshub/physicshub.github.io/issues/318)
+- [[Bug]: In VectorsOperation Simulation, Subtraction with Parallelogram method is bugged](https://github.com/physicshub/physicshub.github.io/issues/87)
+- [[Bug]: Ball in ball simulations and ParabolicMotion is loosing power (again)](https://github.com/physicshub/physicshub.github.io/issues/226)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [Simon3995/ParliamentViewer](https://github.com/Simon3995/ParliamentViewer)
 
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/12184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12163)
-- [[RFC]: replace inline NaN generation with stdlib NaN constants in C source files (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11743)
-- [Fix TypeScript declarations lint errors](https://github.com/stdlib-js/stdlib/issues/11896)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11784)
+- [Replace "for .. in" loops](https://github.com/Simon3995/ParliamentViewer/issues/35)
+- [Standardize capitalization](https://github.com/Simon3995/ParliamentViewer/issues/34)
+- [Need more data for "New Zealand - House of Representatives"](https://github.com/Simon3995/ParliamentViewer/issues/29)
+- [Need more data for "United States - Senate"](https://github.com/Simon3995/ParliamentViewer/issues/28)
+- [Need more data for "United States - House of Representatives"](https://github.com/Simon3995/ParliamentViewer/issues/27)
+- [Need more data for "United Kingdom - House of Commons"](https://github.com/Simon3995/ParliamentViewer/issues/26)
+- [Need more data for "Germany - Bundestag"](https://github.com/Simon3995/ParliamentViewer/issues/19)
+- [Need more data for "Sweden - Riksdag"](https://github.com/Simon3995/ParliamentViewer/issues/25)
+- [Need more data for "Norway - Storting"](https://github.com/Simon3995/ParliamentViewer/issues/24)
+- [Need more data for "Netherlands - Eerste Kamer"](https://github.com/Simon3995/ParliamentViewer/issues/23)
+- [Need more data for "Hungary - Országgyűlés"](https://github.com/Simon3995/ParliamentViewer/issues/22)
+- [Need more data for "Finland - Eduskunta"](https://github.com/Simon3995/ParliamentViewer/issues/21)
+- [Need more data for "European Union - European Parliament"](https://github.com/Simon3995/ParliamentViewer/issues/20)
+- [Need more data for "Denmark - Folketing"](https://github.com/Simon3995/ParliamentViewer/issues/18)
+- [Need more data for "Belgium - Federaal Parlement/Parlement Fédéral"](https://github.com/Simon3995/ParliamentViewer/issues/17)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -131,7 +207,6 @@ This list gets updated every day at midnight.
 - [[ACTION] Microsoft teams upload image affordance for "send-chat-message"](https://github.com/PipedreamHQ/pipedream/issues/20856)
 - [[COMPONENTS] Migrate Copper components to use access token instead of API Keys](https://github.com/PipedreamHQ/pipedream/issues/20814)
 - [[ACTION] Huntress new actions](https://github.com/PipedreamHQ/pipedream/issues/20703)
-- [[ACTION] Apollo.io Search APIs](https://github.com/PipedreamHQ/pipedream/issues/20787)
 - [[ACTION] - Affinity CRM MCP](https://github.com/PipedreamHQ/pipedream/issues/18318)
 - [[ACTION] HubSpot Meeting Scheduler APIs](https://github.com/PipedreamHQ/pipedream/issues/20789)
 - [[ACTIONS] Trolley - Add core actions for recipient and payout workflows](https://github.com/PipedreamHQ/pipedream/issues/20750)
@@ -147,154 +222,95 @@ This list gets updated every day at midnight.
 - [[ACTION] teamleader update ticket](https://github.com/PipedreamHQ/pipedream/issues/20357)
 - [[ACTION] New Moodle actions](https://github.com/PipedreamHQ/pipedream/issues/20554)
 
+## [wrobeltomasz/open-sparrow](https://github.com/wrobeltomasz/open-sparrow)
+
+- [UI: Make Admin cards responsive](https://github.com/wrobeltomasz/open-sparrow/issues/15)
+
+## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io/pull/474)
+
+- [fix: prevent profile metadata text from collapsing](https://github.com/NextCommunity/NextCommunity.github.io/pull/474)
+- [fix: add favicon.ico support](https://github.com/NextCommunity/NextCommunity.github.io/pull/477)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [Full screen mode not working in YouTube while using Glance mode](https://github.com/zen-browser/desktop/issues/11766)
+- [There's two shortcuts for New Blank window in settings](https://github.com/zen-browser/desktop/issues/13437)
+- [Allow changing interface font for generic Linux tarball](https://github.com/zen-browser/desktop/issues/12500)
+- [The toolbar breaks when changing the browser layout](https://github.com/zen-browser/desktop/issues/11595)
+- [Moving Essential Tab to New Window removes it from Essentials](https://github.com/zen-browser/desktop/issues/8309)
+- [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020)
+
+## [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
+
+- [Nextcloud Office "Save as" browse option](https://github.com/nextcloud/richdocuments/issues/5545)
+
+## [OSC/ondemand](https://github.com/OSC/ondemand)
+
+- [Manifest error handling](https://github.com/OSC/ondemand/issues/2040)
+- [Don't compose strings with internationalizations](https://github.com/OSC/ondemand/issues/5293)
+- [default MOTD](https://github.com/OSC/ondemand/issues/866)
+
+## [code-charity/youtube](https://github.com/code-charity/youtube)
+
+- [hi i found  bug in appearance](https://github.com/code-charity/youtube/issues/3540)
+- [🐞shots up next autoplay didn't works](https://github.com/code-charity/youtube/issues/3865)
+- [🐞End of video black screen problem](https://github.com/code-charity/youtube/issues/3838)
+- [💡](https://github.com/code-charity/youtube/issues/3756)
+- [🐞"Remove members only videos" Not Working](https://github.com/code-charity/youtube/issues/3862)
+- [🐞 Themes  &  To-Do List from Reviews](https://github.com/code-charity/youtube/issues/3860)
+- [🐞 Hidden Items sometimes show up](https://github.com/code-charity/youtube/issues/3859)
+- [🐞Seems to not work at all now!](https://github.com/code-charity/youtube/issues/3724)
+- [🐞Extension not working as of yesterday](https://github.com/code-charity/youtube/issues/3535)
+- [The autoplay feature(not up next) on a new tab isn't working.](https://github.com/code-charity/youtube/issues/1851)
+- [🐞YouTube Stopped Playing](https://github.com/code-charity/youtube/issues/3846)
+- [Auto-Pause not working🐞](https://github.com/code-charity/youtube/issues/3780)
+- [🐞Live chat is hidden behind the player when watching in theater mode](https://github.com/code-charity/youtube/issues/3842)
+- [💡YouTube changed the thumbnail size of related, revert it](https://github.com/code-charity/youtube/issues/3777)
+- [🐞"Undo the new sidebar!" does not undo the new sidebar when logged in to youtube.](https://github.com/code-charity/youtube/issues/3375)
+- [🐞Playlist - Up Next Autoplay Off - doesn't work! Videos in the playlist still switch automatically(](https://github.com/code-charity/youtube/issues/3710)
+- [🐞"1x" speed button remains visible after disabling "Increase/Decrease Speed buttons"](https://github.com/code-charity/youtube/issues/3830)
+- [🐞Member Only Videos started showing up again](https://github.com/code-charity/youtube/issues/3792)
+- [🐞 Collapsed Comments: "Show more" font is black on "YouTube Dark" Theme](https://github.com/code-charity/youtube/issues/3828)
+- [Buffer Full Video.  Preload whole videos.  (issue: fail for biggest videos by browser defaults)](https://github.com/code-charity/youtube/issues/581)
+- [🐞 I found a bug on your extension](https://github.com/code-charity/youtube/issues/3829)
+- [🐞Hide chat replay](https://github.com/code-charity/youtube/issues/3826)
+- [🐞reverse playlist](https://github.com/code-charity/youtube/issues/3818)
+- [💡playerPlaybackSpeedButton defined twice in player.js](https://github.com/code-charity/youtube/issues/3823)
+- [🐞 "Hide more actions on thumbnails" not working due to updated YouTube DOM](https://github.com/code-charity/youtube/issues/3822)
+- [🐞Hide more actions on thumbnail toggle also removed the ability to edit comments on videos](https://github.com/code-charity/youtube/issues/3819)
+- [🐞](https://github.com/code-charity/youtube/issues/3814)
+- [Primary & text color not working🐞](https://github.com/code-charity/youtube/issues/3797)
+- [💡hide community posts](https://github.com/code-charity/youtube/issues/3810)
+- [🐞 [Architecture] Resource exhaustion (UI hang) during playlist removal & silent errors](https://github.com/code-charity/youtube/issues/3811)
+- [Disable or allow list for auto dub     [Youtube's new auto-dubbing]](https://github.com/code-charity/youtube/issues/2843)
+- [💡 Add option to collapse the Transcript panel](https://github.com/code-charity/youtube/issues/3800)
+- [reverse button](https://github.com/code-charity/youtube/issues/2306)
+- [How to remove unwanted resolutions in the resolution settings panel for youtube](https://github.com/code-charity/youtube/issues/3737)
+
 ## [algoscope-hq/AlgoScope](https://github.com/algoscope-hq/AlgoScope)
 
-- [Educational Enhancement: Display Time and Space Complexity (Big O) metrics](https://github.com/algoscope-hq/AlgoScope/issues/9)
-- [Feature: Add "Download" button to algorithm code snippets (Dynamic file extensions)](https://github.com/algoscope-hq/AlgoScope/issues/64)
-- [UI/UX: Add descriptive hover tooltips to control panel elements](https://github.com/algoscope-hq/AlgoScope/issues/11)
 - [Fix reset of chosen algorithm in sorting visualizer section when user want to generate new array.](https://github.com/algoscope-hq/AlgoScope/issues/75)
+- [Feature: Add "Download" button to algorithm code snippets (Dynamic file extensions)](https://github.com/algoscope-hq/AlgoScope/issues/64)
 - [UI/UX: Fix horizontal positioning of Navbar search bar](https://github.com/algoscope-hq/AlgoScope/issues/107)
+- [Educational Enhancement: Display Time and Space Complexity (Big O) metrics](https://github.com/algoscope-hq/AlgoScope/issues/9)
+- [UI/UX: Add descriptive hover tooltips to control panel elements](https://github.com/algoscope-hq/AlgoScope/issues/11)
 
-## [cadeyrn/enterprise-policy-generator](https://github.com/cadeyrn/enterprise-policy-generator)
+## [idcnys/flag-quiz](https://github.com/idcnys/flag-quiz)
 
-- [Favicon option for ManagedBookmarks policy](https://github.com/cadeyrn/enterprise-policy-generator/issues/408)
-- [Weather option for FirefoxHome policy](https://github.com/cadeyrn/enterprise-policy-generator/issues/407)
-- [FirefoxHome policy: replace deprecated options with new options](https://github.com/cadeyrn/enterprise-policy-generator/issues/326)
-- [FirefoxSuggest policy: replace deprecated option with new option](https://github.com/cadeyrn/enterprise-policy-generator/issues/348)
+- [Add high score section using localstorage](https://github.com/idcnys/flag-quiz/issues/3)
+- [There is a typo in the marquee tag text](https://github.com/idcnys/flag-quiz/issues/1)
 
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+## [falling-fruit/falling-fruit-web](https://github.com/falling-fruit/falling-fruit-web)
 
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+- [Sharing the harvest page: filter by active/inactive](https://github.com/falling-fruit/falling-fruit-web/issues/633)
+- [Location's representative photo](https://github.com/falling-fruit/falling-fruit-web/issues/1062)
+- [Readjust the narrow desktop layout so there's no overflow after opening the menu](https://github.com/falling-fruit/falling-fruit-web/issues/980)
 
-## [rdodiya/RestroHub](https://github.com/rdodiya/RestroHub)
+## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
 
-- [Add Password Visibility Toggle](https://github.com/rdodiya/RestroHub/issues/158)
-- [Issue: Duplicate Itema name not checked on Restore](https://github.com/rdodiya/RestroHub/issues/156)
-- [[Bug]: Login page crashes with white screen due to missing GoogleOAuthProvider wrapper](https://github.com/rdodiya/RestroHub/issues/139)
-- [[Backend + Frontend] Add Role & Restaurant Details During User Registration](https://github.com/rdodiya/RestroHub/issues/140)
-- [Forgot Password Functionality Not Sending Password Reset Link to Registered Email](https://github.com/rdodiya/RestroHub/issues/40)
-- [[Testing] Setup Frontend & Backend Locally and Verify Security PRs](https://github.com/rdodiya/RestroHub/issues/24)
-- [Add Favicon and Improve Page Metadata for Restroly Website](https://github.com/rdodiya/RestroHub/issues/88)
-- [Improve Password Constraints and Validation for Better Security](https://github.com/rdodiya/RestroHub/issues/38)
-- [[Docs] Verify & Update README and CONTRIBUTING Docs](https://github.com/rdodiya/RestroHub/issues/25)
-- [Addition of Live Satellite Maps showing restaurant owner his/her branches.](https://github.com/rdodiya/RestroHub/issues/113)
-- [[Bug]: No error message displayed when login fails with wrong credentials](https://github.com/rdodiya/RestroHub/issues/107)
-- [Add Feedback form and add change language option](https://github.com/rdodiya/RestroHub/issues/105)
-- [[Feature] Add Generic List View & Card View Toggle Components](https://github.com/rdodiya/RestroHub/issues/47)
-- [Forgot password route is missing](https://github.com/rdodiya/RestroHub/issues/82)
-- [Implement Secure JWT Authentication and Role-Based Authorization](https://github.com/rdodiya/RestroHub/issues/106)
-- [[Feature]: Add Global Exception Handler for consistent API error responses](https://github.com/rdodiya/RestroHub/issues/83)
-- [[Bug] No Logo + No favicon on live site](https://github.com/rdodiya/RestroHub/issues/30)
-- [[BUG] UI Alignment Issue in "How It Works" Section & Broken Live Demo Link](https://github.com/rdodiya/RestroHub/issues/39)
-- [[Backend + Frontend] Implement Order Status Update API Integration with UI](https://github.com/rdodiya/RestroHub/issues/51)
-- [[Bug] Missing visual element at bottom of homepage on scroll](https://github.com/rdodiya/RestroHub/issues/32)
-- [Improve Input Validation and User-Friendly Error Messages on All Forms](https://github.com/rdodiya/RestroHub/issues/41)
-
-## [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot)
-
-- [[Frontend] Add action tooltips](https://github.com/anurag3407/career-pilot/issues/12)
-- [[Frontend] Fix text overflow in Community cards](https://github.com/anurag3407/career-pilot/issues/10)
-- [[UI/UX] Skeleton loaders for Resume Enhancement](https://github.com/anurag3407/career-pilot/issues/14)
-- [[Frontend] Dynamic footer year](https://github.com/anurag3407/career-pilot/issues/7)
-- [[Frontend] Client-side file size validation](https://github.com/anurag3407/career-pilot/issues/15)
-
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Request: RTVE](https://github.com/simple-icons/simple-icons/issues/12272)
-- [Request: Lime](https://github.com/simple-icons/simple-icons/issues/11983)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Remember last selection of Summary/Responses tab on refresh](https://github.com/nextcloud/forms/issues/483)
-- [Allow changing answer types](https://github.com/nextcloud/forms/issues/352)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Improve handing of SMTP plugins that re-implement `wp_mail`](https://github.com/google/site-kit-wp/issues/12632)
-- [Extend the core widget registry to support PDF widgets](https://github.com/google/site-kit-wp/issues/12537)
-- [Duplicate 'X' on 'Data gathering complete' modal](https://github.com/google/site-kit-wp/issues/12618)
-- [From address headers not updated on all emails sent by Email Reporting](https://github.com/google/site-kit-wp/issues/12390)
-- [Update `Email_Report_SenderTest` tests to use mock mailer](https://github.com/google/site-kit-wp/issues/12467)
-
-## [roshankumar0036singh/Uni-Event](https://github.com/roshankumar0036singh/Uni-Event)
-
-- [Create Branch-wise Participation Reports](https://github.com/roshankumar0036singh/Uni-Event/issues/70)
-- [Implement "Verified Organizer" Status for Clubs](https://github.com/roshankumar0036singh/Uni-Event/issues/58)
-- [Add "Success Score" for Event Organizers](https://github.com/roshankumar0036singh/Uni-Event/issues/71)
-- [Implement QR Code "Scavenger Hunt" during Mega Events](https://github.com/roshankumar0036singh/Uni-Event/issues/61)
-- [Create Heatmaps for Campus Event Attendance](https://github.com/roshankumar0036singh/Uni-Event/issues/65)
-- [Add "Event Streaks" for Consistent Attendance](https://github.com/roshankumar0036singh/Uni-Event/issues/57)
-- [Add Shared Element Transitions for Event Details](https://github.com/roshankumar0036singh/Uni-Event/issues/86)
-- [Create Smooth "Dark Mode" Transition](https://github.com/roshankumar0036singh/Uni-Event/issues/92)
-- [Add "User Churn" Detection for Admins](https://github.com/roshankumar0036singh/Uni-Event/issues/74)
-- [Create "Share to Instagram Stories" Integration](https://github.com/roshankumar0036singh/Uni-Event/issues/59)
-- [Implement Haptic Feedback for All Major Actions](https://github.com/roshankumar0036singh/Uni-Event/issues/88)
-- [Develop a Campus-wide Reputation Leaderboard](https://github.com/roshankumar0036singh/Uni-Event/issues/56)
-- [Develop a "Zoom" API Integration for Attendance](https://github.com/roshankumar0036singh/Uni-Event/issues/83)
-- [Implement "Lottie" Animations for Empty States](https://github.com/roshankumar0036singh/Uni-Event/issues/94)
-- [Implement Liquid Pull-to-Refresh Animation](https://github.com/roshankumar0036singh/Uni-Event/issues/85)
-- [Add "Outlook Calendar" Support](https://github.com/roshankumar0036singh/Uni-Event/issues/84)
-- [Implement Level-based User Roles](https://github.com/roshankumar0036singh/Uni-Event/issues/64)
-- [Implement Predictive Capacity Alerts](https://github.com/roshankumar0036singh/Uni-Event/issues/69)
-- [Add "Sync to Google Calendar" for Attendees](https://github.com/roshankumar0036singh/Uni-Event/issues/78)
-- [Auto-generate Google Meet Links for Virtual Events](https://github.com/roshankumar0036singh/Uni-Event/issues/77)
-- [Implement Sentiment Analysis on Event Feedback](https://github.com/roshankumar0036singh/Uni-Event/issues/66)
-- [Implement LinkedIn "Add Certificate" Button](https://github.com/roshankumar0036singh/Uni-Event/issues/79)
-- [Add "Event Buddies" Pairing System](https://github.com/roshankumar0036singh/Uni-Event/issues/63)
-- [Develop a "Peak Attendance Time" Analysis](https://github.com/roshankumar0036singh/Uni-Event/issues/73)
-- [Add "Glassmorphism" to Event Overlays](https://github.com/roshankumar0036singh/Uni-Event/issues/90)
-- [Add Interactive "Map Pins" for Venue Selection](https://github.com/roshankumar0036singh/Uni-Event/issues/93)
-- [Create a Dynamic "Bento Box" Profile Layout](https://github.com/roshankumar0036singh/Uni-Event/issues/89)
-- [Add "Friend Activity" Feed on Dashboard](https://github.com/roshankumar0036singh/Uni-Event/issues/60)
-- [Implement Automated Event Tagging via AI](https://github.com/roshankumar0036singh/Uni-Event/issues/72)
-- [Develop a "Confetti" Effect on Successful RSVP](https://github.com/roshankumar0036singh/Uni-Event/issues/87)
-- [Implement pull-to-refresh on the event discovery and "My Events" screens](https://github.com/roshankumar0036singh/Uni-Event/issues/37)
-- [Write unit tests for Firestore security rules using the Firebase Rules Unit Testing library](https://github.com/roshankumar0036singh/Uni-Event/issues/34)
-- [Add copy-to-clipboard and native share button to the QR check-in screen](https://github.com/roshankumar0036singh/Uni-Event/issues/35)
-- [Display a loading skeleton on `UserFeed.js` while fetching events](https://github.com/roshankumar0036singh/Uni-Event/issues/38)
-- [Standardize date format display across the app](https://github.com/roshankumar0036singh/Uni-Event/issues/39)
-
-## [NITRR-Official/CampusOS](https://github.com/NITRR-Official/CampusOS)
-
-- [Create login and signup pages (UI only, no backend)](https://github.com/NITRR-Official/CampusOS/issues/8)
-- [[Calendar Persistence] Refactor Calendar Service to Use Persistent Storage](https://github.com/NITRR-Official/CampusOS/issues/45)
-- [[Calendar Persistence] Implement Database Persistence Adapter for Calendar Events](https://github.com/NITRR-Official/CampusOS/issues/44)
-- [[Calendar Persistence] Design Calendar Event Database Schema](https://github.com/NITRR-Official/CampusOS/issues/41)
-- [[Calendar Core] Add Calendar Event Update Endpoint](https://github.com/NITRR-Official/CampusOS/issues/23)
-- [[Calendar Core] Add Persistent Calendar Event Storage](https://github.com/NITRR-Official/CampusOS/issues/22)
-- [Replace emojis with consistent icon components across the UI](https://github.com/NITRR-Official/CampusOS/issues/19)
-- [Add dark mode support across the application](https://github.com/NITRR-Official/CampusOS/issues/11)
-- [Add loading states and skeleton components for better UX](https://github.com/NITRR-Official/CampusOS/issues/12)
-- [Implement dashboard UI using mock/static data](https://github.com/NITRR-Official/CampusOS/issues/7)
-- [Set up global state management (zustand or similar)](https://github.com/NITRR-Official/CampusOS/issues/10)
-- [Set up a basic API service layer for future backend integration](https://github.com/NITRR-Official/CampusOS/issues/9)
-- [Create a reusable application layout (navbar + sidebar + main content)](https://github.com/NITRR-Official/CampusOS/issues/3)
-- [Design and implement the landing page (UI only)](https://github.com/NITRR-Official/CampusOS/issues/6)
-
-## [tree-sitter/tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala)
-
-- [`catch case` should accept a block instead of an expression](https://github.com/tree-sitter/tree-sitter-scala/issues/542)
-- [`else` part of if expression is parsed as an infix expression](https://github.com/tree-sitter/tree-sitter-scala/issues/539)
-
-## [q5js/q5.js](https://github.com/q5js/q5.js)
-
-- [Create more MSDF fonts to put in q5's fonts folder](https://github.com/q5js/q5.js/issues/123)
-
-## [DeerSpotter/flareless](https://github.com/DeerSpotter/flareless)
-
-- [Add provider configuration examples](https://github.com/DeerSpotter/flareless/issues/10)
-- [Add manifest JSON schema and examples](https://github.com/DeerSpotter/flareless/issues/9)
-- [Implement CDN health check service with multi-region validation](https://github.com/DeerSpotter/flareless/issues/2)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
-- [Remove custon `job_status` ouput in favor of the native `needs.<job_id>.result`](https://github.com/WordPress/gutenberg/issues/78203)
-- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
-- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
-- [Patterns from the pattern directory do not show if placed in a template](https://github.com/WordPress/gutenberg/issues/64104)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Page jumps away when trying to edit an anchor link](https://github.com/WordPress/gutenberg/issues/72505)
+- [Error checking for interactive user: Could not parse username from "\nwtmp begins Thu Nov  4 06:52 \n"](https://github.com/taskcluster/taskcluster/issues/5006)
+- [UI to request confirmation if a user attempts to create a role with no scopes](https://github.com/taskcluster/taskcluster/issues/5065)
+- [taskcluster group list <taskGroupId> returns no results](https://github.com/taskcluster/taskcluster/issues/6325)
+- [Task doesn't exist in task group viewer?](https://github.com/taskcluster/taskcluster/issues/7135)
+- [[generic-worker] Change ownership of caches to current task](https://github.com/taskcluster/taskcluster/issues/6561)
 
