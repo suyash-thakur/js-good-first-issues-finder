@@ -4,179 +4,27 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [FinesseStudioLab/Trivela](https://github.com/FinesseStudioLab/Trivela)
 
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [StateProvider Store SourceId Reference](https://github.com/neomjs/neo/issues/6983)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-
-## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
-
-- [feat: add Zed editor support as a new harness](https://github.com/Fmarzochi/EGC/issues/90)
-- [testing: validate EGC installer on macOS and report feedback](https://github.com/Fmarzochi/EGC/issues/94)
-- [testing: validate EGC installer on Linux and report feedback](https://github.com/Fmarzochi/EGC/issues/95)
-- [ux: improve error message when target IDE is not installed](https://github.com/Fmarzochi/EGC/issues/92)
-- [testing: validate EGC installer on Windows and report feedback](https://github.com/Fmarzochi/EGC/issues/93)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Docs] Improve Related Docs Links in Pinning Models to Dock Page](https://github.com/layer5io/docs/issues/1028)
-- [Default Permissions Table: Improve use of space on the page](https://github.com/layer5io/docs/issues/1082)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-
-## [sparkle-devs/sparkle](https://github.com/sparkle-devs/sparkle)
-
-- [Some things to work on before the first stable release](https://github.com/sparkle-devs/sparkle/issues/3)
-- [More developers needed!](https://github.com/sparkle-devs/sparkle/issues/25)
-
-## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
-
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
-- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
-- [Registration should require fullName to match User model](https://github.com/SecureBananaLabs/bug-bounty/issues/2770)
-- [Registration token subject should match returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2768)
-- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
-- [Job detail page should render matching mock job and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2755)
-- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
-- [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
-- [@freelanceflow/ui package entrypoint should be directly importable](https://github.com/SecureBananaLabs/bug-bounty/issues/2781)
-- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/2822)
-- [Job detail route should resolve mock jobs by id (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2790)
-- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
-- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
-- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
-- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
-- [Freelancer profile should render matching mock profile and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2763)
-- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1810)
-- [Notification creation should preserve server-owned id and read state](https://github.com/SecureBananaLabs/bug-bounty/issues/2762)
-- [Bug: Admin role self-assignment via registration endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1823)
-- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1426)
-- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
-- [Payment API should require authentication](https://github.com/SecureBananaLabs/bug-bounty/issues/2757)
-- [Job detail route should resolve mock jobs by id](https://github.com/SecureBananaLabs/bug-bounty/issues/2760)
-- [@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2787)
-- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2827)
-- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/2832)
-- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
-- [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
-- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/1777)
-- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
-- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
-- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1737)
-- [CORS configured with no origin restrictions — allows any domain](https://github.com/SecureBananaLabs/bug-bounty/issues/1774)
-- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
-- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1742)
-- [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
-- [fix: prevent DoS on search endpoint via query length limit and input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1781)
-- [fix: enforce authentication on job creation endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1783)
-- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1795)
-- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
-- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
-- [Refresh token endpoint ignores the provided refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1775)
-- [Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1760)
-- [Bug: registerUser signs token with a different generated user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1758)
-- [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
-- [Bug: Rate limiter should count malformed JSON before body parsing](https://github.com/SecureBananaLabs/bug-bounty/issues/1735)
-- [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
-- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
-- [Patch PostCSS audit advisory from Next dependency lockfile](https://github.com/SecureBananaLabs/bug-bounty/issues/1779)
-- [Bug: Refresh endpoint mints tokens without validating a refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1750)
-
-## [mbtiongson1/gaia-skill-tree](https://github.com/mbtiongson1/gaia-skill-tree)
-
-- [curation material: GSD (get-shit-done) and karpathy-guidelines skills](https://github.com/mbtiongson1/gaia-skill-tree/issues/469)
-- [design](https://github.com/mbtiongson1/gaia-skill-tree/issues/235)
-- [Propose a skill you use that is missing from the registry](https://github.com/mbtiongson1/gaia-skill-tree/issues/66)
-- [Submit your personal skill tree](https://github.com/mbtiongson1/gaia-skill-tree/issues/62)
-- [Add missing fusion recipes: what combinations are we missing?](https://github.com/mbtiongson1/gaia-skill-tree/issues/11)
-- [Implement CLI support for removing/demoting a skill from user trees](https://github.com/mbtiongson1/gaia-skill-tree/issues/601)
-
-## [HarperFast/harper](https://github.com/HarperFast/harper)
-
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
-- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Update the PUE setup CTA overlay tooltip for mobile viewports](https://github.com/google/site-kit-wp/issues/12710)
-- [Simplify inline module data handling.](https://github.com/google/site-kit-wp/issues/11120)
-- [Help menu icons on plugin screens do not match Figma/service setup screen color](https://github.com/google/site-kit-wp/issues/12714)
-
-## [testing-library/jest-dom](https://github.com/testing-library/jest-dom)
-
-- [toBeActiveDescendant](https://github.com/testing-library/jest-dom/issues/207)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-
-## [Aristocles/klebb](https://github.com/Aristocles/klebb)
-
-- [prompts: add cardio-training starter prompt](https://github.com/Aristocles/klebb/issues/257)
-- [templates: add fasting-glucose template](https://github.com/Aristocles/klebb/issues/256)
-- [templates: add body-temperature template](https://github.com/Aristocles/klebb/issues/255)
-
-## [danielersen/dashboard](https://github.com/danielersen/dashboard)
-
-- [Workflow](https://github.com/danielersen/dashboard/issues/41)
-- [Security](https://github.com/danielersen/dashboard/issues/40)
-- [API structure](https://github.com/danielersen/dashboard/issues/16)
-- [Create services](https://github.com/danielersen/dashboard/issues/17)
-- [Site design](https://github.com/danielersen/dashboard/issues/15)
-
-## [martidu4/honey-ai](https://github.com/martidu4/honey-ai)
-
-- [Add SIP/VoIP honeypot handler](https://github.com/martidu4/honey-ai/issues/5)
-- [Add Italian and Portuguese to identity leak filter](https://github.com/martidu4/honey-ai/issues/3)
-- [Add DNS honeypot handler](https://github.com/martidu4/honey-ai/issues/2)
-- [Add SNMP protocol handler](https://github.com/martidu4/honey-ai/issues/1)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Include workflow run URL when commenting on PRs](https://github.com/WordPress/gutenberg/issues/76575)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
-- [Remove custon `job_status` ouput in favor of the native `needs.<job_id>.result`](https://github.com/WordPress/gutenberg/issues/78203)
-- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
-- [`@wordpress/api-fetch` works weirdly with ES modules](https://github.com/WordPress/gutenberg/issues/59087)
+- [Backend: Add campaign metrics CSV/JSON export endpoint](https://github.com/FinesseStudioLab/Trivela/issues/463)
+- [DevOps: Add GitHub Codespaces / dev container configuration](https://github.com/FinesseStudioLab/Trivela/issues/484)
+- [Frontend: Add print and PDF export for campaign details](https://github.com/FinesseStudioLab/Trivela/issues/483)
+- [Frontend: Add connection indicator and latency display for Soroban RPC](https://github.com/FinesseStudioLab/Trivela/issues/479)
+- [Frontend: Add QR code generation for campaign share links](https://github.com/FinesseStudioLab/Trivela/issues/477)
+- [Frontend: Add campaign urgency indicators (ending soon, filling fast, just launched)](https://github.com/FinesseStudioLab/Trivela/issues/475)
+- [Frontend: Add transaction pending state with blockchain explorer deep link](https://github.com/FinesseStudioLab/Trivela/issues/472)
+- [Frontend: Add XLM wallet balance display in header](https://github.com/FinesseStudioLab/Trivela/issues/471)
+- [Frontend: Add dark mode persistence and system preference detection](https://github.com/FinesseStudioLab/Trivela/issues/470)
+- [Backend: Add request ID tracing (X-Request-ID propagated through all log lines)](https://github.com/FinesseStudioLab/Trivela/issues/459)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [Deploy](https://github.com/PipedreamHQ/pipedream/issues/21129)
+- [[ACTION] Need more tools for the ServiceNow MCP](https://github.com/PipedreamHQ/pipedream/issues/21144)
+- [vapi: add cursor-based pagination to phoneNumberId, assistantId, and squadId propDefinitions](https://github.com/PipedreamHQ/pipedream/issues/21085)
 - [NEED A NEW TOOL FOR FINNHUB VIA PIPEDREAM[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21071)
 - [Webhook-WhatsApp-OSER-IA](https://github.com/PipedreamHQ/pipedream/issues/19762)
-- [[ACTION] Zendesk - adding ticket attachments](https://github.com/PipedreamHQ/pipedream/issues/21110)
-- [[ACTION] Ticket summary action for Freshdesk](https://github.com/PipedreamHQ/pipedream/issues/20968)
 - [[ACTION] HubSpot Meeting Scheduler APIs](https://github.com/PipedreamHQ/pipedream/issues/20789)
 - [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-- [[ACTION]  Add actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/19829)
-- [vapi: add cursor-based pagination to phoneNumberId, assistantId, and squadId propDefinitions](https://github.com/PipedreamHQ/pipedream/issues/21085)
 - [[TRIGGER] Facebook Pages webhooks](https://github.com/PipedreamHQ/pipedream/issues/21070)
 - [[ACTION] teamleader update ticket](https://github.com/PipedreamHQ/pipedream/issues/20357)
 - [[ACTION] WorkFlowy new actions](https://github.com/PipedreamHQ/pipedream/issues/20230)
@@ -195,19 +43,245 @@ This list gets updated every day at midnight.
 - [[ACTION] Huntress new actions](https://github.com/PipedreamHQ/pipedream/issues/20703)
 - [[ACTION] - Affinity CRM MCP](https://github.com/PipedreamHQ/pipedream/issues/18318)
 
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [StateProvider Store SourceId Reference](https://github.com/neomjs/neo/issues/6983)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+
+## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [@freelanceflow/ui package entrypoint should be directly importable](https://github.com/SecureBananaLabs/bug-bounty/issues/2781)
+- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
+- [Bug: Refresh endpoint mints tokens without validating a refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1750)
+- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1742)
+- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
+- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
+- [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
+- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
+- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
+- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2827)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/2822)
+- [Registration should require fullName to match User model](https://github.com/SecureBananaLabs/bug-bounty/issues/2770)
+- [Registration token subject should match returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2768)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
+- [Job detail page should render matching mock job and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2755)
+- [Job detail route should resolve mock jobs by id (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2790)
+- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
+- [Freelancer profile should render matching mock profile and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2763)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1810)
+- [Notification creation should preserve server-owned id and read state](https://github.com/SecureBananaLabs/bug-bounty/issues/2762)
+- [Bug: Admin role self-assignment via registration endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1823)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1426)
+- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
+- [Payment API should require authentication](https://github.com/SecureBananaLabs/bug-bounty/issues/2757)
+- [Job detail route should resolve mock jobs by id](https://github.com/SecureBananaLabs/bug-bounty/issues/2760)
+- [@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2787)
+- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/2832)
+- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
+- [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/1777)
+- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
+- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1737)
+- [CORS configured with no origin restrictions — allows any domain](https://github.com/SecureBananaLabs/bug-bounty/issues/1774)
+- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
+- [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
+- [fix: prevent DoS on search endpoint via query length limit and input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1781)
+- [fix: enforce authentication on job creation endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1783)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1795)
+- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
+- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
+- [Refresh token endpoint ignores the provided refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1775)
+- [Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1760)
+- [Bug: registerUser signs token with a different generated user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1758)
+- [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
+- [Bug: Rate limiter should count malformed JSON before body parsing](https://github.com/SecureBananaLabs/bug-bounty/issues/1735)
+- [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
+- [Patch PostCSS audit advisory from Next dependency lockfile](https://github.com/SecureBananaLabs/bug-bounty/issues/1779)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Meshery logo used to represent Ngrok Operator](https://github.com/meshery/meshery.io/issues/2725)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
+## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io)
+
+- [Add the pull request labeler](https://github.com/NextCommunity/NextCommunity.github.io/issues/158)
+- [use of HTML tags like inside a YAML](https://github.com/NextCommunity/NextCommunity.github.io/issues/403)
+- [Pulse and Force surge buttons missing colors](https://github.com/NextCommunity/NextCommunity.github.io/issues/522)
+- [Add `ls-lint` action workflow](https://github.com/NextCommunity/NextCommunity.github.io/issues/412)
+
+## [hoangsonww/DocuThinker-AI-App](https://github.com/hoangsonww/DocuThinker-AI-App)
+
+- [Feature: Structured Table and Form Extraction Review Workspace](https://github.com/hoangsonww/DocuThinker-AI-App/issues/57)
+- [Feature: Offline-First Mobile Document Capture and Sync Queue](https://github.com/hoangsonww/DocuThinker-AI-App/issues/56)
+- [Feature: External Workflow Webhooks and Delivery Audit Trail](https://github.com/hoangsonww/DocuThinker-AI-App/issues/55)
+- [Feature: AI Quality Feedback, Golden Datasets, and Regression Evaluation Workbench](https://github.com/hoangsonww/DocuThinker-AI-App/issues/54)
+- [feat(ai/ml): Implement Cross-Document Semantic Search & "Ask Your Workspace" RAG System](https://github.com/hoangsonww/DocuThinker-AI-App/pull/22)
+- [Feature: Privacy Review Pipeline with PII Detection, Redaction, and Audit Controls](https://github.com/hoangsonww/DocuThinker-AI-App/issues/44)
+- [Feature: AI Report Builder with Reusable Brief Templates and Multi-Format Exports](https://github.com/hoangsonww/DocuThinker-AI-App/issues/46)
+- [Feature: Document Version History, Semantic Diffing, and Change-Aware Analysis](https://github.com/hoangsonww/DocuThinker-AI-App/issues/45)
+- [Feature: Organization Workspaces, Sharing, and Role-Based Document Access](https://github.com/hoangsonww/DocuThinker-AI-App/issues/43)
+
+## [Aristocles/klebb](https://github.com/Aristocles/klebb)
+
+- [prompts: add cardio-training starter prompt](https://github.com/Aristocles/klebb/issues/257)
+- [templates: add fasting-glucose template](https://github.com/Aristocles/klebb/issues/256)
+- [templates: add body-temperature template](https://github.com/Aristocles/klebb/issues/255)
+
+## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
+
+- [[Feature] Add `Frost` label theme](https://github.com/younisdev/dyvix-ui/issues/244)
+- [[Feature] Add `Neon` label theme](https://github.com/younisdev/dyvix-ui/issues/245)
+- [[Feature] Add `Blade` label theme](https://github.com/younisdev/dyvix-ui/issues/242)
+- [[Feature] Add `Midnight` label theme](https://github.com/younisdev/dyvix-ui/issues/224)
+
+## [less/less.js](https://github.com/less/less.js)
+
+- [Container style queries unexpected space](https://github.com/less/less.js/issues/4235)
+
+## [tapestry-mud/tapestry-packs](https://github.com/tapestry-mud/tapestry-packs)
+
+- [Elemental damage types: fire, ice, lightning, acid](https://github.com/tapestry-mud/tapestry-packs/issues/14)
+- [Secret exits: hidden exits with discovery mechanics](https://github.com/tapestry-mud/tapestry-packs/issues/13)
+- [Buff Spec YAML: standalone buff definitions](https://github.com/tapestry-mud/tapestry-packs/issues/12)
+- [inspect should work on inventory items to show full stats](https://github.com/tapestry-mud/tapestry-packs/issues/7)
+- [shops: convert shop list to PanelRenderer](https://github.com/tapestry-mud/tapestry-packs/issues/5)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- [Holding ⌥ on Mac to select the text inside a link is broken](https://github.com/zen-browser/desktop/issues/8391)
+- ["Rename Folder" option unavailable in collapsed toolbar layout](https://github.com/zen-browser/desktop/issues/14082)
+- [Missing translations](https://github.com/zen-browser/desktop/issues/10749)
+- [Closing a Split Tab in one Zen window causes other windows' tabs to change to the remaining tab](https://github.com/zen-browser/desktop/issues/13761)
+- [Full screen mode not working in YouTube while using Glance mode](https://github.com/zen-browser/desktop/issues/11766)
+
+## [SalmonPlays/oss-signal](https://github.com/SalmonPlays/oss-signal)
+
+- [Good first issue: add a compact text output example](https://github.com/SalmonPlays/oss-signal/issues/7)
+- [Good first issue: add a funding metadata readiness check](https://github.com/SalmonPlays/oss-signal/issues/6)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Remember last selection of Summary/Responses tab on refresh](https://github.com/nextcloud/forms/issues/483)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
+- [Document differences between Node.js fetch() implementations and the standard](https://github.com/nodejs/node/issues/52163)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+
+## [Seven128/project-tiny-context-harness](https://github.com/Seven128/project-tiny-context-harness)
+
+- [[docs] Expand the fresh-agent recovery walkthrough into a complete sample](https://github.com/Seven128/project-tiny-context-harness/issues/6)
+- [[docs] Add launch FAQ from first-user feedback](https://github.com/Seven128/project-tiny-context-harness/issues/8)
+
+## [conversejs/converse.js](https://github.com/conversejs/converse.js)
+
+- [Ask user to provide current password in order to reset password](https://github.com/conversejs/converse.js/issues/3120)
+
+## [danielersen/dashboard](https://github.com/danielersen/dashboard)
+
+- [Workflow](https://github.com/danielersen/dashboard/issues/41)
+- [Security](https://github.com/danielersen/dashboard/issues/40)
+- [API structure](https://github.com/danielersen/dashboard/issues/16)
+- [Create services](https://github.com/danielersen/dashboard/issues/17)
+- [Site design](https://github.com/danielersen/dashboard/issues/15)
+
+## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+
+- [Dev: Update the spelling linter exclusion list with new terms](https://github.com/hackforla/tdm-calculator/issues/3167)
+- [FAQ database: Add content: How do I make revisions to my submitted TDM Plan that were requested by LADOT?](https://github.com/hackforla/tdm-calculator/issues/3023)
+- [FAQ database: Add content: How can I search and filter my projects](https://github.com/hackforla/tdm-calculator/issues/2744)
+- [Product: Check on review-fees.pdf document status](https://github.com/hackforla/tdm-calculator/issues/3174)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [GeoJsonDataSource sourceUri parameter isn't used](https://github.com/CesiumGS/cesium/issues/6108)
+- [[Cesium WebGL] Fragment shader compile log: ERROR: 0:430: 'clipPolygons' : no matching overloaded function found](https://github.com/CesiumGS/cesium/issues/12414)
+- [Voxel Spec data uses legacy 3D Tiles 1.1 representation](https://github.com/CesiumGS/cesium/issues/12596)
+- [Non-normalized AlignedAxis Is Ignored](https://github.com/CesiumGS/cesium/issues/6596)
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+- [EntityCluster hasLabelIndex always returns false](https://github.com/CesiumGS/cesium/issues/7446)
+- [Document classes implementing the `GeometryFactory` interface](https://github.com/CesiumGS/cesium/issues/12827)
+- [MOUSE_MOVE fires outside of canvas in Firefox](https://github.com/CesiumGS/cesium/issues/12373)
+- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
+- [Clustering no longer works when assigning a label to datasource entities](https://github.com/CesiumGS/cesium/issues/13361)
+- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
+
+## [taraxvoid/queeromaha](https://github.com/taraxvoid/queeromaha)
+
+- [add singing events](https://github.com/taraxvoid/queeromaha/issues/12)
+- [add batch of makers](https://github.com/taraxvoid/queeromaha/issues/9)
+- [Add amplify arts meta page for opportunities](https://github.com/taraxvoid/queeromaha/issues/46)
+
+## [AprilSylph/XKit-Rewritten](https://github.com/AprilSylph/XKit-Rewritten)
+
+- [Mutual Checker only-mutuals: Timelines may not be scrollable](https://github.com/AprilSylph/XKit-Rewritten/issues/2274)
+- [No recommended feature stopped working entirely](https://github.com/AprilSylph/XKit-Rewritten/issues/2252)
+- [Trim Reblogs: Update/clarify warning about trimming asks](https://github.com/AprilSylph/XKit-Rewritten/issues/2048)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [Include workflow run URL when commenting on PRs](https://github.com/WordPress/gutenberg/issues/76575)
+- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Migrated button markup causing rendering problems](https://github.com/WordPress/gutenberg/issues/28957)
+- [Remove custon `job_status` ouput in favor of the native `needs.<job_id>.result`](https://github.com/WordPress/gutenberg/issues/78203)
+- [Workflows: Replace unmaintained actions](https://github.com/WordPress/gutenberg/issues/29946)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+
+## [SRV30/samridhi-enterprises](https://github.com/SRV30/samridhi-enterprises)
+
+- [[FEATURE] Improve Overall Storefront UI](https://github.com/SRV30/samridhi-enterprises/issues/24)
+- [[DOC] Create Professional Hero Banner](https://github.com/SRV30/samridhi-enterprises/issues/27)
+- [[FEATURE] Redesign Header Navigation](https://github.com/SRV30/samridhi-enterprises/issues/26)
+- [[ENHANCEMENT] Improve Mobile Responsiveness Across Website](https://github.com/SRV30/samridhi-enterprises/issues/25)
+- [[DOC] Enhance README With Product Screenshots & Visual Walkthrough](https://github.com/SRV30/samridhi-enterprises/issues/13)
+- [[DOC] Improve Setup, Deployment & Environment Variable Documentation](https://github.com/SRV30/samridhi-enterprises/issues/8)
+
 ## [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot)
 
+- [[Testing] Create Test Fixtures & Factory Functions](https://github.com/anurag3407/career-pilot/issues/2783)
+- [[Portfolio] Portfolio share and embed options](https://github.com/anurag3407/career-pilot/issues/697)
+- [[Job Matching] Build Salary Negotiation Advisor](https://github.com/anurag3407/career-pilot/issues/2748)
 - [[Job Matching] Build Job Comparison Side-by-Side View](https://github.com/anurag3407/career-pilot/issues/2750)
 - [[Job Matching] Create Application Follow-up Reminder System](https://github.com/anurag3407/career-pilot/issues/2749)
 - [[Portfolio] Delete portfolio confirmation modal](https://github.com/anurag3407/career-pilot/issues/684)
 - [[Project Analysis] Create Commit History Timeline](https://github.com/anurag3407/career-pilot/issues/2683)
-- [[Security] Implement Request Payload Validation with Zod](https://github.com/anurag3407/career-pilot/issues/2760)
 - [[Job Matching] Build Offer Comparison Calculator](https://github.com/anurag3407/career-pilot/issues/2756)
 - [[Analytics] Build Goal Setting & Tracking Feature](https://github.com/anurag3407/career-pilot/issues/2734)
 - [[Analytics] Build Career Progress Timeline](https://github.com/anurag3407/career-pilot/issues/2726)
 - [[Job Matching] Implement Smart Job Search Filters](https://github.com/anurag3407/career-pilot/issues/2742)
 - [[Job Matching] Create Job Posting Freshness Tracker](https://github.com/anurag3407/career-pilot/issues/2747)
-- [[Job Matching] Build Salary Negotiation Advisor](https://github.com/anurag3407/career-pilot/issues/2748)
 - [[Portfolio Template] Build Complete "Museum Gallery" Portfolio (Unique / Creative)](https://github.com/anurag3407/career-pilot/issues/1975)
 - [[Project Analysis] Analysis Results Cleanup Cron Job](https://github.com/anurag3407/career-pilot/issues/2705)
 - [[Analytics] Build Weekly Progress Email Report](https://github.com/anurag3407/career-pilot/issues/2732)
@@ -225,7 +299,6 @@ This list gets updated every day at midnight.
 - [[Testing] Set Up Jest Configuration for Backend](https://github.com/anurag3407/career-pilot/issues/2782)
 - [[Analytics] Create Analytics Page Layout with Tabs](https://github.com/anurag3407/career-pilot/issues/2733)
 - [[Analytics] Create User Activity Tracking Service](https://github.com/anurag3407/career-pilot/issues/2725)
-- [[Portfolio Template] Build Complete "Dribbble Shots" Portfolio (Famous UI Inspired)](https://github.com/anurag3407/career-pilot/issues/1906)
 - [Create Cyberpunk Theme: GlitchMatrix Section](https://github.com/anurag3407/career-pilot/issues/1305)
 - [[Frontend] Client-side file size validation](https://github.com/anurag3407/career-pilot/issues/15)
 - [[Analytics] Build Networking Score Calculator](https://github.com/anurag3407/career-pilot/issues/2736)
@@ -265,7 +338,6 @@ This list gets updated every day at midnight.
 - [[A11y] Add ARIA Labels and Roles to Core Components](https://github.com/anurag3407/career-pilot/issues/2804)
 - [[A11y] Implement Keyboard Navigation for All Interactive Elements](https://github.com/anurag3407/career-pilot/issues/2803)
 - [[Project Analysis] Unit Tests for Code Complexity Analyzer](https://github.com/anurag3407/career-pilot/issues/2691)
-- [[Testing] Create Test Fixtures & Factory Functions](https://github.com/anurag3407/career-pilot/issues/2783)
 - [[Project Analysis] Create MongoDB Schema for Analysis Results](https://github.com/anurag3407/career-pilot/issues/2672)
 - [[Portfolio Template] Build Complete "Crystal Cavern" Portfolio (3D / WebGL)](https://github.com/anurag3407/career-pilot/issues/1855)
 - [[Portfolio Template] Build Complete "Wireframe World" Portfolio (3D / WebGL)](https://github.com/anurag3407/career-pilot/issues/1858)
@@ -297,4 +369,5 @@ This list gets updated every day at midnight.
 - [[Testing] Create React Component Test Suite for Enhance Page](https://github.com/anurag3407/career-pilot/issues/2789)
 - [[Analytics] Build Real-time Activity Feed Component](https://github.com/anurag3407/career-pilot/issues/2738)
 - [[Mobile] Create Mobile-Optimized Resume Upload Flow](https://github.com/anurag3407/career-pilot/issues/2799)
+- [[Testing] Write Unit Tests for Auth Middleware](https://github.com/anurag3407/career-pilot/issues/2784)
 
