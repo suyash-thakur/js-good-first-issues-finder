@@ -4,69 +4,37 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [dhairyagothi/100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project)
+
+- [Building an Interactive Educational Periodic Table with Responsive UI and Detailed Element Insights](https://github.com/dhairyagothi/100_days_100_web_project/issues/1240)
+- [Ping Pong Game not working](https://github.com/dhairyagothi/100_days_100_web_project/issues/802)
+- [Scroll bar css](https://github.com/dhairyagothi/100_days_100_web_project/issues/1492)
+- [Work on to-do list](https://github.com/dhairyagothi/100_days_100_web_project/issues/792)
+- [[FIX] Issue with the buttons and a syntax error](https://github.com/dhairyagothi/100_days_100_web_project/issues/799)
+- [From project 1-50](https://github.com/dhairyagothi/100_days_100_web_project/issues/884)
+- [Issue: Improve and Standardize README Documentation for Projects 11–20](https://github.com/dhairyagothi/100_days_100_web_project/issues/1472)
+
 ## [nextcloud/calendar](https://github.com/nextcloud/calendar)
 
 - [feedback calendar/ schedulling](https://github.com/nextcloud/calendar/issues/8486)
 
-## [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed)
+## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
 
-- [Enrich SN66 ninja — add OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/466)
-- [Enrich SN23 Trishool — add OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/465)
-- [Enrich SN59 Babelbit — add OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/464)
-- [Enrich SN107 Minos — add OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/463)
-- [Enrich SN51 lium.io — add OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/462)
-- [Enrich SN109 Academia — add official website](https://github.com/JSONbored/metagraphed/issues/461)
-- [Enrich SN47 EvolAI — add official website](https://github.com/JSONbored/metagraphed/issues/460)
-- [Enrich SN95 Actual — add source repository](https://github.com/JSONbored/metagraphed/issues/459)
-- [Enrich SN90 DegenBrain — add source repository](https://github.com/JSONbored/metagraphed/issues/458)
-- [Enrich SN87 Luminar Network — add source repository](https://github.com/JSONbored/metagraphed/issues/457)
-- [Enrich SN123 MANTIS — add official website](https://github.com/JSONbored/metagraphed/issues/456)
-- [Enrich SN116 TaoLend — add source repository](https://github.com/JSONbored/metagraphed/issues/455)
-- [Enrich SN115 HashiChain — add official website](https://github.com/JSONbored/metagraphed/issues/454)
-- [Enrich SN81 Grail — add official website](https://github.com/JSONbored/metagraphed/issues/453)
-- [Enrich SN53 EfficientFrontier — add source repository](https://github.com/JSONbored/metagraphed/issues/452)
-- [Enrich SN40 Chunking — add source repository](https://github.com/JSONbored/metagraphed/issues/451)
-- [Enrich SN27 Nodexo — add source repository](https://github.com/JSONbored/metagraphed/issues/450)
-- [Enrich SN38 colosseum — add official website](https://github.com/JSONbored/metagraphed/issues/449)
-- [Enrich SN118 Ditto — add source repository](https://github.com/JSONbored/metagraphed/issues/448)
-- [Enrich SN89 InfiniteHash — add official website](https://github.com/JSONbored/metagraphed/issues/447)
-- [Enrich SN76 Byzantium — add source repository](https://github.com/JSONbored/metagraphed/issues/446)
-- [Enrich SN30 Endure Network — add source repository](https://github.com/JSONbored/metagraphed/issues/445)
-- [Enrich SN20 GroundLayer — add source repository](https://github.com/JSONbored/metagraphed/issues/444)
-- [Enrich SN104 for sale (burn to uid1) — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/443)
-- [Enrich SN101 eni — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/442)
-- [Enrich SN86 Subnet 86 — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/441)
-- [Enrich SN69 ain — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/440)
-- [Enrich SN31 Recall — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/439)
-- [Enrich SN28 gm — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/438)
-- [Enrich SN119 Satori — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/437)
-- [Enrich SN73 MetaHash — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/436)
-- [Enrich SN106 Nodexo — add source repository + official website](https://github.com/JSONbored/metagraphed/issues/435)
+- [[Feature] Add `Aurora` label theme](https://github.com/younisdev/dyvix-ui/issues/252)
+- [[Feature] Add `Neon` label theme](https://github.com/younisdev/dyvix-ui/issues/245)
 
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+## [minjay820/pLoadtesting](https://github.com/minjay820/pLoadtesting)
 
-- [Show error message when using invalid plugin or theme slugs](https://github.com/WordPress/wordpress-playground/issues/2042)
-- [GitHub integration: AI descriptions for Pull Requests](https://github.com/WordPress/wordpress-playground/issues/1376)
-- [[design]: Adding a link to the blueprint editor at Launch Playground Panel](https://github.com/WordPress/wordpress-playground/issues/3171)
-- [Provide unit and e2e test instructions in the top-level README](https://github.com/WordPress/wordpress-playground/issues/1519)
-- [[CLI] Throws a message for invalid WordPress version](https://github.com/WordPress/wordpress-playground/issues/2816)
-- [Missing CONTRIBUTING.md file](https://github.com/WordPress/wordpress-playground/issues/2844)
-- [Add instructions for editing documentation with the GitHub UI](https://github.com/WordPress/wordpress-playground/issues/2540)
-- [Add S3 instructions to documentation](https://github.com/WordPress/wordpress-playground/issues/962)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [[Docs] Add Docker Compose validation guide](https://github.com/minjay820/pLoadtesting/issues/12)
+- [[Engine] Add k6 smoke test documentation](https://github.com/minjay820/pLoadtesting/issues/9)
+- [[Docs] Add architecture diagram for Control Plane and Worker interaction](https://github.com/minjay820/pLoadtesting/issues/6)
 
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
 - [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
 - [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
 - [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
 - [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
 - [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
 - [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
@@ -116,40 +84,6 @@ This list gets updated every day at midnight.
 - [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
 - [Patch PostCSS audit advisory from Next dependency lockfile](https://github.com/SecureBananaLabs/bug-bounty/issues/1779)
 
-## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
-
-- [[Feature] Add `Aurora` label theme](https://github.com/younisdev/dyvix-ui/issues/252)
-- [[Feature] Add `Neon` label theme](https://github.com/younisdev/dyvix-ui/issues/245)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12859)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12822)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12411)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12359)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12195)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12208)
-- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/12184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12163)
-- [[RFC]: replace inline NaN generation with stdlib NaN constants in C source files (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11743)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
-- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
-
 ## [danielersen/dashboard](https://github.com/danielersen/dashboard)
 
 - [Workflow](https://github.com/danielersen/dashboard/issues/41)
@@ -158,47 +92,71 @@ This list gets updated every day at midnight.
 - [Create services](https://github.com/danielersen/dashboard/issues/17)
 - [Site design](https://github.com/danielersen/dashboard/issues/15)
 
-## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
+## [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon)
 
-- [Support semantic search resolution for cytobands and searchable datums](https://github.com/genome-spy/genome-spy/issues/125)
-- [Feature Request: Line Charts](https://github.com/genome-spy/genome-spy/issues/50)
-- [Support `xOffset` and `yOffset` as encoding channels](https://github.com/genome-spy/genome-spy/issues/230)
+- [Add version to Docs site](https://github.com/OWASP/threat-dragon/issues/1730)
+- [Buildx provided with unexpected input](https://github.com/OWASP/threat-dragon/issues/1729)
+- [Add version field and custom date in the model and the Report](https://github.com/OWASP/threat-dragon/issues/1621)
+- [Configurable OAuth Frontend URL Override / NODE_ENV Documentation](https://github.com/OWASP/threat-dragon/issues/1539)
 
-## [hoangsonww/DocuThinker-AI-App](https://github.com/hoangsonww/DocuThinker-AI-App/pull/65)
+## [NeoLabs-Systems/NeoAgent](https://github.com/NeoLabs-Systems/NeoAgent)
 
-- [feat(orchestrator): per-client token-bucket rate limiter for LLM routes](https://github.com/hoangsonww/DocuThinker-AI-App/pull/65)
-- [Feature: Structured Table and Form Extraction Review Workspace](https://github.com/hoangsonww/DocuThinker-AI-App/issues/57)
-- [Feature: Offline-First Mobile Document Capture and Sync Queue](https://github.com/hoangsonww/DocuThinker-AI-App/issues/56)
-- [Feature: External Workflow Webhooks and Delivery Audit Trail](https://github.com/hoangsonww/DocuThinker-AI-App/issues/55)
-- [Feature: AI Quality Feedback, Golden Datasets, and Regression Evaluation Workbench](https://github.com/hoangsonww/DocuThinker-AI-App/issues/54)
-- [feat(ai/ml): Implement Cross-Document Semantic Search & "Ask Your Workspace" RAG System](https://github.com/hoangsonww/DocuThinker-AI-App/pull/22)
-- [Feature: Privacy Review Pipeline with PII Detection, Redaction, and Audit Controls](https://github.com/hoangsonww/DocuThinker-AI-App/issues/44)
-- [Feature: AI Report Builder with Reusable Brief Templates and Multi-Format Exports](https://github.com/hoangsonww/DocuThinker-AI-App/issues/46)
-- [Feature: Document Version History, Semantic Diffing, and Change-Aware Analysis](https://github.com/hoangsonww/DocuThinker-AI-App/issues/45)
-- [Feature: Organization Workspaces, Sharing, and Role-Based Document Access](https://github.com/hoangsonww/DocuThinker-AI-App/issues/43)
+- [Add unit tests for messaging output formatting adapters](https://github.com/NeoLabs-Systems/NeoAgent/issues/16)
+- [Document the GitHub official integration](https://github.com/NeoLabs-Systems/NeoAgent/issues/13)
+- [Replace the Flutter boilerplate README with NeoAgent client development docs](https://github.com/NeoLabs-Systems/NeoAgent/issues/15)
 
-## [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)
+## [slayerlabs/slayer](https://github.com/slayerlabs/slayer)
 
-- [UI: Long file names break layout on landing page UI](https://github.com/inveniosoftware/invenio-app-rdm/issues/3195)
-- [deposit: version field should have a character limit](https://github.com/inveniosoftware/invenio-app-rdm/issues/3261)
+- [Dodaj loader MCQ dla nowego publicznego zbioru PL](https://github.com/slayerlabs/slayer/issues/3)
+- [Odpal benchmark lokalnie i zgłoś wynik](https://github.com/slayerlabs/slayer/issues/2)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
 ## [processing/p5.js](https://github.com/processing/p5.js)
 
 - [[p5.js 2.0 Bug Report]: noise(null) is treated as noise(0) while noise(undefined) errors, and this behaviour is undocumented and inconsistent.](https://github.com/processing/p5.js/issues/8407)
 - [Visual loading indicator fallback while assets are loading](https://github.com/processing/p5.js/issues/6795)
 
-## [slavazeph-coder/the-brain](https://github.com/slavazeph-coder/the-brain)
+## [nextcloud/forms](https://github.com/nextcloud/forms)
 
-- [Add a pre-computed scenario pack to the TRIBE v2 server](https://github.com/slavazeph-coder/the-brain/issues/58)
-- [Polish mobile camera gestures in the 3D viewer](https://github.com/slavazeph-coder/the-brain/issues/57)
-- [Add reduced-motion support to the 3D scene](https://github.com/slavazeph-coder/the-brain/issues/56)
-- [Expand unit-test coverage of the STDP simulation core](https://github.com/slavazeph-coder/the-brain/issues/55)
-- [Add a pre-seeded demo tile to the scan hero](https://github.com/slavazeph-coder/the-brain/issues/54)
-- [Add an affect class to the 12-affect taxonomy](https://github.com/slavazeph-coder/the-brain/issues/53)
-- [Add a neurotransmitter preset to the Neurochemistry Sandbox](https://github.com/slavazeph-coder/the-brain/issues/52)
+- [Remember last selection of Summary/Responses tab on refresh](https://github.com/nextcloud/forms/issues/483)
+
+## [zen-browser/desktop](https://github.com/zen-browser/desktop)
+
+- ["Rename Folder" option unavailable in collapsed toolbar layout](https://github.com/zen-browser/desktop/issues/14082)
+- [Missing translations](https://github.com/zen-browser/desktop/issues/10749)
+- [Closing a Split Tab in one Zen window causes other windows' tabs to change to the remaining tab](https://github.com/zen-browser/desktop/issues/13761)
+- [Full screen mode not working in YouTube while using Glance mode](https://github.com/zen-browser/desktop/issues/11766)
+
+## [yegor256/dogent](https://github.com/yegor256/dogent)
+
+- [Add "Simple" rule to flag tangled, multi-clause instructions](https://github.com/yegor256/dogent/issues/29)
+- [Add "Crowded" rule to cap the number of instructions per section](https://github.com/yegor256/dogent/issues/28)
+- [Add "Unfinished" rule to flag placeholders and leftover markers](https://github.com/yegor256/dogent/issues/26)
+- [Add "Unique" rule to flag repeated instructions across a manifesto](https://github.com/yegor256/dogent/issues/25)
+- [Add "Passive" rule to reject passive voice in instructions](https://github.com/yegor256/dogent/issues/24)
+- [Add "Polite" rule to strip courtesy and scaffolding words](https://github.com/yegor256/dogent/issues/23)
+- [Add "Hedging" rule to reject soft, non-committal wording](https://github.com/yegor256/dogent/issues/22)
+- [Add "Atomic" rule so every line carries exactly one instruction](https://github.com/yegor256/dogent/issues/21)
+- [Add "DescriptionTriggers" rule so a skill description states when to use it](https://github.com/yegor256/dogent/issues/19)
+- [Add "DeadImport" rule to flag broken @-imports in CLAUDE.md](https://github.com/yegor256/dogent/issues/18)
+- [Add "NameMatchesDir" rule so a skill name equals its directory](https://github.com/yegor256/dogent/issues/17)
+- [Add "NameFormat" rule to validate the frontmatter name value](https://github.com/yegor256/dogent/issues/16)
 
 ## [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot)
 
+- [[PROD] og:url still set to placeholder domain in index.html](https://github.com/anurag3407/career-pilot/issues/4068)
+- [[UI] SkeletonProfile uses hardcoded dark colors — broken in light mode](https://github.com/anurag3407/career-pilot/issues/4082)
+- [[UI] Navbar showDropdown state conflict — search and profile dropdowns share one variable](https://github.com/anurag3407/career-pilot/issues/4088)
+- [[UX] Project Visualizer duplicated in sidebar navigation](https://github.com/anurag3407/career-pilot/issues/4077)
+- [[PROD] Missing robots.txt and sitemap.xml — Google cannot properly index the site](https://github.com/anurag3407/career-pilot/issues/4069)
+- [[UI] EmptyJobState has hardcoded dark background — ignores all app themes](https://github.com/anurag3407/career-pilot/issues/4083)
+- [[UI] ReportBugModal should use shared Input and Button components for visual consistency](https://github.com/anurag3407/career-pilot/issues/4089)
+- [[UI] Navbar has broken breakpoint — avatar visible before nav links appear (md vs lg)](https://github.com/anurag3407/career-pilot/issues/4085)
+- [[PROD] Typo in brand name: "CarrerPilot" in JetLandingPage.jsx](https://github.com/anurag3407/career-pilot/issues/4070)
 - [Create 3D Isometric Theme: Contact Section](https://github.com/anurag3407/career-pilot/issues/1322)
 - [Create Architecture Blueprint Theme: Projects Section](https://github.com/anurag3407/career-pilot/issues/1447)
 - [[Analytics] Create Resume Performance Tracker](https://github.com/anurag3407/career-pilot/issues/2729)
@@ -290,13 +248,4 @@ This list gets updated every day at midnight.
 - [[Project Analysis] Build Project Health Score Badge Generator](https://github.com/anurag3407/career-pilot/issues/2688)
 - [[Project Analysis] Create Analysis API Service Layer](https://github.com/anurag3407/career-pilot/issues/2689)
 - [[Project Analysis] Unit Tests for Tech Stack Detector](https://github.com/anurag3407/career-pilot/issues/2690)
-- [[Project Analysis] Unit Tests for Code Quality Scorer](https://github.com/anurag3407/career-pilot/issues/2693)
-- [Create Magazine Editorial Theme: ResumeCTA Section](https://github.com/anurag3407/career-pilot/issues/1476)
-- [Create Typographic Heavy Theme: KineticText Section](https://github.com/anurag3407/career-pilot/issues/1473)
-- [Create Typographic Heavy Theme: Projects Section](https://github.com/anurag3407/career-pilot/issues/1471)
-- [Create Typographic Heavy Theme: About Section](https://github.com/anurag3407/career-pilot/issues/1469)
-- [Create Typographic Heavy Theme: Hero Section](https://github.com/anurag3407/career-pilot/issues/1468)
-- [Create Vaporwave Theme: Contact Section](https://github.com/anurag3407/career-pilot/issues/1460)
-- [[Portfolio Template] Build Complete "Story Unfold" Portfolio (Scroll-Triggered)](https://github.com/anurag3407/career-pilot/issues/1870)
-- [[Testing] Create React Component Test Suite for Enhance Page](https://github.com/anurag3407/career-pilot/issues/2789)
 
