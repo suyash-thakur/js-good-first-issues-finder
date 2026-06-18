@@ -4,21 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12890)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12859)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12822)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12411)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12359)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12195)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12208)
-- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11936)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/12184)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12163)
-
 ## [slavazeph-coder/the-brain](https://github.com/slavazeph-coder/the-brain)
 
 - [Add a pre-computed scenario pack to the TRIBE v2 server](https://github.com/slavazeph-coder/the-brain/issues/58)
@@ -29,10 +14,74 @@ This list gets updated every day at midnight.
 - [Add an affect class to the 12-affect taxonomy](https://github.com/slavazeph-coder/the-brain/issues/53)
 - [Add a neurotransmitter preset to the Neurochemistry Sandbox](https://github.com/slavazeph-coder/the-brain/issues/52)
 
-## [29miaoet/Andrew_WebPage](https://github.com/29miaoet/Andrew_WebPage)
+## [slayerlabs/slayer](https://github.com/slayerlabs/slayer)
 
-- [Missing CSS Media Queries](https://github.com/29miaoet/Andrew_WebPage/issues/102)
-- [Typo Patches](https://github.com/29miaoet/Andrew_WebPage/issues/17)
+- [Dodaj loader MCQ dla nowego publicznego zbioru PL](https://github.com/slayerlabs/slayer/issues/3)
+- [Odpal benchmark lokalnie i zgłoś wynik](https://github.com/slayerlabs/slayer/issues/2)
+
+## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+
+- [Refactor Export.component.js from class to functional component](https://github.com/cboard-org/cboard/issues/2150)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
+- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
+- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1426)
+- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1737)
+- [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
+- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1742)
+- [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
+- [Bug: Refresh endpoint mints tokens without validating a refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1750)
+- [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
+- [Bug: registerUser signs token with a different generated user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1758)
+- [Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1760)
+- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
+- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
+- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
+- [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/1777)
+- [fix: prevent DoS on search endpoint via query length limit and input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1781)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1795)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/1810)
+- [Bug: Admin role self-assignment via registration endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1823)
+- [Job detail page should render matching mock job and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2755)
+- [Job detail route should resolve mock jobs by id](https://github.com/SecureBananaLabs/bug-bounty/issues/2760)
+- [Freelancer profile should render matching mock profile and unknown fallback](https://github.com/SecureBananaLabs/bug-bounty/issues/2763)
+- [@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2787)
+- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2827)
+- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
+- [Bug: Rate limiter should count malformed JSON before body parsing](https://github.com/SecureBananaLabs/bug-bounty/issues/1735)
+- [Patch PostCSS audit advisory from Next dependency lockfile](https://github.com/SecureBananaLabs/bug-bounty/issues/1779)
+- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
+- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
+- [Refresh token endpoint ignores the provided refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1775)
+- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
+- [CORS configured with no origin restrictions — allows any domain](https://github.com/SecureBananaLabs/bug-bounty/issues/1774)
+- [fix: enforce authentication on job creation endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1783)
+- [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
+- [@freelanceflow/ui package entrypoint should be directly importable](https://github.com/SecureBananaLabs/bug-bounty/issues/2781)
+- [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/2822)
+- [Notification creation should preserve server-owned id and read state](https://github.com/SecureBananaLabs/bug-bounty/issues/2762)
+- [Registration token subject should match returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2768)
+- [Registration should require fullName to match User model](https://github.com/SecureBananaLabs/bug-bounty/issues/2770)
+- [Job detail route should resolve mock jobs by id (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2790)
+- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
+- [Payment API should require authentication](https://github.com/SecureBananaLabs/bug-bounty/issues/2757)
+- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/2832)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
+- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
 
 ## [nextcloud/calendar](https://github.com/nextcloud/calendar)
 
@@ -45,11 +94,44 @@ This list gets updated every day at midnight.
 - [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
 - [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
 
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [suggestCommand does not wrap getStagedDiff/getUnstagedDiff in try/catch, causing raw crashes on git errors](https://github.com/404-PF/commit-echo/issues/126)
+- [Add an example/no-op provider in src/providers for local testing](https://github.com/404-PF/commit-echo/issues/39)
+- [Add GitHub Actions CI to run build + tests](https://github.com/404-PF/commit-echo/issues/33)
+- [Add commit-echo config command to view current configuration](https://github.com/404-PF/commit-echo/issues/55)
+- [Add unit tests for provider adapters](https://github.com/404-PF/commit-echo/issues/45)
+- [Add `--json` output flag to `commit-echo history`](https://github.com/404-PF/commit-echo/issues/58)
+- [Add shell completion command](https://github.com/404-PF/commit-echo/issues/67)
+- [Add --verbose flag to commit-echo suggest](https://github.com/404-PF/commit-echo/issues/70)
+- [Add environment variable overrides for configuration](https://github.com/404-PF/commit-echo/issues/86)
+- [Add --show-diff flag to commit-echo suggest](https://github.com/404-PF/commit-echo/issues/87)
+- [Validate historySize and maxDiffSize when loading config](https://github.com/404-PF/commit-echo/issues/105)
+- [Normalize custom base URL by trimming trailing slash in init](https://github.com/404-PF/commit-echo/issues/109)
+- [Add unit tests for getConfigDir path resolution across platforms](https://github.com/404-PF/commit-echo/issues/111)
+
+## [nodejs/node](https://github.com/nodejs/node)
+
+- [fs: utf8 fast paths don't accept all valid utf8 values](https://github.com/nodejs/node/issues/49888)
+- [`message` tests can be migrated from python to JS](https://github.com/nodejs/node/issues/47707)
+
+## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
+- [Creating a tag named "new" is subsequently not editable](https://github.com/TryGhost/Ghost/issues/26095)
+- ["Unsubscribe" link should make it easy to cancel a paid subscription, too](https://github.com/TryGhost/Ghost/issues/23445)
+- [Editor opening staff settings/profile triggers forbidden API calls and unrelated permission toast](https://github.com/TryGhost/Ghost/issues/26607)
+- [Input box for editing feature image caption link is inconsistently small](https://github.com/TryGhost/Ghost/issues/28359)
+- [Incorrect links from Top sources in analytics](https://github.com/TryGhost/Ghost/issues/24607)
+- [The loader image in the dashboard is not transparent](https://github.com/TryGhost/Ghost/issues/25772)
+- [Dark mode / light mode transitions are incorrect for most analytics sections/buttons](https://github.com/TryGhost/Ghost/issues/24608)
+- [Bookmark for YouTube links not populated with video metadata](https://github.com/TryGhost/Ghost/issues/24741)
+- [{{contrast_text_color}} helper returns incorrect text color](https://github.com/TryGhost/Ghost/issues/27797)
+- [a11y: `kg-toggle-card` not usable properly with a screenreader](https://github.com/TryGhost/Ghost/issues/27462)
+- [Storage adapters (and possibly other types) placed in the content folder are not detected.](https://github.com/TryGhost/Ghost/issues/22883)
+- [Cannot get posts from the same date (SQLite3-specific?)](https://github.com/TryGhost/Ghost/issues/23441)
+- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+- [Regression: email toggles](https://github.com/TryGhost/Ghost/issues/26398)
+- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
 
 ## [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed)
 
@@ -66,7 +148,6 @@ This list gets updated every day at midnight.
 - [Enrich SN12 Compute Horde — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/726)
 - [Enrich SN52 Dojo — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/725)
 - [Enrich SN29 Coldint — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/724)
-- [Enrich SN74 Gittensor — add SSE stream](https://github.com/JSONbored/metagraphed/issues/723)
 - [Enrich SN62 Ridges — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/722)
 - [Enrich SN16 BitAds — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/720)
 - [Enrich SN10 Swap — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/719)
@@ -80,14 +161,12 @@ This list gets updated every day at midnight.
 - [Enrich SN113 TensorUSD — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/710)
 - [Enrich SN100 Plaτform — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/709)
 - [Enrich SN88 Investing — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/708)
-- [Enrich SN33 ReadyAI — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/707)
 - [Enrich SN2 DSperse — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/706)
 - [Enrich SN117 BrainPlay — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/704)
 - [Enrich SN85 Vidaio — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/703)
 - [Enrich SN39 Basilica — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/702)
 - [Enrich SN1 Apex — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/701)
 - [Enrich SN98 ForeverMoney — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/700)
-- [Enrich SN15 ORO — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/699)
 - [Enrich SN121 sundae\_bar — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/697)
 - [Enrich SN114 SOMA — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/696)
 - [Enrich SN103 Djinn — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/695)
@@ -95,7 +174,6 @@ This list gets updated every day at midnight.
 - [Enrich SN21 AdTAO — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/693)
 - [Enrich SN45 Talisman AI — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/692)
 - [Enrich SN25 Mainframe — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/691)
-- [Enrich SN19 blockmachine — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/690)
 - [Enrich SN9 iota — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/689)
 - [Enrich SN63 Enigma — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/687)
 - [Enrich SN48 Quantum Compute — add public API endpoint + OpenAPI/Swagger spec](https://github.com/JSONbored/metagraphed/issues/686)
@@ -153,152 +231,14 @@ This list gets updated every day at midnight.
 - [Enrich SN123 MANTIS — add official website](https://github.com/JSONbored/metagraphed/issues/456)
 - [Enrich SN115 HashiChain — add official website](https://github.com/JSONbored/metagraphed/issues/454)
 - [Enrich SN81 Grail — add official website](https://github.com/JSONbored/metagraphed/issues/453)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-
-- [`--resource-type` is used by more than just `ls`](https://github.com/dbt-labs/docs.getdbt.com/issues/8908)
-
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-
-- [Incorrect links from Top sources in analytics](https://github.com/TryGhost/Ghost/issues/24607)
-- [The loader image in the dashboard is not transparent](https://github.com/TryGhost/Ghost/issues/25772)
-- [Dark mode / light mode transitions are incorrect for most analytics sections/buttons](https://github.com/TryGhost/Ghost/issues/24608)
-- [Bookmark for YouTube links not populated with video metadata](https://github.com/TryGhost/Ghost/issues/24741)
-- [Creating a tag named "new" is subsequently not editable](https://github.com/TryGhost/Ghost/issues/26095)
-- [{{contrast_text_color}} helper returns incorrect text color](https://github.com/TryGhost/Ghost/issues/27797)
-- [a11y: `kg-toggle-card` not usable properly with a screenreader](https://github.com/TryGhost/Ghost/issues/27462)
-- [Storage adapters (and possibly other types) placed in the content folder are not detected.](https://github.com/TryGhost/Ghost/issues/22883)
-- [Cannot get posts from the same date (SQLite3-specific?)](https://github.com/TryGhost/Ghost/issues/23441)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
-- [Regression: email toggles](https://github.com/TryGhost/Ghost/issues/26398)
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- ["Rename Folder" option unavailable in collapsed toolbar layout](https://github.com/zen-browser/desktop/issues/14082)
-- [Missing translations](https://github.com/zen-browser/desktop/issues/10749)
-- [Closing a Split Tab in one Zen window causes other windows' tabs to change to the remaining tab](https://github.com/zen-browser/desktop/issues/13761)
-- [Full screen mode not working in YouTube while using Glance mode](https://github.com/zen-browser/desktop/issues/11766)
-
-## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
-
-- [[Feature] Add `Aurora` label theme](https://github.com/younisdev/dyvix-ui/issues/252)
-- [[Feature] Add `Neon` label theme](https://github.com/younisdev/dyvix-ui/issues/245)
-
-## [lapic-ufjf/searchat-behavior-ui](https://github.com/lapic-ufjf/searchat-behavior-ui)
-
-- [Two clicks needed to activate an experiment](https://github.com/lapic-ufjf/searchat-behavior-ui/issues/35)
-- [Labels with mixed language](https://github.com/lapic-ufjf/searchat-behavior-ui/issues/29)
-- [Create a `short answer` field for questionnaires](https://github.com/lapic-ufjf/searchat-behavior-ui/issues/36)
-
-## [MistWeatherMedia/weatherscan-v2](https://github.com/MistWeatherMedia/weatherscan-v2)
-
-- [[BUG] Avoid BUOY observation stations](https://github.com/MistWeatherMedia/weatherscan-v2/issues/8)
-- [[BUG] Travel Destination, Extra Cities, Nearby Cities and Regional Map locations are using non-existent locationID instead of geocode](https://github.com/MistWeatherMedia/weatherscan-v2/issues/7)
-
-## [taraxvoid/queeromaha](https://github.com/taraxvoid/queeromaha)
-
-- [add singing events](https://github.com/taraxvoid/queeromaha/issues/12)
-- [add batch of makers](https://github.com/taraxvoid/queeromaha/issues/9)
-- [Add amplify arts meta page for opportunities](https://github.com/taraxvoid/queeromaha/issues/46)
-
-## [NeoLabs-Systems/NeoAgent](https://github.com/NeoLabs-Systems/NeoAgent)
-
-- [Add unit tests for messaging output formatting adapters](https://github.com/NeoLabs-Systems/NeoAgent/issues/16)
-- [Document the GitHub official integration](https://github.com/NeoLabs-Systems/NeoAgent/issues/13)
-- [Replace the Flutter boilerplate README with NeoAgent client development docs](https://github.com/NeoLabs-Systems/NeoAgent/issues/15)
+- [Enrich SN38 colosseum — add official website](https://github.com/JSONbored/metagraphed/issues/449)
+- [Enrich SN89 InfiniteHash — add official website](https://github.com/JSONbored/metagraphed/issues/447)
+- [Enrich SN76 Byzantium — add source repository](https://github.com/JSONbored/metagraphed/issues/446)
+- [Enrich SN30 Endure Network — add source repository](https://github.com/JSONbored/metagraphed/issues/445)
 
 ## [HarperFast/harper](https://github.com/HarperFast/harper)
 
 - [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
 - [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
 - [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-
-## [danielersen/Dashboard](https://github.com/danielersen/Dashboard)
-
-- [Workflow](https://github.com/danielersen/Dashboard/issues/41)
-- [Security](https://github.com/danielersen/Dashboard/issues/40)
-- [API structure](https://github.com/danielersen/Dashboard/issues/16)
-- [Create services](https://github.com/danielersen/Dashboard/issues/17)
-- [Site design](https://github.com/danielersen/Dashboard/issues/15)
-
-## [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-
-- [🐞 Bug: 'Getting Started' dropdown does not close when clicked again](https://github.com/CircuitVerse/CircuitVerse/issues/7332)
-- [Migrate Pagination To View Component](https://github.com/CircuitVerse/CircuitVerse/issues/5827)
-- [Migrate Trumbowyg Text Editor to ViewComponent](https://github.com/CircuitVerse/CircuitVerse/issues/5785)
-- [Feature - Migrate Team Section Card to View Component](https://github.com/CircuitVerse/CircuitVerse/issues/5801)
-- [🐞 Bug : Image upload in simulator fails due to Imgur API error](https://github.com/CircuitVerse/CircuitVerse/issues/7342)
-- [Google OAuth: email-only lookup in from_omniauth creates duplicate accounts after Gmail rename](https://github.com/CircuitVerse/CircuitVerse/issues/7262)
-
-## [silexlabs/Silex](https://github.com/silexlabs/Silex)
-
-- [UI: "filter active CSS" button is hard to discover (too small, needs hover)](https://github.com/silexlabs/Silex/issues/1717)
-- [Silex canary beta version (new UI) : purple elements = disturbing](https://github.com/silexlabs/Silex/issues/1711)
-
-## [slayerlabs/slayer](https://github.com/slayerlabs/slayer)
-
-- [Dodaj loader MCQ dla nowego publicznego zbioru PL](https://github.com/slayerlabs/slayer/issues/3)
-- [Odpal benchmark lokalnie i zgłoś wynik](https://github.com/slayerlabs/slayer/issues/2)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
-- [Cover Block: Allow Video backgrounds to be 'Fixed'](https://github.com/WordPress/gutenberg/issues/52585)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [Include workflow run URL when commenting on PRs](https://github.com/WordPress/gutenberg/issues/76575)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-
-## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
-
-- [FAQ database: Add content: How do I make revisions to my submitted TDM Plan that were requested by LADOT?](https://github.com/hackforla/tdm-calculator/issues/3023)
-- [Product: Check on review-fees.pdf document status](https://github.com/hackforla/tdm-calculator/issues/3174)
-
-## [badges/shields](https://github.com/badges/shields)
-
-- [Badge request: GitHub Discussions](https://github.com/badges/shields/issues/6047)
-- [Provide high resolution favicon](https://github.com/badges/shields/issues/1497)
-- [Mozilla Thunderbird  add-ons (ATN)](https://github.com/badges/shields/issues/6994)
-- [New capture of branch and lines coverage in Azure](https://github.com/badges/shields/issues/8750)
-- [Add docstrings for core](https://github.com/badges/shields/issues/6038)
-- [Azure DevOps - Build Badge - PAT Token not used on private projects](https://github.com/badges/shields/issues/10162)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION] Shopify refund and cancellation](https://github.com/PipedreamHQ/pipedream/issues/21169)
-- [[ACTION] Add MCP Tools to Superdocu](https://github.com/PipedreamHQ/pipedream/issues/20892)
-- [[ACTION] Everstox create fulfillment update request](https://github.com/PipedreamHQ/pipedream/issues/21167)
-- [[COMPONENTS] Update Nutshell to use lastest API](https://github.com/PipedreamHQ/pipedream/issues/21165)
-- [[ACTION] Need more tools for the ServiceNow MCP](https://github.com/PipedreamHQ/pipedream/issues/21144)
-- [[Get Rows]](https://github.com/PipedreamHQ/pipedream/issues/20089)
-- [Pull a whatsapp conversation](https://github.com/PipedreamHQ/pipedream/issues/20799)
-- [[TRIGGER] Facebook Pages webhooks](https://github.com/PipedreamHQ/pipedream/issues/21070)
-- [NEED A NEW TOOL FOR FINNHUB VIA PIPEDREAM[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21071)
-- [Create update and get Zoom.com docs](https://github.com/PipedreamHQ/pipedream/issues/20975)
-- [vapi: add cursor-based pagination to phoneNumberId, assistantId, and squadId propDefinitions](https://github.com/PipedreamHQ/pipedream/issues/21085)
-- [[ACTION] Set Record / Put Record for Clickup to NinjaOne Email Reply, Comment](https://github.com/PipedreamHQ/pipedream/issues/19818)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/19997)
-- [[ACTION] Get DPD parcel status](https://github.com/PipedreamHQ/pipedream/issues/20027)
-- [[ACTION]STP and Payment Summary Lodgement](https://github.com/PipedreamHQ/pipedream/issues/20067)
-- [[ACTION] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537)
-- [[ACTION] [App] Ringba — request for additional pre-built components](https://github.com/PipedreamHQ/pipedream/issues/20743)
-- [Sms8 - SMS GATEWAY: OTP & webhook](https://github.com/PipedreamHQ/pipedream/issues/20977)
-- [Returnista - New Trigger / Event Source (Webhooks: Return Order & Tracking Updates)](https://github.com/PipedreamHQ/pipedream/issues/21035)
-- [Meta Ads](https://github.com/PipedreamHQ/pipedream/issues/21039)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/20069)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/20497)
-- [Tools for nexudus mcp](https://github.com/PipedreamHQ/pipedream/issues/20623)
-- [[ACTION] HubSpot Meeting Scheduler APIs](https://github.com/PipedreamHQ/pipedream/issues/20789)
-- [[ACTION]Add admin actions to retrieve Zoom meeting summaries (single, multiple, and user-specific)](https://github.com/PipedreamHQ/pipedream/issues/20063)
-- [[ACTION] teamleader update ticket](https://github.com/PipedreamHQ/pipedream/issues/20357)
-- [[ACTION] WorkFlowy new actions](https://github.com/PipedreamHQ/pipedream/issues/20230)
-- [ACTION Returnista](https://github.com/PipedreamHQ/pipedream/issues/21034)
-- [[ACTION] Polar.sh](https://github.com/PipedreamHQ/pipedream/issues/17977)
-- [Facebook Graph API - Messenger Send Message and List Conversations](https://github.com/PipedreamHQ/pipedream/issues/20806)
-- [[ACTIONS] Trolley - Add core actions for recipient and payout workflows](https://github.com/PipedreamHQ/pipedream/issues/20750)
 
