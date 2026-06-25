@@ -10,6 +10,31 @@ const TOKEN = process.env.API_KEY;
 const MAX_ELAPSED_TIME = 2 * 60 * 1000;
 const MAX_ISSUES_COUNT = 200;
 const WAIT_TIME = 1000;
+const EXCLUDED_REPOSITORIES_FILE = './excluded-repositories.json';
+
+const getExcludedRepositories = () => {
+  if (!fs.existsSync(EXCLUDED_REPOSITORIES_FILE)) {
+    return new Set();
+  }
+
+  try {
+    const content = fs.readFileSync(EXCLUDED_REPOSITORIES_FILE, 'utf8');
+    const repositories = JSON.parse(content);
+
+    if (!Array.isArray(repositories)) {
+      throw new Error('Expected an array of repository names');
+    }
+
+    return new Set(
+      repositories
+        .filter((repository) => typeof repository === 'string')
+        .map((repository) => repository.toLowerCase())
+    );
+  } catch (error) {
+    console.error(`Failed to read ${EXCLUDED_REPOSITORIES_FILE}: ${error.message}`);
+    return new Set();
+  }
+};
 
 /**
  * Build a broader candidate set of repositories across multiple languages and sorts.
@@ -20,6 +45,7 @@ const getCandidateRepos = async () => {
   const sorts = ['updated', 'stars'];
   const per_page = 50; // be gentle with rate limits
   const unique = new Map();
+  const excludedRepositories = getExcludedRepositories();
 
   for (const lang of languages) {
     for (const sort of sorts) {
@@ -37,6 +63,10 @@ const getCandidateRepos = async () => {
           });
           const items = response.data.items || [];
           for (const repo of items) {
+            if (excludedRepositories.has(repo.full_name.toLowerCase())) {
+              continue;
+            }
+
             console.log(repo.full_name);
             if (!unique.has(repo.full_name)) {
               unique.set(repo.full_name, repo);
