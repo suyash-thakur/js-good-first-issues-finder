@@ -1,23 +1,41 @@
-Contributing Guidelines:
+## Contributing Guidelines
 
-Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels.
+Thank you for your interest in contributing to this project!  
+We welcome contributions from developers of all experience levels.
 
-Before you start contributing, please take a moment to review these guidelines:
+Before you start contributing, please review the guidelines below.
 
-- Familiarize yourself with the project by reviewing the README.md file and the codebase.
+---
 
-- Create an issue describing your proposed contribution. This will allow other contributors to provide feedback and discuss the proposed changes. You can also use the issue tracker to report bugs, suggest new features or improvements, or ask for clarification.
+## Steps to Contribute
 
-- Fork the repository and make your changes in a new branch.
+- Read the **README.md** file to understand the project and explore the codebase.
 
-- Before submitting a pull request, make sure that your changes align with the project's goals and vision, and that they follow the code of conduct and contributing guidelines.
+- Create an **issue** describing your proposed contribution.  
+  This allows other contributors to provide feedback and discuss your idea.  
+  You can also use issues to:
+  - Report bugs
+  - Suggest new features or improvements
+  - Ask for clarification
 
-- Make sure that your code is well-formatted, commented, and documented. Please adhere to the project's coding style, and include tests for any new functionality.
+- **Fork** the repository and create a **new branch** for your changes.
 
-- Submit a pull request and provide a clear and concise description of the changes you have made. Please also include a reference to the issue you are addressing, if applicable.
+- Ensure your changes align with the project’s goals and follow the  
+  **Code of Conduct** and **Contributing Guidelines**.
 
-- Once your pull request is submitted, the project maintainers will review your changes and provide feedback. Please be patient, as it may take some time for your pull request to be reviewed.
+- Make sure your code is:
+  - Well-formatted
+  - Properly commented
+  - Clearly documented  
+    Please follow the project’s coding style and include tests for any new functionality.
 
-- If your pull request is accepted, congratulations! Your contribution will be merged into the main branch.
+- Submit a **Pull Request (PR)** with a clear and concise description of your changes.  
+  Reference the related issue number if applicable.
 
-Thank you for your contributions to our project! We appreciate your help in making it better.
+- Project maintainers will review your PR and may request changes.  
+  Please be patient during the review process.
+
+- Once your PR is approved and merged, congratulations 🎉  
+  Your contribution will become part of the project.
+
+Thank you for helping improve this project! We truly appreciate your support.
