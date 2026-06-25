@@ -1,8 +1,64 @@
-# Good First Issues
+# 🧩 Good First Issues Finder
 
-This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!
+A curated list of **JavaScript repositories** that contain **good first issues** for developers who want to start contributing to open-source projects.
 
-This list gets updated every day at midnight.
+📌 This list is automatically updated **every day at midnight** to ensure fresh and relevant beginner tasks.
+
+---
+
+## 📑 Table of Contents
+- [About](#about)
+- [How It Works](#how-it-works)
+- [How to Contribute](#how-to-contribute)
+- [Good First Issues (Auto-Updated)](#good-first-issues-auto-updated)
+- [License](#license)
+
+---
+
+## 📘 About
+
+This project helps beginner developers discover curated open-source issues that are ideal for first-time contributors.
+
+It gathers issues marked as:
+
+- `good first issue`
+- `help wanted`
+- `beginner friendly`
+
+Perfect for anyone who wants to contribute but doesn’t know where to start.
+
+---
+
+## ⚙️ How It Works
+
+- A script fetches "good first" issues from selected GitHub repositories.
+- The results are stored in `issues.json`.
+- The web UI loads `issues.json` and displays the items in a simple list.
+- A GitHub Action / workflow triggers this update daily at **00:00 UTC**.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome. You can help by:
+
+- **Improving documentation** (typos, structure, examples)
+- **Suggesting or adding repositories** with beginner-friendly issues
+- **Improving UI/UX** (styles, accessibility, responsiveness)
+- **Enhancing scripts** (better fetching, filters, performance)
+- **Reporting bugs** in the website or the update workflow
+
+Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting changes.
+
+---
+
+## 🟦 Good First Issues (Auto-Updated)
+
+> ⚠️ This section is generated automatically every midnight by the project's workflow.  
+> Please **do not edit** the auto-generated list manually; edit only the parts above this line.
+
+---
+
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
