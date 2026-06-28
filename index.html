@@ -8,6 +8,19 @@
 <h1 id="good-first-issues">Good First Issues</h1>
 <p>This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!</p>
 <p>This list gets updated every day at midnight.</p>
+<h2 id="nextcloud-collectives"><a href="https://github.com/nextcloud/collectives">nextcloud/collectives</a></h2>
+<ul>
+<li><a href="https://github.com/nextcloud/collectives/issues/2597">Show absolute timestamp on hovering relative date display (e.g. &quot;last edited&quot;)</a></li>
+<li><a href="https://github.com/nextcloud/collectives/issues/2576">bottom search bar: special character encoding problem</a></li>
+</ul>
+<h2 id="open-telemetry-opentelemetry-io"><a href="https://github.com/open-telemetry/opentelemetry.io">open-telemetry/opentelemetry.io</a></h2>
+<ul>
+<li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/9427">[pt] Localize content/en/docs/collector pages</a></li>
+<li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/7545">[pt] Localize content/en/docs/platforms pages</a></li>
+<li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/8385">[pt] Localize content/en/docs/languages/js pages</a></li>
+<li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/7535">[es] Spanish folder localization blogs</a></li>
+<li><a href="https://github.com/open-telemetry/opentelemetry.io/issues/5229">[es] Spanish folder localization docs/languages</a></li>
+</ul>
 <h2 id="nextcloud-spreed"><a href="https://github.com/nextcloud/spreed">nextcloud/spreed</a></h2>
 <ul>
 <li><a href="https://github.com/nextcloud/spreed/issues/3518">Go back to autopilot mode if re-clicking selected participant</a></li>
@@ -28,18 +41,12 @@
 </ul>
 <h2 id="jsonbored-metagraphed"><a href="https://github.com/JSONbored/metagraphed">JSONbored/metagraphed</a></h2>
 <ul>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2098">Python SDK test suite (37 cases) is never run in CI or before PyPI publish</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/2094">Stop recompiling the full OpenAPI components block per route in validate-openapi-examples + validate-api</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/2095">build-artifacts: replace per-row Array.find joins (source-health + candidate subnet_name) with Maps</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2097">validate.mjs re-filters all surfaces per subnet instead of grouping once (asymmetric with adjacent endpointsByNetuid)</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2096">build-artifacts: eliminate redundant re-filter/re-group of verification, endpoint, and candidate arrays</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2095">build-artifacts: replace per-row Array.find joins (source-health + candidate subnet_name) with Maps</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2094">Stop recompiling the full OpenAPI components block per route in validate-openapi-examples + validate-api</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2093">Memoize compileComponentValidator in validate-schemas.mjs (1,751 redundant ajv.compile() calls -&gt; 61)</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2092">Parallelize the four R2-staged loaders in the */3 fast-load cron (currently drained serially)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2091">Homepage + api-catalog discovery responses lack ETag/304 (and api-catalog re-serializes per request)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2090">/health readiness probe runs an unconditional non-memoized D1 query per request, contradicting its no-I/O docstring</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2089">MCP and REST disagree on tie ordering for non-unique sort fields (sortSubnets has a netuid tie-break sortRows lacks)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2088">Cap semantic_search query length in shared semanticSearch (parity with ask&#39;s ASK_MAX_QUESTION_LENGTH)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2087">RPC proxy upstream fetch omits redirect:&#39;manual&#39; — a 3xx from a trusted upstream is auto-followed, re-POSTing the caller body off-allowlist</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2086">handleExtrinsics numeric feed filters silently coerce non-numeric values to 0 instead of rejecting with 400</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2085">REST subnets collection can&#39;t sort/filter by integration_readiness (MCP list_subnets can)</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2084">GraphQL POST returns cacheable success directives (max-age=60, SWR=300) even when result.errors is populated</a></li>
@@ -53,7 +60,6 @@
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2074">nodeWebSocketConnector hangs on premature WSS close and leaks the socket on error</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2073">REST subnet list enum/string filters are case-sensitive while MCP list_subnets lowercases — same value, different outcome</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2072">Sustained-down RPC breaker ignores subtensor-wss, leaving degraded WSS endpoints pool_eligible forever</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2070">handleAccountBalance loses u128 rao precision via Number(BigInt(...)) before scaling</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2069">handleBlockEvents trusts numeric block refs without a blocks-tier existence check (mirror of #1953)</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2066">test: close branch-coverage gaps in hot runtime files</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2063">fix(api): harden entity ref/id parsing — malformed refs resolve to wrong-but-valid results</a></li>
@@ -128,6 +134,30 @@
 <li><a href="https://github.com/JSONbored/metagraphed/issues/720">Enrich SN16 BitAds — add public API endpoint + OpenAPI/Swagger spec</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/719">Enrich SN10 Swap — add public API endpoint + OpenAPI/Swagger spec</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/724">Enrich SN29 Coldint — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/725">Enrich SN52 Dojo — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/726">Enrich SN12 Compute Horde — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/728">Enrich SN84 ansuz — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/730">Enrich SN57 Sparket — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/731">Enrich SN92 Tensorclaw — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/733">Enrich SN122 Bitrecs — add public API endpoint + OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/662">Enrich SN44 Score — add public API endpoint + OpenAPI/Swagger spec</a></li>
+</ul>
+<h2 id="projectevergreen-greenwood"><a href="https://github.com/ProjectEvergreen/greenwood">ProjectEvergreen/greenwood</a></h2>
+<ul>
+<li><a href="https://github.com/ProjectEvergreen/greenwood/issues/1427">update Greenwood to address all (as many) TypeScript no check comments</a></li>
+</ul>
+<h2 id="mohitagw15856-pm-claude-skills"><a href="https://github.com/mohitagw15856/pm-claude-skills">mohitagw15856/pm-claude-skills</a></h2>
+<ul>
+<li><a href="https://github.com/mohitagw15856/pm-claude-skills/issues/40">Add an export/install target for another tool</a></li>
+<li><a href="https://github.com/mohitagw15856/pm-claude-skills/issues/37">Add missing Anti-Patterns sections to 3 skills</a></li>
+<li><a href="https://github.com/mohitagw15856/pm-claude-skills/issues/38">Add a new skill from the wishlist</a></li>
+</ul>
+<h2 id="finessestudiolab-trivela"><a href="https://github.com/FinesseStudioLab/Trivela">FinesseStudioLab/Trivela</a></h2>
+<ul>
+<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/470">Frontend: Add dark mode persistence and system preference detection</a></li>
+<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/463">Backend: Add campaign metrics CSV/JSON export endpoint</a></li>
+<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/484">DevOps: Add GitHub Codespaces / dev container configuration</a></li>
+<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/459">Backend: Add request ID tracing (X-Request-ID propagated through all log lines)</a></li>
 </ul>
 <h2 id="vercel-next-js"><a href="https://github.com/vercel/next.js">vercel/next.js</a></h2>
 <ul>
@@ -135,116 +165,106 @@
 <li><a href="https://github.com/vercel/next.js/issues/10900">getInitialProps is not running when Router.replace&#39;s &quot;href&quot; and &quot;as&quot; contains hash and query params inside &quot;href&quot; change.</a></li>
 <li><a href="https://github.com/vercel/next.js/issues/53473"><code>@next/next/no-html-link-for-pages</code> rule does not work with <code>pageExtensions</code></a></li>
 </ul>
-<h2 id="juli132-dimidium_bellerophon"><a href="https://github.com/Juli132/Dimidium_Bellerophon">Juli132/Dimidium_Bellerophon</a></h2>
+<h2 id="reactjs-react-dev"><a href="https://github.com/reactjs/react.dev">reactjs/react.dev</a></h2>
 <ul>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/20">Help us theme the Bellerophon IDE!</a></li>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/19">Scope dark.css and improve visual consistency</a></li>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/16">Backend: Switch-based visitor selection for firmware targets</a></li>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/11">Externalize Server Port Configuration</a></li>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/1">Our first baby issues</a></li>
-<li><a href="https://github.com/Juli132/Dimidium_Bellerophon/issues/8">Expand CFG Generator Board Dictionary with Modern Mainboards- Two boards</a></li>
+<li><a href="https://github.com/reactjs/react.dev/issues/28">Improve/create documentation for ReactTestUtils.renderIntoDocument()</a></li>
+<li><a href="https://github.com/reactjs/react.dev/issues/6713">Capitalize React concepts in docs</a></li>
+<li><a href="https://github.com/reactjs/react.dev/issues/80">Document how React treats different attributes</a></li>
+<li><a href="https://github.com/reactjs/react.dev/issues/787">The browser &quot;back&quot; button doesn&#39;t work</a></li>
 </ul>
-<h2 id="jellyfin-jellyfin-web"><a href="https://github.com/jellyfin/jellyfin-web">jellyfin/jellyfin-web</a></h2>
+<h2 id="sugarlabs-musicblocks"><a href="https://github.com/sugarlabs/musicblocks">sugarlabs/musicblocks</a></h2>
 <ul>
-<li><a href="https://github.com/jellyfin/jellyfin-web/issues/6384">Trying to create/update users with some special characters such as +, / or &amp; generate a non-descriptive error or infinite load</a></li>
+<li><a href="https://github.com/sugarlabs/musicblocks/issues/7631">[Feature] Spotlight search.</a></li>
 </ul>
-<h2 id="younisdev-dyvix-ui"><a href="https://github.com/younisdev/dyvix-ui">younisdev/dyvix-ui</a></h2>
+<h2 id="stdlib-js-stdlib"><a href="https://github.com/stdlib-js/stdlib">stdlib-js/stdlib</a></h2>
 <ul>
-<li><a href="https://github.com/younisdev/dyvix-ui/issues/286">[Feature] Add <code>Blade</code> table theme</a></li>
-<li><a href="https://github.com/younisdev/dyvix-ui/issues/280">[Feature] Add <code>Aurora</code> table theme</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/13173">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/13157">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/13114">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/13096">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/13070">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/12959">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/12926">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/11248">Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/12411">Fix JavaScript lint errors</a></li>
+<li><a href="https://github.com/stdlib-js/stdlib/issues/12359">Fix JavaScript lint errors</a></li>
 </ul>
-<h2 id="taraxvoid-queeromaha"><a href="https://github.com/taraxvoid/queeromaha">taraxvoid/queeromaha</a></h2>
+<h2 id="stellarkit-lab-devtools-stellarkit-api"><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api">stellarkit-lab-devtools/stellarkit-api</a></h2>
 <ul>
-<li><a href="https://github.com/taraxvoid/queeromaha/issues/12">add singing events</a></li>
-<li><a href="https://github.com/taraxvoid/queeromaha/issues/9">add batch of makers</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/351">Documentation &amp; Examples | Add a docs/getting-started.md quickstart guide</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/218">Ledger Sequence to Approximate Date Converter</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/260">Add WebSocket connection example to README</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/259">Add REQUIRE_API_KEY, API_KEYS, and CACHE_TTL_MS to the README</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/216">Transaction Hash Format Validator Endpoint</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/219">Network Passphrase Resolver Endpoint</a></li>
+<li><a href="https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/214">Request Query Parameter Type Coercion Middleware</a></li>
 </ul>
-<h2 id="finessestudiolab-trivela"><a href="https://github.com/FinesseStudioLab/Trivela">FinesseStudioLab/Trivela</a></h2>
+<h2 id="badges-shields"><a href="https://github.com/badges/shields">badges/shields</a></h2>
 <ul>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/477">Frontend: Add QR code generation for campaign share links</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/463">Backend: Add campaign metrics CSV/JSON export endpoint</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/484">DevOps: Add GitHub Codespaces / dev container configuration</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/483">Frontend: Add print and PDF export for campaign details</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/479">Frontend: Add connection indicator and latency display for Soroban RPC</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/475">Frontend: Add campaign urgency indicators (ending soon, filling fast, just launched)</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/472">Frontend: Add transaction pending state with blockchain explorer deep link</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/471">Frontend: Add XLM wallet balance display in header</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/470">Frontend: Add dark mode persistence and system preference detection</a></li>
-<li><a href="https://github.com/FinesseStudioLab/Trivela/issues/459">Backend: Add request ID tracing (X-Request-ID propagated through all log lines)</a></li>
+<li><a href="https://github.com/badges/shields/issues/6994">Mozilla Thunderbird  add-ons (ATN)</a></li>
+<li><a href="https://github.com/badges/shields/issues/6047">Badge request: GitHub Discussions</a></li>
+<li><a href="https://github.com/badges/shields/issues/8750">New capture of branch and lines coverage in Azure</a></li>
+<li><a href="https://github.com/badges/shields/issues/6038">Add docstrings for core</a></li>
+<li><a href="https://github.com/badges/shields/issues/10162">Azure DevOps - Build Badge - PAT Token not used on private projects</a></li>
 </ul>
-<h2 id="securebananalabs-bug-bounty"><a href="https://github.com/SecureBananaLabs/bug-bounty">SecureBananaLabs/bug-bounty</a></h2>
+<h2 id="trust-analysis-tokenized-fractional-"><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-">Trust-Analysis/Tokenized-Fractional-</a></h2>
 <ul>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1">Implement Secure Payment Gateway and Payment Service</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/743">Low Handing Fruit Automation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/80">Pixel Art Creation with high Creative Thinking</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/76">Technical Poem Generation and Content Creation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/30">Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2853">Job validation should reject inverted budget ranges</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1770">Admin routes lack role-based access control — any authenticated user can access admin endpoints</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1777">Search endpoint has no input validation or length limit on query</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1774">CORS configured with no origin restrictions — allows any domain</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1775">Refresh token endpoint ignores the provided refresh token</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1776">Job creation endpoint lacks authentication — anyone can post jobs</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1779">Patch PostCSS audit advisory from Next dependency lockfile</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1781">fix: prevent DoS on search endpoint via query length limit and input validation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1783">fix: enforce authentication on job creation endpoint</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1795">Settings page should provide actionable account controls</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1810">Settings page should provide actionable account controls</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1823">Bug: Admin role self-assignment via registration endpoint</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2755">Job detail page should render matching mock job and unknown fallback</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2757">Payment API should require authentication</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2760">Job detail route should resolve mock jobs by id</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2762">Notification creation should preserve server-owned id and read state</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2763">Freelancer profile should render matching mock profile and unknown fallback</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2768">Registration token subject should match returned user id</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2770">Registration should require fullName to match User model</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2775">@freelanceflow/db package should expose an importable workspace entrypoint</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2781">@freelanceflow/ui package entrypoint should be directly importable</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2787">@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2790">Job detail route should resolve mock jobs by id (reissue via #743)</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2822">Settings page should provide actionable account controls</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2827">Reject inverted job budget ranges in job validation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2832">fix: prevent admin role self-assignment during registration</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2833">Search endpoint has no input validation or length limit on query</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2835">Reject inverted job budget ranges in job validation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2849">Freelancer profile route should resolve mock profiles by username</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2883">Calculate the exact value of PI #2872</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/2885">Calculate the exact value of PI</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1426">fix: prevent admin role self-assignment</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/29">Implement a fully functional Admin Panel</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1737">fix: prevent admin role self-assignment</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1739">Bug: Proposal creation accepts records missing estimated duration</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1742">fix: prevent admin role self-assignment during registration</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1743">Registration token subject can drift from returned user id</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1750">Bug: Refresh endpoint mints tokens without validating a refresh token</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1755">fix(auth): prevent admin role self-assignment during registration</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1758">Bug: registerUser signs token with a different generated user id</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1760">Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1764">Bug: Missing admin role authorization check on admin metrics endpoint</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1766">Bug: user creation accepts empty payloads and client-controlled ids</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1772">Payment endpoint lacks authentication — unauthenticated payment creation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1735">Bug: Rate limiter should count malformed JSON before body parsing</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1773">User creation endpoint has no input validation</a></li>
-<li><a href="https://github.com/SecureBananaLabs/bug-bounty/issues/1771">Upload endpoint lacks authentication — unauthenticated file uploads allowed</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/95">Add block explorer link for transaction hashes</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/42">Create SECURITY.md</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/1">Add share transfer functionality between users</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/23">Add React Router for multi-page navigation</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/16">Add Docker setup for backend</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/33">Add E2E tests with Playwright or Cypress</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/84">Add PATCH endpoint for partial asset metadata updates</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/122">Split backend/index.js into modules</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/100">Add dark/light theme toggle</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/97">Add network selector (testnet / mainnet switcher)</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/96">Add wallet connection persistence</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/108">Add Husky pre-commit hooks</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/107">Add ESLint and Prettier configuration</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/117">Add LICENSE file</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/120">Add FAQ / troubleshooting guide</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/115">Add frontend unit tests with Vitest + React Testing Library</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/105">Add skeleton loading components for all async data</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/121">Split App.jsx into separate component files</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/110">Add .nvmrc and .node-version files</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/91">Add database migration system</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/79">Add property-based / fuzz testing for the contract</a></li>
+<li><a href="https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/43">Create CHANGELOG.md</a></li>
 </ul>
-<h2 id="aadorian-opencodecli"><a href="https://github.com/aadorian/opencodeCLI">aadorian/opencodeCLI</a></h2>
+<h2 id="rajmanvi17-levelify"><a href="https://github.com/rajmanvi17/Levelify">rajmanvi17/Levelify</a></h2>
 <ul>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/3">Webview panels show raw codicon syntax instead of icons</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/7">Dead activation event for non-existent help view</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/28">[Good first issue] Hide status bar items when OpenCode CLI is not installed</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/26">[Good first issue] Add Windows/Linux keyboard hints in Tips webview</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/25">[Good first issue] Add Help sidebar view for CLI reference</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/24">[Good first issue] Add command to create opencode.json starter template</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/21">[Good first issue] Add walkthrough step: Connect an MCP server</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/20">[Good first issue] Add walkthrough step: Authenticate with a provider</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/23">[Good first issue] Add editor context menu: Run selection with OpenCode</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/22">[Good first issue] Implement Overview tree with live CLI status</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/19">[Good first issue] Add explorer context menu for individual files</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/18">[Good first issue] Add descriptions to Show Actions and CLI Help quick picks</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/17">Roadmap: Good first issues to extend OpenCode Walkthrough</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/2">Documented keyboard shortcuts are not registered in package.json</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/15">MCP list command inconsistent between tree provider and commands</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/11">Sessions empty-state tree item has broken click handler</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/5">Settings key opcode.enableExa uses inconsistent prefix</a></li>
+<li><a href="https://github.com/rajmanvi17/Levelify/issues/3">Improve installation guide</a></li>
+<li><a href="https://github.com/rajmanvi17/Levelify/issues/1">Improve README formatting</a></li>
+</ul>
+<h2 id="raullavita-ssc"><a href="https://github.com/raullavita/SSC">raullavita/SSC</a></h2>
+<ul>
+<li><a href="https://github.com/raullavita/SSC/issues/4">[Help]: Review WebRTC signaling-error path (local dev only)</a></li>
+<li><a href="https://github.com/raullavita/SSC/issues/2">[Help]: Document Windows desktop build from a clean git clone</a></li>
+</ul>
+<h2 id="zen-browser-desktop"><a href="https://github.com/zen-browser/desktop">zen-browser/desktop</a></h2>
+<ul>
+<li><a href="https://github.com/zen-browser/desktop/issues/12948">AI controls not shown in settings by default but only when searching for them</a></li>
+<li><a href="https://github.com/zen-browser/desktop/issues/11595">The toolbar breaks when changing the browser layout</a></li>
+<li><a href="https://github.com/zen-browser/desktop/issues/14082">&quot;Rename Folder&quot; option unavailable in collapsed toolbar layout</a></li>
+<li><a href="https://github.com/zen-browser/desktop/issues/10749">Missing translations</a></li>
+</ul>
+<h2 id="tryghost-ghost"><a href="https://github.com/TryGhost/Ghost">TryGhost/Ghost</a></h2>
+<ul>
+<li><a href="https://github.com/TryGhost/Ghost/issues/22883">Storage adapters (and possibly other types) placed in the content folder are not detected.</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/23441">Cannot get posts from the same date (SQLite3-specific?)</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26398">Regression: email toggles</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/23361">🌐 i18n mega-issue</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/28359">Input box for editing feature image caption link is inconsistently small</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26095">Creating a tag named &quot;new&quot; is subsequently not editable</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26607">Editor opening staff settings/profile triggers forbidden API calls and unrelated permission toast</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24607">Incorrect links from Top sources in analytics</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/25772">The loader image in the dashboard is not transparent</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24608">Dark mode / light mode transitions are incorrect for most analytics sections/buttons</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24741">Bookmark for YouTube links not populated with video metadata</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/27797">{{contrast_text_color}} helper returns incorrect text color</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/27462">a11y: <code>kg-toggle-card</code> not usable properly with a screenreader</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24600">Share profile image generation is broken for some avatars and cover images</a></li>
 </ul>
 </body>
 </html>
