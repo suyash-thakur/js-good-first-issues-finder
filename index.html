@@ -8,24 +8,14 @@
 <h1 id="good-first-issues">Good First Issues</h1>
 <p>This is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!</p>
 <p>This list gets updated every day at midnight.</p>
-<h2 id="nextcloud-collectives"><a href="https://github.com/nextcloud/collectives">nextcloud/collectives</a></h2>
+<h2 id="sorostream-sorostream-app"><a href="https://github.com/SoroStream/sorostream-app">SoroStream/sorostream-app</a></h2>
 <ul>
-<li><a href="https://github.com/nextcloud/collectives/issues/2597">Show absolute timestamp on hovering relative date display (e.g. &quot;last edited&quot;)</a></li>
-<li><a href="https://github.com/nextcloud/collectives/issues/2576">bottom search bar: special character encoding problem</a></li>
-</ul>
-<h2 id="raullavita-ssc"><a href="https://github.com/raullavita/SSC">raullavita/SSC</a></h2>
-<ul>
-<li><a href="https://github.com/raullavita/SSC/issues/41">[Help]: Document what survives 24h TTL vs panic wipe</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/40">[Help]: Auto-detect OS language on first install (Android + desktop)</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/38">[Help]: Fix duplicate translation key in i18n.js</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/39">[Help]: Document Dependabot and CodeQL triage for contributors</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/37">[Help]: Remove unused Python imports in backend routers (CodeQL)</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/36">[Help]: Add origin check to service worker postMessage handler</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/4">[Help]: Review WebRTC signaling-error path (local dev only)</a></li>
-<li><a href="https://github.com/raullavita/SSC/issues/2">[Help]: Document Windows desktop build from a clean git clone</a></li>
+<li><a href="https://github.com/SoroStream/sorostream-app/issues/171">Add unit tests for the StreamHistory component</a></li>
+<li><a href="https://github.com/SoroStream/sorostream-app/issues/172">Add accessibility labels to all icon-only buttons</a></li>
 </ul>
 <h2 id="nextcloud-spreed"><a href="https://github.com/nextcloud/spreed">nextcloud/spreed</a></h2>
 <ul>
+<li><a href="https://github.com/nextcloud/spreed/issues/13139">Delete messages completely instead of showing &quot;Message deleted by you&quot; in &quot;Note to self&quot;</a></li>
 <li><a href="https://github.com/nextcloud/spreed/issues/3518">Go back to autopilot mode if re-clicking selected participant</a></li>
 <li><a href="https://github.com/nextcloud/spreed/issues/14547">Imprint and privacy links in public talk conversations</a></li>
 <li><a href="https://github.com/nextcloud/spreed/issues/14570">Migrate addParticipantToRoom to InvitationList</a></li>
@@ -44,26 +34,7 @@
 </ul>
 <h2 id="jsonbored-metagraphed"><a href="https://github.com/JSONbored/metagraphed">JSONbored/metagraphed</a></h2>
 <ul>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2094">Stop recompiling the full OpenAPI components block per route in validate-openapi-examples + validate-api</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2095">build-artifacts: replace per-row Array.find joins (source-health + candidate subnet_name) with Maps</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2097">validate.mjs re-filters all surfaces per subnet instead of grouping once (asymmetric with adjacent endpointsByNetuid)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2096">build-artifacts: eliminate redundant re-filter/re-group of verification, endpoint, and candidate arrays</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2093">Memoize compileComponentValidator in validate-schemas.mjs (1,751 redundant ajv.compile() calls -&gt; 61)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2092">Parallelize the four R2-staged loaders in the */3 fast-load cron (currently drained serially)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2086">handleExtrinsics numeric feed filters silently coerce non-numeric values to 0 instead of rejecting with 400</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2085">REST subnets collection can&#39;t sort/filter by integration_readiness (MCP list_subnets can)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2083">Add covering index for neuron_daily per-subnet history aggregation (avoid per-row heap fetch in handleSubnetHistory)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2080">Add composite extrinsics(signer, block_number, extrinsic_index) index to drop the per-account filesort and cover the summary aggregates</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2079">Add (hotkey, day) index on account_events_daily to remove temp-sort on the default /accounts/{ss58}/history</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2077">x-metagraph-stale-contract header is emitted but missing from Access-Control-Expose-Headers (unreadable cross-origin)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2076">handleHealthTrends swallows D1 errors with a bare catch, bypassing the [d1All] dark-serve log contract</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/2075">handleAccountBalance finney RPC fetch has no AbortSignal timeout (unbounded on every cache miss)</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2074">nodeWebSocketConnector hangs on premature WSS close and leaks the socket on error</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2073">REST subnet list enum/string filters are case-sensitive while MCP list_subnets lowercases — same value, different outcome</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2072">Sustained-down RPC breaker ignores subtensor-wss, leaving degraded WSS endpoints pool_eligible forever</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2063">fix(api): harden entity ref/id parsing — malformed refs resolve to wrong-but-valid results</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2062">perf(probe): evaluate parallelizing sequential subtensor probe RPC calls</a></li>
-<li><a href="https://github.com/JSONbored/metagraphed/issues/2060">perf(mcp): parallelize JSON-RPC batch dispatch</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1276">Enrich SN14 Cacheon — add OpenAPI/Swagger spec + public data artifact</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1281">Enrich SN85 Vidaio — add public API endpoint + public data artifact</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1282">Enrich SN33 ReadyAI — add public API endpoint + SSE stream</a></li>
@@ -144,54 +115,82 @@
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1273">Enrich SN64 Chutes — add SSE stream</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1274">Enrich SN56 Gradients — add SSE stream</a></li>
 <li><a href="https://github.com/JSONbored/metagraphed/issues/1275">Enrich SN74 Gittensor — add SSE stream</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/1279">Enrich SN58 Handshake58 — add SSE stream</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/1286">Enrich SN49 Nepher Robotics — add SSE stream</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/462">Enrich SN51 lium.io — add OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/463">Enrich SN107 Minos — add OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/464">Enrich SN59 Babelbit — add OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/465">Enrich SN23 Trishool — add OpenAPI/Swagger spec</a></li>
+<li><a href="https://github.com/JSONbored/metagraphed/issues/466">Enrich SN66 ninja — add OpenAPI/Swagger spec</a></li>
 </ul>
-<h2 id="aadorian-opencodecli"><a href="https://github.com/aadorian/opencodeCLI">aadorian/opencodeCLI</a></h2>
+<h2 id="hackforla-website"><a href="https://github.com/hackforla/website">hackforla/website</a></h2>
 <ul>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/66">[Good first issue] Add Sticky Scroll support showing active OpenCode scope in the editor</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/65">[Good first issue] Ensure OpenCode panels are hidden in Zen Mode</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/64">[Good first issue] Add OpenCode session outline to the Outline view via DocumentSymbolProvider</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/63">[Good first issue] Pin OpenCode output tabs and add custom tab labels for active sessions</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/62">[Good first issue] Highlight AI-edited lines in the editor Minimap</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/61">[Good first issue] Add OpenCode AI-edit events to the Timeline view</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/60">[Good first issue] Move OpenCode chat panel to the Secondary Side Bar by default</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/59">[Good first issue] Show OpenCode session context in the editor Breadcrumbs bar</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/58">[Good first issue] Add OpenCode sessions and agents to Quick Open (⌘P) via dynamic file provider</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/57">[Good first issue] Register all OpenCode commands in the Command Palette with consistent categories</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/3">Webview panels show raw codicon syntax instead of icons</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/7">Dead activation event for non-existent help view</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/28">[Good first issue] Hide status bar items when OpenCode CLI is not installed</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/25">[Good first issue] Add Help sidebar view for CLI reference</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/24">[Good first issue] Add command to create opencode.json starter template</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/20">[Good first issue] Add walkthrough step: Authenticate with a provider</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/23">[Good first issue] Add editor context menu: Run selection with OpenCode</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/22">[Good first issue] Implement Overview tree with live CLI status</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/19">[Good first issue] Add explorer context menu for individual files</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/17">Roadmap: Good first issues to extend OpenCode Walkthrough</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/2">Documented keyboard shortcuts are not registered in package.json</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/15">MCP list command inconsistent between tree provider and commands</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/11">Sessions empty-state tree item has broken click handler</a></li>
-<li><a href="https://github.com/aadorian/opencodeCLI/issues/5">Settings key opcode.enableExa uses inconsistent prefix</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8653">EXAMPLE: Update Project Profile: [INSERT PROJECT&#39;S NAME] (Update [INSERT VARIABLE NAME])</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8702">Update Project Profile: Civic Tech Jobs (Move Figma from Technology to Tool)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8570">Fix Name Inconsistency in food-oasis.md file</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7422">Replace <code>Github</code> with <code>GitHub</code> in assets/js/utility/api-events.js</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7421">Replace <code>Github</code> with <code>GitHub</code> in github-actions/trigger-issue/add-missing-labels-to-issues/add-labels-template.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8555">Update docker-compose.yml: Remove top-level version element</a></li>
+<li><a href="https://github.com/hackforla/website/issues/4264">Add ESlint VS Code installation instructions</a></li>
+<li><a href="https://github.com/hackforla/website/issues/5312">Epic: Create issues to add false positives to cspell.json</a></li>
+<li><a href="https://github.com/hackforla/website/issues/3528">Design System Audit: Text Elements:  Toolkit Page</a></li>
+<li><a href="https://github.com/hackforla/website/issues/1848">Mobile Responsiveness on toolkit</a></li>
+<li><a href="https://github.com/hackforla/website/issues/6161">ER: Find all the places that Github should be GitHub and fix</a></li>
+<li><a href="https://github.com/hackforla/website/issues/4051">Update Donate page in Figma to reflect changes on site </a></li>
+<li><a href="https://github.com/hackforla/website/issues/6819">ER: Rationalizing the sponsors and partners info in code base</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7102">Add github-handle for Bonnie Wolfe in guides-teams.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7384">Add github-handle for Hunter Owens in work-for-la.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7401">Add github-handle for Kate Rose in hellogov.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7430">Add github-handle for Bonnie Wolfe in open-community-survey.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7431">Add github-handle for Kalyani Raman in open-community-survey.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7432">Add github-handle for Ambareen Sultana in open-community-survey.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7434">Add github-handle for Snow in open-community-survey.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7435">Add github-handle for Tugba Metinyurt in open-community-survey.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7763">Add github-handle for Ben Swerdlow in new-schools-today.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7764">Add github-handle for Joshua Bubar in new-schools-today.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7765">Add github-handle for Jacob Zwang in new-schools-today.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7781">Add github-handle for Mya Stark in not-today.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7794">Add github-handle for Isabelle Wagenvoord in public-tree-map.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7795">Add github-handle for Mark Jackson in public-tree-map.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7799">Add github-handle for Greg Pawin in lucky-parking.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7801">Add github-handle for Michael Morgan in lucky-parking.md</a></li>
+<li><a href="https://github.com/hackforla/website/issues/5127">Add additional repo(s) for project: Access the Data</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8674">Update Project Profile: Food Oasis Add Bonnie Wolfe</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8675">Update Project Profile: Food Oasis Add Jelena Karanovic</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8676">Update Project Profile: Food Oasis Add Shienny Sutanto</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8678">Update Project Profile: Food Oasis Add Whitney Gould</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8679">Update Project Profile: Food Oasis Add Ling Dong</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8680">Update Project Profile: Food Oasis Add Luigi Olianas</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8681">Update Project Profile: Food Oasis Add Alexa Ray</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8682">Update Project Profile: Food Oasis Add Caitlin Jimenez</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8683">Update Project Profile: Food Oasis Add Christina Nguyen</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8684">Update Project Profile: Food Oasis Add Zainab Adenaike</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8685">Update Project Profile: Food Oasis Add Jaclyn Chin</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8686">Update Project Profile: Food Oasis Remove Andy Arensman</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8687">Update Project Profile: Food Oasis Remove Belen Garcia Martinez</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8688">Update Project Profile: Food Oasis Remove  Krista Strucke</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8689">Update Project Profile: Food Oasis Remove Qiqi Zheng</a></li>
+<li><a href="https://github.com/hackforla/website/issues/3525">Design System Audit: Text Elements: Join Us Page</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8511">Correct Oxford Comma in Communities of Practice Page</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8655">Update Project Profile: Lucky Parking (Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8656">Update Project Profile: Heart Project (Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8657">Update Project Profile: HelloGOV (Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8658">Update Project Profile: Railstats LA (Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8659">Update Project Profile: Civic Tech Index (Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8660">Update Project Profile: Spare(Add Tech: Docker)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8668">Update Project Profile: VRMS (Update Project&#39;s Description)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8672">Update Project Profile: GreenEarthOS (Update Project&#39;s Description)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8692">Update Project Profile: Open Community Survey (Update Project&#39;s Description)</a></li>
+<li><a href="https://github.com/hackforla/website/issues/6970">Prep Website Project Board for Migration</a></li>
+<li><a href="https://github.com/hackforla/website/issues/8489">Update the Date Format for the Site Map</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7780">Remove unused file current-projects-check.html</a></li>
+<li><a href="https://github.com/hackforla/website/issues/7419">Replace <code>Github</code> with <code>GitHub</code> in _sass/components/_guides.scss</a></li>
 </ul>
-<h2 id="santifer-career-ops"><a href="https://github.com/santifer/career-ops">santifer/career-ops</a></h2>
+<h2 id="disla-novo-dimidium_bellerophon"><a href="https://github.com/Disla-Novo/Dimidium_Bellerophon">Disla-Novo/Dimidium_Bellerophon</a></h2>
 <ul>
-<li><a href="https://github.com/santifer/career-ops/issues/1271">feat(providers): add Hacker News &quot;Who is hiring?&quot; provider (Algolia API)</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1272">test: add tests for providers/remotive.mjs</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1274">docs: add a FAQ page from the most-asked setup questions</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1270">feat(providers): add The Muse provider (public zero-auth API)</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1239">feat(providers): add Jobicy remote-jobs provider (zero-token, public API)</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1240">feat(providers): add Himalayas remote-jobs provider (zero-token, public API)</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/772">doctor: treat missing first-run setup files as warnings, not hard failures</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/1225">i18n: bring Japanese (ja) modes to parity with the latest English modes</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/571">scan.mjs: skip postings inside declared re-apply cooldown windows</a></li>
-<li><a href="https://github.com/santifer/career-ops/issues/790">feat: surface free-tier LLM options during onboarding when user mentions cost</a></li>
-</ul>
-<h2 id="quantumscan-io-scanner-core"><a href="https://github.com/quantumscan-io/scanner-core">quantumscan-io/scanner-core</a></h2>
-<ul>
-<li><a href="https://github.com/quantumscan-io/scanner-core/issues/33">Add Swift CryptoKit patterns (P256/P384/Curve25519 SigningKey/PrivateKey)</a></li>
-<li><a href="https://github.com/quantumscan-io/scanner-core/issues/32">Add PHP openssl_pkey_new() + EC key generation patterns</a></li>
-<li><a href="https://github.com/quantumscan-io/scanner-core/issues/31">Add Ruby OpenSSL crypto patterns (OpenSSL::PKey, ed25519)</a></li>
-<li><a href="https://github.com/quantumscan-io/scanner-core/issues/2">Add Java/Kotlin patterns (Bouncy Castle, javax.crypto, JCA/JCE)</a></li>
-<li><a href="https://github.com/quantumscan-io/scanner-core/issues/1">Add Go crypto patterns (crypto/rsa, x/crypto, golang.org/x/crypto)</a></li>
+<li><a href="https://github.com/Disla-Novo/Dimidium_Bellerophon/issues/8">Expand CFG Generator Board Dictionary with Modern Mainboards- Two boards</a></li>
+<li><a href="https://github.com/Disla-Novo/Dimidium_Bellerophon/issues/19">Scope dark.css and improve visual consistency</a></li>
+<li><a href="https://github.com/Disla-Novo/Dimidium_Bellerophon/issues/20">Help us theme the Bellerophon IDE!</a></li>
 </ul>
 <h2 id="vercel-next-js"><a href="https://github.com/vercel/next.js">vercel/next.js</a></h2>
 <ul>
@@ -199,48 +198,64 @@
 <li><a href="https://github.com/vercel/next.js/issues/10900">getInitialProps is not running when Router.replace&#39;s &quot;href&quot; and &quot;as&quot; contains hash and query params inside &quot;href&quot; change.</a></li>
 <li><a href="https://github.com/vercel/next.js/issues/53473"><code>@next/next/no-html-link-for-pages</code> rule does not work with <code>pageExtensions</code></a></li>
 </ul>
-<h2 id="ohad6k-viberaven"><a href="https://github.com/ohad6k/VibeRaven">ohad6k/VibeRaven</a></h2>
+<h2 id="tryghost-ghost"><a href="https://github.com/TryGhost/Ghost">TryGhost/Ghost</a></h2>
 <ul>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/48">docs - README video embed troubleshooting</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/47">docs - Versions and Releases explainer</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/46">docs - Provider Control Board explainer</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/45">docs - after-launch workflow guide</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/44">prompt - what provider needs a human action template</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/43">prompt - compare last two releases template</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/42">examples - provider-drift timeline fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/41">examples - supabase-vercel-ai-app minimal sample</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/40">release-ops - release proof report sample</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/39">release-ops - version comparison fixture v1.0 to v1.1</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/38">provider:upstash - cache env var drift example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/37">provider:posthog - analytics event schema example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/36">provider:sentry - monitoring gap example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/35">provider:resend - domain verification evidence example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/34">provider:stripe - webhook signature proof fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/33">provider:clerk - auth callback drift example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/32">provider:vercel - preview vs prod env mismatch example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/31">provider:supabase - RLS drift evidence example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/28">check-registry - Add a new provider evidence rule</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/27">docs - Add contributor quests guide</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/26">docs - Add version comparison explainer</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/25">agent-chat - Add prompt template to compare last two releases</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/24">release-ops - Add release proof report fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/23">release-ops - Add version comparison example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/22">provider:sentry - Add monitoring evidence example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/20">provider:vercel - Add example for env var mismatch between preview and prod</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/19">examples - Add Stripe webhook signature proof fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/18">bug-story - Share a real launch or after-launch failure (no code needed)</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/17">examples - Add provider-drift fixture bundle index</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/16">examples - Add supabase-vercel-ai-app sample</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/15">examples - Add broken-to-fixed release timeline fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/14">docs - Add provider control board explainer</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/13">docs - Add after-launch workflow guide</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/12">agent-chat - Add prompt template for provider needs a human action</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/11">provider:upstash - Add cache env var drift example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/10">provider:posthog - Add analytics event schema drift example</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/9">provider:supabase - Add provider evidence example for RLS drift</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/6">Document Clerk + Vercel auth redirect evidence</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/5">Add a Supabase RLS false-positive fixture</a></li>
-<li><a href="https://github.com/ohad6k/VibeRaven/issues/4">Add a webhook signature proof example</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/22883">Storage adapters (and possibly other types) placed in the content folder are not detected.</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/23441">Cannot get posts from the same date (SQLite3-specific?)</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26398">Regression: email toggles</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/23361">🌐 i18n mega-issue</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/28359">Input box for editing feature image caption link is inconsistently small</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26095">Creating a tag named &quot;new&quot; is subsequently not editable</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/26607">Editor opening staff settings/profile triggers forbidden API calls and unrelated permission toast</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24607">Incorrect links from Top sources in analytics</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/25772">The loader image in the dashboard is not transparent</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24608">Dark mode / light mode transitions are incorrect for most analytics sections/buttons</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24741">Bookmark for YouTube links not populated with video metadata</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/27797">{{contrast_text_color}} helper returns incorrect text color</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/27462">a11y: <code>kg-toggle-card</code> not usable properly with a screenreader</a></li>
+<li><a href="https://github.com/TryGhost/Ghost/issues/24600">Share profile image generation is broken for some avatars and cover images</a></li>
+</ul>
+<h2 id="younisdev-dyvix-ui"><a href="https://github.com/younisdev/dyvix-ui">younisdev/dyvix-ui</a></h2>
+<ul>
+<li><a href="https://github.com/younisdev/dyvix-ui/issues/295">[Feature] Add <code>Frost</code> table theme</a></li>
+<li><a href="https://github.com/younisdev/dyvix-ui/issues/298">[Docs] Add theme attribute to the <code>DyvixSelect</code> documentation page.</a></li>
+<li><a href="https://github.com/younisdev/dyvix-ui/issues/297">[Docs] Add theme attribute in the <code>Dyvix select</code> playground.</a></li>
+<li><a href="https://github.com/younisdev/dyvix-ui/issues/296">[Feature] Add <code>Ember</code> table theme</a></li>
+</ul>
+<h2 id="jellyfin-jellyfin-web"><a href="https://github.com/jellyfin/jellyfin-web">jellyfin/jellyfin-web</a></h2>
+<ul>
+<li><a href="https://github.com/jellyfin/jellyfin-web/issues/6384">Trying to create/update users with some special characters such as +, / or &amp; generate a non-descriptive error or infinite load</a></li>
+</ul>
+<h2 id="layer5io-docs"><a href="https://github.com/layer5io/docs">layer5io/docs</a></h2>
+<ul>
+<li><a href="https://github.com/layer5io/docs/issues/1028">[Docs] Improve Related Docs Links in Pinning Models to Dock Page</a></li>
+</ul>
+<h2 id="fmarzochi-egc"><a href="https://github.com/Fmarzochi/EGC">Fmarzochi/EGC</a></h2>
+<ul>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/500">fix(dashboard): telemetry events with a missing &#39;ide&#39; pollute state under key &#39;undefined&#39;</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/511">feat(security): validate project_path against path traversal</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/510">feat(security): audit log of blocked/denied calls</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/509">feat(security): rate-limit MCP tool calls to prevent flooding</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/506">fix(dashboard): codebuddy-adapter emits duplicate/noisy events for every file change</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/504">fix(dashboard): vscode-adapter may watch the wrong Copilot log (unsorted readdirSync picks files[0])</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/502">fix(dashboard): static-file guard startsWith(PUBLIC) lets sibling dirs named public* escape the sandbox</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/499">fix(dashboard): cap request body size on POST /event to prevent memory exhaustion</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/503">fix(dashboard): aider-watcher stops emitting events after the watched log is truncated/rotated</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/488">i18n: translate README.md into Malay (ms)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/487">i18n: translate README.md into Russian (ru)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/486">i18n: translate README.md into German (de)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/484">i18n: translate README.md into Turkish (tr)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/482">i18n: translate README.md into Japanese (ja)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/483">i18n: translate README.md into Chinese Simplified (zh-CN)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/481">i18n: translate README.md into Italian (it)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/480">i18n: translate README.md into French (fr)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/479">i18n: translate README.md into Ukrainian (uk)</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/477">testing: validate EGC v1.1.6 installer on macOS and report feedback</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/476">testing: validate EGC v1.1.6 installer on Windows and report feedback</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/466">feat(dashboard): real-time token consumption tracking per AI IDE session</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/464">feat(dashboard): export session data to CSV and JSON</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/440">test(dashboard): install, validate and find bugs on macOS</a></li>
+<li><a href="https://github.com/Fmarzochi/EGC/issues/439">test(dashboard): install, validate and find bugs on Windows</a></li>
 </ul>
 </body>
 </html>
