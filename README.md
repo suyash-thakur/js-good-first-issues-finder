@@ -260,3 +260,4 @@ This list gets updated every day at midnight.
 - [EntityCluster hasLabelIndex always returns false](https://github.com/CesiumGS/cesium/issues/7446)
 - [MOUSE_MOVE fires outside of canvas in Firefox](https://github.com/CesiumGS/cesium/issues/12373)
 
+kissterm - студент, изучаю Git и open-source
