@@ -303,3 +303,4 @@ This list gets updated every day at midnight.
 - [Add "HARD_CARRY" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/334)
 - [Add "CENTURION" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/332)
 
+kissterm - студент, изучаю Git и open-source
