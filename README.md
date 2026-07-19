@@ -4,16 +4,102 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [mergeos-bounties/BeeAR](https://github.com/mergeos-bounties/BeeAR)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [[25 MRG] Catalog SKU: square_tortoiseshell frame wave2](https://github.com/mergeos-bounties/BeeAR/issues/48)
-- [[25 MRG] Catalog: 4 new seasonal frame SKUs](https://github.com/mergeos-bounties/BeeAR/issues/19)
-- [[25 MRG] Docs: privacy + camera consent notice](https://github.com/mergeos-bounties/BeeAR/issues/1)
-- [[25 MRG] Vietnamese UI strings toggle](https://github.com/mergeos-bounties/BeeAR/issues/8)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
+
+- [feat(install): add native Roo Code install target](https://github.com/Fmarzochi/EGC/issues/852)
+- [feat(install): add native Cline install target](https://github.com/Fmarzochi/EGC/issues/846)
+- [i18n(fr): add French README translation](https://github.com/Fmarzochi/EGC/issues/848)
+- [feat(install): add native Qwen Code install target](https://github.com/Fmarzochi/EGC/issues/845)
+- [test(v1.1.10): upgrade or install on macOS and report behavior](https://github.com/Fmarzochi/EGC/issues/644)
+- [test(v1.1.10): upgrade or install on Linux and report behavior](https://github.com/Fmarzochi/EGC/issues/643)
+- [test(v1.1.10): upgrade or install on Windows and report behavior](https://github.com/Fmarzochi/EGC/issues/642)
+- [i18n: translate README.md into Chinese Simplified (zh-CN)](https://github.com/Fmarzochi/EGC/issues/645)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [[Docs] Improve visibility of carousel navigation](https://github.com/layer5io/docs/issues/1163)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13096)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13114)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13252)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13209)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12959)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+
+## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+
+- [Looking for maintainers / contributors / code reviewers...](https://github.com/highlightjs/highlight.js/issues/1678)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2799)
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Compatibility with Cloudflare Calls (TURN & STUN servers)](https://github.com/nextcloud/spreed/issues/12394)
+- [[Bug] Talk fails to upload files to the conversation, if one of participants is gone (orphan attendee from former LDAP user)](https://github.com/nextcloud/spreed/issues/18415)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
+- [Delete messages completely instead of showing "Message deleted by you" in "Note to self"](https://github.com/nextcloud/spreed/issues/13139)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
+- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+
+## [LittleAndi/AndiBanterBot](https://github.com/LittleAndi/AndiBanterBot)
+
+- [Add POST /helix/chat/announcements wrapper for formatted bot messages](https://github.com/LittleAndi/AndiBanterBot/issues/76)
+- [Add POST /helix/chat/shoutouts wrapper and trigger on raid](https://github.com/LittleAndi/AndiBanterBot/issues/75)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
+
+## [CPAtoCybersecurity/csf_profile](https://github.com/CPAtoCybersecurity/csf_profile)
+
+- [GV.SC - Supply Chain Risk Management: Contribute case study test steps and artifacts](https://github.com/CPAtoCybersecurity/csf_profile/issues/33)
+- [Design tokens: replace remaining raw hex literals with the :root token system](https://github.com/CPAtoCybersecurity/csf_profile/issues/256)
+- [Docs: add GET_THE_SPREADSHEETS/README.md and refresh SCREENSHOTS.md to the terminal UI](https://github.com/CPAtoCybersecurity/csf_profile/issues/255)
 
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
 - [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
 - [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
 - [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
 - [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
@@ -26,7 +112,6 @@ This list gets updated every day at midnight.
 - [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
 - [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
 - [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
 - [Refresh token endpoint ignores the provided refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1775)
 - [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
 - [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
@@ -66,171 +151,79 @@ This list gets updated every day at midnight.
 - [Settings page should provide actionable account controls](https://github.com/SecureBananaLabs/bug-bounty/issues/2822)
 - [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2827)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [amiantos/writers-guild](https://github.com/amiantos/writers-guild)
 
-- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+- [Setup modal can be too tall for display](https://github.com/amiantos/writers-guild/issues/24)
+- [Add Screenshots to README](https://github.com/amiantos/writers-guild/issues/33)
 
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+## [aadorian/opencodeCLI](https://github.com/aadorian/opencodeCLI/pull/67)
 
-- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
-- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
-- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
-- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
-- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
-- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
-- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
-- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
-- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
-- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
-- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
+- [chore(deps-dev): bump @vscode/test-cli from 0.0.11 to 0.0.15 in the vscode-test group across 1 directory](https://github.com/aadorian/opencodeCLI/pull/67)
+- [chore(deps-dev): bump sharp from 0.35.2 to 0.35.3](https://github.com/aadorian/opencodeCLI/pull/70)
+- [Settings key opcode.enableExa uses inconsistent prefix](https://github.com/aadorian/opencodeCLI/issues/5)
+- [Dead activation event for non-existent help view](https://github.com/aadorian/opencodeCLI/issues/7)
+- [Webview panels show raw codicon syntax instead of icons](https://github.com/aadorian/opencodeCLI/issues/3)
+- [Documented keyboard shortcuts are not registered in package.json](https://github.com/aadorian/opencodeCLI/issues/2)
+- [[Good first issue] Add Sticky Scroll support showing active OpenCode scope in the editor](https://github.com/aadorian/opencodeCLI/issues/66)
+- [[Good first issue] Ensure OpenCode panels are hidden in Zen Mode](https://github.com/aadorian/opencodeCLI/issues/65)
+- [[Good first issue] Add OpenCode session outline to the Outline view via DocumentSymbolProvider](https://github.com/aadorian/opencodeCLI/issues/64)
+- [[Good first issue] Pin OpenCode output tabs and add custom tab labels for active sessions](https://github.com/aadorian/opencodeCLI/issues/63)
+- [[Good first issue] Highlight AI-edited lines in the editor Minimap](https://github.com/aadorian/opencodeCLI/issues/62)
+- [[Good first issue] Add OpenCode AI-edit events to the Timeline view](https://github.com/aadorian/opencodeCLI/issues/61)
+- [[Good first issue] Move OpenCode chat panel to the Secondary Side Bar by default](https://github.com/aadorian/opencodeCLI/issues/60)
+- [[Good first issue] Show OpenCode session context in the editor Breadcrumbs bar](https://github.com/aadorian/opencodeCLI/issues/59)
+- [[Good first issue] Add OpenCode sessions and agents to Quick Open (⌘P) via dynamic file provider](https://github.com/aadorian/opencodeCLI/issues/58)
+- [[Good first issue] Register all OpenCode commands in the Command Palette with consistent categories](https://github.com/aadorian/opencodeCLI/issues/57)
+- [[Good first issue] Hide status bar items when OpenCode CLI is not installed](https://github.com/aadorian/opencodeCLI/issues/28)
+- [[Good first issue] Add Help sidebar view for CLI reference](https://github.com/aadorian/opencodeCLI/issues/25)
+- [[Good first issue] Add editor context menu: Run selection with OpenCode](https://github.com/aadorian/opencodeCLI/issues/23)
+- [[Good first issue] Implement Overview tree with live CLI status](https://github.com/aadorian/opencodeCLI/issues/22)
+- [[Good first issue] Add walkthrough step: Authenticate with a provider](https://github.com/aadorian/opencodeCLI/issues/20)
+- [[Good first issue] Add explorer context menu for individual files](https://github.com/aadorian/opencodeCLI/issues/19)
+- [Roadmap: Good first issues to extend OpenCode Walkthrough](https://github.com/aadorian/opencodeCLI/issues/17)
+- [MCP list command inconsistent between tree provider and commands](https://github.com/aadorian/opencodeCLI/issues/15)
+- [Sessions empty-state tree item has broken click handler](https://github.com/aadorian/opencodeCLI/issues/11)
+- [chore(deps-dev): bump playwright from 1.61.0 to 1.61.1](https://github.com/aadorian/opencodeCLI/pull/68)
 
-## [layer5io/docs](https://github.com/layer5io/docs)
+## [SultanZhalifa/SaringSini](https://github.com/SultanZhalifa/SaringSini)
 
-- [[Docs] Improve visibility of carousel navigation](https://github.com/layer5io/docs/issues/1163)
+- [Audit teks alternatif (alt text) gambar & ikon untuk aksesibilitas](https://github.com/SultanZhalifa/SaringSini/issues/5)
+- [Lengkapi dokumentasi API di README dengan contoh curl](https://github.com/SultanZhalifa/SaringSini/issues/3)
+- [Tampilkan notifikasi "toast" saat tombol Salin ditekan](https://github.com/SultanZhalifa/SaringSini/issues/2)
+- [Tambah template balasan Bahasa Bali](https://github.com/SultanZhalifa/SaringSini/issues/1)
 
-## [Proyecto-Integrador-Riwi/NexoEdu](https://github.com/Proyecto-Integrador-Riwi/NexoEdu)
+## [santifer/career-ops](https://github.com/santifer/career-ops)
 
-- [CRUD administrador(director(](https://github.com/Proyecto-Integrador-Riwi/NexoEdu/issues/22)
-- [Implementar el swagger](https://github.com/Proyecto-Integrador-Riwi/NexoEdu/issues/16)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-
-## [coder13/LetsCube](https://github.com/coder13/LetsCube)
-
-- [Add mo3 calculations](https://github.com/coder13/LetsCube/issues/30)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2799)
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-
-## [opensearch-project/alerting-dashboards-plugin](https://github.com/opensearch-project/alerting-dashboards-plugin)
-
-- [[BUG] Unit tests failing - AlertsDashboardFlyoutComponent.test.js ](https://github.com/opensearch-project/alerting-dashboards-plugin/issues/750)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [[Bug] Talk fails to upload files to the conversation, if one of participants is gone (orphan attendee from former LDAP user)](https://github.com/nextcloud/spreed/issues/18415)
-- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
-- [Delete messages completely instead of showing "Message deleted by you" in "Note to self"](https://github.com/nextcloud/spreed/issues/13139)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
-- [Compatibility with Cloudflare Calls (TURN & STUN servers)](https://github.com/nextcloud/spreed/issues/12394)
-- [Change participants info button from hover tooltip to popover](https://github.com/nextcloud/spreed/issues/15547)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Coding standards: Use WordPress-Extra ruleset to prevent potential security issues](https://github.com/WordPress/gutenberg/issues/18502)
-- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
-- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
-- [apiFetch should be able to handle a 200 response code with an empty body](https://github.com/WordPress/gutenberg/issues/21899)
-
-## [carvalho-jefferson/guicu](https://github.com/carvalho-jefferson/guicu)
-
-- [Adicionar canal de contato do Guicu na interface](https://github.com/carvalho-jefferson/guicu/issues/56)
-
-## [mergeos-bounties/MRGMinner](https://github.com/mergeos-bounties/MRGMinner)
-
-- [[25 MRG] Docs: bandwidth-share stream guide (EN)](https://github.com/mergeos-bounties/MRGMinner/issues/20)
-- [[25 MRG] Tests: share SOCKS5 relay unit test](https://github.com/mergeos-bounties/MRGMinner/issues/24)
-
-## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
-
-- [[Feature] Add `Crimson` select theme](https://github.com/younisdev/dyvix-ui/issues/435)
-- [[Feature] Add `Volcanic` table theme](https://github.com/younisdev/dyvix-ui/issues/433)
-- [[Feature] Add `Frost` select theme](https://github.com/younisdev/dyvix-ui/issues/334)
-- [[Feature] Add `Coffee` table theme](https://github.com/younisdev/dyvix-ui/issues/427)
-- [[Feature] Add `Cosmos` button theme](https://github.com/younisdev/dyvix-ui/issues/376)
-- [[Feature] Add `Aurora` select theme](https://github.com/younisdev/dyvix-ui/issues/352)
-- [[Docs] Document table sorting feature.](https://github.com/younisdev/dyvix-ui/issues/380)
-- [[Feature] Add `Obsidian` button theme](https://github.com/younisdev/dyvix-ui/issues/345)
-
-## [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
-
-- [[Feature]: Expose `custom_properties` in `StreamSerializer](https://github.com/Dispatcharr/Dispatcharr/issues/1448)
-- [[Bug]: EPG refresh fails with "Permission denied: /app/media/cached_epg/*.tmp" (cache dir owned by root, refresh runs as 'dispatch')](https://github.com/Dispatcharr/Dispatcharr/issues/1437)
-
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
-
-- [Add next report date to the subscription status box](https://github.com/google/site-kit-wp/issues/13012)
-- [PSI module - See full details link enhancement](https://github.com/google/site-kit-wp/issues/10870)
-- [Add features menu for mobile and tablet viewports](https://github.com/google/site-kit-wp/issues/13013)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-
-## [harshdwivediiiii/pathfinder-ai](https://github.com/harshdwivediiiii/pathfinder-ai)
-
-- [Mobile nav menu overlaps hero content with no background/styling](https://github.com/harshdwivediiiii/pathfinder-ai/issues/1304)
-- [Title: Open Source Stats section shows incorrect Pull Requests count (duplicates Open Issues)](https://github.com/harshdwivediiiii/pathfinder-ai/issues/1300)
-- [Add chat search and user-controlled history privacy settings](https://github.com/harshdwivediiiii/pathfinder-ai/issues/59)
-- [[PERFORMANCE / DX] Implement Global Custom Loading Skeletons for Next.js App Router Dynamic Routes](https://github.com/harshdwivediiiii/pathfinder-ai/issues/66)
-- [Membership Status Always Displays "PRO MEMBER" for Non-Pro Users](https://github.com/harshdwivediiiii/pathfinder-ai/issues/455)
-
-## [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador)
-
-- [Touchscreen gestures over annotations are always interpreted as clicks](https://github.com/ProjectMirador/mirador/issues/4184)
-- [Lazy-loading of choice images](https://github.com/ProjectMirador/mirador/issues/4172)
-- [Mirador seems to draw the fill color in front of the border.](https://github.com/ProjectMirador/mirador/issues/4130)
-- [canvasIndex should override manifest startCanvas](https://github.com/ProjectMirador/mirador/issues/4071)
-- [Convert ThumbnailCanvasGrouping to functional component](https://github.com/ProjectMirador/mirador/issues/4370)
-- [Window dropdown for plugins not keyboard navigable](https://github.com/ProjectMirador/mirador/issues/3903)
-- [Redundant title read by screen reader](https://github.com/ProjectMirador/mirador/issues/3904)
-- [Window navigation controls sometimes overlaps canvas](https://github.com/ProjectMirador/mirador/issues/3892)
-
-## [ResonantOS/2.0.0-alpha](https://github.com/ResonantOS/2.0.0-alpha)
-
-- [docs: Augmentor workflow recipes for job search, travel, education, and product research](https://github.com/ResonantOS/2.0.0-alpha/issues/237)
-- [feat: Augmentor — one-click and question-driven summaries](https://github.com/ResonantOS/2.0.0-alpha/issues/221)
-- [feat: Augmentor — inline counterpoint and explain-jargon actions](https://github.com/ResonantOS/2.0.0-alpha/issues/219)
-- [feat: Augmentor — page understanding fixture coverage](https://github.com/ResonantOS/2.0.0-alpha/issues/218)
+- [docs(es): orthography pass on README.es.md — missing accents throughout](https://github.com/santifer/career-ops/issues/1993)
+- [feat(dashboard): Responded is missing from the pipeline filter tabs](https://github.com/santifer/career-ops/issues/1999)
+- [docs: verified recipe for Kimi k2.5 as the model inside OpenCode (budget guide)](https://github.com/santifer/career-ops/issues/1980)
+- [i18n: translate the interview modes (plan/practice/debrief) to Chinese (Simplified)](https://github.com/santifer/career-ops/issues/1545)
+- [bug(scan): summary always prints "Filtered by salary/content: 0 removed" even when neither filter is configured](https://github.com/santifer/career-ops/issues/1924)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish (pl)](https://github.com/santifer/career-ops/issues/1821)
+- [docs(i18n): propagate the corrected dimension count to the 15 translated READMEs](https://github.com/santifer/career-ops/issues/1952)
+- [Sync the tracker's PDF column from data/pdf-index.tsv (❌ stays stale when the PDF is generated later)](https://github.com/santifer/career-ops/issues/1429)
+- [i18n: translate the interview modes (plan/practice/debrief) to Korean (ko)](https://github.com/santifer/career-ops/issues/1819)
+- [i18n: translate the interview modes (plan/practice/debrief) to Italian (it)](https://github.com/santifer/career-ops/issues/1820)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (pt-BR)](https://github.com/santifer/career-ops/issues/1546)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/1544)
+- [i18n: add Dutch (nl) modes](https://github.com/santifer/career-ops/issues/1390)
+- [doctor: treat missing first-run setup files as warnings, not hard failures](https://github.com/santifer/career-ops/issues/772)
 
 ## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
 
-- [Document Warning Code AVX_W12 (PAGE_PROP_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/445)
-- [Document Warning Code AVX_W14 (COMPONENT_RESTORE_SLOT_CONTENT_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/448)
-- [Doc: Document Reactivity Tracking Exclusions (Symbols and Non-Plain Objects)](https://github.com/Avenx-JS/avenx-js/issues/418)
-- [Document Warning Code AVX_W18 (RENDER_LIST_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/452)
-- [Document Warning Code AVX_W19 (RENDER_KEY_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/453)
-- [Document Warning Code AVX_W20 (RENDER_LIST_DUPLICATE_KEY)](https://github.com/Avenx-JS/avenx-js/issues/454)
-- [Document Warning Code AVX_W14 (COMPONENT_RESTORE_SLOT_CONTENT_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/447)
-- [Document Warning Code AVX_W13 (PAGE_COMPONENT_NOT_REGISTERED)](https://github.com/Avenx-JS/avenx-js/issues/446)
-- [Document Warning Code AVX_W10 (ROUTE_NOT_FOUND)](https://github.com/Avenx-JS/avenx-js/issues/443)
-- [Document Warning Code AVX_W09 (ROUTE_PARAM_DECODE_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/442)
-- [Document Warning Code AVX_W08 (ROUTE_PATH_MISSING_LEADING_SLASH)](https://github.com/Avenx-JS/avenx-js/issues/441)
-- [Document Warning Code AVX_W07 (PAGE_ALREADY_REGISTERED)](https://github.com/Avenx-JS/avenx-js/issues/440)
-- [Document Warning Code AVX_W06 (COMPILER_STATIC_SUBTREE_OPTIMIZATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/439)
-- [Document Warning Code AVX_W05 (COMPILER_TRANSITION_PARSE_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/438)
-- [Document Warning Code AVX_W04 (COMPILER_UNMATCHED_FOR_TAG)](https://github.com/Avenx-JS/avenx-js/issues/437)
-- [Document Warning Code AVX_W03 (COMPILER_UNDECLARED_REFERENCE)](https://github.com/Avenx-JS/avenx-js/issues/436)
-- [Document Warning Code AVX_W01 (COMPILER_BUNDLE_SIZE_EXCEEDED)](https://github.com/Avenx-JS/avenx-js/issues/434)
+- [Document AvenxLogger Class and Logging Configurations](https://github.com/Avenx-JS/avenx-js/issues/510)
+- [Refactor: Standardize Custom Template Error Types in AvenxCompiler](https://github.com/Avenx-JS/avenx-js/issues/509)
+- [Refactor: Decouple DomPatcher Boolean Attributes Map from Patch Logic](https://github.com/Avenx-JS/avenx-js/issues/508)
+- [Document Component Slot Fallback Content Support](https://github.com/Avenx-JS/avenx-js/issues/507)
+- [Document Router Guard Navigation Redirection Logic](https://github.com/Avenx-JS/avenx-js/issues/506)
+- [Document Reactivity Tracking Exclusions (Symbols & Non-Plain Objects)](https://github.com/Avenx-JS/avenx-js/issues/505)
 - [Doc: Document Router Guard Navigation Redirection Logic](https://github.com/Avenx-JS/avenx-js/issues/416)
 - [Doc: Document Component Slot Fallback Content Support](https://github.com/Avenx-JS/avenx-js/issues/415)
 - [Document `AvenxLogger` Class and Logging Configurations](https://github.com/Avenx-JS/avenx-js/issues/384)
-- [Document Class-based Lifecycle Method Support in AvenxComponent Subclasses](https://github.com/Avenx-JS/avenx-js/issues/381)
+- [Document Warning Code AVX_W19 (RENDER_KEY_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/453)
+- [Document Warning Code AVX_W14 (COMPONENT_RESTORE_SLOT_CONTENT_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/447)
+- [Doc: Document Reactivity Tracking Exclusions (Symbols and Non-Plain Objects)](https://github.com/Avenx-JS/avenx-js/issues/418)
+- [Document Warning Code AVX_W18 (RENDER_LIST_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/452)
 - [Document the Built-in `<VirtualList>` Component](https://github.com/Avenx-JS/avenx-js/issues/380)
 - [Declarative State Persistence Utility (`data-persist`)](https://github.com/Avenx-JS/avenx-js/issues/136)
 - [Fix Incorrect Signature and Example for `AvenxApp.mount()` in API Reference](https://github.com/Avenx-JS/avenx-js/issues/365)
@@ -243,49 +236,47 @@ This list gets updated every day at midnight.
 - [Support Wildcard Path Matchers in Route Patterns](https://github.com/Avenx-JS/avenx-js/issues/209)
 - [Memory Leak in nested reactive objects' parentMap when properties are reassigned or deleted](https://github.com/Avenx-JS/avenx-js/issues/207)
 - [Import and Package Name Inconsistencies (avenx-js vs. avenx-core)](https://github.com/Avenx-JS/avenx-js/issues/152)
-- [CLI Environment Variable Injection (.env Support)](https://github.com/Avenx-JS/avenx-js/issues/146)
+
+## [younisdev/dyvix-ui](https://github.com/younisdev/dyvix-ui)
+
+- [[Feature] Port the `Industrial` global theme to the `navigation` component.](https://github.com/younisdev/dyvix-ui/issues/438)
+- [[Feature] Add `Crimson` select theme](https://github.com/younisdev/dyvix-ui/issues/435)
+- [[Feature] Add `Volcanic` table theme](https://github.com/younisdev/dyvix-ui/issues/433)
+- [[Feature] Add `Frost` select theme](https://github.com/younisdev/dyvix-ui/issues/334)
+- [[Feature] Add `Coffee` table theme](https://github.com/younisdev/dyvix-ui/issues/427)
+- [[Feature] Add `Cosmos` button theme](https://github.com/younisdev/dyvix-ui/issues/376)
+- [[Feature] Add `Aurora` select theme](https://github.com/younisdev/dyvix-ui/issues/352)
+- [[Docs] Document table sorting feature.](https://github.com/younisdev/dyvix-ui/issues/380)
+- [[Feature] Add `Obsidian` button theme](https://github.com/younisdev/dyvix-ui/issues/345)
+
+## [codepvg/leetcode-ranking](https://github.com/codepvg/leetcode-ranking)
+
+- [Add "CENTURION" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/332)
+- [Add "BALANCED" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/336)
+- [Add "SPRINTER" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/335)
+- [Add "TOP_BRASS" Gamification Badge to User Profile](https://github.com/codepvg/leetcode-ranking/issues/333)
+
+## [badges/shields](https://github.com/badges/shields)
+
+- [Mozilla Thunderbird  add-ons (ATN)](https://github.com/badges/shields/issues/6994)
+
+## [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
+
+- [[Feature]: Expose `custom_properties` in `StreamSerializer](https://github.com/Dispatcharr/Dispatcharr/issues/1448)
+- [[Bug]: EPG refresh fails with "Permission denied: /app/media/cached_epg/*.tmp" (cache dir owned by root, refresh runs as 'dispatch')](https://github.com/Dispatcharr/Dispatcharr/issues/1437)
+
+## [mulberrysymbols/mulberry-symbols](https://github.com/mulberrysymbols/mulberry-symbols)
+
+- [Check for outdated external dependencies](https://github.com/mulberrysymbols/mulberry-symbols/issues/75)
+
+## [eouzoe/good-techstack](https://github.com/eouzoe/good-techstack)
+
+- [Version maintenance — 版本檢查與回報流程](https://github.com/eouzoe/good-techstack/issues/2)
+- [問題回報](https://github.com/eouzoe/good-techstack/issues/3)
 
 ## [nodejs/node](https://github.com/nodejs/node)
 
 - [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
 - [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 - [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-
-## [Harsh-vardhan09/AthLead](https://github.com/Harsh-vardhan09/AthLead)
-
-- [Feat: addition of  DOB component in the edit form](https://github.com/Harsh-vardhan09/AthLead/issues/72)
-- [Feat : sync user input  of score to the radar chart](https://github.com/Harsh-vardhan09/AthLead/issues/69)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [Improve tests with more checks for unexpected `'disconnect'`](https://github.com/nodejs/undici/issues/251)
-- [Default fetch timeout too short](https://github.com/nodejs/undici/issues/1373)
-
-## [auras172/constructii-legislatie-ro](https://github.com/auras172/constructii-legislatie-ro)
-
-- [Good first issue: ## Milestone 50 — Receipt (template)](https://github.com/auras172/constructii-legislatie-ro/issues/136)
-- [Good first issue: design construction legislation taxonomy](https://github.com/auras172/constructii-legislatie-ro/issues/18)
-- [Good first issue: create construction glossary](https://github.com/auras172/constructii-legislatie-ro/issues/16)
-
-## [khushi897920-lang/hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai)
-
-- [perf(core): implement multi-level caching mechanism for expensive computations and data retrieval](https://github.com/khushi897920-lang/hercycle-ai/issues/88)
-- [[Security]: Implement Data Privacy Hub and JSON Export](https://github.com/khushi897920-lang/hercycle-ai/issues/116)
-- [[Feature]: Implement PWA Push Notification Preferences](https://github.com/khushi897920-lang/hercycle-ai/issues/117)
-- [[Enhancement]: Replace Mock Rule-Based Engine with a Real Machine Learning Microservice](https://github.com/khushi897920-lang/hercycle-ai/issues/65)
-- [[Feature]: Implement an interactive React calendar component for predictive cycle mapping](https://github.com/khushi897920-lang/hercycle-ai/issues/62)
-- [[FEAT] Add Full Menstrual Cycle Phase Tracking with Educational Mood Insights](https://github.com/khushi897920-lang/hercycle-ai/issues/35)
-- [[GOOD FIRST ISSUE] Improve README Screenshot Layout and Add Contributors Section](https://github.com/khushi897920-lang/hercycle-ai/issues/27)
-- [[UI/UX] Add CSV Export Button for Cycle History on Insights Page](https://github.com/khushi897920-lang/hercycle-ai/issues/57)
-
-## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
-
-- [feat(install): add native JetBrains Junie install target](https://github.com/Fmarzochi/EGC/issues/847)
-- [feat(install): add native Cline install target](https://github.com/Fmarzochi/EGC/issues/846)
-- [i18n(fr): add French README translation](https://github.com/Fmarzochi/EGC/issues/848)
-- [feat(install): add native Qwen Code install target](https://github.com/Fmarzochi/EGC/issues/845)
-- [test(v1.1.10): upgrade or install on macOS and report behavior](https://github.com/Fmarzochi/EGC/issues/644)
-- [test(v1.1.10): upgrade or install on Linux and report behavior](https://github.com/Fmarzochi/EGC/issues/643)
-- [test(v1.1.10): upgrade or install on Windows and report behavior](https://github.com/Fmarzochi/EGC/issues/642)
-- [i18n: translate README.md into Chinese Simplified (zh-CN)](https://github.com/Fmarzochi/EGC/issues/645)
 
