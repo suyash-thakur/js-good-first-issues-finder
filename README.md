@@ -4,39 +4,53 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [conversejs/converse.js](https://github.com/conversejs/converse.js)
+## [Savitura/crowdpay](https://github.com/Savitura/crowdpay)
 
-- [Improve documentation of setting up custom themes](https://github.com/conversejs/converse.js/issues/2919)
+- [Update data_model.md to document all current database tables](https://github.com/Savitura/crowdpay/issues/470)
+- [Make load test configurations read from environment variables](https://github.com/Savitura/crowdpay/issues/474)
+- [Update Soroban README with actual contract documentation](https://github.com/Savitura/crowdpay/issues/464)
+- [Public Campaign Embed API; JWT-Scoped Embed Tokens, iframe Widget & Cross-Origin Contribution Flow](https://github.com/Savitura/crowdpay/issues/455)
+- [Getting Started for New Contributors](https://github.com/Savitura/crowdpay/issues/1)
 
-## [SandeepVashishtha/Eventra](https://github.com/SandeepVashishtha/Eventra)
+## [nodejs/node](https://github.com/nodejs/node)
 
-- [[Enhancement] Add clear-all action for recent search history in Events dashboard](https://github.com/SandeepVashishtha/Eventra/issues/9695)
-- [fix(lenisUtils): add SSR guards to prevent crash in server environments](https://github.com/SandeepVashishtha/Eventra/issues/9467)
-- [fix(waitlistUtils): return fallback from catch block in syncWaitlistFromServer](https://github.com/SandeepVashishtha/Eventra/issues/9469)
-- [fix(secureStorage): defer module-level crypto initialization to prevent SSR crash](https://github.com/SandeepVashishtha/Eventra/issues/9470)
-- [fix(exportCsv): add SSR guards before browser CSV download](https://github.com/SandeepVashishtha/Eventra/pull/10246)
-- [fix(secureStorage): lazy-init crypto key material for SSR](https://github.com/SandeepVashishtha/Eventra/pull/10248)
-- [fix(lenisUtils): add SSR guards to scroll helpers](https://github.com/SandeepVashishtha/Eventra/pull/10247)
-- [[codex] guard csv exports for SSR](https://github.com/SandeepVashishtha/Eventra/pull/10233)
-- [[codex] guard lenis utils for SSR](https://github.com/SandeepVashishtha/Eventra/pull/10231)
+- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
+- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
+- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
+- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
+- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
 
-## [RoryGlenn/commitment-issues](https://github.com/RoryGlenn/commitment-issues)
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
 
-- [Add a local Markdown link checker for repository docs](https://github.com/RoryGlenn/commitment-issues/issues/141)
-- [Add a `--random` option to the message-state runner](https://github.com/RoryGlenn/commitment-issues/issues/116)
-- [Document how to add and preview a message state](https://github.com/RoryGlenn/commitment-issues/issues/118)
-- [Add a documentation index for the `docs/` directory](https://github.com/RoryGlenn/commitment-issues/issues/114)
+- [test(v1.1.14): upgrade or install on Linux and report behavior](https://github.com/Fmarzochi/EGC/issues/643)
+- [test(v1.1.14): upgrade or install on macOS and report behavior](https://github.com/Fmarzochi/EGC/issues/644)
 
-## [edlopez000/merfluence](https://github.com/edlopez000/merfluence)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [docs: link the privacy policy and support contact from the repo](https://github.com/edlopez000/merfluence/issues/52)
-- [docs: add community health files (CoC, issue/PR templates, CODEOWNERS, .gitattributes)](https://github.com/edlopez000/merfluence/issues/50)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [[Docs] Improve visibility of carousel navigation](https://github.com/layer5io/docs/issues/1163)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
 
 ## [santifer/career-ops](https://github.com/santifer/career-ops)
 
+- [feat(dashboard): Responded is missing from the pipeline filter tabs](https://github.com/santifer/career-ops/issues/1999)
 - [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/santifer/career-ops/issues/2051)
 - [feat: ATS-friendliness check — score a generated CV for ATS parseability](https://github.com/santifer/career-ops/issues/2064)
-- [feat(dashboard): Responded is missing from the pipeline filter tabs](https://github.com/santifer/career-ops/issues/1999)
 - [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/1544)
 - [docs: verified recipe for Kimi k2.5 as the model inside OpenCode (budget guide)](https://github.com/santifer/career-ops/issues/1980)
 - [i18n: translate the interview modes (plan/practice/debrief) to Polish (pl)](https://github.com/santifer/career-ops/issues/1821)
@@ -47,48 +61,133 @@ This list gets updated every day at midnight.
 - [i18n: add Dutch (nl) modes](https://github.com/santifer/career-ops/issues/1390)
 - [doctor: treat missing first-run setup files as warnings, not hard failures](https://github.com/santifer/career-ops/issues/772)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-
 ## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 
 - [{{contrast_text_color}} helper returns incorrect text color](https://github.com/TryGhost/Ghost/issues/27797)
 
-## [layer5io/docs](https://github.com/layer5io/docs)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [[Docs] Improve visibility of carousel navigation](https://github.com/layer5io/docs/issues/1163)
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [Deen-Bridge/dnb-frontend](https://github.com/Deen-Bridge/dnb-frontend)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [[Bug] Jitsi Meet integration fails to initialize video rooms](https://github.com/Deen-Bridge/dnb-frontend/issues/68)
-- [[Enhancement] Remove unused dependencies (socket.io-client, react-select-country-list) and dead components](https://github.com/Deen-Bridge/dnb-frontend/issues/84)
-- [[Docs] Replace placeholder README images and fix broken project links](https://github.com/Deen-Bridge/dnb-frontend/issues/70)
-- [[Bug] Module-level auth header captures a stale token at import time and logs the JWT to the console](https://github.com/Deen-Bridge/dnb-frontend/issues/74)
-- [[Bug] Axios interceptor auto-retries failed POSTs, risking duplicate Stellar payment submissions](https://github.com/Deen-Bridge/dnb-frontend/issues/75)
-- [[Bug] Book preview API route uses params and cookies() synchronously (deprecated in Next 15)](https://github.com/Deen-Bridge/dnb-frontend/issues/89)
+- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
 
-## [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook)
+## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
 
-- [Mistake in reserve_time explanation in parser filter plugin](https://github.com/fluent/fluentd-docs-gitbook/issues/439)
-- [http input ('in_http') does not document the useful and implemented `add_query_params` option](https://github.com/fluent/fluentd-docs-gitbook/issues/434)
-- [Elasticsearch & Opensearch output plugins have unexpected/undocumented behavior](https://github.com/fluent/fluentd-docs-gitbook/issues/419)
+- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
+- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
+- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
+- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
+- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
+- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
+- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
+- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
+- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
+- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
+- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
 
-## [eouzoe/good-techstack](https://github.com/eouzoe/good-techstack)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Version maintenance — 版本檢查與回報流程](https://github.com/eouzoe/good-techstack/issues/2)
-- [問題回報](https://github.com/eouzoe/good-techstack/issues/3)
+- [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474)
+- ["Properly size image" report is too strict?](https://github.com/GoogleChrome/lighthouse/issues/11593)
+- [Display plugins in footer of report](https://github.com/GoogleChrome/lighthouse/issues/9934)
+
+## [YanivZalach/IceGraph](https://github.com/YanivZalach/IceGraph)
+
+- [Schemas better view](https://github.com/YanivZalach/IceGraph/issues/46)
+- [Add to filetree page single commit view](https://github.com/YanivZalach/IceGraph/issues/62)
+
+## [TurboWarp/extensions](https://github.com/TurboWarp/extensions)
+
+- [files.js: Maybe add a warning before reading files >100MB](https://github.com/TurboWarp/extensions/issues/81)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [Trust-Analysis/Tokenized-Fractional-](https://github.com/Trust-Analysis/Tokenized-Fractional-)
+
+- [NFT Certificate Gallery with Advanced Viewing Options](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/279)
+- [Implementation Purchase Limits](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/274)
+- [Implement a Multi-Wallet Connection and Management System](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/281)
+- [Implement Priority Queue System for Oversubscription](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/275)
+- [Implement an Advanced API Response Compression](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/287)
+- [Add a Real-time Update Indicators and Live Status](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/284)
+- [Automated API Documentation Generation](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/295)
+- [Add a  Comprehensive Transaction History Dashboard](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/280)
+- [Implement Multi-language Internationalization](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/282)
+- [Enhanced Asset Detail Page with Rich Content Support](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/283)
+- [GraphQL Schema Stitching Implementation](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/294)
+- [Add .nvmrc and .node-version files](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/110)
+- [Implement asset Whitelisting Mechanism](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/270)
+- [Add time-locked Purchase Windows](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/271)
+- [Implement Dividend Distribution Mechanism](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/267)
+- [Vesting Schedule Implementation](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/266)
+- [Add share Buyback Program](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/268)
+- [Implement Dynamic Pricing Mechanism](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/265)
+- [Add multi-asset Support Architecture](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/269)
+- [Add LICENSE file](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/117)
+- [Add FAQ / troubleshooting guide](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/120)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Meta boxes: update core styles to match Gutenberg's](https://github.com/WordPress/gutenberg/issues/12101)
+- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
+- [Coding standards: Use WordPress-Extra ruleset to prevent potential security issues](https://github.com/WordPress/gutenberg/issues/18502)
+- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
+- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
+- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
+
+## [badges/shields](https://github.com/badges/shields)
+
+- [Mozilla Thunderbird  add-ons (ATN)](https://github.com/badges/shields/issues/6994)
+
+## [Octo-Lex/GitWire](https://github.com/Octo-Lex/GitWire)
+
+- [Implementation proof: Level 1 PostgreSQL authority controls](https://github.com/Octo-Lex/GitWire/issues/81)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
+
+## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+
+- [Dev: Update notes icon in Admin](https://github.com/hackforla/tdm-calculator/issues/3399)
+
+## [Coding-Club-IITG/CourseHub](https://github.com/Coding-Club-IITG/CourseHub)
+
+- [BR Handling (1)](https://github.com/Coding-Club-IITG/CourseHub/issues/143)
+- [Course View (2)](https://github.com/Coding-Club-IITG/CourseHub/issues/145)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13252)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/13209)
+
+## [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy)
+
+- [Feature Request: Line Charts](https://github.com/genome-spy/genome-spy/issues/50)
 
 ## [future-agi/future-agi](https://github.com/future-agi/future-agi)
 
+- [Simulation's evaluation list has no way to select which evals to run, unlike Datasets](https://github.com/future-agi/future-agi/issues/1666)
 - [Add Select All and Select None buttons to bulk assignment dialog in annotation queue](https://github.com/future-agi/future-agi/issues/1502)
 - [Trigger Cekura chat regression runs from the platform, show pass rate](https://github.com/future-agi/future-agi/issues/1584)
 - [Eval output explanation panel has no scroll — long reasons are clipped](https://github.com/future-agi/future-agi/issues/1071)
 - [Eval detail page doesn't show the eval's tags (they appear in the evals list)](https://github.com/future-agi/future-agi/issues/1382)
-- [Simulation's evaluation list has no way to select which evals to run, unlike Datasets](https://github.com/future-agi/future-agi/issues/1666)
 - [Scenario search causes "Invalid page" error when searching from page 2+](https://github.com/future-agi/future-agi/issues/1485)
 - [Add validation for column names to prevent spaces and special characters](https://github.com/future-agi/future-agi/issues/1486)
 - [Observe: tab labels say "Primary Graph" and "Comparison Graph" but content shows data tables](https://github.com/future-agi/future-agi/issues/1686)
@@ -166,102 +265,34 @@ This list gets updated every day at midnight.
 - [CSV export on the Users tab ignores the active filters](https://github.com/future-agi/future-agi/issues/923)
 - [Chat simulations should not show interruption metrics in analytics view](https://github.com/future-agi/future-agi/issues/1503)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [layer5io/layer5](https://github.com/layer5io/layer5)
 
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Inaccurate: "0" performance tests results being reported](https://github.com/layer5io/layer5/issues/7860)
+- [[Screenshots] Flagger under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/5331)
+- [[Screenshots] Cilium under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4868)
+- [Enhance or replace the "Star the Repo" button](https://github.com/layer5io/layer5/issues/7859)
+- [[Learn] Learning Paths need enhanced with Meshery/MeshMap walk-throughs](https://github.com/layer5io/layer5/issues/4899)
+- [[SEO] First Contentful Paint (FCP): gatsby-plugin-webpack-bundle-analyser-v2](https://github.com/layer5io/layer5/issues/6449)
+- [Pricing: subscription plans as a sticky row](https://github.com/layer5io/layer5/issues/7665)
 
-## [HarperFast/harper](https://github.com/HarperFast/harper)
+## [nishit546/OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI)
 
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [[BUG] .txt file upload fails due to invalid MIME type check in upload.js](https://github.com/nishit546/OpenPrep-AI/issues/236)
+- [[BUG/SECURITY]: Mitigate Prompt Injection Vulnerabilities in Gemini Service](https://github.com/nishit546/OpenPrep-AI/issues/221)
+- [[SECURITY]: High-severity: Missing CSRF protection middleware in backend/server.js](https://github.com/nishit546/OpenPrep-AI/issues/171)
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+## [AjnasNB/cockroach-crawler](https://github.com/AjnasNB/cockroach-crawler)
 
-- [[Bug] Talk fails to upload files over HTTP (crypto.randomUUID is not a function)](https://github.com/nextcloud/spreed/issues/18733)
-- [Compatibility with Cloudflare Calls (TURN & STUN servers)](https://github.com/nextcloud/spreed/issues/12394)
-- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
-- [Delete messages completely instead of showing "Message deleted by you" in "Note to self"](https://github.com/nextcloud/spreed/issues/13139)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Temporary message added before date separator](https://github.com/nextcloud/spreed/issues/13777)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
-
-## [AbdulDevHub/Dev-Mountain](https://github.com/AbdulDevHub/Dev-Mountain)
-
-- [Useful Terminal Commands](https://github.com/AbdulDevHub/Dev-Mountain/issues/18)
-- [Give all pages tags](https://github.com/AbdulDevHub/Dev-Mountain/issues/25)
-- [Make Sure Agent Skills Are Up To Date](https://github.com/AbdulDevHub/Dev-Mountain/issues/17)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
-- [On the maintenance creation form, link start and end times together](https://github.com/louislam/uptime-kuma/issues/7044)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [Trying to create/update users with some special characters such as +, / or & generate a non-descriptive error or infinite load](https://github.com/jellyfin/jellyfin-web/issues/6384)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [createInterpolateElement: Add error handling in case unmatched tags are included](https://github.com/WordPress/gutenberg/issues/60843)
-- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
-- [Coding standards: Use WordPress-Extra ruleset to prevent potential security issues](https://github.com/WordPress/gutenberg/issues/18502)
-- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [test_runner: print failed coverage reports with dot runner](https://github.com/nodejs/node/issues/60884)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
-
-- [Long and short deprecation links](https://github.com/nodejs/doc-kit/issues/790)
-- [Consideration: detect `doc-kit.config.mjs` automatically](https://github.com/nodejs/doc-kit/issues/897)
-- [Customize Shiki](https://github.com/nodejs/doc-kit/issues/844)
-
-## [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)
-
-- [Expand button at the top of the sidepanel](https://github.com/webbrain-one/webbrain/issues/466)
-- [Discord Server to discuss everything WebBrain](https://github.com/webbrain-one/webbrain/issues/432)
-- [Add `/watch` shorthand with conditional `/beep` notifications](https://github.com/webbrain-one/webbrain/issues/410)
-
-## [plotly/plotly.js](https://github.com/plotly/plotly.js)
-
-- [[BUG]: `choropleth` with custom GeoJSON: a single malformed feature throws an uncaught `TypeError` and blanks the entire plot](https://github.com/plotly/plotly.js/issues/7874)
-- [[FEATURE]: Add modebar button to download figure JSON](https://github.com/plotly/plotly.js/issues/7917)
-- [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914)
-- [[BUG]: Bar labels overlap with top/right axis labels with textposition=outside](https://github.com/plotly/plotly.js/issues/7822)
-- [[BUG]: Default `zoom` and `center` for `scattermap` traces does not show all points](https://github.com/plotly/plotly.js/issues/7674)
-- [[BUG]: marker.colorbar.tickfont.textcase='normal' blanks scattermap on initial render, but Plotly.restyle renders correctly](https://github.com/plotly/plotly.js/issues/7869)
-
-## [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-
-- [Looking for maintainers / contributors / code reviewers...](https://github.com/highlightjs/highlight.js/issues/1678)
+- [test: reproduce the 0.4.2 packed install and native MCP boundary](https://github.com/AjnasNB/cockroach-crawler/issues/66)
+- [Generate shell completions and man pages for all public CLIs](https://github.com/AjnasNB/cockroach-crawler/issues/23)
 
 ## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
 
-- [Good First Issue: Test Cases for Self-Closing Custom Component Elements](https://github.com/Avenx-JS/avenx-js/issues/567)
+- [Good First Issue: Document the $watch Instance Method on AvenxComponent Supporting String Paths](https://github.com/Avenx-JS/avenx-js/issues/621)
+- [Good First Issue: Document AVX_R17 (BRIDGE_CONSTRUCTION_FAILED) in the Troubleshooting Guide](https://github.com/Avenx-JS/avenx-js/issues/622)
+- [Good First Issue: Document AvenxApp Global onError Handler](https://github.com/Avenx-JS/avenx-js/issues/620)
+- [Good First Issue: Document Implicit index Variable inside VirtualList Template Slots](https://github.com/Avenx-JS/avenx-js/issues/619)
+- [Good First Issue: Fix Router-Guard API Reference Typo (Replace Maps(hash) with navigate(hash))](https://github.com/Avenx-JS/avenx-js/issues/618)
 - [Refactor: Standardize Custom Template Error Types in AvenxCompiler](https://github.com/Avenx-JS/avenx-js/issues/509)
 - [Good First Issue: Document Compiler Error Code AVX_C02 (COMPILER_SRC_DIR_MISSING)](https://github.com/Avenx-JS/avenx-js/issues/594)
 - [Docs: Document the Dev Server Component and Routing Inspection Dashboard](https://github.com/Avenx-JS/avenx-js/issues/581)
