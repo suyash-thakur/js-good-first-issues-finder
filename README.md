@@ -4,106 +4,74 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
+## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
 
-- [SLO YMCA moving to 24-hour schedule](https://github.com/davgross/homeless-in-slo-resource-guide/issues/347)
-- ["The Loop" at Cal Poly](https://github.com/davgross/homeless-in-slo-resource-guide/issues/335)
-- [Add "Hope for Ashlynn" group](https://github.com/davgross/homeless-in-slo-resource-guide/issues/357)
+- [windows builds fail very intermittently on resource locked error](https://github.com/ProjectEvergreen/greenwood/issues/1585)
+- [Have develop command pick next randomly available port for dev and live reload servers](https://github.com/ProjectEvergreen/greenwood/issues/71)
+- [static router outputting a `<script>` tag with a path of `/undefined` (when an SSR route is present?)](https://github.com/ProjectEvergreen/greenwood/issues/1051)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
-- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
-- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
-- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
-- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
-- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
-- [Coding standards: Use WordPress-Extra ruleset to prevent potential security issues](https://github.com/WordPress/gutenberg/issues/18502)
-- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
-- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
+- [[ACTION] Tools need to be added to "IONOS Hosting Services MCP Server"](https://github.com/PipedreamHQ/pipedream/issues/21566)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21588)
+- [[FEATURE](search_api): add Google Jobs search action](https://github.com/PipedreamHQ/pipedream/issues/21513)
+- [[ACTION]message ](https://github.com/PipedreamHQ/pipedream/issues/21580)
+- [Shopify bulkmutation](https://github.com/PipedreamHQ/pipedream/issues/21577)
+- [New Membership Invalidated (Instant)](https://github.com/PipedreamHQ/pipedream/issues/21562)
+- [membership.went_invalid](https://github.com/PipedreamHQ/pipedream/issues/21561)
+- [NEED A NEW TOOL FOR FINNHUB VIA PIPEDREAM[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21071)
+- [[ACTION] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537)
+- [[ACTION] DPD Shipping - Get Tracking Data with Weight (detail=3)](https://github.com/PipedreamHQ/pipedream/issues/21321)
+- [Sms8 - SMS GATEWAY: OTP & webhook](https://github.com/PipedreamHQ/pipedream/issues/20977)
+- [Tools for Sugar CRM](https://github.com/PipedreamHQ/pipedream/issues/21417)
+- [[ACTION] [App] Ringba — request for additional pre-built components](https://github.com/PipedreamHQ/pipedream/issues/20743)
+- [Meta Ads](https://github.com/PipedreamHQ/pipedream/issues/21039)
+- [[ACTION] Contacts+](https://github.com/PipedreamHQ/pipedream/issues/21328)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
-- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
-- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
-- [[Feature] Link to parent item in active effects](https://github.com/Foundryborne/daggerheart/issues/2017)
-- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
-- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
+- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12959)
+- [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
 
-## [Prashant-Singh-Rawat/ML-Project-CV-Analysis](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis)
+## [dills122/MTG-Card-Analyzer](https://github.com/dills122/MTG-Card-Analyzer)
 
-- [Enhance Resume Matching using Semantic BERT Embeddings instead of Keyword-Based Scoring](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis/issues/2)
-- [Enhance Landing Page with FAQ, Reviews & Trust-Building Sections](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis/issues/3)
-- [Build Forgot Password Section](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis/issues/15)
-- [Bug: Resume analysis from the in-app builder fails due to file field mismatch](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis/issues/24)
-- [Bug: Mutable default argument in interview request model can leak state across requests](https://github.com/Prashant-Singh-Rawat/ML-Project-CV-Analysis/issues/25)
+- [Add logging to remaining core modules (back-filler, card-collection, transaction, db-local, storage adapters)](https://github.com/dills122/MTG-Card-Analyzer/issues/28)
 
 ## [layer5io/docs](https://github.com/layer5io/docs)
 
 - [[Docs] Floating Card Overlapping Navbar](https://github.com/layer5io/docs/issues/1187)
 
-## [Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System)
+## [jacobwright32/uk-grid-atlas](https://github.com/jacobwright32/uk-grid-atlas)
 
-- [Add a loading spinner while waiting for model prediction](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/24)
-- [Add unit tests for the backend prediction endpoints](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/21)
-- [Create a dashboard for visualizing historical prediction data](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/20)
-- [Handle API error responses gracefully](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/19)
-- [Update README with detailed local setup instructions](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/18)
-- [Implement form validation for all input fields](https://github.com/Prashant-Singh-Rawat/Tony-AI-Health-Analysis-System/issues/15)
+- [Regenerate og.png social card for the 8-grid branding](https://github.com/jacobwright32/uk-grid-atlas/issues/16)
+- [window.__ukgridMap debug handle leaks after unmount](https://github.com/jacobwright32/uk-grid-atlas/issues/7)
 
-## [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode)
+## [jeremysball/token-burn-dashboard](https://github.com/jeremysball/token-burn-dashboard)
 
-- [Add Reload File button, just call it Reload](https://github.com/Acode-Foundation/Acode/issues/2390)
-- [Show errors in user friendly way](https://github.com/Acode-Foundation/Acode/issues/1800)
-- [Weird effect on quick tools if I touch the editor](https://github.com/Acode-Foundation/Acode/issues/2338)
+- [Analytics table: can't scroll horizontally on mobile; column headers should sort](https://github.com/jeremysball/token-burn-dashboard/issues/28)
+- [Show a clearer error when the dashboard can't reach the backend](https://github.com/jeremysball/token-burn-dashboard/issues/43)
+- [Redo README with real screenshots](https://github.com/jeremysball/token-burn-dashboard/issues/42)
 
-## [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo)
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
 
-- [[Bug]: Fix documentation for the wpseo_sitemap_entry filter](https://github.com/Yoast/wordpress-seo/issues/23148)
-
-## [AbdulDevHub/Dev-Mountain](https://github.com/AbdulDevHub/Dev-Mountain)
-
-- [Useful Terminal Commands](https://github.com/AbdulDevHub/Dev-Mountain/issues/18)
-- [Give all pages tags](https://github.com/AbdulDevHub/Dev-Mountain/issues/25)
-
-## [MyZubster-Ecosystem/MyZubster-Marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace)
-
-- [[Feature] Peer-to-peer seed and cutting exchange system](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/18)
-- [[Feature] Create 'Garden Products' category in marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/17)
-- [[Free] Data model for Seed & Cutting Exchange](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/12)
-- [[Free] Categoria 'Prodotti dell'Orto' nel Marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/9)
-- [[Free] Add sorting to listings API](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/4)
+- [The tooltips for methods or attributes in the sidebar are not fully displayed.](https://github.com/nodejs/doc-kit/issues/938)
+- [theme switcher initial state for icon is wrong](https://github.com/nodejs/doc-kit/issues/903)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
 - [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
-## [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway)
+## [maheshshinde9100/ms-ui-kit](https://github.com/maheshshinde9100/ms-ui-kit)
 
-- [[BOUNTY B1] Dashboard Rewards - Frontend](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/254)
-- [[Bounty] Seed Exchange: add CSV/GeoJSON export endpoints](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/109)
-- [[Free] Unit tests for MoneroService](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/79)
-- [[Free] Write unit tests for admin routes](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/95)
-- [[Free] Improve API error messages](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/93)
-- [[Free] Environment variables documentation](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/90)
-- [[Free] REST API for mapping (plants, animals, people)](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/69)
-- [[Free] Design MongoDB schema for mapping data](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/68)
+- [[FEATURE] Core: Add Plugin Architecture for Extensibility](https://github.com/maheshshinde9100/ms-ui-kit/issues/33)
 
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+## [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies)
 
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-- [{{contrast_text_color}} helper returns incorrect text color](https://github.com/TryGhost/Ghost/issues/27797)
-- [Incorrect links from Top sources in analytics](https://github.com/TryGhost/Ghost/issues/24607)
-- [a11y: `kg-toggle-card` not usable properly with a screenreader](https://github.com/TryGhost/Ghost/issues/27462)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+- [[Bounty: 2 GSD] Make merged work visible on the published Pages site](https://github.com/jflournoy/for-funsies/issues/9)
+- [[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository](https://github.com/jflournoy/for-funsies/issues/4)
+- [[Bounty: 1 GSD] Set up a workflow to track custom bounties](https://github.com/jflournoy/for-funsies/issues/1)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -112,124 +80,35 @@ This list gets updated every day at midnight.
 - [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
 - [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
 
-## [jeremysball/token-burn-dashboard](https://github.com/jeremysball/token-burn-dashboard)
+## [neomjs/neo](https://github.com/neomjs/neo)
 
-- [Analytics table: can't scroll horizontally on mobile; column headers should sort](https://github.com/jeremysball/token-burn-dashboard/issues/28)
-- [Show a clearer error when the dashboard can't reach the backend](https://github.com/jeremysball/token-burn-dashboard/issues/43)
-- [Redo README with real screenshots](https://github.com/jeremysball/token-burn-dashboard/issues/42)
+- [Lease guard-contention error paths are unreachable by any test, and all four crashed](https://github.com/neomjs/neo/issues/16632)
+- [Add unit coverage for Neo.util.Matrix](https://github.com/neomjs/neo/issues/15429)
 
-## [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+## [HarperFast/harper](https://github.com/HarperFast/harper)
 
-- [[Mobile]: Add safe-area-inset-bottom to StatusBar for iOS home indicator](https://github.com/lokus-ai/lokus/issues/312)
-
-## [nextcloud/deck](https://github.com/nextcloud/deck)
-
-- [Small dark mode issue](https://github.com/nextcloud/deck/issues/7539)
-- [Attachments can not be deleted](https://github.com/nextcloud/deck/issues/2486)
-
-## [qzstatick/.github](https://github.com/qzstatick/.github)
-
-- [Yy](https://github.com/qzstatick/.github/issues/28)
-- [настроить labeler](https://github.com/qzstatick/.github/issues/17)
-- [test branch creation](https://github.com/qzstatick/.github/issues/24)
-- [надо сделать резюме](https://github.com/qzstatick/.github/issues/15)
-
-## [rookslog/stylewright](https://github.com/rookslog/stylewright)
-
-- [skill: diataxis](https://github.com/rookslog/stylewright/issues/4)
-- [Pathway 6: curl and make wrappers](https://github.com/rookslog/stylewright/issues/7)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
-- [[Bug] Talk fails to upload files over HTTP (crypto.randomUUID is not a function)](https://github.com/nextcloud/spreed/issues/18733)
-- [Compatibility with Cloudflare Calls (TURN & STUN servers)](https://github.com/nextcloud/spreed/issues/12394)
-
-## [jacobwright32/uk-grid-atlas](https://github.com/jacobwright32/uk-grid-atlas)
-
-- [Regenerate og.png social card for the 8-grid branding](https://github.com/jacobwright32/uk-grid-atlas/issues/16)
-- [window.__ukgridMap debug handle leaks after unmount](https://github.com/jacobwright32/uk-grid-atlas/issues/7)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
-- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-
-## [plotly/plotly.js](https://github.com/plotly/plotly.js)
-
-- [[BUG]: marker.colorbar.tickfont.textcase='normal' blanks scattermap on initial render, but Plotly.restyle renders correctly](https://github.com/plotly/plotly.js/issues/7869)
-- [[FEATURE]: Setting `itemheight` (analogous to `itemwidth`) to increase height of fill in legend](https://github.com/plotly/plotly.js/issues/7924)
-- [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914)
-- [[FEATURE]: Add modebar button to download figure JSON](https://github.com/plotly/plotly.js/issues/7917)
-- [[BUG]: Default `zoom` and `center` for `scattermap` traces does not show all points](https://github.com/plotly/plotly.js/issues/7674)
-
-## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
-
-- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
-- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
-- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
-- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
-- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
-- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
-- [POST /api/users endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2779)
-- [CORS configured without origin allowlist in app.js (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2782)
-- [POST /api/proposals endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2773)
-- [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
-- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
-- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
-- [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
-- [auth refresh endpoint issues tokens without verifying the requester](https://github.com/SecureBananaLabs/bug-bounty/issues/2847)
-- [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
-- [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
-- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
-- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
-- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
-- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
-- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
-- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
-- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2827)
-- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
-
-## [zen-browser/desktop](https://github.com/zen-browser/desktop)
-
-- [UI glitch when rapidly switching Sidebar/Tabs layout options in Settings](https://github.com/zen-browser/desktop/issues/14837)
-- ["Rename Folder" option unavailable in collapsed toolbar layout](https://github.com/zen-browser/desktop/issues/14082)
-- [Non-intuitive shortcut mapping](https://github.com/zen-browser/desktop/issues/14492)
-- [Windows: Scroll bar in tab list causes layout shift when always show scroll bars is enabled](https://github.com/zen-browser/desktop/issues/12402)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12959)
-- [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
 
 ## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
 
 - [Dev: Update notes icon in Admin](https://github.com/hackforla/tdm-calculator/issues/3399)
 
-## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
 
-- [Use the real audio format for uploaded tile sound filenames instead of hardcoded .mp3](https://github.com/cboard-org/cboard/issues/2250)
-
-## [nodejs/node](https://github.com/nodejs/node)
-
-- [FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal](https://github.com/nodejs/node/issues/56531)
-- [Cpplint produces false positives for FastApiOptions](https://github.com/nodejs/node/issues/45761)
-- [Writable does not check if stream has been destroyed during _final and _write](https://github.com/nodejs/node/issues/39030)
-- [TextDecoder does not error incorrectly for legacy byte sequences](https://github.com/nodejs/node/issues/40091)
-- [test_runner: do not read from `process.argv` and `process.cwd()` in run()](https://github.com/nodejs/node/issues/53867)
-
-## [osm-americana/openstreetmap-americana](https://github.com/osm-americana/openstreetmap-americana)
-
-- [Florida Scenic Highways](https://github.com/osm-americana/openstreetmap-americana/issues/1419)
+- [[Reliability] Uncaught rejections in history/config/batch commands print raw stack traces](https://github.com/404-PF/commit-echo/issues/272)
+- [[Bug] prepare-commit-msg hook blocks every commit on LLM latency with no overall timeout](https://github.com/404-PF/commit-echo/issues/271)
+- [[Reliability] process.exit(1) after outro()/console.log can truncate CLI output](https://github.com/404-PF/commit-echo/issues/270)
+- [[Bug] Malformed SSE JSON chunks are silently swallowed in streaming](https://github.com/404-PF/commit-echo/issues/269)
+- [[Maintainability] Duplicated, divergent git logic in batch.ts vs git/diff.ts](https://github.com/404-PF/commit-echo/issues/268)
+- [[Bug] Batch mode skips repositories with only untracked files](https://github.com/404-PF/commit-echo/issues/267)
+- [[Performance] countEntries() reads the entire history.jsonl into memory](https://github.com/404-PF/commit-echo/issues/266)
+- [[Bug] Streaming responses have no timeout while consuming the body](https://github.com/404-PF/commit-echo/issues/265)
+- [[Bug] batch and git hooks call bare `git`, bypassing the resolved executable](https://github.com/404-PF/commit-echo/issues/264)
+- [[Bug] Global --no-color flag is a no-op for all commands](https://github.com/404-PF/commit-echo/issues/263)
+- [Fix git commands that rely on PATH resolution (code scanning S4036)](https://github.com/404-PF/commit-echo/issues/254)
+- [Disable package install scripts in publish workflow (code scanning S6505)](https://github.com/404-PF/commit-echo/issues/252)
+- [Update CONTRIBUTING.md project structure diagram](https://github.com/404-PF/commit-echo/issues/220)
 
 ## [jeremysball/taskferry](https://github.com/jeremysball/taskferry)
 
@@ -257,13 +136,99 @@ This list gets updated every day at midnight.
 - [defaultTaskManager is dead code with import-time side effects and a stale comment](https://github.com/jeremysball/taskferry/issues/49)
 - [Surface completion timestamp in list/status output](https://github.com/jeremysball/taskferry/issues/114)
 
-## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
+## [rubenmarcus/csbrasil](https://github.com/rubenmarcus/csbrasil)
 
-- [Allow custom prompt template file via config](https://github.com/404-PF/commit-echo/issues/237)
-- [Fix git commands that rely on PATH resolution (code scanning S4036)](https://github.com/404-PF/commit-echo/issues/254)
-- [Pin external GitHub Action softprops/action-gh-release to a commit SHA (code scanning S7637)](https://github.com/404-PF/commit-echo/issues/253)
-- [Disable package install scripts in publish workflow (code scanning S6505)](https://github.com/404-PF/commit-echo/issues/252)
-- [Update CONTRIBUTING.md project structure diagram](https://github.com/404-PF/commit-echo/issues/220)
+- [O ratchet de dívidas conhecidas só sabe crescer](https://github.com/rubenmarcus/csbrasil/issues/84)
+- [`?tripovm=1` e `?tvm=1` somem em produção sem avisar](https://github.com/rubenmarcus/csbrasil/issues/81)
+- [CHANGELOG: 27 versões sem entrada](https://github.com/rubenmarcus/csbrasil/issues/80)
+- [O aspecto declarado de 6 cartazes está errado (arte esticada na parede)](https://github.com/rubenmarcus/csbrasil/issues/79)
+- [A poda do build não tem régua](https://github.com/rubenmarcus/csbrasil/issues/78)
+- [O layout de grafite pode citar arquivo que não existe mais](https://github.com/rubenmarcus/csbrasil/issues/77)
+- [O censo de grafite só mede na altura do olho](https://github.com/rubenmarcus/csbrasil/issues/76)
+- [Harness: actually retire obsolete evals](https://github.com/rubenmarcus/csbrasil/issues/43)
+- [Tooling: verify skills-lock.json hashes on install](https://github.com/rubenmarcus/csbrasil/issues/42)
+- [Site: sortable weapon comparison table](https://github.com/rubenmarcus/csbrasil/issues/35)
+
+## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+
+- [Good First Issue: Enhance Error Logging in `ListManager` for Malformed `<@for>` Key Expressions](https://github.com/Avenx-JS/avenx-js/issues/875)
+- [Good First Issue: Add `AvenxApp.getRegisteredComponents()` Inspection Method](https://github.com/Avenx-JS/avenx-js/issues/874)
+- [Good First Issue: Sanitize Trailing Slashes and Spaces in CLI Server Options (`avenx serve`)](https://github.com/Avenx-JS/avenx-js/issues/873)
+- [Documentation: Add Guide and Code Examples for Custom Directive Creation (`AvenxComponent.directive`)](https://github.com/Avenx-JS/avenx-js/issues/872)
+- [Documentation: Document Runtime Warning Code AVX_W15 (`COMPONENT_INJECT_KEY_NOT_FOUND`)](https://github.com/Avenx-JS/avenx-js/issues/871)
+- [Documentation: Add Comprehensive Guide and Code Examples for `AvenxBridge` State Sharing](https://github.com/Avenx-JS/avenx-js/issues/870)
+- [Documentation: Document Runtime Warning Code AVX_W20 (`RENDER_LIST_DUPLICATE_KEY`)](https://github.com/Avenx-JS/avenx-js/issues/869)
+- [Documentation: Document Compiler Warning Code AVX_W25 (`COMPILER_INVALID_CONFIG`)](https://github.com/Avenx-JS/avenx-js/issues/868)
+- [Refactor: Add Runtime Type Validation and Helpful Warnings for AvenxApp.register()](https://github.com/Avenx-JS/avenx-js/issues/819)
+- [Feature: Support --dry-run Option in avenx destroy CLI Command](https://github.com/Avenx-JS/avenx-js/issues/809)
+- [Select Dynamic Option Double-Binding Failure](https://github.com/Avenx-JS/avenx-js/issues/531)
+- [Good First Issue: Enhance CLI Help Command with ANSI Colors](https://github.com/Avenx-JS/avenx-js/issues/564)
+- [Good First Issue: Document Compiler Error Code AVX_C02 (COMPILER_SRC_DIR_MISSING)](https://github.com/Avenx-JS/avenx-js/issues/594)
+- [Document Warning Code AVX_W19 (RENDER_KEY_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/453)
+- [Document Warning Code AVX_W14 (COMPONENT_RESTORE_SLOT_CONTENT_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/447)
+- [Doc: Document Reactivity Tracking Exclusions (Symbols and Non-Plain Objects)](https://github.com/Avenx-JS/avenx-js/issues/418)
+- [Document Warning Code AVX_W18 (RENDER_LIST_EVALUATION_FAILED)](https://github.com/Avenx-JS/avenx-js/issues/452)
+- [Declarative State Persistence Utility (`data-persist`)](https://github.com/Avenx-JS/avenx-js/issues/136)
+- [Fix Incorrect Signature and Example for `AvenxApp.mount()` in API Reference](https://github.com/Avenx-JS/avenx-js/issues/365)
+- [Automatic Watcher Cleanup on Component Unmount](https://github.com/Avenx-JS/avenx-js/issues/237)
+- [Document CLI check/lint command in CLI reference](https://github.com/Avenx-JS/avenx-js/issues/286)
+
+## [cboard-org/cboard](https://github.com/cboard-org/cboard)
+
+- [Use the real audio format for uploaded tile sound filenames instead of hardcoded .mp3](https://github.com/cboard-org/cboard/issues/2250)
+
+## [magnoormeno-dot/netcafe-guard](https://github.com/magnoormeno-dot/netcafe-guard)
+
+- [Extend the leftover-credential watchlist: AI agent & MCP config files](https://github.com/magnoormeno-dot/netcafe-guard/issues/5)
+- [Tighten rule references: exact benchmark sections and vendor doc URLs](https://github.com/magnoormeno-dot/netcafe-guard/issues/11)
+- [Localise remediation text — Chinese first / 把修复建议翻译成中文](https://github.com/magnoormeno-dot/netcafe-guard/issues/10)
+- [macOS baseline: detect auto-login and Guest account (Mac kiosks)](https://github.com/magnoormeno-dot/netcafe-guard/issues/9)
+- [Linux baseline: detect display-manager auto-login (LightDM / GDM / SDDM)](https://github.com/magnoormeno-dot/netcafe-guard/issues/8)
+- [Detect more disk-restore / write-filter agents (regional café suites — 还原卡/还原软件)](https://github.com/magnoormeno-dot/netcafe-guard/issues/7)
+- [Add probe + rule: Game DVR / background screen recording disabled](https://github.com/magnoormeno-dot/netcafe-guard/issues/4)
+- [Add probe + rule: SMBv1 disabled](https://github.com/magnoormeno-dot/netcafe-guard/issues/3)
+- [Add probe + rule: system drive encryption status (BitLocker)](https://github.com/magnoormeno-dot/netcafe-guard/issues/2)
+- [Add probe + rule: USB mass storage disabled (USBSTOR Start = 4)](https://github.com/magnoormeno-dot/netcafe-guard/issues/1)
+
+## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
+
+- [SLO YMCA moving to 24-hour schedule](https://github.com/davgross/homeless-in-slo-resource-guide/issues/347)
+- ["The Loop" at Cal Poly](https://github.com/davgross/homeless-in-slo-resource-guide/issues/335)
+- [Add "Hope for Ashlynn" group](https://github.com/davgross/homeless-in-slo-resource-guide/issues/357)
+
+## [ChulioZ/spielwirbel](https://github.com/ChulioZ/spielwirbel)
+
+- [Close the admin row-detail popup on a backdrop click](https://github.com/ChulioZ/spielwirbel/issues/417)
+- [Add the Portuguese UI locale (pt)](https://github.com/ChulioZ/spielwirbel/issues/538)
+- [Add the Dutch UI locale (nl)](https://github.com/ChulioZ/spielwirbel/issues/537)
+- [Add the Italian UI locale (it)](https://github.com/ChulioZ/spielwirbel/issues/536)
+- [Add the Spanish UI locale (es)](https://github.com/ChulioZ/spielwirbel/issues/535)
+- [Add the French UI locale (fr)](https://github.com/ChulioZ/spielwirbel/issues/534)
+- [Add an npm run dev script with auto-restart](https://github.com/ChulioZ/spielwirbel/issues/529)
+
+## [fastify/fastify](https://github.com/fastify/fastify)
+
+- [How to separate api endpoints in google cloud.](https://github.com/fastify/fastify/issues/4670)
+- [Support pino logger customAttributeKeys to replace existing req res reqId log record fields](https://github.com/fastify/fastify/issues/4413)
+
+## [modrollstudio/Modroll-Studio-Website](https://github.com/modrollstudio/Modroll-Studio-Website)
+
+- [Github links doesn't open in new browser window](https://github.com/modrollstudio/Modroll-Studio-Website/issues/14)
+- [Fix initiative](https://github.com/modrollstudio/Modroll-Studio-Website/issues/18)
+- [Fix the roadmap](https://github.com/modrollstudio/Modroll-Studio-Website/issues/6)
+- [Mod page: Critfall: Checks](https://github.com/modrollstudio/Modroll-Studio-Website/issues/9)
+- [Mod page: Critfall: Initiative](https://github.com/modrollstudio/Modroll-Studio-Website/issues/8)
+- [Add new section for upcoming mod - Critfall: Dungeon Crawl](https://github.com/modrollstudio/Modroll-Studio-Website/issues/5)
+
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
+
+- [Ultra audit: break EGC on Anthropic Fable or Mistral](https://github.com/Fmarzochi/EGC/issues/990)
+- [test(memory): does EGC really give every tool the same brain?](https://github.com/Fmarzochi/EGC/issues/1219)
+- [test(crusher): catch the Token Crusher dropping something it promised to keep](https://github.com/Fmarzochi/EGC/issues/1220)
+- [test(guardian): try to get a dangerous command past the Guardian](https://github.com/Fmarzochi/EGC/issues/1221)
+- [test(egc): use EGC for one real working day and tell us what happened](https://github.com/Fmarzochi/EGC/issues/1222)
+- [test(v1.1.18): upgrade or install on Linux and report behavior](https://github.com/Fmarzochi/EGC/issues/1218)
+- [test(v1.1.18): upgrade or install on macOS and report behavior](https://github.com/Fmarzochi/EGC/issues/644)
 
 ## [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
 
@@ -273,58 +238,83 @@ This list gets updated every day at midnight.
 - [[Feature]: Expose `custom_properties` in `StreamSerializer](https://github.com/Dispatcharr/Dispatcharr/issues/1448)
 - [[Bug]: EPG refresh fails with "Permission denied: /app/media/cached_epg/*.tmp" (cache dir owned by root, refresh runs as 'dispatch')](https://github.com/Dispatcharr/Dispatcharr/issues/1437)
 
-## [matheusmonck/live-avatars](https://github.com/matheusmonck/live-avatars)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [CONTRIBUTING.md + templates de issue/PR + CODE_OF_CONDUCT](https://github.com/matheusmonck/live-avatars/issues/13)
-- [Launcher cross-platform (macOS/Linux)](https://github.com/matheusmonck/live-avatars/issues/4)
-- [Fixar versao do Node (engines + .nvmrc)](https://github.com/matheusmonck/live-avatars/issues/3)
-- [Adicionar ESLint + Prettier](https://github.com/matheusmonck/live-avatars/issues/2)
+- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [MetaMorphic-Digital/draw-steel](https://github.com/MetaMorphic-Digital/draw-steel)
 
-- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
-- [Improve tests with more checks for unexpected `'disconnect'`](https://github.com/nodejs/undici/issues/251)
+- [Consider adding d3 to the core dice config options](https://github.com/MetaMorphic-Digital/draw-steel/issues/1451)
+- [Add button to repick item](https://github.com/MetaMorphic-Digital/draw-steel/issues/1513)
 
-## [SunnyAgrwl05/krishimitra-ai](https://github.com/SunnyAgrwl05/krishimitra-ai)
+## [khushi897920-lang/hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai)
 
-- [Improve Project Documentation](https://github.com/SunnyAgrwl05/krishimitra-ai/issues/18)
-- [Add Hindi & English Language Support](https://github.com/SunnyAgrwl05/krishimitra-ai/issues/8)
-- [Improve Mobile Responsiveness](https://github.com/SunnyAgrwl05/krishimitra-ai/issues/5)
-- [Integrate Live Google Earth Engine Satellite Data](https://github.com/SunnyAgrwl05/krishimitra-ai/issues/4)
-- [Add Weather Forecast Integration for Smart Farming Insights](https://github.com/SunnyAgrwl05/krishimitra-ai/issues/1)
+- [[BUG] Symptom Analysis Can Crash When symptoms Is Not an Array](https://github.com/khushi897920-lang/hercycle-ai/issues/164)
+- [backend: Inject userId context into delete-account logger errors](https://github.com/khushi897920-lang/hercycle-ai/issues/185)
+- [[BUG] Duplicate Symptoms Can Artificially Increase the PCOD Risk Score](https://github.com/khushi897920-lang/hercycle-ai/issues/165)
 
-## [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [Alignment tools for labels don't work inside of participant/lane](https://github.com/bpmn-io/bpmn-js/issues/2371)
-- [Visual glitches using connect tool](https://github.com/bpmn-io/bpmn-js/issues/2140)
-- [Label double moves on batch movement](https://github.com/bpmn-io/bpmn-js/issues/1766)
+- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
+- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
+- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
+- [[Feature] Link to parent item in active effects](https://github.com/Foundryborne/daggerheart/issues/2017)
+- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
+- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
 
-## [airqo-platform/AirQo-api](https://github.com/airqo-platform/AirQo-api)
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
-- [Add unit tests for cohort validator — updateCohort and updateCohortName](https://github.com/airqo-platform/AirQo-api/issues/6209)
+- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
+- [Code Quality: Refactor all React class components to functional components using hooks](https://github.com/WordPress/gutenberg/issues/22890)
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
+- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [The description of the More block is not clear](https://github.com/WordPress/gutenberg/issues/41854)
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- ["Read more" options for post excerpts do not contain accessible names](https://github.com/WordPress/gutenberg/issues/45396)
+- [Coding standards: Use WordPress-Extra ruleset to prevent potential security issues](https://github.com/WordPress/gutenberg/issues/18502)
+- [Column block: Dropping block into an empty column using a drop zone.](https://github.com/WordPress/gutenberg/issues/30699)
+- [`check-licenses`: GPLv3 isn't recognized as a compatible license](https://github.com/WordPress/gutenberg/issues/20701)
 
-## [HarperFast/harper](https://github.com/HarperFast/harper)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-- [Update TLS privateKey to use relative path and update tests](https://github.com/HarperFast/harper/issues/307)
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
 
-## [anuragrawattt/hh-goa-2026-pfp-generator](https://github.com/anuragrawattt/hh-goa-2026-pfp-generator)
+## [medic/cht-core](https://github.com/medic/cht-core)
 
-- [fix: wrap long text (Name, Stack, Team) on Builder ID badge canvas](https://github.com/anuragrawattt/hh-goa-2026-pfp-generator/issues/9)
-- [[Refactor] Simplify typography across UI elements while preserving hero headline font](https://github.com/anuragrawattt/hh-goa-2026-pfp-generator/issues/6)
+- [Investigate loading externally hosted media into forms](https://github.com/medic/cht-core/issues/10323)
+- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
+- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
 
-## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+## [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)
 
-- [Standardize Informational. Error messages and Warnings](https://github.com/saayam-for-all/webapp/issues/881)
+- [Documentation & Video Recording HOW TO USE CHATGPT/CLAUDE/GEMINI SUBSCRIPTION WITH WEBBRAIN](https://github.com/webbrain-one/webbrain/issues/2691)
+- [Discord Server to discuss everything WebBrain](https://github.com/webbrain-one/webbrain/issues/432)
+- [Expand button at the top of the sidepanel](https://github.com/webbrain-one/webbrain/issues/466)
 
-## [openedx/docs.openedx.org](https://github.com/openedx/docs.openedx.org)
+## [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 
-- [Clicking on tile images should bring you to the page, not the image](https://github.com/openedx/docs.openedx.org/issues/1479)
+- [readObject with type = wrapped throws for a commit object](https://github.com/isomorphic-git/isomorphic-git/issues/1240)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [SRV30/Faith-and-Fast](https://github.com/SRV30/Faith-and-Fast)
 
-- ['Data Attribution' link is not accessible using accessible using keyboard in map screen in windows.](https://github.com/CesiumGS/cesium/issues/13670)
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-- [Docs Demo of WebMapTileServiceImageryProvider giving error](https://github.com/CesiumGS/cesium/issues/12442)
+- [[ELUSOC] Standardize File Naming and Fix Controller Typo](https://github.com/SRV30/Faith-and-Fast/issues/80)
+- [[ELUSOC] Implement "No Orders Found" Empty State in My Orders Page](https://github.com/SRV30/Faith-and-Fast/issues/81)
+
+## [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
+
+- [Voice profile targets can mandate content the source lacks, colliding with the never-inject guardrails](https://github.com/conorbronsdon/avoid-ai-writing/issues/100)
+- [Edit mode has no target-type boundary: prose rewrites can be pointed at source or config files](https://github.com/conorbronsdon/avoid-ai-writing/issues/101)
+- [fenceRanges() accepts an info string on a closing fence, ending code blocks early](https://github.com/conorbronsdon/avoid-ai-writing/issues/77)
 
