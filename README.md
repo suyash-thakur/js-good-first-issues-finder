@@ -318,3 +318,4 @@ This list gets updated every day at midnight.
 
 - [[TS] Improve event handler typings for all components](https://github.com/grommet/grommet/issues/3165)
 
+kissterm - студент, изучаю Git и open-source
