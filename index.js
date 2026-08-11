@@ -3,6 +3,25 @@ const fs = require('fs');
 const env = require('dotenv');
 const Markdown = require('markdown-to-html').Markdown;
 
+
+const { execSync } = require('child_process');
+
+// Step 1: markdown-to-html chalake ek temp file banao
+execSync('markdown-to-html README.md > generated.html');
+
+// Step 2: template aur generated html read karo
+let template = fs.readFileSync('template.html', 'utf-8');
+let content = fs.readFileSync('generated.html', 'utf-8');
+
+// Step 3: placeholder replace karo
+let finalHtml = template.replace('<!--CONTENT-->', content);
+
+// Step 4: final file likho
+fs.writeFileSync('index.html', finalHtml, 'utf-8');
+
+console.log('✅ index.html generated successfully using template!');
+
+
 env.config();
 
 const API_URL = 'https://api.github.com';
