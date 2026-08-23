@@ -4,67 +4,31 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [nextcloud/deck](https://github.com/nextcloud/deck)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Attachments can not be deleted](https://github.com/nextcloud/deck/issues/2486)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
 
 ## [nextcloud/collectives](https://github.com/nextcloud/collectives)
 
 - [Prevent guests from creating collectives](https://github.com/nextcloud/collectives/issues/2702)
 
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Bug] Image not rendering correctly](https://github.com/layer5io/docs/issues/1207)
-- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-- [[Docs] Floating Card Overlapping Navbar](https://github.com/layer5io/docs/issues/1187)
-
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
-- [Incorrect links from Top sources in analytics](https://github.com/TryGhost/Ghost/issues/24607)
-- [a11y: `kg-toggle-card` not usable properly with a screenreader](https://github.com/TryGhost/Ghost/issues/27462)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
 - [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14500)
 - [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
 - [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
 - [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/12959)
 - [[RFC]: add `symbol/to-string-tag`](https://github.com/stdlib-js/stdlib/issues/8482)
-
-## [YanivZalach/IceGraph](https://github.com/YanivZalach/IceGraph)
-
-- [Show partition statistics in the FileTree page](https://github.com/YanivZalach/IceGraph/issues/112)
-- [Add to filetree page single commit view](https://github.com/YanivZalach/IceGraph/issues/62)
-- [Support bearer-token auth for API requests (behind auth proxy)](https://github.com/YanivZalach/IceGraph/issues/94)
-- [Graph links should connect to node edges, not centers](https://github.com/YanivZalach/IceGraph/issues/95)
 
 ## [jeremysball/taskferry](https://github.com/jeremysball/taskferry)
 
@@ -98,55 +62,56 @@ This list gets updated every day at midnight.
 - [wait --summarize model override](https://github.com/jeremysball/taskferry/issues/38)
 - [Surface completion timestamp in list/status output](https://github.com/jeremysball/taskferry/issues/114)
 
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
+- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
+- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
+- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
+- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
+- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
 
-## [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)
+## [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival)
 
-- [Documentation & Video Recording HOW TO USE CHATGPT/CLAUDE/GEMINI SUBSCRIPTION WITH WEBBRAIN](https://github.com/webbrain-one/webbrain/issues/2691)
-- [Discord Server to discuss everything WebBrain](https://github.com/webbrain-one/webbrain/issues/432)
+- [Fix the stale post-MVP comment above the generator config](https://github.com/pshenok/datacenter-survival/issues/11)
+- [Mark the MVP design doc as superseded](https://github.com/pshenok/datacenter-survival/issues/10)
+- [Add an npm start script — three dev-server ports disagree today](https://github.com/pshenok/datacenter-survival/issues/9)
+- [Strip Server Survival seed leftovers from the tooling configs](https://github.com/pshenok/datacenter-survival/issues/8)
+- [Document the Space and Escape shortcuts in the README](https://github.com/pshenok/datacenter-survival/issues/7)
+- [Remove the two debug console.log calls in src/i18n.js](https://github.com/pshenok/datacenter-survival/issues/6)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
-- [Audio Block: Autoplay does not happen on first load ](https://github.com/WordPress/gutenberg/issues/22056)
-- [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
-- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
-- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
-- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
-- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
-- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
-## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
+## [Harsh-vardhan09/AthLead](https://github.com/Harsh-vardhan09/AthLead)
 
-- [[Reliability] `init --install-hook` silently installs a post-commit hook in addition to prepare-commit-msg](https://github.com/404-PF/commit-echo/issues/278)
-- [[Bug] Streaming ignores `delta.reasoning_content`, so reasoning models stream nothing / yield unparseable output](https://github.com/404-PF/commit-echo/issues/277)
-- [[Maintainability] Dead submodule-detection branch in `getUntrackedDiff` never executes](https://github.com/404-PF/commit-echo/issues/275)
-- [[Maintainability] `config set` subcommand is missing from all generated shell completions](https://github.com/404-PF/commit-echo/issues/279)
-- [[Security] `init` persists env-var API keys into config.json despite prompting "leave blank to use $ENV"](https://github.com/404-PF/commit-echo/issues/281)
-- [[Bug] Interactive `suggest --commit` with only unstaged changes attempts commit on an empty index](https://github.com/404-PF/commit-echo/issues/280)
-- [[Security] Predictable temp commit-message files in the shared tmpdir can collide or be pre-created by other local users](https://github.com/404-PF/commit-echo/issues/276)
-- [[Reliability] Uncaught rejections in history/config/batch commands print raw stack traces](https://github.com/404-PF/commit-echo/issues/272)
-- [[Bug] prepare-commit-msg hook blocks every commit on LLM latency with no overall timeout](https://github.com/404-PF/commit-echo/issues/271)
-- [[Reliability] process.exit(1) after outro()/console.log can truncate CLI output](https://github.com/404-PF/commit-echo/issues/270)
-- [[Bug] Malformed SSE JSON chunks are silently swallowed in streaming](https://github.com/404-PF/commit-echo/issues/269)
-- [[Maintainability] Duplicated, divergent git logic in batch.ts vs git/diff.ts](https://github.com/404-PF/commit-echo/issues/268)
-- [[Bug] Batch mode skips repositories with only untracked files](https://github.com/404-PF/commit-echo/issues/267)
-- [[Performance] countEntries() reads the entire history.jsonl into memory](https://github.com/404-PF/commit-echo/issues/266)
-- [[Bug] Streaming responses have no timeout while consuming the body](https://github.com/404-PF/commit-echo/issues/265)
-- [[Bug] batch and git hooks call bare `git`, bypassing the resolved executable](https://github.com/404-PF/commit-echo/issues/264)
-- [[Bug] Global --no-color flag is a no-op for all commands](https://github.com/404-PF/commit-echo/issues/263)
+- [Unused Lazy Loading Import Not Implemented Properly](https://github.com/Harsh-vardhan09/AthLead/issues/108)
+- [Inconsistent Date Formatting Across Components](https://github.com/Harsh-vardhan09/AthLead/issues/106)
+- [Score Model Missing Timestamps](https://github.com/Harsh-vardhan09/AthLead/issues/105)
 
-## [jacobwright32/uk-grid-atlas](https://github.com/jacobwright32/uk-grid-atlas)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [Regenerate og.png social card for the 8-grid branding](https://github.com/jacobwright32/uk-grid-atlas/issues/16)
-- [window.__ukgridMap debug handle leaks after unmount](https://github.com/jacobwright32/uk-grid-atlas/issues/7)
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
+- [[Feature] Cleanup pass on subclass descriptions](https://github.com/Foundryborne/daggerheart/issues/2185)
+- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
+- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
+- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
+- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
+- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
@@ -176,30 +141,61 @@ This list gets updated every day at midnight.
 - [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
 - [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
 
-## [santifer/career-ops](https://github.com/santifer/career-ops)
+## [snooptsz/dant3-mcp](https://github.com/snooptsz/dant3-mcp)
 
-- [test: add a mojibake canary across templates and localized modes](https://github.com/santifer/career-ops/issues/3183)
-- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/santifer/career-ops/issues/2051)
-- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/santifer/career-ops/issues/3113)
-- [templates: extend profile font_family override to Japanese and Chinese typography blocks](https://github.com/santifer/career-ops/issues/3154)
-- [fix(cli): analyze-patterns.mjs silently ignores mistyped flags — delegate to lib/cli-flags.mjs](https://github.com/santifer/career-ops/issues/2979)
-- [docs(budget): cover apiKeyHelper and headless setup-token — two auth routes the guide misses](https://github.com/santifer/career-ops/issues/2978)
-- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/santifer/career-ops/issues/2808)
-- [i18n: translate the interview modes (plan/practice/debrief) to Polish (pl)](https://github.com/santifer/career-ops/issues/1821)
-- [data: add a UK row to templates/agency-licensing.yml (EAS Inspectorate)](https://github.com/santifer/career-ops/issues/2327)
-- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/santifer/career-ops/issues/2784)
-- [i18n: translate the interview modes (plan/practice/debrief) to Korean (ko)](https://github.com/santifer/career-ops/issues/1819)
-- [application-artifacts.mjs has no --help and ignores unrecognized flags](https://github.com/santifer/career-ops/issues/2774)
-- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/1544)
-- [feat: ATS-friendliness check — score a generated CV for ATS parseability](https://github.com/santifer/career-ops/issues/2064)
-- [feat(cli): check-liveness.mjs has no --help — add the usage block](https://github.com/santifer/career-ops/issues/2576)
-- [i18n: translate the interview modes (plan/practice/debrief) to Ukrainian (ua)](https://github.com/santifer/career-ops/issues/2800)
+- [5 OpenClaw/MCP operators wanted to connect real AI Agents to Dant3](https://github.com/snooptsz/dant3-mcp/issues/27)
+- [5 Human beta testers wanted in the US, UK, Canada, Singapore, New Zealand and South Africa](https://github.com/snooptsz/dant3-mcp/issues/28)
+- [5 Humans + 5 AI Agents/Bots/Robots wanted for Dant3 public beta](https://github.com/snooptsz/dant3-mcp/issues/18)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+
+## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
+
+- [SLO YMCA moving to 24-hour schedule](https://github.com/davgross/homeless-in-slo-resource-guide/issues/347)
+- ["The Loop" at Cal Poly](https://github.com/davgross/homeless-in-slo-resource-guide/issues/335)
+- [Add "Hope for Ashlynn" group](https://github.com/davgross/homeless-in-slo-resource-guide/issues/357)
+
+## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
+
+- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
+- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
+- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
+- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
+
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+
+- [The tooltips for methods or attributes in the sidebar are not fully displayed.](https://github.com/nodejs/doc-kit/issues/938)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
+- [Audio Block: Autoplay does not happen on first load ](https://github.com/WordPress/gutenberg/issues/22056)
+- [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
+- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
+- [RichText: registerFormatType should allow identification by style rule](https://github.com/WordPress/gutenberg/issues/15478)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [DEWP docs and implementation mismatch/confusion in regards of assets file name](https://github.com/WordPress/gutenberg/issues/49872)
+
+## [usmannasir/cyberpanel](https://github.com/usmannasir/cyberpanel)
+
+- [[BUG] Missing package on Ubuntu 22 (pure-ftpd-mysql/update-inetd)](https://github.com/usmannasir/cyberpanel/issues/1113)
+- [Reseller ACL has permissions wrong for backups](https://github.com/usmannasir/cyberpanel/issues/527)
 
 ## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
 
+- [Docs: Document Programmatic History Navigation Methods (back, forward, go) in Router Guide and API Reference](https://github.com/Avenx-JS/avenx-js/issues/1156)
+- [Docs: Document Route Metadata (meta) in Routing Guide and Router API Reference](https://github.com/Avenx-JS/avenx-js/issues/1155)
+- [Docs: Document Component Diagnostics Snapshot Method (this.$inspect()) in Component API Reference](https://github.com/Avenx-JS/avenx-js/issues/1154)
 - [Docs: Document DOM & Component Query Helpers (find, findAll, findComponent, trigger) and flushPromises in Testing API Reference](https://github.com/Avenx-JS/avenx-js/issues/1147)
 - [Docs: Document Top-Level Reactivity Utilities (toRaw, isReactive, markRaw) in Reactivity Guide and Utility Reference](https://github.com/Avenx-JS/avenx-js/issues/1146)
-- [Docs: Document 'avenx stats' CLI Command and Component Footprint Metrics in CLI Reference](https://github.com/Avenx-JS/avenx-js/issues/1145)
 - [Docs: Document Runtime Error Code AVX_R08 (TEMPLATE_RENDER_ERROR) in Troubleshooting Reference](https://github.com/Avenx-JS/avenx-js/issues/1132)
 - [Docs: Document Deadlock Fallback Template Context and Programmatic Trigger APIs ('' and '')](https://github.com/Avenx-JS/avenx-js/issues/1129)
 - [Docs: Add SolidJS → Avenx.js Fine-Grained Reactivity and Signal Patterns Migration Guide](https://github.com/Avenx-JS/avenx-js/issues/1128)
@@ -220,34 +216,13 @@ This list gets updated every day at midnight.
 - [Docs: Document Compiler Warning Code AVX_W20 (RENDER_LIST_DUPLICATE_KEY) in Troubleshooting Reference](https://github.com/Avenx-JS/avenx-js/issues/1076)
 - [Good First Issue: Document Declarative Data Fetching with <resource>, <@suspense>, and <@errorBoundary>](https://github.com/Avenx-JS/avenx-js/issues/924)
 - [Good First Issue: Document CSS Preprocessor Integration (Sass, SCSS, Less, PostCSS) in Styling Guide](https://github.com/Avenx-JS/avenx-js/issues/923)
-- [DX: Add Component Instance Diagnostics Method `this.$inspect()` in `AvenxComponent`](https://github.com/Avenx-JS/avenx-js/issues/988)
 - [Next.js → Avenx.js: Server vs Client Decoupling Migration Guide](https://github.com/Avenx-JS/avenx-js/issues/1020)
 - [Angular → Avenx.js: Component and Template Syntax Migration Guide](https://github.com/Avenx-JS/avenx-js/issues/1021)
 - [Good First Issue: Add --force Overwrite Option to avenx generate CLI Command](https://github.com/Avenx-JS/avenx-js/issues/934)
 - [Refactor: Add Runtime Type Validation and Helpful Warnings for AvenxApp.register()](https://github.com/Avenx-JS/avenx-js/issues/819)
 
-## [freeCodeCamp-Summer-Cohort-2026/pulseboard](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard)
-
-- [Design proposal: "new updates since your last visit" indicator](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/121)
-- [Add GET /api/updates/tags to list distinct tags in use](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/109)
-- [Add accessible labels and keyboard support to the tag input](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/155)
-- [Add an always-visible 'Clear all filters' control](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/153)
-- [Add edge-case coverage for user role management](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/177)
-- [Add a loading skeleton for the feed's initial fetch](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/117)
-- [Add a show/hide password toggle](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/74)
-- [Show an avatar/initials badge next to author names](https://github.com/freeCodeCamp-Summer-Cohort-2026/pulseboard/issues/75)
-
-## [layer5io/layer5](https://github.com/layer5io/layer5)
-
-- [[UI]: Oversized GitHub octocat icon on "What is GitOps?" resource page](https://github.com/layer5io/layer5/issues/7963)
-- [[UI]: Unwanted border and incorrect Layer5 logo color in “Join the Conversation” box](https://github.com/layer5io/layer5/issues/7958)
-- [Inaccurate: "0" performance tests results being reported](https://github.com/layer5io/layer5/issues/7860)
-- [[Screenshots] Devstream under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4887)
-- [Enhance or replace the "Star the Repo" button](https://github.com/layer5io/layer5/issues/7859)
-
 ## [zen-browser/desktop](https://github.com/zen-browser/desktop)
 
-- [Copy: "New blank window" in "…" menu is not Title Case](https://github.com/zen-browser/desktop/issues/15039)
 - [Top bar gets stuck opened when warn on close is turned on](https://github.com/zen-browser/desktop/issues/14922)
 - [Ctrl+Shift+DigitOrSymbol keybinds don't work](https://github.com/zen-browser/desktop/issues/14921)
 - ["Rename Folder" option unavailable in collapsed toolbar layout](https://github.com/zen-browser/desktop/issues/14082)
@@ -255,28 +230,50 @@ This list gets updated every day at midnight.
 - [UI glitch when rapidly switching Sidebar/Tabs layout options in Settings](https://github.com/zen-browser/desktop/issues/14837)
 - [Non-intuitive shortcut mapping](https://github.com/zen-browser/desktop/issues/14492)
 
-## [airqo-platform/AirQo-api](https://github.com/airqo-platform/AirQo-api)
+## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 
-- [Add unit tests for cohort validator — updateCohort and updateCohortName](https://github.com/airqo-platform/AirQo-api/issues/6209)
+- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
+- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+- [Incorrect links from Top sources in analytics](https://github.com/TryGhost/Ghost/issues/24607)
+- [a11y: `kg-toggle-card` not usable properly with a screenreader](https://github.com/TryGhost/Ghost/issues/27462)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster)
 
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-- [[Feature] Cleanup pass on subclass descriptions](https://github.com/Foundryborne/daggerheart/issues/2185)
-- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
-- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
-- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
-- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
-- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
+- [[BOUNTY · OPEN FOR CONTRIBUTORS] Crea il fumetto visuale “Come funziona MyZubster” — 300 MYZ proposed](https://github.com/MyZubster-Ecosystem/myzubster/issues/526)
+- [[Free] Add status badges and license](https://github.com/MyZubster-Ecosystem/myzubster/issues/3)
+- [[Agricoltori] Registro delle colture e rotazione](https://github.com/MyZubster-Ecosystem/myzubster/issues/22)
+- [[Free] Display Seed Exchanges on the map](https://github.com/MyZubster-Ecosystem/myzubster/issues/25)
+- [[Community] Creare una rete di orti urbani connessi](https://github.com/MyZubster-Ecosystem/myzubster/issues/23)
+- [[Arboristi] Mappa degli alberi monumentali](https://github.com/MyZubster-Ecosystem/myzubster/issues/21)
+- [[Botanici] Aggiungere scheda botanica dettagliata per le piante](https://github.com/MyZubster-Ecosystem/myzubster/issues/20)
+- [[Free] Scheda di dettaglio per un orto](https://github.com/MyZubster-Ecosystem/myzubster/issues/16)
+- [[Free] Aggiungere la categoria 'Orto Urbano' alla mappa globale](https://github.com/MyZubster-Ecosystem/myzubster/issues/15)
+- [[Free] Add a CONTRIBUTING.md guide](https://github.com/MyZubster-Ecosystem/myzubster/issues/10)
+- [[Free] Create a simple project website with GitHub Pages](https://github.com/MyZubster-Ecosystem/myzubster/issues/9)
+- [[Free] Add a CONTRIBUTING.md guide](https://github.com/MyZubster-Ecosystem/myzubster/issues/6)
 
-## [HarperFast/harper](https://github.com/HarperFast/harper)
+## [santifer/career-ops](https://github.com/santifer/career-ops)
 
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [update-system: user can be told to update from a version to that exact same version (e.g. "v1.28.0 → v1.28.0")](https://github.com/santifer/career-ops/issues/3201)
+- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/santifer/career-ops/issues/3113)
+- [application-artifacts.mjs has no --help and ignores unrecognized flags](https://github.com/santifer/career-ops/issues/2774)
+- [i18n: translate the interview modes (plan/practice/debrief) to Korean (ko)](https://github.com/santifer/career-ops/issues/1819)
+- [test: add a mojibake canary across templates and localized modes](https://github.com/santifer/career-ops/issues/3183)
+- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/santifer/career-ops/issues/2051)
+- [templates: extend profile font_family override to Japanese and Chinese typography blocks](https://github.com/santifer/career-ops/issues/3154)
+- [fix(cli): analyze-patterns.mjs silently ignores mistyped flags — delegate to lib/cli-flags.mjs](https://github.com/santifer/career-ops/issues/2979)
+- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/santifer/career-ops/issues/2808)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish (pl)](https://github.com/santifer/career-ops/issues/1821)
+- [data: add a UK row to templates/agency-licensing.yml (EAS Inspectorate)](https://github.com/santifer/career-ops/issues/2327)
+- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/santifer/career-ops/issues/2784)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/1544)
+- [feat: ATS-friendliness check — score a generated CV for ATS parseability](https://github.com/santifer/career-ops/issues/2064)
+- [feat(cli): check-liveness.mjs has no --help — add the usage block](https://github.com/santifer/career-ops/issues/2576)
+- [i18n: translate the interview modes (plan/practice/debrief) to Ukrainian (ua)](https://github.com/santifer/career-ops/issues/2800)
 
-## [prometheus/client_js](https://github.com/prometheus/client_js)
+## [zeena-taste/Hashtag-Notepad](https://github.com/zeena-taste/Hashtag-Notepad)
 
-- [Alphabetize default metrics](https://github.com/prometheus/client_js/issues/810)
-- [enhancement: Cluster worker scrape timeouts/errors should be recorded](https://github.com/prometheus/client_js/issues/290)
-- [Please consider adding a getClusterMetricsAsJSON funtion](https://github.com/prometheus/client_js/issues/470)
+- [Toggle spellcheck on/off](https://github.com/zeena-taste/Hashtag-Notepad/issues/3)
+- [Let users remove individual entries from the Recent Files list](https://github.com/zeena-taste/Hashtag-Notepad/issues/2)
+- [Add line numbers to the Raw view](https://github.com/zeena-taste/Hashtag-Notepad/issues/1)
 
