@@ -4,114 +4,15 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
-
-- [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394)
-- [🌍 Translations wanted — bring MyIP to your language](https://github.com/jason5ng32/MyIP/issues/418)
-- [Add a reachable public resolver from Europe to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/392)
-- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
-- [Connectivity test: add a Mexico country list](https://github.com/jason5ng32/MyIP/issues/451)
-- [Connectivity test: add a Nigeria country list](https://github.com/jason5ng32/MyIP/issues/450)
-- [Connectivity test: add an Indonesia country list](https://github.com/jason5ng32/MyIP/issues/449)
-- [Add a reachable public resolver from Russia to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/390)
-- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
-- [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406)
-- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
-- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
-- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
-- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
-- [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414)
-- [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413)
-- [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412)
-- [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410)
-- [Connectivity test: add a "Travel & Booking" import list](https://github.com/jason5ng32/MyIP/issues/403)
-- [Connectivity test: add a "Sports" import list](https://github.com/jason5ng32/MyIP/issues/402)
-- [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401)
-- [Connectivity test: add a Turkey country list](https://github.com/jason5ng32/MyIP/issues/398)
-- [Connectivity test: add a "Finance & Payments" import list](https://github.com/jason5ng32/MyIP/issues/397)
-- [Connectivity test: add an "Online Education" import list](https://github.com/jason5ng32/MyIP/issues/396)
-- [Add a Japanese or Korean public resolver to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/393)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14500)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [daubesonntag-dotcom/daube-public-release](https://github.com/daubesonntag-dotcom/daube-public-release)
-
-- [[5-minute volunteer] Test D’AUBE Facebook Reader on Chrome or Android](https://github.com/daubesonntag-dotcom/daube-public-release/issues/190)
-- [[OPEN] BREAK THE DAWN — seeking 20 independent volunteer testers / viewers](https://github.com/daubesonntag-dotcom/daube-public-release/issues/176)
-- [D’AUBE Compute Commons — Volunteer GPU / WebGPU Host Opt‑In Pilot](https://github.com/daubesonntag-dotcom/daube-public-release/issues/96)
-- [[OPEN] Physical Pilot Interest — packaging / unboxing / delivery testers](https://github.com/daubesonntag-dotcom/daube-public-release/issues/177)
-- [[VOLUNTEERS] Run the D’AUBE browser CPU/WebGPU + SmolLM2 evidence lab](https://github.com/daubesonntag-dotcom/daube-public-release/issues/87)
-- [[Good first contribution] Improve Vietnamese/English clarity of D’AUBE Talent Pool wording](https://github.com/daubesonntag-dotcom/daube-public-release/issues/152)
-- [[Good first contribution] Review Talent Pool + Mission Board on mobile and accessibility basics](https://github.com/daubesonntag-dotcom/daube-public-release/issues/151)
-
-## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
-
-- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
-- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
-- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
-- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
-
-## [Trust-Analysis/Tokenized-Fractional-](https://github.com/Trust-Analysis/Tokenized-Fractional-)
-
-- [Add .nvmrc and .node-version files](https://github.com/Trust-Analysis/Tokenized-Fractional-/issues/110)
-
-## [haoxiang-xu/PuPu](https://github.com/haoxiang-xu/PuPu)
-
-- [web_fetch returns noise-dominated, silently truncated output that drives model fabrication](https://github.com/haoxiang-xu/PuPu/issues/226)
-- [AskUserQuestion: clearer prompt guidance and a free-text input question form](https://github.com/haoxiang-xu/PuPu/issues/224)
-- [Add Context7 to the MCP store registry (good first issue: register a new MCP server)](https://github.com/haoxiang-xu/PuPu/issues/175)
-- [Register MCP server: Bug Bounty Intelligence (smart contract security, x402 paid)](https://github.com/haoxiang-xu/PuPu/issues/186)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
-
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
 - [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
 - [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
 - [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
 - [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
 - [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
 - [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
 - [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
 - [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
 - [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
@@ -141,16 +42,116 @@ This list gets updated every day at midnight.
 - [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
 - [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
 - [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
-- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
 
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+## [Matawaka/uu-aap](https://github.com/Matawaka/uu-aap)
 
-- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
+- [Review UU-AAP in 5 minutes — one counterexample is enough (Core Pilot 002)](https://github.com/Matawaka/uu-aap/issues/422)
+- [Good first issue: independently smoke-test PoAI Web Verifier with valid and invalid vectors](https://github.com/Matawaka/uu-aap/issues/775)
+- [Good first issue: newcomer path smoke test — reach one useful action in 5 minutes](https://github.com/Matawaka/uu-aap/issues/774)
+
+## [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster)
+
+- [[Free] Add status badges and license](https://github.com/MyZubster-Ecosystem/myzubster/issues/3)
+- [[Agricoltori] Registro delle colture e rotazione](https://github.com/MyZubster-Ecosystem/myzubster/issues/22)
+
+## [LucaBonamino/Clavimit](https://github.com/LucaBonamino/Clavimit)
+
+- [Key inputs are not cleared after failed decryption](https://github.com/LucaBonamino/Clavimit/issues/3)
+- [Syncr package.json version with manifest.json](https://github.com/LucaBonamino/Clavimit/issues/1)
+
+## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
+- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
+- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+
+## [nextcloud/tables](https://github.com/nextcloud/tables)
+
+- [Delete table: Button should be red](https://github.com/nextcloud/tables/issues/2920)
+
+## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+
+- [Missing CONTRIBUTING.md file](https://github.com/WordPress/wordpress-playground/issues/2844)
+- [Provide unit and e2e test instructions in the top-level README](https://github.com/WordPress/wordpress-playground/issues/1519)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [[Bug] Image not rendering correctly](https://github.com/layer5io/docs/issues/1207)
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+- [[Docs] Floating Card Overlapping Navbar](https://github.com/layer5io/docs/issues/1187)
 
 ## [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im)
 
 - [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88)
 - [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
+
+## [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon)
+
+- [Feature: provide quick-start guide for new users](https://github.com/OWASP/threat-dragon/issues/1530)
+
+## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
+
+- [Add a Japanese or Korean public resolver to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/393)
+- [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394)
+- [🌍 Translations wanted — bring MyIP to your language](https://github.com/jason5ng32/MyIP/issues/418)
+- [Add a reachable public resolver from Europe to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/392)
+- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
+- [Connectivity test: add a Mexico country list](https://github.com/jason5ng32/MyIP/issues/451)
+- [Connectivity test: add a Nigeria country list](https://github.com/jason5ng32/MyIP/issues/450)
+- [Connectivity test: add an Indonesia country list](https://github.com/jason5ng32/MyIP/issues/449)
+- [Add a reachable public resolver from Russia to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/390)
+- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
+- [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406)
+- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
+- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
+- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
+- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
+- [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414)
+- [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413)
+- [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412)
+- [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410)
+- [Connectivity test: add a "Travel & Booking" import list](https://github.com/jason5ng32/MyIP/issues/403)
+- [Connectivity test: add a "Sports" import list](https://github.com/jason5ng32/MyIP/issues/402)
+- [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401)
+- [Connectivity test: add a Turkey country list](https://github.com/jason5ng32/MyIP/issues/398)
+- [Connectivity test: add a "Finance & Payments" import list](https://github.com/jason5ng32/MyIP/issues/397)
+- [Connectivity test: add an "Online Education" import list](https://github.com/jason5ng32/MyIP/issues/396)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
+- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+
+## [aadorian/opencodeCLI](https://github.com/aadorian/opencodeCLI/pull/89)
+
+- [chore(deps-dev): bump sharp from 0.35.2 to 0.35.4](https://github.com/aadorian/opencodeCLI/pull/89)
+- [chore(deps-dev): bump the vscode-test group with 2 updates](https://github.com/aadorian/opencodeCLI/pull/87)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -168,119 +169,123 @@ This list gets updated every day at midnight.
 - [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
-## [nodejs/learn](https://github.com/nodejs/learn)
+## [sheryloe/pocketforge-relay](https://github.com/sheryloe/pocketforge-relay)
 
-- [Documentation is outdated](https://github.com/nodejs/learn/issues/24)
+- [good first issue: extend README parity markers for container and live Actions claims](https://github.com/sheryloe/pocketforge-relay/issues/13)
+- [good first issue: return focus after deletion confirmation closes](https://github.com/sheryloe/pocketforge-relay/issues/10)
 
-## [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [BONUS: Ability to delete an earlier message+reply combo earlier in the conversation](https://github.com/AllYourBot/hostedgpt/issues/28)
-- [Get chrome driver/system tests working in docker compose](https://github.com/AllYourBot/hostedgpt/issues/137)
-- [Better handling of super large images](https://github.com/AllYourBot/hostedgpt/issues/142)
-- [Better icon library](https://github.com/AllYourBot/hostedgpt/issues/287)
-- [Random polish](https://github.com/AllYourBot/hostedgpt/issues/330)
-- [Confirm that I can set an authentication deleted_at and it logs out that client](https://github.com/AllYourBot/hostedgpt/issues/434)
-- [Use activerecord store for the json columns](https://github.com/AllYourBot/hostedgpt/issues/516)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+## [openedx/paragon](https://github.com/openedx/paragon)
 
-- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
-- [PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text inside strings](https://github.com/WordPress/gutenberg/issues/82169)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
-- [Restore the full search visibility in embed links](https://github.com/WordPress/gutenberg/issues/21343)
-- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
-- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
-- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
-- [Audio Block: Autoplay does not happen on first load ](https://github.com/WordPress/gutenberg/issues/22056)
-- [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
-- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
-- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
-- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
-- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
+- [Tracking issue: remove `propTypes` and `defaultProps` from TypeScript components](https://github.com/openedx/paragon/issues/3744)
+- [Tracking issue: Convert components to TypeScript](https://github.com/openedx/paragon/issues/3739)
+
+## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+
+- [Give an actionable message when Ollama host validation fails](https://github.com/darshi1337/apogee/issues/157)
+- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
+- [Hoist duplicate user-facing strings into a single messages module](https://github.com/darshi1337/apogee/issues/160)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [santifer/career-ops](https://github.com/santifer/career-ops)
 
-- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
+- [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/santifer/career-ops/issues/3398)
+- [docs(budget): a verified quick-start for running a local model (Ollama or LM Studio)](https://github.com/santifer/career-ops/issues/3534)
+- [SYSTEM_PATHS coverage gap: .gemini/commands/*.toml (15 files) + plugins-registry.json unregistered — update-system.mjs will never ship them](https://github.com/santifer/career-ops/issues/3258)
+- [fix(cli): analyze-patterns.mjs silently ignores mistyped flags — delegate to lib/cli-flags.mjs](https://github.com/santifer/career-ops/issues/2979)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/santifer/career-ops/issues/3408)
+- [templates: extend profile font_family override to Japanese and Chinese typography blocks](https://github.com/santifer/career-ops/issues/3154)
+- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/santifer/career-ops/issues/3113)
+- [test(i18n): guard the 16 localized READMEs against fact drift](https://github.com/santifer/career-ops/issues/3403)
+- [i18n: translate the interview modes (plan/practice/debrief) to French](https://github.com/santifer/career-ops/issues/3407)
+- [i18n: translate the interview modes (plan/practice/debrief) to German](https://github.com/santifer/career-ops/issues/3406)
+- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/santifer/career-ops/issues/3405)
+- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/santifer/career-ops/issues/2808)
+- [data: add a UK row to templates/agency-licensing.yml (EAS Inspectorate)](https://github.com/santifer/career-ops/issues/2327)
+- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/santifer/career-ops/issues/2784)
+- [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/santifer/career-ops/issues/3223)
+- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/santifer/career-ops/issues/2051)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish](https://github.com/santifer/career-ops/issues/3291)
+- [i18n: translate the interview modes (plan/practice/debrief) to Korean](https://github.com/santifer/career-ops/issues/3290)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/3289)
 
-## [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)
+## [Clarryson/Reflextracker](https://github.com/Clarryson/Reflextracker)
 
-- [good first issue: author samples for the three remaining AI conditional sections](https://github.com/product-on-purpose/pm-skills/issues/282)
-- [good first issue: add a visual to the quickstart (screenshot or short gif of a first skill run)](https://github.com/product-on-purpose/pm-skills/issues/219)
+- [Build the main web application](https://github.com/Clarryson/Reflextracker/issues/7)
+- [Perform final system testing](https://github.com/Clarryson/Reflextracker/issues/61)
+- [Document how REFLEX is installed and used](https://github.com/Clarryson/Reflextracker/issues/60)
+- [Prepare REFLEX for real use](https://github.com/Clarryson/Reflextracker/issues/59)
+- [Automatically check new changes](https://github.com/Clarryson/Reflextracker/issues/58)
+- [Set up the project's supporting services](https://github.com/Clarryson/Reflextracker/issues/57)
+- [Package REFLEX for easy setup](https://github.com/Clarryson/Reflextracker/issues/56)
+- [Check system safety](https://github.com/Clarryson/Reflextracker/issues/55)
+- [Test the complete delivery journey](https://github.com/Clarryson/Reflextracker/issues/54)
+- [Test live updates](https://github.com/Clarryson/Reflextracker/issues/53)
+- [Test proof of delivery](https://github.com/Clarryson/Reflextracker/issues/52)
+- [Test QR verification](https://github.com/Clarryson/Reflextracker/issues/51)
+- [Test rider assignments](https://github.com/Clarryson/Reflextracker/issues/50)
+- [Test the delivery journey](https://github.com/Clarryson/Reflextracker/issues/49)
+- [Test creating and viewing deliveries](https://github.com/Clarryson/Reflextracker/issues/48)
+- [Set up project testing](https://github.com/Clarryson/Reflextracker/issues/47)
+- [Make the rider experience simple](https://github.com/Clarryson/Reflextracker/issues/34)
+- [Make the rider app usable with poor internet](https://github.com/Clarryson/Reflextracker/issues/33)
+- [Show riders important live updates](https://github.com/Clarryson/Reflextracker/issues/32)
+- [Connect the rider app to REFLEX](https://github.com/Clarryson/Reflextracker/issues/31)
+- [Allow riders to complete deliveries](https://github.com/Clarryson/Reflextracker/issues/30)
+- [Add proof of delivery](https://github.com/Clarryson/Reflextracker/issues/29)
+- [Confirm the QR code](https://github.com/Clarryson/Reflextracker/issues/28)
+- [Add QR code scanning](https://github.com/Clarryson/Reflextracker/issues/27)
+- [Allow riders to confirm pickup](https://github.com/Clarryson/Reflextracker/issues/26)
+- [Show delivery information](https://github.com/Clarryson/Reflextracker/issues/25)
+- [Show the rider their assigned deliveries](https://github.com/Clarryson/Reflextracker/issues/24)
+- [Build the rider home screen](https://github.com/Clarryson/Reflextracker/issues/23)
+- [Build the rider application-Progressive Web Application](https://github.com/Clarryson/Reflextracker/issues/22)
+- [Make the website work on different screen sizes](https://github.com/Clarryson/Reflextracker/issues/21)
+- [Handle waiting, errors, and empty screens](https://github.com/Clarryson/Reflextracker/issues/20)
+- [Show live changes on the website](https://github.com/Clarryson/Reflextracker/issues/19)
+- [Connect the website to REFLEX](https://github.com/Clarryson/Reflextracker/issues/18)
+- [Make delivery statuses easy to understand](https://github.com/Clarryson/Reflextracker/issues/17)
+- [Create the rider reassignment screen](https://github.com/Clarryson/Reflextracker/issues/16)
+- [Create the rider assignment screen](https://github.com/Clarryson/Reflextracker/issues/15)
+- [Create the unassigned delivery list](https://github.com/Clarryson/Reflextracker/issues/14)
+- [Build the dispatcher dashboard](https://github.com/Clarryson/Reflextracker/issues/13)
+- [Create the delivery details screen](https://github.com/Clarryson/Reflextracker/issues/12)
+- [Create the retailer delivery list](https://github.com/Clarryson/Reflextracker/issues/11)
+- [Create the new delivery screen](https://github.com/Clarryson/Reflextracker/issues/10)
+- [Build the retailer dashboard](https://github.com/Clarryson/Reflextracker/issues/9)
+- [Create reusable screen elements](https://github.com/Clarryson/Reflextracker/issues/8)
 
-## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [Docs: Document Runtime Trace Diagnostic Error Codes (AVX_R25, AVX_R26, AVX_R27, AVX_R28) in Troubleshooting Reference](https://github.com/Avenx-JS/avenx-js/issues/1219)
-- [Docs: Document DisposalScope and Automatic Teardown Lifecycle API (DisposalScope, onScopeDispose, runInScope) in Reactivity & API References](https://github.com/Avenx-JS/avenx-js/issues/1218)
-- [CI/CD: Add a Node.js Version Matrix, an End-to-End Job and a Prettier Check to the CI Pipeline](https://github.com/Avenx-JS/avenx-js/issues/1175)
-- [Docs: Document Diagnostic Codes AVX_R18 (REACTIVE_DEADLOCK_DETECTED) and AVX_W35 (COMPILER_DEADLOCK_PARSE_FAILED) in the Troubleshooting Reference](https://github.com/Avenx-JS/avenx-js/issues/1159)
-- [Good First Issue: Add AvenxLogger.child() Method for Namespaced Logger Sub-Instances](https://github.com/Avenx-JS/avenx-js/issues/1081)
-- [Docs: Document HtmlDiff Virtual DOM Comparison Algorithm in Renderer Reference](https://github.com/Avenx-JS/avenx-js/issues/1083)
-- [Good First Issue: Document Declarative Data Fetching with <resource>, <@suspense>, and <@errorBoundary>](https://github.com/Avenx-JS/avenx-js/issues/924)
-- [Good First Issue: Document CSS Preprocessor Integration (Sass, SCSS, Less, PostCSS) in Styling Guide](https://github.com/Avenx-JS/avenx-js/issues/923)
-- [Next.js → Avenx.js: Server vs Client Decoupling Migration Guide](https://github.com/Avenx-JS/avenx-js/issues/1020)
-- [Good First Issue: Add --force Overwrite Option to avenx generate CLI Command](https://github.com/Avenx-JS/avenx-js/issues/934)
-- [Refactor: Add Runtime Type Validation and Helpful Warnings for AvenxApp.register()](https://github.com/Avenx-JS/avenx-js/issues/819)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
+- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14500)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
+- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
 
-## [ChulioZ/spielwirbel](https://github.com/ChulioZ/spielwirbel)
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
 
-- [Add the Portuguese UI locale (pt)](https://github.com/ChulioZ/spielwirbel/issues/538)
-- [Add the Dutch UI locale (nl)](https://github.com/ChulioZ/spielwirbel/issues/537)
-
-## [Deen-Bridge/dnb-backend](https://github.com/Deen-Bridge/dnb-backend)
-
-- [infra: Add PM2 ecosystem config](https://github.com/Deen-Bridge/dnb-backend/issues/263)
-- [infra(nginx): Implement static file caching headers](https://github.com/Deen-Bridge/dnb-backend/issues/255)
-- [infra(nginx): Add request body size limits](https://github.com/Deen-Bridge/dnb-backend/issues/254)
-- [infra(nginx): Add WebSocket proxy configuration](https://github.com/Deen-Bridge/dnb-backend/issues/252)
-- [infra(nginx): Add gzip/brotli compression config](https://github.com/Deen-Bridge/dnb-backend/issues/250)
-- [feat(analytics): Add search analytics](https://github.com/Deen-Bridge/dnb-backend/issues/245)
-- [feat(notifications): Add notification sound/vibration settings](https://github.com/Deen-Bridge/dnb-backend/issues/151)
-- [feat(db): Add seed data scripts for development](https://github.com/Deen-Bridge/dnb-backend/issues/202)
-- [feat(i18n): Add Islamic calendar (Hijri) support](https://github.com/Deen-Bridge/dnb-backend/issues/234)
-- [feat(admin): Implement system announcements](https://github.com/Deen-Bridge/dnb-backend/issues/275)
-- [feat(i18n): Add localized currency formatting](https://github.com/Deen-Bridge/dnb-backend/issues/236)
-- [[Bug] List endpoints return 200 with success:false for empty results and inconsistent response shapes](https://github.com/Deen-Bridge/dnb-backend/issues/9)
-- [feat(user): Implement user preferences API](https://github.com/Deen-Bridge/dnb-backend/issues/267)
-- [refactor(db): Create AuditLogRepository](https://github.com/Deen-Bridge/dnb-backend/issues/178)
-- [feat(auth): Add security questions for account recovery](https://github.com/Deen-Bridge/dnb-backend/issues/136)
-- [feat(notifications): Implement Do Not Disturb schedules](https://github.com/Deen-Bridge/dnb-backend/issues/150)
-- [feat(notifications): Implement notification preferences](https://github.com/Deen-Bridge/dnb-backend/issues/144)
-- [feat(security): Implement honeypot endpoints for attack detection](https://github.com/Deen-Bridge/dnb-backend/issues/143)
-- [feat(security): Add CSP violation reporting endpoint](https://github.com/Deen-Bridge/dnb-backend/issues/140)
-- [[Enhancement] Protect unauthenticated Stellar wallet lookup/enumeration endpoints](https://github.com/Deen-Bridge/dnb-backend/issues/10)
-
-## [stellarkit-lab-devtools/stellarkit-api](https://github.com/stellarkit-lab-devtools/stellarkit-api)
-
-- [Write a docs/monitoring.md guide for setting up production monitoring with StellarKit](https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/776)
-- [Implement GET /account/:id/can-send/:assetCode/:assetIssuer endpoint](https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/619)
-
-## [fayzan101/ChainDrop-Shai-Hulud-Firewall](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall)
-
-- [security: pre-commit hooks for secrets and held-out leak checks](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall/issues/55)
-- [chore: add CODEOWNERS for interceptor, sandbox, and eval](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall/issues/35)
-- [chore: Dependabot for GitHub Actions](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall/issues/29)
-- [eval: fail CI if ChainDrop rows appear in train/val metadata](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall/issues/27)
-- [feat(action): GitHub Job Summary for allow/quarantine/block](https://github.com/fayzan101/ChainDrop-Shai-Hulud-Firewall/issues/26)
-
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
-
-## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
-
-- [windows builds fail very intermittently on various issues](https://github.com/ProjectEvergreen/greenwood/issues/1585)
-- [refactor usages of glob-promise with native NodeJS `fs.glob`](https://github.com/ProjectEvergreen/greenwood/issues/1551)
-- [Have develop command pick next randomly available port for dev and live reload servers](https://github.com/ProjectEvergreen/greenwood/issues/71)
+- [[Feature] Cleanup pass on subclass descriptions](https://github.com/Foundryborne/daggerheart/issues/2185)
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
+- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
+- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
+- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
+- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
+- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
 
 ## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
+- [[Good First Issue] Add an output-encoding tip [MC-032]](https://github.com/Berserk-hub150/skillhawk/issues/86)
 - [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/101)
 - [[Good First Issue] Add a CLI-message clarity tip [MC-010]](https://github.com/Berserk-hub150/skillhawk/issues/100)
 - [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/99)
@@ -293,7 +298,6 @@ This list gets updated every day at midnight.
 - [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/92)
 - [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
 - [[Good First Issue] Add a path-traversal review tip [MC-031]](https://github.com/Berserk-hub150/skillhawk/issues/85)
-- [[Good First Issue] Add an output-encoding tip [MC-032]](https://github.com/Berserk-hub150/skillhawk/issues/86)
 - [[2–5 min] Add one prompt-injection remediation tip](https://github.com/Berserk-hub150/skillhawk/issues/52)
 - [[2–5 min] Add one precision flashcard](https://github.com/Berserk-hub150/skillhawk/issues/25)
 - [[2–5 min] Add one safe-fixture writing tip](https://github.com/Berserk-hub150/skillhawk/issues/43)
