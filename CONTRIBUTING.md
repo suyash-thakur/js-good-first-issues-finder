@@ -1,23 +1,59 @@
-Contributing Guidelines:
+# Contributing Guidelines
 
-Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels.
+Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels, including first-time contributors.
 
-Before you start contributing, please take a moment to review these guidelines:
+Please follow the steps below to make the contribution process easier and more consistent.
 
-- Familiarize yourself with the project by reviewing the README.md file and the codebase.
+## 1. Get familiar with the project
 
-- Create an issue describing your proposed contribution. This will allow other contributors to provide feedback and discuss the proposed changes. You can also use the issue tracker to report bugs, suggest new features or improvements, or ask for clarification.
+Start by reading the `README.md` file to understand the purpose and goals of the project. Review the relevant parts of the codebase before making any changes.
 
-- Fork the repository and make your changes in a new branch.
+## 2. Find or create an issue
 
-- Before submitting a pull request, make sure that your changes align with the project's goals and vision, and that they follow the code of conduct and contributing guidelines.
+Before starting work, check the issue tracker to see whether an existing issue describes the change you want to make.
 
-- Make sure that your code is well-formatted, commented, and documented. Please adhere to the project's coding style, and include tests for any new functionality.
+If no relevant issue exists, create a new issue describing your proposed contribution. This gives other contributors and maintainers an opportunity to provide feedback and discuss the proposed changes.
 
-- Submit a pull request and provide a clear and concise description of the changes you have made. Please also include a reference to the issue you are addressing, if applicable.
+You can also use the issue tracker to:
 
-- Once your pull request is submitted, the project maintainers will review your changes and provide feedback. Please be patient, as it may take some time for your pull request to be reviewed.
+- Report bugs
+- Suggest new features
+- Suggest improvements
+- Ask questions or request clarification
 
-- If your pull request is accepted, congratulations! Your contribution will be merged into the main branch.
+If you find an existing issue that you would like to work on, comment on the issue before starting your work.
 
-Thank you for your contributions to our project! We appreciate your help in making it better.
+## 3. Fork the repository
+
+Fork the repository to create your own copy of the project on GitHub.
+
+Clone your fork to your local machine and create a new branch for your changes. Use a descriptive branch name that reflects the purpose of your contribution.
+
+## 4. Make your changes
+
+Make the necessary changes in your branch.
+
+While working on your contribution:
+
+- Follow the project's coding style and conventions.
+- Keep your changes focused on the issue you are addressing.
+- Make sure your code is well-formatted.
+- Add comments or documentation where they are helpful.
+- Include tests for new functionality when applicable.
+
+## 5. Review and test your changes
+
+Before opening a pull request, review your changes and make sure they address the issue correctly.
+
+If the project provides tests or other checks, run them to make sure your changes do not introduce new problems.
+
+Also make sure that your changes follow the project's goals, vision, Code of Conduct, and contributing guidelines.
+
+## 6. Commit your changes
+
+Create a clear and meaningful commit describing what you changed.
+
+For example:
+
+```text
+docs: improve contributing guidelines
