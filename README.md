@@ -4,6 +4,75 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)
+
+- [Flip PDF (mirror pages horizontally or vertically)](https://github.com/mithun-srinivas/DoxDock/issues/199)
+- [Grayscale PDF: convert a whole PDF to black and white](https://github.com/mithun-srinivas/DoxDock/issues/169)
+
+## [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster)
+
+- [[Free] Add status badges and license](https://github.com/MyZubster-Ecosystem/myzubster/issues/3)
+- [[Agricoltori] Registro delle colture e rotazione](https://github.com/MyZubster-Ecosystem/myzubster/issues/22)
+
+## [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im)
+
+- [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88)
+- [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87)
+
+## [nextcloud/tables](https://github.com/nextcloud/tables)
+
+- [Delete table: Button should be red](https://github.com/nextcloud/tables/issues/2920)
+
+## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
+- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
+- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [PostCSS/esbuild/Vite token-fallback plugins incorrectly rewrite var()-like text inside strings](https://github.com/WordPress/gutenberg/issues/82169)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
+- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
+- [Restore the full search visibility in embed links](https://github.com/WordPress/gutenberg/issues/21343)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
+- [Audio Block: Autoplay does not happen on first load ](https://github.com/WordPress/gutenberg/issues/22056)
+- [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
+- [ESLint plugin: Relax the rule for @since in JSDoc](https://github.com/WordPress/gutenberg/issues/20859)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+
+## [dmarzzz/shade-tree-node](https://github.com/dmarzzz/shade-tree-node)
+
+- [docs: a benchmarks table at the top of OVERVIEW.md (proof time, verify time, added RTT, req/s)](https://github.com/dmarzzz/shade-tree-node/issues/63)
+- [docs: consolidate PROTOCOL-API.md / PROTOCOL-VERSIONING.md / design/PROTOCOL.md naming](https://github.com/dmarzzz/shade-tree-node/issues/66)
+- [install: a curl-installer for the release binary (no git clone, no npm)](https://github.com/dmarzzz/shade-tree-node/issues/64)
+
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
 - [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
@@ -43,115 +112,36 @@ This list gets updated every day at midnight.
 - [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
 - [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
 
-## [Matawaka/uu-aap](https://github.com/Matawaka/uu-aap)
+## [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)
 
-- [Review UU-AAP in 5 minutes — one counterexample is enough (Core Pilot 002)](https://github.com/Matawaka/uu-aap/issues/422)
-- [Good first issue: independently smoke-test PoAI Web Verifier with valid and invalid vectors](https://github.com/Matawaka/uu-aap/issues/775)
-- [Good first issue: newcomer path smoke test — reach one useful action in 5 minutes](https://github.com/Matawaka/uu-aap/issues/774)
+- [good first issue: author samples for the three remaining AI conditional sections](https://github.com/product-on-purpose/pm-skills/issues/282)
+- [good first issue: add a visual to the quickstart (screenshot or short gif of a first skill run)](https://github.com/product-on-purpose/pm-skills/issues/219)
 
-## [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster)
+## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
 
-- [[Free] Add status badges and license](https://github.com/MyZubster-Ecosystem/myzubster/issues/3)
-- [[Agricoltori] Registro delle colture e rotazione](https://github.com/MyZubster-Ecosystem/myzubster/issues/22)
+- [Verify "St. Patrick’s Shamrock Thrift" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/28)
+- [Verify correct locations of "Catholic Charities"](https://github.com/davgross/homeless-in-slo-resource-guide/issues/24)
+- [Add "Hope for Ashlynn" group](https://github.com/davgross/homeless-in-slo-resource-guide/issues/357)
+- [SLO YMCA moving to 24-hour schedule](https://github.com/davgross/homeless-in-slo-resource-guide/issues/347)
 
-## [LucaBonamino/Clavimit](https://github.com/LucaBonamino/Clavimit)
+## [nextcloud/forms](https://github.com/nextcloud/forms)
 
-- [Key inputs are not cleared after failed decryption](https://github.com/LucaBonamino/Clavimit/issues/3)
-- [Syncr package.json version with manifest.json](https://github.com/LucaBonamino/Clavimit/issues/1)
-
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [nextcloud/tables](https://github.com/nextcloud/tables)
-
-- [Delete table: Button should be red](https://github.com/nextcloud/tables/issues/2920)
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
 
 ## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
 
 - [Missing CONTRIBUTING.md file](https://github.com/WordPress/wordpress-playground/issues/2844)
 - [Provide unit and e2e test instructions in the top-level README](https://github.com/WordPress/wordpress-playground/issues/1519)
 
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Bug] Image not rendering correctly](https://github.com/layer5io/docs/issues/1207)
-- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-- [[Docs] Floating Card Overlapping Navbar](https://github.com/layer5io/docs/issues/1187)
-
-## [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im)
-
-- [[Feature] 为工作区命令增加 /ws、/wsl 和 /workspaces 别名](https://github.com/xmanrui/dsh-im/issues/88)
-- [[Feature] 支持使用 /workspacelist 序号切换工作区](https://github.com/xmanrui/dsh-im/issues/87)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [[CI] Enhance appropriate github issue templates with mention of and hyperlink to self-pace contributor training](https://github.com/meshery/meshery.io/issues/2798)
-
-## [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon)
-
-- [Feature: provide quick-start guide for new users](https://github.com/OWASP/threat-dragon/issues/1530)
-
-## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
-
-- [Add a Japanese or Korean public resolver to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/393)
-- [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394)
-- [🌍 Translations wanted — bring MyIP to your language](https://github.com/jason5ng32/MyIP/issues/418)
-- [Add a reachable public resolver from Europe to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/392)
-- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
-- [Connectivity test: add a Mexico country list](https://github.com/jason5ng32/MyIP/issues/451)
-- [Connectivity test: add a Nigeria country list](https://github.com/jason5ng32/MyIP/issues/450)
-- [Connectivity test: add an Indonesia country list](https://github.com/jason5ng32/MyIP/issues/449)
-- [Add a reachable public resolver from Russia to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/390)
-- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
-- [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406)
-- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
-- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
-- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
-- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
-- [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414)
-- [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413)
-- [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412)
-- [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410)
-- [Connectivity test: add a "Travel & Booking" import list](https://github.com/jason5ng32/MyIP/issues/403)
-- [Connectivity test: add a "Sports" import list](https://github.com/jason5ng32/MyIP/issues/402)
-- [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401)
-- [Connectivity test: add a Turkey country list](https://github.com/jason5ng32/MyIP/issues/398)
-- [Connectivity test: add a "Finance & Payments" import list](https://github.com/jason5ng32/MyIP/issues/397)
-- [Connectivity test: add an "Online Education" import list](https://github.com/jason5ng32/MyIP/issues/396)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization guidance](https://github.com/open-telemetry/opentelemetry.io/issues/10252)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-- [[pt] Localize content/en/docs/languages/js pages](https://github.com/open-telemetry/opentelemetry.io/issues/8385)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
-
-## [aadorian/opencodeCLI](https://github.com/aadorian/opencodeCLI/pull/89)
-
-- [chore(deps-dev): bump sharp from 0.35.2 to 0.35.4](https://github.com/aadorian/opencodeCLI/pull/89)
-- [chore(deps-dev): bump the vscode-test group with 2 updates](https://github.com/aadorian/opencodeCLI/pull/87)
-
 ## [nextcloud/contacts](https://github.com/nextcloud/contacts)
 
 - [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
+
+## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+
+- [Hoist duplicate user-facing strings into a single messages module](https://github.com/darshi1337/apogee/issues/160)
+- [Give an actionable message when Ollama host validation fails](https://github.com/darshi1337/apogee/issues/157)
+- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -169,102 +159,21 @@ This list gets updated every day at midnight.
 - [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
-## [sheryloe/pocketforge-relay](https://github.com/sheryloe/pocketforge-relay)
-
-- [good first issue: extend README parity markers for container and live Actions claims](https://github.com/sheryloe/pocketforge-relay/issues/13)
-- [good first issue: return focus after deletion confirmation closes](https://github.com/sheryloe/pocketforge-relay/issues/10)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [openedx/paragon](https://github.com/openedx/paragon)
-
-- [Tracking issue: remove `propTypes` and `defaultProps` from TypeScript components](https://github.com/openedx/paragon/issues/3744)
-- [Tracking issue: Convert components to TypeScript](https://github.com/openedx/paragon/issues/3739)
-
-## [darshi1337/apogee](https://github.com/darshi1337/apogee)
-
-- [Give an actionable message when Ollama host validation fails](https://github.com/darshi1337/apogee/issues/157)
-- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
-- [Hoist duplicate user-facing strings into a single messages module](https://github.com/darshi1337/apogee/issues/160)
-
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 
-## [santifer/career-ops](https://github.com/santifer/career-ops)
+## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
 
-- [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/santifer/career-ops/issues/3398)
-- [docs(budget): a verified quick-start for running a local model (Ollama or LM Studio)](https://github.com/santifer/career-ops/issues/3534)
-- [SYSTEM_PATHS coverage gap: .gemini/commands/*.toml (15 files) + plugins-registry.json unregistered — update-system.mjs will never ship them](https://github.com/santifer/career-ops/issues/3258)
-- [fix(cli): analyze-patterns.mjs silently ignores mistyped flags — delegate to lib/cli-flags.mjs](https://github.com/santifer/career-ops/issues/2979)
-- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/santifer/career-ops/issues/3408)
-- [templates: extend profile font_family override to Japanese and Chinese typography blocks](https://github.com/santifer/career-ops/issues/3154)
-- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/santifer/career-ops/issues/3113)
-- [test(i18n): guard the 16 localized READMEs against fact drift](https://github.com/santifer/career-ops/issues/3403)
-- [i18n: translate the interview modes (plan/practice/debrief) to French](https://github.com/santifer/career-ops/issues/3407)
-- [i18n: translate the interview modes (plan/practice/debrief) to German](https://github.com/santifer/career-ops/issues/3406)
-- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/santifer/career-ops/issues/3405)
-- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/santifer/career-ops/issues/2808)
-- [data: add a UK row to templates/agency-licensing.yml (EAS Inspectorate)](https://github.com/santifer/career-ops/issues/2327)
-- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/santifer/career-ops/issues/2784)
-- [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/santifer/career-ops/issues/3223)
-- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/santifer/career-ops/issues/2051)
-- [i18n: translate the interview modes (plan/practice/debrief) to Polish](https://github.com/santifer/career-ops/issues/3291)
-- [i18n: translate the interview modes (plan/practice/debrief) to Korean](https://github.com/santifer/career-ops/issues/3290)
-- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/santifer/career-ops/issues/3289)
-
-## [Clarryson/Reflextracker](https://github.com/Clarryson/Reflextracker)
-
-- [Build the main web application](https://github.com/Clarryson/Reflextracker/issues/7)
-- [Perform final system testing](https://github.com/Clarryson/Reflextracker/issues/61)
-- [Document how REFLEX is installed and used](https://github.com/Clarryson/Reflextracker/issues/60)
-- [Prepare REFLEX for real use](https://github.com/Clarryson/Reflextracker/issues/59)
-- [Automatically check new changes](https://github.com/Clarryson/Reflextracker/issues/58)
-- [Set up the project's supporting services](https://github.com/Clarryson/Reflextracker/issues/57)
-- [Package REFLEX for easy setup](https://github.com/Clarryson/Reflextracker/issues/56)
-- [Check system safety](https://github.com/Clarryson/Reflextracker/issues/55)
-- [Test the complete delivery journey](https://github.com/Clarryson/Reflextracker/issues/54)
-- [Test live updates](https://github.com/Clarryson/Reflextracker/issues/53)
-- [Test proof of delivery](https://github.com/Clarryson/Reflextracker/issues/52)
-- [Test QR verification](https://github.com/Clarryson/Reflextracker/issues/51)
-- [Test rider assignments](https://github.com/Clarryson/Reflextracker/issues/50)
-- [Test the delivery journey](https://github.com/Clarryson/Reflextracker/issues/49)
-- [Test creating and viewing deliveries](https://github.com/Clarryson/Reflextracker/issues/48)
-- [Set up project testing](https://github.com/Clarryson/Reflextracker/issues/47)
-- [Make the rider experience simple](https://github.com/Clarryson/Reflextracker/issues/34)
-- [Make the rider app usable with poor internet](https://github.com/Clarryson/Reflextracker/issues/33)
-- [Show riders important live updates](https://github.com/Clarryson/Reflextracker/issues/32)
-- [Connect the rider app to REFLEX](https://github.com/Clarryson/Reflextracker/issues/31)
-- [Allow riders to complete deliveries](https://github.com/Clarryson/Reflextracker/issues/30)
-- [Add proof of delivery](https://github.com/Clarryson/Reflextracker/issues/29)
-- [Confirm the QR code](https://github.com/Clarryson/Reflextracker/issues/28)
-- [Add QR code scanning](https://github.com/Clarryson/Reflextracker/issues/27)
-- [Allow riders to confirm pickup](https://github.com/Clarryson/Reflextracker/issues/26)
-- [Show delivery information](https://github.com/Clarryson/Reflextracker/issues/25)
-- [Show the rider their assigned deliveries](https://github.com/Clarryson/Reflextracker/issues/24)
-- [Build the rider home screen](https://github.com/Clarryson/Reflextracker/issues/23)
-- [Build the rider application-Progressive Web Application](https://github.com/Clarryson/Reflextracker/issues/22)
-- [Make the website work on different screen sizes](https://github.com/Clarryson/Reflextracker/issues/21)
-- [Handle waiting, errors, and empty screens](https://github.com/Clarryson/Reflextracker/issues/20)
-- [Show live changes on the website](https://github.com/Clarryson/Reflextracker/issues/19)
-- [Connect the website to REFLEX](https://github.com/Clarryson/Reflextracker/issues/18)
-- [Make delivery statuses easy to understand](https://github.com/Clarryson/Reflextracker/issues/17)
-- [Create the rider reassignment screen](https://github.com/Clarryson/Reflextracker/issues/16)
-- [Create the rider assignment screen](https://github.com/Clarryson/Reflextracker/issues/15)
-- [Create the unassigned delivery list](https://github.com/Clarryson/Reflextracker/issues/14)
-- [Build the dispatcher dashboard](https://github.com/Clarryson/Reflextracker/issues/13)
-- [Create the delivery details screen](https://github.com/Clarryson/Reflextracker/issues/12)
-- [Create the retailer delivery list](https://github.com/Clarryson/Reflextracker/issues/11)
-- [Create the new delivery screen](https://github.com/Clarryson/Reflextracker/issues/10)
-- [Build the retailer dashboard](https://github.com/Clarryson/Reflextracker/issues/9)
-- [Create reusable screen elements](https://github.com/Clarryson/Reflextracker/issues/8)
+- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
+- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
+- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
+- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
+- [Fix broken Markdown link: https://en.wikipedia.org/wiki/Anglit_distribution](https://github.com/stdlib-js/stdlib/issues/14863)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
 - [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14500)
 - [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
@@ -273,29 +182,72 @@ This list gets updated every day at midnight.
 - [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
 - [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
 
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+## [beautifier/js-beautify](https://github.com/beautifier/js-beautify)
 
-- [[Feature] Cleanup pass on subclass descriptions](https://github.com/Foundryborne/daggerheart/issues/2185)
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
-- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
-- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
-- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
-- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
+- [Add `defaultOptions` method to main beautifier ](https://github.com/beautifier/js-beautify/issues/1584)
+
+## [hackforla/website](https://github.com/hackforla/website/pull/8764)
+
+- [added docker technologies to lucky-parking project](https://github.com/hackforla/website/pull/8764)
+- [Update Project Profile: Lucky Parking (Add Tech: Docker)](https://github.com/hackforla/website/issues/8655)
+- [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759)
+- [Update Project Profile: Hackforla.org Website Remove Ryan Keller](https://github.com/hackforla/website/issues/8762)
+- [Update Project Profile: Hackforla.org Website Add Maleah Castillo Smith](https://github.com/hackforla/website/issues/8761)
+- [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760)
+- [Skills Issue: Developer: Juan Yepez](https://github.com/hackforla/website/issues/8717)
+- [Update docker-compose.yml: Remove top-level version element](https://github.com/hackforla/website/issues/8555)
+- [Update Project Profile: Not Today (Update Project's Description)](https://github.com/hackforla/website/issues/8755)
+- [Add github-handle for Isabelle Wagenvoord in public-tree-map.md](https://github.com/hackforla/website/issues/7794)
+- [Add github-handle for Isabelle Wagenvoord in public-tree-map.md](https://github.com/hackforla/website/pull/8710)
+- [Add github-handle for Kate Rose in hellogov.md](https://github.com/hackforla/website/issues/7401)
+- [Update Project Profile: Civic Tech Jobs (Move Figma from Technology to Tool)](https://github.com/hackforla/website/issues/8702)
+- [Update Project Profile: Design Systems](https://github.com/hackforla/website/issues/8711)
+- [Epic: Create issues to add false positives to cspell.json](https://github.com/hackforla/website/issues/5312)
+- [Add ESlint VS Code installation instructions](https://github.com/hackforla/website/issues/4264)
+- [Design System Audit: Text Elements:  Toolkit Page](https://github.com/hackforla/website/issues/3528)
+- [Mobile Responsiveness on toolkit](https://github.com/hackforla/website/issues/1848)
+- [ER: Find all the places that Github should be GitHub and fix](https://github.com/hackforla/website/issues/6161)
+- [Update Donate page in Figma to reflect changes on site ](https://github.com/hackforla/website/issues/4051)
+- [ER: Rationalizing the sponsors and partners info in code base](https://github.com/hackforla/website/issues/6819)
+- [Add github-handle for Bonnie Wolfe in guides-teams.md](https://github.com/hackforla/website/issues/7102)
+- [Add github-handle for Hunter Owens in work-for-la.md](https://github.com/hackforla/website/issues/7384)
+- [Add github-handle for Kalyani Raman in open-community-survey.md](https://github.com/hackforla/website/issues/7431)
+- [Add github-handle for Snow in open-community-survey.md](https://github.com/hackforla/website/issues/7434)
+- [Add github-handle for Greg Pawin in lucky-parking.md](https://github.com/hackforla/website/issues/7799)
+- [Add additional repo(s) for project: Access the Data](https://github.com/hackforla/website/issues/5127)
+- [Update Project Profile: Food Oasis Add Bonnie Wolfe](https://github.com/hackforla/website/issues/8674)
+- [Update Project Profile: Food Oasis Add Jelena Karanovic](https://github.com/hackforla/website/issues/8675)
+- [Update Project Profile: Food Oasis Add Shienny Sutanto](https://github.com/hackforla/website/issues/8676)
+- [Update Project Profile: Food Oasis Add Whitney Gould](https://github.com/hackforla/website/issues/8678)
+- [Update Project Profile: Food Oasis Add Ling Dong](https://github.com/hackforla/website/issues/8679)
+- [Update Project Profile: Food Oasis Add Luigi Olianas](https://github.com/hackforla/website/issues/8680)
+- [Update Project Profile: Food Oasis Add Alexa Ray](https://github.com/hackforla/website/issues/8681)
+- [Update Project Profile: Food Oasis Add Caitlin Jimenez](https://github.com/hackforla/website/issues/8682)
+- [Update Project Profile: Food Oasis Add Christina Nguyen](https://github.com/hackforla/website/issues/8683)
+- [Update Project Profile: Food Oasis Add Zainab Adenaike](https://github.com/hackforla/website/issues/8684)
+- [Update Project Profile: Food Oasis Add Jaclyn Chin](https://github.com/hackforla/website/issues/8685)
+- [Update Project Profile: Food Oasis Remove Andy Arensman](https://github.com/hackforla/website/issues/8686)
+- [Update Project Profile: Food Oasis Remove Belen Garcia Martinez](https://github.com/hackforla/website/issues/8687)
+- [Update Project Profile: Food Oasis Remove  Krista Strucke](https://github.com/hackforla/website/issues/8688)
+- [Update Project Profile: Food Oasis Remove Qiqi Zheng](https://github.com/hackforla/website/issues/8689)
+- [Design System Audit: Text Elements: Join Us Page](https://github.com/hackforla/website/issues/3525)
+- [Correct Oxford Comma in Communities of Practice Page](https://github.com/hackforla/website/issues/8511)
+- [Update Project Profile: GreenEarthOS (Update Project's Description)](https://github.com/hackforla/website/issues/8672)
+- [Update Project Profile: Open Community Survey (Update Project's Description)](https://github.com/hackforla/website/issues/8692)
 
 ## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
-- [[Good First Issue] Add an output-encoding tip [MC-032]](https://github.com/Berserk-hub150/skillhawk/issues/86)
-- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/101)
-- [[Good First Issue] Add a CLI-message clarity tip [MC-010]](https://github.com/Berserk-hub150/skillhawk/issues/100)
-- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/99)
-- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/98)
-- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/97)
-- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/96)
+- [[Good First Issue] Add a secure-example writing tip [MC-013]](https://github.com/Berserk-hub150/skillhawk/issues/103)
+- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/92)
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/93)
 - [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/95)
 - [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/94)
-- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/93)
-- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/92)
+- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/96)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/97)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/99)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/98)
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/101)
+- [[Good First Issue] Add an output-encoding tip [MC-032]](https://github.com/Berserk-hub150/skillhawk/issues/86)
 - [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
 - [[Good First Issue] Add a path-traversal review tip [MC-031]](https://github.com/Berserk-hub150/skillhawk/issues/85)
 - [[2–5 min] Add one prompt-injection remediation tip](https://github.com/Berserk-hub150/skillhawk/issues/52)
