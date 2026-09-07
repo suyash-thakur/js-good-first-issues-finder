@@ -4,15 +4,21 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 
-- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
-- [Dev.to article extractor](https://github.com/darshi1337/apogee/issues/169)
-
-## [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
-
-- [[Good First Issue] Pixel Glitch in some theme cards](https://github.com/Syknapse/Contribute-To-This-Project/issues/4667)
-- [[bug]  `cards/template.html` is missing — was renamed instead of copied in PR #4681](https://github.com/Syknapse/Contribute-To-This-Project/issues/4691)
+- [[chore] Nothing asserts the README's two clone pins match version.json — they go stale on every release, by hand](https://github.com/Jason-Vaughan/TangleClaw/issues/976)
+- [[bug] Settings modal clips hint text — long code tokens overflow the toggle grid's cells](https://github.com/Jason-Vaughan/TangleClaw/issues/1271)
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+- [[feature] Set CLAUDE_CODE_ARTIFACT_AUTO_OPEN=0 for spawned Claude sessions — artifact tabs pile up on a host nobody watches](https://github.com/Jason-Vaughan/TangleClaw/issues/1113)
+- [tests: stop regex-matching exact public/* source text in frontend tests](https://github.com/Jason-Vaughan/TangleClaw/issues/1037)
+- [Tighten FEATURES.md citation-contract coverage](https://github.com/Jason-Vaughan/TangleClaw/issues/1044)
+- [[chore] Log when resolveSessionRange downgrades a session SHA to the trunk range](https://github.com/Jason-Vaughan/TangleClaw/issues/670)
+- [wrap: changelog promotion emits headings with no link-reference defs](https://github.com/Jason-Vaughan/TangleClaw/issues/1051)
+- [session-rules: restore returns CONFIRM_REQUIRED for an unknown versionNo](https://github.com/Jason-Vaughan/TangleClaw/issues/1048)
+- [projects: stranded-config guard misses .gemini artifacts](https://github.com/Jason-Vaughan/TangleClaw/issues/1049)
+- [tests: convert the remaining non-strict node:assert suites to strict](https://github.com/Jason-Vaughan/TangleClaw/issues/1067)
+- [Add JSDoc to the 9 undocumented private helpers](https://github.com/Jason-Vaughan/TangleClaw/issues/1066)
+- [Suppress node:sqlite ExperimentalWarning via --disable-warning flag](https://github.com/Jason-Vaughan/TangleClaw/issues/1039)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -26,26 +32,9 @@ This list gets updated every day at midnight.
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
 
-## [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-
-- [Request: postmarketOS ](https://github.com/simple-icons/simple-icons/issues/11772)
-
-## [dandovdub/residoo](https://github.com/dandovdub/residoo)
-
-- [Verify a source not yet on this list against a real install](https://github.com/dandovdub/residoo/issues/9)
-- [Verify Windsurf, Cline, or Continue against a real install](https://github.com/dandovdub/residoo/issues/8)
-- [Verify Cursor source against a real install](https://github.com/dandovdub/residoo/issues/7)
-
 ## [nextcloud/mail](https://github.com/nextcloud/mail)
 
 - [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-
-## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
-
-- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
-- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
-- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
-- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
 
 ## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
@@ -54,39 +43,44 @@ This list gets updated every day at midnight.
 - [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
 - [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
 
+## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+
+- [The tooltips for methods or attributes in the sidebar are not fully displayed.](https://github.com/nodejs/doc-kit/issues/938)
+
+## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+
+- [Restore the full search visibility in embed links](https://github.com/WordPress/gutenberg/issues/21343)
+- [Typescript - introduce new @wordpress/ts-config package for outside usage](https://github.com/WordPress/gutenberg/issues/48954)
+- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
+- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
+- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
+- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
+- [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
+- [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
+- [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
+- [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
+- [Documentation: Clarify the behavior of parent when empty during block registration](https://github.com/WordPress/gutenberg/issues/15731)
+- [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
+- [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
+
+## [mithun-srinivas/DoxDock](https://github.com/mithun-srinivas/DoxDock)
+
+- [Grayscale PDF: convert a whole PDF to black and white](https://github.com/mithun-srinivas/DoxDock/issues/169)
+
 ## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
 - [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
 
-## [nextcloud/forms](https://github.com/nextcloud/forms)
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
 
-- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
 
-## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
+## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
 
-- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
-- [Connectivity test: add a Turkey country list](https://github.com/jason5ng32/MyIP/issues/398)
-- [Connectivity test: add a Mexico country list](https://github.com/jason5ng32/MyIP/issues/451)
-- [Connectivity test: add an Indonesia country list](https://github.com/jason5ng32/MyIP/issues/449)
-- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
-- [Add a reachable public resolver from Europe to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/392)
-- [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394)
-- [🌍 Translations wanted — bring MyIP to your language](https://github.com/jason5ng32/MyIP/issues/418)
-- [Add a reachable public resolver from Russia to the DNS Resolver tool](https://github.com/jason5ng32/MyIP/issues/390)
-- [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406)
-- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
-- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
-- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
-- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
-- [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414)
-- [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413)
-- [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412)
-- [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410)
-- [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
+- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
+- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
+- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -105,161 +99,95 @@ This list gets updated every day at midnight.
 - [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
 
-## [Deen-Bridge/dnb-backend](https://github.com/Deen-Bridge/dnb-backend)
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
 
-- [feat(notifications): Add notification sound/vibration settings](https://github.com/Deen-Bridge/dnb-backend/issues/151)
-- [feat(auth): Add security questions for account recovery](https://github.com/Deen-Bridge/dnb-backend/issues/136)
-- [feat(notifications): Implement Do Not Disturb schedules](https://github.com/Deen-Bridge/dnb-backend/issues/150)
-- [feat(notifications): Implement notification preferences](https://github.com/Deen-Bridge/dnb-backend/issues/144)
-- [feat(security): Implement honeypot endpoints for attack detection](https://github.com/Deen-Bridge/dnb-backend/issues/143)
-- [feat(security): Add CSP violation reporting endpoint](https://github.com/Deen-Bridge/dnb-backend/issues/140)
-- [[Enhancement] Protect unauthenticated Stellar wallet lookup/enumeration endpoints](https://github.com/Deen-Bridge/dnb-backend/issues/10)
+- [test(v1.1.21): break the Guardian or the Token Crusher and report](https://github.com/Fmarzochi/EGC/issues/1382)
+- [test(v1.1.21): upgrade an existing install with egc auto-update and report](https://github.com/Fmarzochi/EGC/issues/1380)
+- [test(v1.1.21): two tools, one brain: does the memory really cross tools?](https://github.com/Fmarzochi/EGC/issues/1381)
+- [test(v1.1.21): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
+- [test(v1.1.21): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
+- [test(v1.1.21): first install on Linux, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1377)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14920)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14949)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
-- [[RFC]: Improve doctests for ndarray instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/9329)
+- [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pins it](https://github.com/career-ops-hq/career-ops/issues/3855)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [update-system.mjs commits the auto-update onto whatever branch you are on, including a contributor's feature branch](https://github.com/career-ops-hq/career-ops/issues/3846)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [feat(cli): four documented scripts have no --help — add the usage block (one script per PR)](https://github.com/career-ops-hq/career-ops/issues/3565)
+- [feat(scan): domain-level aggregator repost list, complementing the SimHash cross-listing warning](https://github.com/career-ops-hq/career-ops/issues/3577)
+- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/career-ops-hq/career-ops/issues/3113)
+- [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/career-ops-hq/career-ops/issues/3398)
+- [i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3675)
+- [i18n: add the interview README to de/id/ru/ua/zh (one language per PR)](https://github.com/career-ops-hq/career-ops/issues/3564)
+- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/career-ops-hq/career-ops/issues/2808)
+- [verify-cv-facts: flag scope-verb inflation and unsourced adoption claims, not just numbers](https://github.com/career-ops-hq/career-ops/issues/3685)
+- [i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3673)
+- [i18n(es): re-sync modes/es/oferta.md (Spanish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3671)
+- [i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3670)
+- [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/career-ops-hq/career-ops/issues/3223)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+- [i18n: translate the interview modes (plan/practice/debrief) to German](https://github.com/career-ops-hq/career-ops/issues/3406)
+- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/career-ops-hq/career-ops/issues/3405)
+- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/career-ops-hq/career-ops/issues/2784)
+- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/career-ops-hq/career-ops/issues/2051)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish](https://github.com/career-ops-hq/career-ops/issues/3291)
+- [i18n: translate the interview modes (plan/practice/debrief) to Korean](https://github.com/career-ops-hq/career-ops/issues/3290)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/career-ops-hq/career-ops/issues/3289)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 
-## [PetriLahdelma/stylelint-plugin-rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Add a shields.io endpoint badge format to the audit (spacing drift %)](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard/issues/68)
-- [Add a repository to the quiet benchmark](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard/issues/56)
-- [Review the drift list of one benchmark repository and label it](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard/issues/55)
-- [Prefer root-level token declarations over component-local variables when inferring the scale](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard/issues/54)
-
-## [rpuls/my-own-suite](https://github.com/rpuls/my-own-suite)
-
-- [Add a web app manifest so Suite Manager installs to a phone home screen](https://github.com/rpuls/my-own-suite/issues/234)
-- [[Platform] Install MOS somewhere untested and report what happened](https://github.com/rpuls/my-own-suite/issues/239)
-- [[App] Add Memos app package](https://github.com/rpuls/my-own-suite/issues/218)
-- [[App] Add Excalidraw app package](https://github.com/rpuls/my-own-suite/issues/217)
-
-## [cyrillesaxo/ICEBERG](https://github.com/cyrillesaxo/ICEBERG)
-
-- [Good first issue: add a JSON schema for journey scenario packs](https://github.com/cyrillesaxo/ICEBERG/issues/7)
-- [Good first issue: contribute a password-reset journey scenario pack](https://github.com/cyrillesaxo/ICEBERG/issues/4)
-- [Good first issue: add Cypress test-source detector](https://github.com/cyrillesaxo/ICEBERG/issues/3)
-- [Good first issue: add Storybook state discovery adapter](https://github.com/cyrillesaxo/ICEBERG/issues/2)
-
-## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
-
-- [test(v1.1.21): use EGC for one real working day and report with egc gain](https://github.com/Fmarzochi/EGC/issues/1383)
-- [test(v1.1.21): break the Guardian or the Token Crusher and report](https://github.com/Fmarzochi/EGC/issues/1382)
-- [test(v1.1.21): two tools, one brain: does the memory really cross tools?](https://github.com/Fmarzochi/EGC/issues/1381)
-- [test(v1.1.21): upgrade an existing install with egc auto-update and report](https://github.com/Fmarzochi/EGC/issues/1380)
-- [test(v1.1.21): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
-- [test(v1.1.21): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
-- [test(v1.1.21): first install on Linux, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1377)
-
-## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
-
-- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
-- [auth refresh endpoint issues tokens without verifying the requester](https://github.com/SecureBananaLabs/bug-bounty/issues/2847)
-- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
-- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
-- [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
-- [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
-- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
-- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
-- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
-- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
-- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
-- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
-- [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
-- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
-- [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
-- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1742)
-- [Bug: Refresh endpoint mints tokens without validating a refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1750)
-- [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
-- [Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1760)
-- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1737)
-- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
-- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
-- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
-- [Bug: registerUser signs token with a different generated user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1758)
-- [Bug: Rate limiter should count malformed JSON before body parsing](https://github.com/SecureBananaLabs/bug-bounty/issues/1735)
-- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1426)
-- [CORS configured without origin allowlist in app.js (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2782)
-- [POST /api/users endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2779)
-- [POST /api/proposals endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2773)
-- [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
-- [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
-- [Registration should require fullName to match User model](https://github.com/SecureBananaLabs/bug-bounty/issues/2770)
-- [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
-- [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
-- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[es] Spanish folder localization docs/languages](https://github.com/open-telemetry/opentelemetry.io/issues/5229)
-
-## [click6067-ship-it/fitllm-engine](https://github.com/click6067-ship-it/fitllm-engine)
-
-- [small-Mac (16-32GB) reserve calibration — needs system_total_peak measurements (≥3 independent reporters)](https://github.com/click6067-ship-it/fitllm-engine/issues/8)
-- [Measurement wanted: Qwen3.8-27B peak memory on RTX 4090 / 5090](https://github.com/click6067-ship-it/fitllm-engine/issues/111)
-
-## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-
-- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
-- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
-
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-- [[Feature] Allow players to signal aid from their character sheet.](https://github.com/Foundryborne/daggerheart/issues/2162)
-- [[Feature] Show secondary spellcasting traits for multiclassed character sheets](https://github.com/Foundryborne/daggerheart/issues/1380)
-- [[Feature] Include plus sign in trait dropdown during character creation and editing](https://github.com/Foundryborne/daggerheart/issues/1092)
-- [[Feature] [Homebrew] allow relabeling damage types](https://github.com/Foundryborne/daggerheart/issues/844)
-- [[Feature] Types of domain cards](https://github.com/Foundryborne/daggerheart/issues/1805)
-
-## [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
-
-- [[Feat]: Make selecting screen for sharing simpler](https://github.com/IsmaelMartinez/teams-for-linux/issues/2746)
-- [[Feat]: Add an "Open config file" menu entry](https://github.com/IsmaelMartinez/teams-for-linux/issues/2885)
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
 
 ## [layer5io/docs](https://github.com/layer5io/docs)
 
 - [[Bug] Image not rendering correctly](https://github.com/layer5io/docs/issues/1207)
 - [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-- [[Docs] Floating Card Overlapping Navbar](https://github.com/layer5io/docs/issues/1187)
 
-## [ChulioZ/spielwirbel](https://github.com/ChulioZ/spielwirbel)
+## [usebruno/bruno](https://github.com/usebruno/bruno)
 
-- [Add the Portuguese UI locale (pt)](https://github.com/ChulioZ/spielwirbel/issues/538)
-- [Add the Dutch UI locale (nl)](https://github.com/ChulioZ/spielwirbel/issues/537)
+- [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985)
+- [Close multiple collections at once](https://github.com/usebruno/bruno/issues/5460)
+
+## [holeyfield33-art/runtime-firewall-mvp](https://github.com/holeyfield33-art/runtime-firewall-mvp)
+
+- [(0,eval) indirect-eval produces no standalone indicative-pattern WARN (isolated case)](https://github.com/holeyfield33-art/runtime-firewall-mvp/issues/84)
+- [non existing function call](https://github.com/holeyfield33-art/runtime-firewall-mvp/issues/80)
+
+## [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+
+- [Share profile image generation is broken for some avatars and cover images](https://github.com/TryGhost/Ghost/issues/24600)
+- [🌐 i18n mega-issue](https://github.com/TryGhost/Ghost/issues/23361)
+
+## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
+
+- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
+
+## [cardano-foundation/cardano-org](https://github.com/cardano-foundation/cardano-org)
+
+- [Refresh stale glossary entries and add the missing current terms](https://github.com/cardano-foundation/cardano-org/issues/832)
+- [Help translate cardano.org into your language](https://github.com/cardano-foundation/cardano-org/issues/442)
 
 ## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
-- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
-- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/105)
-- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/113)
-- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/112)
-- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/111)
-- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/110)
-- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/109)
-- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/108)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/116)
 - [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/107)
 - [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/106)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/108)
+- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/110)
+- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/109)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/111)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/112)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/113)
+- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/105)
 - [[Good First Issue] Add a path-traversal review tip [MC-031]](https://github.com/Berserk-hub150/skillhawk/issues/85)
 - [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/101)
-- [[Good First Issue] Add an output-encoding tip [MC-032]](https://github.com/Berserk-hub150/skillhawk/issues/86)
 - [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
 - [[2–5 min] Add one prompt-injection remediation tip](https://github.com/Berserk-hub150/skillhawk/issues/52)
 - [[2–5 min] Add one precision flashcard](https://github.com/Berserk-hub150/skillhawk/issues/25)
@@ -292,4 +220,87 @@ This list gets updated every day at midnight.
 - [[2–5 min] Define SARIF for beginners](https://github.com/Berserk-hub150/skillhawk/issues/8)
 - [Add detection for suspicious PowerShell download-and-execute patterns](https://github.com/Berserk-hub150/skillhawk/issues/2)
 - [Add a compact README demo GIF or terminal screenshot](https://github.com/Berserk-hub150/skillhawk/issues/1)
+
+## [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary)
+
+- [[Docs] Auto-generate types and enums docs from file contents](https://github.com/style-dictionary/style-dictionary/issues/1633)
+
+## [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web)
+
+- [Feature request: Provide the ability in Grampsweb to change the genealogical symbols](https://github.com/gramps-project/gramps-web/issues/507)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+
+## [Kaycee276/Chesster](https://github.com/Kaycee276/Chesster)
+
+- [[FRONTEND] feat(frontend): Implement Dark/Light Mode Theme Toggle with System Auto-Detection](https://github.com/Kaycee276/Chesster/issues/129)
+- [[FRONTEND] feat(frontend): Add Token Wager Amount Selector Pills (1, 5, 10, 25, 50 XLM)](https://github.com/Kaycee276/Chesster/issues/132)
+- [[FRONTEND] feat(frontend): Implement Keyboard Shortcuts for Game Actions (Z=Undo, F=Flip, Space=Focus)](https://github.com/Kaycee276/Chesster/issues/131)
+- [[FRONTEND] feat(frontend): Add Share Match Link QR Code Generator in Game Lobby](https://github.com/Kaycee276/Chesster/issues/130)
+- [[FRONTEND] feat(frontend): Implement Player Account Balance Display in Navbar](https://github.com/Kaycee276/Chesster/issues/133)
+- [[FRONTEND] feat(frontend): Add Accessible Screen Reader Labels & ARIA Roles across Board](https://github.com/Kaycee276/Chesster/issues/134)
+- [[TESTING] test(frontend): Zustand Store State Transition Tests for Game, Wallet, and Toasts](https://github.com/Kaycee276/Chesster/issues/140)
+- [[TESTING] test(frontend): Sound Service Audio Synthesizer Mock Unit Tests](https://github.com/Kaycee276/Chesster/issues/141)
+- [[SECURITY] security(backend): Implement Sanitized SQL Query Parameterization Across All Models](https://github.com/Kaycee276/Chesster/issues/146)
+- [[SECURITY] security(frontend): Implement Strict XSS Sanitization on In-Game Chat Messages](https://github.com/Kaycee276/Chesster/issues/147)
+- [[SECURITY] security(backend): Enforce HTTPS and Secure WSS WebSocket Protocol in Production](https://github.com/Kaycee276/Chesster/issues/149)
+- [[SECURITY] security(frontend): Audit Wallet Private Key Isolation & Never Expose Secrets](https://github.com/Kaycee276/Chesster/issues/150)
+- [[SECURITY] security(backend): Implement IP Rate Limiter on Match Creation to Prevent Lobby Flooding](https://github.com/Kaycee276/Chesster/issues/151)
+- [[DOCS] docs(api): Add Swagger / OpenAPI Documentation for Backend REST Endpoints](https://github.com/Kaycee276/Chesster/issues/152)
+
+## [AgentPostmortem/Ctxtrim](https://github.com/AgentPostmortem/Ctxtrim)
+
+- [Unreadable files silently reported as clean 0-token source](https://github.com/AgentPostmortem/Ctxtrim/issues/11)
+- [merge() duplicates the managed block when a file has START without END](https://github.com/AgentPostmortem/Ctxtrim/issues/10)
+- [Passing a file path silently scans the cwd instead of erroring](https://github.com/AgentPostmortem/Ctxtrim/issues/7)
+
+## [EISSeuropa/EISSeuropa.github.io](https://github.com/EISSeuropa/EISSeuropa.github.io)
+
+- [EISS 2025 programme lists the same poster session on both days](https://github.com/EISSeuropa/EISSeuropa.github.io/issues/902)
+- [Declare what each Nunjucks partial expects](https://github.com/EISSeuropa/EISSeuropa.github.io/issues/1273)
+
+## [ChulioZ/spielwirbel](https://github.com/ChulioZ/spielwirbel)
+
+- [Add the Portuguese UI locale (pt)](https://github.com/ChulioZ/spielwirbel/issues/538)
+
+## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+
+- [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
+- [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
+- [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
+- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
+- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [auth refresh endpoint issues tokens without verifying the requester](https://github.com/SecureBananaLabs/bug-bounty/issues/2847)
+- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
+- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
+- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
+- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
+- [Bug: Missing admin role authorization check on admin metrics endpoint](https://github.com/SecureBananaLabs/bug-bounty/issues/1764)
+- [Bug: Proposal creation accepts records missing estimated duration](https://github.com/SecureBananaLabs/bug-bounty/issues/1739)
+- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
+- [Registration token subject can drift from returned user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1743)
+- [fix: prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1742)
+- [Bug: Refresh endpoint mints tokens without validating a refresh token](https://github.com/SecureBananaLabs/bug-bounty/issues/1750)
+- [fix(auth): prevent admin role self-assignment during registration](https://github.com/SecureBananaLabs/bug-bounty/issues/1755)
+- [Bug: Multiple security vulnerabilities in API layer - registerUser() ID mismatch, missing auth, missing validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1760)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1737)
+- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
+- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
+- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
+- [Bug: registerUser signs token with a different generated user id](https://github.com/SecureBananaLabs/bug-bounty/issues/1758)
+- [Bug: Rate limiter should count malformed JSON before body parsing](https://github.com/SecureBananaLabs/bug-bounty/issues/1735)
+- [fix: prevent admin role self-assignment](https://github.com/SecureBananaLabs/bug-bounty/issues/1426)
+- [CORS configured without origin allowlist in app.js (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2782)
+- [POST /api/users endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2779)
+- [POST /api/proposals endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2773)
+- [Registration should require fullName to match User model](https://github.com/SecureBananaLabs/bug-bounty/issues/2770)
+- [@freelanceflow/db package should expose an importable workspace entrypoint](https://github.com/SecureBananaLabs/bug-bounty/issues/2775)
+- [Job creation endpoint lacks authentication — anyone can post jobs](https://github.com/SecureBananaLabs/bug-bounty/issues/1776)
 
