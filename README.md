@@ -4,13 +4,188 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+
+- [Improve Mobile Responsiveness](https://github.com/Syknapse/Contribute-To-This-Project/issues/4750)
+- [[Good First Issue] Pixel Glitch in some theme cards](https://github.com/Syknapse/Contribute-To-This-Project/issues/4667)
+- [[bug]  `cards/template.html` is missing — was renamed instead of copied in PR #4681](https://github.com/Syknapse/Contribute-To-This-Project/issues/4691)
+
+## [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev)
+
+- [Indonesian Translation Progress - Wave 2](https://github.com/reactjs/id.react.dev/issues/681)
+
+## [atomantic/PortOS](https://github.com/atomantic/PortOS)
+
+- [[code-quality-voice-health-piper-bin] Use PIPER_BIN_NAME in voice health probe instead of hardcoding 'piper'](https://github.com/atomantic/PortOS/issues/6894)
+- [[simplify-weekday-time-picker] Remove unused WeekdayTimePicker wrapper](https://github.com/atomantic/PortOS/issues/6795)
+
 ## [TheFleece/dota2-mod-manager](https://github.com/TheFleece/dota2-mod-manager)
 
 - [Linux: open preset links and .d2mm files](https://github.com/TheFleece/dota2-mod-manager/issues/7)
 - [Add a language to the interface](https://github.com/TheFleece/dota2-mod-manager/issues/6)
 
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+
+- [Add JSDoc to the 9 undocumented private helpers](https://github.com/Jason-Vaughan/TangleClaw/issues/1066)
+- [[chore] Nothing asserts the README's two clone pins match version.json — they go stale on every release, by hand](https://github.com/Jason-Vaughan/TangleClaw/issues/976)
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+- [[feature] Set CLAUDE_CODE_ARTIFACT_AUTO_OPEN=0 for spawned Claude sessions — artifact tabs pile up on a host nobody watches](https://github.com/Jason-Vaughan/TangleClaw/issues/1113)
+- [tests: stop regex-matching exact public/* source text in frontend tests](https://github.com/Jason-Vaughan/TangleClaw/issues/1037)
+- [Tighten FEATURES.md citation-contract coverage](https://github.com/Jason-Vaughan/TangleClaw/issues/1044)
+- [[chore] Log when resolveSessionRange downgrades a session SHA to the trunk range](https://github.com/Jason-Vaughan/TangleClaw/issues/670)
+- [wrap: changelog promotion emits headings with no link-reference defs](https://github.com/Jason-Vaughan/TangleClaw/issues/1051)
+- [projects: stranded-config guard misses .gemini artifacts](https://github.com/Jason-Vaughan/TangleClaw/issues/1049)
+- [Suppress node:sqlite ExperimentalWarning via --disable-warning flag](https://github.com/Jason-Vaughan/TangleClaw/issues/1039)
+
+## [marcosmmjr2023/dsh-h-v1](https://github.com/marcosmmjr2023/dsh-h-v1)
+
+- [[Good first issue] Add screenshots for router, panel and safe update flow](https://github.com/marcosmmjr2023/dsh-h-v1/issues/6)
+- [[Good first issue] Add Spanish README/onboarding translation](https://github.com/marcosmmjr2023/dsh-h-v1/issues/5)
+- [[Good first issue] Test and document macOS compatibility](https://github.com/marcosmmjr2023/dsh-h-v1/issues/2)
+- [[Good first issue] Add a 20–30 second README demo GIF](https://github.com/marcosmmjr2023/dsh-h-v1/issues/1)
+
+## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+
+- [Bulk export of all past summaries](https://github.com/darshi1337/apogee/issues/244)
+- [Cap what goes into a notification](https://github.com/darshi1337/apogee/issues/252)
+- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
+- [Fill the empty state with the outlined wordmark](https://github.com/darshi1337/apogee/issues/243)
+- [Use the pixel dissolve for model-download progress](https://github.com/darshi1337/apogee/issues/242)
+- [Responsive and reduced-motion pass](https://github.com/darshi1337/apogee/issues/241)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+
+## [Posnic/POS](https://github.com/Posnic/POS)
+
+- [Correct inaccurate AlternativeTo product identity](https://github.com/Posnic/POS/issues/14)
+- [Docs: create integration roadmap index](https://github.com/Posnic/POS/issues/156)
+- [One translation key labels both a Customer heading and an Add button](https://github.com/Posnic/POS/issues/446)
+- [Contributor: add fake ecommerce store dataset](https://github.com/Posnic/POS/issues/154)
+- [Mailchimp connector: research customer sync boundary](https://github.com/Posnic/POS/issues/436)
+- [SMS connector: document provider abstraction boundary](https://github.com/Posnic/POS/issues/434)
+- [Delhivery connector: research shipment tracking boundary](https://github.com/Posnic/POS/issues/433)
+- [Shiprocket connector: research shipping label and status boundary](https://github.com/Posnic/POS/issues/432)
+- [Squarespace Commerce connector: add CSV import fallback fixture](https://github.com/Posnic/POS/issues/425)
+- [Ecwid connector: add order status mapping fixture](https://github.com/Posnic/POS/issues/424)
+- [Wix Stores connector: add product option fixture](https://github.com/Posnic/POS/issues/423)
+- [CS-Cart connector: research order and inventory boundary](https://github.com/Posnic/POS/issues/422)
+- [Thirty Bees connector: research legacy PrestaShop fork boundary](https://github.com/Posnic/POS/issues/421)
+- [Spree Commerce connector: research REST or GraphQL boundary](https://github.com/Posnic/POS/issues/420)
+- [Vendure connector: research GraphQL order and product boundary](https://github.com/Posnic/POS/issues/419)
+- [Medusa connector: research Admin API order boundary](https://github.com/Posnic/POS/issues/418)
+- [Saleor connector: research GraphQL order and stock boundary](https://github.com/Posnic/POS/issues/417)
+- [nopCommerce connector: research API or plugin boundary](https://github.com/Posnic/POS/issues/416)
+- [Shopware connector: research Admin API order and inventory boundary](https://github.com/Posnic/POS/issues/415)
+- [WooCommerce connector: add product image sync fixture](https://github.com/Posnic/POS/issues/410)
+- [App review: add scope-justification checklist fixture](https://github.com/Posnic/POS/issues/408)
+- [Marketplace billing: add developer-billed listing disclaimer fixture](https://github.com/Posnic/POS/issues/407)
+- [Marketplace: add Community Cloud and Hybrid compatibility badges](https://github.com/Posnic/POS/issues/406)
+- [Marketplace: add publisher contact verification fixture](https://github.com/Posnic/POS/issues/405)
+- [Docs: add integration PR evidence checklist](https://github.com/Posnic/POS/issues/401)
+- [Docs: add provider sandbox account checklist template](https://github.com/Posnic/POS/issues/400)
+- [Hybrid sync: add owner pause and resume fixture](https://github.com/Posnic/POS/issues/393)
+- [Local app dev mode: document developer-only test boundary](https://github.com/Posnic/POS/issues/390)
+- [Local app dev mode: add unsigned app refusal fixture](https://github.com/Posnic/POS/issues/389)
+- [Integrations UI: add scope grouping and danger copy fixture](https://github.com/Posnic/POS/issues/387)
+- [Webhooks: add delivery log failure filter fixture](https://github.com/Posnic/POS/issues/384)
+- [API tokens: add one-time secret reveal fixture](https://github.com/Posnic/POS/issues/381)
+- [OAuth apps: add consent-denied audit fixture](https://github.com/Posnic/POS/issues/380)
+- [Docs: add provider credential setup safety note](https://github.com/Posnic/POS/issues/372)
+- [Docs: add connector issue index grouped by provider](https://github.com/Posnic/POS/issues/371)
+- [Barcode label app: add item label print fixture](https://github.com/Posnic/POS/issues/369)
+- [Customer display connector: add checkout total mirror fixture](https://github.com/Posnic/POS/issues/368)
+- [Sage connector: add customer duplicate detection fixture](https://github.com/Posnic/POS/issues/363)
+- [DoorDash connector: add pickup vs delivery order fixture](https://github.com/Posnic/POS/issues/357)
+- [Shopify connector: document app review and partner limits](https://github.com/Posnic/POS/issues/353)
+- [osCommerce connector: add order status mapping fixture](https://github.com/Posnic/POS/issues/352)
+- [BigCommerce connector: add customer address mapping fixture](https://github.com/Posnic/POS/issues/351)
+- [Magento connector: add store-view locale mapping fixture](https://github.com/Posnic/POS/issues/348)
+- [WooCommerce connector: add guest checkout customer fixture](https://github.com/Posnic/POS/issues/346)
+- [WooCommerce connector: add coupon usage fixture](https://github.com/Posnic/POS/issues/345)
+- [Shopify connector: add order note and custom attribute fixture](https://github.com/Posnic/POS/issues/344)
+- [Declarative hooks: add receipt footer preview fixture](https://github.com/Posnic/POS/issues/339)
+- [Connector runtime: add port collision failure fixture](https://github.com/Posnic/POS/issues/335)
+- [App install: add disabled-by-default startup test](https://github.com/Posnic/POS/issues/332)
+- [App registry: add compatibility reason messages](https://github.com/Posnic/POS/issues/329)
+- [App registry: add official app seed catalog fixture](https://github.com/Posnic/POS/issues/328)
+- [App registry: add local registry schema fixture](https://github.com/Posnic/POS/issues/327)
+- [Support: add app failure alert email template fixture](https://github.com/Posnic/POS/issues/325)
+- [Zoho Inventory connector: research sales order and stock boundary](https://github.com/Posnic/POS/issues/320)
+- [Squarespace Commerce connector: research order export boundary](https://github.com/Posnic/POS/issues/317)
+- [Wix Stores connector: research API and webhook boundary](https://github.com/Posnic/POS/issues/316)
+- [Ecwid connector: research catalog and order API boundary](https://github.com/Posnic/POS/issues/315)
+- [osCommerce connector: add manual CSV order handoff smoke test](https://github.com/Posnic/POS/issues/314)
+- [osCommerce connector: add legacy charset and currency fixture](https://github.com/Posnic/POS/issues/313)
+- [Magento connector: add admin integration setup checklist](https://github.com/Posnic/POS/issues/311)
+- [Shopify connector: map webhook topics to Posnic entities](https://github.com/Posnic/POS/issues/310)
+- [WordPress connector: add admin settings screen copy fixture](https://github.com/Posnic/POS/issues/306)
+- [WordPress connector: add plugin zip build script fixture](https://github.com/Posnic/POS/issues/305)
+- [Declarative hooks: add receipt QR and footer variable registry](https://github.com/Posnic/POS/issues/302)
+- [Embedded apps: document theme and locale context contract](https://github.com/Posnic/POS/issues/301)
+- [Connector SDK: add environment preflight checker](https://github.com/Posnic/POS/issues/296)
+- [Docs: write first local app tutorial with hello inventory read](https://github.com/Posnic/POS/issues/292)
+- [Docs: add app platform contributor index by difficulty](https://github.com/Posnic/POS/issues/291)
+- [CI: validate connector docs links](https://github.com/Posnic/POS/issues/283)
+- [Docs: create connector proposal issue template](https://github.com/Posnic/POS/issues/278)
+- [Docs: add platform credentials safety checklist](https://github.com/Posnic/POS/issues/277)
+- [Docs: add app fixture naming convention](https://github.com/Posnic/POS/issues/276)
+- [Docs: add local app debugging guide](https://github.com/Posnic/POS/issues/275)
+- [Docs: add app connector architecture diagram](https://github.com/Posnic/POS/issues/274)
+- [Excel export app: add inventory valuation export fixture](https://github.com/Posnic/POS/issues/272)
+- [Google Sheets connector: add daily sales export fixture](https://github.com/Posnic/POS/issues/271)
+- [MYOB connector: research invoice export boundary](https://github.com/Posnic/POS/issues/270)
+- [Wave connector: document invoice export boundary](https://github.com/Posnic/POS/issues/269)
+- [FreshBooks connector: document invoice export boundary](https://github.com/Posnic/POS/issues/268)
+- [Sage connector: document invoice export boundary](https://github.com/Posnic/POS/issues/267)
+- [Local delivery connector: define rider assignment export fixture](https://github.com/Posnic/POS/issues/266)
+- [Google Merchant Center connector: add availability feed fixture](https://github.com/Posnic/POS/issues/258)
+- [Daraz connector: research seller API boundary](https://github.com/Posnic/POS/issues/257)
+- [Noon connector: research order and stock sync boundary](https://github.com/Posnic/POS/issues/256)
+- [Jumia connector: research seller center boundary](https://github.com/Posnic/POS/issues/255)
+- [Mercado Libre connector: research orders and catalog boundary](https://github.com/Posnic/POS/issues/254)
+- [Meesho connector: research seller order CSV or API boundary](https://github.com/Posnic/POS/issues/253)
+- [Flipkart connector: research seller API order boundary](https://github.com/Posnic/POS/issues/252)
+- [Lazada connector: add return and cancellation fixture](https://github.com/Posnic/POS/issues/251)
+- [Shopee connector: research payment fee mapping](https://github.com/Posnic/POS/issues/250)
+- [eBay connector: add listing variation fixture](https://github.com/Posnic/POS/issues/248)
+- [Magento connector: add guest checkout customer fixture](https://github.com/Posnic/POS/issues/243)
+- [WooCommerce connector: research HPOS compatibility](https://github.com/Posnic/POS/issues/241)
+- [API v1: add webhook fetch-after-event example](https://github.com/Posnic/POS/issues/239)
+- [API v1: add rate-limit response fixture for apps](https://github.com/Posnic/POS/issues/238)
+- [App runtime: document connector log retention policy](https://github.com/Posnic/POS/issues/232)
+- [App permissions: add branch-scope UI copy fixture](https://github.com/Posnic/POS/issues/231)
+- [App permissions: document multi-branch grant rules](https://github.com/Posnic/POS/issues/230)
+- [App registry: add disabled reason and recovery copy](https://github.com/Posnic/POS/issues/226)
+- [App registry: validate duplicate app IDs and versions](https://github.com/Posnic/POS/issues/225)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
+
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
 - [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
 - [Add linting rule to fail build if package A incorrectly depends on package B](https://github.com/WordPress/gutenberg/issues/11865)
 - [Restore the full search visibility in embed links](https://github.com/WordPress/gutenberg/issues/21343)
@@ -27,26 +202,6 @@ This list gets updated every day at midnight.
 - [Allow the PanelColorSettings to be visible if no colors and but with children](https://github.com/WordPress/gutenberg/issues/12583)
 - [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912)
-- [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896)
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21787)
-- [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717)
-- [Add tools for Yahoo Fantasy Football connector](https://github.com/PipedreamHQ/pipedream/issues/21593)
-- [membership.went_invalid](https://github.com/PipedreamHQ/pipedream/issues/21561)
-
-## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
-
-- [windows builds fail very intermittently on various issues](https://github.com/ProjectEvergreen/greenwood/issues/1585)
-- [refactor usages of glob-promise with native NodeJS `fs.glob`](https://github.com/ProjectEvergreen/greenwood/issues/1551)
-- [Have develop command pick next randomly available port for dev and live reload servers](https://github.com/ProjectEvergreen/greenwood/issues/71)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
@@ -59,226 +214,52 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
+- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
 
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
-
-## [maledadams/lead-finder](https://github.com/maledadams/lead-finder)
-
-- [Delete superseded endpoints and the unused Google OAuth flow](https://github.com/maledadams/lead-finder/issues/9)
-- [Export sent history and the lead list to CSV](https://github.com/maledadams/lead-finder/issues/4)
-- [Make the metro and region list configurable for non-US markets](https://github.com/maledadams/lead-finder/issues/3)
-- [Support mail providers other than Zoho (Postmark, Resend, SES)](https://github.com/maledadams/lead-finder/issues/1)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [[Bug] Image not rendering correctly](https://github.com/layer5io/docs/issues/1207)
-- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-
-## [Foundryborne/daggerheart](https://github.com/Foundryborne/daggerheart)
-
-- [[Feature] - Idiot Proofing](https://github.com/Foundryborne/daggerheart/issues/849)
-
-## [darshi1337/apogee](https://github.com/darshi1337/apogee)
-
-- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
-- [Cap what goes into a notification](https://github.com/darshi1337/apogee/issues/252)
-- [Bulk export of all past summaries](https://github.com/darshi1337/apogee/issues/244)
-- [Fill the empty state with the outlined wordmark](https://github.com/darshi1337/apogee/issues/243)
-- [Use the pixel dissolve for model-download progress](https://github.com/darshi1337/apogee/issues/242)
-- [Responsive and reduced-motion pass](https://github.com/darshi1337/apogee/issues/241)
+- [feat(cli): four documented scripts have no --help — add the usage block (one script per PR)](https://github.com/career-ops-hq/career-ops/issues/3565)
+- [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pins it](https://github.com/career-ops-hq/career-ops/issues/3855)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [i18n: add the interview README to de/id/ru/ua/zh (one language per PR)](https://github.com/career-ops-hq/career-ops/issues/3564)
+- [i18n: translate the interview modes (plan/practice/debrief) to German](https://github.com/career-ops-hq/career-ops/issues/3406)
+- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/career-ops-hq/career-ops/issues/3405)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [feat(scan): domain-level aggregator repost list, complementing the SimHash cross-listing warning](https://github.com/career-ops-hq/career-ops/issues/3577)
+- [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/career-ops-hq/career-ops/issues/3223)
+- [fix(analyze-patterns): --min-threshold and --min-vendor-n values are never validated](https://github.com/career-ops-hq/career-ops/issues/3113)
+- [update-system.mjs commits the auto-update onto whatever branch you are on, including a contributor's feature branch](https://github.com/career-ops-hq/career-ops/issues/3846)
+- [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/career-ops-hq/career-ops/issues/3398)
+- [i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3675)
+- [docs(i18n): the 16 translated READMEs still describe the report as A-F; it is A-H](https://github.com/career-ops-hq/career-ops/issues/2808)
+- [verify-cv-facts: flag scope-verb inflation and unsourced adoption claims, not just numbers](https://github.com/career-ops-hq/career-ops/issues/3685)
+- [i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3673)
+- [i18n(es): re-sync modes/es/oferta.md (Spanish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3671)
+- [i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3670)
+- [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/career-ops-hq/career-ops/issues/2784)
+- [docs(i18n): translate the new README FAQ into the remaining 13 languages](https://github.com/career-ops-hq/career-ops/issues/2051)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish](https://github.com/career-ops-hq/career-ops/issues/3291)
+- [i18n: translate the interview modes (plan/practice/debrief) to Korean](https://github.com/career-ops-hq/career-ops/issues/3290)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/career-ops-hq/career-ops/issues/3289)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
-- [Inconsistent padding for dashboard widgets](https://github.com/nextcloud/spreed/issues/19215)
-- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
 - [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
 - [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
 - [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
 - [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
 - [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
 - [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
-
-- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
-- [Add user rsvp calendar sub link to Calendar ViewMode](https://github.com/Hylozoic/hylo/issues/1129)
-- [Off-page overflow in message thread](https://github.com/Hylozoic/hylo/issues/453)
-- [Auto-add zoom/video links to the meetingLink field if its in the description](https://github.com/Hylozoic/hylo/issues/1511)
-- [Add Remove Member from Group to the three dot menu when looking at a user profile in a group as a person with Remove Users responsibility](https://github.com/Hylozoic/hylo/issues/332)
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
-- [Layout: highlighted comment missing top margin/padding](https://github.com/Hylozoic/hylo/issues/660)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
-## [cyrillesaxo/ICEBERG](https://github.com/cyrillesaxo/ICEBERG)
-
-- [Good first issue: add a JSON schema for journey scenario packs](https://github.com/cyrillesaxo/ICEBERG/issues/7)
-- [Good first issue: contribute a password-reset journey scenario pack](https://github.com/cyrillesaxo/ICEBERG/issues/4)
-- [Good first issue: add Cypress test-source detector](https://github.com/cyrillesaxo/ICEBERG/issues/3)
-- [Good first issue: add Storybook state discovery adapter](https://github.com/cyrillesaxo/ICEBERG/issues/2)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [oss-slu/pao_surgery_simulator](https://github.com/oss-slu/pao_surgery_simulator)
-
-- [Unit Tests](https://github.com/oss-slu/pao_surgery_simulator/issues/86)
-- [Create API Health checkpoints](https://github.com/oss-slu/pao_surgery_simulator/issues/42)
-
-## [Abdulazeem-code/stellar-tags](https://github.com/Abdulazeem-code/stellar-tags)
-
-- [Refactor server.js monolith into modular service layer](https://github.com/Abdulazeem-code/stellar-tags/issues/586)
-- [Add pre-commit hooks for Prisma schema validation](https://github.com/Abdulazeem-code/stellar-tags/issues/607)
-- [Implement GraphQL API as an alternative to REST endpoints](https://github.com/Abdulazeem-code/stellar-tags/issues/482)
-- [Backend: Enhance Rate Limit Headers](https://github.com/Abdulazeem-code/stellar-tags/issues/381)
-
-## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
-
-- [Verify "St. Patrick’s Shamrock Thrift" data](https://github.com/davgross/homeless-in-slo-resource-guide/issues/28)
-- [Verify correct locations of "Catholic Charities"](https://github.com/davgross/homeless-in-slo-resource-guide/issues/24)
-- [Add "Hope for Ashlynn" group](https://github.com/davgross/homeless-in-slo-resource-guide/issues/357)
-
-## [alex-w-developer/GetBlocked](https://github.com/alex-w-developer/GetBlocked)
-
-- [Add standard Chrome extension icons](https://github.com/alex-w-developer/GetBlocked/issues/24)
-- [Audit and clean redundant tracker catalog domain entries](https://github.com/alex-w-developer/GetBlocked/issues/22)
-
-## [Savitura/crowdpay](https://github.com/Savitura/crowdpay)
-
-- [Path Payment Preview, Slippage Protection & Contributor Asset Intelligence](https://github.com/Savitura/crowdpay/issues/688)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [Dependencies / Dependents list should have identical maximum height and indication if they are scrollable](https://github.com/taskcluster/taskcluster/issues/9142)
-- [Github quickstart page not rendering url substitituion](https://github.com/taskcluster/taskcluster/issues/9119)
-
-## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
-
-- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/126)
-- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
-- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/125)
-- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/124)
-- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/123)
-- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/122)
-- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/121)
-- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/120)
-- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/119)
-- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/118)
-- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/116)
-- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/105)
-- [[Good First Issue] Add a path-traversal review tip [MC-031]](https://github.com/Berserk-hub150/skillhawk/issues/85)
-- [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
-- [[2–5 min] Add one prompt-injection remediation tip](https://github.com/Berserk-hub150/skillhawk/issues/52)
-- [[2–5 min] Add one precision flashcard](https://github.com/Berserk-hub150/skillhawk/issues/25)
-- [[2–5 min] Add one safe-fixture writing tip](https://github.com/Berserk-hub150/skillhawk/issues/43)
-- [[2–5 min] Add one severity-labeling tip](https://github.com/Berserk-hub150/skillhawk/issues/42)
-- [[2–5 min] Add one MCP config review use case](https://github.com/Berserk-hub150/skillhawk/issues/28)
-- [[2–5 min] Add one false-negative reporting tip](https://github.com/Berserk-hub150/skillhawk/issues/34)
-- [[2–5 min] Add one false-positive reporting tip](https://github.com/Berserk-hub150/skillhawk/issues/33)
-- [[2–5 min] Add one benchmark FAQ answer](https://github.com/Berserk-hub150/skillhawk/issues/32)
-- [[2–5 min] Add one local repository scan use case](https://github.com/Berserk-hub150/skillhawk/issues/31)
-- [[2–5 min] Add one pull-request scanning use case](https://github.com/Berserk-hub150/skillhawk/issues/30)
-- [[2–5 min] Add one Claude Code review use case](https://github.com/Berserk-hub150/skillhawk/issues/29)
-- [[2–5 min] Add one Agent Skill review use case](https://github.com/Berserk-hub150/skillhawk/issues/27)
-- [[2–5 min] Add one recall flashcard](https://github.com/Berserk-hub150/skillhawk/issues/26)
-- [[2–5 min] Add one static-vs-dynamic analysis flashcard](https://github.com/Berserk-hub150/skillhawk/issues/24)
-- [[2–5 min] Add one secrets-handling flashcard](https://github.com/Berserk-hub150/skillhawk/issues/23)
-- [[2–5 min] Add one static-only safety flashcard](https://github.com/Berserk-hub150/skillhawk/issues/22)
-- [[2–5 min] Add one rule ID flashcard](https://github.com/Berserk-hub150/skillhawk/issues/21)
-- [[2–5 min] Add one CI security gate flashcard](https://github.com/Berserk-hub150/skillhawk/issues/20)
-- [[2–5 min] Add one Code Scanning flashcard](https://github.com/Berserk-hub150/skillhawk/issues/19)
-- [[2–5 min] Add one GitHub Action flashcard](https://github.com/Berserk-hub150/skillhawk/issues/18)
-- [[2–5 min] Add one flashcard about zero dependencies](https://github.com/Berserk-hub150/skillhawk/issues/17)
-- [[2–5 min] Define least privilege for beginners](https://github.com/Berserk-hub150/skillhawk/issues/16)
-- [[2–5 min] Define remediation for beginners](https://github.com/Berserk-hub150/skillhawk/issues/14)
-- [[2–5 min] Define security severity levels](https://github.com/Berserk-hub150/skillhawk/issues/13)
-- [[2–5 min] Define recall for beginners](https://github.com/Berserk-hub150/skillhawk/issues/12)
-- [[2–5 min] Define precision for beginners](https://github.com/Berserk-hub150/skillhawk/issues/11)
-- [[2–5 min] Define false negative for beginners](https://github.com/Berserk-hub150/skillhawk/issues/10)
-- [[2–5 min] Define false positive for beginners](https://github.com/Berserk-hub150/skillhawk/issues/9)
-- [[2–5 min] Define SARIF for beginners](https://github.com/Berserk-hub150/skillhawk/issues/8)
-- [Add detection for suspicious PowerShell download-and-execute patterns](https://github.com/Berserk-hub150/skillhawk/issues/2)
-- [Add a compact README demo GIF or terminal screenshot](https://github.com/Berserk-hub150/skillhawk/issues/1)
-
-## [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly)
-
-- [Update serialization docs to reflect support for workspace comments](https://github.com/RaspberryPiFoundation/blockly/issues/10266)
-
-## [prometheus/client_js](https://github.com/prometheus/client_js)
-
-- [Truthiness Reduction Program 2026](https://github.com/prometheus/client_js/issues/823)
-- [Please consider adding a getClusterMetricsAsJSON funtion](https://github.com/prometheus/client_js/issues/470)
-- [enhancement: Cluster worker scrape timeouts/errors should be recorded](https://github.com/prometheus/client_js/issues/290)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
-- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
-
-## [webrune-tim/The-Autonomy-Protocol](https://github.com/webrune-tim/The-Autonomy-Protocol)
-
-- [[Feature / Hacktoberfest] Expand WebMCP Agentic Simulations for Student Competency Proofs](https://github.com/webrune-tim/The-Autonomy-Protocol/issues/52)
-- [Add an FAQ section to the homepage](https://github.com/webrune-tim/The-Autonomy-Protocol/issues/36)
-
-## [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-
-- [Missing CONTRIBUTING.md file](https://github.com/WordPress/wordpress-playground/issues/2844)
-- [Provide unit and e2e test instructions in the top-level README](https://github.com/WordPress/wordpress-playground/issues/1519)
-
-## [agilare/ladecadanse](https://github.com/agilare/ladecadanse)
-
-- [Front-end libraries : manage them all with npm, one source of truth instead of three](https://github.com/agilare/ladecadanse/issues/233)
-- [4. Setup unit tests](https://github.com/agilare/ladecadanse/issues/76)
-- [Event : make "Signaler une erreur" easier to use](https://github.com/agilare/ladecadanse/issues/193)
-- [Clean web/css/ (step 1) : Cleanup — duplicate imprimer.css, browser hacks, commented-out declarations](https://github.com/agilare/ladecadanse/issues/195)
-- [Organizer: add a Category(-ies) field](https://github.com/agilare/ladecadanse/issues/223)
-- [SEO: homepage meta description ignored by Google (too long, keyword list)](https://github.com/agilare/ladecadanse/issues/224)
-- [SEO: no rel=canonical anywhere on the site](https://github.com/agilare/ladecadanse/issues/227)
-- [Event : replace Zebra Datepicker in forms by native `<input type="date">` ?](https://github.com/agilare/ladecadanse/issues/63)
-- [Lieu, organisateur : add a new "en pause" status](https://github.com/agilare/ladecadanse/issues/108)
-- [Recherche sans résultat : proposer des rebonds au lieu d'un cul-de-sac](https://github.com/agilare/ladecadanse/issues/211)
-- [Page Lieu : allow multiple URL in field "Site web"](https://github.com/agilare/ladecadanse/issues/41)
-
-## [cds-snc/ai-answers](https://github.com/cds-snc/ai-answers)
-
-- [CHORE: dead code 'topic'](https://github.com/cds-snc/ai-answers/issues/1689)
-- [Add Export PDF feature to Partner and Exec dashboards](https://github.com/cds-snc/ai-answers/issues/1565)
-
-## [terser/terser](https://github.com/terser/terser)
-
-- [Recommend --enable-source-maps](https://github.com/terser/terser/issues/732)
-
-## [OSC/ondemand](https://github.com/OSC/ondemand)
-
-- [rake update task include node apps and infrastructure libs too](https://github.com/OSC/ondemand/issues/691)
-- [Disable sorting of (files) app links with navbar customizations](https://github.com/OSC/ondemand/issues/3814)
-- [touch up icon margin / square quick launch icons](https://github.com/OSC/ondemand/issues/2035)
+- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
+- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
+- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
+- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
+- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
+- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
+- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
+- [Inconsistent padding for dashboard widgets](https://github.com/nextcloud/spreed/issues/19215)
 
