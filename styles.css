@@ -36,6 +36,8 @@ h1 {
 
 /* Main Content */
 main {
+  box-sizing: border-box;
+  width: 100%;
   max-width: 1100px;
   margin: 40px auto;
   padding: 30px;
@@ -86,6 +88,8 @@ ul {
 }
 
 li {
+  box-sizing: border-box;
+  max-width: 100%;
   margin: 15px 0;
   padding: 12px;
   background-color: #f9f9f9;
@@ -171,5 +175,10 @@ pre code {
 
   li {
       font-size: var(--size-20);  /* Adjusted for mobile */
+  }
+
+  li a,
+  li code {
+      overflow-wrap: anywhere;
   }
 }
