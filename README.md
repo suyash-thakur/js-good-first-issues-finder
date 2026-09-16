@@ -4,39 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [marcosmmjr2023/dsh-h-v1](https://github.com/marcosmmjr2023/dsh-h-v1)
-
-- [[Good first issue] Add screenshots for router, panel and safe update flow](https://github.com/marcosmmjr2023/dsh-h-v1/issues/6)
-- [[Good first issue] Add Spanish README/onboarding translation](https://github.com/marcosmmjr2023/dsh-h-v1/issues/5)
-- [[Good first issue] Test and document macOS compatibility](https://github.com/marcosmmjr2023/dsh-h-v1/issues/2)
-
-## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
-
-- [[Bug] Batch mode skips repositories with only untracked files](https://github.com/404-PF/commit-echo/issues/267)
-- [[Performance] countEntries() reads the entire history.jsonl into memory](https://github.com/404-PF/commit-echo/issues/266)
-- [[Bug] batch and git hooks call bare `git`, bypassing the resolved executable](https://github.com/404-PF/commit-echo/issues/264)
-- [[Bug] Global --no-color flag is a no-op for all commands](https://github.com/404-PF/commit-echo/issues/263)
-
-## [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme)
-
-- [如何做到临时关闭记忆模式？](https://github.com/modusensus/dsh-mneme/issues/47)
-- [[Feature Request] scope 标注缺人工入口与提升回路：自动载体标签不该直接吃硬过滤效力](https://github.com/modusensus/dsh-mneme/issues/170)
-- [图谱增强：把图从展示变成检索信号（discussion #22 追踪）](https://github.com/modusensus/dsh-mneme/issues/24)
-- [autoDream 宽容路径补强（0.7.22 实测三发现）：coverage 误伤 / archive 类型越界 / 失败审计缺明细](https://github.com/modusensus/dsh-mneme/issues/104)
-
-## [vicharanashala/tenali](https://github.com/vicharanashala/tenali)
-
-- [Fold Guess the Number into its parent topic (bases - it is a binary trick)](https://github.com/vicharanashala/tenali/issues/210)
-- [Fold Comic Addition into Addition](https://github.com/vicharanashala/tenali/issues/207)
-- [Docs overstate BKT: spacingLadder is not BKT-driven, and server/lib/bkt.js is not a shared utility](https://github.com/vicharanashala/tenali/issues/292)
-- [Wire BKT into lil/masteryEngine so mastery is actually computed and persisted](https://github.com/vicharanashala/tenali/issues/289)
-- [Use the canonical gym names](https://github.com/vicharanashala/tenali/issues/205)
-- [Fix eslint errors in the 49 remaining low-count client files](https://github.com/vicharanashala/tenali/issues/275)
-- [Confirm the API contract test still passes after the removal](https://github.com/vicharanashala/tenali/issues/228)
-- [Drop the three stale vite proxy entries on main](https://github.com/vicharanashala/tenali/issues/226)
-- [Fold Idli Vada Sambhar and The Car Journey into their parent topics](https://github.com/vicharanashala/tenali/issues/208)
-- [Fix the contradictory puzzle counts in the README](https://github.com/vicharanashala/tenali/issues/231)
-
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
 - [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
@@ -52,6 +19,82 @@ This list gets updated every day at midnight.
 - [Twitter embed block should expose options for how the tweet is displayed](https://github.com/WordPress/gutenberg/issues/2744)
 - [Improve the manual `git cherry-pick` instructions left when performing an automatic cherry-pick fails](https://github.com/WordPress/gutenberg/issues/76576)
 
+## [gODtECH-Ctl-Create/RepoOps](https://github.com/gODtECH-Ctl-Create/RepoOps)
+
+- [Add a fixture generator for GitHub event payloads](https://github.com/gODtECH-Ctl-Create/RepoOps/issues/22)
+- [Add human-friendly .repoops.yml diagnostics](https://github.com/gODtECH-Ctl-Create/RepoOps/issues/23)
+- [Track pull request review age and response latency](https://github.com/gODtECH-Ctl-Create/RepoOps/issues/13)
+
+## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
+
+- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
+- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
+- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
+- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
+- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
+- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
+- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
+- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
+- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
+- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
+- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
+
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+
+- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
+- [Add user rsvp calendar sub link to Calendar ViewMode](https://github.com/Hylozoic/hylo/issues/1129)
+- [Off-page overflow in message thread](https://github.com/Hylozoic/hylo/issues/453)
+- [Auto-add zoom/video links to the meetingLink field if its in the description](https://github.com/Hylozoic/hylo/issues/1511)
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+- [Layout: highlighted comment missing top margin/padding](https://github.com/Hylozoic/hylo/issues/660)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15228)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
+- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
+
+## [vicharanashala/tenali](https://github.com/vicharanashala/tenali)
+
+- [Fold Guess the Number into its parent topic (bases - it is a binary trick)](https://github.com/vicharanashala/tenali/issues/210)
+- [Fold Comic Addition into Addition](https://github.com/vicharanashala/tenali/issues/207)
+- [Docs overstate BKT: spacingLadder is not BKT-driven, and server/lib/bkt.js is not a shared utility](https://github.com/vicharanashala/tenali/issues/292)
+- [Wire BKT into lil/masteryEngine so mastery is actually computed and persisted](https://github.com/vicharanashala/tenali/issues/289)
+- [Use the canonical gym names](https://github.com/vicharanashala/tenali/issues/205)
+- [Fix eslint errors in the 49 remaining low-count client files](https://github.com/vicharanashala/tenali/issues/275)
+- [Confirm the API contract test still passes after the removal](https://github.com/vicharanashala/tenali/issues/228)
+- [Drop the three stale vite proxy entries on main](https://github.com/vicharanashala/tenali/issues/226)
+- [Fold Idli Vada Sambhar and The Car Journey into their parent topics](https://github.com/vicharanashala/tenali/issues/208)
+- [Fix the contradictory puzzle counts in the README](https://github.com/vicharanashala/tenali/issues/231)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+
+## [Mayor-s-Office-of-Innovation/good-neighbor-app](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app)
+
+- [Use lower res imagery for card thumbnails](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app/issues/236)
+- [As a PFS user, I can see a lightbox version of any photo in the app](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app/issues/139)
+- ["Add place" textfield is too small (during setup)](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app/issues/240)
+
+## [guillaumevele/agent-proof-kit](https://github.com/guillaumevele/agent-proof-kit)
+
+- [docs: PowerShell version of the ByteFence quickstart](https://github.com/guillaumevele/agent-proof-kit/issues/16)
+- [codex-exec-jsonl: record todo_list progress as evidence (counts only)](https://github.com/guillaumevele/agent-proof-kit/issues/17)
+- [Missing `--input` / `--policy` files surface a raw ENOENT with an absolute path](https://github.com/guillaumevele/agent-proof-kit/issues/15)
+
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
@@ -64,18 +107,9 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+## [nextcloud/forms](https://github.com/nextcloud/forms)
 
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15228)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15176)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14920)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14949)
-- [Fix EditorConfig lint errors](https://github.com/stdlib-js/stdlib/issues/14919)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
 
 ## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 
@@ -90,77 +124,27 @@ This list gets updated every day at midnight.
 - [projects: stranded-config guard misses .gemini artifacts](https://github.com/Jason-Vaughan/TangleClaw/issues/1049)
 - [Suppress node:sqlite ExperimentalWarning via --disable-warning flag](https://github.com/Jason-Vaughan/TangleClaw/issues/1039)
 
-## [nirholas/three.ws](https://github.com/nirholas/three.ws)
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 
-- [Animation: bake a real `bow` clip so the slot stops resolving to Sitting Clap](https://github.com/nirholas/three.ws/issues/113)
-- [Rig: map Kinect trailing-side bone names (`ShoulderLeft`, `SpineBase`)](https://github.com/nirholas/three.ws/issues/111)
-- [Rig: map Apple / ARKit `_joint`-suffixed skeletons](https://github.com/nirholas/three.ws/issues/110)
+- [GeoJsonDataSource sourceUri parameter isn't used](https://github.com/CesiumGS/cesium/issues/6108)
+- [Model animations are calculated for unavailable entities, impacting FPS](https://github.com/CesiumGS/cesium/issues/12633)
+- [Irrelevant error message from `PerInstanceColorAppearance`](https://github.com/CesiumGS/cesium/issues/12107)
 
-## [TheFleece/dota2-mod-manager](https://github.com/TheFleece/dota2-mod-manager)
+## [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme)
 
-- [Linux: check that preset links and .d2mm files open the app](https://github.com/TheFleece/dota2-mod-manager/issues/18)
-- [Mask the account name in the diagnostic report](https://github.com/TheFleece/dota2-mod-manager/issues/17)
-
-## [ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website)
-
-- [Add Dark Mode Support across Frontend](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/82)
-- [Add Confirmation Modals for Critical Admin Dashboard Actions](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/104)
-- [Refactor Event-Driven Email Notifications to support Manual Triggers and Toggles](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/85)
-- [Fix Checkbox Question Component to Support Multi-Selection](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/102)
-
-## [kiinshuk/kinshow](https://github.com/kiinshuk/kinshow)
-
-- [Add focus-visible styles for mobile nav items](https://github.com/kiinshuk/kinshow/issues/29)
-- [Store genre filter in URL query params](https://github.com/kiinshuk/kinshow/issues/28)
-- [Add keyboard navigation to hero carousel](https://github.com/kiinshuk/kinshow/issues/27)
-- [Add exit animation to search overlay](https://github.com/kiinshuk/kinshow/issues/26)
-- [Add scroll hint gradient to content rails on mobile](https://github.com/kiinshuk/kinshow/issues/25)
-- [Add loading state to Detail page buttons](https://github.com/kiinshuk/kinshow/issues/24)
-- [Watchlist remove button invisible on touch devices](https://github.com/kiinshuk/kinshow/issues/23)
-- [Add exit animation to cookie consent banner](https://github.com/kiinshuk/kinshow/issues/22)
-- [Use actual backdrop image on Detail page](https://github.com/kiinshuk/kinshow/issues/17)
-- [Clamp hero description on mobile instead of hiding](https://github.com/kiinshuk/kinshow/issues/16)
-- [Make genre chips scrollable on mobile](https://github.com/kiinshuk/kinshow/issues/15)
-- [Add privacy policy link to cookie consent banner](https://github.com/kiinshuk/kinshow/issues/14)
-- [Show item counts on Watchlist filter tabs](https://github.com/kiinshuk/kinshow/issues/13)
-- [Enlarge Watchlist empty state icon](https://github.com/kiinshuk/kinshow/issues/12)
-- [Add Explore link to mobile bottom nav](https://github.com/kiinshuk/kinshow/issues/10)
-- [Hero carousel should pause on hover](https://github.com/kiinshuk/kinshow/issues/9)
-- [Skeleton detail CSS classes undefined](https://github.com/kiinshuk/kinshow/issues/6)
-- [No 404 catch-all route](https://github.com/kiinshuk/kinshow/issues/5)
-- [Footer uses a href instead of React Router Link](https://github.com/kiinshuk/kinshow/issues/2)
-- [EpisodeCard.jsx imports non-existent 'still' function](https://github.com/kiinshuk/kinshow/issues/1)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-
-## [atomantic/PortOS](https://github.com/atomantic/PortOS)
-
-- [Eidoverse update-advisory test asserts a mock synchronously and flakes on CI](https://github.com/atomantic/PortOS/issues/7351)
-- [ComicScriptStage lightbox items drop render lineage and use a non-canonical media key](https://github.com/atomantic/PortOS/issues/7347)
-- [VideoTimelineEditor keyboard test flakes in full-suite runs: sync getByRole races the clip lane's commit](https://github.com/atomantic/PortOS/issues/7316)
-
-## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
-
-- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
-- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
-- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
-- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
+- [[Feature] 面板：provider/model 改动缺「重启后生效」提示，且不校验二者是否配套](https://github.com/modusensus/dsh-mneme/issues/191)
+- [[Feature] 面板标注「极简模式下注入按宿主设计关闭」](https://github.com/modusensus/dsh-mneme/issues/182)
+- [[Feature Request] scope 标注缺人工入口与提升回路：自动载体标签不该直接吃硬过滤效力](https://github.com/modusensus/dsh-mneme/issues/170)
 
 ## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
+- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/career-ops-hq/career-ops/issues/3405)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
 - [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
 - [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
 - [feat(cli): four documented scripts have no --help — add the usage block (one script per PR)](https://github.com/career-ops-hq/career-ops/issues/3565)
 - [i18n: add the interview README to de/id/ru/ua/zh (one language per PR)](https://github.com/career-ops-hq/career-ops/issues/3564)
-- [i18n: translate the interview modes (plan/practice/debrief) to Spanish](https://github.com/career-ops-hq/career-ops/issues/3405)
 - [feat(scan): domain-level aggregator repost list, complementing the SimHash cross-listing warning](https://github.com/career-ops-hq/career-ops/issues/3577)
-- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
 - [set-status.mjs: the JSON result must be the last thing on stdout, and nothing pins it](https://github.com/career-ops-hq/career-ops/issues/3855)
 - [i18n: translate the interview modes (plan/practice/debrief) to German](https://github.com/career-ops-hq/career-ops/issues/3406)
 - [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/career-ops-hq/career-ops/issues/3223)
@@ -179,102 +163,42 @@ This list gets updated every day at midnight.
 - [i18n: translate the interview modes (plan/practice/debrief) to Korean](https://github.com/career-ops-hq/career-ops/issues/3290)
 - [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/career-ops-hq/career-ops/issues/3289)
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [talk couldn't work after install the “talk_matterbridge”](https://github.com/nextcloud/spreed/issues/13594)
-- [Write tests for "Team resources" integration](https://github.com/nextcloud/spreed/issues/11746)
-- [System message shows "guest added user" to a conversation when adding through circle/team](https://github.com/nextcloud/spreed/issues/11768)
-- [Reactions notifications when fully subscribed in federated conversations](https://github.com/nextcloud/spreed/issues/11857)
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Instant meeting outside of dashboard?](https://github.com/nextcloud/spreed/issues/15276)
-- [Recording chunked upload would fail with token length > 13](https://github.com/nextcloud/spreed/issues/18458)
-- [Go back to autopilot mode if re-clicking selected participant](https://github.com/nextcloud/spreed/issues/3518)
-- [Dashboard widget should show the actual mention message](https://github.com/nextcloud/spreed/issues/4468)
-- [Imprint and privacy links in public talk conversations](https://github.com/nextcloud/spreed/issues/14547)
-- [Migrate addParticipantToRoom to InvitationList](https://github.com/nextcloud/spreed/issues/14570)
-- [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
-- [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
-
-## [darshi1337/apogee](https://github.com/darshi1337/apogee)
-
-- [Add per-summary keyword focus](https://github.com/darshi1337/apogee/issues/161)
-- [Fill the empty state with the outlined wordmark](https://github.com/darshi1337/apogee/issues/243)
-- [Bulk export of all past summaries](https://github.com/darshi1337/apogee/issues/244)
-- [Use the pixel dissolve for model-download progress](https://github.com/darshi1337/apogee/issues/242)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
-## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
-
-- [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
-
-## [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
-
-- [Add literal-sense carve-outs for "in the evolution of" and "a ... step towards"](https://github.com/conorbronsdon/avoid-ai-writing/issues/212)
-- [Add --source-mode to the bundled ChatGPT/Codex detector script](https://github.com/conorbronsdon/avoid-ai-writing/issues/244)
-- [Stamp and validate a version in the six sub-skill frontmatters](https://github.com/conorbronsdon/avoid-ai-writing/issues/246)
-- [CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquoted vocabulary lists](https://github.com/conorbronsdon/avoid-ai-writing/issues/258)
-- [Protect Markdown tables written without outer pipes in the preservation validator](https://github.com/conorbronsdon/avoid-ai-writing/issues/209)
-- [Return a consistent result shape for unscored labels and reject non-string input clearly](https://github.com/conorbronsdon/avoid-ai-writing/issues/234)
-- [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232)
-- [Check the package.json version in sync-plugin-skill.sh and drop its unused variable](https://github.com/conorbronsdon/avoid-ai-writing/issues/230)
-- [Add development-setup and release-checklist sections to CONTRIBUTING.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/227)
-- [Add a table of contents and live status badges to the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/226)
-- [Remove stale comments that name a missing npm script and a missing roadmap file](https://github.com/conorbronsdon/avoid-ai-writing/issues/224)
-- [Add PR-template checklist items for the sync scripts, self-scan, and SSOT gates](https://github.com/conorbronsdon/avoid-ai-writing/issues/223)
-- [Add an issue-template config.yml and refresh the stale version placeholder](https://github.com/conorbronsdon/avoid-ai-writing/issues/222)
-- [Add a check-style round-trip test for examples/prose.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/221)
-- [Document the severity-to-P-tier mapping, including the undocumented P3](https://github.com/conorbronsdon/avoid-ai-writing/issues/220)
-- [State size limits for the paste-install targets in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/219)
-- [Finish the marks-pass rewrite in the generated Cursor and paste artifacts](https://github.com/conorbronsdon/avoid-ai-writing/issues/218)
-- [List the three unmapped catalog rules in CATEGORIES.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/217)
-- [Align the Tier 3 density rule in patterns.md with the per-word engine threshold](https://github.com/conorbronsdon/avoid-ai-writing/issues/216)
-- [Give every word-table row a concrete alternative](https://github.com/conorbronsdon/avoid-ai-writing/issues/215)
-- [Add fixture pairs for six untested phrase-level detector types](https://github.com/conorbronsdon/avoid-ai-writing/issues/213)
-- [Narrow false-concession so ordinary concessive openers stay clean](https://github.com/conorbronsdon/avoid-ai-writing/issues/211)
-- [Replace the wall-clock assertion in the #190 masking test with a scaling check](https://github.com/conorbronsdon/avoid-ai-writing/issues/208)
-- [Accept all four --context values in the scoring CLI](https://github.com/conorbronsdon/avoid-ai-writing/issues/207)
-- [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188)
-
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
-
-- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
-- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
-- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
-- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
-- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
-- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
-- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
-- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
-- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
-- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
-- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
-
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
 - [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
 - [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
 - [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
 - [[Docs] homepage feature image is misleading](https://github.com/open-telemetry/opentelemetry.io/issues/9046)
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [Use `mockIntersectionObserver` in tests](https://github.com/google/site-kit-wp/issues/13187)
-- [Page titles, category names, and Site Goals totals show HTML entity codes in the plain text email report](https://github.com/google/site-kit-wp/issues/13537)
-- [Simplify `WooCommerceRedirectModal` implementation](https://github.com/google/site-kit-wp/issues/10832)
-- [Implement automatic navigation to incomplete step](https://github.com/google/site-kit-wp/issues/13032)
-- [Follow-up: update remaining <p> tags to use the new Typography approach.](https://github.com/google/site-kit-wp/issues/13388)
-- [Replace usage of Lodash `cloneDeep` with native `structuredClone`.](https://github.com/google/site-kit-wp/issues/6492)
-- [The Site Kit G sits higher than its label in the WordPress menu on a phone](https://github.com/google/site-kit-wp/issues/13378)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [CopyPumpApp/CopyPump](https://github.com/CopyPumpApp/CopyPump)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Good first issue: add optional Solana Devnet RPC verification to the public evidence validator](https://github.com/CopyPumpApp/CopyPump/issues/16)
-- [Good first issue: run an external UX/readability review of the public project surface](https://github.com/CopyPumpApp/CopyPump/issues/11)
-- [Good first issue: create a public QA checklist for CopyPump Devnet evidence](https://github.com/CopyPumpApp/CopyPump/issues/8)
-- [Good first issue: audit public docs for broken links and onboarding friction](https://github.com/CopyPumpApp/CopyPump/issues/7)
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+
+## [processing/p5.js](https://github.com/processing/p5.js)
+
+- [A false positive FES error on function "loadModel"](https://github.com/processing/p5.js/issues/9176)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+- [Update describe function limits and best practices](https://github.com/processing/p5.js/issues/9105)
+
+## [saayam-for-all/webapp](https://github.com/saayam-for-all/webapp)
+
+- [Request Details - AI Chat Pop Up Box](https://github.com/saayam-for-all/webapp/issues/1833)
+
+## [rpuls/my-own-suite](https://github.com/rpuls/my-own-suite)
+
+- [[Platform] Install MOS somewhere untested and report what happened](https://github.com/rpuls/my-own-suite/issues/239)
+- [[App] Add Memos app package](https://github.com/rpuls/my-own-suite/issues/218)
+- [[App] Add Excalidraw app package](https://github.com/rpuls/my-own-suite/issues/217)
+
+## [TheFleece/dota2-mod-manager](https://github.com/TheFleece/dota2-mod-manager)
+
+- [Linux: check that preset links and .d2mm files open the app](https://github.com/TheFleece/dota2-mod-manager/issues/18)
+- [Mask the account name in the diagnostic report](https://github.com/TheFleece/dota2-mod-manager/issues/17)
 
 ## [layer5io/layer5](https://github.com/layer5io/layer5)
 
@@ -284,4 +208,93 @@ This list gets updated every day at midnight.
 - [[Community] Member Profile: Omolade Akinwumi](https://github.com/layer5io/layer5/issues/8010)
 - [add animated card](https://github.com/layer5io/layer5/issues/6521)
 - [[UI]: Unwanted border and incorrect Layer5 logo color in “Join the Conversation” box](https://github.com/layer5io/layer5/issues/7958)
+
+## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/140)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/138)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/137)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/136)
+- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/135)
+- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/134)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/133)
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/132)
+- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/131)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/116)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/129)
+- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/127)
+- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
+- [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
+- [[2–5 min] Add one prompt-injection remediation tip](https://github.com/Berserk-hub150/skillhawk/issues/52)
+- [[2–5 min] Add one precision flashcard](https://github.com/Berserk-hub150/skillhawk/issues/25)
+- [[2–5 min] Add one safe-fixture writing tip](https://github.com/Berserk-hub150/skillhawk/issues/43)
+- [[2–5 min] Add one severity-labeling tip](https://github.com/Berserk-hub150/skillhawk/issues/42)
+- [[2–5 min] Add one MCP config review use case](https://github.com/Berserk-hub150/skillhawk/issues/28)
+- [[2–5 min] Add one false-negative reporting tip](https://github.com/Berserk-hub150/skillhawk/issues/34)
+- [[2–5 min] Add one false-positive reporting tip](https://github.com/Berserk-hub150/skillhawk/issues/33)
+- [[2–5 min] Add one benchmark FAQ answer](https://github.com/Berserk-hub150/skillhawk/issues/32)
+- [[2–5 min] Add one local repository scan use case](https://github.com/Berserk-hub150/skillhawk/issues/31)
+- [[2–5 min] Add one pull-request scanning use case](https://github.com/Berserk-hub150/skillhawk/issues/30)
+- [[2–5 min] Add one Claude Code review use case](https://github.com/Berserk-hub150/skillhawk/issues/29)
+- [[2–5 min] Add one Agent Skill review use case](https://github.com/Berserk-hub150/skillhawk/issues/27)
+- [[2–5 min] Add one recall flashcard](https://github.com/Berserk-hub150/skillhawk/issues/26)
+- [[2–5 min] Add one static-vs-dynamic analysis flashcard](https://github.com/Berserk-hub150/skillhawk/issues/24)
+- [[2–5 min] Add one secrets-handling flashcard](https://github.com/Berserk-hub150/skillhawk/issues/23)
+- [[2–5 min] Add one static-only safety flashcard](https://github.com/Berserk-hub150/skillhawk/issues/22)
+- [[2–5 min] Add one rule ID flashcard](https://github.com/Berserk-hub150/skillhawk/issues/21)
+- [[2–5 min] Add one CI security gate flashcard](https://github.com/Berserk-hub150/skillhawk/issues/20)
+- [[2–5 min] Add one Code Scanning flashcard](https://github.com/Berserk-hub150/skillhawk/issues/19)
+- [[2–5 min] Add one GitHub Action flashcard](https://github.com/Berserk-hub150/skillhawk/issues/18)
+- [[2–5 min] Add one flashcard about zero dependencies](https://github.com/Berserk-hub150/skillhawk/issues/17)
+- [[2–5 min] Define least privilege for beginners](https://github.com/Berserk-hub150/skillhawk/issues/16)
+- [[2–5 min] Define remediation for beginners](https://github.com/Berserk-hub150/skillhawk/issues/14)
+- [[2–5 min] Define security severity levels](https://github.com/Berserk-hub150/skillhawk/issues/13)
+- [[2–5 min] Define recall for beginners](https://github.com/Berserk-hub150/skillhawk/issues/12)
+- [[2–5 min] Define precision for beginners](https://github.com/Berserk-hub150/skillhawk/issues/11)
+- [[2–5 min] Define false negative for beginners](https://github.com/Berserk-hub150/skillhawk/issues/10)
+- [[2–5 min] Define false positive for beginners](https://github.com/Berserk-hub150/skillhawk/issues/9)
+- [[2–5 min] Define SARIF for beginners](https://github.com/Berserk-hub150/skillhawk/issues/8)
+- [Add detection for suspicious PowerShell download-and-execute patterns](https://github.com/Berserk-hub150/skillhawk/issues/2)
+- [Add a compact README demo GIF or terminal screenshot](https://github.com/Berserk-hub150/skillhawk/issues/1)
+
+## [g1d30nB/nudge](https://github.com/g1d30nB/nudge)
+
+- [West and north resize handles](https://github.com/g1d30nB/nudge/issues/9)
+- [Gesture to select an element's parent](https://github.com/g1d30nB/nudge/issues/8)
+- [Keep uncommitted changes across a hot reload](https://github.com/g1d30nB/nudge/issues/7)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991)
+- [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956)
+- [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912)
+- [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21787)
+- [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
+
+## [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web)
+
+- [Feature request: Provide the ability in Grampsweb to change the genealogical symbols](https://github.com/gramps-project/gramps-web/issues/507)
+
+## [ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website)
+
+- [Add Confirmation Modals for Critical Admin Dashboard Actions](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/104)
+- [Refactor Event-Driven Email Notifications to support Manual Triggers and Toggles](https://github.com/ACM-Alexandria/ACM-Alexandria-Chapter-Official-Website/issues/85)
+
+## [Techhackontime999/NEURAL-AURORA](https://github.com/Techhackontime999/NEURAL-AURORA)
+
+- [a11y: Fix low-contrast text tokens that fail WCAG AA](https://github.com/Techhackontime999/NEURAL-AURORA/issues/15)
+- [Bug: visitor counter increments twice in development (StrictMode)](https://github.com/Techhackontime999/NEURAL-AURORA/issues/13)
+- [Bug: navbar anchor scroll hides section headings under the fixed header](https://github.com/Techhackontime999/NEURAL-AURORA/issues/7)
+- [a11y: Respect prefers-reduced-motion for framer-motion animations](https://github.com/Techhackontime999/NEURAL-AURORA/issues/4)
+- [Epic 1 · Sub: Recruiter-facing project filtering by role](https://github.com/Techhackontime999/NEURAL-AURORA/issues/35)
+- [Epic 1 · Sub: Visitor role picker entry modal](https://github.com/Techhackontime999/NEURAL-AURORA/issues/31)
+- [a11y: Mobile nav overlay — add focus trap, Esc-to-close and aria-expanded](https://github.com/Techhackontime999/NEURAL-AURORA/issues/14)
+- [a11y: Keyboard access for clickable project cards](https://github.com/Techhackontime999/NEURAL-AURORA/issues/8)
 
