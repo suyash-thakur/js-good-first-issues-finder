@@ -4,8 +4,31 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
+
+- [feat(install): add Kimi Code CLI (Moonshot) as an install target](https://github.com/Fmarzochi/EGC/issues/1492)
+- [feat(install): add Mistral Vibe as an install target](https://github.com/Fmarzochi/EGC/issues/1497)
+- [feat(install): add Kilo Code CLI as an install target](https://github.com/Fmarzochi/EGC/issues/1496)
+- [feat(install): add MiMo Code (Xiaomi) as an install target](https://github.com/Fmarzochi/EGC/issues/1498)
+- [feat(install): add Pi as an install target](https://github.com/Fmarzochi/EGC/issues/1499)
+- [feat(install): add Letta Code as an install target](https://github.com/Fmarzochi/EGC/issues/1500)
+- [feat(install): add Plandex as an install target](https://github.com/Fmarzochi/EGC/issues/1501)
+- [feat(install): add Grok Build (xAI) as an install target](https://github.com/Fmarzochi/EGC/issues/1495)
+- [test(v1.1.22): two tools, one brain: does the memory really cross tools?](https://github.com/Fmarzochi/EGC/issues/1381)
+- [test(v1.1.22): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
+- [test(v1.1.22): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
+- [test(v1.1.22): first install on Linux, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1377)
+- [test(opencode-plugin): the prompt-timeout test shares its 150 ms budget with the bridge spawn and fails for the wrong reason on a cold windows-latest bun runner (main at 66cc67da)](https://github.com/Fmarzochi/EGC/issues/1448)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [Paging on an empty store: next and last stay enabled, last goes to page 0](https://github.com/neomjs/neo/issues/19062)
+- [Neo.toolbar.Paging has no coverage, and its page maths has edges](https://github.com/neomjs/neo/issues/19038)
+- [The calendar month view has no component-tier witness](https://github.com/neomjs/neo/issues/19006)
+
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
 - [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
 - [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
 - [Add linting rule to fail build if package A incorrectly depends on package B](https://github.com/WordPress/gutenberg/issues/11865)
@@ -17,62 +40,14 @@ This list gets updated every day at midnight.
 - [Dependency Extraction Webpack Plugin: Prettify the output of the development asset files ](https://github.com/WordPress/gutenberg/issues/48106)
 - [Custom font upload not working](https://github.com/WordPress/gutenberg/issues/72265)
 
-## [amponce/archive-movie-browser](https://github.com/amponce/archive-movie-browser)
+## [nextcloud/text](https://github.com/nextcloud/text)
 
-- [Docs are out of date: README structure tree, "Make It Yours" pointer, CONTRIBUTING test notes](https://github.com/amponce/archive-movie-browser/issues/167)
-- [/mcp/ and /stats/ with a trailing slash show Vercel's 404 page](https://github.com/amponce/archive-movie-browser/issues/166)
-- [Very long search text gives a bare "Error: Failed to fetch"](https://github.com/amponce/archive-movie-browser/issues/165)
-- [A hand-edited ?runtime= value that isn't in the dropdown is applied but not displayed](https://github.com/amponce/archive-movie-browser/issues/164)
-- [Film card shows a stray "•" when a film has a runtime but no year](https://github.com/amponce/archive-movie-browser/issues/163)
-- [Combobox keeps a dangling aria-activedescendant after Escape](https://github.com/amponce/archive-movie-browser/issues/162)
-- [Related-film cards in the film page ignore the Space key and read as "Escape by Night1937"](https://github.com/amponce/archive-movie-browser/issues/161)
-- [Keyboard focus is lost after "Load more"](https://github.com/amponce/archive-movie-browser/issues/160)
-- [Data: a "wrong poster?" link that opens a ready-made correction](https://github.com/amponce/archive-movie-browser/issues/120)
-- [MCP: expose the catalogue as resources and add a "movie night" prompt](https://github.com/amponce/archive-movie-browser/issues/117)
-- [MCP: a recommend_films tool ("a noir under 70 minutes")](https://github.com/amponce/archive-movie-browser/issues/114)
-- [The browser tab always says the same thing: set the page title from the film and filters](https://github.com/amponce/archive-movie-browser/issues/103)
-- [Share button on the film page](https://github.com/amponce/archive-movie-browser/issues/102)
-- [Refresh the README: screenshot and feature list are out of date](https://github.com/amponce/archive-movie-browser/issues/70)
-- [Design another poster composition (the keyhole was great, let's have more)](https://github.com/amponce/archive-movie-browser/issues/108)
-- [Most buttons and selects are under the 40px touch target size](https://github.com/amponce/archive-movie-browser/issues/63)
-- [Let people use their own TMDB key from the Settings dialog](https://github.com/amponce/archive-movie-browser/issues/44)
-- [Add an error boundary so one broken component can't blank the whole app](https://github.com/amponce/archive-movie-browser/issues/32)
+- [Ctrl+A inside table cell should only select all of the cell's content instead of the whole document.](https://github.com/nextcloud/text/issues/5785)
 
-## [layer5io/layer5](https://github.com/layer5io/layer5)
+## [atomantic/PortOS](https://github.com/atomantic/PortOS)
 
-- [[Event] KubeCon NA 2026](https://github.com/layer5io/layer5/issues/8100)
-- [Fix card animation not triggering automatically on mobile](https://github.com/layer5io/layer5/issues/8093)
-- [Fix inconsistent alignment of feature points in the For Learners section on mobile](https://github.com/layer5io/layer5/issues/8092)
-- [Layout shift when opening the “Meet Five” card](https://github.com/layer5io/layer5/issues/8084)
-- [Community Membership paragraph alignment issue](https://github.com/layer5io/layer5/issues/8085)
-- [Layer5 Acadmey svg's pillar not visible in the light mode](https://github.com/layer5io/layer5/issues/8079)
-- [[Screenshots] Cilium under 'How it Works See It in Action' section](https://github.com/layer5io/layer5/issues/4868)
-- [[CI] Create or add to existing workflow: a broken link checker](https://github.com/layer5io/layer5/issues/6407)
-- [[UI]: Oversized GitHub octocat icon on "What is GitOps?" resource page](https://github.com/layer5io/layer5/issues/7963)
-- [add animated card](https://github.com/layer5io/layer5/issues/6521)
-- [[UI]: Unwanted border and incorrect Layer5 logo color in “Join the Conversation” box](https://github.com/layer5io/layer5/issues/7958)
-
-## [chrisriv10/Soterios](https://github.com/chrisriv10/Soterios)
-
-- [Avoid hard-coded release versions in README download instructions](https://github.com/chrisriv10/Soterios/issues/131)
-- [Bound the FolderWatcher scan queue and recent-scan dedup state](https://github.com/chrisriv10/Soterios/issues/143)
-- [Upgrade CodeQL to v4 and add Rust analysis](https://github.com/chrisriv10/Soterios/issues/144)
-- [Add CI checks for broken links in README and documentation](https://github.com/chrisriv10/Soterios/issues/130)
-- [Add Dependabot updates for npm, GitHub Actions, and Rust dependencies](https://github.com/chrisriv10/Soterios/issues/129)
-- [Add polished product screenshots and an animated demo to the README](https://github.com/chrisriv10/Soterios/issues/113)
-
-## [vicharanashala/tenali](https://github.com/vicharanashala/tenali)
-
-- [Wire BKT into lil/masteryEngine so mastery is actually computed and persisted](https://github.com/vicharanashala/tenali/issues/289)
-- [Fold Guess the Number into its parent topic (bases - it is a binary trick)](https://github.com/vicharanashala/tenali/issues/210)
-- [Fold Comic Addition into Addition](https://github.com/vicharanashala/tenali/issues/207)
-- [Docs overstate BKT: spacingLadder is not BKT-driven, and server/lib/bkt.js is not a shared utility](https://github.com/vicharanashala/tenali/issues/292)
-- [Use the canonical gym names](https://github.com/vicharanashala/tenali/issues/205)
-- [Fix eslint errors in the 49 remaining low-count client files](https://github.com/vicharanashala/tenali/issues/275)
-- [Confirm the API contract test still passes after the removal](https://github.com/vicharanashala/tenali/issues/228)
-- [Drop the three stale vite proxy entries on main](https://github.com/vicharanashala/tenali/issues/226)
-- [Fold Idli Vada Sambhar and The Car Journey into their parent topics](https://github.com/vicharanashala/tenali/issues/208)
-- [Fix the contradictory puzzle counts in the README](https://github.com/vicharanashala/tenali/issues/231)
+- [[a11y-img-alt] AppIcon renders empty alt text when callers omit ariaLabel](https://github.com/atomantic/PortOS/issues/7957)
+- [[observability-sync-heartbeat-noise] Per-minute sync heartbeat logs bury the federation failures that matter](https://github.com/atomantic/PortOS/issues/7944)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
@@ -86,6 +61,47 @@ This list gets updated every day at midnight.
 - [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 
+## [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer)
+
+- [npm test fails on Windows and no CI leg would ever tell us (needs a Windows machine)](https://github.com/dheerajjha/reviewer/issues/70)
+
+## [hackforla/website](https://github.com/hackforla/website)
+
+- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8798)
+- [Skills Issue: Developer: Juan Yepez](https://github.com/hackforla/website/issues/8717)
+- [Removed former memeber from Hackforla.org leadership section](https://github.com/hackforla/website/pull/8796)
+- [Update Project Profile: Hackforla.org Website Remove Eleftherios Christou](https://github.com/hackforla/website/issues/8768)
+- [Update Project Profile: Hackforla.org Website Add Sushma Ramachandra Hegde](https://github.com/hackforla/website/issues/8791)
+- [Update docker-compose.yml: Remove top-level version element](https://github.com/hackforla/website/issues/8555)
+- [Add github-handle for Isabelle Wagenvoord in public-tree-map.md](https://github.com/hackforla/website/issues/7794)
+- [Update Project Profile: Food Oasis Remove Qiqi Zheng](https://github.com/hackforla/website/issues/8689)
+- [Update Project Profile: Food Oasis Remove  Krista Strucke](https://github.com/hackforla/website/issues/8688)
+- [Update Project Profile: Food Oasis Remove Belen Garcia Martinez](https://github.com/hackforla/website/issues/8687)
+- [Update Project Profile: Food Oasis Remove Andy Arensman](https://github.com/hackforla/website/issues/8686)
+- [Update Project Profile: Food Oasis Add Jaclyn Chin](https://github.com/hackforla/website/issues/8685)
+- [Update Project Profile: Food Oasis Add Zainab Adenaike](https://github.com/hackforla/website/issues/8684)
+- [Update Project Profile: Food Oasis Add Christina Nguyen](https://github.com/hackforla/website/issues/8683)
+- [Update Project Profile: Food Oasis Add Alexa Ray](https://github.com/hackforla/website/issues/8681)
+- [Update Project Profile: Food Oasis Add Luigi Olianas](https://github.com/hackforla/website/issues/8680)
+- [Update Project Profile: Food Oasis Add Ling Dong](https://github.com/hackforla/website/issues/8679)
+- [Update Project Profile: Food Oasis Add Whitney Gould](https://github.com/hackforla/website/issues/8678)
+- [Update Project Profile: Food Oasis Add Shienny Sutanto](https://github.com/hackforla/website/issues/8676)
+- [Update Project Profile: Food Oasis Add Jelena Karanovic](https://github.com/hackforla/website/issues/8675)
+- [Update Project Profile: Food Oasis Add Bonnie Wolfe](https://github.com/hackforla/website/issues/8674)
+- [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760)
+- [Update Project Profile: Hackforla.org Website Remove Will Gillis](https://github.com/hackforla/website/issues/8774)
+- [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759)
+- [Update Project Profile: Hackforla.org Website Remove Xavier Neal-Carson](https://github.com/hackforla/website/issues/8773)
+- [Update Project Profile: Hackforla.org Website Remove Kerstin Carson](https://github.com/hackforla/website/issues/8772)
+- [Update Project Profile: Hackforla.org Website Remove Santiago Vidal](https://github.com/hackforla/website/issues/8771)
+- [Update Project Profile: Hackforla.org Website Remove Priyanka Jujjavara](https://github.com/hackforla/website/issues/8770)
+- [Update Project Profile: Hackforla.org Website Remove Amen Divine Ikamba](https://github.com/hackforla/website/issues/8769)
+- [Update Project Profile: Not Today (Update Project's Description)](https://github.com/hackforla/website/issues/8755)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+
 ## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 
 - [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
@@ -98,16 +114,23 @@ This list gets updated every day at midnight.
 - [projects: stranded-config guard misses .gemini artifacts](https://github.com/Jason-Vaughan/TangleClaw/issues/1049)
 - [Suppress node:sqlite ExperimentalWarning via --disable-warning flag](https://github.com/Jason-Vaughan/TangleClaw/issues/1039)
 
-## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+## [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf)
 
-- [DEV: External links should open consistently across all pages.](https://github.com/hackforla/tdm-calculator/issues/3029)
+- [Add Dog API to the DevShelf database](https://github.com/RitualDev-Lab/DevShelf/issues/18)
+- [Add Bruno to the DevShelf database](https://github.com/RitualDev-Lab/DevShelf/issues/7)
+- [Add LocalAI to the DevShelf database](https://github.com/RitualDev-Lab/DevShelf/issues/6)
 
-## [nextcloud/mail](https://github.com/nextcloud/mail)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
 
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15438)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15414)
 - [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15359)
@@ -116,50 +139,25 @@ This list gets updated every day at midnight.
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15228)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
 - [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/beta/median`](https://github.com/stdlib-js/stdlib/issues/3429)
-- [[RFC]: Add C implementation for `@stdlib/stats/base/dists/chisquare/pdf`](https://github.com/stdlib-js/stdlib/issues/3508)
 
-## [kiinshuk/kinshow](https://github.com/kiinshuk/kinshow)
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
-- [Improve cookie consent banner styling](https://github.com/kiinshuk/kinshow/issues/85)
-- [Redesign About page with hero section and feature cards](https://github.com/kiinshuk/kinshow/issues/86)
-- [Polish player page episode navigation with keyboard shortcuts](https://github.com/kiinshuk/kinshow/issues/89)
-- [Add exit animation to toast notifications](https://github.com/kiinshuk/kinshow/issues/87)
-- [Polish Profile page layout with stats cards and icons](https://github.com/kiinshuk/kinshow/issues/84)
-- [Fix remaining hardcoded dark-theme colors for light theme](https://github.com/kiinshuk/kinshow/issues/83)
-- [Add keyboard navigation to cast scroll section](https://github.com/kiinshuk/kinshow/issues/70)
-- [Show content rail scroll arrows on hover](https://github.com/kiinshuk/kinshow/issues/71)
-- [Add enter/exit animations to Watchlist items](https://github.com/kiinshuk/kinshow/issues/69)
-- [Redesign Detail page layout for cinematic feel](https://github.com/kiinshuk/kinshow/issues/72)
-- [Add checkmark icon to active genre chip](https://github.com/kiinshuk/kinshow/issues/67)
-- [Add accent underline to content rail section titles](https://github.com/kiinshuk/kinshow/issues/65)
-- [Add safe-area-inset padding for mobile bottom nav](https://github.com/kiinshuk/kinshow/issues/64)
-- [Add scroll-to-top button on long pages](https://github.com/kiinshuk/kinshow/issues/61)
-- [Improve empty state illustrations](https://github.com/kiinshuk/kinshow/issues/62)
-- [Dark mode toggle with system preference detection](https://github.com/kiinshuk/kinshow/issues/60)
-- [Add hover tooltips on cast cards](https://github.com/kiinshuk/kinshow/issues/59)
-- [Add loading spinner to page transitions](https://github.com/kiinshuk/kinshow/issues/58)
-- [Add keyboard shortcuts help modal](https://github.com/kiinshuk/kinshow/issues/52)
-- [Improve genre chip design with checkmark](https://github.com/kiinshuk/kinshow/issues/37)
-- [Add enter/exit animations to Watchlist](https://github.com/kiinshuk/kinshow/issues/36)
-- [Add hover scale effect to cards](https://github.com/kiinshuk/kinshow/issues/35)
-- [Add page transition animations](https://github.com/kiinshuk/kinshow/issues/34)
-- [Replace skeleton pulse with shimmer animation](https://github.com/kiinshuk/kinshow/issues/33)
-- [Add focus-visible styles for mobile nav items](https://github.com/kiinshuk/kinshow/issues/29)
-- [Store genre filter in URL query params](https://github.com/kiinshuk/kinshow/issues/28)
-- [Add keyboard navigation to hero carousel](https://github.com/kiinshuk/kinshow/issues/27)
-- [Add exit animation to search overlay](https://github.com/kiinshuk/kinshow/issues/26)
-- [Add scroll hint gradient to content rails on mobile](https://github.com/kiinshuk/kinshow/issues/25)
-- [Add loading state to Detail page buttons](https://github.com/kiinshuk/kinshow/issues/24)
-- [Watchlist remove button invisible on touch devices](https://github.com/kiinshuk/kinshow/issues/23)
-- [Add exit animation to cookie consent banner](https://github.com/kiinshuk/kinshow/issues/22)
-- [Use actual backdrop image on Detail page](https://github.com/kiinshuk/kinshow/issues/17)
-- [Clamp hero description on mobile instead of hiding](https://github.com/kiinshuk/kinshow/issues/16)
-- [Make genre chips scrollable on mobile](https://github.com/kiinshuk/kinshow/issues/15)
-- [Show item counts on Watchlist filter tabs](https://github.com/kiinshuk/kinshow/issues/13)
-- [Enlarge Watchlist empty state icon](https://github.com/kiinshuk/kinshow/issues/12)
-- [Add Explore link to mobile bottom nav](https://github.com/kiinshuk/kinshow/issues/10)
-- [Hero carousel should pause on hover](https://github.com/kiinshuk/kinshow/issues/9)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
+
+## [nodejs/learn](https://github.com/nodejs/learn)
+
+- [Documentation is outdated](https://github.com/nodejs/learn/issues/24)
+
+## [chrisriv10/Soterios](https://github.com/chrisriv10/Soterios)
+
+- [Avoid hard-coded release versions in README download instructions](https://github.com/chrisriv10/Soterios/issues/131)
+- [Bound the FolderWatcher scan queue and recent-scan dedup state](https://github.com/chrisriv10/Soterios/issues/143)
+- [Upgrade CodeQL to v4 and add Rust analysis](https://github.com/chrisriv10/Soterios/issues/144)
+- [Add CI checks for broken links in README and documentation](https://github.com/chrisriv10/Soterios/issues/130)
+- [Add Dependabot updates for npm, GitHub Actions, and Rust dependencies](https://github.com/chrisriv10/Soterios/issues/129)
+- [Add polished product screenshots and an animated demo to the README](https://github.com/chrisriv10/Soterios/issues/113)
 
 ## [darshi1337/apogee](https://github.com/darshi1337/apogee)
 
@@ -170,38 +168,45 @@ This list gets updated every day at midnight.
 - [[bug] Focus keyword is read, cached, and sent for page types that ignore it](https://github.com/darshi1337/apogee/issues/319)
 - [[a11y] Settings dialog has no focus trap; announcer has no throttle](https://github.com/darshi1337/apogee/issues/315)
 - [[bug] Fixed 2-min stream cleanup expires long map-reduce summaries](https://github.com/darshi1337/apogee/issues/314)
-- [[bug] Past-summary delete is non-atomic and search covers last-8 only](https://github.com/darshi1337/apogee/issues/313)
-- [[bug] Storage eviction is count-only with get(null) full scans](https://github.com/darshi1337/apogee/issues/312)
 
-## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
+## [nextcloud/deck](https://github.com/nextcloud/deck)
 
-- [[Bug] prepare-commit-msg hook blocks every commit on LLM latency with no overall timeout](https://github.com/404-PF/commit-echo/issues/271)
-- [[Security] `init` persists env-var API keys into config.json despite prompting "leave blank to use $ENV"](https://github.com/404-PF/commit-echo/issues/281)
-- [[Maintainability] `config set` subcommand is missing from all generated shell completions](https://github.com/404-PF/commit-echo/issues/279)
-- [[Maintainability] Dead submodule-detection branch in `getUntrackedDiff` never executes](https://github.com/404-PF/commit-echo/issues/275)
+- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
 
 ## [Mayor-s-Office-of-Innovation/good-neighbor-app](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app)
 
 - [Use lower res imagery for card thumbnails](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app/issues/236)
 - [As a PFS user, I can see a lightbox version of any photo in the app](https://github.com/Mayor-s-Office-of-Innovation/good-neighbor-app/issues/139)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
+- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
+- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
 
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+## [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
 
-- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
-
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
-
-- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
+- [Add literal-sense carve-outs for "in the evolution of" and "a ... step towards"](https://github.com/conorbronsdon/avoid-ai-writing/issues/212)
+- [Add --source-mode to the bundled ChatGPT/Codex detector script](https://github.com/conorbronsdon/avoid-ai-writing/issues/244)
+- [Stamp and validate a version in the six sub-skill frontmatters](https://github.com/conorbronsdon/avoid-ai-writing/issues/246)
+- [CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquoted vocabulary lists](https://github.com/conorbronsdon/avoid-ai-writing/issues/258)
+- [Return a consistent result shape for unscored labels and reject non-string input clearly](https://github.com/conorbronsdon/avoid-ai-writing/issues/234)
+- [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232)
+- [Check the package.json version in sync-plugin-skill.sh and drop its unused variable](https://github.com/conorbronsdon/avoid-ai-writing/issues/230)
+- [Add development-setup and release-checklist sections to CONTRIBUTING.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/227)
+- [Add PR-template checklist items for the sync scripts, self-scan, and SSOT gates](https://github.com/conorbronsdon/avoid-ai-writing/issues/223)
+- [Add an issue-template config.yml and refresh the stale version placeholder](https://github.com/conorbronsdon/avoid-ai-writing/issues/222)
+- [Add a check-style round-trip test for examples/prose.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/221)
+- [Document the severity-to-P-tier mapping, including the undocumented P3](https://github.com/conorbronsdon/avoid-ai-writing/issues/220)
+- [State size limits for the paste-install targets in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/219)
+- [Finish the marks-pass rewrite in the generated Cursor and paste artifacts](https://github.com/conorbronsdon/avoid-ai-writing/issues/218)
+- [List the three unmapped catalog rules in CATEGORIES.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/217)
+- [Align the Tier 3 density rule in patterns.md with the per-word engine threshold](https://github.com/conorbronsdon/avoid-ai-writing/issues/216)
+- [Give every word-table row a concrete alternative](https://github.com/conorbronsdon/avoid-ai-writing/issues/215)
+- [Add fixture pairs for six untested phrase-level detector types](https://github.com/conorbronsdon/avoid-ai-writing/issues/213)
+- [Narrow false-concession so ordinary concessive openers stay clean](https://github.com/conorbronsdon/avoid-ai-writing/issues/211)
+- [Replace the wall-clock assertion in the #190 masking test with a scaling check](https://github.com/conorbronsdon/avoid-ai-writing/issues/208)
+- [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -219,6 +224,10 @@ This list gets updated every day at midnight.
 - [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
 - [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
 
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
+
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
 - [[pt] Localize content/en/docs/demo pages](https://github.com/open-telemetry/opentelemetry.io/issues/7544)
@@ -226,6 +235,16 @@ This list gets updated every day at midnight.
 - [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
 - [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
 - [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+
+## [WesleyHanauer/moracarta](https://github.com/WesleyHanauer/moracarta)
+
+- [Document deploy.js](https://github.com/WesleyHanauer/moracarta/issues/37)
+- [Document add.js](https://github.com/WesleyHanauer/moracarta/issues/36)
+- [Document cliConfig.js](https://github.com/WesleyHanauer/moracarta/issues/34)
+- [Document remove.js](https://github.com/WesleyHanauer/moracarta/issues/39)
+- [Document commands folder](https://github.com/WesleyHanauer/moracarta/issues/35)
+- [Help wanted: documentation](https://github.com/WesleyHanauer/moracarta/issues/16)
+- [Help wanted: simple project - welcome to contributors](https://github.com/WesleyHanauer/moracarta/issues/21)
 
 ## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
 
@@ -240,41 +259,16 @@ This list gets updated every day at midnight.
 
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card)
+## [kiril6/termdeck](https://github.com/kiril6/termdeck)
 
-- [[Feature Request] Define icon color](https://github.com/kalkih/mini-graph-card/issues/854)
-
-## [medic/cht-core](https://github.com/medic/cht-core)
-
-- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
-- [Add constant for 'contact' document type](https://github.com/medic/cht-core/issues/10545)
-- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
-
-## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
-
-- [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
-
-## [beautifier/js-beautify](https://github.com/beautifier/js-beautify)
-
-- [Add `defaultOptions` method to main beautifier ](https://github.com/beautifier/js-beautify/issues/1584)
-
-## [luceat-lux-vestra/zed-spring-tools](https://github.com/luceat-lux-vestra/zed-spring-tools)
-
-- [task(platform): validate Linux x86_64 on real hardware](https://github.com/luceat-lux-vestra/zed-spring-tools/issues/115)
-- [task(platform): validate Windows x86_64 on real hardware](https://github.com/luceat-lux-vestra/zed-spring-tools/issues/114)
+- [Add a smoke-test CI workflow + build-status badge](https://github.com/kiril6/termdeck/issues/5)
+- [Add a Web App Manifest so termdeck installs as a PWA](https://github.com/kiril6/termdeck/issues/1)
 
 ## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
 
+- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
 - [Foam Foundation github pages landing page url redirect](https://github.com/foam-foundation/foam3/issues/5540)
 - [U2: ( enhancement ) copyable icon should be configurable](https://github.com/foam-foundation/foam3/issues/5421)
-
-## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-
-- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
 
 ## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
@@ -298,4 +292,14 @@ This list gets updated every day at midnight.
 - [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
 - [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
 - [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
+
+## [terser/terser](https://github.com/terser/terser)
+
+- [Recommend --enable-source-maps](https://github.com/terser/terser/issues/732)
+
+## [wordpress-mobile/GutenbergKit](https://github.com/wordpress-mobile/GutenbergKit)
+
+- [Add stylelint with logical-property rule to catch RTL styling bugs](https://github.com/wordpress-mobile/GutenbergKit/issues/564)
+- [Deduplicate `showSpinner()` invocation alongside `loadEditor()`](https://github.com/wordpress-mobile/GutenbergKit/issues/417)
+- [Deduplicate Android `assetLoader` assignment ](https://github.com/wordpress-mobile/GutenbergKit/issues/416)
 
