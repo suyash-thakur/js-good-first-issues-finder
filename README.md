@@ -4,48 +4,132 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [PicadoLabs/build-with-ai](https://github.com/PicadoLabs/build-with-ai)
+## [Uuriko/project-room](https://github.com/Uuriko/project-room)
 
-- [Add an Electron Desktop App workflow template](https://github.com/PicadoLabs/build-with-ai/issues/34)
-- [Test empty and completed workflows in resume](https://github.com/PicadoLabs/build-with-ai/issues/20)
-- [Add a template schema validation helper](https://github.com/PicadoLabs/build-with-ai/issues/15)
+- [[good-first] lease: 6h rejected with an error that doesn't say the fix](https://github.com/Uuriko/project-room/issues/843)
+- [[good-first] prose/malformed board comments vanish — no log entry at all](https://github.com/Uuriko/project-room/issues/844)
+- [[good-first] Lane tags with spaces parse as prose — claim silently never registers](https://github.com/Uuriko/project-room/issues/841)
+- [[good-first] scripts/room heartbeat/release/receipt on an unknown task-id print an error but still post](https://github.com/Uuriko/project-room/issues/910)
+- [[good-first] scripts/room: only claim and sweep accept --dry-run after the verb](https://github.com/Uuriko/project-room/issues/913)
+- [[good-first] scripts/room: a flag with no value dies with an unbound-variable error](https://github.com/Uuriko/project-room/issues/912)
+- [[good-first] Dead links to removed AGENT-CONNECTION.md, AGENT-HOSTS.md and AGENT-WRITE-GUIDE.md in dated docs](https://github.com/Uuriko/project-room/issues/914)
+- [[good-first] scripts/room metrics --since compares strings, so dates with offsets or bad input give a silent wrong window](https://github.com/Uuriko/project-room/issues/915)
+- [[good-first] Docs-only: ROOM-PROTOCOL.md never states the lane-tag charset](https://github.com/Uuriko/project-room/issues/850)
+- [[good-first] scripts/room claim --lane accepts values the parser can't read (not fail-closed)](https://github.com/Uuriko/project-room/issues/842)
+- [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
+- [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
 
 ## [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system)
 
 - [Add a secure Helm chart for the HTTP gateway (Phase 1)](https://github.com/happy520ai/unified-ai-system/issues/113)
 - [docs: extend MCP client matrix with verified client runs](https://github.com/happy520ai/unified-ai-system/issues/106)
 
-## [nextcloud/deck](https://github.com/nextcloud/deck)
+## [chrisriv10/Soterios](https://github.com/chrisriv10/Soterios)
 
-- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
+- [Avoid hard-coded release versions in README download instructions](https://github.com/chrisriv10/Soterios/issues/131)
+- [Bound the FolderWatcher scan queue and recent-scan dedup state](https://github.com/chrisriv10/Soterios/issues/143)
+- [Upgrade CodeQL to v4 and add Rust analysis](https://github.com/chrisriv10/Soterios/issues/144)
+- [Add CI checks for broken links in README and documentation](https://github.com/chrisriv10/Soterios/issues/130)
+- [Add Dependabot updates for npm, GitHub Actions, and Rust dependencies](https://github.com/chrisriv10/Soterios/issues/129)
+- [Add polished product screenshots and an animated demo to the README](https://github.com/chrisriv10/Soterios/issues/113)
 
-## [StudentSuite/awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources)
+## [dota2modmanager/dota2-mod-manager](https://github.com/dota2modmanager/dota2-mod-manager)
 
-- [Verify: openvidstudio](https://github.com/StudentSuite/awesome-student-resources/issues/400)
-- [Verify: New Colombo Plan](https://github.com/StudentSuite/awesome-student-resources/issues/399)
-- [Verify: Milkround](https://github.com/StudentSuite/awesome-student-resources/issues/398)
-- [Verify: International Student Insurance](https://github.com/StudentSuite/awesome-student-resources/issues/397)
-- [Verify: GoAbroad](https://github.com/StudentSuite/awesome-student-resources/issues/396)
-- [Verify: Exponent](https://github.com/StudentSuite/awesome-student-resources/issues/395)
-- [Verify: AHEAD](https://github.com/StudentSuite/awesome-student-resources/issues/394)
-- [Verify: AAUW Work Smart](https://github.com/StudentSuite/awesome-student-resources/issues/393)
-- [Verify: UNiDAYS](https://github.com/StudentSuite/awesome-student-resources/issues/392)
-- [Verify: JetBrains for Students](https://github.com/StudentSuite/awesome-student-resources/issues/391)
-- [Verify: Autodesk Education](https://github.com/StudentSuite/awesome-student-resources/issues/390)
-- [Verify: Apple Education Store](https://github.com/StudentSuite/awesome-student-resources/issues/389)
-- [Verify: Study in Japan](https://github.com/StudentSuite/awesome-student-resources/issues/388)
-- [Verify: Society of Women Engineers Scholarships](https://github.com/StudentSuite/awesome-student-resources/issues/387)
-- [Verify: Scholars4Dev](https://github.com/StudentSuite/awesome-student-resources/issues/386)
-- [Verify: International Scholarships](https://github.com/StudentSuite/awesome-student-resources/issues/385)
-- [Verify: FindAPhD](https://github.com/StudentSuite/awesome-student-resources/issues/384)
-- [Verify: Erasmus Mundus Joint Masters](https://github.com/StudentSuite/awesome-student-resources/issues/383)
-- [Verify: Buddy4Study](https://github.com/StudentSuite/awesome-student-resources/issues/382)
-- [Verify: CHADD](https://github.com/StudentSuite/awesome-student-resources/issues/381)
-- [Verify: How to Ace the Impromptu Speech](https://github.com/StudentSuite/awesome-student-resources/issues/360)
-- [Verify: Global Classrooms](https://github.com/StudentSuite/awesome-student-resources/issues/359)
-- [Verify: The Learning Scientists Podcast](https://github.com/StudentSuite/awesome-student-resources/issues/358)
-- [Verify: Stuff You Missed in History Class](https://github.com/StudentSuite/awesome-student-resources/issues/357)
-- [Add the all-contributors bot](https://github.com/StudentSuite/awesome-student-resources/issues/110)
+- [Generate the incidents table instead of writing it by hand](https://github.com/dota2modmanager/dota2-mod-manager/issues/115)
+- [Linux: check that preset links and .d2mm files open the app](https://github.com/dota2modmanager/dota2-mod-manager/issues/18)
+
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+- [Add JSDoc to the 9 undocumented private helpers](https://github.com/Jason-Vaughan/TangleClaw/issues/1066)
+- [[feature] Set CLAUDE_CODE_ARTIFACT_AUTO_OPEN=0 for spawned Claude sessions — artifact tabs pile up on a host nobody watches](https://github.com/Jason-Vaughan/TangleClaw/issues/1113)
+- [tests: stop regex-matching exact public/* source text in frontend tests](https://github.com/Jason-Vaughan/TangleClaw/issues/1037)
+- [Tighten FEATURES.md citation-contract coverage](https://github.com/Jason-Vaughan/TangleClaw/issues/1044)
+- [[chore] Log when resolveSessionRange downgrades a session SHA to the trunk range](https://github.com/Jason-Vaughan/TangleClaw/issues/670)
+- [wrap: changelog promotion emits headings with no link-reference defs](https://github.com/Jason-Vaughan/TangleClaw/issues/1051)
+- [projects: stranded-config guard misses .gemini artifacts](https://github.com/Jason-Vaughan/TangleClaw/issues/1049)
+- [Suppress node:sqlite ExperimentalWarning via --disable-warning flag](https://github.com/Jason-Vaughan/TangleClaw/issues/1039)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
+- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
+- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
+- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
+- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
+- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
+- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
+
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
+
+- [feat(install): add Letta Code as an install target](https://github.com/Fmarzochi/EGC/issues/1500)
+- [feat(install): add Mistral Vibe as an install target](https://github.com/Fmarzochi/EGC/issues/1497)
+- [feat(install): add Kimi Code CLI (Moonshot) as an install target](https://github.com/Fmarzochi/EGC/issues/1492)
+- [feat(install): add Kilo Code CLI as an install target](https://github.com/Fmarzochi/EGC/issues/1496)
+- [feat(install): add MiMo Code (Xiaomi) as an install target](https://github.com/Fmarzochi/EGC/issues/1498)
+- [feat(install): add Pi as an install target](https://github.com/Fmarzochi/EGC/issues/1499)
+- [feat(install): add Plandex as an install target](https://github.com/Fmarzochi/EGC/issues/1501)
+- [feat(install): add Grok Build (xAI) as an install target](https://github.com/Fmarzochi/EGC/issues/1495)
+- [test(v1.1.22): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
+- [test(v1.1.22): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
+- [test(v1.1.22): first install on Linux, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1377)
+- [test(opencode-plugin): the prompt-timeout test shares its 150 ms budget with the bridge spawn and fails for the wrong reason on a cold windows-latest bun runner (main at 66cc67da)](https://github.com/Fmarzochi/EGC/issues/1448)
+
+## [LabinatorSolutions/boldchess-web-app](https://github.com/LabinatorSolutions/boldchess-web-app)
+
+- [Implement Chess Opening Detection & Interactive Learning Features](https://github.com/LabinatorSolutions/boldchess-web-app/issues/28)
+- [Stockfish Game Analysis Report](https://github.com/LabinatorSolutions/boldchess-web-app/issues/21)
+
+## [hooware-ai/droiddock](https://github.com/hooware-ai/droiddock)
+
+- [Keep host filesystem errors out of file-paste responses](https://github.com/hooware-ai/droiddock/issues/72)
+- [Bring CHANGELOG up to date with v0.1.0 and changes since #52](https://github.com/hooware-ai/droiddock/issues/78)
+
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
+
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [i18n: translate the interview modes (plan/practice/debrief) to Japanese](https://github.com/career-ops-hq/career-ops/issues/3289)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+- [i18n: add the interview README to de/id/ru/ua/zh (one language per PR)](https://github.com/career-ops-hq/career-ops/issues/3564)
+- [Native-speaker check wanted: the human-in-the-loop row in 11 languages (a940028a)](https://github.com/career-ops-hq/career-ops/issues/3223)
+- [update-system.mjs commits the auto-update onto whatever branch you are on, including a contributor's feature branch](https://github.com/career-ops-hq/career-ops/issues/3846)
+- [Umbrella: bring the Hired Wall section to the 16 localized READMEs](https://github.com/career-ops-hq/career-ops/issues/3398)
+- [i18n(ua): re-sync modes/ua/oferta.md (Ukrainian) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3675)
+- [verify-cv-facts: flag scope-verb inflation and unsourced adoption claims, not just numbers](https://github.com/career-ops-hq/career-ops/issues/3685)
+- [i18n(pt): re-sync modes/pt/oferta.md (Portuguese) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3673)
+- [i18n(da): re-sync modes/da/oferta.md (Danish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3670)
+
+## [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)
+
+- [in assistive model add fal.ai for generative media feature](https://github.com/webbrain-one/webbrain/issues/3077)
+- [improve suggested actions](https://github.com/webbrain-one/webbrain/issues/335)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
+
+## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
+
+- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
+- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
+- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [The conversion sensor's exit tri-state has no production supplier](https://github.com/neomjs/neo/issues/19245)
+- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
+- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
+- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
+- [Pin the icon, icon-link and LinkedIn grid columns](https://github.com/neomjs/neo/issues/19137)
+- [Pin Neo.util.Performance: timing samples, averages and the sample window](https://github.com/neomjs/neo/issues/19133)
+- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -63,208 +147,67 @@ This list gets updated every day at midnight.
 - [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
 - [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
 
-## [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop)
+## [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 
-- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/talk-desktop/issues/1939)
+- [The homepage only displays the backdrops from libraries of the "movie" type](https://github.com/jellyfin/jellyfin-web/issues/4077)
 
-## [Uuriko/project-room](https://github.com/Uuriko/project-room)
+## [google/site-kit-wp](https://github.com/google/site-kit-wp)
 
-- [[good-first] lease: 6h rejected with an error that doesn't say the fix](https://github.com/Uuriko/project-room/issues/843)
-- [[good-first] prose/malformed board comments vanish — no log entry at all](https://github.com/Uuriko/project-room/issues/844)
-- [[good-first] Lane tags with spaces parse as prose — claim silently never registers](https://github.com/Uuriko/project-room/issues/841)
-- [[good-first] scripts/room heartbeat/release/receipt on an unknown task-id print an error but still post](https://github.com/Uuriko/project-room/issues/910)
-- [[good-first] scripts/room: only claim and sweep accept --dry-run after the verb](https://github.com/Uuriko/project-room/issues/913)
-- [[good-first] scripts/room: a flag with no value dies with an unbound-variable error](https://github.com/Uuriko/project-room/issues/912)
-- [[good-first] Dead links to removed AGENT-CONNECTION.md, AGENT-HOSTS.md and AGENT-WRITE-GUIDE.md in dated docs](https://github.com/Uuriko/project-room/issues/914)
-- [[good-first] scripts/room metrics --since compares strings, so dates with offsets or bad input give a silent wrong window](https://github.com/Uuriko/project-room/issues/915)
-- [[good-first] Docs-only: ROOM-PROTOCOL.md never states the lane-tag charset](https://github.com/Uuriko/project-room/issues/850)
-- [[good-first] scripts/room claim --lane accepts values the parser can't read (not fail-closed)](https://github.com/Uuriko/project-room/issues/842)
-- [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
-- [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
-
-## [2026-2-MCC2/Projeto3](https://github.com/2026-2-MCC2/Projeto3)
-
-- [RF01 - Auto Cadastro de Organizador](https://github.com/2026-2-MCC2/Projeto3/issues/9)
-- [RF08 - Publicação para Cotação](https://github.com/2026-2-MCC2/Projeto3/issues/7)
-- [Prototipação Navegável](https://github.com/2026-2-MCC2/Projeto3/issues/6)
-- [Apresentação da Missão, Visão e Valores / Proposta de Valor da Empresa](https://github.com/2026-2-MCC2/Projeto3/issues/3)
-- [Aplicação do Polinômio de Taylor na Modelagem de Variáveis Relacionadas ao Website](https://github.com/2026-2-MCC2/Projeto3/issues/1)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15547)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
-
-## [chrisriv10/Soterios](https://github.com/chrisriv10/Soterios)
-
-- [Avoid hard-coded release versions in README download instructions](https://github.com/chrisriv10/Soterios/issues/131)
-- [Bound the FolderWatcher scan queue and recent-scan dedup state](https://github.com/chrisriv10/Soterios/issues/143)
-- [Upgrade CodeQL to v4 and add Rust analysis](https://github.com/chrisriv10/Soterios/issues/144)
-- [Add CI checks for broken links in README and documentation](https://github.com/chrisriv10/Soterios/issues/130)
-- [Add Dependabot updates for npm, GitHub Actions, and Rust dependencies](https://github.com/chrisriv10/Soterios/issues/129)
-- [Add polished product screenshots and an animated demo to the README](https://github.com/chrisriv10/Soterios/issues/113)
-
-## [nextcloud/text](https://github.com/nextcloud/text)
-
-- [Ctrl+A inside table cell should only select all of the cell's content instead of the whole document.](https://github.com/nextcloud/text/issues/5785)
-
-## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
-
-- [feat(install): add Letta Code as an install target](https://github.com/Fmarzochi/EGC/issues/1500)
-- [test(v1.1.22): two tools, one brain: does the memory really cross tools?](https://github.com/Fmarzochi/EGC/issues/1381)
-- [feat(install): add Mistral Vibe as an install target](https://github.com/Fmarzochi/EGC/issues/1497)
-- [feat(install): add Kimi Code CLI (Moonshot) as an install target](https://github.com/Fmarzochi/EGC/issues/1492)
-- [feat(install): add Kilo Code CLI as an install target](https://github.com/Fmarzochi/EGC/issues/1496)
-- [feat(install): add MiMo Code (Xiaomi) as an install target](https://github.com/Fmarzochi/EGC/issues/1498)
-- [feat(install): add Pi as an install target](https://github.com/Fmarzochi/EGC/issues/1499)
-- [feat(install): add Plandex as an install target](https://github.com/Fmarzochi/EGC/issues/1501)
-- [feat(install): add Grok Build (xAI) as an install target](https://github.com/Fmarzochi/EGC/issues/1495)
-- [test(v1.1.22): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
-- [test(v1.1.22): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
-- [test(v1.1.22): first install on Linux, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1377)
-- [test(opencode-plugin): the prompt-timeout test shares its 150 ms budget with the bridge spawn and fails for the wrong reason on a cold windows-latest bun runner (main at 66cc67da)](https://github.com/Fmarzochi/EGC/issues/1448)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-
-## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-
-- [Page jumps away when trying to edit an anchor link if you only enter #](https://github.com/WordPress/gutenberg/issues/72505)
-- [Problem with updating widgets](https://github.com/WordPress/gutenberg/issues/69702)
-- [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
-- [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
-- [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
-- [Add linting rule to fail build if package A incorrectly depends on package B](https://github.com/WordPress/gutenberg/issues/11865)
-- [Restore the full search visibility in embed links](https://github.com/WordPress/gutenberg/issues/21343)
-- [Pasting direct image URL inserts Embed block instead of Image block](https://github.com/WordPress/gutenberg/issues/74734)
-- [The category set in Default Post Category is not selected in the display when posting a new post.](https://github.com/WordPress/gutenberg/issues/32651)
-- [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145)
-- [Cover block: empty block shows as black box on frontend](https://github.com/WordPress/gutenberg/issues/10854)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[Bug] Fix Meshery Docs Link Styling](https://github.com/meshery/meshery.io/issues/2907)
-
-## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io)
-
-- [Join Hacktoberfest and get paid with GitHub Sponsors](https://github.com/NextCommunity/NextCommunity.github.io/issues/613)
-- [ci: add actionlint to pre-commit checks](https://github.com/NextCommunity/NextCommunity.github.io/pull/615)
-- [use of HTML tags like inside a YAML](https://github.com/NextCommunity/NextCommunity.github.io/issues/403)
-- [Branding Discussion: Should we rename and rebrand this community ?](https://github.com/NextCommunity/NextCommunity.github.io/issues/342)
-- [Add the pull request labeler](https://github.com/NextCommunity/NextCommunity.github.io/issues/158)
-- [404 not found for `favicon.ico`](https://github.com/NextCommunity/NextCommunity.github.io/issues/134)
-- [Super Linter: [WARN] Failed to call GitHub API](https://github.com/NextCommunity/NextCommunity.github.io/issues/369)
-- [The `--repo` flag is redundant when running `gh pr create` ](https://github.com/NextCommunity/NextCommunity.github.io/issues/423)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-- [Redux-observable server side fetching](https://github.com/vercel/next.js/issues/15971)
-- [getInitialProps is not running when Router.replace's "href" and "as" contains hash and query params inside "href" change.](https://github.com/vercel/next.js/issues/10900)
-- [Scrolling happens when user returns to a page with hash using browser back button](https://github.com/vercel/next.js/issues/13653)
-- [Dynamic Routes in Symlinks is not working](https://github.com/vercel/next.js/issues/16660)
-- [Misleading "next-head-count is missing" error for invalid head tags](https://github.com/vercel/next.js/issues/20924)
-- [POST request succeeds for pages with next dev](https://github.com/vercel/next.js/issues/38863)
-- [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
-
-## [Abdulazeem-code/stellar-tags](https://github.com/Abdulazeem-code/stellar-tags)
-
-- [Refactor server.js monolith into modular service layer](https://github.com/Abdulazeem-code/stellar-tags/issues/586)
-
-## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
-
-- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
-- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
-- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
+- [Page titles, category names, and Site Goals totals show HTML entity codes in the plain text email report](https://github.com/google/site-kit-wp/issues/13537)
+- [The Site Kit G sits higher than its label in the WordPress menu on a phone](https://github.com/google/site-kit-wp/issues/13378)
+- [Follow-up: update remaining <p> tags to use the new Typography approach.](https://github.com/google/site-kit-wp/issues/13388)
 
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [amponce/archive-movie-browser](https://github.com/amponce/archive-movie-browser)
+## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
 
-- [Search box: a pasted details/... path should open what it points at](https://github.com/amponce/archive-movie-browser/issues/293)
-- [Tonight's film shows up again in the rows under it](https://github.com/amponce/archive-movie-browser/issues/241)
-- [The footer counts uploads and calls them films](https://github.com/amponce/archive-movie-browser/issues/240)
-- [MCP: a recommend_films tool ("a noir under 70 minutes")](https://github.com/amponce/archive-movie-browser/issues/114)
-- [The browser tab always says the same thing: set the page title from the film and filters](https://github.com/amponce/archive-movie-browser/issues/103)
-- [Share button on the film page](https://github.com/amponce/archive-movie-browser/issues/102)
-- [Design another poster composition (the keyhole was great, let's have more)](https://github.com/amponce/archive-movie-browser/issues/108)
+- [Security Agent Cell Pilot #1 — independently attack RT-AUTH-001](https://github.com/Zoverions/AXIOM-MESH/issues/1199)
+- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
+- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
 
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+## [Abdulazeem-code/stellar-tags](https://github.com/Abdulazeem-code/stellar-tags)
 
-- [Add Join button to events that have a virtual meeting link 15 minutes before the event](https://github.com/Hylozoic/hylo/issues/1586)
-- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
-- [Add user rsvp calendar sub link to Calendar ViewMode](https://github.com/Hylozoic/hylo/issues/1129)
-- [Off-page overflow in message thread](https://github.com/Hylozoic/hylo/issues/453)
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
-- [Layout: highlighted comment missing top margin/padding](https://github.com/Hylozoic/hylo/issues/660)
+- [Refactor server.js monolith into modular service layer](https://github.com/Abdulazeem-code/stellar-tags/issues/586)
 
-## [accensa/x402-facilitator-stellar](https://github.com/accensa/x402-facilitator-stellar)
+## [Soroban-Smart-Block-Explorer/Soroban-Smart-Block](https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block)
 
-- ['description_truncated' is reported to the caller as a dropped field](https://github.com/accensa/x402-facilitator-stellar/issues/219)
-- [handleRateLimit is called twice per request and its return value is discarded](https://github.com/accensa/x402-facilitator-stellar/issues/209)
-- [getResource is reachable from tests but from no route](https://github.com/accensa/x402-facilitator-stellar/issues/222)
-- [Nothing checks the links in docs/, and PRIVACY.md already hardcodes three issue URLs](https://github.com/accensa/x402-facilitator-stellar/issues/214)
-- [Description truncation can split a surrogate pair and emit invalid UTF-16](https://github.com/accensa/x402-facilitator-stellar/issues/218)
+- [docs(agents): AGENTS.md is out of date (routes/ layout, test commands)](https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block/issues/985)
+- [chore(indexer): remove or wire up orphaned source files](https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block/issues/976)
 
-## [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
+## [tutors-sdk/tutors-mono-repo](https://github.com/tutors-sdk/tutors-mono-repo)
 
-- [Add a structured bug-report issue form](https://github.com/conorbronsdon/avoid-ai-writing/issues/188)
-- [Add literal-sense carve-outs for "in the evolution of" and "a ... step towards"](https://github.com/conorbronsdon/avoid-ai-writing/issues/212)
-- [Stamp and validate a version in the six sub-skill frontmatters](https://github.com/conorbronsdon/avoid-ai-writing/issues/246)
-- [CHANGELOG.md sits at 35 of its 40-point self-scan budget because of three unquoted vocabulary lists](https://github.com/conorbronsdon/avoid-ai-writing/issues/258)
-- [Return a consistent result shape for unscored labels and reject non-string input clearly](https://github.com/conorbronsdon/avoid-ai-writing/issues/234)
-- [Test on Node 18 and a current LTS in the detector workflow](https://github.com/conorbronsdon/avoid-ai-writing/issues/232)
-- [Check the package.json version in sync-plugin-skill.sh and drop its unused variable](https://github.com/conorbronsdon/avoid-ai-writing/issues/230)
-- [Add development-setup and release-checklist sections to CONTRIBUTING.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/227)
-- [Add an issue-template config.yml and refresh the stale version placeholder](https://github.com/conorbronsdon/avoid-ai-writing/issues/222)
-- [Add a check-style round-trip test for examples/prose.json](https://github.com/conorbronsdon/avoid-ai-writing/issues/221)
-- [Document the severity-to-P-tier mapping, including the undocumented P3](https://github.com/conorbronsdon/avoid-ai-writing/issues/220)
-- [State size limits for the paste-install targets in the README](https://github.com/conorbronsdon/avoid-ai-writing/issues/219)
-- [Finish the marks-pass rewrite in the generated Cursor and paste artifacts](https://github.com/conorbronsdon/avoid-ai-writing/issues/218)
-- [List the three unmapped catalog rules in CATEGORIES.md](https://github.com/conorbronsdon/avoid-ai-writing/issues/217)
-- [Align the Tier 3 density rule in patterns.md with the per-word engine threshold](https://github.com/conorbronsdon/avoid-ai-writing/issues/216)
-- [Give every word-table row a concrete alternative](https://github.com/conorbronsdon/avoid-ai-writing/issues/215)
-- [Add fixture pairs for six untested phrase-level detector types](https://github.com/conorbronsdon/avoid-ai-writing/issues/213)
-- [Narrow false-concession so ordinary concessive openers stay clean](https://github.com/conorbronsdon/avoid-ai-writing/issues/211)
+- [chore(infra): add root .prettierrc and .editorconfig](https://github.com/tutors-sdk/tutors-mono-repo/issues/212)
+- [i18n: Irish (ga) locale is missing 23 lecturer-panel keys](https://github.com/tutors-sdk/tutors-mono-repo/issues/237)
+- [themes: ship a single styles/index.css so apps import one file](https://github.com/tutors-sdk/tutors-mono-repo/issues/246)
+- [themes: add a high-contrast theme](https://github.com/tutors-sdk/tutors-mono-repo/issues/241)
+- [i18n: add a unit test that every locale has every key in en.ts](https://github.com/tutors-sdk/tutors-mono-repo/issues/239)
+- [docs: record your first hour with this repo](https://github.com/tutors-sdk/tutors-mono-repo/issues/245)
+- [docs: rewrite the stale apps/reader/README.md](https://github.com/tutors-sdk/tutors-mono-repo/issues/244)
+- [a11y: make pnpm test:a11y self-contained by adding a webServer block](https://github.com/tutors-sdk/tutors-mono-repo/issues/243)
+- [ui-primitives: replace the placeholder tests with a real render test for Image and Icon](https://github.com/tutors-sdk/tutors-mono-repo/issues/242)
+- [i18n: add a new locale (Portuguese, Polish, Ukrainian, or your language)](https://github.com/tutors-sdk/tutors-mono-repo/issues/240)
 
-## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+## [ProjectEvergreen/greenwood](https://github.com/ProjectEvergreen/greenwood)
 
-- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/164)
-- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/163)
-- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/162)
-- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/161)
-- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/160)
-- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/159)
-- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/158)
-- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/155)
-- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/156)
-- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/154)
-- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/140)
-- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/138)
-- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
-- [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
+- [windows builds fail very intermittently on various issues](https://github.com/ProjectEvergreen/greenwood/issues/1585)
+- [update Greenwood to address all (as many) TypeScript no check comments](https://github.com/ProjectEvergreen/greenwood/issues/1427)
+- [`init` scaffolding should prompt for installing Greenwood plugins](https://github.com/ProjectEvergreen/greenwood/issues/1270)
+
+## [kiril6/vibeaudio](https://github.com/kiril6/vibeaudio)
+
+- [Does VibeAudio actually make sound on Linux? Nobody has checked](https://github.com/kiril6/vibeaudio/issues/6)
+- [Add a new music genre](https://github.com/kiril6/vibeaudio/issues/5)
 
 ## [mimir-stellar/telegram-bot](https://github.com/mimir-stellar/telegram-bot)
 
-- [feat(bot): add a plain-text notification fallback](https://github.com/mimir-stellar/telegram-bot/issues/87)
-- [feat(stellar): shorten addresses without losing checksum context](https://github.com/mimir-stellar/telegram-bot/issues/44)
 - [feat(bot): generate help from registered commands](https://github.com/mimir-stellar/telegram-bot/issues/74)
 - [feat(bot): report status command latency](https://github.com/mimir-stellar/telegram-bot/issues/66)
+- [feat(bot): add a plain-text notification fallback](https://github.com/mimir-stellar/telegram-bot/issues/87)
+- [feat(stellar): shorten addresses without losing checksum context](https://github.com/mimir-stellar/telegram-bot/issues/44)
 - [test(devx): test named-network configuration](https://github.com/mimir-stellar/telegram-bot/issues/144)
 - [chore(ops): add a container healthcheck](https://github.com/mimir-stellar/telegram-bot/issues/104)
-- [feat(poller): count and report skipped notifications](https://github.com/mimir-stellar/telegram-bot/issues/20)
 - [chore(ops): publish deployment metrics definitions](https://github.com/mimir-stellar/telegram-bot/issues/119)
 - [test(devx): add issue and pull-request templates](https://github.com/mimir-stellar/telegram-bot/issues/139)
 - [feat(stellar): preserve unknown events for audit logs](https://github.com/mimir-stellar/telegram-bot/issues/35)
@@ -275,7 +218,6 @@ This list gets updated every day at midnight.
 - [test(devx): test the event replay CLI](https://github.com/mimir-stellar/telegram-bot/issues/129)
 - [feat(poller): retry startup health checks with a deadline](https://github.com/mimir-stellar/telegram-bot/issues/18)
 - [feat(stellar): show scanner progress without corrupting JSON output](https://github.com/mimir-stellar/telegram-bot/issues/56)
-- [feat(poller): show chain clock skew in status](https://github.com/mimir-stellar/telegram-bot/issues/24)
 - [feat(poller): add a dry-run poller mode](https://github.com/mimir-stellar/telegram-bot/issues/22)
 - [chore(ops): generate a configuration reference](https://github.com/mimir-stellar/telegram-bot/issues/111)
 - [feat(poller): inject a fake clock into the poller](https://github.com/mimir-stellar/telegram-bot/issues/32)
@@ -284,17 +226,86 @@ This list gets updated every day at midnight.
 - [test(devx): snapshot every notification template](https://github.com/mimir-stellar/telegram-bot/issues/123)
 - [test(devx): add lint and formatting checks to CI](https://github.com/mimir-stellar/telegram-bot/issues/132)
 - [test(devx): add a changelog workflow](https://github.com/mimir-stellar/telegram-bot/issues/136)
-- [chore(ops): expose a machine-readable status snapshot](https://github.com/mimir-stellar/telegram-bot/issues/98)
 - [feat(poller): expose empty-page telemetry](https://github.com/mimir-stellar/telegram-bot/issues/15)
-- [feat(stellar): add fixtures from verified live events](https://github.com/mimir-stellar/telegram-bot/issues/54)
 - [chore(ops): sample repetitive RPC errors](https://github.com/mimir-stellar/telegram-bot/issues/115)
 - [feat(stellar): add CSV output to the standalone scanner](https://github.com/mimir-stellar/telegram-bot/issues/55)
 - [feat(stellar): cache the latest ledger within a poll cycle](https://github.com/mimir-stellar/telegram-bot/issues/39)
-- [chore(ops): define Railway persistent-volume settings](https://github.com/mimir-stellar/telegram-bot/issues/106)
 - [feat(stellar): add RPC request timing metrics](https://github.com/mimir-stellar/telegram-bot/issues/58)
 - [feat(poller): keep an atomic cursor backup](https://github.com/mimir-stellar/telegram-bot/issues/6)
 - [test(devx): add a seeded local cursor command](https://github.com/mimir-stellar/telegram-bot/issues/133)
 - [test(devx): add unit tests for configuration collection](https://github.com/mimir-stellar/telegram-bot/issues/120)
 - [test(devx): publish coverage thresholds](https://github.com/mimir-stellar/telegram-bot/issues/131)
 - [test(devx): add a smoke test for clean checkout setup](https://github.com/mimir-stellar/telegram-bot/issues/150)
+
+## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/158)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/166)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/167)
+- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/164)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/163)
+- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/162)
+- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/161)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/160)
+- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/159)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/154)
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/140)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/138)
+- [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
+- [[2–5 min] Define prompt injection for beginners](https://github.com/Berserk-hub150/skillhawk/issues/15)
+
+## [maathimself/mailflow](https://github.com/maathimself/mailflow)
+
+- [Automatically BCC an email address when composing](https://github.com/maathimself/mailflow/issues/491)
+- [Show default mail folders in root, rather than use the structure from server.](https://github.com/maathimself/mailflow/issues/427)
+- [Feature Request: Mailbox Seapration in UI (Colors/Icons)](https://github.com/maathimself/mailflow/issues/376)
+
+## [processing/p5.js](https://github.com/processing/p5.js)
+
+- [A false positive FES error on function "loadModel"](https://github.com/processing/p5.js/issues/9176)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+
+## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
+
+- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
+- [Foam Foundation github pages landing page url redirect](https://github.com/foam-foundation/foam3/issues/5540)
+- [U2: ( enhancement ) copyable icon should be configurable](https://github.com/foam-foundation/foam3/issues/5421)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [application/octet-stream .ics attachment not detected as event](https://github.com/nextcloud/mail/issues/13688)
+- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
+- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+
+## [accensa/x402-facilitator-stellar](https://github.com/accensa/x402-facilitator-stellar)
+
+- [Description truncation can split a surrogate pair and emit invalid UTF-16](https://github.com/accensa/x402-facilitator-stellar/issues/218)
+- ['description_truncated' is reported to the caller as a dropped field](https://github.com/accensa/x402-facilitator-stellar/issues/219)
+- [getResource is reachable from tests but from no route](https://github.com/accensa/x402-facilitator-stellar/issues/222)
+- [Nothing checks the links in docs/, and PRIVACY.md already hardcodes three issue URLs](https://github.com/accensa/x402-facilitator-stellar/issues/214)
+
+## [fastify/fastify](https://github.com/fastify/fastify)
+
+- [Categorize Fastify Plugins](https://github.com/fastify/fastify/issues/3618)
+- [ApplicationHooks have inconsistent reference to instance](https://github.com/fastify/fastify/issues/4967)
+- [Option to align route params with schema at startup](https://github.com/fastify/fastify/issues/5215)
+
+## [404-PF/commit-echo](https://github.com/404-PF/commit-echo)
+
+- [[Bug] Global --no-color flag is a no-op for all commands](https://github.com/404-PF/commit-echo/issues/263)
+- [[Security] `init` persists env-var API keys into config.json despite prompting "leave blank to use $ENV"](https://github.com/404-PF/commit-echo/issues/281)
+- [[Maintainability] `config set` subcommand is missing from all generated shell completions](https://github.com/404-PF/commit-echo/issues/279)
+- [[Maintainability] Dead submodule-detection branch in `getUntrackedDiff` never executes](https://github.com/404-PF/commit-echo/issues/275)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
+- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/11247)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/14759)
+
+## [oss-slu/material-derailleur](https://github.com/oss-slu/material-derailleur)
+
+- [New Donation Form Multiple Items](https://github.com/oss-slu/material-derailleur/issues/413)
 
