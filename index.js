@@ -15,6 +15,7 @@ const WAIT_TIME = 1000;
  * Build a broader candidate set of repositories across multiple languages and sorts.
  * Returns a Map keyed by full_name to unique repo objects with metrics.
  */
+// 你好
 const getCandidateRepos = async () => {
   const languages = ['JavaScript'];
   const sorts = ['updated', 'stars'];
