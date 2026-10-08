@@ -6,34 +6,190 @@ This list gets updated every day at midnight.
 
 ## [Uuriko/project-room](https://github.com/Uuriko/project-room)
 
-- [[good-first] scripts/room claim --lane accepts values the parser can't read (not fail-closed)](https://github.com/Uuriko/project-room/issues/842)
-- [[good-first] Docs-only: ROOM-PROTOCOL.md never states the lane-tag charset](https://github.com/Uuriko/project-room/issues/850)
 - [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
 - [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
-- [[instinct-comms] Member-map lookups should use own-property checks (hardening, low)](https://github.com/Uuriko/project-room/issues/1004)
 - [Agents start here — join the live room in 5 minutes](https://github.com/Uuriko/project-room/issues/863)
-- [[good-first] lease: 6h rejected with an error that doesn't say the fix](https://github.com/Uuriko/project-room/issues/843)
-- [[good-first] prose/malformed board comments vanish — no log entry at all](https://github.com/Uuriko/project-room/issues/844)
-- [[good-first] Lane tags with spaces parse as prose — claim silently never registers](https://github.com/Uuriko/project-room/issues/841)
-- [[good-first] Dead links to removed AGENT-CONNECTION.md, AGENT-HOSTS.md and AGENT-WRITE-GUIDE.md in dated docs](https://github.com/Uuriko/project-room/issues/914)
+
+## [Deepak3699/Ai_Mentor](https://github.com/Deepak3699/Ai_Mentor)
+
+- [No rate limiting on POST /generate](https://github.com/Deepak3699/Ai_Mentor/issues/47)
+- [[Feature] Add DELETE /jobs/{job_id} endpoint to cancel running job](https://github.com/Deepak3699/Ai_Mentor/issues/104)
+- [[UI] Right Sidebar - Quick Actions List](https://github.com/Deepak3699/Ai_Mentor/issues/179)
+- [[FEAT] AI Video Player UI & Multi-Stage Generation Progress Indicator](https://github.com/Deepak3699/Ai_Mentor/issues/136)
+- [[FEAT] Enhanced Gemini Prompt Templates & Educational Script Quality Control](https://github.com/Deepak3699/Ai_Mentor/issues/138)
+- [Two separate registration routes exist — which one should we use?](https://github.com/Deepak3699/Ai_Mentor/issues/8)
+- [Hardcoded localhost API URL in Report Submission breaks in production](https://github.com/Deepak3699/Ai_Mentor/issues/26)
+- [Onboarding setup modal does not redirect to dashboard upon clicking "Finish"](https://github.com/Deepak3699/Ai_Mentor/issues/9)
+
+## [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub)
+
+- [[good first issue] Does Fireworks AI's free tier allow production use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/11)
+- [[good first issue] Does HuggingFace Inference Providers ask for a phone? Confirm phone_required](https://github.com/pacocartones/free-llm-api-hub/issues/12)
+
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+- [Add JSDoc to the 9 undocumented private helpers](https://github.com/Jason-Vaughan/TangleClaw/issues/1066)
+
+## [Janani-bn/CivicFix](https://github.com/Janani-bn/CivicFix)
+
+- [Don't show a made-up admin reply when comments fail to load](https://github.com/Janani-bn/CivicFix/issues/72)
+- [Security - Unauthenticated Admin & Status Update Routes](https://github.com/Janani-bn/CivicFix/issues/25)
+- [Run frontend lint and build on pull requests](https://github.com/Janani-bn/CivicFix/issues/58)
+- [Backend runtime crash: unsupported math functions (radians, acos) in SQLite](https://github.com/Janani-bn/CivicFix/issues/31)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+
+## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
+
+- [feat(install): add Mistral Vibe as an install target](https://github.com/Fmarzochi/EGC/issues/1497)
+- [feat(install): add Letta Code as an install target](https://github.com/Fmarzochi/EGC/issues/1500)
+- [OpenHands: the spec should mention global hooks in ~/.openhands/hooks.json](https://github.com/Fmarzochi/EGC/issues/1656)
+- [Guardian build: clean orphan outputs](https://github.com/Fmarzochi/EGC/issues/1664)
+- [Release workflow: replace the deprecated actions/attest-sbom](https://github.com/Fmarzochi/EGC/issues/1661)
+- [egc gain --history: show local time or label it UTC](https://github.com/Fmarzochi/EGC/issues/1659)
+- [install.ps1: remove the unused Register-McpJson function](https://github.com/Fmarzochi/EGC/issues/1658)
+- [Spec: protocol version 9, and Qwen Code has hooks](https://github.com/Fmarzochi/EGC/issues/1657)
+- [Zed: install skills in ~/.agents/skills and .agents/skills](https://github.com/Fmarzochi/EGC/issues/1654)
+- [feat(install): add Plandex as an install target](https://github.com/Fmarzochi/EGC/issues/1501)
+- [feat(install): add Pi as an install target](https://github.com/Fmarzochi/EGC/issues/1499)
+- [feat(install): add MiMo Code (Xiaomi) as an install target](https://github.com/Fmarzochi/EGC/issues/1498)
+- [feat(install): add Kilo Code CLI as an install target](https://github.com/Fmarzochi/EGC/issues/1496)
+- [feat(install): add Grok Build (xAI) as an install target](https://github.com/Fmarzochi/EGC/issues/1495)
+- [test(v1.1.22): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
+- [test(v1.1.22): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
+
+## [amponce/archive-movie-browser](https://github.com/amponce/archive-movie-browser)
+
+- [Easy pickings: small fixes from the September site check](https://github.com/amponce/archive-movie-browser/issues/342)
+- [README catch-up: feeds table, project map, and a broken link](https://github.com/amponce/archive-movie-browser/issues/340)
+- [Screen readers hear "Previewing channel 1…" every minute on the front page](https://github.com/amponce/archive-movie-browser/issues/335)
+- [Some pages scroll sideways on small phones](https://github.com/amponce/archive-movie-browser/issues/331)
+- [Search box: a pasted details/... path should open what it points at](https://github.com/amponce/archive-movie-browser/issues/293)
+- [MCP: a recommend_films tool ("a noir under 70 minutes")](https://github.com/amponce/archive-movie-browser/issues/114)
+- [Design another poster composition (the keyhole was great, let's have more)](https://github.com/amponce/archive-movie-browser/issues/108)
+
+## [Indicaza/holdfast](https://github.com/Indicaza/holdfast)
+
+- [[Good first issue] Add a friendly local persona chooser for development](https://github.com/Indicaza/holdfast/issues/135)
+- [[Good first issue] Add an internal Markdown link checker to CI](https://github.com/Indicaza/holdfast/issues/134)
+- [[Good first issue] Add sanitized product screenshots to the README](https://github.com/Indicaza/holdfast/issues/133)
+
+## [chocolajs/chocola](https://github.com/chocolajs/chocola)
+
+- [Make components imports required](https://github.com/chocolajs/chocola/issues/195)
+- [Scoped styles bleed into nested components](https://github.com/chocolajs/chocola/issues/194)
+- [Can't select the root element using its tag](https://github.com/chocolajs/chocola/issues/193)
+
+## [KarchinLab/open-cravat](https://github.com/KarchinLab/open-cravat)
+
+- [Add optional metadata field validation for modules](https://github.com/KarchinLab/open-cravat/issues/370)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956)
+- [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017)
+- [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979)
+- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036)
+- [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991)
+
+## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
+
+- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
+- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
+- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807)
+- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
+- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+
+## [anoni-net/docs](https://github.com/anoni-net/docs)
+
+- [新讀者走讀回報，照著一篇文章實際操作](https://github.com/anoni-net/docs/issues/609)
+- [content(style): 全站動補結構的口語寫法待逐批處理，扣掉 #480 之後還有 2419 處](https://github.com/anoni-net/docs/issues/482)
+- [撰寫 tools/what-is-ipfs.md（IPFS 入門與如何用 IPFS 瀏覽 anoni.net）](https://github.com/anoni-net/docs/issues/71)
+- [文件站補示意圖：優先頁面清單](https://github.com/anoni-net/docs/issues/372)
+- [翻譯 + 在地脈絡：OpenArchive 如何協助記錄者保全證據（Tor Project blog 2026-05-18）](https://github.com/anoni-net/docs/issues/60)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [[Website] Extensions: Use the Meshery logo for the Meshery Academy entry](https://github.com/meshery/meshery.io/issues/3053)
+- [Site: Ensure a maximum size is enforced for all adopter logos](https://github.com/meshery/meshery.io/issues/3051)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+
+## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+- [Dark mode: Toggle not visible](https://github.com/ToolJet/ToolJet/issues/18146)
+- [Icon colour on disabled buttons is incorrect](https://github.com/ToolJet/ToolJet/issues/18151)
+- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
+- [OpenAI logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18153)
+- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
+- [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145)
+- [Glitch: Tabs are moving on hover](https://github.com/ToolJet/ToolJet/issues/18149)
+- [Anthropic logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18152)
+- [Add support for Amazon DocumentDb](https://github.com/ToolJet/ToolJet/issues/8370)
+- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
+
+## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
+
+- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
+- [Foam Foundation github pages landing page url redirect](https://github.com/foam-foundation/foam3/issues/5540)
+
+## [eyal-weiss/wonderlattice](https://github.com/eyal-weiss/wonderlattice)
+
+- [Room idea: The shape hiding inside randomness (a Galton board)](https://github.com/eyal-weiss/wonderlattice/issues/6)
+- [Room idea: The punishment illusion (regression to the mean)](https://github.com/eyal-weiss/wonderlattice/issues/83)
+- [Room idea: The ruler on its edge (why beams are I-shaped)](https://github.com/eyal-weiss/wonderlattice/issues/62)
+- [Room idea: Random jumps, perfect triangle (the chaos game)](https://github.com/eyal-weiss/wonderlattice/issues/94)
+- [Room idea: Needles that know π (Buffon's needle)](https://github.com/eyal-weiss/wonderlattice/issues/75)
+- [Room idea: Fold a dragon (the paper-folding curve)](https://github.com/eyal-weiss/wonderlattice/issues/92)
+- [Room idea: Rhythms from Euclid (evenly spread beats)](https://github.com/eyal-weiss/wonderlattice/issues/90)
+- [Room idea: The sunflower's secret angle (the golden angle)](https://github.com/eyal-weiss/wonderlattice/issues/93)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [Pin how CountryFlags turns a location into a flag](https://github.com/neomjs/neo/issues/19177)
+- [Pin how IdGenerator names every instance](https://github.com/neomjs/neo/issues/19176)
+- [Pin how the RPC API manager resolves each call's type and URL](https://github.com/neomjs/neo/issues/19175)
+- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
+- [Pin when the toast manager refuses a toast](https://github.com/neomjs/neo/issues/19147)
+- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+- [Pin the number field's spin-button trigger](https://github.com/neomjs/neo/issues/19144)
+- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
+- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
+- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
+- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
+- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
 
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
 - [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
+- [CORS configured with no origin restrictions — allows any domain](https://github.com/SecureBananaLabs/bug-bounty/issues/1774)
 - [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
 - [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
 - [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
-- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
 - [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
 - [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
-- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
 - [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
 - [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
 - [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
 - [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
 - [auth refresh endpoint issues tokens without verifying the requester](https://github.com/SecureBananaLabs/bug-bounty/issues/2847)
 - [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
-- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
 - [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
 - [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
 - [CORS configured without origin allowlist in app.js (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2782)
@@ -44,22 +200,48 @@ This list gets updated every day at midnight.
 - [POST /api/users endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2779)
 - [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
 
-## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+## [nextcloud/forms](https://github.com/nextcloud/forms)
 
-- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
-- [Add JSDoc to the 9 undocumented private helpers](https://github.com/Jason-Vaughan/TangleClaw/issues/1066)
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
 
-## [Posnic/POS](https://github.com/Posnic/POS)
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
 
-- [osCommerce connector: add CSV order import fixture](https://github.com/Posnic/POS/issues/94)
-- [osCommerce connector: add manual CSV order handoff smoke test](https://github.com/Posnic/POS/issues/314)
-- [Squarespace Commerce connector: add CSV import fallback fixture](https://github.com/Posnic/POS/issues/425)
-- [Ecwid connector: add order status mapping fixture](https://github.com/Posnic/POS/issues/424)
-- [Mailchimp connector: research customer sync boundary](https://github.com/Posnic/POS/issues/436)
-- [Correct inaccurate AlternativeTo product identity](https://github.com/Posnic/POS/issues/14)
+- [Add Join button to events that have a virtual meeting link 15 minutes before the event](https://github.com/Hylozoic/hylo/issues/1586)
+- [New SPARKLE for Tracks button](https://github.com/Hylozoic/hylo/issues/868)
+- [Add user rsvp calendar sub link to Calendar ViewMode](https://github.com/Hylozoic/hylo/issues/1129)
+- [Off-page overflow in message thread](https://github.com/Hylozoic/hylo/issues/453)
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
+
+## [oss-slu/material-derailleur](https://github.com/oss-slu/material-derailleur)
+
+- [New Donation Form Multiple Items](https://github.com/oss-slu/material-derailleur/issues/413)
+
+## [HeroForgeAI/vault-mirror](https://github.com/HeroForgeAI/vault-mirror)
+
+- [duration(3599.5) prints "59 min 60 s"](https://github.com/HeroForgeAI/vault-mirror/issues/21)
+- [Docs: say that a search returns at most 50 notes](https://github.com/HeroForgeAI/vault-mirror/issues/15)
+- [Docs: two settings are missing from the settings page](https://github.com/HeroForgeAI/vault-mirror/issues/12)
+
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
+
+- [parseDate() is copied in three scripts and replicated in a test: move it to one lib module](https://github.com/career-ops-hq/career-ops/issues/4785)
+- [docs: name path-resolver.mjs as the module scripts use to resolve the data root and tracker path](https://github.com/career-ops-hq/career-ops/issues/4783)
+- [contact-extract and reply-watch: reuse parseFollowups() instead of two private copies](https://github.com/career-ops-hq/career-ops/issues/4784)
+- [fix(cli): validate-portals.mjs has no --help and silently ignores mistyped flags: delegate to lib/cli-flags.mjs](https://github.com/career-ops-hq/career-ops/issues/4601)
+- [i18n: translate the interview modes (plan/practice/debrief) to Polish](https://github.com/career-ops-hq/career-ops/issues/3291)
+- [fix(cli): tracker.mjs delete runs for real when --dry-run is mistyped: validate each subcommand's flags](https://github.com/career-ops-hq/career-ops/issues/4602)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
+- [Blocks: Full Screen alignment/display option on several blocks](https://github.com/WordPress/gutenberg/issues/16385)
 - [@wordpress/eslint-plugin dependencies on other eslint plugins should be peer dependencies](https://github.com/WordPress/gutenberg/issues/39810)
 - [NumberControl: Disable dragging on touch devices](https://github.com/WordPress/gutenberg/issues/38865)
 - [Page jumps away when trying to edit an anchor link if you only enter #](https://github.com/WordPress/gutenberg/issues/72505)
@@ -68,149 +250,6 @@ This list gets updated every day at midnight.
 - [Original PRs may not be tagged properly when a manual cherry-pick is performed.](https://github.com/WordPress/gutenberg/issues/76579)
 - [Insert image using url for cover](https://github.com/WordPress/gutenberg/issues/10853)
 - [Add linting rule to fail build if package A incorrectly depends on package B](https://github.com/WordPress/gutenberg/issues/11865)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [generic-worker/posix: task exception when caches dir is on a different mount point from tasks dir](https://github.com/taskcluster/taskcluster/issues/7580)
-
-## [Indicaza/holdfast](https://github.com/Indicaza/holdfast)
-
-- [[Good first issue] Add a friendly local persona chooser for development](https://github.com/Indicaza/holdfast/issues/135)
-- [[Good first issue] Add an internal Markdown link checker to CI](https://github.com/Indicaza/holdfast/issues/134)
-- [[Good first issue] Add sanitized product screenshots to the README](https://github.com/Indicaza/holdfast/issues/133)
-
-## [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo)
-
-- [Do not show EFI boot partition in serverinfo#status](https://github.com/nextcloud/serverinfo/issues/1165)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807)
-- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
-- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Site: Ensure a maximum size is enforced for all adopter logos](https://github.com/meshery/meshery.io/issues/3051)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-
-## [Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026)
-
-- [Add a clear-completed button](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/5)
-- [Add a clear all expenses button](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/9)
-- [Add an empty-state message when there are no notes](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/7)
-
-## [hackforla/website](https://github.com/hackforla/website)
-
-- [Resolve "Potentially unsafe external link" for LA Incubator in `_includes/about-page/about-card-sponsors.html`](https://github.com/hackforla/website/issues/8823)
-- [Resolve "Potentially unsafe external link" for Sip & Sonder in `_includes/about-page/about-card-sponsors.html`](https://github.com/hackforla/website/issues/8825)
-- [Resolve "Potentially unsafe external link" for Carbon Five in `_includes/about-page/about-card-sponsors.html`](https://github.com/hackforla/website/issues/8824)
-- [Epic: Create issues to resolve CodeQL alerts 1- 24, 98 "Potentially unsafe external link"](https://github.com/hackforla/website/issues/5129)
-- [Update Project Profile: TDM Calculator (Update Project's Description)](https://github.com/hackforla/website/issues/8821)
-- [Skills Issue: Developer: Juan Yepez](https://github.com/hackforla/website/issues/8717)
-- [Remove Amen Divine Ikamba from Hackforla.org Website leadership](https://github.com/hackforla/website/pull/8799)
-- [Update Project Profile: Hackforla.org Website Remove Amen Divine Ikamba](https://github.com/hackforla/website/issues/8769)
-- [Update docker-compose.yml: Remove top-level version element](https://github.com/hackforla/website/issues/8555)
-- [Add github-handle for Isabelle Wagenvoord in public-tree-map.md](https://github.com/hackforla/website/issues/7794)
-- [Create issues to populate 'github-handle' variables in TDM Calculator](https://github.com/hackforla/website/issues/8807)
-- [Update Project Profile: HackforLA Website](https://github.com/hackforla/website/issues/8806)
-- [Review Needed - New Wins Form Submission](https://github.com/hackforla/website/issues/8798)
-- [Update Project Profile: Hackforla.org Website Add Sushma Ramachandra Hegde](https://github.com/hackforla/website/issues/8791)
-- [Update Project Profile: Food Oasis Remove Qiqi Zheng](https://github.com/hackforla/website/issues/8689)
-- [Update Project Profile: Food Oasis Remove  Krista Strucke](https://github.com/hackforla/website/issues/8688)
-- [Update Project Profile: Food Oasis Remove Belen Garcia Martinez](https://github.com/hackforla/website/issues/8687)
-- [Update Project Profile: Food Oasis Remove Andy Arensman](https://github.com/hackforla/website/issues/8686)
-- [Update Project Profile: Food Oasis Add Jaclyn Chin](https://github.com/hackforla/website/issues/8685)
-- [Update Project Profile: Food Oasis Add Zainab Adenaike](https://github.com/hackforla/website/issues/8684)
-- [Update Project Profile: Food Oasis Add Christina Nguyen](https://github.com/hackforla/website/issues/8683)
-- [Update Project Profile: Food Oasis Add Alexa Ray](https://github.com/hackforla/website/issues/8681)
-- [Update Project Profile: Food Oasis Add Ling Dong](https://github.com/hackforla/website/issues/8679)
-- [Update Project Profile: Food Oasis Add Whitney Gould](https://github.com/hackforla/website/issues/8678)
-- [Update Project Profile: Food Oasis Add Shienny Sutanto](https://github.com/hackforla/website/issues/8676)
-- [Update Project Profile: Food Oasis Add Jelena Karanovic](https://github.com/hackforla/website/issues/8675)
-- [Update Project Profile: Food Oasis Add Bonnie Wolfe](https://github.com/hackforla/website/issues/8674)
-- [Update Project Profile: Hackforla.org Website Add Jose Santiago](https://github.com/hackforla/website/issues/8760)
-- [Update Project Profile: Hackforla.org Website Remove Will Gillis](https://github.com/hackforla/website/issues/8774)
-- [Update Project Profile: Hack for LA Site Remove Gilbert Quionnez](https://github.com/hackforla/website/issues/8759)
-- [Update Project Profile: Hackforla.org Website Remove Xavier Neal-Carson](https://github.com/hackforla/website/issues/8773)
-- [Update Project Profile: Hackforla.org Website Remove Kerstin Carson](https://github.com/hackforla/website/issues/8772)
-- [Update Project Profile: Hackforla.org Website Remove Santiago Vidal](https://github.com/hackforla/website/issues/8771)
-
-## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
-
-- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
-- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
-- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
-
-## [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-- [OpenAI logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18153)
-- [Icon colour on disabled buttons is incorrect](https://github.com/ToolJet/ToolJet/issues/18151)
-- [Community template: Unix time format converter](https://github.com/ToolJet/ToolJet/issues/11044)
-- [[docs]: macOS contributor setup fails because postgresql@13 is disabled in Homebrew](https://github.com/ToolJet/ToolJet/issues/17330)
-- [Dark mode: Toggle not visible](https://github.com/ToolJet/ToolJet/issues/18146)
-- [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145)
-- [Glitch: Tabs are moving on hover](https://github.com/ToolJet/ToolJet/issues/18149)
-- [Anthropic logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18152)
-- [Add support for Amazon DocumentDb](https://github.com/ToolJet/ToolJet/issues/8370)
-- [Community template: Gym Membership Management System](https://github.com/ToolJet/ToolJet/issues/10912)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
-
-## [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain)
-
-- [in assistive model add fal.ai for generative media feature](https://github.com/webbrain-one/webbrain/issues/3077)
-- [improve suggested actions](https://github.com/webbrain-one/webbrain/issues/335)
-
-## [myselfsiddharth/Flecto](https://github.com/myselfsiddharth/Flecto)
-
-- [Warn when the baseline resolves to an empty document, so it is distinguishable from "nothing changed"](https://github.com/myselfsiddharth/Flecto/issues/219)
-- [Exclude Google Place IDs and IPFS CIDv0 from the entropy secret detector](https://github.com/myselfsiddharth/Flecto/issues/218)
-
-## [nextcloud/deck](https://github.com/nextcloud/deck)
-
-- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
-
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
-
-- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
-- [Contact Groups edit field: horizontal scrollbar covers the contact group(s)](https://github.com/nextcloud/contacts/issues/5658)
-
-## [Techtonica/curriculum](https://github.com/Techtonica/curriculum)
-
-- [Create topic outline with interactive walkthrough and visuals for Bellman-Ford Algorithm](https://github.com/Techtonica/curriculum/issues/2257)
-- [Create topic outline with interactive walkthrough and visuals for Floyd-Warshall Algorithm](https://github.com/Techtonica/curriculum/issues/2258)
-- [Create topic outline with interactive walkthrough and visuals for Heavy & Light Decomposition](https://github.com/Techtonica/curriculum/issues/2261)
-- [Create topic outline with interactive walkthrough and visuals for Strongly Connected Components](https://github.com/Techtonica/curriculum/issues/2271)
-- [Create topic outline with interactive walkthrough and visuals for Ford-Fulkerson Algorithm](https://github.com/Techtonica/curriculum/issues/2260)
-- [Create topic outline with interactive walkthrough and visuals for NP Completeness](https://github.com/Techtonica/curriculum/issues/2272)
-- [Update documentation for outdated topic outlines](https://github.com/Techtonica/curriculum/issues/2374)
-- [Create topic outline with interactive walkthrough and visuals for Maximum number of non-overlapping intervals on an axis](https://github.com/Techtonica/curriculum/issues/2251)
-- [Create topic outline with interactive walkthrough and visuals for Bitmasking or Subset DP](https://github.com/Techtonica/curriculum/issues/2256)
-- [Create topic outline with interactive walkthrough and visuals for Disjoint Set Union or Union-Find](https://github.com/Techtonica/curriculum/issues/2255)
-- [Create topic outline with interactive walkthrough and visuals for Edmonds-Karp Algorithm](https://github.com/Techtonica/curriculum/issues/2259)
-
-## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
-
-- ["The Loop" at Cal Poly](https://github.com/davgross/homeless-in-slo-resource-guide/issues/335)
-- [Get details on 40 Prado locker situation](https://github.com/davgross/homeless-in-slo-resource-guide/issues/40)
-- [Add info on new scholarship stuff](https://github.com/davgross/homeless-in-slo-resource-guide/issues/428)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15944)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15927)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15831)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
 
 ## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
@@ -228,87 +267,39 @@ This list gets updated every day at midnight.
 - [Migrate OCC to InvitationList](https://github.com/nextcloud/spreed/issues/14571)
 - [Guests in voice-rooms do not see "Leave call" button](https://github.com/nextcloud/spreed/issues/18844)
 
-## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
-
-- [[DevEx]: Migrate six small components to script setup (one type error each)](https://github.com/cuttle-cards/cuttle/issues/1412)
-- [[DevEx]: Fix four malformed JSDoc blocks in StatsController and convert-card-to-str](https://github.com/cuttle-cards/cuttle/issues/1411)
-- [[DevEx]: Frontend environment and global type declarations](https://github.com/cuttle-cards/cuttle/issues/1403)
-- [[DevEx]: Declare the Sails globals for type checking (262 → 27 errors)](https://github.com/cuttle-cards/cuttle/issues/1401)
-- [[DevEx]: Backend JSON enum requires omit .json, so they get no editor autocomplete](https://github.com/cuttle-cards/cuttle/issues/1396)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
-
-## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
-
-- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
-- [Foam Foundation github pages landing page url redirect](https://github.com/foam-foundation/foam3/issues/5540)
-
-## [nodejs/undici](https://github.com/nodejs/undici)
-
-- [SSRF protection in undici / native-node-fetch](https://github.com/nodejs/undici/issues/2019)
-- [HTTP2 Requests hang upon receiving 'Stream closed with error code NGHTTP2_INTERNAL_ERROR'](https://github.com/nodejs/undici/issues/2675)
-
 ## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
 
 - [Solar sails: a procedural sheet, while NASA publishes a sail concept](https://github.com/Sara-Managed-Projects/space-radar/issues/433)
 - [CubeSats: a procedural box, while NASA publishes a 1U and a 2U](https://github.com/Sara-Managed-Projects/space-radar/issues/422)
 
-## [JesusRivX/CursoIntegrador2](https://github.com/JesusRivX/CursoIntegrador2)
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- [HU-09 Cerrar Sesión](https://github.com/JesusRivX/CursoIntegrador2/issues/2)
-- [HU-03 Consultar Contenido del Curso](https://github.com/JesusRivX/CursoIntegrador2/issues/3)
+- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
 
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+## [darshi1337/apogee](https://github.com/darshi1337/apogee)
 
-- [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017)
-- [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036)
-- [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991)
-- [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956)
-
-## [CarolineChiari/AgentVille](https://github.com/CarolineChiari/AgentVille)
-
-- [Villagers wear their names](https://github.com/CarolineChiari/AgentVille/issues/14)
-- [Move around with WASD, and smooth held-key panning](https://github.com/CarolineChiari/AgentVille/issues/34)
-- [Send a villager to review a PR, from its bud](https://github.com/CarolineChiari/AgentVille/issues/9)
+- [[chore] Share or document duplicated limit constants](https://github.com/darshi1337/apogee/issues/364)
+- [[bug] suggest-questions-bg rebuilds promptsCacheKey without focusKeyword](https://github.com/darshi1337/apogee/issues/392)
+- [[bug] Hidden focus keyword fragments summary cache keys](https://github.com/darshi1337/apogee/issues/390)
+- [[bug] Video path drops focusKeyword in ollamaSummarize](https://github.com/darshi1337/apogee/issues/388)
+- [[chore] Combine duplicated focus keyword reset into clearFocusKeyword() helper](https://github.com/darshi1337/apogee/issues/370)
+- [[chore] Name timeout, retry, and delay magic numbers](https://github.com/darshi1337/apogee/issues/363)
+- [[chore] Remove unused makeOpusTranslateFn export](https://github.com/darshi1337/apogee/issues/362)
 
 ## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/191)
+- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/190)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/196)
 - [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/166)
 - [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/192)
 - [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/193)
-- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/191)
-- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/190)
 - [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/187)
 - [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/179)
 - [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/186)
 - [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/183)
-- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/178)
 - [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/175)
 - [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/164)
 - [[2–5 min] Define static analysis for beginners](https://github.com/Berserk-hub150/skillhawk/issues/7)
-
-## [Acarfilms/vitrine](https://github.com/Acarfilms/vitrine)
-
-- [Add red, yellow and mint accents](https://github.com/Acarfilms/vitrine/issues/7)
-- [Add a --version flag to the CLI](https://github.com/Acarfilms/vitrine/issues/4)
-- [Add a mail symbol](https://github.com/Acarfilms/vitrine/issues/3)
-- [Allow mailto: links](https://github.com/Acarfilms/vitrine/issues/2)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [Pin how CountryFlags turns a location into a flag](https://github.com/neomjs/neo/issues/19177)
-- [Pin how IdGenerator names every instance](https://github.com/neomjs/neo/issues/19176)
-- [Pin how the RPC API manager resolves each call's type and URL](https://github.com/neomjs/neo/issues/19175)
-- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
-- [Pin when the toast manager refuses a toast](https://github.com/neomjs/neo/issues/19147)
-- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
-- [Pin the number field's spin-button trigger](https://github.com/neomjs/neo/issues/19144)
-- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
-- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
-- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
-- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
-- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
 
