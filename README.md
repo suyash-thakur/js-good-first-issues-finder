@@ -4,13 +4,80 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [BTmedyajans/Btmedya-db](https://github.com/BTmedyajans/Btmedya-db/pull/155)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [fix: restore public vitrine fallbacks and hide CMS links](https://github.com/BTmedyajans/Btmedya-db/pull/155)
-- [feat: BTMEDYA location intelligence](https://github.com/BTmedyajans/Btmedya-db/pull/131)
-- [## 2026-10-10 denetim güncellemesi](https://github.com/BTmedyajans/Btmedya-db/issues/347)
-- [Production: Admin ↔ canonical domains and Cloudflare D1 audit authorization](https://github.com/BTmedyajans/Btmedya-db/issues/315)
-- [BTMEDYA mobile entrance video and Sahadan Haberler repair](https://github.com/BTmedyajans/Btmedya-db/issues/216)
+- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
+- [apify plugin: write the JD frontmatter with js-yaml instead of yamlEscape](https://github.com/career-ops-hq/career-ops/issues/4961)
+- [fix(cli): tracker.mjs delete runs for real when --dry-run is mistyped: validate each subcommand's flags](https://github.com/career-ops-hq/career-ops/issues/4602)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+
+## [enrjgy-tech/seekto](https://github.com/enrjgy-tech/seekto)
+
+- [Hindi and Hinglish date words: "kal", "parso", "agle hafte", "Friday ko"](https://github.com/enrjgy-tech/seekto/issues/16)
+- [Better event titles: "the test on the reading is the 24th" should be "Test on the reading"](https://github.com/enrjgy-tech/seekto/issues/15)
+- [Two definitions in one sentence](https://github.com/enrjgy-tech/seekto/issues/14)
+- [Hedged dates: "I think the quiz might be Friday" shouldn't look certain](https://github.com/enrjgy-tech/seekto/issues/13)
+- [Holidays and school breaks: "the Monday after Thanksgiving", "after half term"](https://github.com/enrjgy-tech/seekto/issues/12)
+- [Try Seekto on a school Chromebook or a budget phone and tell us what broke](https://github.com/enrjgy-tech/seekto/issues/10)
+- [Announce new transcript lines to screen readers while recording](https://github.com/enrjgy-tech/seekto/issues/9)
+- [Quiz dialog: keyboard and screen reader check](https://github.com/enrjgy-tech/seekto/issues/8)
+- [French dates and deadlines](https://github.com/enrjgy-tech/seekto/issues/4)
+
+## [Uuriko/project-room](https://github.com/Uuriko/project-room)
+
+- [Contributor task: correct the public-receipts row in the access checklist](https://github.com/Uuriko/project-room/issues/2795)
+- [Contributor task: bring the QA guide's CI map up to date](https://github.com/Uuriko/project-room/issues/2792)
+- [Contributor task: document the existing UI string helper and catalog build](https://github.com/Uuriko/project-room/issues/2790)
+- [Contributor task: add axe coverage for local password-reset forms](https://github.com/Uuriko/project-room/issues/2785)
+- [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
+- [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
+
+## [ashlrai/lexicon](https://github.com/ashlrai/lexicon)
+
+- [Test that the counts stated in the docs match the code](https://github.com/ashlrai/lexicon/issues/10)
+- [Record an asciinema cast of lexicon setup](https://github.com/ashlrai/lexicon/issues/11)
+- [Benchmark: measure how badly non-English names do before changing the phonetics](https://github.com/ashlrai/lexicon/issues/8)
+- [lexicon suggest: propose a phonetic hint for terms the matcher keeps guessing at](https://github.com/ashlrai/lexicon/issues/7)
+- [Export format: Speechmatics additional_vocab](https://github.com/ashlrai/lexicon/issues/6)
+- [Add a starter pack for a profession we do not cover](https://github.com/ashlrai/lexicon/issues/4)
+
+## [Mito1st-Information-Committee/mito1-digital-studenthandbook](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook)
+
+- [教育課程の整理](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook/issues/104)
+- [年間主要行事の項目整理](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook/issues/105)
+
+## [thanatchon36/verdrift](https://github.com/thanatchon36/verdrift)
+
+- [Show node-version-file / go-version-file inputs in the report](https://github.com/thanatchon36/verdrift/issues/5)
+- [Read NODE_VERSION / PYTHON_VERSION / GO_VERSION from netlify.toml](https://github.com/thanatchon36/verdrift/issues/4)
+- [Read the image from .devcontainer/devcontainer.json](https://github.com/thanatchon36/verdrift/issues/3)
+- [Read [requires] python_version from Pipfile](https://github.com/thanatchon36/verdrift/issues/2)
+
+## [myselfsiddharth/Flecto](https://github.com/myselfsiddharth/Flecto)
+
+- [Publish workflow: fail fast when the release tag doesn't match package.json](https://github.com/myselfsiddharth/Flecto/issues/243)
+- [Compose volume rules: also match identity-keyed paths](https://github.com/myselfsiddharth/Flecto/issues/247)
+- [PR comment: say when findings are advisory instead of 'Check passing' above '2 errors'](https://github.com/myselfsiddharth/Flecto/issues/245)
+- [The .flectorc refusal for newFiles explains snapshotRef instead](https://github.com/myselfsiddharth/Flecto/issues/244)
+- [Warn when the baseline resolves to an empty document, so it is distinguishable from "nothing changed"](https://github.com/myselfsiddharth/Flecto/issues/219)
+- [Exclude Google Place IDs and IPFS CIDv0 from the entropy secret detector](https://github.com/myselfsiddharth/Flecto/issues/218)
+
+## [arinyaho/concord](https://github.com/arinyaho/concord)
+
+- [Manual review driver prompts lack the sandbox uid-65534 note](https://github.com/arinyaho/concord/issues/344)
+- [The state CLI locator ranks a release above its own prereleases](https://github.com/arinyaho/concord/issues/297)
+- [State CLI verbs report a usage error when their stdin evidence is missing](https://github.com/arinyaho/concord/issues/292)
+- [Keep removing test temp directories when one removal fails](https://github.com/arinyaho/concord/issues/290)
+
+## [anoni-net/docs](https://github.com/anoni-net/docs)
+
+- [新讀者走讀回報，照著一篇文章實際操作](https://github.com/anoni-net/docs/issues/609)
+- [content(style): 全站動補結構的口語寫法待逐批處理，扣掉 #480 之後還有 2419 處](https://github.com/anoni-net/docs/issues/482)
+- [撰寫 tools/what-is-ipfs.md（IPFS 入門與如何用 IPFS 瀏覽 anoni.net）](https://github.com/anoni-net/docs/issues/71)
+- [文件站補示意圖：優先頁面清單](https://github.com/anoni-net/docs/issues/372)
+- [翻譯 + 在地脈絡：OpenArchive 如何協助記錄者保全證據（Tor Project blog 2026-05-18）](https://github.com/anoni-net/docs/issues/60)
 
 ## [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -21,108 +88,67 @@ This list gets updated every day at midnight.
 - [Problem with updating widgets](https://github.com/WordPress/gutenberg/issues/69702)
 - [stylelint-config: the selector-class-pattern rule rejects some default block, widget, and editor classes](https://github.com/WordPress/gutenberg/issues/28616)
 
-## [akshitaasaxena/BiteCraft](https://github.com/akshitaasaxena/BiteCraft)
-
-- [Add Backend Environment Example and Start Script](https://github.com/akshitaasaxena/BiteCraft/issues/6)
-- [Set Up React Router](https://github.com/akshitaasaxena/BiteCraft/issues/7)
-
-## [Mito1st-Information-Committee/mito1-digital-studenthandbook](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook)
-
-- [保健室利用規定の並び順](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook/issues/102)
-- [教育課程の整理](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook/issues/104)
-- [年間主要行事の項目整理](https://github.com/Mito1st-Information-Committee/mito1-digital-studenthandbook/issues/105)
-
-## [HarperFast/harper](https://github.com/HarperFast/harper)
-
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
-
-## [danilogiles/enki-browser](https://github.com/danilogiles/enki-browser)
-
-- [Saved tasks: save the current request from the chat](https://github.com/danilogiles/enki-browser/issues/36)
-- [More connection presets (official remote MCP servers)](https://github.com/danilogiles/enki-browser/issues/35)
-- [Charts and mind maps: keyboard and screen reader access](https://github.com/danilogiles/enki-browser/issues/34)
-- [Charts: copy as image and download as CSV](https://github.com/danilogiles/enki-browser/issues/33)
-- [Translate the side panel and Settings (Português, Español)](https://github.com/danilogiles/enki-browser/issues/32)
-- [Send Global Privacy Control (Sec-GPC)](https://github.com/danilogiles/enki-browser/issues/18)
-- [Translate the Shields panel and settings (Português, Español)](https://github.com/danilogiles/enki-browser/issues/20)
-- [Strip tracking parameters from links (utm_*, fbclid, gclid…)](https://github.com/danilogiles/enki-browser/issues/17)
-
-## [rpamis/comet](https://github.com/rpamis/comet)
-
-- [feat: 支持 Prime Agent 平台（prime-agent platform adapter）](https://github.com/rpamis/comet/issues/461)
-- [fix: doctor 误报 opencode 的 CodeGraph MCP 未注册（JSONC 块注释剥离吃掉 glob ＋ 不识别 mcp.servers 形状）](https://github.com/rpamis/comet/issues/479)
-
-## [nirholas/three.ws](https://github.com/nirholas/three.ws)
-
-- [Money Pulse: compact numbers roll over into the wrong unit (`$1000`, `1000.0k`)](https://github.com/nirholas/three.ws/issues/344)
-- [Tests: lock in the anchored host allowlist in `isSafeQueryModelUrl`](https://github.com/nirholas/three.ws/issues/343)
-- [Upload check: `isValidGlbMagic` skips the declared-length check the server enforces](https://github.com/nirholas/three.ws/issues/341)
-- [Rig: map Source engine `ValveBiped.Bip01_*` skeletons and teach Rig Doctor to name them](https://github.com/nirholas/three.ws/issues/340)
-- [Rig: map 3ds Max Biped finger chains (`Bip01 L Finger0`, `Finger01`)](https://github.com/nirholas/three.ws/issues/339)
-
-## [aadorian/opencodeCLI](https://github.com/aadorian/opencodeCLI/pull/94)
-
-- [chore(deps-dev): bump playwright from 1.62.1 to 1.64.0](https://github.com/aadorian/opencodeCLI/pull/94)
-- [chore(deps-dev): bump the vscode-test group with 2 updates](https://github.com/aadorian/opencodeCLI/pull/87)
-- [chore(deps-dev): bump sharp from 0.35.2 to 0.35.5](https://github.com/aadorian/opencodeCLI/pull/93)
-
-## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
-
-- [Add unit tests for failure annotation classification](https://github.com/addisdev/actions-runners/issues/20)
-- [Run the admission hook suites in CI](https://github.com/addisdev/actions-runners/issues/21)
-
-## [Vikram-sardiwal/react-open-source](https://github.com/Vikram-sardiwal/react-open-source)
-
-- [Add Search Functionality for Products](https://github.com/Vikram-sardiwal/react-open-source/issues/12)
-- [Add Empty Cart State](https://github.com/Vikram-sardiwal/react-open-source/issues/15)
-- [Add API Error Handling](https://github.com/Vikram-sardiwal/react-open-source/issues/17)
-- [Add Product Loading Skeleton](https://github.com/Vikram-sardiwal/react-open-source/issues/16)
-- [Improve Product Card UI](https://github.com/Vikram-sardiwal/react-open-source/issues/21)
-- [Improve Mobile Responsiveness](https://github.com/Vikram-sardiwal/react-open-source/issues/6)
-
-## [nextcloud/text](https://github.com/nextcloud/text)
-
-- [Ctrl+A inside table cell should only select all of the cell's content instead of the whole document.](https://github.com/nextcloud/text/issues/5785)
-
 ## [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
 
-- [feat(install): add Pi as an install target](https://github.com/Fmarzochi/EGC/issues/1499)
-- [feat(install): add MiMo Code (Xiaomi) as an install target](https://github.com/Fmarzochi/EGC/issues/1498)
-- [feat(install): add Kilo Code CLI as an install target](https://github.com/Fmarzochi/EGC/issues/1496)
-- [feat(install): add Grok Build (xAI) as an install target](https://github.com/Fmarzochi/EGC/issues/1495)
 - [test(v1.1.22): first install on Windows, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1379)
 - [feat(install): add Letta Code as an install target](https://github.com/Fmarzochi/EGC/issues/1500)
-- [feat(install): add Plandex as an install target](https://github.com/Fmarzochi/EGC/issues/1501)
 - [test(v1.1.22): first install on macOS, npm and clone, and report](https://github.com/Fmarzochi/EGC/issues/1378)
 
-## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+## [Harsh-vardhan09/AthLead](https://github.com/Harsh-vardhan09/AthLead)
 
-- [[chore] Share or document duplicated limit constants](https://github.com/darshi1337/apogee/issues/364)
-- [[chore] Guard STREAM_CLEANUP alarm granularity for sub-minute values](https://github.com/darshi1337/apogee/issues/412)
-- [[enhancement] Locale catalog check in CI plus shared glossary](https://github.com/darshi1337/apogee/issues/417)
-- [[enhancement] Agent SKILL.md for summarize and extract entry points](https://github.com/darshi1337/apogee/issues/438)
-- [[enhancement] Add right-to-left summary languages](https://github.com/darshi1337/apogee/issues/246)
-- [[enhancement] Extract-only action with no model call](https://github.com/darshi1337/apogee/issues/414)
-- [[enhancement] Provider fallback chain across engines](https://github.com/darshi1337/apogee/issues/415)
-- [[enhancement] Effective-config view with keys hidden](https://github.com/darshi1337/apogee/issues/416)
-- [[enhancement] Rules-based engine choice by input kind and size](https://github.com/darshi1337/apogee/issues/437)
+- [Prevent Sensitive User Data From Ranking API](https://github.com/Harsh-vardhan09/AthLead/issues/153)
+- [Add Pagination to Events API](https://github.com/Harsh-vardhan09/AthLead/issues/148)
+- [Hide Expired Events from the User Profile](https://github.com/Harsh-vardhan09/AthLead/issues/287)
+- [Create Admin Dashboard with Users, Events & Analytics](https://github.com/Harsh-vardhan09/AthLead/issues/126)
+- [Improve Admin Dashboard Responsiveness](https://github.com/Harsh-vardhan09/AthLead/issues/175)
+- [Add Centralized Authentication Middleware](https://github.com/Harsh-vardhan09/AthLead/issues/141)
+- [Improve Refresh Token Security](https://github.com/Harsh-vardhan09/AthLead/issues/146)
+- [Add ML Model Metadata Endpoint](https://github.com/Harsh-vardhan09/AthLead/issues/163)
+- [Fix Authentication HTTP Status Codes](https://github.com/Harsh-vardhan09/AthLead/issues/143)
+- [Improve Frontend Form Validation UX](https://github.com/Harsh-vardhan09/AthLead/issues/172)
+- [Add Event Capacity Validation](https://github.com/Harsh-vardhan09/AthLead/issues/151)
+- [Add Event Search](https://github.com/Harsh-vardhan09/AthLead/issues/174)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [nextcloud/calendar](https://github.com/nextcloud/calendar)
 
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [[Website] Extensions: Use the Meshery logo for the Meshery Academy entry](https://github.com/meshery/meshery.io/issues/3053)
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [Site: Ensure a maximum size is enforced for all adopter logos](https://github.com/meshery/meshery.io/issues/3051)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [Show proper metadata for when you post the link in social networks or chats](https://github.com/nextcloud/calendar/issues/609)
 
-## [MarcDevGuy127/reservalab](https://github.com/MarcDevGuy127/reservalab)
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 
-- [Expiração de sessão por inatividade](https://github.com/MarcDevGuy127/reservalab/issues/5)
-- [Autenticar usuário](https://github.com/MarcDevGuy127/reservalab/issues/1)
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+
+## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
+
+- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
+- [Foam Foundation github pages landing page url redirect](https://github.com/foam-foundation/foam3/issues/5540)
+
+## [BTmedyajans/Btmedya-db](https://github.com/BTmedyajans/Btmedya-db/pull/155)
+
+- [fix: restore public vitrine fallbacks and hide CMS links](https://github.com/BTmedyajans/Btmedya-db/pull/155)
+- [feat: BTMEDYA location intelligence](https://github.com/BTmedyajans/Btmedya-db/pull/131)
+- [## 2026-10-10 denetim güncellemesi](https://github.com/BTmedyajans/Btmedya-db/issues/347)
+- [Production: Admin ↔ canonical domains and Cloudflare D1 audit authorization](https://github.com/BTmedyajans/Btmedya-db/issues/315)
+- [BTMEDYA mobile entrance video and Sahadan Haberler repair](https://github.com/BTmedyajans/Btmedya-db/issues/216)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [Docs App: Routes](https://github.com/neomjs/neo/issues/24)
+- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
+- [buildScripts/createClass: guessBaseClass() => add container.Viewport](https://github.com/neomjs/neo/issues/3623)
+- [selection.HelixModel: toggleSelection & select](https://github.com/neomjs/neo/issues/318)
+- [tab.Container: Closable tabs](https://github.com/neomjs/neo/issues/26)
+- [Pin how CountryFlags turns a location into a flag](https://github.com/neomjs/neo/issues/19177)
+- [Pin how IdGenerator names every instance](https://github.com/neomjs/neo/issues/19176)
+- [Pin how the RPC API manager resolves each call's type and URL](https://github.com/neomjs/neo/issues/19175)
+- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
+- [Pin when the toast manager refuses a toast](https://github.com/neomjs/neo/issues/19147)
+- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+- [Pin the number field's spin-button trigger](https://github.com/neomjs/neo/issues/19144)
+- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
+- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
+- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
+- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
+- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
 
 ## [VadneyK/internships](https://github.com/VadneyK/internships)
 
@@ -138,8 +164,171 @@ This list gets updated every day at midnight.
 - [Add teen jobs and volunteer programs for Cupertino, Santa Clara, Milpitas, Los Altos and Menlo Park](https://github.com/VadneyK/internships/issues/1)
 - [Translate the Playbook and Rules pages into Spanish](https://github.com/VadneyK/internships/issues/8)
 
+## [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub)
+
+- [[good first issue] What does SambaNova Cloud do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/262)
+- [[good first issue] What does Upstage do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/261)
+- [[good first issue] What does IBM watsonx.ai (Lite plan) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/260)
+- [[good first issue] What does AI21 Labs do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/259)
+- [[good first issue] What does Nebius AI Studio do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/258)
+- [[good first issue] Re-verify Tencent Hunyuan against Tencent's own pages (weekly batch 1)](https://github.com/pacocartones/free-llm-api-hub/issues/224)
+- [[good first issue] Build a 'no signup required' collection](https://github.com/pacocartones/free-llm-api-hub/issues/182)
+- [[good first issue] Does Pollinations.ai's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/81)
+- [[good first issue] Does AI Horde's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/80)
+- [[good first issue] Does SiliconFlow's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/69)
+- [[good first issue] Does HuggingFace's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/68)
+- [[good first issue] Does Fireworks AI's free tier allow production use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/11)
+
+## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
+
+- [Add unit tests for failure annotation classification](https://github.com/addisdev/actions-runners/issues/20)
+- [Run the admission hook suites in CI](https://github.com/addisdev/actions-runners/issues/21)
+
+## [processing/p5.js](https://github.com/processing/p5.js)
+
+- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
+- [Update describe function limits and best practices](https://github.com/processing/p5.js/issues/9105)
+- [A false positive FES error on function "loadModel"](https://github.com/processing/p5.js/issues/9176)
+
+## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
+
+- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
+- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
+- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
+
+## [danilogiles/enki-browser](https://github.com/danilogiles/enki-browser)
+
+- [Saved tasks: save the current request from the chat](https://github.com/danilogiles/enki-browser/issues/36)
+- [More connection presets (official remote MCP servers)](https://github.com/danilogiles/enki-browser/issues/35)
+- [Charts and mind maps: keyboard and screen reader access](https://github.com/danilogiles/enki-browser/issues/34)
+- [Charts: copy as image and download as CSV](https://github.com/danilogiles/enki-browser/issues/33)
+- [Translate the side panel and Settings (Português, Español)](https://github.com/danilogiles/enki-browser/issues/32)
+- [Send Global Privacy Control (Sec-GPC)](https://github.com/danilogiles/enki-browser/issues/18)
+- [Translate the Shields panel and settings (Português, Español)](https://github.com/danilogiles/enki-browser/issues/20)
+- [Strip tracking parameters from links (utm_*, fbclid, gclid…)](https://github.com/danilogiles/enki-browser/issues/17)
+
+## [chrisriv10/Soterios](https://github.com/chrisriv10/Soterios)
+
+- [Avoid hard-coded release versions in README download instructions](https://github.com/chrisriv10/Soterios/issues/131)
+
+## [rpamis/comet](https://github.com/rpamis/comet)
+
+- [feat: 支持 Prime Agent 平台（prime-agent platform adapter）](https://github.com/rpamis/comet/issues/461)
+- [fix: doctor 误报 opencode 的 CodeGraph MCP 未注册（JSONC 块注释剥离吃掉 glob ＋ 不识别 mcp.servers 形状）](https://github.com/rpamis/comet/issues/479)
+
+## [shreyashpatel5506/virtual-assistant-core](https://github.com/shreyashpatel5506/virtual-assistant-core)
+
+- [[Issue]: Missing 404 Page for Frontend Routes](https://github.com/shreyashpatel5506/virtual-assistant-core/issues/17)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [Site: Ensure a maximum size is enforced for all adopter logos](https://github.com/meshery/meshery.io/issues/3051)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+
+## [gojaildev/vylop](https://github.com/gojaildev/vylop)
+
+- [feat(editor): add font size and font family preferences with persistence](https://github.com/gojaildev/vylop/issues/44)
+
+## [Avenx-JS/avenx-js](https://github.com/Avenx-JS/avenx-js)
+
+- [Bug: AVX_W30 fires for an `id` that appears only inside `<@empty>`](https://github.com/Avenx-JS/avenx-js/issues/1482)
+- [Docs: Add a README to the `@avenx/vite` plugin package](https://github.com/Avenx-JS/avenx-js/issues/1341)
+- [Testing: Add unit tests for the Avenx Prettier plugin](https://github.com/Avenx-JS/avenx-js/issues/1347)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+- [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807)
+- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
+- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+
+- [[Good First Issue] Add a narrow-rule design tip [MC-005]](https://github.com/Berserk-hub150/skillhawk/issues/192)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/193)
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/187)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/202)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/186)
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/183)
+- [[Good First Issue] Add a severity calibration tip [MC-006]](https://github.com/Berserk-hub150/skillhawk/issues/175)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/199)
+- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/200)
+- [[Good First Issue] Add a minimal-evidence tip [MC-002]](https://github.com/Berserk-hub150/skillhawk/issues/190)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/196)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/166)
+
+## [MarcDevGuy127/reservalab](https://github.com/MarcDevGuy127/reservalab)
+
+- [Expiração de sessão por inatividade](https://github.com/MarcDevGuy127/reservalab/issues/5)
+- [Autenticar usuário](https://github.com/MarcDevGuy127/reservalab/issues/1)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [Parameter on `AppType` is used incorrectly](https://github.com/vercel/next.js/issues/42846)
+
+## [nextcloud/deck](https://github.com/nextcloud/deck)
+
+- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
+
+## [dusan-maintains/oss-maintenance-log](https://github.com/dusan-maintains/oss-maintenance-log)
+
+- [Add Python/pip support to CLI scanner](https://github.com/dusan-maintains/oss-maintenance-log/issues/2)
+- [Support yarn.lock / pnpm-lock.yaml for workspace detection](https://github.com/dusan-maintains/oss-maintenance-log/issues/3)
+
+## [oktalk/rapscallion](https://github.com/oktalk/rapscallion)
+
+- [Add unit tests for Potion and Shield](https://github.com/oktalk/rapscallion/issues/24)
+- [Refactor classes to use hooks](https://github.com/oktalk/rapscallion/issues/7)
+- [Make the potion indicator readable](https://github.com/oktalk/rapscallion/issues/23)
+- [Remove unused state and methods from App.js](https://github.com/oktalk/rapscallion/issues/22)
+- [Add alt text to title screen images](https://github.com/oktalk/rapscallion/issues/20)
+- [Dying on the last card of a room shows a blank or "You won!" end screen](https://github.com/oktalk/rapscallion/issues/19)
+- [Declare prop-types as a direct dependency](https://github.com/oktalk/rapscallion/issues/18)
+- [Next Room shuffles the leftover card away instead of keeping it](https://github.com/oktalk/rapscallion/issues/17)
+- [Ace of Hearts room healing can raise HP above 21](https://github.com/oktalk/rapscallion/issues/16)
+
+## [layer5io/layer5](https://github.com/layer5io/layer5)
+
+- [Increase spacing between video and text on GCP architecture diagram page](https://github.com/layer5io/layer5/issues/8192)
+- [Fix card animation not triggering automatically on mobile](https://github.com/layer5io/layer5/issues/8093)
+- [Community Membership paragraph alignment issue](https://github.com/layer5io/layer5/issues/8085)
+- [Enhance or replace the "Star the Repo" button](https://github.com/layer5io/layer5/issues/7859)
+- [[UI]: Unwanted border and incorrect Layer5 logo color in “Join the Conversation” box](https://github.com/layer5io/layer5/issues/7958)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Always show filters in conversation search](https://github.com/nextcloud/spreed/issues/19498)
+- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Store last selected Group and Contact](https://github.com/nextcloud/contacts/issues/376)
+- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+
 ## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
 
+- [Add a plain-English distance-compression explanation](https://github.com/Sara-Managed-Projects/space-radar/issues/1017)
+- [Document exact meaning of source count](https://github.com/Sara-Managed-Projects/space-radar/issues/1016)
+- [Describe how to escape a stuck camera tour](https://github.com/Sara-Managed-Projects/space-radar/issues/1015)
+- [Add one screenshot to offline-run troubleshooting](https://github.com/Sara-Managed-Projects/space-radar/issues/1014)
+- [Explain real-time versus snapshot in one FAQ entry](https://github.com/Sara-Managed-Projects/space-radar/issues/1013)
 - [Test localText in ui/next.js](https://github.com/Sara-Managed-Projects/space-radar/issues/841)
 - [Test offersCalendar in ui/next.js](https://github.com/Sara-Managed-Projects/space-radar/issues/844)
 - [3D model: Amazon Kuiper broadband satellite (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/1002)
@@ -235,48 +424,4 @@ This list gets updated every day at midnight.
 - [Add a rocket row for SSLV](https://github.com/Sara-Managed-Projects/space-radar/issues/842)
 - [Add a rocket row for Epsilon S](https://github.com/Sara-Managed-Projects/space-radar/issues/840)
 - [Test worldOfTarget in ui/keeptrip.js](https://github.com/Sara-Managed-Projects/space-radar/issues/839)
-- [Add a rocket row for Miura 5](https://github.com/Sara-Managed-Projects/space-radar/issues/838)
-- [Test stopBudgetMs in ui/autopilotplan.js](https://github.com/Sara-Managed-Projects/space-radar/issues/837)
-- [Add a rocket row for Maia](https://github.com/Sara-Managed-Projects/space-radar/issues/836)
-- [Test nextLightChange in sky/timefacts.js](https://github.com/Sara-Managed-Projects/space-radar/issues/835)
-- [Add a rocket row for Nebula-1](https://github.com/Sara-Managed-Projects/space-radar/issues/834)
-
-## [nextcloud/maps](https://github.com/nextcloud/maps)
-
-- [Ability to change the location of the Maps default folder](https://github.com/nextcloud/maps/issues/1078)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-- [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807)
-- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
-- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-
-## [marola-dev/marola-site](https://github.com/marola-dev/marola-site)
-
-- [Critical: every site deploy re-fetches all external data, so a CSS merge fails when Overpass or Open-Meteo is busy](https://github.com/marola-dev/marola-site/issues/13)
-- [Team page: the maintainers (h0ffmann, brunogbv, etc) with photo, GitHub and LinkedIn, next to Donate in the nav](https://github.com/marola-dev/marola-site/issues/9)
-- [Partners page: advisors, and the open-source code, institutions and companies marola is built on](https://github.com/marola-dev/marola-site/issues/8)
-
-## [Indicaza/holdfast](https://github.com/Indicaza/holdfast)
-
-- [[Good first issue] Add a friendly local persona chooser for development](https://github.com/Indicaza/holdfast/issues/135)
-- [[Good first issue] Add an internal Markdown link checker to CI](https://github.com/Indicaza/holdfast/issues/134)
-- [[Good first issue] Add sanitized product screenshots to the README](https://github.com/Indicaza/holdfast/issues/133)
-
-## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-
-- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
-
-## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
-
-- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
-- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
-- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
-
-## [Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026)
-
-- [Add a clear-completed button](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/5)
-- [Add a clear all expenses button](https://github.com/Mozilla-Campus-Club-Cummins/Git-Github-Onboarding-Sandbox_Hacktoberfest-2026/issues/9)
 
