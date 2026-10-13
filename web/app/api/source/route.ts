@@ -11,19 +11,37 @@ const ALLOWED: Record<string, string> = {
   "api-history": path.resolve(process.cwd(), "app", "api", "history", "route.ts"),
 };
 
+
+function validateKey(searchParams: URLSearchParams): string | null {
+  const key = searchParams.get("file");
+  if (!key || !(key in ALLOWED_FILES)) {
+    return null;
+  }
+  return key;
+};
+
+async function readAllowedFile(key: string): Promise<{ filePath: string; content: string }> {
+  const filePath = ALLOWED_FILES[key];
+  const content = await fs.readFile(filePath, "utf-8");
+  return { filePath, content };
+};
+
+function handleError(error: unknown) {
+  const message = error instanceof Error ? error.message : "Unknown error";
+  return NextResponse.json({ error: message }, { status: 500 });
+};
+
+
 export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);
-    const key = searchParams.get("file");
-    if (!key || !(key in ALLOWED)) {
+    const key = validatekey(searchParams);
+    if (!key ) {
       return NextResponse.json({ error: "Unsupported file key" }, { status: 400 });
     }
-    const filePath = ALLOWED[key];
-    const content = await fs.readFile(filePath, "utf-8");
+    const { filePath, content } = await readAllowedFile(key);
     return NextResponse.json({ file: key, path: filePath, content });
   } catch (e: any) {
     return NextResponse.json({ error: e?.message || "Unknown error" }, { status: 500 });
   }
 }
-
-
