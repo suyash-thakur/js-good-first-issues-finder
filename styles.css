@@ -78,6 +78,16 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Keyboard Accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+    outline: 3px solid #1663b3;
+    outline-offset: 3px;
+}
+
 /* List Styling */
 ul {
   list-style: none;
