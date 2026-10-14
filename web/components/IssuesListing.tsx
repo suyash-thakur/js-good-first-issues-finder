@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { History, Filter, Search as SearchIcon, ExternalLink, Code, Tag, Calendar, Star, GitFork, TrendingUp } from "lucide-react";
 import { Input } from "@/components/ui/input";
@@ -724,6 +724,8 @@ export default function IssuesListing() {
   const REPO_OWNER = (process.env.NEXT_PUBLIC_REPO_OWNER as string) || (process.env.VERCEL_GIT_REPO_OWNER as string) || "suyashthakur";
   const REPO_NAME = (process.env.NEXT_PUBLIC_REPO_NAME as string) || (process.env.VERCEL_GIT_REPO_SLUG as string) || "js-good-first-issues-finder";
   const [contributors, setContributors] = useState<Array<{ login: string; html_url: string; avatar_url: string }>>([]);
+  const abortRef = useRef<AbortController | null>(null);
+  const fetchVersionRef = useRef(0);
 
   function parseIssuesFromReadme(markdown: string): ApiIssue[] {
     try {
@@ -780,18 +782,27 @@ export default function IssuesListing() {
   }, [filters, page]);
 
   async function fetchIssues(append = false) {
+    abortRef.current?.abort();
+    const controller = new AbortController();
+    abortRef.current = controller;
+    const version = ++fetchVersionRef.current;
+
     setLoading(true);
     try {
-      const res = await fetch(`/api/issues?${query}`);
+      const res = await fetch(`/api/issues?${query}`, { signal: controller.signal });
+      if (version !== fetchVersionRef.current) return;
+      if (!res.ok) return;
       const json = await res.json();
       const next = (json.items || []) as ApiIssue[];
       setItems((prev) => (append ? [...prev, ...next] : next));
       setHasMore(next.length >= 24);
     } catch {
-      setItems(append ? items : []);
+      if (controller.signal.aborted) return;
+      if (version !== fetchVersionRef.current) return;
+      setItems((prev) => (append ? prev : []));
       setHasMore(false);
     } finally {
-      setLoading(false);
+      if (version === fetchVersionRef.current) setLoading(false);
     }
   }
 
