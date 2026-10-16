@@ -4,6 +4,180 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
+- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
+
+## [arinyaho/concord](https://github.com/arinyaho/concord)
+
+- [State CLI verbs report a usage error when their stdin evidence is missing](https://github.com/arinyaho/concord/issues/292)
+- [Keep removing test temp directories when one removal fails](https://github.com/arinyaho/concord/issues/290)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [Uuriko/project-room](https://github.com/Uuriko/project-room)
+
+- [Contributor task: correct the public-receipts row in the access checklist](https://github.com/Uuriko/project-room/issues/2795)
+- [Contributor task: bring the QA guide's CI map up to date](https://github.com/Uuriko/project-room/issues/2792)
+- [Contributor task: document the existing UI string helper and catalog build](https://github.com/Uuriko/project-room/issues/2790)
+- [Contributor task: add axe coverage for local password-reset forms](https://github.com/Uuriko/project-room/issues/2785)
+- [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
+- [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
+
+## [nextcloud/deck](https://github.com/nextcloud/deck)
+
+- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [Store last selected Group and Contact](https://github.com/nextcloud/contacts/issues/376)
+- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+
+## [marola-dev/marola-site](https://github.com/marola-dev/marola-site)
+
+- [Critical: every site deploy re-fetches all external data, so a CSS merge fails when Overpass or Open-Meteo is busy](https://github.com/marola-dev/marola-site/issues/13)
+- [Team page: the maintainers (h0ffmann, brunogbv, etc) with photo, GitHub and LinkedIn, next to Donate in the nav](https://github.com/marola-dev/marola-site/issues/9)
+- [Partners page: advisors, and the open-source code, institutions and companies marola is built on](https://github.com/marola-dev/marola-site/issues/8)
+
+## [nextcloud/calendar](https://github.com/nextcloud/calendar)
+
+- [Show proper metadata for when you post the link in social networks or chats](https://github.com/nextcloud/calendar/issues/609)
+
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
+
+- [Duplicated logic in process-quality.mjs and 2 more files: findColumn](https://github.com/career-ops-hq/career-ops/issues/5195)
+- [Use validateFlags() instead of hand-written flag checks in find.mjs, jd-similarity.mjs and application-answers.mjs](https://github.com/career-ops-hq/career-ops/issues/5181)
+- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
+- [apify plugin: write the JD frontmatter with js-yaml instead of yamlEscape](https://github.com/career-ops-hq/career-ops/issues/4961)
+- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
+- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Always show filters in conversation search](https://github.com/nextcloud/spreed/issues/19498)
+- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
+
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
+
+- [[DevEx]: Add TS prop types to nine already-migrated script setup components](https://github.com/cuttle-cards/cuttle/issues/1428)
+- [[DevEx]: Convert the gameHistory store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1424)
+- [[DevEx]: Convert the snackbar store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1422)
+- [[DevEx]: Migrate FourDialog and SpectatorListMenu to script setup + TS](https://github.com/cuttle-cards/cuttle/issues/1412)
+- [[DevEx]: Convert the myGames store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1423)
+- [[DevEx]: Frontend environment and global type declarations](https://github.com/cuttle-cards/cuttle/issues/1403)
+- [[DevEx]: Declare the Sails globals for type checking (262 → 27 errors)](https://github.com/cuttle-cards/cuttle/issues/1401)
+
+## [Translate-It-App/Translate-It](https://github.com/Translate-It-App/Translate-It)
+
+- [[Feature]: Add on-demand model compatibility checks to Provider settings](https://github.com/Translate-It-App/Translate-It/issues/322)
+- [Improve text-selection icon positioning on Firefox](https://github.com/Translate-It-App/Translate-It/issues/219)
+- [[Feature]: Allow editing source text and retranslation in WindowsManager](https://github.com/Translate-It-App/Translate-It/issues/316)
+- [Simplify the provider speed selector UI](https://github.com/Translate-It-App/Translate-It/issues/242)
+- [[Feature]: Show Translate It context menu only where relevant](https://github.com/Translate-It-App/Translate-It/issues/310)
+
+## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
+
+- [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
+- [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
+- [CORS configured without origin allowlist in app.js (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2782)
+- [Implement Secure Payment Gateway and Payment Service](https://github.com/SecureBananaLabs/bug-bounty/issues/1)
+- [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
+- [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
+- [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
+- [CORS configured with no origin restrictions — allows any domain](https://github.com/SecureBananaLabs/bug-bounty/issues/1774)
+- [Job validation should reject inverted budget ranges](https://github.com/SecureBananaLabs/bug-bounty/issues/2853)
+- [Upload endpoint lacks authentication — unauthenticated file uploads allowed](https://github.com/SecureBananaLabs/bug-bounty/issues/1771)
+- [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
+- [Payment endpoint lacks authentication — unauthenticated payment creation](https://github.com/SecureBananaLabs/bug-bounty/issues/1772)
+- [Search endpoint has no input validation or length limit on query](https://github.com/SecureBananaLabs/bug-bounty/issues/2833)
+- [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
+- [Reject inverted job budget ranges in job validation](https://github.com/SecureBananaLabs/bug-bounty/issues/2835)
+- [registerUser access token can reference a different user id](https://github.com/SecureBananaLabs/bug-bounty/issues/2845)
+- [auth refresh endpoint issues tokens without verifying the requester](https://github.com/SecureBananaLabs/bug-bounty/issues/2847)
+- [Freelancer profile route should resolve mock profiles by username](https://github.com/SecureBananaLabs/bug-bounty/issues/2849)
+- [Calculate the exact value of PI #2872](https://github.com/SecureBananaLabs/bug-bounty/issues/2883)
+- [Calculate the exact value of PI](https://github.com/SecureBananaLabs/bug-bounty/issues/2885)
+- [Bug: user creation accepts empty payloads and client-controlled ids](https://github.com/SecureBananaLabs/bug-bounty/issues/1766)
+- [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
+- [POST /api/proposals endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2773)
+- [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
+- [POST /api/users endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2779)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
+- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+
+## [darshi1337/apogee](https://github.com/darshi1337/apogee)
+
+- [[bug] Late-opened expired run reports connection loss instead of expiry](https://github.com/darshi1337/apogee/issues/473)
+- [[bug] Binary files pass the size gate and decode as text junk](https://github.com/darshi1337/apogee/issues/472)
+- [[bug] Selected-text input has no size cap unlike paste and files](https://github.com/darshi1337/apogee/issues/471)
+- [[bug] Raw internal error text reaches users in model bar, PDF path, and file/host notes](https://github.com/darshi1337/apogee/issues/470)
+- [[chore] Share or document duplicated limit constants](https://github.com/darshi1337/apogee/issues/364)
+- [[enhancement] Add right-to-left summary languages](https://github.com/darshi1337/apogee/issues/246)
+- [[enhancement] Rules-based engine choice by input kind and size](https://github.com/darshi1337/apogee/issues/437)
+
+## [luceat-lux-vestra/zed-spring-tools](https://github.com/luceat-lux-vestra/zed-spring-tools)
+
+- [task(platform): validate Linux x86_64 on real hardware](https://github.com/luceat-lux-vestra/zed-spring-tools/issues/115)
+- [task(platform): validate Windows x86_64 on real hardware](https://github.com/luceat-lux-vestra/zed-spring-tools/issues/114)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[Docs]: Community Meeting Records links unusable](https://github.com/open-telemetry/opentelemetry.io/issues/11927)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[pt] Localize content/en/docs/zero-code/java/spring-boot-starter/_index.md](https://github.com/open-telemetry/opentelemetry.io/issues/7117)
+- [[pt] Localize content/en/docs/zero-code/agent/performance.md](https://github.com/open-telemetry/opentelemetry.io/issues/7115)
+- [[pt] Localize content/en/docs/demo pages](https://github.com/open-telemetry/opentelemetry.io/issues/7544)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [Pin how CountryFlags turns a location into a flag](https://github.com/neomjs/neo/issues/19177)
+- [Docs App: Routes](https://github.com/neomjs/neo/issues/24)
+- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
+- [buildScripts/createClass: guessBaseClass() => add container.Viewport](https://github.com/neomjs/neo/issues/3623)
+- [selection.HelixModel: toggleSelection & select](https://github.com/neomjs/neo/issues/318)
+- [tab.Container: Closable tabs](https://github.com/neomjs/neo/issues/26)
+- [Pin how IdGenerator names every instance](https://github.com/neomjs/neo/issues/19176)
+- [Pin how the RPC API manager resolves each call's type and URL](https://github.com/neomjs/neo/issues/19175)
+- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
+- [Pin when the toast manager refuses a toast](https://github.com/neomjs/neo/issues/19147)
+- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+- [Pin the number field's spin-button trigger](https://github.com/neomjs/neo/issues/19144)
+- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
+- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
+- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
+- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
+- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
+
+## [pik-gane/vodle](https://github.com/pik-gane/vodle)
+
+- [Hindi translation](https://github.com/pik-gane/vodle/issues/56)
+
 ## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
 
 - [3D model: H-IIA second stage (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/1169)
@@ -35,7 +209,6 @@ This list gets updated every day at midnight.
 - [3D model: FLEX, the fluorescence mission (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/962)
 - [3D model: MicroCarb (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/961)
 - [3D model: CFOSAT (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/960)
-- [Test rows_for_host in scripts/_exo_ids.py](https://github.com/Sara-Managed-Projects/space-radar/issues/864)
 - [Put the offline steps list's 10 px item gap on the 4 px grid (templates/pages.css)](https://github.com/Sara-Managed-Projects/space-radar/issues/702)
 - [Glossary: cite the figure in the "L2" line](https://github.com/Sara-Managed-Projects/space-radar/issues/887)
 - [Glossary: cite the figure in the "astronomical unit" line](https://github.com/Sara-Managed-Projects/space-radar/issues/885)
@@ -106,175 +279,5 @@ This list gets updated every day at midnight.
 - [Test leadingDigit in ui/hud.js](https://github.com/Sara-Managed-Projects/space-radar/issues/815)
 - [Famous stars: add Sadr, a bright star of Cygnus](https://github.com/Sara-Managed-Projects/space-radar/issues/814)
 - [Test glowOfLights in sky/skymath.js](https://github.com/Sara-Managed-Projects/space-radar/issues/813)
-
-## [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system)
-
-- [No test covers the loopback half of http.js:114 - authRequired is only asserted from the authenticated side](https://github.com/happy520ai/unified-ai-system/issues/187)
-- [Our survey pages stated denominators their own tables contradicted (2/19 where the tally says 2/18)](https://github.com/happy520ai/unified-ai-system/issues/180)
-- [Add a secure Helm chart for the HTTP gateway (Phase 1)](https://github.com/happy520ai/unified-ai-system/issues/113)
-- [docs: extend MCP client matrix with verified client runs](https://github.com/happy520ai/unified-ai-system/issues/106)
-
-## [Uuriko/project-room](https://github.com/Uuriko/project-room)
-
-- [Contributor task: correct the public-receipts row in the access checklist](https://github.com/Uuriko/project-room/issues/2795)
-- [Contributor task: bring the QA guide's CI map up to date](https://github.com/Uuriko/project-room/issues/2792)
-- [Contributor task: document the existing UI string helper and catalog build](https://github.com/Uuriko/project-room/issues/2790)
-- [Contributor task: add axe coverage for local password-reset forms](https://github.com/Uuriko/project-room/issues/2785)
-- [Verify open-room share-link flow end-to-end post-#817; close #612 or file follow-ups](https://github.com/Uuriko/project-room/issues/839)
-- [scripts/room rebuild --commit-push aborts when --out is inside the repo cwd](https://github.com/Uuriko/project-room/issues/834)
-
-## [nextcloud/maps](https://github.com/nextcloud/maps)
-
-- [Ability to change the location of the Maps default folder](https://github.com/nextcloud/maps/issues/1078)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-- [Provisioned accounts never auto-refresh the INBOX for passwordless (OIDC/SAML) sessions, even with a master password configured](https://github.com/nextcloud/mail/issues/13807)
-- [Specify rich text colors in RGB or Hex by default](https://github.com/nextcloud/mail/issues/13669)
-- [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
-
-## [PicadoLabs/build-with-ai](https://github.com/PicadoLabs/build-with-ai)
-
-- [feat(models): implement dynamic model capability aliasing and 2026 frontier registry](https://github.com/PicadoLabs/build-with-ai/issues/107)
-- [chore(lint): clean up unused variable warnings across codebase and tests](https://github.com/PicadoLabs/build-with-ai/issues/117)
-- [feat(state): add build-with-ai undo to safely rollback step and context decisions](https://github.com/PicadoLabs/build-with-ai/issues/115)
-- [feat(rules): add export --rules to sync .cursorrules, .windsurfrules, and CLAUDE.md](https://github.com/PicadoLabs/build-with-ai/issues/113)
-- [feat(ux): add --from-clipboard and heuristic decision parsing to done command](https://github.com/PicadoLabs/build-with-ai/issues/111)
-- [feat(mcp): add native Model Context Protocol (MCP) stdio server](https://github.com/PicadoLabs/build-with-ai/issues/110)
-- [feat(prompt): add immutable architectural contract anchoring to eliminate context drift](https://github.com/PicadoLabs/build-with-ai/issues/109)
-- [feat(byok): add opt-in BYOK autonomous execution engine via lib/aiClient.js](https://github.com/PicadoLabs/build-with-ai/issues/108)
-
-## [ShoeSafari-Org/ShoeSafari](https://github.com/ShoeSafari-Org/ShoeSafari)
-
-- [[docs] Add Soroban contract deployment guide](https://github.com/ShoeSafari-Org/ShoeSafari/issues/10)
-- [[testing] Add unit tests for Stellar payment transaction flow](https://github.com/ShoeSafari-Org/ShoeSafari/issues/8)
-
-## [ashlrai/lexicon](https://github.com/ashlrai/lexicon)
-
-- [Docs: Windows note for Cursor MCP setup](https://github.com/ashlrai/lexicon/issues/33)
-- [Tests: misheard names containing apostrophes](https://github.com/ashlrai/lexicon/issues/34)
-- [lexicon doctor: print the fix command for each failed check](https://github.com/ashlrai/lexicon/issues/32)
-- [Add a cloud/DevOps starter pack](https://github.com/ashlrai/lexicon/issues/31)
-- [Test that the counts stated in the docs match the code](https://github.com/ashlrai/lexicon/issues/10)
-- [Record an asciinema cast of lexicon setup](https://github.com/ashlrai/lexicon/issues/11)
-- [Benchmark: measure how badly non-English names do before changing the phonetics](https://github.com/ashlrai/lexicon/issues/8)
-- [lexicon suggest: propose a phonetic hint for terms the matcher keeps guessing at](https://github.com/ashlrai/lexicon/issues/7)
-- [Export format: Speechmatics additional_vocab](https://github.com/ashlrai/lexicon/issues/6)
-- [Add a starter pack for a profession we do not cover](https://github.com/ashlrai/lexicon/issues/4)
-
-## [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster)
-
-- [Worker Pool Launch config pages doesn't update all fetched numbers](https://github.com/taskcluster/taskcluster/issues/9271)
-- [generic-worker/posix: task exception when caches dir is on a different mount point from tasks dir](https://github.com/taskcluster/taskcluster/issues/7580)
-
-## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16126)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16021)
-- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/15996)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15995)
-- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15970)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15944)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15927)
-- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15831)
-- [[RFC]: Migrate `math/base/special` packages from relative tolerance testing to ULP difference testing (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11352)
-- [Fix broken Markdown link: http://www.speech.cs.cmu.edu/cgi-bin/cmudict#about](https://github.com/stdlib-js/stdlib/issues/11868)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub)
-
-- [What does Arli AI do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/326)
-- [docs/sources.md: the cheahjs/free-llm-api-resources link returns 404](https://github.com/pacocartones/free-llm-api-hub/issues/324)
-- [What does Sarvam AI do with your prompts? Record data_policy (about 1 hour)](https://github.com/pacocartones/free-llm-api-hub/issues/323)
-- [[good first issue] Does Pollinations.ai's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/320)
-- [[good first issue] Docs: explain data_policy in the first-provider tutorial](https://github.com/pacocartones/free-llm-api-hub/issues/301)
-- [[good first issue] What does SambaNova Cloud do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/262)
-- [[good first issue] What does Typhoon (SCB 10X) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/288)
-- [[good first issue] What does W&B Inference do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/287)
-- [[good first issue] What does ModelScope (API-Inference) do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/286)
-- [[good first issue] What does NLP Cloud do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/285)
-- [[good first issue] What does Baseten do with your prompts? Record data_policy](https://github.com/pacocartones/free-llm-api-hub/issues/284)
-- [[good first issue] Does SiliconFlow's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/69)
-- [[good first issue] Does HuggingFace's free tier allow commercial use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/68)
-- [[good first issue] Does Fireworks AI's free tier allow production use? Confirm commercial_ok](https://github.com/pacocartones/free-llm-api-hub/issues/11)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-- [Website: Consolidate duplicative and unused CSS](https://github.com/meshery/meshery.io/issues/896)
-
-## [nextcloud/deck](https://github.com/nextcloud/deck)
-
-- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
-
-## [nextcloud/calendar](https://github.com/nextcloud/calendar)
-
-- [Show proper metadata for when you post the link in social networks or chats](https://github.com/nextcloud/calendar/issues/609)
-
-## [Indicaza/holdfast](https://github.com/Indicaza/holdfast)
-
-- [[Good first issue] Add a friendly local persona chooser for development](https://github.com/Indicaza/holdfast/issues/135)
-- [[Good first issue] Add an internal Markdown link checker to CI](https://github.com/Indicaza/holdfast/issues/134)
-- [[Good first issue] Add sanitized product screenshots to the README](https://github.com/Indicaza/holdfast/issues/133)
-
-## [Ryoseiimai/pocket-gym](https://github.com/Ryoseiimai/pocket-gym)
-
-- [ダンベル種目に重さの目安を書く](https://github.com/Ryoseiimai/pocket-gym/issues/14)
-- [実行画面の「次:」表記を「次のセット」に直す](https://github.com/Ryoseiimai/pocket-gym/issues/3)
-- [種目を1つ追加する](https://github.com/Ryoseiimai/pocket-gym/issues/1)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Always show filters in conversation search](https://github.com/nextcloud/spreed/issues/19498)
-- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
-
-## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
-
-- [Duplicated logic in process-quality.mjs and 2 more files: findColumn](https://github.com/career-ops-hq/career-ops/issues/5195)
-- [Use validateFlags() instead of hand-written flag checks in find.mjs, jd-similarity.mjs and application-answers.mjs](https://github.com/career-ops-hq/career-ops/issues/5181)
-- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
-- [apify plugin: write the JD frontmatter with js-yaml instead of yamlEscape](https://github.com/career-ops-hq/career-ops/issues/4961)
-- [Move the known-skills block of upskill.mjs runSelfTest() into its test file and fix the stale comment](https://github.com/career-ops-hq/career-ops/issues/5183)
-- [i18n(pl): re-sync modes/pl/oferta.md (Polish) to the canonical A–H + Risk Summary structure](https://github.com/career-ops-hq/career-ops/issues/3672)
-- [i18n(fr): bring the French interview modes (plan/practice/debrief) back to parity with the English ones](https://github.com/career-ops-hq/career-ops/issues/3407)
-- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
-
-## [rpamis/comet](https://github.com/rpamis/comet)
-
-- [feat: 支持 Prime Agent 平台（prime-agent platform adapter）](https://github.com/rpamis/comet/issues/461)
-- [fix: doctor 误报 opencode 的 CodeGraph MCP 未注册（JSONC 块注释剥离吃掉 glob ＋ 不识别 mcp.servers 形状）](https://github.com/rpamis/comet/issues/479)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
-- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
-
-## [neomjs/neo](https://github.com/neomjs/neo)
-
-- [Pin how CountryFlags turns a location into a flag](https://github.com/neomjs/neo/issues/19177)
-- [Docs App: Routes](https://github.com/neomjs/neo/issues/24)
-- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
-- [buildScripts/createClass: guessBaseClass() => add container.Viewport](https://github.com/neomjs/neo/issues/3623)
-- [selection.HelixModel: toggleSelection & select](https://github.com/neomjs/neo/issues/318)
-- [tab.Container: Closable tabs](https://github.com/neomjs/neo/issues/26)
-- [Pin how IdGenerator names every instance](https://github.com/neomjs/neo/issues/19176)
-- [Pin how the RPC API manager resolves each call's type and URL](https://github.com/neomjs/neo/issues/19175)
-- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
-- [Pin when the toast manager refuses a toast](https://github.com/neomjs/neo/issues/19147)
-- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
-- [Pin the number field's spin-button trigger](https://github.com/neomjs/neo/issues/19144)
-- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
-- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
-- [Pin how the currency field parses and renders amounts](https://github.com/neomjs/neo/issues/19129)
-- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
-- [Pin HashHistory: one route stack per browser window](https://github.com/neomjs/neo/issues/19132)
+- [Famous stars: add Saiph, a bright star of Orion](https://github.com/Sara-Managed-Projects/space-radar/issues/812)
 
