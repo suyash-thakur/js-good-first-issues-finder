@@ -4,139 +4,165 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [AlaSQL/alasql](https://github.com/AlaSQL/alasql)
+## [nirholas/three.ws](https://github.com/nirholas/three.ws)
 
-- [Problem with undefined value in empty column when exporting multiple tables in a single csv file](https://github.com/AlaSQL/alasql/issues/369)
-- [alasql not checking schema on insertion](https://github.com/AlaSQL/alasql/issues/926)
-- [Swapped parameters for promiseExec](https://github.com/AlaSQL/alasql/issues/1042)
-- [primary key not working. Adds duplicate values.](https://github.com/AlaSQL/alasql/issues/1292)
-- [Comprison on NULL differes from SQL](https://github.com/AlaSQL/alasql/issues/1414)
-- [DATE function not working ](https://github.com/AlaSQL/alasql/issues/1627)
-- [Foreign key via `REFERENCES` does not work with `FILESTORAGE`](https://github.com/AlaSQL/alasql/issues/1846)
-- [4.1.2 > 4.1.3 break indexedDB queries](https://github.com/AlaSQL/alasql/issues/1747)
-- [Execution gives wrong result when field name starts from number](https://github.com/AlaSQL/alasql/issues/1356)
-- [Indexeddb Delete from is not working ](https://github.com/AlaSQL/alasql/issues/1217)
-- [UNIQUE with FILESTORAGE not Working!](https://github.com/AlaSQL/alasql/issues/1148)
-- [LS DB, CURRENT_TIMESTAMP after refresh?](https://github.com/AlaSQL/alasql/issues/1082)
-- [Something wrong with primary key index on table - Not expected](https://github.com/AlaSQL/alasql/issues/1005)
-- [Date error](https://github.com/AlaSQL/alasql/issues/862)
-- [Enhance SQL function](https://github.com/AlaSQL/alasql/issues/1216)
-- [On Passing empty excel file throw error: Cannot read property 'split' of undefined](https://github.com/AlaSQL/alasql/issues/901)
+- [Money Pulse: compact numbers roll over into the wrong unit (`$1000`, `1000.0k`)](https://github.com/nirholas/three.ws/issues/344)
+- [Tests: lock in the anchored host allowlist in `isSafeQueryModelUrl`](https://github.com/nirholas/three.ws/issues/343)
+- [Upload check: `isValidGlbMagic` skips the declared-length check the server enforces](https://github.com/nirholas/three.ws/issues/341)
+- [Rig: map Source engine `ValveBiped.Bip01_*` skeletons and teach Rig Doctor to name them](https://github.com/nirholas/three.ws/issues/340)
+- [Rig: map 3ds Max Biped finger chains (`Bip01 L Finger0`, `Finger01`)](https://github.com/nirholas/three.ws/issues/339)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
 
-- [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511)
-- [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747)
+- [[Bug] Image Slider / Logo Carousel: tooltip is hover-only (no :focus-within) and no prefers-reduced-motion support](https://github.com/noruzzamans/gslider-blocks/issues/344)
+- [[Bug] Flexi Content: no visible "Add slide" control; Add/Duplicate toolbar buttons are empty dead code](https://github.com/noruzzamans/gslider-blocks/issues/300)
+- [[Bug] Image Slider / Logo Carousel: custom hover opacity, scale and lift are ignored on the frontend](https://github.com/noruzzamans/gslider-blocks/issues/295)
+- [chore(lint): fix legacy JS/CSS lint debt file-by-file (tracking)](https://github.com/noruzzamans/gslider-blocks/issues/349)
+- [[Bug] MCP generator and templates use fabricated attachment IDs (1, 2, 11, 101...) for image/logo slides](https://github.com/noruzzamans/gslider-blocks/issues/327)
+- [[Bug] Slider stylesheet removes focus outline site-wide (WCAG 2.4.7)](https://github.com/noruzzamans/gslider-blocks/issues/291)
+- [[Bug] readme.txt lists bundled fslightbox license as 'Free / Commercial'; bundled build is fslightbox 3.7.4 (MIT)](https://github.com/noruzzamans/gslider-blocks/issues/343)
+- [[Bug] readme.txt falsely claims src/ is bundled (no source link); plugin header missing 'Requires at least: 6.3'](https://github.com/noruzzamans/gslider-blocks/issues/342)
+- [[Bug] Image Slider / Logo Carousel: empty item height outputs a stray "auto" that drops the item padding (and display:flex on tablet/mobile)](https://github.com/noruzzamans/gslider-blocks/issues/311)
+- [[Bug] Logo Carousel: tablet hover background is applied as the normal background (missing :hover)](https://github.com/noruzzamans/gslider-blocks/issues/310)
+- [[Bug] Testimonial: default content padding and title margin are not applied until the Style panel is opened](https://github.com/noruzzamans/gslider-blocks/issues/306)
+- [[Bug] Testimonial: Desktop rating "Star Gap" ignores the selected unit (hard-coded px) and outputs invalid CSS when empty](https://github.com/noruzzamans/gslider-blocks/issues/305)
+- [[Bug] "Duplicate Current Slide" duplicates the wrong slide when Infinite Loop is on (uses swiper.activeIndex instead of realIndex)](https://github.com/noruzzamans/gslider-blocks/issues/304)
+- [[Bug] Flexi Content: navigation arrows hide the keyboard focus ring (outline: none !important)](https://github.com/noruzzamans/gslider-blocks/issues/298)
+- [[Bug] Navigation arrow offset control labeled "Top Offset" actually sets the bottom offset](https://github.com/noruzzamans/gslider-blocks/issues/297)
+- [[Bug] Background image picker throws a TypeError on select (missing Alt/ID setters in block inspectors)](https://github.com/noruzzamans/gslider-blocks/issues/296)
+- [test(core): create RegistrationCategory unit test adhering to PSR-4 1-to-1 standard](https://github.com/noruzzamans/gslider-blocks/issues/201)
+- [chore(dx): add makepot script to package.json for automated translation generation](https://github.com/noruzzamans/gslider-blocks/issues/199)
+- [[Bug] Stale labeler.yml paths and bug report template missing 'Base Slider' (plus small build/repo hygiene notes)](https://github.com/noruzzamans/gslider-blocks/issues/335)
+- [[Bug] Overview tab: onRetry prop unused (no retry button) and block count hardcoded to 5 / '5 Core Modules'](https://github.com/noruzzamans/gslider-blocks/issues/332)
+- [[Bug] Testimonial: testimonialTitleFontSizeUnits default has stray 'em' and 'rem' keys (leaks into REST attrs and MCP schema)](https://github.com/noruzzamans/gslider-blocks/issues/322)
+- [[Bug] Attribute defaults don't match declared types: *GradientColor (string) default null, quoteIcon gradients '' vs null, testimonial quoteImageID (number) default ""](https://github.com/noruzzamans/gslider-blocks/issues/321)
 
 ## [darshi1337/apogee](https://github.com/darshi1337/apogee)
 
-- [[chore] Drop unused exports for the engine lock timeout and reader lock release](https://github.com/darshi1337/apogee/issues/499)
 - [[enhancement] Add right-to-left summary languages](https://github.com/darshi1337/apogee/issues/246)
 - [[enhancement] Rules-based engine choice by input kind and size](https://github.com/darshi1337/apogee/issues/437)
 
-## [davgross/homeless-in-slo-resource-guide](https://github.com/davgross/homeless-in-slo-resource-guide)
+## [neurodesk/webapps](https://github.com/neurodesk/webapps)
 
-- [Get details on 40 Prado locker situation](https://github.com/davgross/homeless-in-slo-resource-guide/issues/40)
+- [ci: add noddi, degibbs, dwidenoise and n4 to test:interface-workflows](https://github.com/neurodesk/webapps/issues/415)
+- [dwidenoise: report the DIPY Patch2Self version 1 OLS copy_X=False defect upstream](https://github.com/neurodesk/webapps/issues/430)
+- [shared: one module for BIDS-derivative names and sidecars of the DWI apps](https://github.com/neurodesk/webapps/issues/413)
+
+## [arinyaho/concord](https://github.com/arinyaho/concord)
+
+- [review-until-approve: the isolated Codex reviewer has no python on PATH](https://github.com/arinyaho/concord/issues/396)
+- [State CLI verbs report a usage error when their stdin evidence is missing](https://github.com/arinyaho/concord/issues/292)
+- [Keep removing test temp directories when one removal fails](https://github.com/arinyaho/concord/issues/290)
+
+## [gojaildev/vylop](https://github.com/gojaildev/vylop)
+
+- [feat(editor): add font size and font family preferences with persistence](https://github.com/gojaildev/vylop/issues/44)
+- [feat(editor): Add keyboard shortcuts for code execution, panel toggles, and workspace management](https://github.com/gojaildev/vylop/issues/34)
+
+## [yinweinidongle/screen-picture-demo](https://github.com/yinweinidongle/screen-picture-demo)
+
+- [[Good first issue] Document wind demo data fields and units](https://github.com/yinweinidongle/screen-picture-demo/issues/6)
+- [[Good first issue] Test Home preview failure and retry behavior](https://github.com/yinweinidongle/screen-picture-demo/issues/4)
+- [[Good first issue] Add keyboard access to the wind chart tooltip](https://github.com/yinweinidongle/screen-picture-demo/issues/2)
+
+## [Zoverions/AXIOM-MESH](https://github.com/Zoverions/AXIOM-MESH)
+
+- [Agent Commons: external-agent contribution and interoperability layer](https://github.com/Zoverions/AXIOM-MESH/issues/1101)
+- [Agent Community engagement: first outside Security Cell result](https://github.com/Zoverions/AXIOM-MESH/issues/1204)
+- [Community Testnet v0 — recruit independent operators and hardware evidence](https://github.com/Zoverions/AXIOM-MESH/issues/1221)
+
+## [meteor/meteor](https://github.com/meteor/meteor)
+
+- [tools/node-process-warnings.js throws on Error-valued warnings and drops emitWarning arguments](https://github.com/meteor/meteor/issues/14612)
+- [Support GitHub urls in Npm.depends](https://github.com/meteor/meteor/issues/12329)
+- [meteor profile hard-fails on Windows with no docs mention (bash-only suite)](https://github.com/meteor/meteor/issues/14589)
+- [Async callbacks in Meteor.setTimeout/setInterval/defer crash the server when they throw](https://github.com/meteor/meteor/issues/14793)
+- [Meteor Developer OAuth: account-settings page and auth endpoint no longer functional](https://github.com/meteor/meteor/issues/14242)
 
 ## [BinaryBaconLabs/todo-app](https://github.com/BinaryBaconLabs/todo-app)
 
 - [Document how to run the deploy script locally](https://github.com/BinaryBaconLabs/todo-app/issues/2)
 - [Add keyboard shortcuts for adding and completing todos](https://github.com/BinaryBaconLabs/todo-app/issues/1)
 
-## [badges/shields](https://github.com/badges/shields)
+## [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 
-- [Mozilla Thunderbird  add-ons (ATN)](https://github.com/badges/shields/issues/6994)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
-
-## [Bubblegunn/product-engineer](https://github.com/Bubblegunn/product-engineer)
-
-- [Python-flavoured plain-language table](https://github.com/Bubblegunn/product-engineer/issues/2)
-
-## [neurodesk/webapps](https://github.com/neurodesk/webapps)
-
-- [hmc: b-vector rotation for NiFreeze and SHORELine](https://github.com/neurodesk/webapps/issues/442)
-- [shared: move the input size limit to the shared package and use it in the DWI apps](https://github.com/neurodesk/webapps/issues/412)
-- [hmc: create the exes/dwi/hmc crate and read and write ITK affine .mat transforms](https://github.com/neurodesk/webapps/issues/440)
-- [ci: add noddi, degibbs, dwidenoise and n4 to test:interface-workflows](https://github.com/neurodesk/webapps/issues/415)
-- [dwidenoise: report the DIPY Patch2Self version 1 OLS copy_X=False defect upstream](https://github.com/neurodesk/webapps/issues/430)
-- [dwidenoise, n4: offer the ds005134 slab as an example](https://github.com/neurodesk/webapps/issues/431)
-- [ci: run the packages/n4 tests in dwi-native.yml](https://github.com/neurodesk/webapps/issues/417)
-- [shared: one module for BIDS-derivative names and sidecars of the DWI apps](https://github.com/neurodesk/webapps/issues/413)
+- [ui/integration: six v2 palette pairs fall below the 4.5:1 contrast floor](https://github.com/Jason-Vaughan/TangleClaw/issues/1265)
+- [[feature] Set CLAUDE_CODE_ARTIFACT_AUTO_OPEN=0 for spawned Claude sessions — artifact tabs pile up on a host nobody watches](https://github.com/Jason-Vaughan/TangleClaw/issues/1113)
+- [wrap: changelog promotion emits headings with no link-reference defs](https://github.com/Jason-Vaughan/TangleClaw/issues/1051)
+- [[chore] Log when resolveSessionRange downgrades a session SHA to the trunk range](https://github.com/Jason-Vaughan/TangleClaw/issues/670)
 
 ## [nextcloud/mail](https://github.com/nextcloud/mail)
 
 - [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
 - [Show email next to name in Search dropdown](https://github.com/nextcloud/mail/issues/13703)
 
-## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Run the hook install suite in CI](https://github.com/addisdev/actions-runners/issues/21)
-- [Fix the docs/cockpit.md path in the cockpit release workflow](https://github.com/addisdev/actions-runners/issues/84)
-- [Add unit tests for the capacity headroom gate](https://github.com/addisdev/actions-runners/issues/83)
-- [Add unit tests for the workflow YAML parser](https://github.com/addisdev/actions-runners/issues/82)
-- [Add unit tests for failure annotation classification](https://github.com/addisdev/actions-runners/issues/20)
+- [[Bug] Incorrect favicon MIME type declaration on meshery.io](https://github.com/meshery/meshery.io/issues/3103)
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [[Bug] Copy Button Flickering on Hover](https://github.com/meshery/meshery.io/issues/2903)
 
-## [nextcloud/deck](https://github.com/nextcloud/deck)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- ['Archive All cards' confirmation madal does not show properly on ultrawide 3440x1440 (21:9 ration) screen](https://github.com/nextcloud/deck/issues/3170)
-- [Horizontal Scrollbar for Tables in Deck Card Descriptions](https://github.com/nextcloud/deck/issues/5369)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
 
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+## [plotly/plotly.js](https://github.com/plotly/plotly.js)
 
-- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+- [[BUG]: contour trace updated with Plotly.react uses stale zmin/zmax](https://github.com/plotly/plotly.js/issues/8117)
 
-## [nextcloud/forms](https://github.com/nextcloud/forms)
+## [beefproject/beef](https://github.com/beefproject/beef)
 
-- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+- [Error in ActiveX Command Execution module - urlencoded command](https://github.com/beefproject/beef/issues/1854)
+- [Certain browser details are considered as invalid](https://github.com/beefproject/beef/issues/3051)
+- [Add IE11 XXE to read local files](https://github.com/beefproject/beef/issues/1715)
+- [update GetStoredCredentials, senglehardt.com, login manager autofill](https://github.com/beefproject/beef/issues/1974)
 
-## [nextcloud/calendar](https://github.com/nextcloud/calendar)
+## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
 
-- [Show proper metadata for when you post the link in social networks or chats](https://github.com/nextcloud/calendar/issues/609)
+- [[DevEx]: Add TS prop types to nine already-migrated script setup components](https://github.com/cuttle-cards/cuttle/issues/1428)
+- [[DevEx]: Convert the gameHistory store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1424)
+- [[DevEx]: Convert the snackbar store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1422)
+- [[DevEx]: Migrate FourDialog and SpectatorListMenu to script setup + TS](https://github.com/cuttle-cards/cuttle/issues/1412)
+- [[DevEx]: Convert the myGames store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1423)
+- [[DevEx]: Frontend environment and global type declarations](https://github.com/cuttle-cards/cuttle/issues/1403)
+- [[DevEx]: Declare the Sails globals for type checking (262 → 27 errors)](https://github.com/cuttle-cards/cuttle/issues/1401)
 
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Always show filters in conversation search](https://github.com/nextcloud/spreed/issues/19498)
-- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+- [[pt] Localize content/en/docs/zero-code/java/spring-boot-starter/_index.md](https://github.com/open-telemetry/opentelemetry.io/issues/7117)
+- [[pt] Localize content/en/docs/zero-code/agent/performance.md](https://github.com/open-telemetry/opentelemetry.io/issues/7115)
 
-## [gojaildev/vylop](https://github.com/gojaildev/vylop)
+## [web-platform-tests/wpt.fyi](https://github.com/web-platform-tests/wpt.fyi)
 
-- [feat(editor): add font size and font family preferences with persistence](https://github.com/gojaildev/vylop/issues/44)
+- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
 
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+## [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
 
-- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
-- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+- [PDF Header and Footer Design Options](https://github.com/hackforla/tdm-calculator/issues/1343)
+- [Dev: Create Page to Display when production site is off-line.](https://github.com/hackforla/tdm-calculator/issues/1396)
+- [Dev: Update notes icon in Admin](https://github.com/hackforla/tdm-calculator/issues/3399)
 
-## [yinweinidongle/screen-picture-demo](https://github.com/yinweinidongle/screen-picture-demo)
+## [fanzhangg/open-doc](https://github.com/fanzhangg/open-doc)
 
-- [[Good first issue] Write an English factory rendering guide](https://github.com/yinweinidongle/screen-picture-demo/issues/3)
-- [[Good first issue] Document wind demo data fields and units](https://github.com/yinweinidongle/screen-picture-demo/issues/6)
-- [[Good first issue] Test Home preview failure and retry behavior](https://github.com/yinweinidongle/screen-picture-demo/issues/4)
-- [[Good first issue] Add keyboard access to the wind chart tooltip](https://github.com/yinweinidongle/screen-picture-demo/issues/2)
+- [The link card follows its link off screen](https://github.com/fanzhangg/open-doc/issues/152)
+- [Lint ignores agent worktrees](https://github.com/fanzhangg/open-doc/issues/137)
+- [Links starting with / start at the project root](https://github.com/fanzhangg/open-doc/issues/123)
+- [Pasting a URL over selected text replaces the text](https://github.com/fanzhangg/open-doc/issues/100)
 
-## [Open-Sourcery-UMD/random-world-gen](https://github.com/Open-Sourcery-UMD/random-world-gen)
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 
-- [Log out and Settings](https://github.com/Open-Sourcery-UMD/random-world-gen/issues/7)
-- [Dungeon Generation Technique Research](https://github.com/Open-Sourcery-UMD/random-world-gen/issues/1)
-
-## [processing/p5.js](https://github.com/processing/p5.js)
-
-- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
-- [[2.0] Include `w` field of `p5.Vector` in documentation](https://github.com/processing/p5.js/issues/8154)
-- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
-- [Update describe function limits and best practices](https://github.com/processing/p5.js/issues/9105)
+- [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511)
+- [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747)
 
 ## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
 
@@ -241,64 +267,22 @@ This list gets updated every day at midnight.
 - [Test qRotate in sky/pointing.js](https://github.com/Sara-Managed-Projects/space-radar/issues/809)
 - [Famous stars: add Mintaka, a star of Orion's Belt](https://github.com/Sara-Managed-Projects/space-radar/issues/808)
 
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
 
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[Docs]: Community Meeting Records links unusable](https://github.com/open-telemetry/opentelemetry.io/issues/11927)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-- [[pt] Localize content/en/docs/zero-code/java/spring-boot-starter/_index.md](https://github.com/open-telemetry/opentelemetry.io/issues/7117)
-- [[pt] Localize content/en/docs/zero-code/agent/performance.md](https://github.com/open-telemetry/opentelemetry.io/issues/7115)
+- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
 
-## [nirholas/three.ws](https://github.com/nirholas/three.ws)
+## [nextcloud/calendar](https://github.com/nextcloud/calendar)
 
-- [Money Pulse: compact numbers roll over into the wrong unit (`$1000`, `1000.0k`)](https://github.com/nirholas/three.ws/issues/344)
-- [Tests: lock in the anchored host allowlist in `isSafeQueryModelUrl`](https://github.com/nirholas/three.ws/issues/343)
-- [Upload check: `isValidGlbMagic` skips the declared-length check the server enforces](https://github.com/nirholas/three.ws/issues/341)
-- [Rig: map Source engine `ValveBiped.Bip01_*` skeletons and teach Rig Doctor to name them](https://github.com/nirholas/three.ws/issues/340)
-- [Rig: map 3ds Max Biped finger chains (`Bip01 L Finger0`, `Finger01`)](https://github.com/nirholas/three.ws/issues/339)
+- [Show proper metadata for when you post the link in social networks or chats](https://github.com/nextcloud/calendar/issues/609)
 
-## [foam-foundation/foam3](https://github.com/foam-foundation/foam3)
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
 
-- [Status enum pills: use sentence case for every label](https://github.com/foam-foundation/foam3/issues/5561)
+- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Always show filters in conversation search](https://github.com/nextcloud/spreed/issues/19498)
 
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+## [fastify/fastify](https://github.com/fastify/fastify)
 
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-- [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315)
-
-## [rpamis/comet](https://github.com/rpamis/comet)
-
-- [feat: 支持 Prime Agent 平台（prime-agent platform adapter）](https://github.com/rpamis/comet/issues/461)
-- [fix: doctor 误报 opencode 的 CodeGraph MCP 未注册（JSONC 块注释剥离吃掉 glob ＋ 不识别 mcp.servers 形状）](https://github.com/rpamis/comet/issues/479)
-
-## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-
-- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/22275)
-- [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717)
-- [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991)
-- [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017)
-- [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979)
-- [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912)
-- [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896)
-
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
-
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
-- [Add Join button to events that have a virtual meeting link 15 minutes before the event](https://github.com/Hylozoic/hylo/issues/1586)
-
-## [dheerajjha/show-your-work](https://github.com/dheerajjha/show-your-work)
-
-- [A subagent's ExUnit, swift or bun test report doesn't count, so "tests pass" gets blocked](https://github.com/dheerajjha/show-your-work/issues/5)
-- [audit silently ignores a bad --days or --limit, and --days <path> audits the wrong folder](https://github.com/dheerajjha/show-your-work/issues/6)
-- [bazel test, turbo run test, hatch test and pants test aren't read as test runs, so a true "tests pass" gets blocked](https://github.com/dheerajjha/show-your-work/issues/4)
-
-## [suffolklitsa/course-planner](https://github.com/suffolklitsa/course-planner)
-
-- [Week view: check 200% zoom and block contrast](https://github.com/suffolklitsa/course-planner/issues/23)
-- [Say when a section runs only part of the term](https://github.com/suffolklitsa/course-planner/issues/18)
-- [Check the planner on phones](https://github.com/suffolklitsa/course-planner/issues/9)
+- [Option to align route params with schema at startup](https://github.com/fastify/fastify/issues/5215)
+- [ApplicationHooks have inconsistent reference to instance](https://github.com/fastify/fastify/issues/4967)
 
