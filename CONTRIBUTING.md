@@ -20,4 +20,4 @@ Before you start contributing, please take a moment to review these guidelines:
 
 - If your pull request is accepted, congratulations! Your contribution will be merged into the main branch.
 
-Thank you for your contributions to our project! We appreciate your help in making it better Experiance.
+Thank you for your contributions to our project! We appreciate your help in making it better.
