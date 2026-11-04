@@ -4,58 +4,46 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [conn3xorg/web](https://github.com/conn3xorg/web)
+## [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources)
 
-- [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
-- [Writers wanted: edit the Ansible and Terraform migration guides](https://github.com/conn3xorg/web/issues/115)
-- [Content writers wanted: tell us where the website stops making sense](https://github.com/conn3xorg/web/issues/114)
-- [Writers wanted: write a glossary for the Conn3x docs](https://github.com/conn3xorg/web/issues/113)
-- [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
-- [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
+- [Dance subsection has only 9 entries](https://github.com/StudentSuite/awesome-study-resources/issues/509)
+- [ITGS subsection has only 7 entries](https://github.com/StudentSuite/awesome-study-resources/issues/508)
+- [Four SAT, PSAT and ACT entries share a URL or point at a homepage instead of the exam page](https://github.com/StudentSuite/awesome-study-resources/issues/507)
+- [Twelve more entries link to URLs that now redirect to a different page](https://github.com/StudentSuite/awesome-study-resources/issues/506)
+- [AI detectors are listed with no caveat about their reliability](https://github.com/StudentSuite/awesome-study-resources/issues/473)
+- [Six pricing tags fall outside the documented set and no check lints tags](https://github.com/StudentSuite/awesome-study-resources/issues/468)
+- [Four entries link to URLs that now redirect to another site or page](https://github.com/StudentSuite/awesome-study-resources/issues/466)
+- [Entries point at an under-construction page and a default-title portal](https://github.com/StudentSuite/awesome-study-resources/issues/465)
+- [Three StudyIB subject links redirect to the StudyIB homepage](https://github.com/StudentSuite/awesome-study-resources/issues/464)
 
-## [code-charity/youtube](https://github.com/code-charity/youtube)
+## [ReduxISU/Redux_GUI](https://github.com/ReduxISU/Redux_GUI)
 
-- [💡  Archive; All transcripts of videos watched; Search (personal ranking / global ranking);  viewing log](https://github.com/code-charity/youtube/issues/4416)
-- [Volume Step🐞](https://github.com/code-charity/youtube/issues/4441)
-- [🐞it really slows down firefox and firefox keep crashing](https://github.com/code-charity/youtube/issues/4439)
-- [💡Add Playlist Duration](https://github.com/code-charity/youtube/issues/4437)
-- [💡Ability to Disable/Choose No Theme](https://github.com/code-charity/youtube/issues/4329)
-- [🐞Blank space between comments section when watching Shorts.](https://github.com/code-charity/youtube/issues/2940)
-- [Buffer Full Video.  Preload whole videos.  (issue: fail for biggest videos by browser defaults)](https://github.com/code-charity/youtube/issues/581)
-- [🐞 "to the left" sidebar not working, along with player size adjustments](https://github.com/code-charity/youtube/issues/4356)
-- [🐞Theater mode not working properly](https://github.com/code-charity/youtube/issues/4431)
-- [🐞Autoplay for playlists stopped autoplaying](https://github.com/code-charity/youtube/issues/2735)
-- [💡Add option to copy/download video transcript with or wihout timestamps](https://github.com/code-charity/youtube/issues/4427)
-- [🐞youtube is blocked](https://github.com/code-charity/youtube/issues/4410)
-- [When you start a video it stutters for 1 second](https://github.com/code-charity/youtube/issues/2371)
-- [🐞Incomplete settings application (subtitles, audio) during internal YouTube navigation ](https://github.com/code-charity/youtube/issues/4308)
-- [tidy the menu meaningfully?](https://github.com/code-charity/youtube/issues/4413)
-- [Site is broken in tabs opened a day before🐞](https://github.com/code-charity/youtube/issues/4411)
-- [💡Option to disable/hide the appearance of the precise seeking bar](https://github.com/code-charity/youtube/issues/4399)
-- [🐞Volume control with mouse wheel broken?](https://github.com/code-charity/youtube/issues/3961)
-- [🐞 "Disable Likes Animation" doesn't](https://github.com/code-charity/youtube/issues/3900)
-- [🐞 Members Only Videos can be seen](https://github.com/code-charity/youtube/issues/3386)
-- ["Show time remaining with reference to playback speed" -option stopped working🐞](https://github.com/code-charity/youtube/issues/4340)
-- [Ways to add Shorts to the queue list, user saved playlists & watch later list!](https://github.com/code-charity/youtube/issues/2460)
-- [cinema mode not working as expected🐞](https://github.com/code-charity/youtube/issues/4381)
-- [Add "Force stable volume OFF" feature.](https://github.com/code-charity/youtube/issues/2600)
-- [Permanent Disable Of Multiple YouTube Settings](https://github.com/code-charity/youtube/issues/2624)
-- [💡](https://github.com/code-charity/youtube/issues/4370)
-- [Player buttons to be added </video>](https://github.com/code-charity/youtube/issues/4146)
+- [Say in TESTING.md how to unit-test component logic (import it, don't read the source)](https://github.com/ReduxISU/Redux_GUI/issues/422)
+- [[Bug]: Main page problem search shows no "Add new problem" button when nothing matches](https://github.com/ReduxISU/Redux_GUI/issues/387)
+- [Lint: triage import-x and no-unused-vars warnings](https://github.com/ReduxISU/Redux_GUI/issues/185)
+- [Tooltip Text Reformat To Match '-' and ' ' use in Wikipedia, Research, and Education Format](https://github.com/ReduxISU/Redux_GUI/issues/176)
+- [Add a site-wide Referrer-Policy header](https://github.com/ReduxISU/Redux_GUI/issues/280)
+- [When Typing in the Search Bar On Main page, Make Tags Go Away](https://github.com/ReduxISU/Redux_GUI/issues/341)
+- [About Us: add an "In the News" section, starting with the Idaho State Journal BengalBot article](https://github.com/ReduxISU/Redux_GUI/issues/337)
+- [About Us: add missing awards (Andrija's 2025 Symposium award, Kaden's best paper) and missing grant amounts](https://github.com/ReduxISU/Redux_GUI/issues/333)
+- [Add HERC grants and fix SARE grant credits in About Us Support section](https://github.com/ReduxISU/Redux_GUI/issues/303)
 
-## [ariefenv-hash/md3](https://github.com/ariefenv-hash/md3)
+## [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha)
 
-- [[应用] 压缩 / 解压工具（md3 已 vendor jszip.min.js）：zip 打包与解包 + VFS 目录级导入导出](https://github.com/ariefenv-hash/md3/issues/134)
-- [[应用] PDF 阅读器（daedalOS `PDF` + md3 已 vendor pdf.js 1.04MB）：零新增体积的独立 PDF 应用](https://github.com/ariefenv-hash/md3/issues/128)
-- [[应用] 国际象棋 Chess（daedalOS `Chess`）：完整规则 + AI 对手 + 棋谱记录](https://github.com/ariefenv-hash/md3/issues/132)
-- [[应用] Markdown 编辑器 / 阅读器（daedalOS `Marked` + md3 已 vendor marked.min.js）：写作 + 实时预览 + VFS 落盘](https://github.com/ariefenv-hash/md3/issues/129)
-- [[系统][按键] 系统组合键：电源+音量下截图、长按电源、无障碍音量键快捷键（AOSP volume key shortcut）](https://github.com/ariefenv-hash/md3/issues/111)
-- [[系统] 屏幕固定 Screen Pinning（AOSP ScreenPinning）：钉住单应用 + 解锁 PIN 门控](https://github.com/ariefenv-hash/md3/issues/98)
-- [[系统] 剪贴板预览浮层（#21 候选 7 · A12+ Clipboard Overlay）：复制内容悬浮卡 + 隐私剪除行为](https://github.com/ariefenv-hash/md3/issues/95)
+- [Example: Laravel form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/126)
+- [Example: Django form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/125)
+- [Add Swahili (sw) widget translation](https://github.com/WebDecoy/FCaptcha/issues/123)
+- [Add Bengali (bn) widget translation](https://github.com/WebDecoy/FCaptcha/issues/122)
+- [Add Urdu (ur) widget translation](https://github.com/WebDecoy/FCaptcha/issues/121)
 
-## [jdhart81/hdfm-framework](https://github.com/jdhart81/hdfm-framework)
+## [tokentimerch/tokentimer-core](https://github.com/tokentimerch/tokentimer-core)
 
-- [Native-status sources for planting records: from a state checklist to species[].native](https://github.com/jdhart81/hdfm-framework/issues/49)
+- [Validate GitHub Actions workflows with actionlint in CI](https://github.com/tokentimerch/tokentimer-core/issues/309)
+- [Publish CI/CD templates for triggering token renewal workflows](https://github.com/tokentimerch/tokentimer-core/issues/308)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
 ## [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck)
 
@@ -67,90 +55,33 @@ This list gets updated every day at midnight.
 - [GFI: Add docs/README.md contributor index / 贡献者文档索引](https://github.com/AI-WorkDeck/aiworkdeck/issues/1078)
 - [GFI: Fix one frontend locale namespace key parity gap / 补齐一组 locale 键对拍缺口](https://github.com/AI-WorkDeck/aiworkdeck/issues/1084)
 
-## [TapanKumarBarik/Backend-roadmap](https://github.com/TapanKumarBarik/Backend-roadmap)
+## [nextcloud/mail](https://github.com/nextcloud/mail)
 
-- [Find and fix broken external links in “Further reading” sections](https://github.com/TapanKumarBarik/Backend-roadmap/issues/50)
-- [Add unit tests for the markdown pipeline (Vitest)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/41)
-- [Add “Further reading & sources” to 2 lld/ modules](https://github.com/TapanKumarBarik/Backend-roadmap/issues/40)
-- [Add “Further reading & sources” to 3 backend/ modules](https://github.com/TapanKumarBarik/Backend-roadmap/issues/39)
-- [Add “Further reading & sources” to learn/ tracks 22–24 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/38)
-- [Add “Further reading & sources” to learn/ tracks 19–21 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/37)
-- [Add “Further reading & sources” to learn/ tracks 16–18 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/36)
-- [Add “Further reading & sources” to learn/ tracks 13–15 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/35)
-- [Add “Further reading & sources” to learn/ tracks 10–12 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/34)
-- [Add “Further reading & sources” to learn/ tracks 07–09 (28 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/33)
-- [Add “Further reading & sources” to learn/ tracks 04–06 (31 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/32)
+- [After move thread, app should select next available message](https://github.com/nextcloud/mail/issues/13965)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
 
-## [corosolto/client](https://github.com/corosolto/client)
+## [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE)
 
-- [Decidir o destino de `GET /api/config`](https://github.com/corosolto/client/issues/1083)
-- [Teste de fumaça das rotas do site no CI](https://github.com/corosolto/client/issues/1087)
-- [Página 404 personalizada](https://github.com/corosolto/client/issues/1080)
-- [Aposentar de verdade os evals obsoletos](https://github.com/corosolto/client/issues/1085)
-- [Verificar os hashes do `skills-lock.json`](https://github.com/corosolto/client/issues/1084)
-- [Âncoras por versão e link permanente no `/changelog`](https://github.com/corosolto/client/issues/1086)
-- [Validar os caracteres do nick no registro](https://github.com/corosolto/client/issues/1082)
-- [Vendorizar o Leaflet e tirar o unpkg da CSP](https://github.com/corosolto/client/issues/1081)
-- [Tabela comparativa de armas com ordenação no cliente](https://github.com/corosolto/client/issues/1078)
-- [Acessibilidade: skip link, foco visível e contraste](https://github.com/corosolto/client/issues/1079)
-- [Uma página por facção: `/faccoes/<id>`](https://github.com/corosolto/client/issues/1077)
-- [Gerar `og:image` própria para `/mapas` e `/armas`](https://github.com/corosolto/client/issues/1076)
-- [Partir o sitemap em índice quando passar de 5.000 URLs](https://github.com/corosolto/client/issues/1075)
-- [Adicionar `hreflang` e alternate para o host sem `www`](https://github.com/corosolto/client/issues/1073)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-- [ISG with GIP in _app overrides cache-control of ISG page](https://github.com/vercel/next.js/issues/14244)
-
-## [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
-
-- [feat(flexi-content): add multi-layer scroll and transition parallax depth](https://github.com/noruzzamans/gslider-blocks/issues/581)
-- [feat(flexi-content): add URL hash navigation and slide deeplinking](https://github.com/noruzzamans/gslider-blocks/issues/580)
-- [feat(flexi-content): add continuous smooth marquee ticker mode (freeMode)](https://github.com/noruzzamans/gslider-blocks/issues/577)
-- [feat(flexi-content): add creative 3D transition presets selector (Stack, Tilt, Depth, Shift)](https://github.com/noruzzamans/gslider-blocks/issues/576)
-- [feat(flexi-content): add cards 3D transition effect](https://github.com/noruzzamans/gslider-blocks/issues/575)
-- [feat(flexi-content): add vertical slider orientation with container height constraints](https://github.com/noruzzamans/gslider-blocks/issues/574)
-- [docs(base): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/535)
-- [[Bug] Overview tab: onRetry prop unused (no retry button) and block count hardcoded to 5 / '5 Core Modules'](https://github.com/noruzzamans/gslider-blocks/issues/332)
-- [test(tests): replace discouraged strip_tags with wp_strip_all_tags in test bootstrap.php](https://github.com/noruzzamans/gslider-blocks/issues/555)
-- [refactor(lint): eliminate no-nested-ternary and blanket eslint-disable across blocks and tooling](https://github.com/noruzzamans/gslider-blocks/issues/462)
-- [refactor(testimonial): eliminate unused no-nested-ternary in edit.js](https://github.com/noruzzamans/gslider-blocks/issues/467)
-- [refactor(testimonial): eliminate no-nested-ternary in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/469)
-- [refactor(logo-carousel): eliminate no-nested-ternary in edit.js](https://github.com/noruzzamans/gslider-blocks/issues/466)
-- [refactor(image-slider): eliminate no-nested-ternary in edit.js](https://github.com/noruzzamans/gslider-blocks/issues/465)
-- [refactor(mcp): eliminate no-nested-ternary in test-generate.js](https://github.com/noruzzamans/gslider-blocks/issues/464)
-- [refactor(mcp): eliminate no-nested-ternary in validate-block.ts](https://github.com/noruzzamans/gslider-blocks/issues/463)
-- [test(core): create RegistrationCategory unit test adhering to PSR-4 1-to-1 standard](https://github.com/noruzzamans/gslider-blocks/issues/201)
-- [[Bug] Image Slider / Logo Carousel: custom hover opacity, scale and lift are ignored on the frontend](https://github.com/noruzzamans/gslider-blocks/issues/295)
-- [[Bug] Background image picker throws a TypeError on select (missing Alt/ID setters in block inspectors)](https://github.com/noruzzamans/gslider-blocks/issues/296)
-- [[Bug] Flexi Content: no visible "Add slide" control; Add/Duplicate toolbar buttons are empty dead code](https://github.com/noruzzamans/gslider-blocks/issues/300)
-- [[Bug] Image Slider / Logo Carousel: empty item height outputs a stray "auto" that drops the item padding (and display:flex on tablet/mobile)](https://github.com/noruzzamans/gslider-blocks/issues/311)
-- [[Bug] Testimonial: default content padding and title margin are not applied until the Style panel is opened](https://github.com/noruzzamans/gslider-blocks/issues/306)
-- [[Bug] Attribute defaults don't match declared types: *GradientColor (string) default null, quoteIcon gradients '' vs null, testimonial quoteImageID (number) default ""](https://github.com/noruzzamans/gslider-blocks/issues/321)
-
-## [Paul-Austin-Oswego-CSC480-HCI521/gift-app](https://github.com/Paul-Austin-Oswego-CSC480-HCI521/gift-app)
-
-- [Write tests for `<gift-login-form>`](https://github.com/Paul-Austin-Oswego-CSC480-HCI521/gift-app/issues/47)
-- [Storybook welcome page](https://github.com/Paul-Austin-Oswego-CSC480-HCI521/gift-app/issues/28)
-- [Define the API outputs the list buttons need](https://github.com/Paul-Austin-Oswego-CSC480-HCI521/gift-app/issues/52)
-- [Give frontend and technical feedback on the auth section of Requirements v1.3](https://github.com/Paul-Austin-Oswego-CSC480-HCI521/gift-app/issues/55)
-
-## [cogvera-labs/next-expo-supabase-agent-harness](https://github.com/cogvera-labs/next-expo-supabase-agent-harness)
-
-- [NoteView borrows its title field, NOTE_TITLE_MAX names its CHECK, and web uses mobile's notes.composer.* keys (dogfood #17-#19)](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/157)
-- [Mobile doctrine names @app/design-system-native, but apps/mobile renders its own src/components primitives (dogfood #16)](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/150)
-- [CONTRIBUTING's "Your first change" names only the i18n tests that skip without `pnpm install`; the Single Home and Edge Function split tests skip too](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/274)
-- [The header comment in installer/cli.mjs gives the old `npx github:` command; hold it to docs/cli.md](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/273)
-- [e2ee rule says the secrets gate checks EXPO_PUBLIC_/NEXT_PUBLIC_ names; the write guard and expo-policy do](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/272)
-- [`update --rollback` leaves `tools/agents.lock.json` as the update wrote it, so `prompts` reds on a tree nobody edited](https://github.com/cogvera-labs/next-expo-supabase-agent-harness/issues/271)
-
-## [nextcloud/contacts](https://github.com/nextcloud/contacts)
-
-- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+- [[cybersecurity-sentinel] Add copy-to-clipboard button with visual confirmation for API token](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/18)
+- [[docs-portal] Add copy code snippet button with toast feedback to code blocks](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/22)
+- [[edtech-academy] Add course duration and difficulty tags (Beginner / Intermediate / Advanced)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/25)
+- [[nonprofit-impact] Add dynamic 'Trees Planted' animated milestone counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/37)
+- [[culinary-bistro] Add dietary allergens alert tooltip popover (Nuts, Dairy, Shellfish) to dish cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/180)
+- [[crypto-exchange-pro] Add token search bar with quick currency filter buttons (All, Layer 1, DeFi, AI)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/178)
+- [[agency-studio] Add interactive client awards & recognitions showcase ticker with animated counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/106)
+- [[real-estate-luxe] Add interactive photo carousel navigation dots and arrow buttons](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/42)
+- [[ecommerce-store] Add empty cart state message with 'Continue Shopping' CTA button](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/24)
+- [[developer-portfolio] Add terminal command auto-completion hint or help prompt below shell](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/19)
+- [[culinary-bistro] Add reservation form client-side input validation feedback](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/16)
+- [[culinary-bistro] Add dietary badge icons (Vegan, Gluten-Free, Chef Special) to menu items](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/15)
+- [[crypto-exchange-pro] Improve orderbook table contrast and alignment for mobile screens](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/14)
+- [[crypto-exchange-pro] Add color-coded ticker chips (+ green / - red) for 24h market stats](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/13)
+- [[automotive-hypercar] Add interactive badge counter and pulse effect to technical specs](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/11)
 
 ## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
 
+- [Test slug_of in scripts/seo_common.py](https://github.com/Sara-Managed-Projects/space-radar/issues/860)
 - [Test fitDistanceUnits in scene/systems.js](https://github.com/Sara-Managed-Projects/space-radar/issues/826)
 - [Add a plain-English distance-compression explanation](https://github.com/Sara-Managed-Projects/space-radar/issues/1017)
 - [Describe how to escape a stuck camera tour](https://github.com/Sara-Managed-Projects/space-radar/issues/1015)
@@ -189,7 +120,6 @@ This list gets updated every day at midnight.
 - [Quote the licence sentence the Hubble OPAL page now carries](https://github.com/Sara-Managed-Projects/space-radar/issues/863)
 - [Test kinds_of in scripts/gen_contributors.py](https://github.com/Sara-Managed-Projects/space-radar/issues/862)
 - [Sources: the Open Notify terms address fails its certificate check](https://github.com/Sara-Managed-Projects/space-radar/issues/861)
-- [Test slug_of in scripts/seo_common.py](https://github.com/Sara-Managed-Projects/space-radar/issues/860)
 - [Sources: say when the terms of the SWPC aurora source were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/859)
 - [Test ledger_key_shower in notify/digest.py](https://github.com/Sara-Managed-Projects/space-radar/issues/858)
 - [Sources: say when the terms of the SWPC K-index source were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/857)
@@ -251,4 +181,93 @@ This list gets updated every day at midnight.
 - [Test parseFrame in propagate/frames.js](https://github.com/Sara-Managed-Projects/space-radar/issues/794)
 - [Add a fact sheet for WOH G64](https://github.com/Sara-Managed-Projects/space-radar/issues/793)
 - [Add a fact sheet for R136a1](https://github.com/Sara-Managed-Projects/space-radar/issues/792)
+
+## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
+
+- [Service Status: add a status page for a service you rely on](https://github.com/jason5ng32/MyIP/issues/513)
+- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
+- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
+- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
+- [Connectivity test: review the country list for where you live](https://github.com/jason5ng32/MyIP/issues/515)
+- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
+- [Ad & Tracker Blocking Test: add a vendor the test doesn't cover yet](https://github.com/jason5ng32/MyIP/issues/514)
+- [DNS Resolver: add a public DNS resolver from your country](https://github.com/jason5ng32/MyIP/issues/394)
+- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
+- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
+- [🌍 Translations wanted: Spanish, German, Japanese](https://github.com/jason5ng32/MyIP/issues/418)
+
+## [ariefenv-hash/md3](https://github.com/ariefenv-hash/md3)
+
+- [[系统] 屏幕固定 Screen Pinning（AOSP ScreenPinning）：钉住单应用 + 解锁 PIN 门控](https://github.com/ariefenv-hash/md3/issues/98)
+- [[系统] 剪贴板预览浮层（#21 候选 7 · A12+ Clipboard Overlay）：复制内容悬浮卡 + 隐私剪除行为](https://github.com/ariefenv-hash/md3/issues/95)
+- [[应用] 国际象棋 Chess（daedalOS `Chess`）：完整规则 + AI 对手 + 棋谱记录](https://github.com/ariefenv-hash/md3/issues/132)
+- [[应用] 压缩 / 解压工具（md3 已 vendor jszip.min.js）：zip 打包与解包 + VFS 目录级导入导出](https://github.com/ariefenv-hash/md3/issues/134)
+- [[应用] PDF 阅读器（daedalOS `PDF` + md3 已 vendor pdf.js 1.04MB）：零新增体积的独立 PDF 应用](https://github.com/ariefenv-hash/md3/issues/128)
+- [[应用] Markdown 编辑器 / 阅读器（daedalOS `Marked` + md3 已 vendor marked.min.js）：写作 + 实时预览 + VFS 落盘](https://github.com/ariefenv-hash/md3/issues/129)
+- [[系统][按键] 系统组合键：电源+音量下截图、长按电源、无障碍音量键快捷键（AOSP volume key shortcut）](https://github.com/ariefenv-hash/md3/issues/111)
+
+## [JMU-CS345/F26Team9](https://github.com/JMU-CS345/F26Team9)
+
+- [Render a dungeon room as tiles](https://github.com/JMU-CS345/F26Team9/issues/2)
+- [Player icon movement](https://github.com/JMU-CS345/F26Team9/issues/1)
+- [Title screen](https://github.com/JMU-CS345/F26Team9/issues/13)
+
+## [conn3xorg/web](https://github.com/conn3xorg/web)
+
+- [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
+- [Writers wanted: edit the Ansible and Terraform migration guides](https://github.com/conn3xorg/web/issues/115)
+- [Content writers wanted: tell us where the website stops making sense](https://github.com/conn3xorg/web/issues/114)
+- [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
+- [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
+
+## [reactjs/react.dev](https://github.com/reactjs/react.dev)
+
+- [Capitalize React concepts in docs](https://github.com/reactjs/react.dev/issues/6713)
+
+## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+
+- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
+
+## [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets)
+
+- [catalog: normalise 12 licence values to SPDX ids and fix a few small data defects](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/95)
+- [catalog: only 48 of 414 entries have a credit line, so "Copy credit line" is missing on most CC-BY and OFL pages](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/112)
+- [catalog: fill `publisher` (empty on 59% of entries) and `grid_dimensions` on the remaining 2D packs](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/98)
+- [catalog: re-verify the 54 entries last checked on 2026-07-19/20 (first batch)](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/94)
+
+## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+
+- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
+- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
+- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
+- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
+- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
+- [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
+- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
+
+## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+
+- [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511)
+- [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747)
+
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+
+## [nextcloud/forms](https://github.com/nextcloud/forms)
+
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
+
+## [jzheaux/reader](https://github.com/jzheaux/reader)
+
+- [A slide's render message should be built in one place](https://github.com/jzheaux/reader/issues/166)
+- [Improve test coverage for slide, overview and focus behaviours](https://github.com/jzheaux/reader/issues/168)
+- [The deck's overview should follow a reload and the theme, and Go to shouldn't open over it](https://github.com/jzheaux/reader/issues/171)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
