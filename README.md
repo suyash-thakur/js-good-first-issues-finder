@@ -4,214 +4,6 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [StudentSuite/awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources)
-
-- [Dance subsection has only 9 entries](https://github.com/StudentSuite/awesome-study-resources/issues/509)
-- [ITGS subsection has only 7 entries](https://github.com/StudentSuite/awesome-study-resources/issues/508)
-- [Four SAT, PSAT and ACT entries share a URL or point at a homepage instead of the exam page](https://github.com/StudentSuite/awesome-study-resources/issues/507)
-- [Twelve more entries link to URLs that now redirect to a different page](https://github.com/StudentSuite/awesome-study-resources/issues/506)
-- [AI detectors are listed with no caveat about their reliability](https://github.com/StudentSuite/awesome-study-resources/issues/473)
-- [Six pricing tags fall outside the documented set and no check lints tags](https://github.com/StudentSuite/awesome-study-resources/issues/468)
-- [Four entries link to URLs that now redirect to another site or page](https://github.com/StudentSuite/awesome-study-resources/issues/466)
-- [Entries point at an under-construction page and a default-title portal](https://github.com/StudentSuite/awesome-study-resources/issues/465)
-- [Three StudyIB subject links redirect to the StudyIB homepage](https://github.com/StudentSuite/awesome-study-resources/issues/464)
-
-## [ReduxISU/Redux_GUI](https://github.com/ReduxISU/Redux_GUI)
-
-- [Say in TESTING.md how to unit-test component logic (import it, don't read the source)](https://github.com/ReduxISU/Redux_GUI/issues/422)
-- [[Bug]: Main page problem search shows no "Add new problem" button when nothing matches](https://github.com/ReduxISU/Redux_GUI/issues/387)
-- [Lint: triage import-x and no-unused-vars warnings](https://github.com/ReduxISU/Redux_GUI/issues/185)
-- [Tooltip Text Reformat To Match '-' and ' ' use in Wikipedia, Research, and Education Format](https://github.com/ReduxISU/Redux_GUI/issues/176)
-- [Add a site-wide Referrer-Policy header](https://github.com/ReduxISU/Redux_GUI/issues/280)
-- [When Typing in the Search Bar On Main page, Make Tags Go Away](https://github.com/ReduxISU/Redux_GUI/issues/341)
-- [About Us: add an "In the News" section, starting with the Idaho State Journal BengalBot article](https://github.com/ReduxISU/Redux_GUI/issues/337)
-- [About Us: add missing awards (Andrija's 2025 Symposium award, Kaden's best paper) and missing grant amounts](https://github.com/ReduxISU/Redux_GUI/issues/333)
-- [Add HERC grants and fix SARE grant credits in About Us Support section](https://github.com/ReduxISU/Redux_GUI/issues/303)
-
-## [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha)
-
-- [Example: Laravel form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/126)
-- [Example: Django form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/125)
-- [Add Swahili (sw) widget translation](https://github.com/WebDecoy/FCaptcha/issues/123)
-- [Add Bengali (bn) widget translation](https://github.com/WebDecoy/FCaptcha/issues/122)
-- [Add Urdu (ur) widget translation](https://github.com/WebDecoy/FCaptcha/issues/121)
-
-## [tokentimerch/tokentimer-core](https://github.com/tokentimerch/tokentimer-core)
-
-- [Validate GitHub Actions workflows with actionlint in CI](https://github.com/tokentimerch/tokentimer-core/issues/309)
-- [Publish CI/CD templates for triggering token renewal workflows](https://github.com/tokentimerch/tokentimer-core/issues/308)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck)
-
-- [GFI: Remove docs/ from .gitignore / 从 .gitignore 移除 docs/ 规则](https://github.com/AI-WorkDeck/aiworkdeck/issues/1077)
-- [GFI: English twin for hello-web-plugin README / hello-web-plugin 英文 README](https://github.com/AI-WorkDeck/aiworkdeck/issues/1083)
-- [GFI: Add bilingual README for hello-declarative-plugin / 声明式插件示例 README](https://github.com/AI-WorkDeck/aiworkdeck/issues/1082)
-- [GFI: #66 Quick-check runbook for contributors / 编辑器语言 Quick check 操作说明](https://github.com/AI-WorkDeck/aiworkdeck/issues/1081)
-- [GFI: Archive one internal doc into docs/dev-notes/ / 归档一篇内部笔记](https://github.com/AI-WorkDeck/aiworkdeck/issues/1079)
-- [GFI: Add docs/README.md contributor index / 贡献者文档索引](https://github.com/AI-WorkDeck/aiworkdeck/issues/1078)
-- [GFI: Fix one frontend locale namespace key parity gap / 补齐一组 locale 键对拍缺口](https://github.com/AI-WorkDeck/aiworkdeck/issues/1084)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [After move thread, app should select next available message](https://github.com/nextcloud/mail/issues/13965)
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
-
-## [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE)
-
-- [[cybersecurity-sentinel] Add copy-to-clipboard button with visual confirmation for API token](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/18)
-- [[docs-portal] Add copy code snippet button with toast feedback to code blocks](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/22)
-- [[edtech-academy] Add course duration and difficulty tags (Beginner / Intermediate / Advanced)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/25)
-- [[nonprofit-impact] Add dynamic 'Trees Planted' animated milestone counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/37)
-- [[culinary-bistro] Add dietary allergens alert tooltip popover (Nuts, Dairy, Shellfish) to dish cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/180)
-- [[crypto-exchange-pro] Add token search bar with quick currency filter buttons (All, Layer 1, DeFi, AI)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/178)
-- [[agency-studio] Add interactive client awards & recognitions showcase ticker with animated counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/106)
-- [[real-estate-luxe] Add interactive photo carousel navigation dots and arrow buttons](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/42)
-- [[ecommerce-store] Add empty cart state message with 'Continue Shopping' CTA button](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/24)
-- [[developer-portfolio] Add terminal command auto-completion hint or help prompt below shell](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/19)
-- [[culinary-bistro] Add reservation form client-side input validation feedback](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/16)
-- [[culinary-bistro] Add dietary badge icons (Vegan, Gluten-Free, Chef Special) to menu items](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/15)
-- [[crypto-exchange-pro] Improve orderbook table contrast and alignment for mobile screens](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/14)
-- [[crypto-exchange-pro] Add color-coded ticker chips (+ green / - red) for 24h market stats](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/13)
-- [[automotive-hypercar] Add interactive badge counter and pulse effect to technical specs](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/11)
-
-## [Sara-Managed-Projects/space-radar](https://github.com/Sara-Managed-Projects/space-radar)
-
-- [Test slug_of in scripts/seo_common.py](https://github.com/Sara-Managed-Projects/space-radar/issues/860)
-- [Test fitDistanceUnits in scene/systems.js](https://github.com/Sara-Managed-Projects/space-radar/issues/826)
-- [Add a plain-English distance-compression explanation](https://github.com/Sara-Managed-Projects/space-radar/issues/1017)
-- [Describe how to escape a stuck camera tour](https://github.com/Sara-Managed-Projects/space-radar/issues/1015)
-- [Add one screenshot to offline-run troubleshooting](https://github.com/Sara-Managed-Projects/space-radar/issues/1014)
-- [Explain real-time versus snapshot in one FAQ entry](https://github.com/Sara-Managed-Projects/space-radar/issues/1013)
-- [Test localText in ui/next.js](https://github.com/Sara-Managed-Projects/space-radar/issues/841)
-- [Test offersCalendar in ui/next.js](https://github.com/Sara-Managed-Projects/space-radar/issues/844)
-- [3D model: Amazon Kuiper broadband satellite (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/1002)
-- [3D model: OneWeb, the Arrow broadband satellite (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/1001)
-- [3D model: Starlink V2 Mini, the flat bus with two wings (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/999)
-- [3D model: Elektro-L geostationary weather satellite (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/997)
-- [3D model: Iridium NEXT (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/991)
-- [3D model: AstroSat (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/970)
-- [3D model: FLEX, the fluorescence mission (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/962)
-- [3D model: MicroCarb (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/961)
-- [3D model: CFOSAT (glTF)](https://github.com/Sara-Managed-Projects/space-radar/issues/960)
-- [Put the offline steps list's 10 px item gap on the 4 px grid (templates/pages.css)](https://github.com/Sara-Managed-Projects/space-radar/issues/702)
-- [Add a sky-event page for the Ursids 2027](https://github.com/Sara-Managed-Projects/space-radar/issues/883)
-- [Add a sky-event page for the Geminids 2027](https://github.com/Sara-Managed-Projects/space-radar/issues/882)
-- [Add a sky-event page for the Leonids 2027](https://github.com/Sara-Managed-Projects/space-radar/issues/881)
-- [New Horizons: add its crossing of Saturn's orbit in June 2008](https://github.com/Sara-Managed-Projects/space-radar/issues/880)
-- [Deep Impact: add the Earth and Moon flyby of 27 June 2010](https://github.com/Sara-Managed-Projects/space-radar/issues/879)
-- [Deep Impact: add the Earth and Moon flyby of 29 December 2008](https://github.com/Sara-Managed-Projects/space-radar/issues/878)
-- [Deep Impact: add the Earth and Moon flyby of 31 December 2007](https://github.com/Sara-Managed-Projects/space-radar/issues/877)
-- [Stardust: add the second Earth flyby, January 2009](https://github.com/Sara-Managed-Projects/space-radar/issues/876)
-- [Stardust: add the Earth flyby of January 2001](https://github.com/Sara-Managed-Projects/space-radar/issues/875)
-- [NEAR Shoemaker: give the orbit insertion at Eros its time](https://github.com/Sara-Managed-Projects/space-radar/issues/874)
-- [NEAR Shoemaker: add the first pass of Eros in December 1998](https://github.com/Sara-Managed-Projects/space-radar/issues/873)
-- [NEAR Shoemaker: add its swing past the Earth in January 1998](https://github.com/Sara-Managed-Projects/space-radar/issues/872)
-- [NEAR Shoemaker: add the flyby of the asteroid Mathilde](https://github.com/Sara-Managed-Projects/space-radar/issues/871)
-- [Add a "where is it now" link to the card of Voyager 2](https://github.com/Sara-Managed-Projects/space-radar/issues/869)
-- [Add a "where is it now" link to the card of Voyager 1](https://github.com/Sara-Managed-Projects/space-radar/issues/868)
-- [Add a live-pictures link to the card of SOHO](https://github.com/Sara-Managed-Projects/space-radar/issues/867)
-- [Add a live-pictures link to the card of Curiosity, Gale crater](https://github.com/Sara-Managed-Projects/space-radar/issues/866)
-- [Add a live-pictures link to the card of Perseverance, Jezero crater](https://github.com/Sara-Managed-Projects/space-radar/issues/865)
-- [Quote the licence sentence the Hubble OPAL page now carries](https://github.com/Sara-Managed-Projects/space-radar/issues/863)
-- [Test kinds_of in scripts/gen_contributors.py](https://github.com/Sara-Managed-Projects/space-radar/issues/862)
-- [Sources: the Open Notify terms address fails its certificate check](https://github.com/Sara-Managed-Projects/space-radar/issues/861)
-- [Sources: say when the terms of the SWPC aurora source were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/859)
-- [Test ledger_key_shower in notify/digest.py](https://github.com/Sara-Managed-Projects/space-radar/issues/858)
-- [Sources: say when the terms of the SWPC K-index source were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/857)
-- [Test split_token in notify/tokens.py](https://github.com/Sara-Managed-Projects/space-radar/issues/856)
-- [Sources: say when the terms of Wikidata were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/855)
-- [Test expand_url in harvest/run.py](https://github.com/Sara-Managed-Projects/space-radar/issues/854)
-- [Sources: say when the terms of GDACS were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/853)
-- [Test with_params in harvest/fetch.py](https://github.com/Sara-Managed-Projects/space-radar/issues/852)
-- [Sources: say when the terms of DSN Now were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/851)
-- [Test ageParts in ui/cardfacts.js](https://github.com/Sara-Managed-Projects/space-radar/issues/850)
-- [Sources: say when the terms of the NASA Exoplanet Archive were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/849)
-- [Test splitReadout in ui/cardfacts.js](https://github.com/Sara-Managed-Projects/space-radar/issues/848)
-- [Sources: say when the terms of Launch Library 2 were last read](https://github.com/Sara-Managed-Projects/space-radar/issues/847)
-- [Test eventSizeText in ui/cardfacts.js](https://github.com/Sara-Managed-Projects/space-radar/issues/846)
-- [Add a rocket row for Gravity-2](https://github.com/Sara-Managed-Projects/space-radar/issues/845)
-- [Add a rocket row for Hyperbola-3](https://github.com/Sara-Managed-Projects/space-radar/issues/843)
-- [Add a rocket row for SSLV](https://github.com/Sara-Managed-Projects/space-radar/issues/842)
-- [Add a rocket row for Epsilon S](https://github.com/Sara-Managed-Projects/space-radar/issues/840)
-- [Test worldOfTarget in ui/keeptrip.js](https://github.com/Sara-Managed-Projects/space-radar/issues/839)
-- [Add a rocket row for Miura 5](https://github.com/Sara-Managed-Projects/space-radar/issues/838)
-- [Test stopBudgetMs in ui/autopilotplan.js](https://github.com/Sara-Managed-Projects/space-radar/issues/837)
-- [Add a rocket row for Maia](https://github.com/Sara-Managed-Projects/space-radar/issues/836)
-- [Test nextLightChange in sky/timefacts.js](https://github.com/Sara-Managed-Projects/space-radar/issues/835)
-- [Add a rocket row for Nebula-1](https://github.com/Sara-Managed-Projects/space-radar/issues/834)
-- [Test samePassKey in sky/tonightbest.js](https://github.com/Sara-Managed-Projects/space-radar/issues/833)
-- [Test planetRadiusKm in scene/systems.js](https://github.com/Sara-Managed-Projects/space-radar/issues/831)
-- [Add a measured radius to the famous star Canopus](https://github.com/Sara-Managed-Projects/space-radar/issues/830)
-- [Test starRadiusKm in scene/systems.js](https://github.com/Sara-Managed-Projects/space-radar/issues/829)
-- [Add a measured radius to the famous star Regulus](https://github.com/Sara-Managed-Projects/space-radar/issues/828)
-- [Famous stars: add Alioth, a bright star of Ursa Major](https://github.com/Sara-Managed-Projects/space-radar/issues/827)
-- [Famous stars: add Rasalhague, the brightest star of Ophiuchus](https://github.com/Sara-Managed-Projects/space-radar/issues/825)
-- [Test bytesFor in scene/texturetiers.js](https://github.com/Sara-Managed-Projects/space-radar/issues/824)
-- [Famous stars: add Kochab, a bright star of Ursa Minor](https://github.com/Sara-Managed-Projects/space-radar/issues/823)
-- [Test span0Of in scene/tilemath.js](https://github.com/Sara-Managed-Projects/space-radar/issues/822)
-- [Famous stars: add Mirfak, the brightest star of Perseus](https://github.com/Sara-Managed-Projects/space-radar/issues/821)
-- [Test shortUtcDate in ui/cardlive.js](https://github.com/Sara-Managed-Projects/space-radar/issues/820)
-- [Famous stars: add Shaula, a bright star of Scorpius](https://github.com/Sara-Managed-Projects/space-radar/issues/819)
-- [Test kickerDate in ui/today.js](https://github.com/Sara-Managed-Projects/space-radar/issues/818)
-- [Famous stars: add Hamal, the brightest star of Aries](https://github.com/Sara-Managed-Projects/space-radar/issues/817)
-- [Famous stars: add Alphard, the brightest star of Hydra](https://github.com/Sara-Managed-Projects/space-radar/issues/816)
-- [Test leadingDigit in ui/hud.js](https://github.com/Sara-Managed-Projects/space-radar/issues/815)
-- [Famous stars: add Sadr, a bright star of Cygnus](https://github.com/Sara-Managed-Projects/space-radar/issues/814)
-- [Test glowOfLights in sky/skymath.js](https://github.com/Sara-Managed-Projects/space-radar/issues/813)
-- [Famous stars: add Saiph, a bright star of Orion](https://github.com/Sara-Managed-Projects/space-radar/issues/812)
-- [Test qSlerp in sky/pointing.js](https://github.com/Sara-Managed-Projects/space-radar/issues/811)
-- [Famous stars: add Bellatrix, a bright star of Orion](https://github.com/Sara-Managed-Projects/space-radar/issues/810)
-- [Test qRotate in sky/pointing.js](https://github.com/Sara-Managed-Projects/space-radar/issues/809)
-- [Famous stars: add Mintaka, a star of Orion's Belt](https://github.com/Sara-Managed-Projects/space-radar/issues/808)
-- [Remove the unused setNavigator in tests/test_share.mjs](https://github.com/Sara-Managed-Projects/space-radar/issues/807)
-- [Famous stars: add Alnitak, a star of Orion's Belt](https://github.com/Sara-Managed-Projects/space-radar/issues/806)
-- [Search: make "tic 271971130" find the TOI-715 system](https://github.com/Sara-Managed-Projects/space-radar/issues/805)
-- [Test qMul in sky/pointing.js](https://github.com/Sara-Managed-Projects/space-radar/issues/804)
-- [Remove the unused flush in tests/test_audio.mjs](https://github.com/Sara-Managed-Projects/space-radar/issues/802)
-- [Search: make "epic 201912552" find the K2-18 system](https://github.com/Sara-Managed-Projects/space-radar/issues/801)
-- [Test isPlanetMoon in propagate/frames.js](https://github.com/Sara-Managed-Projects/space-radar/issues/800)
-- [Search: make "gliese 3053" find the LHS 1140 system](https://github.com/Sara-Managed-Projects/space-radar/issues/799)
-- [Search: make "gliese 1253" find the Wolf 1069 system](https://github.com/Sara-Managed-Projects/space-radar/issues/797)
-- [Search: make "fi vir" find the Ross 128 system](https://github.com/Sara-Managed-Projects/space-radar/issues/795)
-- [Test parseFrame in propagate/frames.js](https://github.com/Sara-Managed-Projects/space-radar/issues/794)
-- [Add a fact sheet for WOH G64](https://github.com/Sara-Managed-Projects/space-radar/issues/793)
-- [Add a fact sheet for R136a1](https://github.com/Sara-Managed-Projects/space-radar/issues/792)
-
-## [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
-
-- [Service Status: add a status page for a service you rely on](https://github.com/jason5ng32/MyIP/issues/513)
-- [Connectivity test: add a country list for your country](https://github.com/jason5ng32/MyIP/issues/452)
-- [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420)
-- [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421)
-- [Connectivity test: review the country list for where you live](https://github.com/jason5ng32/MyIP/issues/515)
-- [Connectivity test: add sites to an existing import list](https://github.com/jason5ng32/MyIP/issues/399)
-- [Ad & Tracker Blocking Test: add a vendor the test doesn't cover yet](https://github.com/jason5ng32/MyIP/issues/514)
-- [DNS Resolver: add a public DNS resolver from your country](https://github.com/jason5ng32/MyIP/issues/394)
-- [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419)
-- [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415)
-- [🌍 Translations wanted: Spanish, German, Japanese](https://github.com/jason5ng32/MyIP/issues/418)
-
-## [ariefenv-hash/md3](https://github.com/ariefenv-hash/md3)
-
-- [[系统] 屏幕固定 Screen Pinning（AOSP ScreenPinning）：钉住单应用 + 解锁 PIN 门控](https://github.com/ariefenv-hash/md3/issues/98)
-- [[系统] 剪贴板预览浮层（#21 候选 7 · A12+ Clipboard Overlay）：复制内容悬浮卡 + 隐私剪除行为](https://github.com/ariefenv-hash/md3/issues/95)
-- [[应用] 国际象棋 Chess（daedalOS `Chess`）：完整规则 + AI 对手 + 棋谱记录](https://github.com/ariefenv-hash/md3/issues/132)
-- [[应用] 压缩 / 解压工具（md3 已 vendor jszip.min.js）：zip 打包与解包 + VFS 目录级导入导出](https://github.com/ariefenv-hash/md3/issues/134)
-- [[应用] PDF 阅读器（daedalOS `PDF` + md3 已 vendor pdf.js 1.04MB）：零新增体积的独立 PDF 应用](https://github.com/ariefenv-hash/md3/issues/128)
-- [[应用] Markdown 编辑器 / 阅读器（daedalOS `Marked` + md3 已 vendor marked.min.js）：写作 + 实时预览 + VFS 落盘](https://github.com/ariefenv-hash/md3/issues/129)
-- [[系统][按键] 系统组合键：电源+音量下截图、长按电源、无障碍音量键快捷键（AOSP volume key shortcut）](https://github.com/ariefenv-hash/md3/issues/111)
-
-## [JMU-CS345/F26Team9](https://github.com/JMU-CS345/F26Team9)
-
-- [Render a dungeon room as tiles](https://github.com/JMU-CS345/F26Team9/issues/2)
-- [Player icon movement](https://github.com/JMU-CS345/F26Team9/issues/1)
-- [Title screen](https://github.com/JMU-CS345/F26Team9/issues/13)
-
 ## [conn3xorg/web](https://github.com/conn3xorg/web)
 
 - [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
@@ -220,20 +12,96 @@ This list gets updated every day at midnight.
 - [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
 - [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
 
+## [nextcloud/documentation](https://github.com/nextcloud/documentation)
+
+- [The suggested configuration for PHP MySQL driver is wrong due to MySQL (Original) being removed since PHP 7.0](https://github.com/nextcloud/documentation/issues/4758)
+
+## [vercel/next.js](https://github.com/vercel/next.js)
+
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+
+## [melizeche/ayudapy](https://github.com/melizeche/ayudapy)
+
+- [Add id and name in search fields](https://github.com/melizeche/ayudapy/issues/272)
+
+## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
+
+- [Run the hook install suite in CI](https://github.com/addisdev/actions-runners/issues/21)
+- [Fix the docs/cockpit.md path in the cockpit release workflow](https://github.com/addisdev/actions-runners/issues/84)
+- [Add unit tests for the capacity headroom gate](https://github.com/addisdev/actions-runners/issues/83)
+- [Add unit tests for the workflow YAML parser](https://github.com/addisdev/actions-runners/issues/82)
+
+## [ECNU/EduWork](https://github.com/ECNU/EduWork)
+
+- [[征集] 好用的 DSH 插件：推荐与集成评估](https://github.com/ECNU/EduWork/issues/127)
+- [[征集] 好用的 Skills：推荐与集成评估](https://github.com/ECNU/EduWork/issues/126)
+
+## [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+
+- [Improve Mobile Responsiveness](https://github.com/Syknapse/Contribute-To-This-Project/issues/4750)
+- [Translation for Maintainer Guide](https://github.com/Syknapse/Contribute-To-This-Project/issues/2881)
+
+## [msz-legend/dsh-mobile-bridge](https://github.com/msz-legend/dsh-mobile-bridge)
+
+- [feat: 设备管理页中英双语（i18n）](https://github.com/msz-legend/dsh-mobile-bridge/issues/4)
+- [feat: 完善 PWA manifest（应用名 / 图标 / 主题色）](https://github.com/msz-legend/dsh-mobile-bridge/issues/2)
+- [docs: 校对 README.en.md 英文表达](https://github.com/msz-legend/dsh-mobile-bridge/issues/1)
+
+## [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
+
+- [Allow filtering for "evening courses"](https://github.com/nusmodifications/nusmods/issues/3668)
+- [`GlobalSearch` renders unnecessarily when not empty](https://github.com/nusmodifications/nusmods/issues/3060)
+- [Improve module search page's exam clash detection](https://github.com/nusmodifications/nusmods/issues/3663)
+- [Prevent duplicate courses in the same Planner semester](https://github.com/nusmodifications/nusmods/issues/4602)
+- [Replace Enzyme with React Testing Library](https://github.com/nusmodifications/nusmods/issues/3033)
+
+## [TapanKumarBarik/Backend-roadmap](https://github.com/TapanKumarBarik/Backend-roadmap)
+
+- [Find and fix broken external links in “Further reading” sections](https://github.com/TapanKumarBarik/Backend-roadmap/issues/50)
+- [Add unit tests for the markdown pipeline (Vitest)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/41)
+- [Add “Further reading & sources” to 2 lld/ modules](https://github.com/TapanKumarBarik/Backend-roadmap/issues/40)
+- [Add “Further reading & sources” to 3 backend/ modules](https://github.com/TapanKumarBarik/Backend-roadmap/issues/39)
+- [Add “Further reading & sources” to learn/ tracks 22–24 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/38)
+- [Add “Further reading & sources” to learn/ tracks 19–21 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/37)
+- [Add “Further reading & sources” to learn/ tracks 16–18 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/36)
+- [Add “Further reading & sources” to learn/ tracks 13–15 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/35)
+- [Add “Further reading & sources” to learn/ tracks 10–12 (27 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/34)
+- [Add “Further reading & sources” to learn/ tracks 07–09 (28 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/33)
+- [Add “Further reading & sources” to learn/ tracks 04–06 (31 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/32)
+
+## [WeWorker/WeWorker](https://github.com/WeWorker/WeWorker)
+
+- [[Docs]: 完善首次提交 Adapter 的贡献检查清单](https://github.com/WeWorker/WeWorker/issues/261)
+- [[Feature]: 增加 README、官网与 Release 下载链接一致性测试](https://github.com/WeWorker/WeWorker/issues/260)
+- [[Feature]: 改善官网键盘导航、焦点样式和无障碍标签](https://github.com/WeWorker/WeWorker/issues/259)
+- [[Docs]: 为 5 个常用 Adapter 补充公开使用示例](https://github.com/WeWorker/WeWorker/issues/258)
+- [[Docs]: 补充 Windows/macOS 安装包 SHA-256 校验教程](https://github.com/WeWorker/WeWorker/issues/257)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [nextcloud/mail](https://github.com/nextcloud/mail)
+
+- [After move thread, app should select next available message](https://github.com/nextcloud/mail/issues/13965)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
+- [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
+
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+
 ## [reactjs/react.dev](https://github.com/reactjs/react.dev)
 
 - [Capitalize React concepts in docs](https://github.com/reactjs/react.dev/issues/6713)
-
-## [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
-
-- [Ongoing documentation fixes](https://github.com/CesiumGS/cesium/issues/11749)
-
-## [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets)
-
-- [catalog: normalise 12 licence values to SPDX ids and fix a few small data defects](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/95)
-- [catalog: only 48 of 414 entries have a credit line, so "Copy credit line" is missing on most CC-BY and OFL pages](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/112)
-- [catalog: fill `publisher` (empty on 59% of entries) and `grid_dimensions` on the remaining 2D packs](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/98)
-- [catalog: re-verify the 54 entries last checked on 2026-07-19/20 (first batch)](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/94)
 
 ## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
@@ -245,29 +113,224 @@ This list gets updated every day at midnight.
 - [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
 - [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
 
-## [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511)
-- [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747)
+- [refactor(providers): careerviet and itviec carry the same city lookup twice](https://github.com/career-ops-hq/career-ops/issues/6430)
+- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
+- [fix(web): every follow-up card's report link is announced as just "Open"](https://github.com/career-ops-hq/career-ops/issues/6425)
+- [test(cursor-directory): the plugin test accepts extra skills and an empty description](https://github.com/career-ops-hq/career-ops/issues/6429)
+- [fix(providers): a large max_pages on a prace.cz entry has no page ceiling](https://github.com/career-ops-hq/career-ops/issues/6260)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
 
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+## [corosolto/client](https://github.com/corosolto/client)
 
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+- [Decidir o destino de `GET /api/config`](https://github.com/corosolto/client/issues/1083)
+- [Teste de fumaça das rotas do site no CI](https://github.com/corosolto/client/issues/1087)
+- [Página 404 personalizada](https://github.com/corosolto/client/issues/1080)
+- [Aposentar de verdade os evals obsoletos](https://github.com/corosolto/client/issues/1085)
+- [Verificar os hashes do `skills-lock.json`](https://github.com/corosolto/client/issues/1084)
+- [Âncoras por versão e link permanente no `/changelog`](https://github.com/corosolto/client/issues/1086)
+- [Validar os caracteres do nick no registro](https://github.com/corosolto/client/issues/1082)
+- [Vendorizar o Leaflet e tirar o unpkg da CSP](https://github.com/corosolto/client/issues/1081)
+- [Tabela comparativa de armas com ordenação no cliente](https://github.com/corosolto/client/issues/1078)
+- [Acessibilidade: skip link, foco visível e contraste](https://github.com/corosolto/client/issues/1079)
+- [Uma página por facção: `/faccoes/<id>`](https://github.com/corosolto/client/issues/1077)
+- [Gerar `og:image` própria para `/mapas` e `/armas`](https://github.com/corosolto/client/issues/1076)
+- [Partir o sitemap em índice quando passar de 5.000 URLs](https://github.com/corosolto/client/issues/1075)
+- [Adicionar `hreflang` e alternate para o host sem `www`](https://github.com/corosolto/client/issues/1073)
 
 ## [nextcloud/forms](https://github.com/nextcloud/forms)
 
 - [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
 
-## [jzheaux/reader](https://github.com/jzheaux/reader)
+## [nextcloud/deck](https://github.com/nextcloud/deck)
 
-- [A slide's render message should be built in one place](https://github.com/jzheaux/reader/issues/166)
-- [Improve test coverage for slide, overview and focus behaviours](https://github.com/jzheaux/reader/issues/168)
-- [The deck's overview should follow a reload and the theme, and Go to shouldn't open over it](https://github.com/jzheaux/reader/issues/171)
+- ['Archive All cards' confirmation madal does not show properly on ultrawide 3440x1440 (21:9 ration) screen](https://github.com/nextcloud/deck/issues/3170)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
 
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [[python] Automatic pip install is not working for python>=3.12 without wheel](https://github.com/cdxgen/cdxgen/issues/1531)
+- [[docker-compose] Support for automatically building compose images](https://github.com/cdxgen/cdxgen/issues/1759)
+- [[cli] container image-based generator](https://github.com/cdxgen/cdxgen/issues/1699)
+- [[formulation] formulation section is not populated without git](https://github.com/cdxgen/cdxgen/issues/920)
+- [[pnpm] capture requiresBuild and hasBin attributes](https://github.com/cdxgen/cdxgen/issues/802)
+- [[c/c++] do not match OS packages for stdlib](https://github.com/cdxgen/cdxgen/issues/788)
+- [[js] evinse for svelte apps might be broken](https://github.com/cdxgen/cdxgen/issues/787)
+- [[d] support for dub](https://github.com/cdxgen/cdxgen/issues/774)
+- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
+- [gradle copy deps init script to speed up collectGradleDependencies](https://github.com/cdxgen/cdxgen/issues/593)
+- [cdxgen server api enhancements](https://github.com/cdxgen/cdxgen/issues/592)
+- [Support for buildroot .mk files](https://github.com/cdxgen/cdxgen/issues/543)
+- [Support for coursier cache](https://github.com/cdxgen/cdxgen/issues/542)
+- [MINGW PKGBUILD parser](https://github.com/cdxgen/cdxgen/issues/540)
+- [Add evidence for dotnet components](https://github.com/cdxgen/cdxgen/issues/536)
+- [Test against top 100 docker images](https://github.com/cdxgen/cdxgen/issues/500)
+- [Do not override spec-version for new dependency-track users](https://github.com/cdxgen/cdxgen/issues/499)
+- [Test with wrongsecrets](https://github.com/cdxgen/cdxgen/issues/484)
+- [Support for ivy xml](https://github.com/cdxgen/cdxgen/issues/473)
+- [Container image release workflow is just too slow](https://github.com/cdxgen/cdxgen/issues/397)
+- [Better documentation and logic writeup](https://github.com/cdxgen/cdxgen/issues/355)
+- [BOM per sub-project for multi-project builds (Java)](https://github.com/cdxgen/cdxgen/issues/234)
+
+## [jdhart81/hdfm-framework](https://github.com/jdhart81/hdfm-framework)
+
+- [Native-status sources for planting records: from a state checklist to species[].native](https://github.com/jdhart81/hdfm-framework/issues/49)
+
+## [nextcloud/spreed](https://github.com/nextcloud/spreed)
+
+- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
+- [Ask for confirmation when mentioning all in a large conversation](https://github.com/nextcloud/spreed/issues/11881)
+- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
+
+## [Northeastern-Science-Magazine/nusci-backend](https://github.com/Northeastern-Science-Magazine/nusci-backend)
+
+- [DELETE article endpoint](https://github.com/Northeastern-Science-Magazine/nusci-backend/issues/256)
+
+## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
+
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/253)
+- [[Good First Issue] Add safe defaults guidance for Finding titles [MC-101]](https://github.com/Berserk-hub150/skillhawk/issues/247)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/252)
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/240)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/239)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/243)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/244)
+- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/245)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/241)
+- [[Good First Issue] Add least privilege guidance for Finding titles [MC-102]](https://github.com/Berserk-hub150/skillhawk/issues/250)
+- [[Good First Issue] Add clarity guidance for Finding titles [MC-100]](https://github.com/Berserk-hub150/skillhawk/issues/235)
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/236)
+- [[2–5 min] Add one severity-labeling tip](https://github.com/Berserk-hub150/skillhawk/issues/42)
+
+## [Bees-bot/bees-desktop](https://github.com/Bees-bot/bees-desktop)
+
+- [Check that Removing Bees cleans up on Windows and Linux](https://github.com/Bees-bot/bees-desktop/issues/285)
+- [Try the first run on Windows 11 and tell us what happens](https://github.com/Bees-bot/bees-desktop/issues/282)
+- [Check the thread screen at small window sizes](https://github.com/Bees-bot/bees-desktop/issues/317)
+- [Try the thread screen with only a keyboard](https://github.com/Bees-bot/bees-desktop/issues/316)
+- [Read the README once and tell us which sentences lost you](https://github.com/Bees-bot/bees-desktop/issues/315)
+- [Run the headless check on your computer and tell us if it passes](https://github.com/Bees-bot/bees-desktop/issues/314)
+- [Build Bees from source on Windows and list what you had to install](https://github.com/Bees-bot/bees-desktop/issues/313)
+- [Run the Linux AppImage on a distro that isn't Ubuntu](https://github.com/Bees-bot/bees-desktop/issues/283)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
+- [Password Reset via CLI does not work on Embedded MariaDB](https://github.com/louislam/uptime-kuma/issues/5670)
+- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+- [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
+
+## [nodejs/undici](https://github.com/nodejs/undici)
+
+- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
+- [Filter tls options](https://github.com/nodejs/undici/issues/236)
+- [Default fetch timeout too short](https://github.com/nodejs/undici/issues/1373)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
+- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
+- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
+- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
+- [A filter on a dotted path never matches raw items or undeclared paths](https://github.com/neomjs/neo/issues/20284)
+- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+- [Docs App: Routes](https://github.com/neomjs/neo/issues/24)
+- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
+- [tab.Container: Closable tabs](https://github.com/neomjs/neo/issues/26)
+
+## [meta/stylex](https://github.com/meta/stylex)
+
+- [[babel-plugin] TypeScript types are wrong](https://github.com/meta/stylex/issues/889)
+- [[eslint-plugin] properties not recognized](https://github.com/meta/stylex/issues/135)
+
+## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+
+- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+
+## [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar)
+
+- [Translate chapter 2 (setup) to Hindi](https://github.com/TanbirRamim/open-source-radar/issues/220)
+- [Translate chapter 3 (choose a project) to Italian](https://github.com/TanbirRamim/open-source-radar/issues/428)
+- [Translate chapter 1 (why contribute) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/341)
+- [Translate chapter 8 (reviews) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/410)
+- [Translate chapter 7 (communication) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/409)
+- [Translate chapter 6 (rules before you start) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/408)
+- [Start the Ukrainian guide: translate chapter 1](https://github.com/TanbirRamim/open-source-radar/issues/383)
+
+## [processing/p5.js](https://github.com/processing/p5.js)
+
+- [[p5.js 2.0+ Bug Report]: createRadio().disable(false) does not re-enable radio inputs](https://github.com/processing/p5.js/issues/9316)
+- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
+- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
+
+## [PStarH/unprompted](https://github.com/PStarH/unprompted)
+
+- [[Good first issue][Docs] Add a Chinese connector setup guide / 补齐中文连接器配置指南](https://github.com/PStarH/unprompted/issues/8)
+- [[Good first issue] Show when the next observation is scheduled / 显示下一次观察时间](https://github.com/PStarH/unprompted/issues/7)
+- [[Good first issue] Remember the selected connection panel / 记住当前连接面板](https://github.com/PStarH/unprompted/issues/6)
+- [[GUI] Surface pending approvals on mobile / 在移动端突出待审批事项](https://github.com/PStarH/unprompted/issues/2)
+- [[GUI] Keep section navigation in sync / 让导航状态跟随当前栏目](https://github.com/PStarH/unprompted/issues/1)
+
+## [riscv/riscv-isa-explorer](https://github.com/riscv/riscv-isa-explorer)
+
+- [chore: add a feature-request issue template](https://github.com/riscv/riscv-isa-explorer/issues/514)
+- [data: add state for nine extensions that have none](https://github.com/riscv/riscv-isa-explorer/issues/520)
+- [data: replace bare riscv-isa-manual URLs for eight privileged extensions](https://github.com/riscv/riscv-isa-explorer/issues/519)
+- [data: add state and specification links for the CLIC extensions](https://github.com/riscv/riscv-isa-explorer/issues/516)
+
+## [aws-samples/sample-collaborative-ai-dlc](https://github.com/aws-samples/sample-collaborative-ai-dlc)
+
+- [[Feature]: Optional Neptune Streams for a graph change log](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/690)
+- [[Feature]: Represent Jira issues as a tree](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/680)
+- [[Feature]:  Add loaders for agents and workflow in Intent composition](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/672)
+- [[Feature]: Improve Space creation flow](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/632)
+
+## [arinyaho/concord](https://github.com/arinyaho/concord)
+
+- [CI paths filter and install docs gaps found in #436 review](https://github.com/arinyaho/concord/issues/438)
+- [Minor follow-ups from #430 and #434](https://github.com/arinyaho/concord/issues/435)
+- [review-until-approve: pin that an omission finding closes through an addressed verdict](https://github.com/arinyaho/concord/issues/424)
+- [review-until-approve: the isolated Codex reviewer has no python on PATH](https://github.com/arinyaho/concord/issues/396)
+- [review-until-approve: minor follow-ups from #410](https://github.com/arinyaho/concord/issues/411)
+- [review-until-approve language and effort: minor follow-ups from #409](https://github.com/arinyaho/concord/issues/408)
+- [review-until-approve: minor follow-ups of the trust declaration (#406)](https://github.com/arinyaho/concord/issues/407)
+- [State CLI verbs report a usage error when their stdin evidence is missing](https://github.com/arinyaho/concord/issues/292)
+- [Keep removing test temp directories when one removal fails](https://github.com/arinyaho/concord/issues/290)
+
+## [tokentimerch/tokentimer-core](https://github.com/tokentimerch/tokentimer-core)
+
+- [Validate GitHub Actions workflows with actionlint in CI](https://github.com/tokentimerch/tokentimer-core/issues/309)
+- [Publish CI/CD templates for triggering token renewal workflows](https://github.com/tokentimerch/tokentimer-core/issues/308)
+
+## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+
+- [[ACTION] WhoisFreaks: new actions (WHOIS history, DNS history, reverse DNS, DNS lookup, ASN WHOIS, typosquatting) + updated logo and description](https://github.com/PipedreamHQ/pipedream/issues/22420)
+- [[ACTION] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537)
+- [Create Embedding](https://github.com/PipedreamHQ/pipedream/issues/22400)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/22372)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/22341)
+- [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/22275)
+- [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717)
+- [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991)
+- [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017)
+- [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979)
+- [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912)
+- [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896)
+
+## [medic/cht-core](https://github.com/medic/cht-core)
+
+- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
+- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
+
+## [YusefSyed/scopehaven-oss](https://github.com/YusefSyed/scopehaven-oss)
+
+- [Docs: every repository path in the documentation must exist, with a test that keeps it so](https://github.com/YusefSyed/scopehaven-oss/issues/13)
+- [Add an example profile for a webhook-driven app to `docs/profiles/`](https://github.com/YusefSyed/scopehaven-oss/issues/12)
+- [Run `doctor`, the demo assessment and one test file under WSL, and write down what happens](https://github.com/YusefSyed/scopehaven-oss/issues/11)
+- [SARIF: give each rule a `helpUri` and each taxonomy its source URL](https://github.com/YusefSyed/scopehaven-oss/issues/10)
+- [Dashboard: move the literal colours into the `--sh-*` custom properties so a light theme becomes possible](https://github.com/YusefSyed/scopehaven-oss/issues/9)
+- [Walk through one Mastra billing scenario end to end, without the setup scripts](https://github.com/YusefSyed/scopehaven-oss/issues/8)
+- [Give every CLI the same `--json` shape](https://github.com/YusefSyed/scopehaven-oss/issues/6)
+- [Add the tag-triggered workflow that publishes the built npm package](https://github.com/YusefSyed/scopehaven-oss/issues/5)
 
