@@ -1,7 +1,7 @@
 {
-    "name": "github-issue-fetcher",
+    "name": "Github-issue-fetcher",
     "version": "1.0.0",
-    "description": "A nodeJs app to fetch issues from github",
+    "description": "A Node.js app to fetch issues from github",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
