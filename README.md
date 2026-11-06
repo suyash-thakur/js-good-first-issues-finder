@@ -4,6 +4,142 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
+## [DivyashreeR008/Open-Agents](https://github.com/DivyashreeR008/Open-Agents)
+
+- [[NSoC 2026] Theme and preference persistence have no tests](https://github.com/DivyashreeR008/Open-Agents/issues/371)
+- [[NSoC 2026] Suite quiz options point at agents outside their own suite](https://github.com/DivyashreeR008/Open-Agents/issues/122)
+- [[NSoC 2026] Relative times never refresh while the page stays open](https://github.com/DivyashreeR008/Open-Agents/issues/295)
+- [[NSoC 2026] Tiny amounts display as free while costing money](https://github.com/DivyashreeR008/Open-Agents/issues/294)
+- [[NSoC 2026] One damaged marketplace record breaks the whole page](https://github.com/DivyashreeR008/Open-Agents/issues/173)
+- [[NSoC 2026] Re-rating a listing with no stored total shows NaN](https://github.com/DivyashreeR008/Open-Agents/issues/172)
+- [[NSoC 2026] Importing a marketplace listing can throw with no feedback](https://github.com/DivyashreeR008/Open-Agents/issues/131)
+- [[NSoC 2026] The empty recommendation screen names the wrong cause](https://github.com/DivyashreeR008/Open-Agents/issues/167)
+- [[NSoC 2026] One accidental hit clears the confidence bar and hides the warning](https://github.com/DivyashreeR008/Open-Agents/issues/166)
+- [[NSoC 2026] Agents that matched nothing are ranked as recommendations](https://github.com/DivyashreeR008/Open-Agents/issues/163)
+- [[NSoC 2026] A duplicate agent id is dropped silently while the guard test cannot fail](https://github.com/DivyashreeR008/Open-Agents/issues/189)
+- [[NSoC 2026] Four definitions declare no output type](https://github.com/DivyashreeR008/Open-Agents/issues/177)
+- [[NSoC 2026] Marketplace listings cannot be sorted by rating, imports, or age](https://github.com/DivyashreeR008/Open-Agents/issues/236)
+- [[NSoC 2026] Listings do not show when they were published](https://github.com/DivyashreeR008/Open-Agents/issues/233)
+- [[NSoC 2026] Star fill rounds differently from the rating number shown next to it](https://github.com/DivyashreeR008/Open-Agents/issues/237)
+- [[NSoC 2026] A rating cannot be removed once it has been given](https://github.com/DivyashreeR008/Open-Agents/issues/230)
+- [[NSoC 2026] Show or hide toggles do not expose which state they are in](https://github.com/DivyashreeR008/Open-Agents/issues/215)
+- [[NSoC 2026] The Clear All Keys confirmation cannot be dismissed with the keyboard](https://github.com/DivyashreeR008/Open-Agents/issues/214)
+- [[NSoC 2026] Save confirmation in Settings is not announced to screen readers](https://github.com/DivyashreeR008/Open-Agents/issues/213)
+- [[NSoC 2026] The Anthropic key link promises a free key that does not exist](https://github.com/DivyashreeR008/Open-Agents/issues/220)
+- [[NSoC 2026] Clearing a single key needs no confirmation while clearing all does](https://github.com/DivyashreeR008/Open-Agents/issues/218)
+- [[NSoC 2026] Saving settings always reports success even when nothing was saved](https://github.com/DivyashreeR008/Open-Agents/issues/207)
+- [[NSoC 2026] The empty option in the default provider picker never takes effect](https://github.com/DivyashreeR008/Open-Agents/issues/202)
+- [[NSoC 2026] Re-run from recent history reopens an empty form](https://github.com/DivyashreeR008/Open-Agents/issues/8)
+- [[NSoC 2026] The auto-label step marks every new issue for triage](https://github.com/DivyashreeR008/Open-Agents/issues/388)
+- [[NSoC 2026] The average runs per day figure divides only by days that had runs](https://github.com/DivyashreeR008/Open-Agents/issues/286)
+- [[NSoC 2026] There is no accessibility statement or known-issues page](https://github.com/DivyashreeR008/Open-Agents/issues/358)
+- [[NSoC 2026] Small adjacent controls are easy to hit by mistake](https://github.com/DivyashreeR008/Open-Agents/issues/347)
+- [[NSoC 2026] Long runs give no sense of elapsed time or progress](https://github.com/DivyashreeR008/Open-Agents/issues/338)
+- [[NSoC 2026] Fast loads flash a spinner before any content](https://github.com/DivyashreeR008/Open-Agents/issues/336)
+- [[NSoC 2026] Route chunks are never prefetched, so first visits sit on a spinner](https://github.com/DivyashreeR008/Open-Agents/issues/331)
+- [[NSoC 2026] Text visibly reflows when the web font swaps in](https://github.com/DivyashreeR008/Open-Agents/issues/323)
+- [[NSoC 2026] The first paint waits on a third-party font stylesheet](https://github.com/DivyashreeR008/Open-Agents/issues/322)
+- [[NSoC 2026] Saved keys that have gone unused for months are never flagged](https://github.com/DivyashreeR008/Open-Agents/issues/320)
+- [[NSoC 2026] Prompt history entries cannot be deleted one at a time](https://github.com/DivyashreeR008/Open-Agents/issues/318)
+- [[NSoC 2026] The feedback page offers no route for reporting security problems privately](https://github.com/DivyashreeR008/Open-Agents/issues/317)
+- [[NSoC 2026] Copied outputs stay on the system clipboard indefinitely](https://github.com/DivyashreeR008/Open-Agents/issues/312)
+- [[NSoC 2026] External font requests happen on every load and are never mentioned](https://github.com/DivyashreeR008/Open-Agents/issues/310)
+- [[NSoC 2026] Pricing information carries no date or source](https://github.com/DivyashreeR008/Open-Agents/issues/301)
+- [[NSoC 2026] Charts and the activity heatmap have no legend](https://github.com/DivyashreeR008/Open-Agents/issues/296)
+- [[NSoC 2026] Retention differs between lists with no explanation](https://github.com/DivyashreeR008/Open-Agents/issues/279)
+- [[NSoC 2026] Prompt history caps by count, not by size](https://github.com/DivyashreeR008/Open-Agents/issues/278)
+- [[NSoC 2026] There is no backup reminder or workspace health check](https://github.com/DivyashreeR008/Open-Agents/issues/276)
+- [[NSoC 2026] Imported drafts accumulate with no cap](https://github.com/DivyashreeR008/Open-Agents/issues/271)
+- [[NSoC 2026] Nothing warns that storage is nearly full before writes fail](https://github.com/DivyashreeR008/Open-Agents/issues/269)
+- [[NSoC 2026] Storage entries from earlier versions are never cleaned up](https://github.com/DivyashreeR008/Open-Agents/issues/266)
+- [[NSoC 2026] The app never shows how much of its storage budget is in use](https://github.com/DivyashreeR008/Open-Agents/issues/264)
+- [[NSoC 2026] There is no index page that lists every agent](https://github.com/DivyashreeR008/Open-Agents/issues/261)
+- [[NSoC 2026] Searches are not remembered, so the same hunt repeats every visit](https://github.com/DivyashreeR008/Open-Agents/issues/258)
+- [[NSoC 2026] There is no way to stumble onto agents outside the usual categories](https://github.com/DivyashreeR008/Open-Agents/issues/256)
+- [[NSoC 2026] Category sizes are invisible until a filter is applied](https://github.com/DivyashreeR008/Open-Agents/issues/254)
+- [[NSoC 2026] Matches are not highlighted, so it is unclear why an agent was listed](https://github.com/DivyashreeR008/Open-Agents/issues/248)
+- [[NSoC 2026] There is no obvious way to clear an active search](https://github.com/DivyashreeR008/Open-Agents/issues/247)
+- [[NSoC 2026] A search that finds nothing offers no way forward](https://github.com/DivyashreeR008/Open-Agents/issues/246)
+- [[NSoC 2026] The catalogue cannot be browsed in alphabetical order](https://github.com/DivyashreeR008/Open-Agents/issues/244)
+- [[NSoC 2026] Marketplace notices are invisible to screen readers](https://github.com/DivyashreeR008/Open-Agents/issues/229)
+- [[NSoC 2026] Publishing without an author silently signs the work as Anonymous](https://github.com/DivyashreeR008/Open-Agents/issues/227)
+- [[NSoC 2026] The publish form stays disabled without explaining what is missing](https://github.com/DivyashreeR008/Open-Agents/issues/226)
+- [[NSoC 2026] Closing the publish dialog with a stray click destroys a filled form](https://github.com/DivyashreeR008/Open-Agents/issues/225)
+- [[NSoC 2026] Browser password managers treat the API key fields as login credentials](https://github.com/DivyashreeR008/Open-Agents/issues/219)
+- [[NSoC 2026] Navigating away from Settings silently discards unsaved edits](https://github.com/DivyashreeR008/Open-Agents/issues/216)
+- [[NSoC 2026] Settings says keys live in localStorage while the app stores them per tab](https://github.com/DivyashreeR008/Open-Agents/issues/205)
+- [[NSoC 2026] Package metadata is missing for a project that already has a license](https://github.com/DivyashreeR008/Open-Agents/issues/192)
+- [[NSoC 2026] Automation actions use blocking browser dialogs instead of in-app feedback](https://github.com/DivyashreeR008/Open-Agents/issues/99)
+- [[NSoC 2026] A stale duplicate of the agent table sits hidden inside a comment](https://github.com/DivyashreeR008/Open-Agents/issues/187)
+- [[NSoC 2026] The agent index is truncated at apostrophes and contains a corrupted character](https://github.com/DivyashreeR008/Open-Agents/issues/186)
+- [[NSoC 2026] The contribution guide promised by five files does not exist](https://github.com/DivyashreeR008/Open-Agents/issues/185)
+- [[NSoC 2026] README setup instructions describe a different toolchain entirely](https://github.com/DivyashreeR008/Open-Agents/issues/184)
+- [[NSoC 2026] The project has no linting anywhere despite disable comments](https://github.com/DivyashreeR008/Open-Agents/issues/183)
+- [[NSoC 2026] Batch exports describe unfinished items as pending](https://github.com/DivyashreeR008/Open-Agents/issues/169)
+- [[NSoC 2026] Spreadsheet exports open with garbled text in common spreadsheet apps](https://github.com/DivyashreeR008/Open-Agents/issues/168)
+- [[NSoC 2026] The app-wide crash screen blames AI output for unrelated failures](https://github.com/DivyashreeR008/Open-Agents/issues/160)
+- [[NSoC 2026] Failed runs are never recorded in history](https://github.com/DivyashreeR008/Open-Agents/issues/157)
+- [[NSoC 2026] Favorites do not stay in sync between open tabs](https://github.com/DivyashreeR008/Open-Agents/issues/155)
+- [[NSoC 2026] Favoriting fails silently when storage rejects the write](https://github.com/DivyashreeR008/Open-Agents/issues/154)
+- [[NSoC 2026] Damaged favorites data breaks the catalogue and home page](https://github.com/DivyashreeR008/Open-Agents/issues/153)
+- [[NSoC 2026] Removing an agent from a collection page is instant with no confirm or undo](https://github.com/DivyashreeR008/Open-Agents/issues/150)
+- [[NSoC 2026] Collection deletion outcomes are discarded](https://github.com/DivyashreeR008/Open-Agents/issues/147)
+- [[NSoC 2026] Deleting a collection happens with one click and no confirmation](https://github.com/DivyashreeR008/Open-Agents/issues/146)
+- [[NSoC 2026] A custom collection can duplicate the built-in collection name](https://github.com/DivyashreeR008/Open-Agents/issues/143)
+- [[NSoC 2026] Removing an agent from a collection always reports success](https://github.com/DivyashreeR008/Open-Agents/issues/142)
+- [[NSoC 2026] Marketplace search ignores authors and descriptions](https://github.com/DivyashreeR008/Open-Agents/issues/140)
+- [[NSoC 2026] Star display prefers the viewer's own vote over the average](https://github.com/DivyashreeR008/Open-Agents/issues/138)
+- [[NSoC 2026] Marketplace tags are stored without removing duplicates](https://github.com/DivyashreeR008/Open-Agents/issues/137)
+- [[NSoC 2026] Marketplace publish collects a readme that is never shown](https://github.com/DivyashreeR008/Open-Agents/issues/134)
+- [[NSoC 2026] Workflow builder silently drops preselected agents](https://github.com/DivyashreeR008/Open-Agents/issues/130)
+- [[NSoC 2026] Wizard match tiers render in the same style](https://github.com/DivyashreeR008/Open-Agents/issues/127)
+- [[NSoC 2026] Generated suite lists show raw slugs instead of agent names](https://github.com/DivyashreeR008/Open-Agents/issues/126)
+- [[NSoC 2026] Every suite generation failure shows the same generic message](https://github.com/DivyashreeR008/Open-Agents/issues/124)
+- [[NSoC 2026] Generating a suite does nothing when no key is set, including on Enter](https://github.com/DivyashreeR008/Open-Agents/issues/123)
+- [[NSoC 2026] A chosen model outside a hardcoded list is silently replaced](https://github.com/DivyashreeR008/Open-Agents/issues/120)
+- [[NSoC 2026] Model analysis is impossible for one supported provider](https://github.com/DivyashreeR008/Open-Agents/issues/119)
+- [[NSoC 2026] Invalid-key errors lose their explanation in some flows](https://github.com/DivyashreeR008/Open-Agents/issues/118)
+- [[NSoC 2026] Analytics time range buttons do not announce which option is active](https://github.com/DivyashreeR008/Open-Agents/issues/115)
+- [[NSoC 2026] Clearing run history leaves a usage trace behind in analytics](https://github.com/DivyashreeR008/Open-Agents/issues/114)
+- [[NSoC 2026] The automations page reloads stored data every five seconds forever](https://github.com/DivyashreeR008/Open-Agents/issues/111)
+- [[NSoC 2026] Damaged automation storage can break the automations pages outright](https://github.com/DivyashreeR008/Open-Agents/issues/108)
+- [[NSoC 2026] Automation detail tabs do not behave like tabs](https://github.com/DivyashreeR008/Open-Agents/issues/101)
+- [[NSoC 2026] Automation success rate shows a perfect score before anything has run](https://github.com/DivyashreeR008/Open-Agents/issues/100)
+- [[NSoC 2026] The scheduling email field has no accessible name](https://github.com/DivyashreeR008/Open-Agents/issues/98)
+
+## [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck)
+
+- [GFI: Remove docs/ from .gitignore / 从 .gitignore 移除 docs/ 规则](https://github.com/AI-WorkDeck/aiworkdeck/issues/1077)
+- [GFI: English twin for hello-web-plugin README / hello-web-plugin 英文 README](https://github.com/AI-WorkDeck/aiworkdeck/issues/1083)
+- [GFI: Add bilingual README for hello-declarative-plugin / 声明式插件示例 README](https://github.com/AI-WorkDeck/aiworkdeck/issues/1082)
+- [GFI: #66 Quick-check runbook for contributors / 编辑器语言 Quick check 操作说明](https://github.com/AI-WorkDeck/aiworkdeck/issues/1081)
+- [GFI: Archive one internal doc into docs/dev-notes/ / 归档一篇内部笔记](https://github.com/AI-WorkDeck/aiworkdeck/issues/1079)
+- [GFI: Add docs/README.md contributor index / 贡献者文档索引](https://github.com/AI-WorkDeck/aiworkdeck/issues/1078)
+- [GFI: Fix one frontend locale namespace key parity gap / 补齐一组 locale 键对拍缺口](https://github.com/AI-WorkDeck/aiworkdeck/issues/1084)
+
+## [nextcloud/tables](https://github.com/nextcloud/tables)
+
+- [create new empty row](https://github.com/nextcloud/tables/issues/2396)
+- [Inline editing of a "Short text" (TextLine) cell crashes with a JS error](https://github.com/nextcloud/tables/issues/3012)
+
+## [nextcloud/documentation](https://github.com/nextcloud/documentation)
+
+- [The suggested configuration for PHP MySQL driver is wrong due to MySQL (Original) being removed since PHP 7.0](https://github.com/nextcloud/documentation/issues/4758)
+
+## [meta/stylex](https://github.com/meta/stylex)
+
+- [[babel-plugin] TypeScript types are wrong](https://github.com/meta/stylex/issues/889)
+- [[eslint-plugin] properties not recognized](https://github.com/meta/stylex/issues/135)
+
+## [BlackSlience-Reaper/egress-observatory](https://github.com/BlackSlience-Reaper/egress-observatory)
+
+- [统一前端模块的 ?v= 版本号，避免同一模块加载两次](https://github.com/BlackSlience-Reaper/egress-observatory/issues/16)
+- [Add a screenshot of the site to the README](https://github.com/BlackSlience-Reaper/egress-observatory/issues/2)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+
 ## [conn3xorg/web](https://github.com/conn3xorg/web)
 
 - [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
@@ -11,53 +147,6 @@ This list gets updated every day at midnight.
 - [Content writers wanted: tell us where the website stops making sense](https://github.com/conn3xorg/web/issues/114)
 - [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
 - [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
-
-## [nextcloud/documentation](https://github.com/nextcloud/documentation)
-
-- [The suggested configuration for PHP MySQL driver is wrong due to MySQL (Original) being removed since PHP 7.0](https://github.com/nextcloud/documentation/issues/4758)
-
-## [vercel/next.js](https://github.com/vercel/next.js)
-
-- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
-
-## [layer5io/docs](https://github.com/layer5io/docs)
-
-- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
-
-## [melizeche/ayudapy](https://github.com/melizeche/ayudapy)
-
-- [Add id and name in search fields](https://github.com/melizeche/ayudapy/issues/272)
-
-## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
-
-- [Run the hook install suite in CI](https://github.com/addisdev/actions-runners/issues/21)
-- [Fix the docs/cockpit.md path in the cockpit release workflow](https://github.com/addisdev/actions-runners/issues/84)
-- [Add unit tests for the capacity headroom gate](https://github.com/addisdev/actions-runners/issues/83)
-- [Add unit tests for the workflow YAML parser](https://github.com/addisdev/actions-runners/issues/82)
-
-## [ECNU/EduWork](https://github.com/ECNU/EduWork)
-
-- [[征集] 好用的 DSH 插件：推荐与集成评估](https://github.com/ECNU/EduWork/issues/127)
-- [[征集] 好用的 Skills：推荐与集成评估](https://github.com/ECNU/EduWork/issues/126)
-
-## [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
-
-- [Improve Mobile Responsiveness](https://github.com/Syknapse/Contribute-To-This-Project/issues/4750)
-- [Translation for Maintainer Guide](https://github.com/Syknapse/Contribute-To-This-Project/issues/2881)
-
-## [msz-legend/dsh-mobile-bridge](https://github.com/msz-legend/dsh-mobile-bridge)
-
-- [feat: 设备管理页中英双语（i18n）](https://github.com/msz-legend/dsh-mobile-bridge/issues/4)
-- [feat: 完善 PWA manifest（应用名 / 图标 / 主题色）](https://github.com/msz-legend/dsh-mobile-bridge/issues/2)
-- [docs: 校对 README.en.md 英文表达](https://github.com/msz-legend/dsh-mobile-bridge/issues/1)
-
-## [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-
-- [Allow filtering for "evening courses"](https://github.com/nusmodifications/nusmods/issues/3668)
-- [`GlobalSearch` renders unnecessarily when not empty](https://github.com/nusmodifications/nusmods/issues/3060)
-- [Improve module search page's exam clash detection](https://github.com/nusmodifications/nusmods/issues/3663)
-- [Prevent duplicate courses in the same Planner semester](https://github.com/nusmodifications/nusmods/issues/4602)
-- [Replace Enzyme with React Testing Library](https://github.com/nusmodifications/nusmods/issues/3033)
 
 ## [TapanKumarBarik/Backend-roadmap](https://github.com/TapanKumarBarik/Backend-roadmap)
 
@@ -73,18 +162,12 @@ This list gets updated every day at midnight.
 - [Add “Further reading & sources” to learn/ tracks 07–09 (28 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/33)
 - [Add “Further reading & sources” to learn/ tracks 04–06 (31 modules)](https://github.com/TapanKumarBarik/Backend-roadmap/issues/32)
 
-## [WeWorker/WeWorker](https://github.com/WeWorker/WeWorker)
+## [addisdev/actions-runners](https://github.com/addisdev/actions-runners)
 
-- [[Docs]: 完善首次提交 Adapter 的贡献检查清单](https://github.com/WeWorker/WeWorker/issues/261)
-- [[Feature]: 增加 README、官网与 Release 下载链接一致性测试](https://github.com/WeWorker/WeWorker/issues/260)
-- [[Feature]: 改善官网键盘导航、焦点样式和无障碍标签](https://github.com/WeWorker/WeWorker/issues/259)
-- [[Docs]: 为 5 个常用 Adapter 补充公开使用示例](https://github.com/WeWorker/WeWorker/issues/258)
-- [[Docs]: 补充 Windows/macOS 安装包 SHA-256 校验教程](https://github.com/WeWorker/WeWorker/issues/257)
-
-## [HarperFast/harper](https://github.com/HarperFast/harper)
-
-- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
-- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+- [Run the hook install suite in CI](https://github.com/addisdev/actions-runners/issues/21)
+- [Fix the docs/cockpit.md path in the cockpit release workflow](https://github.com/addisdev/actions-runners/issues/84)
+- [Add unit tests for the capacity headroom gate](https://github.com/addisdev/actions-runners/issues/83)
+- [Add unit tests for the workflow YAML parser](https://github.com/addisdev/actions-runners/issues/82)
 
 ## [nextcloud/mail](https://github.com/nextcloud/mail)
 
@@ -92,115 +175,16 @@ This list gets updated every day at midnight.
 - [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
 - [Add a CONST for the Oracle Max Chunk size and replace all occurrences](https://github.com/nextcloud/mail/issues/5214)
 
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
+## [msz-legend/dsh-mobile-bridge](https://github.com/msz-legend/dsh-mobile-bridge)
 
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [feat: 设备管理页中英双语（i18n）](https://github.com/msz-legend/dsh-mobile-bridge/issues/4)
+- [feat: 完善 PWA manifest（应用名 / 图标 / 主题色）](https://github.com/msz-legend/dsh-mobile-bridge/issues/2)
+- [docs: 校对 README.en.md 英文表达](https://github.com/msz-legend/dsh-mobile-bridge/issues/1)
 
-## [reactjs/react.dev](https://github.com/reactjs/react.dev)
+## [opensourcesoftware-4team/Exercise_Posture](https://github.com/opensourcesoftware-4team/Exercise_Posture)
 
-- [Capitalize React concepts in docs](https://github.com/reactjs/react.dev/issues/6713)
-
-## [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-
-- [[es] Spanish folder localization zero-code](https://github.com/open-telemetry/opentelemetry.io/issues/7841)
-- [[es] Spanish folder localization blogs](https://github.com/open-telemetry/opentelemetry.io/issues/7535)
-- [[pt] Localize content/en/docs/collector pages](https://github.com/open-telemetry/opentelemetry.io/issues/9427)
-- [[pt] Localize content/en/docs/platforms pages](https://github.com/open-telemetry/opentelemetry.io/issues/7545)
-- [[es] Spanish folder localization docs/Platforms](https://github.com/open-telemetry/opentelemetry.io/issues/5227)
-- [[pt] Localize content/en/docs/zero-code/agent/configuration.md](https://github.com/open-telemetry/opentelemetry.io/issues/7114)
-- [[es] Spanish folder localization docs/demo](https://github.com/open-telemetry/opentelemetry.io/issues/5226)
-
-## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
-
-- [refactor(providers): careerviet and itviec carry the same city lookup twice](https://github.com/career-ops-hq/career-ops/issues/6430)
-- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
-- [fix(web): every follow-up card's report link is announced as just "Open"](https://github.com/career-ops-hq/career-ops/issues/6425)
-- [test(cursor-directory): the plugin test accepts extra skills and an empty description](https://github.com/career-ops-hq/career-ops/issues/6429)
-- [fix(providers): a large max_pages on a prace.cz entry has no page ceiling](https://github.com/career-ops-hq/career-ops/issues/6260)
-- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
-
-## [corosolto/client](https://github.com/corosolto/client)
-
-- [Decidir o destino de `GET /api/config`](https://github.com/corosolto/client/issues/1083)
-- [Teste de fumaça das rotas do site no CI](https://github.com/corosolto/client/issues/1087)
-- [Página 404 personalizada](https://github.com/corosolto/client/issues/1080)
-- [Aposentar de verdade os evals obsoletos](https://github.com/corosolto/client/issues/1085)
-- [Verificar os hashes do `skills-lock.json`](https://github.com/corosolto/client/issues/1084)
-- [Âncoras por versão e link permanente no `/changelog`](https://github.com/corosolto/client/issues/1086)
-- [Validar os caracteres do nick no registro](https://github.com/corosolto/client/issues/1082)
-- [Vendorizar o Leaflet e tirar o unpkg da CSP](https://github.com/corosolto/client/issues/1081)
-- [Tabela comparativa de armas com ordenação no cliente](https://github.com/corosolto/client/issues/1078)
-- [Acessibilidade: skip link, foco visível e contraste](https://github.com/corosolto/client/issues/1079)
-- [Uma página por facção: `/faccoes/<id>`](https://github.com/corosolto/client/issues/1077)
-- [Gerar `og:image` própria para `/mapas` e `/armas`](https://github.com/corosolto/client/issues/1076)
-- [Partir o sitemap em índice quando passar de 5.000 URLs](https://github.com/corosolto/client/issues/1075)
-- [Adicionar `hreflang` e alternate para o host sem `www`](https://github.com/corosolto/client/issues/1073)
-
-## [nextcloud/forms](https://github.com/nextcloud/forms)
-
-- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
-
-## [nextcloud/deck](https://github.com/nextcloud/deck)
-
-- ['Archive All cards' confirmation madal does not show properly on ultrawide 3440x1440 (21:9 ration) screen](https://github.com/nextcloud/deck/issues/3170)
-
-## [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen)
-
-- [[python] Automatic pip install is not working for python>=3.12 without wheel](https://github.com/cdxgen/cdxgen/issues/1531)
-- [[docker-compose] Support for automatically building compose images](https://github.com/cdxgen/cdxgen/issues/1759)
-- [[cli] container image-based generator](https://github.com/cdxgen/cdxgen/issues/1699)
-- [[formulation] formulation section is not populated without git](https://github.com/cdxgen/cdxgen/issues/920)
-- [[pnpm] capture requiresBuild and hasBin attributes](https://github.com/cdxgen/cdxgen/issues/802)
-- [[c/c++] do not match OS packages for stdlib](https://github.com/cdxgen/cdxgen/issues/788)
-- [[js] evinse for svelte apps might be broken](https://github.com/cdxgen/cdxgen/issues/787)
-- [[d] support for dub](https://github.com/cdxgen/cdxgen/issues/774)
-- [Update readme and docs regarding optional plugins](https://github.com/cdxgen/cdxgen/issues/599)
-- [gradle copy deps init script to speed up collectGradleDependencies](https://github.com/cdxgen/cdxgen/issues/593)
-- [cdxgen server api enhancements](https://github.com/cdxgen/cdxgen/issues/592)
-- [Support for buildroot .mk files](https://github.com/cdxgen/cdxgen/issues/543)
-- [Support for coursier cache](https://github.com/cdxgen/cdxgen/issues/542)
-- [MINGW PKGBUILD parser](https://github.com/cdxgen/cdxgen/issues/540)
-- [Add evidence for dotnet components](https://github.com/cdxgen/cdxgen/issues/536)
-- [Test against top 100 docker images](https://github.com/cdxgen/cdxgen/issues/500)
-- [Do not override spec-version for new dependency-track users](https://github.com/cdxgen/cdxgen/issues/499)
-- [Test with wrongsecrets](https://github.com/cdxgen/cdxgen/issues/484)
-- [Support for ivy xml](https://github.com/cdxgen/cdxgen/issues/473)
-- [Container image release workflow is just too slow](https://github.com/cdxgen/cdxgen/issues/397)
-- [Better documentation and logic writeup](https://github.com/cdxgen/cdxgen/issues/355)
-- [BOM per sub-project for multi-project builds (Java)](https://github.com/cdxgen/cdxgen/issues/234)
-
-## [jdhart81/hdfm-framework](https://github.com/jdhart81/hdfm-framework)
-
-- [Native-status sources for planting records: from a state checklist to species[].native](https://github.com/jdhart81/hdfm-framework/issues/49)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Ask for confirmation when mentioning all in a large conversation](https://github.com/nextcloud/spreed/issues/11881)
-- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
-
-## [Northeastern-Science-Magazine/nusci-backend](https://github.com/Northeastern-Science-Magazine/nusci-backend)
-
-- [DELETE article endpoint](https://github.com/Northeastern-Science-Magazine/nusci-backend/issues/256)
-
-## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
-
-- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/253)
-- [[Good First Issue] Add safe defaults guidance for Finding titles [MC-101]](https://github.com/Berserk-hub150/skillhawk/issues/247)
-- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/252)
-- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/240)
-- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/239)
-- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/243)
-- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/244)
-- [[Good First Issue] Add an educational-warning tip [MC-016]](https://github.com/Berserk-hub150/skillhawk/issues/245)
-- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/241)
-- [[Good First Issue] Add least privilege guidance for Finding titles [MC-102]](https://github.com/Berserk-hub150/skillhawk/issues/250)
-- [[Good First Issue] Add clarity guidance for Finding titles [MC-100]](https://github.com/Berserk-hub150/skillhawk/issues/235)
-- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/236)
-- [[2–5 min] Add one severity-labeling tip](https://github.com/Berserk-hub150/skillhawk/issues/42)
+- [[문서] 운동 정보 공유 커뮤니티 이용 시나리오 및 실행 화면 문서화](https://github.com/opensourcesoftware-4team/Exercise_Posture/issues/41)
+- [[기능] 운동 정보 공유 게시판 게시글 삭제 기능 구현](https://github.com/opensourcesoftware-4team/Exercise_Posture/issues/23)
 
 ## [Bees-bot/bees-desktop](https://github.com/Bees-bot/bees-desktop)
 
@@ -213,6 +197,14 @@ This list gets updated every day at midnight.
 - [Build Bees from source on Windows and list what you had to install](https://github.com/Bees-bot/bees-desktop/issues/313)
 - [Run the Linux AppImage on a distro that isn't Ubuntu](https://github.com/Bees-bot/bees-desktop/issues/283)
 
+## [WeWorker/WeWorker](https://github.com/WeWorker/WeWorker)
+
+- [[Docs]: 完善首次提交 Adapter 的贡献检查清单](https://github.com/WeWorker/WeWorker/issues/261)
+- [[Feature]: 增加 README、官网与 Release 下载链接一致性测试](https://github.com/WeWorker/WeWorker/issues/260)
+- [[Feature]: 改善官网键盘导航、焦点样式和无障碍标签](https://github.com/WeWorker/WeWorker/issues/259)
+- [[Docs]: 为 5 个常用 Adapter 补充公开使用示例](https://github.com/WeWorker/WeWorker/issues/258)
+- [[Docs]: 补充 Windows/macOS 安装包 SHA-256 校验教程](https://github.com/WeWorker/WeWorker/issues/257)
+
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 - [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
@@ -221,87 +213,28 @@ This list gets updated every day at midnight.
 - [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
 - [Support URL parameters so we can link directly to filtered dashboard view](https://github.com/louislam/uptime-kuma/issues/3672)
 
-## [nodejs/undici](https://github.com/nodejs/undici)
+## [vercel/next.js](https://github.com/vercel/next.js)
 
-- [interceptors: move signal handling to interceptor](https://github.com/nodejs/undici/issues/3276)
-- [Filter tls options](https://github.com/nodejs/undici/issues/236)
-- [Default fetch timeout too short](https://github.com/nodejs/undici/issues/1373)
+- [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
 
-## [neomjs/neo](https://github.com/neomjs/neo)
+## [opensource-radar/opensource-radar](https://github.com/opensource-radar/opensource-radar)
 
-- [Pin Neo.util.Css: how CSS rules reach the main thread](https://github.com/neomjs/neo/issues/19148)
-- [Pin which events the calendar's getDayRecords returns for a day](https://github.com/neomjs/neo/issues/19140)
-- [Pin how the progress, country-flag and GitHub-user grid columns map a record](https://github.com/neomjs/neo/issues/19136)
-- [Pin the ways ClassSystem.beforeSetInstance turns a config into an instance](https://github.com/neomjs/neo/issues/19134)
-- [A filter on a dotted path never matches raw items or undeclared paths](https://github.com/neomjs/neo/issues/20284)
-- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
-- [Docs App: Routes](https://github.com/neomjs/neo/issues/24)
-- [config order: add an exception for `layout` to always be in front of `items`](https://github.com/neomjs/neo/issues/5007)
-- [tab.Container: Closable tabs](https://github.com/neomjs/neo/issues/26)
+- [Show the current year in the footer](https://github.com/opensource-radar/opensource-radar/issues/20)
+- [Add a screenshot of the site to the README](https://github.com/opensource-radar/opensource-radar/issues/21)
+- [Respect the "reduce motion" setting](https://github.com/opensource-radar/opensource-radar/issues/24)
 
-## [meta/stylex](https://github.com/meta/stylex)
+## [nextcloud/forms](https://github.com/nextcloud/forms)
 
-- [[babel-plugin] TypeScript types are wrong](https://github.com/meta/stylex/issues/889)
-- [[eslint-plugin] properties not recognized](https://github.com/meta/stylex/issues/135)
+- [Replace description fields with NcRichText](https://github.com/nextcloud/forms/issues/3587)
 
-## [Hylozoic/hylo](https://github.com/Hylozoic/hylo)
+## [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system)
 
-- [translation script sort reverses case](https://github.com/Hylozoic/hylo/issues/1266)
+- [Add a secure Helm chart for the HTTP gateway (Phase 1)](https://github.com/happy520ai/unified-ai-system/issues/113)
 
-## [TanbirRamim/open-source-radar](https://github.com/TanbirRamim/open-source-radar)
+## [ashG1124/tome](https://github.com/ashG1124/tome)
 
-- [Translate chapter 2 (setup) to Hindi](https://github.com/TanbirRamim/open-source-radar/issues/220)
-- [Translate chapter 3 (choose a project) to Italian](https://github.com/TanbirRamim/open-source-radar/issues/428)
-- [Translate chapter 1 (why contribute) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/341)
-- [Translate chapter 8 (reviews) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/410)
-- [Translate chapter 7 (communication) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/409)
-- [Translate chapter 6 (rules before you start) to Bengali](https://github.com/TanbirRamim/open-source-radar/issues/408)
-- [Start the Ukrainian guide: translate chapter 1](https://github.com/TanbirRamim/open-source-radar/issues/383)
-
-## [processing/p5.js](https://github.com/processing/p5.js)
-
-- [[p5.js 2.0+ Bug Report]: createRadio().disable(false) does not re-enable radio inputs](https://github.com/processing/p5.js/issues/9316)
-- [[p5.js 2.0 Bug Report]: Warnings about omitting strokes on high-detail 3D primitives don't use FES](https://github.com/processing/p5.js/issues/8387)
-- [[2.x] Fix dimensional quirk in the `setHeading()` method of `p5.Vector`](https://github.com/processing/p5.js/issues/8215)
-
-## [PStarH/unprompted](https://github.com/PStarH/unprompted)
-
-- [[Good first issue][Docs] Add a Chinese connector setup guide / 补齐中文连接器配置指南](https://github.com/PStarH/unprompted/issues/8)
-- [[Good first issue] Show when the next observation is scheduled / 显示下一次观察时间](https://github.com/PStarH/unprompted/issues/7)
-- [[Good first issue] Remember the selected connection panel / 记住当前连接面板](https://github.com/PStarH/unprompted/issues/6)
-- [[GUI] Surface pending approvals on mobile / 在移动端突出待审批事项](https://github.com/PStarH/unprompted/issues/2)
-- [[GUI] Keep section navigation in sync / 让导航状态跟随当前栏目](https://github.com/PStarH/unprompted/issues/1)
-
-## [riscv/riscv-isa-explorer](https://github.com/riscv/riscv-isa-explorer)
-
-- [chore: add a feature-request issue template](https://github.com/riscv/riscv-isa-explorer/issues/514)
-- [data: add state for nine extensions that have none](https://github.com/riscv/riscv-isa-explorer/issues/520)
-- [data: replace bare riscv-isa-manual URLs for eight privileged extensions](https://github.com/riscv/riscv-isa-explorer/issues/519)
-- [data: add state and specification links for the CLIC extensions](https://github.com/riscv/riscv-isa-explorer/issues/516)
-
-## [aws-samples/sample-collaborative-ai-dlc](https://github.com/aws-samples/sample-collaborative-ai-dlc)
-
-- [[Feature]: Optional Neptune Streams for a graph change log](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/690)
-- [[Feature]: Represent Jira issues as a tree](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/680)
-- [[Feature]:  Add loaders for agents and workflow in Intent composition](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/672)
-- [[Feature]: Improve Space creation flow](https://github.com/aws-samples/sample-collaborative-ai-dlc/issues/632)
-
-## [arinyaho/concord](https://github.com/arinyaho/concord)
-
-- [CI paths filter and install docs gaps found in #436 review](https://github.com/arinyaho/concord/issues/438)
-- [Minor follow-ups from #430 and #434](https://github.com/arinyaho/concord/issues/435)
-- [review-until-approve: pin that an omission finding closes through an addressed verdict](https://github.com/arinyaho/concord/issues/424)
-- [review-until-approve: the isolated Codex reviewer has no python on PATH](https://github.com/arinyaho/concord/issues/396)
-- [review-until-approve: minor follow-ups from #410](https://github.com/arinyaho/concord/issues/411)
-- [review-until-approve language and effort: minor follow-ups from #409](https://github.com/arinyaho/concord/issues/408)
-- [review-until-approve: minor follow-ups of the trust declaration (#406)](https://github.com/arinyaho/concord/issues/407)
-- [State CLI verbs report a usage error when their stdin evidence is missing](https://github.com/arinyaho/concord/issues/292)
-- [Keep removing test temp directories when one removal fails](https://github.com/arinyaho/concord/issues/290)
-
-## [tokentimerch/tokentimer-core](https://github.com/tokentimerch/tokentimer-core)
-
-- [Validate GitHub Actions workflows with actionlint in CI](https://github.com/tokentimerch/tokentimer-core/issues/309)
-- [Publish CI/CD templates for triggering token renewal workflows](https://github.com/tokentimerch/tokentimer-core/issues/308)
+- [[T3-front] 홈 서가: 프로젝트 카드·+ Project·빈 상태·순서 바꾸기](https://github.com/ashG1124/tome/issues/23)
+- [[T2-front] 전시 코드 화면 + 동의 모달 + 로그인 유지](https://github.com/ashG1124/tome/issues/20)
 
 ## [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
 
@@ -318,19 +251,54 @@ This list gets updated every day at midnight.
 - [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912)
 - [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896)
 
-## [medic/cht-core](https://github.com/medic/cht-core)
+## [meshery/meshery.io](https://github.com/meshery/meshery.io)
 
-- [Add constant for 'person' document type](https://github.com/medic/cht-core/issues/10543)
-- [Add constants for 'task', 'target', and 'user-settings' document types](https://github.com/medic/cht-core/issues/10548)
+- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
+- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
+- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
+- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
 
-## [YusefSyed/scopehaven-oss](https://github.com/YusefSyed/scopehaven-oss)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [Docs: every repository path in the documentation must exist, with a test that keeps it so](https://github.com/YusefSyed/scopehaven-oss/issues/13)
-- [Add an example profile for a webhook-driven app to `docs/profiles/`](https://github.com/YusefSyed/scopehaven-oss/issues/12)
-- [Run `doctor`, the demo assessment and one test file under WSL, and write down what happens](https://github.com/YusefSyed/scopehaven-oss/issues/11)
-- [SARIF: give each rule a `helpUri` and each taxonomy its source URL](https://github.com/YusefSyed/scopehaven-oss/issues/10)
-- [Dashboard: move the literal colours into the `--sh-*` custom properties so a light theme becomes possible](https://github.com/YusefSyed/scopehaven-oss/issues/9)
-- [Walk through one Mastra billing scenario end to end, without the setup scripts](https://github.com/YusefSyed/scopehaven-oss/issues/8)
-- [Give every CLI the same `--json` shape](https://github.com/YusefSyed/scopehaven-oss/issues/6)
-- [Add the tag-triggered workflow that publishes the built npm package](https://github.com/YusefSyed/scopehaven-oss/issues/5)
+- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+- [refactor(providers): careerviet and itviec carry the same city lookup twice](https://github.com/career-ops-hq/career-ops/issues/6430)
+- [fix(web): every follow-up card's report link is announced as just "Open"](https://github.com/career-ops-hq/career-ops/issues/6425)
+- [test(cursor-directory): the plugin test accepts extra skills and an empty description](https://github.com/career-ops-hq/career-ops/issues/6429)
+- [fix(providers): a large max_pages on a prace.cz entry has no page ceiling](https://github.com/career-ops-hq/career-ops/issues/6260)
+
+## [gojaildev/vylop](https://github.com/gojaildev/vylop)
+
+- [feat(editor): add font size and font family preferences with persistence](https://github.com/gojaildev/vylop/issues/44)
+- [feat(editor): Add keyboard shortcuts for code execution, panel toggles, and workspace management](https://github.com/gojaildev/vylop/issues/34)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [nextcloud/contacts](https://github.com/nextcloud/contacts)
+
+- [[Bug]: Activity shows contact being created in the wrong address book](https://github.com/nextcloud/contacts/issues/5757)
+
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/16454)
+- [Fix broken Markdown link: http://asmjs.org/spec/latest/](https://github.com/stdlib-js/stdlib/issues/16408)
+- [Fix broken Markdown link: https://docs.travis-ci.com/user/customizing-the-build](https://github.com/stdlib-js/stdlib/issues/16407)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16391)
+- [[RFC]: replace inline NaN generation with stdlib NaN constants in C source files (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11743)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16319)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/16301)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16201)
+- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16182)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16126)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/15996)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15995)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15970)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15944)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/15927)
 
