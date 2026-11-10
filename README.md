@@ -4,49 +4,215 @@ This is a list of JavaScript repositories with good first issues for newcomers t
 
 This list gets updated every day at midnight.
 
-## [coffee4jack/sondoong](https://github.com/coffee4jack/sondoong)
+## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
-- [Rutas del menu ( en componente navbar)](https://github.com/coffee4jack/sondoong/issues/13)
-- [Mouse Hover](https://github.com/coffee4jack/sondoong/issues/10)
+- [fix(tracker-addition): a score summary bulleted with `•` is not read](https://github.com/career-ops-hq/career-ops/issues/6754)
+- [fix(scan): max_response_mb drops `this` from the ctx's fetch methods](https://github.com/career-ops-hq/career-ops/issues/6757)
+- [fix(role-clarity): "Reports to: Élodie Martin" is read as no supervisor](https://github.com/career-ops-hq/career-ops/issues/6758)
+- [test(tracker-index): the first-build suite cleans up with a bare rmSync that can fail on Windows](https://github.com/career-ops-hq/career-ops/issues/6756)
+- [test(pipeline-lock): the sustained-contention case depends on CAREER_OPS_PIPELINE_LOCK_MAX_WAIT_MS](https://github.com/career-ops-hq/career-ops/issues/6755)
+- [test(ats-fixture): a sample row passes while one of its named characters is gone](https://github.com/career-ops-hq/career-ops/issues/6753)
+- [fix(providers/ibm): an impossible posting date like 2026-02-30 becomes a real one](https://github.com/career-ops-hq/career-ops/issues/6752)
+- [fix(ics): a UTC offset with a seconds field of 60 is accepted](https://github.com/career-ops-hq/career-ops/issues/6751)
+- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
+- [fix(web): every follow-up card's report link is announced as just "Open"](https://github.com/career-ops-hq/career-ops/issues/6425)
+- [refactor(providers): careerviet and itviec carry the same city lookup twice](https://github.com/career-ops-hq/career-ops/issues/6430)
+- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
+- [fix(providers): a large max_pages on a prace.cz entry has no page ceiling](https://github.com/career-ops-hq/career-ops/issues/6260)
 
-## [WeWorker/WeWorker](https://github.com/WeWorker/WeWorker)
+## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 
-- [[Docs]: 完善首次提交 Adapter 的贡献检查清单](https://github.com/WeWorker/WeWorker/issues/261)
-- [[Feature]: 增加 README、官网与 Release 下载链接一致性测试](https://github.com/WeWorker/WeWorker/issues/260)
-- [[Feature]: 改善官网键盘导航、焦点样式和无障碍标签](https://github.com/WeWorker/WeWorker/issues/259)
-- [[Docs]: 为 5 个常用 Adapter 补充公开使用示例](https://github.com/WeWorker/WeWorker/issues/258)
-- [[Docs]: 补充 Windows/macOS 安装包 SHA-256 校验教程](https://github.com/WeWorker/WeWorker/issues/257)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16563)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16548)
+- [[RFC]: Improve doctests for complex number instances in documentation examples (tracking issue)](https://github.com/stdlib-js/stdlib/issues/8641)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16470)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16453)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/16454)
+- [Fix broken Markdown link: http://asmjs.org/spec/latest/](https://github.com/stdlib-js/stdlib/issues/16408)
+- [Fix broken Markdown link: https://docs.travis-ci.com/user/customizing-the-build](https://github.com/stdlib-js/stdlib/issues/16407)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16391)
+- [[RFC]: replace inline NaN generation with stdlib NaN constants in C source files (tracking issue)](https://github.com/stdlib-js/stdlib/issues/11743)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16319)
+- [Fix C lint errors](https://github.com/stdlib-js/stdlib/issues/16301)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16201)
+- [Fix broken Markdown link: https://bugzilla.mozilla.org/show_bug.cgi?id=892671](https://github.com/stdlib-js/stdlib/issues/11248)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16182)
+- [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/issues/16126)
 
-## [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo)
+## [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck)
 
-- [Title: PostgreSQL performance warning: 948,750 dead tuples after upgrading to Nextcloud 35.0.2 (AIO 15.0.2 Beta)](https://github.com/nextcloud/serverinfo/issues/1266)
+- [GFI: Remove docs/ from .gitignore / 从 .gitignore 移除 docs/ 规则](https://github.com/AI-WorkDeck/aiworkdeck/issues/1077)
+- [GFI: English twin for hello-web-plugin README / hello-web-plugin 英文 README](https://github.com/AI-WorkDeck/aiworkdeck/issues/1083)
 
-## [arminazimi/slipway](https://github.com/arminazimi/slipway)
+## [1275-B24-Academy/inventory-system](https://github.com/1275-B24-Academy/inventory-system)
 
-- [Keyboard keys](https://github.com/arminazimi/slipway/issues/1134)
-- [Site footer](https://github.com/arminazimi/slipway/issues/1116)
-- [Motion tokens and reduced motion](https://github.com/arminazimi/slipway/issues/1093)
-- [Freeze `adapters/` for the standard phase](https://github.com/arminazimi/slipway/issues/1218)
-- [Remove Ruby and the gem](https://github.com/arminazimi/slipway/issues/1213)
-- [Remove Jekyll plugins](https://github.com/arminazimi/slipway/issues/1212)
-- [Remove non-docs examples](https://github.com/arminazimi/slipway/issues/1208)
-- [Spec and llms pages on the engine](https://github.com/arminazimi/slipway/issues/1203)
-- [Docs-only navigation for Slipway's site](https://github.com/arminazimi/slipway/issues/1196)
-- [The dashboard app page passes through untouched](https://github.com/arminazimi/slipway/issues/1189)
-- [Gate: no broken links or anchors](https://github.com/arminazimi/slipway/issues/1158)
-- [Gate: valid HTML](https://github.com/arminazimi/slipway/issues/1157)
-- [Details and accordions](https://github.com/arminazimi/slipway/issues/1137)
-- [Badges](https://github.com/arminazimi/slipway/issues/1135)
-- [File name bar on code blocks](https://github.com/arminazimi/slipway/issues/1124)
-- [Keyboard shortcuts for search: ⌘K, Ctrl+K, and /](https://github.com/arminazimi/slipway/issues/1114)
-- [GitHub Pages files: `.nojekyll` and `CNAME`](https://github.com/arminazimi/slipway/issues/1081)
-- [`404.html` at the site root](https://github.com/arminazimi/slipway/issues/1067)
-- [`robots.txt` that points to the sitemap](https://github.com/arminazimi/slipway/issues/1066)
+- [[T5] Graceful shutdown: đóng pool DB khi nhận SIGTERM](https://github.com/1275-B24-Academy/inventory-system/issues/63)
+- [[T3] Đồng nhất tên file controller + sửa lỗi chính tả biến](https://github.com/1275-B24-Academy/inventory-system/issues/50)
+- [[T3] helmet + rate limit cho login/register](https://github.com/1275-B24-Academy/inventory-system/issues/44)
+- [[T1] Endpoint GET /health, xóa server/test-db.js](https://github.com/1275-B24-Academy/inventory-system/issues/22)
+- [[T0] Viết lại README](https://github.com/1275-B24-Academy/inventory-system/issues/12)
+- [[T0] Đưa URL ra biến môi trường + thêm .env.example](https://github.com/1275-B24-Academy/inventory-system/issues/10)
+- [[T0] Gỡ dependency không dùng: express-session, connect-pg-simple](https://github.com/1275-B24-Academy/inventory-system/issues/8)
+- [[T0] Xóa console.log debug + gắn middleware notFound](https://github.com/1275-B24-Academy/inventory-system/issues/6)
+
+## [chen-qingfeng/lightning-peek](https://github.com/chen-qingfeng/lightning-peek)
+
+- [把测量计算拆成独立模块并补单元测试 / Move measurement math into core/measure.js with tests](https://github.com/chen-qingfeng/lightning-peek/issues/7)
+- [显示光栅图片 / Show raster images (IMAGE)](https://github.com/chen-qingfeng/lightning-peek/issues/4)
+
+## [layer5io/docs](https://github.com/layer5io/docs)
+
+- [[Docs] Convert Static Image to Meshery Design - 4](https://github.com/layer5io/docs/issues/794)
+- [[Docs] Convert Static Image to Meshery Design - 3](https://github.com/layer5io/docs/issues/793)
+- [Screen capture includes Grammarly](https://github.com/layer5io/docs/issues/543)
+
+## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
+- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
+- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
+
+## [openyard-cloud/openyard](https://github.com/openyard-cloud/openyard)
+
+- [Show each project's kinds on its card](https://github.com/openyard-cloud/openyard/issues/4)
+- [Translate the site into a third language](https://github.com/openyard-cloud/openyard/issues/3)
+- [Show GitHub stars on open-source cards](https://github.com/openyard-cloud/openyard/issues/2)
+- [Add a search box to the project list](https://github.com/openyard-cloud/openyard/issues/1)
+
+## [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets)
+
+- [Link check reports transient 5xx answers (GitHub outage) as dead links](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/275)
+- [catalog: normalise 12 licence values to SPDX ids and fix a few small data defects](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/95)
+- [catalog: only 48 of 414 entries have a credit line, so "Copy credit line" is missing on most CC-BY and OFL pages](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/112)
+- [catalog: fill `publisher` (empty on 59% of entries) and `grid_dimensions` on the remaining 2D packs](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/98)
+- [catalog: re-verify the 54 entries last checked on 2026-07-19/20 (first batch)](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/94)
+
+## [GRCEngClub/claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering)
+
+- [Add evidence-checklist command to iso27001 plugin](https://github.com/GRCEngClub/claude-grc-engineering/issues/162)
+
+## [Lennonhaha/fibemate](https://github.com/Lennonhaha/fibemate)
+
+- [docs(doc-index): 更正 #256 的断言（生成器其实存在），并附编码扫描结论](https://github.com/Lennonhaha/fibemate/issues/257)
+- [[Docs] randombytes.h calls itself a stub but is the real OS-backed RNG](https://github.com/Lennonhaha/fibemate/issues/345)
+- [test(fml-dsa): cover ACVP sigGen/sigVer through the public API](https://github.com/Lennonhaha/fibemate/issues/296)
+- [build: pin npm, pip and image layers by hash (Pinned-Dependencies 8/10)](https://github.com/Lennonhaha/fibemate/issues/297)
+
+## [neomjs/neo](https://github.com/neomjs/neo)
+
+- [A symlinked engine makes a workspace build compile the wrong apps](https://github.com/neomjs/neo/issues/20697)
+- [Neo.core.Util's style helpers have no unit spec](https://github.com/neomjs/neo/issues/20670)
+- [The State & Data examples get their overview](https://github.com/neomjs/neo/issues/20696)
+- [The visual components, canvas and wrappers get their overview](https://github.com/neomjs/neo/issues/20695)
+- [Buttons, containers, lists, menus and trees get their overview](https://github.com/neomjs/neo/issues/20694)
+- [The Calendar examples get their overview](https://github.com/neomjs/neo/issues/20693)
+- [The Multi-Window examples get their overview](https://github.com/neomjs/neo/issues/20692)
+- [The Forms examples get their overview](https://github.com/neomjs/neo/issues/20691)
+- [Each dist build copies 5,839 Font Awesome files; the runtime loads 5](https://github.com/neomjs/neo/issues/20687)
+- [Row geometry: an extra height per row that the estimate ignores](https://github.com/neomjs/neo/issues/20681)
+- [Give the 17 cover-less Grid and Table example cards real covers](https://github.com/neomjs/neo/issues/20679)
+- [The grid guide does not cover CSV export or reading cell values](https://github.com/neomjs/neo/issues/20676)
+- [grid.columns.get() misses a column whose dataField changed at runtime](https://github.com/neomjs/neo/issues/20673)
+- [Pin the range field's value-in-label display](https://github.com/neomjs/neo/issues/19145)
+
+## [noruzzamans/gslider-blocks](https://github.com/noruzzamans/gslider-blocks)
+
+- [fix(post-carousel): wrap editor aria-labels with i18n](https://github.com/noruzzamans/gslider-blocks/issues/722)
+- [docs(base): replace invalid JSDoc returns tag with return in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/535)
+- [feat(flexi-content): add cards 3D transition effect](https://github.com/noruzzamans/gslider-blocks/issues/575)
+- [feat(flexi-content): add creative 3D transition presets selector (Stack, Tilt, Depth, Shift)](https://github.com/noruzzamans/gslider-blocks/issues/576)
+- [feat(flexi-content): add multi-layer scroll and transition parallax depth](https://github.com/noruzzamans/gslider-blocks/issues/581)
+- [feat(flexi-content): add centered slides alignment option](https://github.com/noruzzamans/gslider-blocks/issues/675)
+- [feat(flexi-content-item): add full slide clickable overlay link](https://github.com/noruzzamans/gslider-blocks/issues/676)
+- [[Bug] Background image picker throws a TypeError on select (missing Alt/ID setters in block inspectors)](https://github.com/noruzzamans/gslider-blocks/issues/296)
+- [[Bug] Image Slider / Logo Carousel: custom hover opacity, scale and lift are ignored on the frontend](https://github.com/noruzzamans/gslider-blocks/issues/295)
+- [test(core): create RegistrationCategory unit test adhering to PSR-4 1-to-1 standard](https://github.com/noruzzamans/gslider-blocks/issues/201)
+- [[Bug] Testimonial: default content padding and title margin are not applied until the Style panel is opened](https://github.com/noruzzamans/gslider-blocks/issues/306)
+- [[Bug] Attribute defaults don't match declared types: *GradientColor (string) default null, quoteIcon gradients '' vs null, testimonial quoteImageID (number) default ""](https://github.com/noruzzamans/gslider-blocks/issues/321)
+- [[Bug] Image Slider / Logo Carousel: empty item height outputs a stray "auto" that drops the item padding (and display:flex on tablet/mobile)](https://github.com/noruzzamans/gslider-blocks/issues/311)
+- [refactor(mcp): eliminate no-nested-ternary in validate-block.ts](https://github.com/noruzzamans/gslider-blocks/issues/463)
+- [refactor(lint): eliminate no-nested-ternary and blanket eslint-disable across blocks and tooling](https://github.com/noruzzamans/gslider-blocks/issues/462)
+- [refactor(image-slider): eliminate no-nested-ternary in edit.js](https://github.com/noruzzamans/gslider-blocks/issues/465)
+- [refactor(testimonial): eliminate no-nested-ternary in styling.js](https://github.com/noruzzamans/gslider-blocks/issues/469)
+- [refactor(testimonial): eliminate unused no-nested-ternary in edit.js](https://github.com/noruzzamans/gslider-blocks/issues/467)
+
+## [HarperFast/harper](https://github.com/HarperFast/harper)
+
+- [static file handler should have configurable index.html](https://github.com/HarperFast/harper/issues/296)
+- [Incorrect logic for matching index.html](https://github.com/HarperFast/harper/issues/297)
+
+## [mahmutmft/courses-mcp](https://github.com/mahmutmft/courses-mcp)
+
+- [Make first-time fork and pull-request contribution instructions accurate](https://github.com/mahmutmft/courses-mcp/issues/51)
+- [Create a versioned synthetic MK/EN/SQ compatibility corpus](https://github.com/mahmutmft/courses-mcp/issues/45)
+
+## [nextcloud/documentation](https://github.com/nextcloud/documentation)
+
+- [File (drop) request seems outdated](https://github.com/nextcloud/documentation/issues/13446)
+- [Document regex syntax for Flow file-name matching](https://github.com/nextcloud/documentation/issues/11435)
+- [The suggested configuration for PHP MySQL driver is wrong due to MySQL (Original) being removed since PHP 7.0](https://github.com/nextcloud/documentation/issues/4758)
+
+## [esheenj/mobile-first-flow-kit-oss](https://github.com/esheenj/mobile-first-flow-kit-oss)
+
+- [good first issue: test reduced-motion and forced-colors in the real mobile journey](https://github.com/esheenj/mobile-first-flow-kit-oss/issues/7)
+- [Test the state/action matrix with Node's built-in test runner](https://github.com/esheenj/mobile-first-flow-kit-oss/issues/2)
+
+## [wheelgap/tracker](https://github.com/wheelgap/tracker)
+
+- [A "most-wanted wheels" list per platform](https://github.com/wheelgap/tracker/issues/20)
+- [Publish the scan as CSV too, for spreadsheets and notebooks](https://github.com/wheelgap/tracker/issues/17)
+- [Tests for scripts/ and a check that runs on every PR](https://github.com/wheelgap/tracker/issues/16)
+
+## [OCodejs/ocodejs.github.io](https://github.com/OCodejs/ocodejs.github.io)
+
+- [Choose your Antigravity IDE](https://github.com/OCodejs/ocodejs.github.io/issues/29)
+- [Migrate from workflows to skills](https://github.com/OCodejs/ocodejs.github.io/issues/28)
 
 ## [vercel/next.js](https://github.com/vercel/next.js)
 
 - [Inconsistent Error Messaging / Handling in getStaticPaths](https://github.com/vercel/next.js/issues/41281)
 - [`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`](https://github.com/vercel/next.js/issues/53473)
+
+## [philaconvalley/projectionMapper](https://github.com/philaconvalley/projectionMapper)
+
+- [Add a calibration test pattern](https://github.com/philaconvalley/projectionMapper/issues/16)
+- [Tell remixers what to change after "Use this template"](https://github.com/philaconvalley/projectionMapper/issues/10)
+- [Make the example fonts look the same on every computer](https://github.com/philaconvalley/projectionMapper/issues/19)
+- [Nudge a corner with the arrow keys](https://github.com/philaconvalley/projectionMapper/issues/14)
+- [README: say that E hides the mouse, and stop the favicon error](https://github.com/philaconvalley/projectionMapper/issues/9)
+
+## [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE)
+
+- [[real-estate-luxe] Add private viewing scheduling modal with date-time picker and agent selector](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/300)
+- [[podcast-audio-stream] Add episode share modal with custom timestamp URL generator and one-click copy button](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/298)
+- [[nonprofit-impact] Add live impact metric badge counter (Acres Protected / Communities Supported) with animated count-up](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/296)
+- [[luxury-realms] Add destination local time and weather forecast pill to private jet destination cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/294)
+- [[health-vitality] Add daily hydration reminder alarm toggle with audio chime notification](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/292)
+- [[gaming-esports-hub] Add match countdown timer badge with 'Add to Calendar' ICS file export](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/290)
+- [[fintech-vault] Add virtual card freeze/unfreeze security toggle button with animated card lock status](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/288)
+- [[festival-hub] Add interactive festival FAQ accordion with category filter tabs](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/286)
+- [[edtech-academy] Add course prerequisite checklist with interactive completion checkboxes](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/284)
+- [[ecommerce-store] Add interactive free shipping progress bar showing amount remaining to unlock free delivery](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/282)
+- [[cybersecurity-sentinel] Add interactive system security health score badge with compliance status](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/276)
+- [[culinary-bistro] Add table seating area preference selector (Main Dining, Patio, Chef Counter) to reservation form](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/274)
+- [[crypto-exchange-pro] Add trading fee tier discount badge and 30-day VIP level progress pill](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/272)
+- [[automotive-hypercar] Add battery charging speed indicator card with AC vs DC Fast Charger toggle](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/270)
+- [[ai-voice-studio] Add character count and estimated audio duration badge to voice script input](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/268)
+- [[agency-studio] Add interactive project delivery timeline badge and estimated turnaround indicator](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/266)
+- [[culinary-bistro] Add dietary badge icons (Vegan, Gluten-Free, Chef Special) to menu items](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/15)
+- [[cybersecurity-sentinel] Add copy-to-clipboard button with visual confirmation for API token](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/18)
+- [[edtech-academy] Add course duration and difficulty tags (Beginner / Intermediate / Advanced)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/25)
+- [[nonprofit-impact] Add dynamic 'Trees Planted' animated milestone counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/37)
+- [[culinary-bistro] Add dietary allergens alert tooltip popover (Nuts, Dairy, Shellfish) to dish cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/180)
+- [[crypto-exchange-pro] Add color-coded ticker chips (+ green / - red) for 24h market stats](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/13)
+
+## [PStarH/unprompted](https://github.com/PStarH/unprompted)
+
+- [[Good first issue][Docs] Add a Chinese connector setup guide / 补齐中文连接器配置指南](https://github.com/PStarH/unprompted/issues/8)
+- [[Good first issue] Show when the next observation is scheduled / 显示下一次观察时间](https://github.com/PStarH/unprompted/issues/7)
+- [[Good first issue] Remember the selected connection panel / 记住当前连接面板](https://github.com/PStarH/unprompted/issues/6)
+- [[GUI] Surface pending approvals on mobile / 在移动端突出待审批事项](https://github.com/PStarH/unprompted/issues/2)
+- [[GUI] Keep section navigation in sync / 让导航状态跟随当前栏目](https://github.com/PStarH/unprompted/issues/1)
 
 ## [sonukapoor/warpdom](https://github.com/sonukapoor/warpdom)
 
@@ -54,73 +220,12 @@ This list gets updated every day at midnight.
 - [compare: fallback glob matcher edge cases (escaped brackets, dot-eligible tokens) and a lookup map (from #212 review)](https://github.com/sonukapoor/warpdom/issues/214)
 - [compare: Jest environment comments after the first 8 KB of a file are missed](https://github.com/sonukapoor/warpdom/issues/213)
 
-## [camadkins/promptcite](https://github.com/camadkins/promptcite)
-
-- [Add the agent you use](https://github.com/camadkins/promptcite/issues/29)
-- [--list --json](https://github.com/camadkins/promptcite/issues/27)
-- [Example receipt: outline](https://github.com/camadkins/promptcite/issues/23)
-- [Example receipt: draft](https://github.com/camadkins/promptcite/issues/22)
-- [Example receipt: debug](https://github.com/camadkins/promptcite/issues/21)
-- [Example receipt: search](https://github.com/camadkins/promptcite/issues/20)
-- [Add your language](https://github.com/camadkins/promptcite/issues/19)
-- [Add French disclosure strings](https://github.com/camadkins/promptcite/issues/18)
-- [Add Spanish disclosure strings](https://github.com/camadkins/promptcite/issues/17)
-
-## [nextcloud/mail](https://github.com/nextcloud/mail)
-
-- [After move thread, app should select next available message](https://github.com/nextcloud/mail/issues/13965)
-- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
-
-## [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io/pull/633)
-
-- [fix: add favicon to resolve 404 on /favicon.ico (Closes #134)](https://github.com/NextCommunity/NextCommunity.github.io/pull/633)
-- [use of HTML tags like inside a YAML](https://github.com/NextCommunity/NextCommunity.github.io/issues/403)
-- [Join the Hackfest and get paid with GitHub Sponsors](https://github.com/NextCommunity/NextCommunity.github.io/issues/613)
-- [Remove inline button handlers and centralize UI click binding](https://github.com/NextCommunity/NextCommunity.github.io/issues/627)
-
-## [mozilla/rhino](https://github.com/mozilla/rhino)
-
-- [Write an OpenRewrite rule to migrate to Rhino 2.0](https://github.com/mozilla/rhino/issues/2363)
-
-## [Tektrix/pinfold](https://github.com/Tektrix/pinfold)
-
-- [Add "Sleep other tabs" to free memory without closing tabs](https://github.com/Tektrix/pinfold/issues/47)
-- [Add a setting to skip duplicate tabs when saving](https://github.com/Tektrix/pinfold/issues/45)
-- [Add a "Copy links" action to each tab group](https://github.com/Tektrix/pinfold/issues/43)
-- [Add tests for the dashboard's "saved just now" banner](https://github.com/Tektrix/pinfold/issues/39)
-- [Add tests for the popup's "Save to" folder picker](https://github.com/Tektrix/pinfold/issues/38)
-- [Add a "Choose file" button to the Import tab](https://github.com/Tektrix/pinfold/issues/37)
-- [Add tests for untested PinfoldStorage write methods](https://github.com/Tektrix/pinfold/issues/29)
-- [Add tests for the service worker's restoreTabs](https://github.com/Tektrix/pinfold/issues/30)
-- [Add utils/groups.js, scripts/ and site/ to the project layout docs](https://github.com/Tektrix/pinfold/issues/27)
-- [Manage focus in the Export / Import dialog](https://github.com/Tektrix/pinfold/issues/26)
-- [Give settings controls and dashboard dropdowns accessible labels](https://github.com/Tektrix/pinfold/issues/24)
-- [Show a keyboard focus ring on popup buttons](https://github.com/Tektrix/pinfold/issues/22)
-- [Announce toast messages to screen readers](https://github.com/Tektrix/pinfold/issues/21)
-- [Make the sidebar folder tree usable from the keyboard](https://github.com/Tektrix/pinfold/issues/10)
-- [Give icon-only buttons accessible names](https://github.com/Tektrix/pinfold/issues/6)
-
-## [TMHSDigital/Free-Game-Dev-Assets](https://github.com/TMHSDigital/Free-Game-Dev-Assets)
-
-- [catalog: normalise 12 licence values to SPDX ids and fix a few small data defects](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/95)
-- [catalog: only 48 of 414 entries have a credit line, so "Copy credit line" is missing on most CC-BY and OFL pages](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/112)
-- [catalog: fill `publisher` (empty on 59% of entries) and `grid_dimensions` on the remaining 2D packs](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/98)
-- [catalog: re-verify the 54 entries last checked on 2026-07-19/20 (first batch)](https://github.com/TMHSDigital/Free-Game-Dev-Assets/issues/94)
-
-## [conn3xorg/web](https://github.com/conn3xorg/web)
-
-- [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
-- [Writers wanted: edit the Ansible and Terraform migration guides](https://github.com/conn3xorg/web/issues/115)
-- [Content writers wanted: tell us where the website stops making sense](https://github.com/conn3xorg/web/issues/114)
-- [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
-- [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
-
 ## [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty)
 
+- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
 - [Automate Bug Detection and Reviews](https://github.com/SecureBananaLabs/bug-bounty/issues/11398)
 - [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
 - [Technical Poem Generation and Content Creation](https://github.com/SecureBananaLabs/bug-bounty/issues/76)
-- [Low Handing Fruit Automation](https://github.com/SecureBananaLabs/bug-bounty/issues/743)
 - [Pixel Art Creation with high Creative Thinking](https://github.com/SecureBananaLabs/bug-bounty/issues/80)
 - [Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB](https://github.com/SecureBananaLabs/bug-bounty/issues/30)
 - [upload endpoint accepts empty file submissions as successful uploads](https://github.com/SecureBananaLabs/bug-bounty/issues/2850)
@@ -142,81 +247,50 @@ This list gets updated every day at midnight.
 - [Admin routes lack role-based access control — any authenticated user can access admin endpoints](https://github.com/SecureBananaLabs/bug-bounty/issues/1770)
 - [Implement a fully functional Admin Panel](https://github.com/SecureBananaLabs/bug-bounty/issues/29)
 
-## [nodejs/doc-kit](https://github.com/nodejs/doc-kit)
+## [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha)
 
-- [html: a custom bundler fails with DataCloneError unless threads is 1](https://github.com/nodejs/doc-kit/issues/1201)
-- [Add a prominent active status to the title on the right.](https://github.com/nodejs/doc-kit/issues/529)
+- [Example: Laravel form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/126)
+- [Example: Django form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/125)
+- [Add Swahili (sw) widget translation](https://github.com/WebDecoy/FCaptcha/issues/123)
+- [Add Bengali (bn) widget translation](https://github.com/WebDecoy/FCaptcha/issues/122)
+- [Add Urdu (ur) widget translation](https://github.com/WebDecoy/FCaptcha/issues/121)
 
-## [Pratyush-Panda-2006/CAREERFORGE](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/381)
+## [conn3xorg/web](https://github.com/conn3xorg/web)
 
-- [feat(saas-launchpad): add system status indicator](https://github.com/Pratyush-Panda-2006/CAREERFORGE/pull/381)
-- [[saas-launchpad] Add live system status indicator widget (99.99% Uptime) with operational status badge](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/302)
-- [[real-estate-luxe] Add private viewing scheduling modal with date-time picker and agent selector](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/300)
-- [[podcast-audio-stream] Add episode share modal with custom timestamp URL generator and one-click copy button](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/298)
-- [[nonprofit-impact] Add live impact metric badge counter (Acres Protected / Communities Supported) with animated count-up](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/296)
-- [[luxury-realms] Add destination local time and weather forecast pill to private jet destination cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/294)
-- [[health-vitality] Add daily hydration reminder alarm toggle with audio chime notification](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/292)
-- [[gaming-esports-hub] Add match countdown timer badge with 'Add to Calendar' ICS file export](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/290)
-- [[fintech-vault] Add virtual card freeze/unfreeze security toggle button with animated card lock status](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/288)
-- [[festival-hub] Add interactive festival FAQ accordion with category filter tabs](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/286)
-- [[edtech-academy] Add course prerequisite checklist with interactive completion checkboxes](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/284)
-- [[ecommerce-store] Add interactive free shipping progress bar showing amount remaining to unlock free delivery](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/282)
-- [[docs-portal] Add HTTP status codes reference drawer with quick error explanation tooltips](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/280)
-- [[cybersecurity-sentinel] Add interactive system security health score badge with compliance status](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/276)
-- [[culinary-bistro] Add table seating area preference selector (Main Dining, Patio, Chef Counter) to reservation form](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/274)
-- [[crypto-exchange-pro] Add trading fee tier discount badge and 30-day VIP level progress pill](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/272)
-- [[automotive-hypercar] Add battery charging speed indicator card with AC vs DC Fast Charger toggle](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/270)
-- [[ai-voice-studio] Add character count and estimated audio duration badge to voice script input](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/268)
-- [[agency-studio] Add interactive project delivery timeline badge and estimated turnaround indicator](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/266)
-- [[culinary-bistro] Add dietary badge icons (Vegan, Gluten-Free, Chef Special) to menu items](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/15)
-- [[cybersecurity-sentinel] Add copy-to-clipboard button with visual confirmation for API token](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/18)
-- [[edtech-academy] Add course duration and difficulty tags (Beginner / Intermediate / Advanced)](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/25)
-- [[nonprofit-impact] Add dynamic 'Trees Planted' animated milestone counter](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/37)
-- [[culinary-bistro] Add dietary allergens alert tooltip popover (Nuts, Dairy, Shellfish) to dish cards](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/180)
-- [[crypto-exchange-pro] Add color-coded ticker chips (+ green / - red) for 24h market stats](https://github.com/Pratyush-Panda-2006/CAREERFORGE/issues/13)
+- [Content writers wanted: turn our posts into things people share](https://github.com/conn3xorg/web/issues/116)
+- [Writers wanted: edit the Ansible and Terraform migration guides](https://github.com/conn3xorg/web/issues/115)
+- [Content writers wanted: tell us where the website stops making sense](https://github.com/conn3xorg/web/issues/114)
+- [Writers wanted: follow the first-server tutorial and fix where it loses you](https://github.com/conn3xorg/web/issues/112)
+- [Content writers wanted: write a post about a real job Conn3x does](https://github.com/conn3xorg/web/issues/111)
 
-## [nxtg-ai/forge-plugin](https://github.com/nxtg-ai/forge-plugin)
+## [Berserk-hub150/skillhawk](https://github.com/Berserk-hub150/skillhawk)
 
-- [Companion launcher: with HOME unset, the project-root walk can bind your home directory](https://github.com/nxtg-ai/forge-plugin/issues/102)
-- [docs: add a page for the owasp-security skill (docs/skills/owasp-security.md)](https://github.com/nxtg-ai/forge-plugin/issues/103)
-- [docs: add a page for the /nxtg-forge:task command (docs/commands/task.md)](https://github.com/nxtg-ai/forge-plugin/issues/104)
+- [[Good First Issue] Add a false-positive review tip [MC-004]](https://github.com/Berserk-hub150/skillhawk/issues/258)
+- [[Good First Issue] Add clarity guidance for Finding titles [MC-100]](https://github.com/Berserk-hub150/skillhawk/issues/256)
+- [[Good First Issue] Add least privilege guidance for Finding titles [MC-102]](https://github.com/Berserk-hub150/skillhawk/issues/250)
+- [[Good First Issue] Add a regression-test tip [MC-014]](https://github.com/Berserk-hub150/skillhawk/issues/257)
+- [[Good First Issue] Add a SKILL.md trust-boundary tip [MC-012]](https://github.com/Berserk-hub150/skillhawk/issues/255)
+- [[2–5 min] Add one Claude Code review use case](https://github.com/Berserk-hub150/skillhawk/issues/29)
+- [[Good First Issue] Add a suspicious-fixture writing tip [MC-008]](https://github.com/Berserk-hub150/skillhawk/issues/253)
+- [[Good First Issue] Add safe defaults guidance for Finding titles [MC-101]](https://github.com/Berserk-hub150/skillhawk/issues/247)
+- [[Good First Issue] Add an actionable-remediation tip [MC-003]](https://github.com/Berserk-hub150/skillhawk/issues/240)
+- [[Good First Issue] Add a safe-fixture writing tip [MC-007]](https://github.com/Berserk-hub150/skillhawk/issues/239)
+- [[Good First Issue] Add a redaction tip [MC-009]](https://github.com/Berserk-hub150/skillhawk/issues/243)
+- [[Good First Issue] Add a SARIF-result tip [MC-015]](https://github.com/Berserk-hub150/skillhawk/issues/244)
+- [[2–5 min] Add one severity-labeling tip](https://github.com/Berserk-hub150/skillhawk/issues/42)
 
-## [google/site-kit-wp](https://github.com/google/site-kit-wp)
+## [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo)
 
-- [The Site Kit G sits higher than its label in the WordPress menu on a phone](https://github.com/google/site-kit-wp/issues/13378)
-- [Page titles, category names, and Site Goals totals show HTML entity codes in the plain text email report](https://github.com/google/site-kit-wp/issues/13537)
-- [The visitor groups card shows no Retry and no Get help under an Analytics rate limit](https://github.com/google/site-kit-wp/issues/13881)
-- [Follow-up: update remaining <p> tags to use the new Typography approach.](https://github.com/google/site-kit-wp/issues/13388)
+- [Title: PostgreSQL performance warning: 948,750 dead tuples after upgrading to Nextcloud 35.0.2 (AIO 15.0.2 Beta)](https://github.com/nextcloud/serverinfo/issues/1266)
 
-## [MouseWurX/Bob](https://github.com/MouseWurX/Bob)
+## [nextcloud/mail](https://github.com/nextcloud/mail)
 
-- [Left panel: Bob's quirk messages resize the panel and move the buttons; use brief word bubbles](https://github.com/MouseWurX/Bob/issues/36)
-- [Rented brains: enter the rental key in Settings instead of a user environment variable](https://github.com/MouseWurX/Bob/issues/32)
-- [Settings: "Let the reviewer sit beside Bob's main brain" is broken](https://github.com/MouseWurX/Bob/issues/30)
-- [Model info circles are hard to read: show licence, maker, date, context, type and what's configurable](https://github.com/MouseWurX/Bob/issues/29)
-- [Brain catalogue: colour cards by model family, with a marker for community remixes](https://github.com/MouseWurX/Bob/issues/28)
-- [Tried Bob on a Raspberry Pi 4 or 5? Tell us how it went](https://github.com/MouseWurX/Bob/issues/6)
-- [Tried Bob on a real Mac? Tell us how it went](https://github.com/MouseWurX/Bob/issues/5)
+- [After move thread, app should select next available message](https://github.com/nextcloud/mail/issues/13965)
+- [Change Message-ID format](https://github.com/nextcloud/mail/issues/624)
 
-## [all-contributors/app](https://github.com/all-contributors/app)
+## [visjs/vis-timeline](https://github.com/visjs/vis-timeline)
 
-- [App does not react to commit comments](https://github.com/all-contributors/app/issues/152)
-
-## [andrewsiah/agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp)
-
-- [Add a Korean README for agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp/issues/6)
-- [Add a Japanese README for agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp/issues/5)
-- [Reject blank MCP delivery and question bodies before HTTP](https://github.com/andrewsiah/agentswarm-mcp/issues/4)
-- [Add a Spanish README for agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp/issues/3)
-- [initialize: validate capabilities/clientInfo shape (-32602)](https://github.com/andrewsiah/agentswarm-mcp/issues/1)
-
-## [meshery/meshery.io](https://github.com/meshery/meshery.io)
-
-- [[UI] Fix inconsistent container widths and alignment on Talks and Trainings page](https://github.com/meshery/meshery.io/issues/3161)
-- [Fix mobile responsive layout for GSoC Programs page](https://github.com/meshery/meshery.io/issues/3060)
-- [Fix mobile spacing and alignment on MeshMates page](https://github.com/meshery/meshery.io/issues/3059)
-- [Touch interactions provide no visual feedback on Catalog cards in mobile view](https://github.com/meshery/meshery.io/issues/2797)
-- [[DevOps] Populate Meshery Catalog with Sample Apps using meshery UI](https://github.com/meshery/meshery.io/issues/1699)
+- [vis.js timeline rounding off timeAxis.step](https://github.com/visjs/vis-timeline/issues/1030)
 
 ## [minuta-app/minuta](https://github.com/minuta-app/minuta)
 
@@ -226,89 +300,4 @@ This list gets updated every day at midnight.
 - [Probar Minuta en Fedora, Arch u otra distro de Linux](https://github.com/minuta-app/minuta/issues/10)
 - [Probar Minuta en Windows en una reunión real](https://github.com/minuta-app/minuta/issues/9)
 - [Muletillas en portugués para las métricas](https://github.com/minuta-app/minuta/issues/4)
-
-## [graba-app/graba](https://github.com/graba-app/graba)
-
-- [Traducir Graba al francés](https://github.com/graba-app/graba/issues/20)
-- [Ejemplo: exportar un pedazo del video como GIF](https://github.com/graba-app/graba/issues/18)
-- [Probar el guion con IA a partir de una presentación real](https://github.com/graba-app/graba/issues/15)
-- [Probar Graba en Windows](https://github.com/graba-app/graba/issues/11)
-- [Traducir Graba al portugués](https://github.com/graba-app/graba/issues/10)
-- [Ejemplo: convertir los subtítulos a WebVTT (.vtt)](https://github.com/graba-app/graba/issues/9)
-- [Probar Graba en tu Mac y contar cómo te fue](https://github.com/graba-app/graba/issues/4)
-
-## [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
-
-- [fix(web): every follow-up card's report link is announced as just "Open"](https://github.com/career-ops-hq/career-ops/issues/6425)
-- [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963)
-- [refactor(providers): careerviet and itviec carry the same city lookup twice](https://github.com/career-ops-hq/career-ops/issues/6430)
-- [fix(providers): a large max_pages on a prace.cz entry has no page ceiling](https://github.com/career-ops-hq/career-ops/issues/6260)
-- [i18n: translate the interview modes (plan/practice/debrief) to Portuguese (Brazil)](https://github.com/career-ops-hq/career-ops/issues/3408)
-
-## [cuttle-cards/cuttle](https://github.com/cuttle-cards/cuttle)
-
-- [[DevEx]: Convert the gameHistory store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1424)
-- [[DevEx]: Reference e2e test usernames through the user fixtures instead of hard-coded strings](https://github.com/cuttle-cards/cuttle/issues/1462)
-- [[DevEx]: Convert the myGames store to TypeScript](https://github.com/cuttle-cards/cuttle/issues/1423)
-- [[DevEx]: Add TS prop types to nine already-migrated script setup components](https://github.com/cuttle-cards/cuttle/issues/1428)
-
-## [charleswei118/web2mcp](https://github.com/charleswei118/web2mcp)
-
-- [Connector: Wikidata entity search](https://github.com/charleswei118/web2mcp/issues/17)
-- [Connector: Datamuse word finder](https://github.com/charleswei118/web2mcp/issues/15)
-- [Connector: PyPI package info](https://github.com/charleswei118/web2mcp/issues/10)
-- [Connector: Crossref scholarly works search](https://github.com/charleswei118/web2mcp/issues/9)
-- [Connector: Open Library book search](https://github.com/charleswei118/web2mcp/issues/3)
-
-## [joelynli0110/open-transfer-times](https://github.com/joelynli0110/open-transfer-times)
-
-- [Add a transfer profile for Zurich (ZRH)](https://github.com/joelynli0110/open-transfer-times/issues/4)
-- [Add a transfer profile for Vienna (VIE)](https://github.com/joelynli0110/open-transfer-times/issues/3)
-- [Replace airline source with an operator source for IST](https://github.com/joelynli0110/open-transfer-times/issues/2)
-- [Replace airline source with an operator source for CDG](https://github.com/joelynli0110/open-transfer-times/issues/1)
-
-## [aadorian/opencodeCLI](https://github.com/aadorian/opencodeCLI/pull/96)
-
-- [chore(deps-dev): bump playwright from 1.62.1 to 1.65.0](https://github.com/aadorian/opencodeCLI/pull/96)
-- [chore(deps-dev): bump the vscode-test group with 2 updates](https://github.com/aadorian/opencodeCLI/pull/87)
-
-## [nextcloud/spreed](https://github.com/nextcloud/spreed)
-
-- [Limit to groups in federated target server breaks federation](https://github.com/nextcloud/spreed/issues/12429)
-- [Ask for confirmation when mentioning all in a large conversation](https://github.com/nextcloud/spreed/issues/11881)
-- [Option to set "Original image quality" as default setting](https://github.com/nextcloud/spreed/issues/19616)
-
-## [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha)
-
-- [Example: Laravel form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/126)
-- [Example: Django form with server-side verification](https://github.com/WebDecoy/FCaptcha/issues/125)
-- [Add Swahili (sw) widget translation](https://github.com/WebDecoy/FCaptcha/issues/123)
-- [Add Bengali (bn) widget translation](https://github.com/WebDecoy/FCaptcha/issues/122)
-- [Add Urdu (ur) widget translation](https://github.com/WebDecoy/FCaptcha/issues/121)
-
-## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-
-- [[GDPR] Add cookies consent when Google Analytics is Enabled](https://github.com/louislam/uptime-kuma/issues/4337)
-- [Adding templating to more notification providers](https://github.com/louislam/uptime-kuma/issues/646)
-- [Pausing a group does not pause the individual monitors of that group](https://github.com/louislam/uptime-kuma/issues/7242)
-
-## [r-afael/better-yt-recommendations](https://github.com/r-afael/better-yt-recommendations)
-
-- [Show the extension's version on the options page](https://github.com/r-afael/better-yt-recommendations/issues/23)
-- [Add a setting to turn off the count on the toolbar icon](https://github.com/r-afael/better-yt-recommendations/issues/26)
-- [Add a "Report a problem" link to the popup and the options page](https://github.com/r-afael/better-yt-recommendations/issues/24)
-- [Add an Italian translation](https://github.com/r-afael/better-yt-recommendations/issues/21)
-- [Run an accessibility audit of the popup and the options page](https://github.com/r-afael/better-yt-recommendations/issues/39)
-- [Run the checks on Windows and macOS in CI](https://github.com/r-afael/better-yt-recommendations/issues/35)
-- [Let people undo deleting a profile](https://github.com/r-afael/better-yt-recommendations/issues/29)
-- [Add a "Reset to defaults" button to the options page](https://github.com/r-afael/better-yt-recommendations/issues/28)
-- [Show how full each channel list is](https://github.com/r-afael/better-yt-recommendations/issues/25)
-- [Add a Turkish translation](https://github.com/r-afael/better-yt-recommendations/issues/22)
-- [Add a Korean translation](https://github.com/r-afael/better-yt-recommendations/issues/20)
-- [Check that the extension works in Microsoft Edge and Brave](https://github.com/r-afael/better-yt-recommendations/issues/19)
-- [Replace the signed-out search results fixture with a signed-in capture](https://github.com/r-afael/better-yt-recommendations/issues/18)
-- [Replace the hand-written Home fixture with a real signed-in capture](https://github.com/r-afael/better-yt-recommendations/issues/17)
-- [Review a translation as a native speaker](https://github.com/r-afael/better-yt-recommendations/issues/15)
-- [Add a Japanese translation](https://github.com/r-afael/better-yt-recommendations/issues/14)
-- [Add a German translation](https://github.com/r-afael/better-yt-recommendations/issues/13)
 
