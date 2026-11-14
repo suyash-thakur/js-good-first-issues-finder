@@ -171,7 +171,59 @@ const getGoodFirstIssues = async () => {
 
 
     // Rebuild README content
-    let markdown = `# Good First Issues\n\nThis is a list of JavaScript repositories with good first issues for newcomers to open source. Contributions are welcome!\n\n`;
+    let markdown = `# 🚀 Good First Issues Finder\n\n`;
+    markdown += `> Discover beginner-friendly open source issues in JavaScript repositories — updated automatically every day at midnight.\n\n`;
+    markdown += `![GitHub Actions](https://img.shields.io/github/actions/workflow/status/suyash-thakur/js-good-first-issues-finder/main.yml?label=Daily%20Update&style=flat-square)\n`;
+    markdown += `![License](https://img.shields.io/github/license/suyash-thakur/js-good-first-issues-finder?style=flat-square)\n`;
+    markdown += `![Issues](https://img.shields.io/badge/issues-good%20first%20issue-brightgreen?style=flat-square)\n\n`;
+    markdown += `---\n\n`;
+    markdown += `## 📖 About\n\n`;
+    markdown += `**Good First Issues Finder** is an automated tool that scans GitHub daily for JavaScript repositories with open issues labelled \`good first issue\`. It helps new contributors find approachable tasks in active, real-world projects — no experience required!\n\n`;
+    markdown += `The project has two parts:\n`;
+    markdown += `- A **Node.js script** (\`index.js\`) that fetches issues from the GitHub API and writes this README, \`issues.json\`, and \`index.html\`.\n`;
+    markdown += `- A **Next.js web app** (\`web/\`) with search, filtering, and sorting — hosted live for easy browsing.\n\n`;
+    markdown += `---\n\n`;
+    markdown += `## ⚙️ How It Works\n\n`;
+    markdown += `1. A GitHub Actions workflow runs every day at midnight (UTC).\n`;
+    markdown += `2. The script queries the GitHub Search API for JavaScript repositories with more than one \`good first issue\`.\n`;
+    markdown += `3. For each repository found, it fetches open issues labelled \`good first issue\` updated within the last month.\n`;
+    markdown += `4. Results are written to \`issues.json\` (used by the web app), \`README.md\` (this file), and \`index.html\`.\n\n`;
+    markdown += `---\n\n`;
+    markdown += `## 🛠️ Local Setup\n\n`;
+    markdown += `### Prerequisites\n`;
+    markdown += `- [Node.js](https://nodejs.org/) v18 or higher\n`;
+    markdown += `- A [GitHub Personal Access Token](https://github.com/settings/tokens) with \`public_repo\` scope\n\n`;
+    markdown += `### Steps\n\n`;
+    markdown += `\`\`\`bash\n`;
+    markdown += `# 1. Clone the repository\n`;
+    markdown += `git clone https://github.com/suyash-thakur/js-good-first-issues-finder.git\n`;
+    markdown += `cd js-good-first-issues-finder\n\n`;
+    markdown += `# 2. Install dependencies\n`;
+    markdown += `npm install\n\n`;
+    markdown += `# 3. Create your environment file\n`;
+    markdown += `cp .env.example .env\n`;
+    markdown += `# Then open .env and add your GitHub token\n\n`;
+    markdown += `# 4. Run the script\n`;
+    markdown += `node index.js\n`;
+    markdown += `\`\`\`\n\n`;
+    markdown += `### Running the Web App\n\n`;
+    markdown += `\`\`\`bash\n`;
+    markdown += `cd web\n`;
+    markdown += `npm install\n`;
+    markdown += `npm run dev\n`;
+    markdown += `# Open http://localhost:3000\n`;
+    markdown += `\`\`\`\n\n`;
+    markdown += `---\n\n`;
+    markdown += `## 🤝 Contributing\n\n`;
+    markdown += `Contributions are welcome! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a pull request.\n\n`;
+    markdown += `Some good first contributions to this project itself:\n`;
+    markdown += `- Add support for more programming languages\n`;
+    markdown += `- Improve the web app UI\n`;
+    markdown += `- Fix bugs listed in open issues\n`;
+    markdown += `- Improve documentation\n\n`;
+    markdown += `---\n\n`;
+    markdown += `## 📋 Good First Issues List\n\n`;
+    markdown += `> ⚡ This section is **auto-generated** and updated every day at midnight.\n\n`;
     markdown += `This list gets updated every day at midnight.\n\n`;
 
     for (const issue of goodFirstIssues) {
