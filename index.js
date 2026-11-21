@@ -185,7 +185,7 @@ const getGoodFirstIssues = async () => {
     fs.writeFileSync('README.md', markdown);
   } catch (error) {
     console.error(`An error occurred: ${error.message}`);
-    process.exit();
+    process.exit(1);
   }
 };
 
@@ -207,7 +207,7 @@ const convertToHtml = async () => {
     });
   } catch (e) {
     console.error('>>>' + e);
-    process.exit();
+    process.exit(1);
   }
 };
 
