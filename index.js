@@ -192,6 +192,9 @@ const getGoodFirstIssues = async () => {
 const convertToHtml = async () => {
   try {
     const md = new Markdown();
+    let convertedHTML = "";
+
+    md.bufmax = 2048;
 
     md.render('README.md', {
       title: 'Good Javascript First Issues',
@@ -199,21 +202,30 @@ const convertToHtml = async () => {
       highlightTheme: 'github',
       stylesheet: 'styles.css',
       context: 'https://github.com',
-    }, function (err) {
-      if (err) {
-        throw err;
-      }
-      md.pipe(fs.createWriteStream('index.html'));
     });
+
+    md.on('data', function (data) {
+      convertedHTML += data;
+    });
+
+    md.on('end', function () {
+      const template = fs.readFileSync('template.html', 'utf-8');
+      const finalHtml = template.replace('{{content}}', convertedHTML);
+
+      fs.writeFileSync('index.html', finalHtml);
+      console.log("✅ index.html created successfully using custom template!");
+    });
+
+    md.on('error', function (err) {
+      console.error('Error while converting markdown:', err);
+      process.exit();
+    });
+
   } catch (e) {
-    console.error('>>>' + e);
+    console.error('>>> ' + e);
     process.exit();
   }
 };
 
-const main = async () => {
-  await getGoodFirstIssues();
-  await convertToHtml();
-};
 
 main();
