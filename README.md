@@ -346,3 +346,4 @@ This list gets updated every day at midnight.
 - [data: re-check that one provider's "Get a free key" link (keys_url) is still the page its docs link](https://github.com/pacocartones/free-llm-api-hub/issues/825)
 - [Good first issue: add the "Get a free key" link (keys_url) for one provider](https://github.com/pacocartones/free-llm-api-hub/issues/824)
 
+kissterm - студент, изучаю Git и open-source
