@@ -73,7 +73,10 @@ const getFilteredIssues = async (repo) => {
     const today = new Date();
     const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
 
-    return response.data.filter(issue => {
+    return response.data.filter((issue) => {
+      // GitHub 的 issues 接口也会返回 Pull Request，排除它们
+      if (issue.pull_request) return false;
+
       const updatedAt = new Date(issue.updated_at);
       return updatedAt > lastMonth;
     });
@@ -98,18 +101,24 @@ const getGoodFirstIssues = async () => {
       if ((Date.now() - start) > MAX_ELAPSED_TIME || issuesCount >= MAX_ISSUES_COUNT) break;
       console.log(`Fetching issues for ${repo.full_name}`);
       const issues = await getFilteredIssues(repo);
-      if (issues.length > 0) {
+      const remainingCount = MAX_ISSUES_COUNT - issuesCount;
+      const limitedIssues = issues.slice(0, remainingCount);
+
+      if (limitedIssues.length > 0) {
         goodFirstIssues.push({
-          repo: repo.full_name, repo_metrics: {
+          repo: repo.full_name,
+          repo_metrics: {
             stars: repo.stargazers_count,
             forks: repo.forks_count,
             open_issues: repo.open_issues_count,
             pushed_at: repo.pushed_at,
             updated_at: repo.updated_at,
             language: repo.language,
-          }, issues
+          },
+          issues: limitedIssues,
         });
-        issuesCount += issues.length;
+
+        issuesCount += limitedIssues.length;
       }
       await new Promise(resolve => setTimeout(resolve, WAIT_TIME));
     }
