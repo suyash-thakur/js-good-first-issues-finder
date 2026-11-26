@@ -2,6 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 const env = require('dotenv');
 const Markdown = require('markdown-to-html').Markdown;
+const excludedRepositories = require('./excluded-repositories.json');
 
 env.config();
 
@@ -38,6 +39,11 @@ const getCandidateRepos = async () => {
           const items = response.data.items || [];
           for (const repo of items) {
             console.log(repo.full_name);
+
+            if (excludedRepositories.includes(repo.full_name)) {
+              continue;
+            }
+
             if (!unique.has(repo.full_name)) {
               unique.set(repo.full_name, repo);
             }
